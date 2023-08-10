@@ -38,8 +38,12 @@ these are the two lines that you need if you just want to search through the tex
 You will need to get a youtube api key and cookies.txt in secrets.
 
 
-`pip3 install --upgrade google-api-python-client
+```
+pip3 install --upgrade google-api-python-client
+
 pip3 install yt_dlp
+
 pip3 install faster-whisper
-`
+
+```
 
