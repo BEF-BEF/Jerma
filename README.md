@@ -1,4 +1,5 @@
 # Jerma
+do pip installs
 run main.py
 comment out things until you stop getting errors
 
