@@ -15,5 +15,5 @@ You will need to get a youtube api key and cookies.txt in secrets.
 
     # Search within the indexed content. Input gets cleaned and tokenized so you can use punctuation and vArIouS capitalization.
     search_indexed("Crack time!")
-    
-    these are the two lines that you need if you just want to search through the text
+
+these are the two lines that you need if you just want to search through the text
