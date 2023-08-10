@@ -1,0 +1,768 @@
+outDirectories/Jerma Streams - The Jackbox Party Pack (Part 3)/transcription.txt
+outDirectories/Jerma Streams - The Binding of Isaac: Antibirth/transcription.txt
+outDirectories/Jerma Streams - Ember Knights [with Ster]/transcription.txt
+outDirectories/Jerma Streams - Wheel of Fortune (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Frog Detective 3 and Grotto Beasts Announcement/transcription.txt
+outDirectories/Jerma Streams - Blade and Sorcery (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Dead Rising 2: Off the Record (Part 3 Finale)/transcription.txt
+outDirectories/Jerma Streams - Scorn/transcription.txt
+outDirectories/Jerma Streams - The Binding of Isaac: Antibirth (Part 2)/transcription.txt
+outDirectories/Jerma Streams - The Legend of Bum-bo/transcription.txt
+outDirectories/Jerma Streams - Jerma Fan Games/transcription.txt
+outDirectories/Jerma Streams - Monster Rancher 4 (Part 2)/transcription.txt
+outDirectories/Jerma Streams - The Serpent Rogue/transcription.txt
+outDirectories/Jerma Streams - Pictopix/transcription.txt
+outDirectories/Jerma Streams - Modded Dark Souls 3/transcription.txt
+outDirectories/Jerma Streams - Hivemind and Chubby Bunny/transcription.txt
+outDirectories/Jerma Streams - Pikmin 2/transcription.txt
+outDirectories/Jerma Streams - Flashing Lights/transcription.txt
+outDirectories/Jerma Streams - AMID EVIL (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Fable II (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Barn Finders (Part 1)/transcription.txt
+outDirectories/Jerma Streams - Mount & Blade: Warband/transcription.txt
+outDirectories/Jerma Streams - Dreamcast Games/transcription.txt
+outDirectories/Jerma Streams - The Outer Worlds (Part 3 Finale)/transcription.txt
+outDirectories/Jerma Streams - Jump King/transcription.txt
+outDirectories/Jerma Streams - We Love Katamari Reroll + Royal Reverie (Part 2 Finale)/transcription.txt
+outDirectories/Jerma Streams - PlateUp! [With Ster]/transcription.txt
+outDirectories/Jerma Streams - The Closing Shift/transcription.txt
+outDirectories/Jerma Streams - Sekiro: Shadows Die Twice (Part 5 Finale)/transcription.txt
+outDirectories/Jerma Streams - Dead Rising/transcription.txt
+outDirectories/Jerma Streams - MS-DOS Games (Part 6)/transcription.txt
+outDirectories/Jerma Streams - Modded Black Ops III Zombies [with Criken UberHaxorNova and Tomato Gaming]/transcription.txt
+outDirectories/Jerma Streams - Tier Lists (Part 9) [FromSoftware Edition]/transcription.txt
+outDirectories/Jerma Streams - Cook Serve Delicious! (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Green Screen Movie Night (Part 1)/transcription.txt
+outDirectories/Jerma Streams - Dread X Collection (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Trying to play Fall Guys/transcription.txt
+outDirectories/Jerma Streams - The Lord of the Rings: The Fellowship of the Ring/transcription.txt
+outDirectories/Jerma Streams - The Sims 4 (Part 3)/transcription.txt
+outDirectories/Jerma Streams - House Flipper (Part 8)/transcription.txt
+outDirectories/Jerma Streams - Quick Talking Stream/transcription.txt
+outDirectories/Jerma Streams - SpongeBob SquarePants: Battle for Bikini Bottom – Rehydrated/transcription.txt
+outDirectories/Jerma Streams - Watching Old Videos (Part 3)/transcription.txt
+outDirectories/Jerma Streams - Xbox Games (Part 3)/transcription.txt
+outDirectories/Jerma Streams - Slime Rancher (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Little Hope [with Etalyx]/transcription.txt
+outDirectories/Jerma Streams - Darkwood (Part 3 Finale)/transcription.txt
+outDirectories/Jerma Streams - Vampire Survivors/transcription.txt
+outDirectories/Jerma Streams - Celeste (Part 2 Finale)/transcription.txt
+outDirectories/Jerma Streams - Pre-Dollhouse Q&A Talking Stream/transcription.txt
+outDirectories/Jerma Streams - GeoGuessr (Part 3)/transcription.txt
+outDirectories/Jerma Streams - The Mortuary Assistant/transcription.txt
+outDirectories/Jerma Streams - Siren/transcription.txt
+outDirectories/Jerma Streams - We. The Revolution/transcription.txt
+outDirectories/Jerma Streams - Sorcery! (Part 2 2nd Playthrough)/transcription.txt
+outDirectories/Jerma Streams - Smite/transcription.txt
+outDirectories/Jerma Streams - DAVE THE DIVER/transcription.txt
+outDirectories/Jerma Streams - Bread & Fred [with Ster]/transcription.txt
+outDirectories/Jerma Streams - Community Content Night (Part 3)/transcription.txt
+outDirectories/Jerma Streams - WarioWare: Get It Together! (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Iron Lung/transcription.txt
+outDirectories/Jerma Streams - Green Screen Stream (Part 3)/transcription.txt
+outDirectories/Jerma Streams - Kinect Games (Part 3)/transcription.txt
+outDirectories/Jerma Streams - Green Screen Movie Night (Part 4) [DLC Edtion]/transcription.txt
+outDirectories/Jerma Streams - Keep Talking and Nobody Explodes [with Joel (Vargskelethor)]/transcription.txt
+outDirectories/Jerma Streams - Warhammer 40 000: Darktide (Part 2) [With Ster Vinny Criken and VRJosh ]/transcription.txt
+outDirectories/Jerma Streams - FMV Games (Part 4)/transcription.txt
+outDirectories/Jerma Streams - Red Dead Redemption 2/transcription.txt
+outDirectories/Jerma Streams - Slime Rancher/transcription.txt
+outDirectories/Jerma Streams - Lifeline/transcription.txt
+outDirectories/Jerma Streams - The Jackbox Party Pack (Part 5) [with Ster and Ashley]/transcription.txt
+outDirectories/Jerma Streams - The Baseball Stream Behind the Scenes/transcription.txt
+outDirectories/Jerma Streams - The Stanley Parable: Ultra Deluxe/transcription.txt
+outDirectories/Jerma Streams - Call of Duty: Black Ops II Tournament/transcription.txt
+outDirectories/Jerma Streams - Bakery Simulator/transcription.txt
+outDirectories/Jerma Streams - Otto Stream/transcription.txt
+outDirectories/Jerma Streams - Resident Evil 4 Remake/transcription.txt
+outDirectories/Jerma Streams - Trepang2/transcription.txt
+outDirectories/Jerma Streams - 20 Minutes Till Dawn/transcription.txt
+outDirectories/Jerma Stream - The Movies (Part 5)/transcription.txt
+outDirectories/Jerma Streams - Public Domain Movie Night (Part 2) [Halloween Special]/transcription.txt
+outDirectories/Jerma Streams - Sam & Max Beyond Time and Space/transcription.txt
+outDirectories/Jerma Streams - Nancy Drew: Midnight in Salem (Part A)/transcription.txt
+outDirectories/Jerma Streams - The Sims 4 (Part 6)/transcription.txt
+outDirectories/Jerma Streams - ULTRAKILL (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Wild Hearts [With Vinny Vinesauce]/transcription.txt
+outDirectories/Jerma Streams - Talk to Transformer (Part 3)/transcription.txt
+outDirectories/Jerma Streams - Custom Robo/transcription.txt
+outDirectories/Jerma Streams - Hitman 3 (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Chop Goblins/transcription.txt
+outDirectories/Jerma Streams - MS-DOS Games (Part 8)/transcription.txt
+outDirectories/Jerma Streams - Chat Playing Bloons Tower Defense 5/transcription.txt
+outDirectories/Jerma Streams - Gotcha Force (Part 3 Finale)/transcription.txt
+outDirectories/Jerma Streams - Chocolatier: Decadence by Design/transcription.txt
+outDirectories/Jerma Streams - Lifeline (Part 2 Finale)/transcription.txt
+outDirectories/Jerma Streams - Half-Life: Alyx/transcription.txt
+outDirectories/Jerma Streams - Monster Rancher 2 DX (Part 3)/transcription.txt
+outDirectories/Jerma Streams - Pokémon Channel/transcription.txt
+outDirectories/Jerma Streams - Heroes of Might and Magic III: The Restoration of Erathia (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Minecraft VR/transcription.txt
+outDirectories/Jerma Streams - At Dead Of Night/transcription.txt
+outDirectories/Jerma Streams - PlayStation 1 Games (Part 3) and PlayStation 2 Games (Part 6)/transcription.txt
+outDirectories/Jerma Streams - Keep Talking and Nobody Explodes (Part 2) [with Joel (Vargskelethor)]/transcription.txt
+outDirectories/Jerma Streams - Untitled Goose Game/transcription.txt
+outDirectories/Jerma Streams - Speaking Simulator and ELDERBORN/transcription.txt
+outDirectories/Jerma Streams - Super Monkey Ball/transcription.txt
+outDirectories/Jerma Streams - Wrestling Empire (Part 4)/transcription.txt
+outDirectories/Jerma Streams - The Invisible Hand/transcription.txt
+outDirectories/Jerma Streams - RISK: Global Domination [With Ludwig Cr1TiKaL and Connor]/transcription.txt
+outDirectories/Jerma Streams - VR Games (Part 15)/transcription.txt
+outDirectories/Jerma Streams - Jump King (Part 2 Finale)/transcription.txt
+outDirectories/Jerma Streams - Stay Out of the House/transcription.txt
+outDirectories/Jerma Streams - Sorcery! (Part 8 2nd Playthrough)/transcription.txt
+outDirectories/Jerma Streams - Terraria [with Ster]/transcription.txt
+outDirectories/Jerma Streams - Big Brain Academy: Brain vs. Brain/transcription.txt
+outDirectories/Jerma Streams - Steam Next Fest Demos (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Viva Piñata: Trouble in Paradise (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Hearthstone/transcription.txt
+outDirectories/Jerma Streams - Space Channel 5/transcription.txt
+outDirectories/Jerma Streams - Drug Dealer Simulator/transcription.txt
+outDirectories/Jerma Streams - Outer Wilds (Part 2 Finale)/transcription.txt
+outDirectories/Jerma Streams - Blitz: The League II/transcription.txt
+outDirectories/Jerma Streams - Red Dead Online (Part 1)/transcription.txt
+outDirectories/Jerma Streams - Nancy Drew: Secrets Can Kill/transcription.txt
+outDirectories/Jerma Streams - Desperados III/transcription.txt
+outDirectories/Jerma Streams - Terraria (Part 3) [with Ster]/transcription.txt
+outDirectories/Jerma Streams - Green Screen Movie Night (Part 3) [Encore Edition]/transcription.txt
+outDirectories/Jerma Streams - Drug Dealer Simulator (Part 2)/transcription.txt
+outDirectories/Jerma Streams - VR Games (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Dying Light 2 (Part 2) [with Ster]/transcription.txt
+outDirectories/Jerma Streams - F.E.A.R. (Part 2 Finale)/transcription.txt
+outDirectories/Jerma Streams - Red Dead Redemption 2 (Part 6)/transcription.txt
+outDirectories/Jerma Streams - Turmoil/transcription.txt
+outDirectories/Jerma Streams - Hades/transcription.txt
+outDirectories/Jerma Streams - Five Nights at Freddy's/transcription.txt
+outDirectories/Jerma Streams - Elden Ring (Part 17) [Randomizer With Ster]/transcription.txt
+outDirectories/Jerma Streams - SuchArt: Creative Space/transcription.txt
+outDirectories/Jerma Streams - Viscera Cleanup Detail (Part 3) [with Ster]/transcription.txt
+outDirectories/Jerma Streams - Elden Ring (Part 16)/transcription.txt
+outDirectories/Jerma Streams - WarioWare Inc.: Mega Party Game$!/transcription.txt
+outDirectories/Jerma Streams - Online Tests/transcription.txt
+outDirectories/Jerma Streams - Tiny Toon Adventures: Wacky Sports Challenge/transcription.txt
+outDirectories/Jerma Streams - Elden Ring (Part 11)/transcription.txt
+outDirectories/Jerma Streams - Elden Ring (Part 10)/transcription.txt
+outDirectories/Jerma Streams - Shadow of Rome/transcription.txt
+outDirectories/Jerma Streams - Super Mario RPG: Legend of the Seven Stars (Part 2)/transcription.txt
+outDirectories/Jerma Streams - The Eternal Cylinder/transcription.txt
+outDirectories/Jerma Streams - Community Content Night/transcription.txt
+outDirectories/Jerma Streams - The Coin Game (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Playstation 2 Games (Part 5)/transcription.txt
+outDirectories/Jerma Streams - Sekiro: Shadows Die Twice (Part 3)/transcription.txt
+outDirectories/Jerma Streams - Super Mario Sunshine/transcription.txt
+outDirectories/Jerma Streams - Um Jammer Lammy (Part 2)/transcription.txt
+outDirectories/Jerma Streams - The Archaeology Stream/transcription.txt
+outDirectories/Jerma Streams - The Game Awards 2020/transcription.txt
+outDirectories/Jerma Streams - Streamer Life Simulator/transcription.txt
+outDirectories/Jerma Streams - Talk to Transformer/transcription.txt
+outDirectories/Jerma Streams - Community Content Night (Part 7)/transcription.txt
+outDirectories/Jerma Streams - Bushido Blade 1 and 2/transcription.txt
+outDirectories/Jerma Streams - Resident Evil 4 Remake (Part 5)/transcription.txt
+outDirectories/Jerma Streams - Team Fortress 2 (Part 4) [with Ster] Summer Update 2023/transcription.txt
+outDirectories/Jerma Streams - The Incredible Hulk: Ultimate Destruction (Part 2 Finale)/transcription.txt
+outDirectories/Jerma Streams - Roblox [With Ster and Pokelawls]/transcription.txt
+outDirectories/Jerma Streams - MultiVersus (Part 3)/transcription.txt
+outDirectories/Jerma Streams - Space Warlord Organ Trading Simulator/transcription.txt
+outDirectories/Jerma Streams - Super Mario Maker 2 (Part 4)/transcription.txt
+outDirectories/Jerma Streams - BeamNG.drive/transcription.txt
+outDirectories/Jerma Streams - Derailed Q&A/transcription.txt
+outDirectories/Jerma Streams - Man of Medan [with Etalyx]/transcription.txt
+outDirectories/Jerma Streams - Crash Bandicoot 4: It's About Time/transcription.txt
+outDirectories/Jerma Streams - Monster Rancher 2 DX/transcription.txt
+outDirectories/Jerma Streams - Ikaruga/transcription.txt
+outDirectories/Jerma Streams - Asura's Wrath/transcription.txt
+outDirectories/Jerma Streams - Pizza Tower/transcription.txt
+outDirectories/Jerma Streams - The Legend of Zelda: Breath of the Wild (Part 6)/transcription.txt
+outDirectories/Jerma Streams - Slime Rancher 2/transcription.txt
+outDirectories/Jerma Streams - Leaf Blower Revolution - Idle Game/transcription.txt
+outDirectories/Jerma Streams - Planet Zoo/transcription.txt
+outDirectories/Jerma Streams - The Thing/transcription.txt
+outDirectories/Jerma Streams - Metal Wolf Chaos XD/transcription.txt
+outDirectories/Jerma Streams - Yakuza 0 (Part 1)/transcription.txt
+outDirectories/Jerma Streams - No More Heroes/transcription.txt
+outDirectories/Jerma Streams - Call of Juarez: Gunslinger/transcription.txt
+outDirectories/Jerma Streams - Pac-Man Museum +/transcription.txt
+outDirectories/Jerma Streams - Spooky's Jump Scare Mansion: HD Renovation/transcription.txt
+outDirectories/Jerma Streams - Hotline Miami 2: Wrong Number (Part 2 Finale)/transcription.txt
+outDirectories/Jerma Streams - Christmas Special Stream Awards 2022 (realjermachristmas Channel Version)/transcription.txt
+outDirectories/Jerma Streams - Hitman 3 (Part 3 Finale)/transcription.txt
+outDirectories/Jerma Streams - Hitman 3 (Part 4)/transcription.txt
+outDirectories/Jerma Streams - The Sims 3/transcription.txt
+outDirectories/Jerma Streams - Elden Ring (Part 20) [Randomizer With Ster]/transcription.txt
+outDirectories/Jerma Streams - Warhammer 40 000: Darktide [With Vinny Criken Charborg VRJosh and Strippin]/transcription.txt
+outDirectories/Jerma Streams - The Green Screen Stream/transcription.txt
+outDirectories/Jerma Streams - Wobbledogs/transcription.txt
+outDirectories/Jerma Streams - Building A Birdhouse/transcription.txt
+outDirectories/Jerma Streams - Dorfromantik/transcription.txt
+outDirectories/Jerma Streams - Fall Guys (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Tier List (Part 11) [Taste Test Edition]/transcription.txt
+outDirectories/Jerma Streams - Seaman/transcription.txt
+outDirectories/Jerma Streams - Red Dead Online (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Dead Rising 2: Off the Record (Part 2)/transcription.txt
+outDirectories/Jerma Streams - No More Heroes (Part 2 Finale)/transcription.txt
+outDirectories/Jerma Streams - Nintendo Direct E3 2019/transcription.txt
+outDirectories/Jerma Streams - Nancy Drew: Sea of Darkness/transcription.txt
+outDirectories/Jerma Streams - FMV Games (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Community Content Night (Part 4)/transcription.txt
+outDirectories/Jerma Streams - The Dollhouse Stream Day 2/transcription.txt
+outDirectories/Jerma Streams - The Jackbox Party Pack (Part 4)/transcription.txt
+outDirectories/Jerma Streams - VR Games (Part 3)/transcription.txt
+outDirectories/Jerma Streams - Kinect Games/transcription.txt
+outDirectories/Jerma Streams - The Game Awards 2021/transcription.txt
+outDirectories/Jerma Streams - PaRappa the Rapper 1 and 2/transcription.txt
+outDirectories/Jerma Streams - GeoGuessr (Part 4) [with Ster]/transcription.txt
+outDirectories/Jerma Streams - AI Dungeon (Part 2) and Talk to Transformer (Part 4)/transcription.txt
+outDirectories/Jerma Streams - Elden Ring (Part 19) [Randomizer With Ster]/transcription.txt
+outDirectories/Jerma Streams - 100k Smite Tournament/transcription.txt
+outDirectories/Jerma Streams - Black & White 2/transcription.txt
+outDirectories/Jerma Streams - Destiny 2 PVP/transcription.txt
+outDirectories/Jerma Streams - Pictopix (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Sorcery! (Part 4 2nd Playthrough)/transcription.txt
+outDirectories/Jerma Streams - Elden Ring (Part 5)/transcription.txt
+outDirectories/Jerma Streams - Sam & Max Save the World/transcription.txt
+outDirectories/Jerma Streams - Pupperazzi/transcription.txt
+outDirectories/Jerma Streams - Sam & Max: The Devil's Playhouse/transcription.txt
+outDirectories/Jerma Streams - Gotcha Force/transcription.txt
+outDirectories/Jerma Streams - Final Fantasy XVI Demo (Part 1)/transcription.txt
+outDirectories/Jerma Streams - FTK Stream 2/transcription.txt
+outDirectories/Jerma Streams - AMID EVIL/transcription.txt
+outDirectories/Jerma Streams - Half-Life: Alyx (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Rain World/transcription.txt
+outDirectories/Jerma Streams - Saints Row 2 (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Hardspace: Shipbreaker/transcription.txt
+outDirectories/Jerma Streams - Dinosaur Fossil Hunter/transcription.txt
+outDirectories/Jerma Streams - Picross S/transcription.txt
+outDirectories/Jerma Streams - Worldbox/transcription.txt
+outDirectories/Jerma Streams - 20 Minutes Till Dawn (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Tier Lists (Part 6)/transcription.txt
+outDirectories/Jerma Streams - Cuphead: The Delicious Last Course/transcription.txt
+outDirectories/Jerma Streams - Nintendo Labo (Part 4)/transcription.txt
+outDirectories/Jerma Streams - Spore (Part 1)/transcription.txt
+outDirectories/Jerma Streams - The Chronicles of Riddick: Escape from Butcher Bay (Part 1)/transcription.txt
+outDirectories/Jerma Streams - Kuukiyomi 1 2 and 3/transcription.txt
+outDirectories/Jerma Streams - Dreamcast Games (Part 4)/transcription.txt
+outDirectories/Jerma Streams - The Eternal Cylinder (Part 3 Finale)/transcription.txt
+outDirectories/Jerma Streams - Yakuza 0 (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Flash Games (Part 3)/transcription.txt
+outDirectories/Jerma Streams - Earth Defense Force 5 [with Ster and Etalyx]/transcription.txt
+outDirectories/Jerma Streams - Splatoon 3 (Part 2) [with Vinny (Vinesauce)]/transcription.txt
+outDirectories/Jerma Streams - Kinect Games (Part 4)/transcription.txt
+outDirectories/Jerma Streams - Disc Room/transcription.txt
+outDirectories/Jerma Streams - Universal Paperclips/transcription.txt
+outDirectories/Jerma Streams - Public Domain Movie Night/transcription.txt
+outDirectories/Jerma Streams - The Sims 4 (Part 4)/transcription.txt
+outDirectories/Jerma Streams - Only Up!/transcription.txt
+outDirectories/Jerma Streams - Sorcery! (2nd Playthrough)/transcription.txt
+outDirectories/Jerma Streams - Gotham Knights (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Trepang2 (Part 2 Finale)/transcription.txt
+outDirectories/Jerma Streams - Mario Golf: Super Rush/transcription.txt
+outDirectories/Jerma Streams - Rhythm Heaven Fever/transcription.txt
+outDirectories/Jerma Streams - Elden Ring (Part 12)/transcription.txt
+outDirectories/Jerma Streams - Splatoon 3/transcription.txt
+outDirectories/Jerma Streams - Later Alligator/transcription.txt
+outDirectories/Jerma Streams - House Flipper (Part 7)/transcription.txt
+outDirectories/Jerma Streams - Cities: Skylines/transcription.txt
+outDirectories/Jerma Streams - VR Games (Part 6) [With Ster]/transcription.txt
+outDirectories/Jerma Streams - Writing A Children's Book/transcription.txt
+outDirectories/Jerma Streams - The Chronicles of Riddick: Escape from Butcher Bay (Part 2 Finale)/transcription.txt
+outDirectories/Jerma Streams - Dark and Darker (Part 2) [With Ster Vinny and JustJoels]/transcription.txt
+outDirectories/Jerma Streams - Scribblenauts Unlimited/transcription.txt
+outDirectories/Jerma Streams - We Love Katamari Reroll + Royal Reverie/transcription.txt
+outDirectories/Jerma Streams - Hidden Folks/transcription.txt
+outDirectories/Jerma Streams - Gotham Knights (Part 3) [With HasanAbi]/transcription.txt
+outDirectories/Jerma Streams - Opening TF2 Crates/transcription.txt
+outDirectories/Jerma Streams - Glover/transcription.txt
+outDirectories/Jerma Streams - Dead Rising (Part 2 Finale)/transcription.txt
+outDirectories/Jerma Streams - Mario's Game Gallery/transcription.txt
+outDirectories/Jerma Streams - Nintendo Labo (Part 5)/transcription.txt
+outDirectories/Jerma Streams - SuchArt: Genius Artist Simulator/transcription.txt
+outDirectories/Jerma Streams - The Lord of the Rings: The Two Towers/transcription.txt
+outDirectories/Jerma Streams - The Dollhouse Stream Day 1 (Overlay Enabled)/transcription.txt
+outDirectories/Jerma Streams - The Carnival Stream/transcription.txt
+outDirectories/Jerma Streams - Chocolatier: Decadence by Design (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Chibi-Robo! (Part 2a)/transcription.txt
+outDirectories/Jerma Streams - Darkest Dungeon II/transcription.txt
+outDirectories/Jerma Streams - Cooking Simulator (Part 3)/transcription.txt
+outDirectories/Jerma Streams - Orcs Must Die! 3 [with Ster]/transcription.txt
+outDirectories/Jerma Streams - Signal Simulator/transcription.txt
+outDirectories/Jerma Streams - Red Dead Redemption 2 (Part 4)/transcription.txt
+outDirectories/Jerma Streams - The Quiet Man (Part 1)/transcription.txt
+outDirectories/Jerma Streams - The Legend of Zelda: Breath of the Wild (Part 7)/transcription.txt
+outDirectories/Jerma Streams - Hylics/transcription.txt
+outDirectories/Jerma Streams - The Dollhouse Stream Behind the Scenes/transcription.txt
+outDirectories/Jerma Streams - Diablo II (Part 2) and Tier Lists (Part 5)/transcription.txt
+outDirectories/Jerma Streams - Community Activity Book/transcription.txt
+outDirectories/Jerma Streams - Trine 4: The Nightmare Prince (Part 2) [with Ster and Ashley]/transcription.txt
+outDirectories/Jerma Streams - Ancestors: The Humankind Odyssey/transcription.txt
+outDirectories/Jerma Streams - VR Games and Blade and Sorcery (Part 1)/transcription.txt
+outDirectories/Jerma Streams - Papa's Freezeria Deluxe/transcription.txt
+outDirectories/Jerma Streams - E3 Trailers and AMD Conference E3 2019/transcription.txt
+outDirectories/Archive Update Video - Official Partnership Channel Improvements and ChatReplay/transcription.txt
+outDirectories/Jerma Streams - Devil May Cry 3: Dante's Awakening (Part 2 Finale)/transcription.txt
+outDirectories/Jerma Streams - Elden Ring (Part 4)/transcription.txt
+outDirectories/Jerma Streams - The Death of Jerma/transcription.txt
+outDirectories/Jerma Streams - Hotline Miami/transcription.txt
+outDirectories/Jerma Streams - Blood/transcription.txt
+outDirectories/Jerma Streams - Trombone Champ/transcription.txt
+outDirectories/Jerma Streams - Half-Life: Alyx (Part 3 Finale)/transcription.txt
+outDirectories/Jerma Streams - Dusk (Part 2 Finale)/transcription.txt
+outDirectories/Jerma Streams - Christmas Special Stream Awards 2022 Behind the Scenes/transcription.txt
+outDirectories/Jerma Streams - Star Wars Jedi Knight: Jedi Academy/transcription.txt
+outDirectories/Jerma Streams - Stuntman: Ignition/transcription.txt
+outDirectories/Jerma Streams - Gas Station Simulator/transcription.txt
+outDirectories/Jerma Streams - The Sims/transcription.txt
+outDirectories/Jerma Streams - The Legend of Zelda: Breath of the Wild (Part 2)/transcription.txt
+outDirectories/Jerma Streams - VR Games (Part 8)/transcription.txt
+outDirectories/Jerma Streams - Blitz: The League II (Part 2 Finale)/transcription.txt
+outDirectories/Jerma Streams - Elden Ring (Part 8)/transcription.txt
+outDirectories/Jerma Streams - VR Games (Part 7) and Talking/transcription.txt
+outDirectories/Jerma Streams - Sorcery! (Part 7 2nd Playthrough)/transcription.txt
+outDirectories/Jerma Streams - Wildermyth [With Ster and Strippin]/transcription.txt
+outDirectories/Jerma Streams - The Legend of Zelda: Breath of the Wild (Part 9)/transcription.txt
+outDirectories/Jerma Streams - Saw: The Video Game (Part 2 Finale)/transcription.txt
+outDirectories/Jerma Streams - Teardown/transcription.txt
+outDirectories/Jerma Streams - Kenshi (Part 2)/transcription.txt
+outDirectories/Jerma Streams - MS-DOS Games (Part 5)/transcription.txt
+outDirectories/Jerma Streams - Hitman 2 (Part 3)/transcription.txt
+outDirectories/Jerma Streams - Spore (Part 2 Finale)/transcription.txt
+outDirectories/Jerma Streams - Square Enix Conference E3 2019/transcription.txt
+outDirectories/Jerma Streams - Sniper Ghost Warrior Contracts/transcription.txt
+outDirectories/Jerma Streams - 3DO Games (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Cities: Skylines (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Black & White (Part 2)/transcription.txt
+outDirectories/Jerma Streams - The Last Hero of Nostalgaia (Part 3 Finale)/transcription.txt
+outDirectories/Jerma Streams - Pizza Tower (Part 2 Finale)/transcription.txt
+outDirectories/Jerma Streams - Hitman 3 VR/transcription.txt
+outDirectories/Jerma Streams - A Chair in a Room : Greenwater/transcription.txt
+outDirectories/Jerma Streams - Two Point Campus/transcription.txt
+outDirectories/Jerma Streams - Disassembly VR/transcription.txt
+outDirectories/Jerma Streams - FMV Games (Part 3)/transcription.txt
+outDirectories/Jerma Streams - The Dollhouse Stream Day 1/transcription.txt
+outDirectories/Jerma Streams - Days Gone/transcription.txt
+outDirectories/Jerma Streams - Monster Lab and Cabela's Big Game Hunter 2005 Adventures/transcription.txt
+outDirectories/Jerma Streams - Pictopix (Part 4)/transcription.txt
+outDirectories/The SUS Guy Streams - Among Us VR/transcription.txt
+outDirectories/Jerma Streams - Gotham Knights/transcription.txt
+outDirectories/Jerma Streams - Superliminal/transcription.txt
+outDirectories/Jerma Streams - Elden Ring (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Barn Finders (Part 0) and AI Dungeon (Part 3)/transcription.txt
+outDirectories/Jerma Streams - Mario Kart 8 Deluxe Tournament/transcription.txt
+outDirectories/Jerma Streams - The Daedalus Encounter/transcription.txt
+outDirectories/Jerma Streams - Watching Infomercials (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Hamster Playground/transcription.txt
+outDirectories/Jerma Streams - The Lord of the Rings: Gollum/transcription.txt
+outDirectories/Jerma Streams - Resident Evil 4 Remake (Part 4 Finale)/transcription.txt
+outDirectories/Jerma Streams - Cooking Simulator (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Playstation 2 Games (Part 4)/transcription.txt
+outDirectories/Jerma Streams - One Hand Clapping/transcription.txt
+outDirectories/Jerma Streams - Fishing Planet/transcription.txt
+outDirectories/Jerma Streams - Itch.io Games and Everhood (Part 0)/transcription.txt
+outDirectories/Jerma Streams - Pikmin 2 (Part 3 Finale)/transcription.txt
+outDirectories/Jerma Streams - The Legend of Zelda: Breath of the Wild (Part 4)/transcription.txt
+outDirectories/Jerma Streams - The Dollhouse Stream Day 3 (Overlay Enabled)/transcription.txt
+outDirectories/Jerma Streams - Elden Ring (Part 7)/transcription.txt
+outDirectories/Jerma Streams - Talk to Transformer (Part 2)/transcription.txt
+outDirectories/Jerma Streams - The Black Masses/transcription.txt
+outDirectories/Jerma Streams - Sam & Max Save the World (Part 3 Finale)/transcription.txt
+outDirectories/Jerma Streams - The Movies (Part 6)/transcription.txt
+outDirectories/Jerma Streams - Elden Ring (Part 14 Finale)/transcription.txt
+outDirectories/Jerma Streams - The Sims 3 (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Flash Games (Part 4)/transcription.txt
+outDirectories/Jerma Streams - House Flipper (Part 5)/transcription.txt
+outDirectories/Jerma Streams - Family Computer System (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Sorcery! (Part 3 2nd Playthrough)/transcription.txt
+outDirectories/Jerma Streams - Halo: Reach [with Joel (Vargskelethor)]/transcription.txt
+outDirectories/Jerma Streams - Jump King (Part 4)/transcription.txt
+outDirectories/Jerma Streams - New Pokémon Snap/transcription.txt
+outDirectories/Jerma Streams - Star Wars Jedi Knight: Jedi Academy (Part 2 Finale)/transcription.txt
+outDirectories/Jerma Streams - Mercenaries 2: World in Flames/transcription.txt
+outDirectories/Jerma Streams - Lethal League Blaze [with Ster]/transcription.txt
+outDirectories/Jerma Streams - The Game Awards 2018/transcription.txt
+outDirectories/Jerma Streams - Monster Rancher 4 (Part 3)/transcription.txt
+outDirectories/Jerma Streams - Deltarune Chapter 2 (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Animal Crossing: New Horizons/transcription.txt
+outDirectories/Jerma Streams - Dead Rising 2: Off the Record/transcription.txt
+outDirectories/Jerma Streams - Who Will Replace ME?/transcription.txt
+outDirectories/Jerma Streams - House Flipper (Part 9)/transcription.txt
+outDirectories/Jerma Streams - Viva Piñata/transcription.txt
+outDirectories/Jerma Streams - Chibi-Robo! (Part 2b Finale)/transcription.txt
+outDirectories/Jerma Streams - Majesty/transcription.txt
+outDirectories/Jerma Streams - Steam Next Fest Demos/transcription.txt
+outDirectories/Jerma Streams - Super Auto Pets/transcription.txt
+outDirectories/Jerma Streams - Dread X Collection (Part 3)/transcription.txt
+outDirectories/Jerma Streams - Deep Rock Galactic [with Ster]/transcription.txt
+outDirectories/Jerma Streams - Cook Serve Delicious!/transcription.txt
+outDirectories/Jerma Streams - The Thing (Part 2 Finale)/transcription.txt
+outDirectories/Jerma Streams - The Game Awards 2019 and FTK Stream Talk/transcription.txt
+outDirectories/Jerma Streams - VR Games (Part 5) [with Ster]/transcription.txt
+outDirectories/Jerma Streams - Diablo II (Part 3)/transcription.txt
+outDirectories/Jerma Streams - Saw: The Video Game/transcription.txt
+outDirectories/Jerma Streams - Square Enix Conference E3 2021[with Ster]/transcription.txt
+outDirectories/Jerma Streams - Monster Rancher 2 DX (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Outer Wilds/transcription.txt
+outDirectories/Jerma Streams - The Green Screen Stream (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Tony Hawk's Pro Skater 2/transcription.txt
+outDirectories/Jerma Streams - Disney Infinity 3.0/transcription.txt
+outDirectories/Jerma Streams - Saw II: Flesh & Blood/transcription.txt
+outDirectories/Jerma Streams - Monster Rancher 4/transcription.txt
+outDirectories/Jerma Streams - Tier Lists (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Saints Row 2/transcription.txt
+outDirectories/Jerma Streams - MS-DOS Games (Part 4)/transcription.txt
+outDirectories/Jerma Streams - Beautiful Katamari (Part 2 Finale)/transcription.txt
+outDirectories/Jerma Streams - Diablo II/transcription.txt
+outDirectories/Jerma Streams - No More Heroes III/transcription.txt
+outDirectories/Jerma Streams - Mordhau/transcription.txt
+outDirectories/Jerma Streams - Kenshi/transcription.txt
+outDirectories/Jerma Streams - F.E.A.R. 2: Project Origin/transcription.txt
+outDirectories/Jerma Streams - The Lord of the Rings: The Return of the King/transcription.txt
+outDirectories/Jerma Streams - Dread X Collection/transcription.txt
+outDirectories/Jerma Streams - House Flipper (Part 10)/transcription.txt
+outDirectories/Jerma Streams - Dreams (Part 3)/transcription.txt
+outDirectories/Jerma Streams - Recettear: An Item Shop's Tale/transcription.txt
+outDirectories/Jerma Streams - PowerWash Simulator/transcription.txt
+outDirectories/Jerma Streams - Community Content Night (Part 6)/transcription.txt
+outDirectories/Jerma Streams - Black & White 2 (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Viva Piñata: Trouble in Paradise/transcription.txt
+outDirectories/Jerma Streams - Logical Journey of the Zoombinis (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Skribbl.io and Doodle Place/transcription.txt
+outDirectories/Jerma Streams - Mega Man Legends (Part 3 Finale)/transcription.txt
+outDirectories/Jerma Streams - Internet Cafe Simulator 2/transcription.txt
+outDirectories/Jerma Streams - 3DO Games (Part 3)/transcription.txt
+outDirectories/Jerma Streams - Bugsnax/transcription.txt
+outDirectories/Jerma Streams - Red Dead Redemption 2 (Part 5)/transcription.txt
+outDirectories/Jerma Streams - Phasmophobia (Part 2) [with Vinny (Vinesauce) Ross (RubberRoss) and Liam Triforce]/transcription.txt
+outDirectories/Jerma Streams - Community Content Night (Part 2)/transcription.txt
+outDirectories/Jerma Streams - JermaSlots/transcription.txt
+outDirectories/Jerma Streams - Elden Ring (Part 21) [Randomizer With Ster]/transcription.txt
+outDirectories/Jerma Streams - The Quiet Man (Part 2 Finale)/transcription.txt
+outDirectories/Jerma Streams - Super Mario Maker 2 (Part 3)/transcription.txt
+outDirectories/Jerma Streams - Dragon's Dogma: Dark Arisen/transcription.txt
+outDirectories/Jerma Streams - Green Screen Movie Night (Part 5) [DLC Edtion]/transcription.txt
+outDirectories/Jerma Streams - No More Heroes 2: Desperate Struggle (Part 2 Finale)/transcription.txt
+outDirectories/Jerma Streams - Um Jammer Lammy/transcription.txt
+outDirectories/Jerma Streams - NGU and Hot Lava/transcription.txt
+outDirectories/Jerma Streams - L.A. Noire (Part 3)/transcription.txt
+outDirectories/Jerma Streams - Thrillville: Off the Rails/transcription.txt
+outDirectories/Jerma Streams - The Long Drive/transcription.txt
+outDirectories/Jerma Streams - Flash Games (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Watching Infomercials/transcription.txt
+outDirectories/Jerma Streams - Browser Quizzes (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Hatsune Miku Logic Paint S/transcription.txt
+outDirectories/Jerma Streams - Cooking Simulator (Part 1)/transcription.txt
+outDirectories/Jerma Streams - The Sims (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Alter Ego/transcription.txt
+outDirectories/Jerma Streams - Sorcery! (Part 6 2nd Playthrough)/transcription.txt
+outDirectories/Jerma Streams - Farmer's Dynasty/transcription.txt
+outDirectories/Jerma Streams - Bugleberry's Cauldron Hot Tub/transcription.txt
+outDirectories/Jerma Streams - Tools Up! [with Ster and Etalyx]/transcription.txt
+outDirectories/Jerma Streams - Species: Artificial Life Real Evolution/transcription.txt
+outDirectories/Jerma Streams - Terraria (Part 4 Finale) [with Ster]/transcription.txt
+outDirectories/Jerma Streams - Feed and Grow: Fish/transcription.txt
+outDirectories/Jerma Streams - Dreams/transcription.txt
+outDirectories/Jerma Streams - STDWTDOBA INTBTIAPTLINR/transcription.txt
+outDirectories/Jerma Streams - Ubisoft Conference E3 2019/transcription.txt
+outDirectories/Jerma Streams - King of Retail/transcription.txt
+outDirectories/Jerma Streams - Elden Ring (Part 6)/transcription.txt
+outDirectories/Jerma Streams - Sekiro: Shadows Die Twice/transcription.txt
+outDirectories/Jerma Streams - Street Fighter 6/transcription.txt
+outDirectories/Jerma Streams - Resident Evil 2 Remake (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Hitman 2 (Part 5)/transcription.txt
+outDirectories/Jerma Streams - Command & Conquer: Red Alert/transcription.txt
+outDirectories/Jerma Streams - Streets of Rogue/transcription.txt
+outDirectories/Jerma Streams - WWE 2K19/transcription.txt
+outDirectories/Jerma Streams - Universal Studios Theme Parks Adventure/transcription.txt
+outDirectories/Jerma Streams - Beautiful Katamari/transcription.txt
+outDirectories/Jerma Streams - No More Heroes III (Part 3 Finale)/transcription.txt
+outDirectories/Jerma Streams - Deltarune Chapter 1/transcription.txt
+outDirectories/Jerma Streams - Cook Serve Delicious! 2/transcription.txt
+outDirectories/Jerma Streams - Incredible Crisis/transcription.txt
+outDirectories/Jerma Streams - Noita/transcription.txt
+outDirectories/Jerma Streams - Clock Tower 3/transcription.txt
+outDirectories/Jerma Streams - The Baseball Stream/transcription.txt
+outDirectories/Jerma Streams - Agent Roswell/transcription.txt
+outDirectories/Jerma Streams - Sam & Max Save the World (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Heroes of Might and Magic III: The Restoration of Erathia/transcription.txt
+outDirectories/Jerma Streams - Watching 80's 90's and 00's Commercials/transcription.txt
+outDirectories/Jerma Streams - Watching Old Streams and Videos (Part 4)/transcription.txt
+outDirectories/Jerma Streams - Webbed/transcription.txt
+outDirectories/Jerma Streams - Chibi-Robo! (Part 1)/transcription.txt
+outDirectories/Jerma Streams - Game Show Games and Wheel of Fortune (Part 1)/transcription.txt
+outDirectories/Jerma Streams - Slime Rancher (Part 3 Finale)/transcription.txt
+outDirectories/Jerma Streams - Hades (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Tier Lists/transcription.txt
+outDirectories/Jerma Streams - Failed Green Screen Starts/transcription.txt
+outDirectories/Jerma Streams - VR Games (Part 4)/transcription.txt
+outDirectories/Jerma Streams - Dark and Darker/transcription.txt
+outDirectories/Jerma Streams - Pictopix (Part 3)/transcription.txt
+outDirectories/Jerma Streams - Super Mario Sunshine (Part 3 Finale)/transcription.txt
+outDirectories/Jerma Streams - Maximum Action/transcription.txt
+outDirectories/Jerma Streams - Frog Detective 1 and 2/transcription.txt
+outDirectories/Jerma Streams - The Path To Die/transcription.txt
+outDirectories/Jerma Streams - Red Dead Redemption 2 (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Fortnite/transcription.txt
+outDirectories/Jerma Streams - Resident Evil 4 Remake (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Darkwood/transcription.txt
+outDirectories/Jerma Streams - Casino Inc. (Part 2)/transcription.txt
+outDirectories/Jerma Streams - MS-DOS Games (Part 2)/transcription.txt
+outDirectories/Jerma Streams - The Legend of Zelda: Breath of the Wild (Part 8)/transcription.txt
+outDirectories/Jerma Streams - VR Games (Part 11)/transcription.txt
+outDirectories/Jerma Streams - Halloween Stream 2019/transcription.txt
+outDirectories/Jerma Streams - God Hand/transcription.txt
+outDirectories/Jerma Streams - Stream Awards 2018/transcription.txt
+outDirectories/Jerma Streams - Travellers Rest/transcription.txt
+outDirectories/Jerma Streams - Space Engine/transcription.txt
+outDirectories/Jerma Streams - House Builder/transcription.txt
+outDirectories/Jerma Streams - SpongeBob SquarePants: Battle for Bikini Bottom – Rehydrated (Part 2 Finale)/transcription.txt
+outDirectories/Jerma Streams - MultiVersus/transcription.txt
+outDirectories/Jerma Streams - The Sims 4 (Part 5)/transcription.txt
+outDirectories/Jerma Streams - Christmas Special Stream Awards 2022 (Jerma985 Channel Version)/transcription.txt
+outDirectories/Jerma Streams - Mario's Game Gallery (Part 2)/transcription.txt
+outDirectories/Jerma Streams - PAC-MAN WORLD Re-PAC/transcription.txt
+outDirectories/Jerma Streams - FTK Stream/transcription.txt
+outDirectories/Jerma Streams - Jump King (Part 3)/transcription.txt
+outDirectories/Jerma Streams - The Incredible Hulk: Ultimate Destruction/transcription.txt
+outDirectories/Jerma Streams - Tier Lists (Part 12) [Bug Edition]/transcription.txt
+outDirectories/Jerma Streams - Sekiro: Shadows Die Twice (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Super Mario Maker 2 (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Deltarune Chapter 2 (Part 1)/transcription.txt
+outDirectories/Jerma Streams - Tier Lists (Part 10)/transcription.txt
+outDirectories/Jerma Streams - Embr [With Ster]/transcription.txt
+outDirectories/Jerma Streams - Trine 4: The Nightmare Prince [with Ster and Ashley]/transcription.txt
+outDirectories/Jerma Streams - ULTRAKILL/transcription.txt
+outDirectories/Jerma Streams - Coming Home/transcription.txt
+outDirectories/Jerma Streams - Dreams (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Olympic Games Tokyo 2020 - The Official Video Game/transcription.txt
+outDirectories/Jerma Streams - Bethesda Conference E3 2019/transcription.txt
+outDirectories/Jerma Streams - Chibi-Robo! (Part 0)/transcription.txt
+outDirectories/Jerma Streams - Unrailed! [with Ster and Etalyx]/transcription.txt
+outDirectories/Jerma Streams - The Binding of Isaac: Repentance/transcription.txt
+outDirectories/Jerma Streams - Animal Revolt Battle Simulator/transcription.txt
+outDirectories/Jerma Streams - Sorcery! (Part 5 2nd Playthrough)/transcription.txt
+outDirectories/Jerma Streams - Freddi Fish 1 & 2/transcription.txt
+outDirectories/Jerma Streams - Just Cause 4/transcription.txt
+outDirectories/Jerma Streams - The Binding of Isaac: Repentance (Part 3)/transcription.txt
+outDirectories/Jerma Streams - Community Content Night (Part 5)/transcription.txt
+outDirectories/Jerma Streams - Wrestling Empire (Part 3)/transcription.txt
+outDirectories/Jerma Streams - Sam & Max Beyond Time and Space (Part 3)/transcription.txt
+outDirectories/Jerma Streams - 700 000 Games Version 2.0/transcription.txt
+outDirectories/Jerma Streams - Elden Ring (Part 15)/transcription.txt
+outDirectories/Jerma Streams - Xbox and Xbox 360 Games/transcription.txt
+outDirectories/Jerma Streams - Family Feud 2012/transcription.txt
+outDirectories/Jerma Streams - The Coin Game (Part 3)/transcription.txt
+outDirectories/Jerma Streams - Elden Ring (Part 13)/transcription.txt
+outDirectories/Jerma Streams - Far Cry 6 [with Etalyx]/transcription.txt
+outDirectories/Jerma Streams - Viscera Cleanup Detail (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Fan Websites/transcription.txt
+outDirectories/Jerma Streams - Cult of the Lamb/transcription.txt
+outDirectories/Jerma Streams - Fable II/transcription.txt
+outDirectories/Jerma Streams - PowerWash Simulator (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Hitman 2 (Part 4)/transcription.txt
+outDirectories/Jerma Streams - Resident Evil 4 Remake (Part 3)/transcription.txt
+outDirectories/Jerma Streams - Casino Inc./transcription.txt
+outDirectories/Jerma Streams - F.E.A.R./transcription.txt
+outDirectories/Jerma Streams - Tony Hawk's Underground/transcription.txt
+outDirectories/Jerma Streams - Black & White/transcription.txt
+outDirectories/Jerma Streams - Watch Dogs: Legion/transcription.txt
+outDirectories/Jerma Streams - Hatsune Miku Project DIVA Mega Mix/transcription.txt
+outDirectories/Jerma Streams - Vegas Stakes/transcription.txt
+outDirectories/Jerma Streams - Hitman 2 (Part 2 Finale)/transcription.txt
+outDirectories/Jerma Streams - Elden Ring (Part 9)/transcription.txt
+outDirectories/Jerma Streams - Sekiro: Shadows Die Twice (Part 4)/transcription.txt
+outDirectories/Jerma Streams - Nintendo Direct 2 17 2021/transcription.txt
+outDirectories/Jerma Streams - Diablo IV and Nancy Drew: The White Wolf of Icicle Creek (Part 1)/transcription.txt
+outDirectories/Jerma Streams - Recettear: An Item Shop's Tale (Part 2 Finale)/transcription.txt
+outDirectories/Jerma Streams - Nancy Drew: Midnight in Salem (Part B)/transcription.txt
+outDirectories/Jerma Streams - Youtubers Life 2/transcription.txt
+outDirectories/Jerma Streams - Elden Ring (Part 18) [Randomizer With Ster]/transcription.txt
+outDirectories/Jerma Streams - Unlock! Escape Adventures/transcription.txt
+outDirectories/Jerma Streams - iPhone Update Stream/transcription.txt
+outDirectories/Jerma Streams - My Time at Portia/transcription.txt
+outDirectories/Jerma Streams - Animated FMV Games/transcription.txt
+outDirectories/Jerma Streams - The Last Hero of Nostalgaia/transcription.txt
+outDirectories/Jerma Streams - Post Carnival Talk/transcription.txt
+outDirectories/Jerma Streams - No More Heroes III (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Midnight Ghost Hunt [With Vinny Ross Criken Jolly Liam Zamsire Shesez/transcription.txt
+outDirectories/Jerma Streams - Another Brick in The Mall/transcription.txt
+outDirectories/Jerma Streams - Terraria (Part 2) [with Ster]/transcription.txt
+outDirectories/Jerma Streams - Wrestling Empire/transcription.txt
+outDirectories/Jerma Streams - Watching Old Streams and Videos (Part 5)/transcription.txt
+outDirectories/Jerma Streams - House Flipper Invitational [with DougDoug Vinesauce Vargskelethor and More]/transcription.txt
+outDirectories/Jerma Streams - Thief Gold/transcription.txt
+outDirectories/Jerma Streams - Lego Star Wars: The Complete Saga/transcription.txt
+outDirectories/Jerma Streams - Hitman 3/transcription.txt
+outDirectories/Jerma Streams - VR Games (Part 10) [Halloween Special]/transcription.txt
+outDirectories/Jerma Streams - SimCasino/transcription.txt
+outDirectories/Jerma Streams - Super Psycho Baseball/transcription.txt
+outDirectories/Jerma Streams - RollerCoaster Tycoon 2/transcription.txt
+outDirectories/Jerma Streams - The Coin Game (Part 4)/transcription.txt
+outDirectories/Jerma Streams - Viscera Cleanup Detail/transcription.txt
+outDirectories/Jerma Streams - The Legend of Zelda: Breath of the Wild (Part 5)/transcription.txt
+outDirectories/Jerma Streams - Halls of Torment/transcription.txt
+outDirectories/Jerma Streams - Weird Cam Comb Stream/transcription.txt
+outDirectories/Jerma Streams - The Outer Worlds (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Tier Lists (Part 4)/transcription.txt
+outDirectories/Jerma Streams - Resident Evil 6 [with Etalyx]/transcription.txt
+outDirectories/Jerma Streams - Kingsway/transcription.txt
+outDirectories/Jerma Streams - Dreamcast Games (Part 3)/transcription.txt
+outDirectories/Jerma Streams - Dark Souls Remastered Randomizer/transcription.txt
+outDirectories/Jerma Streams - Elden Ring (Part 3)/transcription.txt
+outDirectories/Jerma Streams - Gotcha Force (Part 2)/transcription.txt
+outDirectories/Jerma Streams - AI Dungeon/transcription.txt
+outDirectories/Jerma Streams - Mega Man Legends (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Murder House/transcription.txt
+outDirectories/Jerma Streams - Tier Lists (Part 8) and Browser Quizzes/transcription.txt
+outDirectories/Jerma Streams - VR Games (Part 14)/transcription.txt
+outDirectories/Jerma Streams - Mega Man Legends/transcription.txt
+outDirectories/Jerma Streams - Kyle is Famous: Complete Edition/transcription.txt
+outDirectories/Jerma Streams - London 2012 and Beijing 2008/transcription.txt
+outDirectories/Jerma Streams - Eternal Darkness: Sanity's Requiem/transcription.txt
+outDirectories/Jerma Streams - Vampire Survivors (Part 3)/transcription.txt
+outDirectories/Jerma Streams - Katamari Damacy REROLL/transcription.txt
+outDirectories/Jerma Streams - Resident Evil 3 Remake/transcription.txt
+outDirectories/Jerma Streams - Devil May Cry 3: Dante's Awakening/transcription.txt
+outDirectories/Jerma Streams - Bust a Groove/transcription.txt
+outDirectories/Jerma Streams - Everhood/transcription.txt
+outDirectories/Jerma Streams - Sam & Max Beyond Time and Space (Part 4 Finale)/transcription.txt
+outDirectories/Jerma Streams - The Game Awards 2022/transcription.txt
+outDirectories/Jerma Streams - House Flipper (Part 11)/transcription.txt
+outDirectories/Jerma Streams - Dark and Darker (Part 3) [With Etalyx Pokelawls Criken Will Neff Nesua]/transcription.txt
+outDirectories/Jerma Streams - Zoo Tycoon 2/transcription.txt
+outDirectories/Jerma Streams - Hitman 2/transcription.txt
+outDirectories/Jerma Streams - Ratatouille/transcription.txt
+outDirectories/Jerma Streams - Kinect Games (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Hotline Miami 2: Wrong Number/transcription.txt
+outDirectories/Jerma Streams - Red Dead Redemption 2 (Part 3)/transcription.txt
+outDirectories/Jerma Streams - Steelrising/transcription.txt
+outDirectories/Jerma Streams - Mister Mosquito/transcription.txt
+outDirectories/Jerma Streams - VRChat [with Kiwo]/transcription.txt
+outDirectories/Jerma Streams - The Outer Worlds/transcription.txt
+outDirectories/Jerma Streams - Nancy Drew: The White Wolf of Icicle Creek (Part 2 Finale)/transcription.txt
+outDirectories/Jerma Streams - L.A. Noire (Part 4)/transcription.txt
+outDirectories/Jerma Streams - 700 000 Games Version 2.0 (Part 2 Finale)/transcription.txt
+outDirectories/Jerma Streams - Heroes of Might and Magic III: The Restoration of Erathia (Part 3)/transcription.txt
+outDirectories/Jerma Streams - Green Screen Movie Night (Part 6)/transcription.txt
+outDirectories/Jerma Streams - HELLCARD [with Ster]/transcription.txt
+outDirectories/Jerma Streams - Super Mario RPG: Legend of the Seven Stars/transcription.txt
+outDirectories/Jerma Streams - Plants vs. Zombies/transcription.txt
+outDirectories/Jerma Streams - Halls of Torment (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Phasmophobia [with Vinny (Vinesauce) Ross (RubberRoss Rubberninja) and Giwi]/transcription.txt
+outDirectories/Jerma Streams - FMV Games (Part 5)/transcription.txt
+outDirectories/Jerma Streams - The Dollhouse Stream Day 3/transcription.txt
+outDirectories/Jerma Streams - Risk of Rain 2 [with Etalyx]/transcription.txt
+outDirectories/Jerma Streams - Bro Vs Bro [with Ludwig]/transcription.txt
+outDirectories/Jerma Streams - Battleship [with Ludwig]/transcription.txt
+outDirectories/Jerma Streams - Soulstone Survivors/transcription.txt
+outDirectories/Jerma Streams - Evolva/transcription.txt
+outDirectories/Jerma Streams - Cooking Mama: Cook Off/transcription.txt
+outDirectories/Jerma Streams - Family Computer System/transcription.txt
+outDirectories/Jerma Streams - MS-DOS Games/transcription.txt
+outDirectories/Jerma Streams - Browser Games and Tier Lists (Part 3)/transcription.txt
+outDirectories/Jerma Streams - Snow Runner/transcription.txt
+outDirectories/Jerma Streams - MythBusters: The Game - Crazy Experiments Simulator/transcription.txt
+outDirectories/Jerma Streams - Vampire Survivors (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Mindshow/transcription.txt
+outDirectories/Jerma Streams - Resident Evil Village (Part 2 Finale)/transcription.txt
+outDirectories/Jerma Streams - Elebits/transcription.txt
+outDirectories/Jerma Streams - Inscryption/transcription.txt
+outDirectories/Jerma Streams - Mordhau (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Resident Evil Village/transcription.txt
+outDirectories/Jerma Streams - Tier Lists (Part 7)/transcription.txt
+outDirectories/Jerma Streams - 3DO Games/transcription.txt
+outDirectories/Jerma Streams - Patapon 2/transcription.txt
+outDirectories/Jerma Streams - Dusk/transcription.txt
+outDirectories/Jerma Streams - Viscera Cleanup Detail (Part 4)/transcription.txt
+outDirectories/Jerma Streams - The Simpsons: Hit & Run/transcription.txt
+outDirectories/Jerma Streams - Vampire Survivors (Part 4)/transcription.txt
+outDirectories/Jerma Streams - Katana Zero/transcription.txt
+outDirectories/Jerma Streams - Green Screen Movie Night (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Red Dead Redemption 2 (Part 7)/transcription.txt
+outDirectories/Jerma Streams - Watching More 80's and 90's Commercials/transcription.txt
+outDirectories/Jerma Streams - I Spy: Spooky Mansion Deluxe/transcription.txt
+outDirectories/Jerma Streams - Steam Next Fest Demos (Part 3)/transcription.txt
+outDirectories/Jerma Streams - Odama/transcription.txt
+outDirectories/Jerma Streams - Christmas Eve Party Stream/transcription.txt
+outDirectories/Jerma Streams - VR Games (Part 13)/transcription.txt
+outDirectories/Jerma Streams - The Binding of Isaac: Repentance (Part 2)/transcription.txt
+outDirectories/Jerma Streams - You're in the Movies/transcription.txt
+outDirectories/Jerma Streams - MultiVersus (Part 5)/transcription.txt
+outDirectories/Jerma Streams - Stream Awards 2021 and WWE 2K20/transcription.txt
+outDirectories/Jerma Streams - Metal Gear Rising: Revengeance/transcription.txt
+outDirectories/Jerma Streams - Pac-Man 99/transcription.txt
+outDirectories/Jerma Streams - Stream Awards 2019/transcription.txt
+outDirectories/Jerma Streams - MS-DOS Games (Part 7)/transcription.txt
+outDirectories/Jerma Streams - Super Mario RPG: Legend of the Seven Stars (Part 3 Finale)/transcription.txt
+outDirectories/Jerma Streams - AI Dungeon (Part 5) and NovelAI/transcription.txt
+outDirectories/Jerma Streams - No Time/transcription.txt
+outDirectories/Jerma Streams - Super Mario Maker 2/transcription.txt
+outDirectories/Jerma Streams - Mon Bazou/transcription.txt
+outDirectories/Jerma Streams - Wizorb/transcription.txt
+outDirectories/Jerma Streams - Afrika/transcription.txt
+outDirectories/Jerma Streams - Mafia: Definitive Edition/transcription.txt
+outDirectories/Jerma Streams - The House of the Dead: Remake/transcription.txt
+outDirectories/Jerma Streams - Xbox Games (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Bloodwash/transcription.txt
+outDirectories/Jerma Streams - House Flipper (Part 4)/transcription.txt
+outDirectories/Jerma Streams - The Bachelor: The Videogame/transcription.txt
+outDirectories/Jerma Streams - MS-DOS Games (Part 3)/transcription.txt
+outDirectories/Jerma Streams - The Legend of Zelda: Breath of the Wild (Part 3)/transcription.txt
+outDirectories/Jerma Streams - VR Games (Part 9) and Blade and Sorcery (Part 3)/transcription.txt
+outDirectories/Jerma Streams - Hand Simulator/transcription.txt
+outDirectories/Jerma Streams - Resident Evil 2 Remake/transcription.txt
+outDirectories/Jerma Streams - Celeste/transcription.txt
+outDirectories/Jerma Streams - Scary Talking Stream/transcription.txt
+outDirectories/Jerma Streams - VR Games (Part 12)/transcription.txt
+outDirectories/Jerma Streams - Kenshi (Part 3)/transcription.txt
+outDirectories/Jerma Streams - Darkwood (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Elden Ring/transcription.txt
+outDirectories/Jerma Streams - Animal Crossing: New Horizons (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Final Fantasy XVI (Part 2)/transcription.txt
+outDirectories/Jerma Streams - A Little To The Left/transcription.txt
+outDirectories/Jerma Streams - Deadly Creatures/transcription.txt
+outDirectories/Jerma Streams - Viewtiful Joe/transcription.txt
+outDirectories/Jerma Streams - Wrestling Empire (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Microsoft Conference E3 2019/transcription.txt
+outDirectories/Jerma Streams - Dreamcast Games (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Shadows of Doubt/transcription.txt
+outDirectories/Jerma Streams - Unpacking/transcription.txt
+outDirectories/Jerma Streams - WarioWare: Get It Together!/transcription.txt
+outDirectories/Jerma Streams - Easy Bake Oven Stream/transcription.txt
+outDirectories/Jerma Streams - Microsoft & Bethesda Conference E3 2021 [with Ster]/transcription.txt
+outDirectories/Jerma Streams - Fall Guys/transcription.txt
+outDirectories/Jerma Streams - The Coin Game/transcription.txt
+outDirectories/Jerma Streams - The Incredible Hulk/transcription.txt
+outDirectories/Jerma Streams - No More Heroes 2: Desperate Struggle/transcription.txt
+outDirectories/Jerma Streams - Bugsnax (Part 2 Finale)/transcription.txt
+outDirectories/Jerma Streams - Resident Evil Village (Part 3)/transcription.txt
+outDirectories/Jerma Streams - MultiVersus (Part 6)/transcription.txt
+outDirectories/Jerma Streams - The Last Hero of Nostalgaia (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Gitaroo Man/transcription.txt
+outDirectories/Jerma Streams - Green Screen Movie Night (Part 7)/transcription.txt
+outDirectories/Jerma Streams - House Flipper (Part 6)/transcription.txt
+outDirectories/Jerma Streams - AI Dungeon (Part 4)/transcription.txt
+outDirectories/Jerma Streams - The Dollhouse Stream Day 2 (Overlay Enabled)/transcription.txt
+outDirectories/Jerma Streams - Dying Light 2 [with Ster]/transcription.txt
+outDirectories/Jerma Streams - Q Remastered/transcription.txt
+outDirectories/Jerma Streams - MultiVersus (Part 2) [With Ludwig Cr1TiKaL and HasanAbi]/transcription.txt
+outDirectories/Jerma Streams - Rick and Morty: Virtual Rick-ality/transcription.txt
+outDirectories/Jerma Streams - The Eternal Cylinder (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Deadly Night/transcription.txt
+outDirectories/Jerma Streams - Sam & Max Beyond Time and Space (Part 2)/transcription.txt
+outDirectories/Jerma Streams - The Exorcist: Legion VR/transcription.txt
+outDirectories/Jerma Streams - Watching Old Videos (Part 2)/transcription.txt
+outDirectories/Jerma Streams - MultiVersus (Part 4)/transcription.txt
+outDirectories/Jerma Streams - Super Mario Sunshine (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Nancy Drew: Sea of Darkness (Part 2 Finale)/transcription.txt
+outDirectories/Jerma Streams - Disassembly VR (Part 2)/transcription.txt
+outDirectories/Jerma Streams - Red Dead Online (Part 3) [with Vinny (Vinesauce)]/transcription.txt
+outDirectories/Jerma Streams - The Legend of Zelda: Breath of the Wild/transcription.txt
+outDirectories/Jerma Streams - Saints Row: The Third/transcription.txt
+outDirectories/Jerma Streams - No Umbrellas Allowed/transcription.txt
+outDirectories/Jerma Streams - Games other than Elden Ring but who cares/transcription.txt
+outDirectories/Jerma Streams - Hypnospace Outlaw/transcription.txt
+outDirectories/Jerma Streams - Pikmin 2 (Part 2)/transcription.txt
+outDirectories/Jerma Streams - You Laugh You Lose and Baby Sensory Videos/transcription.txt
+outDirectories/Jerma Streams - Stream Awards 2020 and WWE 2K20/transcription.txt
+outDirectories/Jerma Streams - The Elder Scrolls III: Morrowind/transcription.txt
+outDirectories/Jerma Streams - Chat and Jerma Playing Games/transcription.txt
+outDirectories/Jerma Streams - A No Comb Comb Stream/transcription.txt
+outDirectories/Jerma Streams - Thief Simulator/transcription.txt

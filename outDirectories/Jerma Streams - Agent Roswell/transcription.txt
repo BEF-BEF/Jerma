@@ -1,0 +1,835 @@
+[3.77s -> 7.59s]  All right, I want to get a controller for this one.
+[10.25s -> 12.33s]  This seems like a controller game, so I'm going to use it.
+[13.05s -> 22.09s]  Oh, the chopsticks. Shit. Yeah, we'll do that later.
+[22.09s -> 25.80s]  Don't let me forget that. I'll do it. I promise.
+[26.36s -> 28.82s]  Just I can't right now. I'm ready to go.
+[28.82s -> 36.31s]  I'll make sure the audio is not loud. All right, let's go.
+[37.03s -> 43.64s]  Hey, I got to change the... Do I have to change the title?
+[43.64s -> 51.83s]  The title right now.
+[51.83s -> 52.95s]  Being more considerate.
+[54.41s -> 55.45s]  Oh, I think that's fine.
+[57.50s -> 58.70s]  I'll do it. I promise.
+[58.70s -> 69.08s]  Hold on.
+[69.08s -> 70.44s]  The game has to change though.
+[71.00s -> 74.52s]  Stream info. All right.
+[75.16s -> 79.48s]  This is going to change to Roswell Agent.
+[82.17s -> 83.85s]  Agent Roswell. There it is.
+[83.85s -> 84.97s]  That's the name of this game, right?
+[90.60s -> 93.72s]  Yeah, okay. All right. Coming back.
+[95.56s -> 97.16s]  I can use chopsticks. Yes, I can.
+[99.86s -> 103.48s]  This is... Oh, there we go. Okay.
+[108.58s -> 111.14s]  I don't know how bad this audio is going to be. I have no idea.
+[111.70s -> 115.90s]  Okay, new game.
+[115.90s -> 123.59s]  Does the controller even work?
+[123.59s -> 125.11s]  Hey, okay, hold on. Does this work?
+[131.62s -> 132.90s]  No face cam? You'll get it later.
+[144.23s -> 145.35s]  Long drive two?
+[148.15s -> 149.19s]  There's a car in this game.
+[149.19s -> 150.87s]  I don't know if it's exactly what you think it is.
+[163.14s -> 176.97s]  Going after the power? All right.
+[183.00s -> 186.62s]  Am I moving this? No, I don't think so.
+[186.62s -> 199.99s]  Okay, there's a person over there.
+[199.99s -> 203.77s]  Is this me? Oh, fuck. It's WASD.
+[205.34s -> 207.64s]  Shit, I can't use the controller.
+[207.64s -> 208.76s]  Power to the base is cutting out.
+[208.76s -> 211.80s]  Take a Jeep to the electrical substation on the hill and check it out.
+[211.80s -> 217.34s]  Okay, left shift is run. Mouse look.
+[217.34s -> 219.26s]  Change controls after prologue.
+[219.26s -> 222.92s]  Pick up, activate. Have a gun.
+[225.13s -> 227.13s]  Jump and break. Pick up, activate.
+[228.18s -> 237.83s]  Fire weapon. Okay, pick up.
+[237.83s -> 242.63s]  This is a first-person shooter?
+[242.63s -> 244.55s]  I thought this was like a third-person game.
+[244.55s -> 249.21s]  Okay, I need to get the Jeep.
+[249.21s -> 251.37s]  Oh, first and th- You can switch?
+[253.03s -> 254.63s]  Holy shit. Okay, this is awesome.
+[257.19s -> 259.19s]  Okay, zoom, unzoom, yep.
+[259.75s -> 261.03s]  Menu, mission.
+[261.03s -> 262.63s]  Power to the base is cutting out.
+[262.63s -> 264.71s]  Take a Jeep to the electrical substation on the hill.
+[265.66s -> 267.26s]  Inventory. Okay.
+[267.82s -> 269.99s]  Change controls.
+[269.99s -> 272.15s]  It's like weapon type. Reload, scroll as weapon.
+[274.17s -> 275.13s]  C is kick.
+[275.13s -> 277.45s]  There's a kick, okay.
+[277.45s -> 283.75s]  Roll. Are these other- Who are these people?
+[283.75s -> 285.24s]  Did we work together?
+[287.08s -> 291.51s]  Melee? Do I work with these people?
+[293.05s -> 299.11s]  Grenade? Are these enemies or are these people that-
+[299.11s -> 301.35s]  I don't- I know. I don't have grenades.
+[301.91s -> 305.91s]  Grenade type? Okay.
+[305.91s -> 306.63s]  I need a Jeep.
+[307.27s -> 312.36s]  These are my- These are like good guys, right?
+[312.36s -> 313.08s]  We're on the same team?
+[314.78s -> 315.66s]  I think we're on the same team.
+[316.30s -> 325.83s]  All right, I need a Jeep.
+[325.83s -> 328.95s]  Where's there a Je- I can run faster than a car can drive, okay?
+[330.23s -> 330.95s]  That's a Jeep?
+[331.51s -> 336.54s]  This is not a Jeep.
+[336.54s -> 337.50s]  Where's her Jeep?
+[346.10s -> 351.29s]  Back at the tower?
+[351.29s -> 352.57s]  Oh shit, there's a Jeep right there.
+[356.63s -> 357.91s]  Okay, I got a Jeep.
+[357.91s -> 361.70s]  Ladies and gentlemen, plus one letter grade.
+[361.70s -> 363.18s]  Okay, drive.
+[363.18s -> 365.66s]  While driving, use return to recover your vehicle if stuck.
+[379.67s -> 380.31s]  You can do it.
+[386.23s -> 388.79s]  Drive to the electrical grid on the what?
+[388.79s -> 393.18s]  Oh, it's over there.
+[393.18s -> 401.14s]  Is there- Can I do- I can't do first person with this.
+[405.13s -> 410.62s]  All right, I got it.
+[410.62s -> 411.90s]  Nice. Okay, cool.
+[411.90s -> 417.86s]  So I'd go in here and turn off the electricity?
+[417.86s -> 418.90s]  Activate- Activated.
+[420.81s -> 445.46s]  Oh! Can I kill it from here?
+[445.46s -> 447.58s]  It's smoking.
+[447.58s -> 448.78s]  Holy shit, it's an alien.
+[448.78s -> 458.31s]  What am I supposed to do about this?
+[463.08s -> 465.29s]  Okay, what's my task?
+[465.29s -> 473.43s]  Oh shit, hold on.
+[473.43s -> 474.71s]  He's running.
+[474.71s -> 480.49s]  Okay.
+[480.49s -> 485.19s]  Reset the circuit breaker.
+[485.19s -> 488.15s]  You drive to that crash site and investigate wreckage.
+[488.15s -> 489.11s]  What crash site?
+[489.11s -> 491.40s]  Oh shit, all right, let's go.
+[497.26s -> 498.22s]  They come in peace?
+[502.36s -> 503.16s]  Oh, come on.
+[506.47s -> 508.39s]  All right, it crashed over here?
+[508.39s -> 509.35s]  I didn't even see it crash.
+[527.64s -> 529.08s]  Let's get on the road, please.
+[529.08s -> 539.64s]  I only have 30 bullets.
+[539.64s -> 540.60s]  Is that bad?
+[540.60s -> 558.14s]  All right, check for survivors at the crash site.
+[558.14s -> 560.30s]  Keep a lookout to the sky for more.
+[560.30s -> 562.18s]  All right, let's see if there's anybody here.
+[562.18s -> 565.03s]  Anybody here?
+[565.03s -> 578.18s]  LAPD, open up.
+[578.18s -> 579.78s]  Okay, I don't know what's going on there, but-
+[579.78s -> 585.61s]  There's nobody alive here.
+[585.61s -> 586.17s]  Okay, whatever.
+[586.17s -> 587.53s]  This is destroyed.
+[587.53s -> 588.25s]  What about over here?
+[588.25s -> 592.82s]  Are they like invading?
+[592.82s -> 594.10s]  There's a shitload of them.
+[594.10s -> 600.70s]  What the- Okay.
+[603.21s -> 608.65s]  What the fuck is happening?
+[608.65s -> 609.93s]  Help! Somebody help me!
+[616.42s -> 617.70s]  I have no ammo left.
+[617.70s -> 618.74s]  What the fuck?
+[618.74s -> 628.94s]  They're going to like cut into me.
+[646.39s -> 647.67s]  Okay, what just happened?
+[647.67s -> 648.55s]  What did they do?
+[648.55s -> 652.15s]  What did they just do to me?
+[652.15s -> 654.07s]  They turned the contrast up.
+[654.07s -> 659.77s]  After first contact with the visitors in Roswell
+[659.77s -> 661.53s]  and the abduction of a military sergeant,
+[661.53s -> 664.81s]  a task force is created to deal with the possible threat of alien invaders.
+[665.37s -> 667.77s]  That task force is known as BATE,
+[667.77s -> 671.11s]  the Bureau for Alien Investigation and Termination.
+[671.11s -> 672.63s]  As the son of the missing sergeant,
+[672.63s -> 676.07s]  you enroll to become an elite operative of the bureau.
+[676.07s -> 678.87s]  After the Apollo moon landings in July 1969,
+[678.87s -> 682.14s]  UFO activity spikes as reports and sightings
+[682.14s -> 684.54s]  are flooding into the visitors returning,
+[684.54s -> 687.00s]  clearly in great numbers and strength.
+[687.00s -> 688.84s]  Your job is to investigate these incidents
+[688.84s -> 692.30s]  and terminate any- anybody that's extraterrestrial.
+[692.30s -> 695.18s]  Well, the bureau creates a long-term strategy to deal with them.
+[695.18s -> 698.01s]  You are Agent Roswell.
+[698.01s -> 698.73s]  Okay.
+[698.73s -> 702.03s]  Hello?
+[720.89s -> 721.39s]  Okay.
+[722.94s -> 723.98s]  My computer.
+[723.98s -> 725.02s]  Wait, what about the ball game?
+[727.88s -> 729.08s]  Welcome to A-
+[729.08s -> 732.71s]  What?
+[732.71s -> 736.52s]  What the fuck?
+[736.52s -> 738.79s]  This is spoilers.
+[738.79s -> 739.94s]  No, exit.
+[741.00s -> 741.96s]  Exit. That's spoilers.
+[742.52s -> 744.65s]  I don't want to see those.
+[748.73s -> 751.21s]  Arm 1, City 1, Desert 1, Pine Valley.
+[752.26s -> 752.90s]  Side mission.
+[753.46s -> 755.38s]  All right, let's do City 1.
+[755.38s -> 759.06s]  We've identified a group of radicals who call themselves CETA,
+[759.06s -> 761.06s]  supporters of extraterrestrial arrivals.
+[761.62s -> 765.46s]  This group intends to contact or signal the aliens to land on Earth.
+[765.46s -> 767.54s]  They believe they will bring about a new world order
+[767.54s -> 769.54s]  free from governments and capitalism.
+[769.54s -> 772.58s]  They have been trying to rally support for their cause around the city.
+[772.58s -> 774.82s]  They've also stolen sensitive documents from another agent.
+[775.88s -> 780.12s]  Disband all CETA activity in the city and get back to the documents.
+[780.12s -> 789.30s]  It's a level creator?
+[789.30s -> 798.14s]  So these people are working with the aliens.
+[798.14s -> 799.34s]  All right, I have a radar.
+[802.26s -> 805.30s]  Get in your car stored in the underground car park.
+[815.54s -> 817.62s]  I can kick- I can like fucking kick people.
+[817.62s -> 818.10s]  I don't want to-
+[819.72s -> 820.76s]  Oh my god, put that down.
+[820.76s -> 821.40s]  Put that down.
+[821.40s -> 821.88s]  Put that down.
+[821.88s -> 822.68s]  How do I put things away?
+[823.16s -> 824.68s]  How do I put weapons away?
+[824.68s -> 825.72s]  How do I put weapons away?
+[826.36s -> 827.32s]  How do you put a weapon away?
+[828.30s -> 828.70s]  I don't know.
+[829.34s -> 833.30s]  Can I just take any car?
+[836.04s -> 837.48s]  I can't just steal a car?
+[837.48s -> 838.12s]  Yeah, I can.
+[838.12s -> 839.08s]  What's wrong with this one?
+[839.72s -> 840.87s]  The police?
+[846.58s -> 848.18s]  I don't think it matters what car I take.
+[848.82s -> 851.34s]  But I'm absolutely taking the motorcycle.
+[851.90s -> 853.83s]  There's no way I'm not taking this.
+[857.22s -> 857.72s]  Okay.
+[859.22s -> 860.50s]  Police, I need to-
+[862.02s -> 863.06s]  Stop, stop, stop it.
+[863.78s -> 867.29s]  I need that bike.
+[867.29s -> 868.01s]  I need the bike.
+[868.01s -> 868.57s]  I need the bike.
+[868.57s -> 869.13s]  I want the bike.
+[886.97s -> 887.61s]  No.
+[887.61s -> 888.11s]  Okay.
+[888.81s -> 890.09s]  Can I get the motorcycle?
+[890.81s -> 892.51s]  Shit.
+[893.37s -> 893.77s]  I don't think-
+[893.77s -> 894.65s]  Can I turn it around?
+[895.45s -> 899.00s]  I don't think I can get it to turn.
+[903.32s -> 904.36s]  Holy shit.
+[904.36s -> 905.48s]  Oh my god, that was awful.
+[907.08s -> 907.72s]  Where did she go?
+[911.74s -> 912.30s]  Fuck you.
+[913.67s -> 914.39s]  What?
+[914.39s -> 915.27s]  It just disappears.
+[916.07s -> 917.66s]  All right, just give me my car.
+[918.22s -> 924.46s]  That was a gunshot.
+[925.64s -> 927.32s]  Why am I kicking gunshots?
+[933.00s -> 935.24s]  Why is like 30 people screaming?
+[939.53s -> 940.49s]  Holy shit.
+[940.49s -> 941.13s]  What?
+[941.13s -> 943.53s]  Oh my god, that's so much blood.
+[943.53s -> 944.89s]  That was so much blood.
+[945.61s -> 947.85s]  There was just not that much blood inside of somebody.
+[948.89s -> 950.01s]  Holy f-
+[950.01s -> 950.89s]  Oh my god.
+[951.45s -> 951.95s]  Okay.
+[957.56s -> 958.06s]  Can I eat?
+[958.68s -> 960.01s]  How much does food cost?
+[963.37s -> 964.41s]  How do I get under there?
+[971.66s -> 973.50s]  That like stock scream.
+[974.30s -> 976.23s]  How do I go underground?
+[983.16s -> 983.96s]  No, don't-
+[983.96s -> 984.76s]  Is there like a subway?
+[995.29s -> 996.41s]  How do I get underground?
+[997.05s -> 1001.77s]  This bus cannot figure out what's going on
+[1001.77s -> 1003.29s]  because the thing's in the way.
+[1003.29s -> 1004.01s]  What are they doing?
+[1004.01s -> 1004.81s]  Why are they fighting?
+[1005.45s -> 1006.65s]  What is this guy doing?
+[1023.29s -> 1024.57s]  Hit the eject button.
+[1025.61s -> 1026.97s]  The guy ejected.
+[1030.62s -> 1031.42s]  I'm gonna steal this
+[1031.42s -> 1033.58s]  because this guy has no idea what's going on.
+[1033.58s -> 1037.40s]  All right, get out of the car.
+[1037.40s -> 1038.04s]  Get out of the car.
+[1038.84s -> 1039.32s]  That's enough.
+[1039.96s -> 1040.46s]  Get out.
+[1041.90s -> 1042.62s]  Get out of the car.
+[1045.80s -> 1046.30s]  What?
+[1046.76s -> 1048.75s]  Where did you come from?
+[1048.75s -> 1049.79s]  You spawned as-
+[1053.87s -> 1054.37s]  What?
+[1071.60s -> 1073.68s]  Why is your car so much more armor?
+[1091.13s -> 1093.05s]  All right, I'm playing the game.
+[1093.05s -> 1094.09s]  I hear a helicopter.
+[1094.73s -> 1096.50s]  Why is there a-
+[1100.86s -> 1103.10s]  Why is this game Grand Theft Auto?
+[1103.10s -> 1108.22s]  This just became a really just low grade Grand Theft Auto.
+[1108.78s -> 1113.05s]  Okay, well I'm just-
+[1113.05s -> 1114.49s]  I don't know where this thing is.
+[1115.13s -> 1116.81s]  I don't know how to get to the underground lair.
+[1116.81s -> 1117.61s]  I have no idea.
+[1120.44s -> 1121.56s]  Now there's a problem.
+[1130.76s -> 1131.26s]  God.
+[1132.04s -> 1133.16s]  What is he doing?
+[1133.16s -> 1133.66s]  Okay.
+[1137.28s -> 1138.40s]  I need to get this car.
+[1140.91s -> 1141.41s]  What?
+[1142.52s -> 1143.16s]  No!
+[1143.16s -> 1144.68s]  It's not in this game.
+[1144.68s -> 1146.28s]  It's impossible.
+[1146.28s -> 1147.72s]  It's literally impossible.
+[1148.44s -> 1149.56s]  It's impossible.
+[1149.56s -> 1150.36s]  Are you serious?
+[1150.36s -> 1151.24s]  You've got to be kidding me.
+[1163.88s -> 1165.72s]  Is it the same person?
+[1165.72s -> 1166.36s]  I don't know.
+[1167.71s -> 1169.07s]  Why did you put this in here?
+[1174.59s -> 1175.87s]  I can't fucking believe it.
+[1175.87s -> 1177.15s]  I am shocked right now.
+[1178.68s -> 1180.12s]  It's something that felt real familiar.
+[1180.12s -> 1180.68s]  I'll be honest.
+[1181.32s -> 1184.44s]  I want the bike.
+[1185.08s -> 1191.00s]  I want the bike.
+[1191.56s -> 1194.80s]  Is that actually in the game?
+[1194.80s -> 1195.68s]  Yeah, it is.
+[1195.68s -> 1196.48s]  What is that guy just-
+[1196.48s -> 1197.52s]  Why is that guy floating around?
+[1198.24s -> 1204.70s]  I cannot ride bikes.
+[1213.10s -> 1213.82s]  It's down there.
+[1213.82s -> 1214.32s]  Okay.
+[1218.04s -> 1219.48s]  If you guys don't know why I just freaked out,
+[1220.44s -> 1222.20s]  that's in Grab That Auto 5.
+[1222.84s -> 1224.91s]  It's an old video I made.
+[1224.91s -> 1227.31s]  We played a bunch of shitty GTA clones
+[1227.31s -> 1230.43s]  and that song appeared in like four or five of them in a row.
+[1233.47s -> 1234.83s]  Oh, that's shocking to see that.
+[1235.55s -> 1243.15s]  Seeing what happens.
+[1243.71s -> 1246.81s]  All right, so where's my car?
+[1247.53s -> 1251.88s]  Yeah, like five years ago.
+[1252.60s -> 1253.48s]  All right.
+[1253.48s -> 1257.87s]  What the fuck?
+[1257.87s -> 1259.31s]  I can't fucking believe it.
+[1260.03s -> 1264.12s]  What does it want me to do?
+[1266.19s -> 1268.67s]  Get in your car in the underground car park.
+[1268.67s -> 1269.39s]  Where is my car?
+[1274.75s -> 1275.63s]  Oh, is that it?
+[1276.35s -> 1293.21s]  Yeah, I did not just put a-
+[1293.21s -> 1294.01s]  That's not my car.
+[1297.21s -> 1299.77s]  Oh, destroy three protest rally trucks.
+[1318.20s -> 1321.56s]  So these are the people that want the aliens to take over.
+[1321.56s -> 1322.92s]  Is that what I'm understanding?
+[1325.87s -> 1327.95s]  My fucking right ear hurts.
+[1327.95s -> 1328.45s]  Ow.
+[1329.31s -> 1329.81s]  Ow.
+[1331.80s -> 1333.00s]  What the fuck?
+[1333.00s -> 1334.20s]  Wait, why do I have this?
+[1335.93s -> 1337.13s]  Oh my god.
+[1344.19s -> 1346.11s]  Why is all of a sudden it's a James Bond car?
+[1356.64s -> 1357.36s]  What is it saying?
+[1359.34s -> 1360.14s]  Abduct me.
+[1361.79s -> 1363.31s]  Aliens, come in peace.
+[1363.31s -> 1363.95s]  Abduct me.
+[1371.60s -> 1372.24s]  No, I put-
+[1372.24s -> 1372.80s]  I don't want this.
+[1372.80s -> 1373.52s]  I don't want to put that out.
+[1374.24s -> 1375.20s]  I want to read the signs.
+[1375.76s -> 1377.53s]  What does it say?
+[1381.31s -> 1382.83s]  Extraterrestrials are here.
+[1384.01s -> 1384.81s]  Welcome to Earth.
+[1385.45s -> 1391.96s]  I love UFOs.
+[1391.96s -> 1394.04s]  I mean, they're not doing anything wrong.
+[1394.04s -> 1395.72s]  Like, what's illegal about this?
+[1398.75s -> 1400.19s]  The aliens are attacking.
+[1407.76s -> 1408.56s]  Beam me up.
+[1409.20s -> 1413.48s]  How do I do-
+[1413.48s -> 1415.32s]  I have to destroy these?
+[1416.04s -> 1421.79s]  Where's my car?
+[1424.99s -> 1425.87s]  Beam me up.
+[1426.43s -> 1435.07s]  Things were different in the 50s.
+[1439.05s -> 1440.73s]  I need to, like, knock out their truck?
+[1441.45s -> 1443.23s]  Did I do it?
+[1443.79s -> 1452.59s]  Abduct me now.
+[1453.31s -> 1455.52s]  I mean, look, if somebody wanted the aliens to abduct him,
+[1455.52s -> 1457.28s]  like, I can't tell you not to do that.
+[1458.08s -> 1460.30s]  Do they want to, like, take over Earth?
+[1460.94s -> 1471.66s]  Do you have the-
+[1471.66s -> 1472.22s]  Oh, yeah, right.
+[1487.16s -> 1488.78s]  Did I do anything?
+[1489.42s -> 1496.96s]  Okay, I think I did it.
+[1497.52s -> 1501.40s]  All right, watch out.
+[1501.40s -> 1501.88s]  Get out of the way.
+[1504.52s -> 1511.79s]  I mean, do we know the motive?
+[1512.35s -> 1516.64s]  The briefing that we got said that they want the aliens to take over
+[1516.64s -> 1519.44s]  and they want to, like, kill everybody and abduct everybody.
+[1519.44s -> 1519.92s]  That's what we're-
+[1519.92s -> 1521.04s]  That's what we're understanding.
+[1530.19s -> 1531.47s]  Little green men are cool.
+[1532.19s -> 1536.16s]  This is, like, people just-
+[1536.16s -> 1536.48s]  This is-
+[1536.48s -> 1536.88s]  This is-
+[1539.98s -> 1541.74s]  I don't see anything going on that's wrong.
+[1542.30s -> 1559.84s]  All right, I want to-
+[1559.84s -> 1560.32s]  Watch out.
+[1565.04s -> 1566.24s]  Little suss men.
+[1569.13s -> 1570.49s]  Put the cars in the ocean?
+[1570.49s -> 1570.73s]  Yeah.
+[1583.60s -> 1585.12s]  You're supposed to be wrong.
+[1585.12s -> 1586.00s]  That's what's wrong.
+[1589.08s -> 1590.52s]  Move, move, move.
+[1590.52s -> 1591.00s]  Out of the way.
+[1593.63s -> 1594.11s]  Oh, boy.
+[1597.00s -> 1598.60s]  This would be a great time for you to move out of the way.
+[1601.15s -> 1602.11s]  Move out of the way.
+[1602.11s -> 1602.51s]  Good.
+[1602.51s -> 1602.83s]  All right.
+[1604.30s -> 1605.82s]  You're going to soft lock yourself?
+[1606.70s -> 1607.58s]  I don't think I am.
+[1608.30s -> 1609.98s]  This is going right into the ocean.
+[1616.36s -> 1617.24s]  Okay, I think I have to-
+[1617.88s -> 1619.74s]  I have to ditch both cars.
+[1620.54s -> 1622.17s]  Oh, fuck.
+[1622.17s -> 1623.05s]  Hold on.
+[1623.05s -> 1632.32s]  Is there an invisible wall?
+[1633.68s -> 1634.16s]  No, all right.
+[1634.72s -> 1649.37s]  What happened to this person?
+[1650.70s -> 1651.26s]  Watch out.
+[1651.98s -> 1664.00s]  Why are there just people lying on the ground?
+[1664.00s -> 1664.96s]  Like, ran over.
+[1665.68s -> 1681.24s]  Why am I driving the taxi?
+[1681.24s -> 1681.64s]  I don't know.
+[1682.20s -> 1683.48s]  Because it was available.
+[1683.48s -> 1699.48s]  Okay.
+[1699.48s -> 1703.52s]  Move this out of the way.
+[1704.24s -> 1708.91s]  What did I-
+[1708.91s -> 1709.63s]  Did I-
+[1709.63s -> 1710.99s]  Is that the mission complete music?
+[1713.87s -> 1714.59s]  I can't tell.
+[1717.47s -> 1718.11s]  No, no, it's just-
+[1718.11s -> 1719.15s]  Okay, it's regular music.
+[1719.71s -> 1725.45s]  Okay.
+[1726.09s -> 1726.81s]  I have to destroy it.
+[1729.92s -> 1731.12s]  I want to get some more info here.
+[1738.92s -> 1739.64s]  Oh my god.
+[1740.28s -> 1744.32s]  All right, I'm good.
+[1744.32s -> 1747.44s]  Shut down the illegal pirate radio broadcasters
+[1747.44s -> 1748.96s]  attempting to signal the aliens.
+[1756.78s -> 1759.26s]  But people are just trying to signal the aliens?
+[1759.26s -> 1760.86s]  Have the aliens attacked yet?
+[1764.78s -> 1765.58s]  I need a little-
+[1765.58s -> 1767.90s]  I need to understand more of what's going on.
+[1767.90s -> 1769.34s]  Have the aliens attacked yet?
+[1771.63s -> 1772.19s]  They have?
+[1772.19s -> 1772.83s]  At the start of the game?
+[1772.83s -> 1774.59s]  Did they attack like a city?
+[1774.59s -> 1778.32s]  They literally killed your father.
+[1778.32s -> 1778.80s]  Oh, okay.
+[1788.86s -> 1790.54s]  What the fuck was that?
+[1790.54s -> 1791.04s]  Hey!
+[1791.66s -> 1794.06s]  Who's shooting at me?
+[1799.02s -> 1800.30s]  Oh, wait, that was-
+[1800.30s -> 1803.40s]  What the fuck?
+[1803.40s -> 1813.24s]  So this is the radio tower.
+[1813.24s -> 1815.16s]  So they're trying to signal the aliens.
+[1815.16s -> 1820.75s]  My fucking head.
+[1820.75s -> 1821.55s]  That was so loud.
+[1828.46s -> 1829.18s]  Is it fall damage?
+[1830.49s -> 1831.29s]  Yep.
+[1831.29s -> 1834.16s]  Watch out.
+[1834.16s -> 1846.06s]  I swear to god, you walk faster than driving.
+[1846.06s -> 1852.11s]  I kind of want to skateboard or something too though.
+[1852.11s -> 1859.12s]  I did not want to do that.
+[1859.12s -> 1870.27s]  Can I not take the skateboard?
+[1870.27s -> 1872.11s]  So where are the aliens now?
+[1872.11s -> 1881.44s]  All right, get up here.
+[1881.44s -> 1895.64s]  Are you gonna shoot me?
+[1895.64s -> 1896.76s]  Yep, he's trying to shoot me.
+[1915.21s -> 1916.01s]  How do you dodge roll?
+[1917.21s -> 1917.71s]  Okay.
+[1918.09s -> 1924.89s]  All right, I shot him in the fucking head.
+[1925.53s -> 1943.18s]  All right, so it's like-
+[1943.74s -> 1944.89s]  Is there anybody up here?
+[1948.20s -> 1949.80s]  I don't even know how to react to this game.
+[1954.33s -> 1956.41s]  Uh-oh, ultimate fall joke incoming.
+[1956.41s -> 1956.97s]  I saw it.
+[1956.97s -> 1957.69s]  I saw it.
+[1957.69s -> 1958.65s]  Do you think I'll die?
+[1958.65s -> 1960.97s]  What do you think?
+[1960.97s -> 1969.58s]  Is this a fall that will kill me?
+[1969.58s -> 1970.08s]  Nope.
+[1973.37s -> 1974.09s]  Okay, we're fine.
+[1974.65s -> 1981.42s]  All right, there's a guy on the roof though.
+[1981.42s -> 1984.59s]  I have to be aware.
+[1984.59s -> 1987.15s]  And if he shoots me once, I'm dead.
+[1987.15s -> 1993.42s]  This thing is giving me like anxiety.
+[1993.42s -> 1994.70s]  I don't like how close it's getting.
+[1994.70s -> 1995.90s]  I don't like how weird it's acting.
+[1999.71s -> 2000.91s]  All right, can I aggro?
+[2000.91s -> 2008.54s]  God damn it, he's gonna shoot me once and I'm gonna die.
+[2008.54s -> 2017.05s]  You're up even higher.
+[2017.05s -> 2020.92s]  Wait, where are you?
+[2020.92s -> 2022.12s]  Are you just sitting right there?
+[2022.12s -> 2038.11s]  I did it.
+[2038.11s -> 2039.15s]  You've regen health over time.
+[2039.15s -> 2040.27s]  Yeah, don't stand too close to this.
+[2040.27s -> 2041.15s]  It's gonna explode and kill me.
+[2042.36s -> 2044.70s]  All right, I'm on the rooftops.
+[2044.70s -> 2047.10s]  The aliens don't have any more broadcasting equipment.
+[2047.10s -> 2049.28s]  I stole sacred files from bait.
+[2049.28s -> 2050.32s]  Retrieve them.
+[2050.32s -> 2052.72s]  There's an activity in the industrial district.
+[2052.72s -> 2054.16s]  Check the garages and roofs.
+[2054.88s -> 2057.16s]  Where are the aliens?
+[2068.17s -> 2069.61s]  You're the alien.
+[2069.61s -> 2070.25s]  Where are they?
+[2077.53s -> 2078.17s]  That's heavy.
+[2078.17s -> 2079.05s]  That's heavy base.
+[2079.87s -> 2080.91s]  I like the heavy base.
+[2098.46s -> 2103.52s]  What else you got?
+[2105.12s -> 2106.24s]  All right, I like it.
+[2109.88s -> 2116.08s]  This feels very iPad gamey.
+[2119.85s -> 2121.05s]  No, this is not porn music.
+[2122.57s -> 2127.31s]  This is, watch out.
+[2133.21s -> 2137.82s]  To me, this is first name, last name, dev on App Store.
+[2138.54s -> 2145.00s]  It's not like, oh, Firestuff Studios.
+[2145.00s -> 2152.65s]  No, this is first name, last name, dev on the App Store.
+[2154.08s -> 2156.24s]  All right, so I have to stop them from, all right, let's stop them.
+[2156.96s -> 2163.58s]  All right, there's one.
+[2163.58s -> 2164.30s]  How many people?
+[2164.30s -> 2166.30s]  I do have to get, this is not good.
+[2169.60s -> 2170.24s]  Wait, recover.
+[2183.16s -> 2184.12s]  You're under arrest.
+[2188.96s -> 2191.40s]  Can I land on him, please?
+[2199.42s -> 2199.92s]  I got him.
+[2207.21s -> 2207.77s]  It hurts.
+[2207.77s -> 2208.49s]  All right, hold on.
+[2210.20s -> 2210.68s]  What's the goal?
+[2211.32s -> 2213.48s]  Okay, all right, all right, all right.
+[2213.48s -> 2214.84s]  I gotta get the boxes full of files.
+[2224.59s -> 2225.31s]  Files in here.
+[2239.64s -> 2240.36s]  Okay, got it.
+[2241.76s -> 2242.56s]  Well, there's files.
+[2244.22s -> 2244.94s]  What was even in here?
+[2245.50s -> 2249.79s]  Is that gonna explode?
+[2250.27s -> 2252.12s]  Of course it is, okay.
+[2252.92s -> 2254.46s]  There's no files?
+[2255.18s -> 2257.84s]  Where are these files?
+[2258.40s -> 2267.26s]  There's nothing even in here.
+[2267.26s -> 2270.88s]  Check the garages and the roofs.
+[2272.54s -> 2276.67s]  Dude, this is literally Saints Row.
+[2276.67s -> 2279.79s]  I should literally play Saints Row on stream.
+[2279.79s -> 2280.27s]  Don't you think?
+[2280.91s -> 2284.89s]  I should literally play Saints Row.
+[2284.89s -> 2289.92s]  Any of these other ones open?
+[2290.56s -> 2297.84s]  Only the first two?
+[2298.48s -> 2300.52s]  Yeah, I'd play like Saints Row 2.
+[2307.40s -> 2308.04s]  I'm out of bullets.
+[2308.99s -> 2310.11s]  Okay, we're fine.
+[2310.11s -> 2311.66s]  Give me that gun.
+[2311.66s -> 2313.31s]  Give me that gun.
+[2323.85s -> 2324.01s]  No!
+[2324.01s -> 2325.45s]  No!
+[2325.45s -> 2328.91s]  There's a shitload of people up there.
+[2329.79s -> 2340.73s]  Give me that gun.
+[2340.73s -> 2346.41s]  Can I not pick it up?
+[2346.41s -> 2353.82s]  Please fall off so I don't have to...
+[2354.46s -> 2356.72s]  I gotta get up there.
+[2358.86s -> 2360.38s]  I don't even know how many files I have to find.
+[2362.49s -> 2363.77s]  Oh, shit, there we go.
+[2363.77s -> 2366.14s]  Okay, how many more?
+[2366.14s -> 2367.50s]  Recovered a box.
+[2367.50s -> 2369.15s]  I think there's one or two more, maybe?
+[2369.71s -> 2371.64s]  Play two, three, and four.
+[2371.64s -> 2372.76s]  I at least wanna do two and three.
+[2376.00s -> 2377.04s]  Absolutely, without a doubt.
+[2377.60s -> 2393.74s]  How the fuck am I...
+[2393.74s -> 2397.18s]  How was I supposed to do that?
+[2397.18s -> 2398.86s]  How was I ever supposed to do that?
+[2398.86s -> 2399.82s]  Are you serious?
+[2399.82s -> 2414.64s]  I don't even know missions yet.
+[2416.52s -> 2417.40s]  Oh, fuck off.
+[2417.40s -> 2417.72s]  Really?
+[2419.93s -> 2421.93s]  Oh, what?
+[2421.93s -> 2427.88s]  I wanna see the aliens.
+[2427.88s -> 2432.70s]  All right, no fucking around.
+[2432.70s -> 2433.34s]  I'm doing this quick.
+[2433.34s -> 2434.14s]  I wanna see aliens.
+[2434.14s -> 2435.18s]  Yeah, no more fucking around.
+[2435.18s -> 2435.82s]  We're keeping this on.
+[2437.68s -> 2439.68s]  I'm trying to not take one point of damage.
+[2440.48s -> 2475.55s]  I can't believe this game fucked everything up.
+[2475.55s -> 2483.12s]  It's got tire marks all over his butt.
+[2483.12s -> 2483.62s]  Okay.
+[2491.82s -> 2492.38s]  Can't fire?
+[2493.20s -> 2493.68s]  Can't shoot.
+[2494.88s -> 2498.38s]  I thought this car had guns.
+[2513.50s -> 2514.14s]  Did I?
+[2514.14s -> 2527.60s]  Okay, I'm stuck under here.
+[2527.60s -> 2528.72s]  Get the fuck out of here!
+[2529.36s -> 2531.68s]  I think he crushed his head.
+[2532.48s -> 2532.96s]  Jesus.
+[2534.83s -> 2536.03s]  Why do I have a sniper?
+[2536.83s -> 2540.20s]  Where did I get a sniper rifle from?
+[2541.00s -> 2547.36s]  How are you still alive?
+[2547.36s -> 2548.24s]  I don't understand.
+[2569.87s -> 2570.37s]  Okay.
+[2572.36s -> 2573.48s]  This game sucks.
+[2575.32s -> 2577.72s]  We can't review the game until we get to see the aliens.
+[2577.72s -> 2578.28s]  Don't you...
+[2578.28s -> 2584.36s]  I can't review it until we see aliens on the screen.
+[2584.36s -> 2585.56s]  Hold off your judgments.
+[2585.56s -> 2586.36s]  Hold them now.
+[2586.36s -> 2596.65s]  Wait, this is a shotgun.
+[2596.65s -> 2604.80s]  This weapon sucks.
+[2604.80s -> 2606.24s]  Absolute fucking ass.
+[2606.24s -> 2606.80s]  Are you kidding me?
+[2609.98s -> 2610.70s]  What just happened?
+[2611.63s -> 2612.75s]  Somebody's car exploded.
+[2618.68s -> 2619.00s]  What?
+[2620.46s -> 2622.14s]  What is this head lean?
+[2622.14s -> 2623.34s]  I shot him right in the head.
+[2624.06s -> 2628.97s]  Throw a grenade?
+[2628.97s -> 2630.01s]  I don't have any grenades.
+[2630.57s -> 2637.56s]  This is fucked you.
+[2637.56s -> 2638.36s]  God damn it.
+[2639.95s -> 2640.59s]  He's gonna kill me.
+[2640.59s -> 2641.23s]  He's gonna kill me.
+[2641.23s -> 2649.96s]  It's over.
+[2649.96s -> 2651.08s]  This sucks.
+[2651.08s -> 2658.33s]  What the fuck?
+[2658.33s -> 2658.89s]  How?
+[2658.89s -> 2661.21s]  He's inside of the thing.
+[2661.21s -> 2662.81s]  He's inside?
+[2662.81s -> 2674.38s]  Jeremiah, I don't think there's gonna be aliens.
+[2674.38s -> 2675.18s]  There's gonna be aliens.
+[2675.18s -> 2675.90s]  You have to wait.
+[2675.90s -> 2682.59s]  I have a sniper rifle.
+[2682.59s -> 2684.27s]  I'm just gonna snipe from like another building.
+[2685.77s -> 2686.27s]  Yeah.
+[2686.49s -> 2687.85s]  I'm just sniping from another building.
+[2688.41s -> 2690.57s]  I'm climbing up and I'm gonna snipe.
+[2690.57s -> 2700.78s]  Did you pay for this?
+[2700.78s -> 2701.34s]  Yes, I did.
+[2705.05s -> 2705.93s]  I think it's...
+[2705.93s -> 2706.81s]  I think it's gonna be fun.
+[2707.77s -> 2708.97s]  We have to get out of this segment.
+[2709.61s -> 2711.04s]  Just trust me.
+[2711.04s -> 2711.60s]  You gotta trust.
+[2712.16s -> 2713.90s]  It's hard.
+[2713.90s -> 2715.50s]  Okay, this is really hard to drive.
+[2715.50s -> 2716.94s]  It just skids around all over the place.
+[2716.94s -> 2717.18s]  Why?
+[2717.18s -> 2718.06s]  Is the handbrake on?
+[2718.94s -> 2721.87s]  I would not be driving it like this.
+[2722.51s -> 2735.68s]  Okay, I gotta climb up somewhere.
+[2737.23s -> 2738.19s]  I want a good view.
+[2738.83s -> 2753.69s]  Let's get off.
+[2753.69s -> 2764.01s]  There's only one guy up here.
+[2776.91s -> 2777.63s]  Fucking god.
+[2778.19s -> 2786.96s]  This fucking game.
+[2787.52s -> 2806.80s]  I shot him in the head.
+[2806.80s -> 2809.07s]  I shot him in his head.
+[2809.79s -> 2810.43s]  In his head.
+[2811.07s -> 2816.11s]  Oh my god.
+[2816.83s -> 2827.77s]  Give me the sniper.
+[2827.77s -> 2830.88s]  Sniper.
+[2830.88s -> 2833.40s]  Give me the fucking sniper rifle.
+[2833.40s -> 2834.12s]  Which one is it?
+[2834.76s -> 2864.49s]  Oh, give me this weapon.
+[2864.49s -> 2872.36s]  Okay, shooting people in the head doesn't matter.
+[2872.36s -> 2889.90s]  Okay, good.
+[2889.90s -> 2892.43s]  Now, are there plans up here?
+[2892.43s -> 2894.03s]  I need to see the aliens in the city.
+[2894.03s -> 2894.59s]  I'm sorry, guys.
+[2894.59s -> 2903.48s]  This is how it works.
+[2903.48s -> 2904.12s]  Here we go.
+[2904.76s -> 2907.47s]  Plans.
+[2907.47s -> 2908.27s]  Plans.
+[2908.27s -> 2912.04s]  There are three or four...
+[2912.04s -> 2913.24s]  There's a lot more plans.
+[2913.24s -> 2914.52s]  Holy shit, this sucks.
+[2914.52s -> 2916.83s]  All right, what about the other buildings?
+[2917.07s -> 2922.08s]  There's two plans in this building.
+[2922.08s -> 2927.13s]  There's aliens in the room with you right now.
+[2927.77s -> 2928.33s]  They were.
+[2928.33s -> 2931.05s]  You just saw me get like shocked or whatever, electrocuted.
+[2931.61s -> 2952.03s]  I did mocap for this game.
+[2952.03s -> 2952.59s]  Did you really?
+[2960.16s -> 2960.80s]  Oh, nice.
+[2961.44s -> 2962.80s]  You did the mocap?
+[2962.80s -> 2967.77s]  I have to see an alien.
+[2967.77s -> 2968.25s]  I'm sorry.
+[2968.25s -> 2989.05s]  That's the way it is.
+[2989.05s -> 2990.49s]  Real mocap actor.
+[2990.49s -> 2991.88s]  That's pretty sick, dude.
+[2992.44s -> 2996.32s]  What was it like?
+[2996.32s -> 3000.54s]  Was it cool?
+[3000.54s -> 3011.71s]  Where the fuck is this thing?
+[3011.71s -> 3012.03s]  This...
+[3012.03s -> 3013.07s]  It has to be one more.
+[3013.07s -> 3013.39s]  Where?
+[3013.95s -> 3025.00s]  It's in one of these random buildings.
+[3025.00s -> 3025.88s]  Come on.
+[3025.88s -> 3030.78s]  We're here.
+[3030.78s -> 3033.39s]  Over here.
+[3033.39s -> 3034.11s]  Okay, right here.
+[3036.57s -> 3038.57s]  My neck just got so itchy for no reason.
+[3042.57s -> 3050.19s]  No, other side.
+[3050.19s -> 3050.67s]  All right.
+[3050.67s -> 3051.63s]  Finally, this one's done.
+[3052.49s -> 3055.80s]  Mission complete.
+[3055.80s -> 3056.28s]  Thank God.
+[3056.28s -> 3056.60s]  All right.
+[3057.66s -> 3058.38s]  All right.
+[3058.38s -> 3058.70s]  Nice.
+[3067.47s -> 3068.27s]  Awesome.
+[3068.27s -> 3071.28s]  Okay, city two.
+[3071.28s -> 3074.86s]  We believe that the aliens have the ability to hide in plain sight.
+[3074.86s -> 3078.14s]  Use the detector to identify any aliens disguised as pedestrians.
+[3078.14s -> 3081.72s]  We report they're at three locations marked on your radar.
+[3081.72s -> 3085.21s]  Exterminate any you uncover immediately.
+[3085.21s -> 3099.95s]  I've had more fun watching you paint walls and house flipper.
+[3099.95s -> 3101.95s]  Once I see the aliens, don't worry.
+[3107.32s -> 3108.04s]  Hey, Beepo.
+[3108.04s -> 3109.72s]  Thanks for the five community subs.
+[3109.72s -> 3109.88s]  All right.
+[3109.88s -> 3110.36s]  So this is my...
+[3111.24s -> 3112.04s]  Get to the location.
+[3112.04s -> 3113.64s]  So this determines if somebody's an alien.
+[3114.52s -> 3118.86s]  Does this hurt?
+[3122.81s -> 3124.17s]  This does not seem to hurt.
+[3131.64s -> 3132.92s]  3090 omega low.
+[3134.89s -> 3137.21s]  You really telling me 3090 omega low in a game like this?
+[3143.21s -> 3146.17s]  Here comes day Dallas levels of subordination.
+[3147.93s -> 3148.97s]  I don't think so.
+[3148.97s -> 3149.77s]  Not even close.
+[3169.74s -> 3170.06s]  All right.
+[3170.62s -> 3171.74s]  Somebody over here is an alien.
+[3176.01s -> 3177.13s]  Do I want other people to know?
+[3182.89s -> 3183.77s]  Which one is an alien?
+[3205.80s -> 3209.60s]  There's more?
+[3209.60s -> 3213.26s]  How are there more aliens?
+[3213.26s -> 3225.64s]  Do I go somewhere else?
+[3226.20s -> 3227.29s]  What is what?
+[3227.29s -> 3234.12s]  What is that?
+[3234.12s -> 3234.60s]  Oh, shit.
+[3239.36s -> 3240.88s]  Is it like a false alarm or does it actually do it?
+[3256.19s -> 3256.91s]  Next location.
+[3256.91s -> 3257.15s]  Okay.
+[3259.12s -> 3261.12s]  We've seen the aliens now.
+[3261.12s -> 3263.48s]  Now I need to check everybody.
+[3263.48s -> 3264.12s]  Oh, shit.
+[3298.96s -> 3300.68s]  You're ready to stay calm.
+[3300.68s -> 3306.67s]  All right.
+[3306.67s -> 3307.47s]  You're all clean.
+[3307.47s -> 3309.87s]  It doesn't have another game prepared.
+[3309.87s -> 3311.23s]  Omega low day.
+[3312.03s -> 3315.95s]  You know, you've got a great eye.
+[3316.83s -> 3317.71s]  You've got a great eye.
+[3317.71s -> 3318.27s]  You should.
+[3318.27s -> 3319.23s]  Yeah, you should.
+[3322.22s -> 3323.82s]  It doesn't have anything else planned for today.
+[3325.02s -> 3326.14s]  Well, not technically.
+[3326.14s -> 3327.42s]  No, you didn't have anything else.
+[3327.42s -> 3333.36s]  No, it's just the plan.
+[3336.68s -> 3338.92s]  Although there are other actually there are other options,
+[3339.85s -> 3341.45s]  but I want to play tomorrow.
+[3344.41s -> 3345.21s]  I don't want to do the game.
+[3345.21s -> 3346.57s]  I'm supposed to play tomorrow today.
+[3347.45s -> 3349.63s]  You guys aliens?
+[3350.19s -> 3360.88s]  Nobody.
+[3360.88s -> 3361.12s]  Okay.
+[3361.68s -> 3366.30s]  Let me see what else I got.
+[3366.30s -> 3366.54s]  Okay.
+[3367.18s -> 3368.94s]  I want to see one more area and then fine.
+[3369.50s -> 3372.00s]  I want to see one more zone and then I'll be fine.
+[3375.37s -> 3376.41s]  Jump King DLC?
+[3376.41s -> 3377.69s]  No, not at a chance in hell.
+[3377.69s -> 3378.65s]  Not in a million years.
+[3380.27s -> 3380.59s]  Nope.
+[3391.58s -> 3392.14s]  Pawn shop.
+[3392.14s -> 3393.50s]  Yeah, the pawn shop game is tomorrow.
+[3393.50s -> 3394.86s]  And I feel like that's an entire stream.
+[3398.70s -> 3400.70s]  What we're looking for right now is a way to potentially
+[3401.74s -> 3403.10s]  have another maybe like hour and a half.
+[3403.66s -> 3407.68s]  I'm running people over.
+[3408.24s -> 3414.92s]  All right.
+[3414.92s -> 3415.48s]  It's down there.
+[3419.39s -> 3420.03s]  What?
+[3420.03s -> 3428.33s]  Where the where is it?
+[3428.33s -> 3428.97s]  Deltarune?
+[3428.97s -> 3430.09s]  I don't want to play Deltarune.
+[3431.45s -> 3434.41s]  It's been so long since chapter one that I have to play chapter one
+[3434.41s -> 3435.53s]  before I do chapter two again.
+[3436.52s -> 3437.64s]  So we're going to do that next weekend.
+[3439.16s -> 3440.44s]  I forget everything.
+[3443.36s -> 3445.60s]  I don't want to jump into chapter two without I literally
+[3445.60s -> 3447.28s]  I couldn't even tell you the main character's name is.
+[3448.00s -> 3450.24s]  I couldn't tell you like this like three or four characters.
+[3450.24s -> 3457.76s]  I have no idea what their names are.
+[3457.76s -> 3460.08s]  What the fuck is how do I get down there?
+[3461.90s -> 3462.30s]  Alien.
+[3462.94s -> 3473.36s]  Is that not an alien?
+[3473.36s -> 3479.85s]  That was an alien though.
+[3479.85s -> 3480.17s]  All right.
+[3480.17s -> 3482.62s]  Well, how do I get down?
+[3491.08s -> 3497.90s]  Oh, it destroyed it destroyed all human.
+[3499.74s -> 3500.46s]  Not this time.
+[3501.10s -> 3502.81s]  I have no idea where the fuck is supposed to go.
+[3504.14s -> 3504.70s]  He's not dead.
+[3505.34s -> 3513.56s]  Apparently underground or down under somewhere.
+[3513.56s -> 3514.68s]  I don't get it.
+[3515.32s -> 3516.67s]  Like Picross.
+[3518.03s -> 3518.67s]  We'll see what I have.
+[3526.92s -> 3527.16s]  All right.
+[3527.16s -> 3528.28s]  We'll switch games.
+[3528.28s -> 3529.00s]  Don't worry.
+[3529.80s -> 3530.76s]  Everybody relax.
+[3530.76s -> 3532.76s]  I just wanted to see the aliens.
+[3532.76s -> 3533.88s]  Everybody relax.
+[3534.76s -> 3548.01s]  I don't know how to get.
+[3548.01s -> 3548.25s]  Okay.
+[3548.89s -> 3559.24s]  What about this farm and desert desert one?
+[3559.24s -> 3560.36s]  All right.
+[3560.36s -> 3560.68s]  Desert.
+[3560.68s -> 3562.20s]  I just want to see the desert one.
+[3562.20s -> 3567.71s]  Play the long drive.
+[3567.71s -> 3576.22s]  No, I don't think so.
+[3576.22s -> 3577.26s]  Check out the junkyard.
+[3577.26s -> 3577.98s]  This is actually kind of cool.
+[3594.11s -> 3595.87s]  Next game is just this game.
+[3595.87s -> 3597.31s]  No, we'll play something else for like an hour.
+[3597.31s -> 3607.85s]  I have to see if it's possible.
+[3607.85s -> 3608.89s]  Every game of the gas station.
+[3608.89s -> 3616.96s]  You need to know it works.
+[3616.96s -> 3620.49s]  I can't move.
+[3621.13s -> 3625.20s]  All right.
+[3625.20s -> 3626.32s]  Let me see what I hold on.
+[3626.32s -> 3626.64s]  Can I fly?
+[3626.64s -> 3627.36s]  If you can fly a plane.
+[3627.36s -> 3628.56s]  Look, give me a break, right?
+[3628.56s -> 3629.12s]  Just hold on.
+[3640.68s -> 3641.00s]  Really?
+[3641.00s -> 3641.48s]  Come on.
+[3641.48s -> 3643.16s]  Come on.
+[3643.16s -> 3645.71s]  Ah, all right.
+[3645.71s -> 3646.19s]  Fine.
+[3646.19s -> 3646.51s]  Fine.
+[3646.51s -> 3647.23s]  It was cool.
+[3647.23s -> 3648.11s]  I liked it.
+[3648.11s -> 3648.67s]  I liked it.
+[3648.67s -> 3650.19s]  But I think we saw what we wanted to see.
+[3650.19s -> 3651.23s]  And I'm going to move on.
+[3651.23s -> 3660.94s]  We got minus two letter grade.
+[3660.94s -> 3661.98s]  No, what are you talking about?
+[3661.98s -> 3662.46s]  That's not fair.
+[3668.44s -> 3669.56s]  That's not fair.
+[3669.56s -> 3673.45s]  All right.
+[3673.45s -> 3673.93s]  We got.
+[3676.03s -> 3677.15s]  Oh, shit.
+[3677.15s -> 3680.72s]  I have that stupid.
+[3680.72s -> 3681.76s]  Well, not stupid.
+[3681.76s -> 3683.72s]  No, I have this too.
+[3683.72s -> 3685.58s]  I got this too.
+[3685.58s -> 3685.82s]  All right.
+[3687.02s -> 3690.57s]  By a show of hands, I downloaded this.
+[3690.57s -> 3693.63s]  I downloaded this game the other day.
+[3693.63s -> 3697.15s]  It's called Animal Ultimate Simulator Battle.
+[3697.15s -> 3697.88s]  What's it called?
+[3699.08s -> 3700.68s]  Animal Revolt Battle Sim.
+[3701.24s -> 3706.16s]  It looked like it was kind of insane.
+[3706.16s -> 3712.11s]  Is it a YouTuber game?
+[3712.67s -> 3716.44s]  Is it a YouTuber game?
+[3717.00s -> 3718.04s]  It's a YouTuber bait.
+[3720.80s -> 3721.36s]  Let's try it.
+[3721.36s -> 3721.68s]  Whatever.
+[3722.40s -> 3723.36s]  I'm not playing the game.
+[3723.36s -> 3724.48s]  I'm not playing Pawn Shop.
+[3725.04s -> 3728.44s]  I want to play that tomorrow.
+[3728.44s -> 3729.24s]  Get the chopsticks.
+[3729.24s -> 3730.36s]  I'll get the chopsticks in a minute.
+[3730.36s -> 3732.01s]  Before the stream ends, I promise.
+[3732.01s -> 3733.36s]  All right, give me a second.
+[3733.36s -> 3735.58s]  Let me open this game up.
+[3735.58s -> 3737.18s]  See if this is like a funny game or not.

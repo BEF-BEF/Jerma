@@ -1,0 +1,288 @@
+[0.89s -> 5.51s]  Hello everyone, my name is Bacon and welcome to the German Stream Archive.
+[5.51s -> 10.07s]  Today I have a long overdue update video for you all where we'll be talking about some important
+[10.07s -> 14.98s]  things. It's been a long time since the last update video and because of that there's a lot
+[14.98s -> 19.32s]  that needs to be talked about. There are timestamps in the description and the comments for each
+[19.32s -> 24.57s]  section you might find important. You can also make use of the YouTube chapter feature to skip
+[24.57s -> 29.53s]  around to find the info you're looking for. There's this section which is the introduction.
+[29.53s -> 33.53s]  Here we'll be talking a little bit about who we are, what we do in the channel, and where we came
+[33.53s -> 38.52s]  from. After that we need to talk about the channel being officially partnered with Germa
+[38.52s -> 44.06s]  and monetization. Next we'll be talking about changes and improvements to how we archive
+[44.06s -> 50.04s]  streams. After that we'll be talking about chat replay which is a new way to watch back chat on
+[50.04s -> 56.01s]  our uploads. If that interests you then you don't want to miss that section. Finally I'll be ending
+[56.01s -> 61.50s]  with a Q&A answering some questions that we keep getting asked. As I mentioned before it's been a
+[61.50s -> 67.19s]  long time since the last update video. Between the last update video and now both Germa and this
+[67.19s -> 73.58s]  channel have grown tenfold so I felt it's worth reintroducing Starkiller and I. My name is Bacon.
+[73.58s -> 79.18s]  I own and run this channel alongside Starkiller. I started the Sturr Stream Archive more than five
+[79.18s -> 84.94s]  years ago around late 2016 and added Germa to the archive shortly after to make it the Sturr
+[84.94s -> 91.64s]  slash Germa Stream Archive. In late 2018 we split the channel into two, the Sturr Stream Archive
+[91.64s -> 98.17s]  and the Germa Stream Archive. Since then Germa has only grown exponentially in popularity until
+[98.17s -> 103.38s]  we get where we are today. My role in this channel is to download the video from Twitch
+[103.38s -> 108.26s]  and re-upload them to YouTube. I also handle most of the business management and community
+[108.26s -> 113.14s]  affairs of this channel like this update video. Starkiller is my friend who's been helping me
+[113.14s -> 117.48s]  run this channel since near the start. Starkiller has his own channel where he used to archive
+[117.48s -> 122.44s]  Germa streams until he noticed my channel getting more views and having the official name
+[122.44s -> 128.04s]  Sturr slash Germa Stream Archive so he messaged me one day asking if he should stop uploading on
+[128.04s -> 132.28s]  his channel. Instead of telling him to stop I actually decided to invite him to work on
+[132.28s -> 137.46s]  the archive channel with me and he's been helping me since. His role in the channel is making the
+[137.46s -> 142.42s]  thumbnail, putting the title, the description, end cards, and the rest of what makes a video a video.
+[142.42s -> 149.00s]  He used to handle the downloading and uploading of VODs as well before I got my fiber internet.
+[149.00s -> 153.88s]  If for some reason I can't download a VOD he's usually my backup and he comes in the clutch
+[153.88s -> 158.86s]  because of that. Now that you know this a little bit better let's talk more about the partnership
+[158.86s -> 164.38s]  and monetization I mentioned before. You guys heard me right, partnership. I've been talking
+[164.38s -> 168.46s]  to Community Jake and Germa and they've asked us to come work for them officially and make the
+[168.46s -> 173.02s]  channel an official archive channel as well as be a part of Germa's umbrella of channels.
+[173.02s -> 177.26s]  For the most part things will be run the same except for a few changes we'll talk about later
+[177.26s -> 182.54s]  in this video. It's just that now we're official and we'll be getting paid for it. After the last
+[182.54s -> 187.66s]  time I mentioned monetization or donations I've decided to be careful about money on this channel.
+[187.66s -> 191.50s]  The last time still giving me nightmares for even daring to mention monetization.
+[193.37s -> 197.85s]  Before I felt it wasn't fair to enable ads without Germa's permission or without working
+[197.85s -> 202.68s]  something out with him first. Now since we're officially working for Germa we'll be enabling
+[202.68s -> 208.65s]  monetization on streams. I know people don't like ads so Community Jake and I decided on a decent
+[208.65s -> 214.33s]  spacing of ads that won't be too intrusive for you guys. I really hope you guys don't get too
+[214.33s -> 219.61s]  angry at us this time because honestly this opportunity Community Jake and Germa have given
+[219.61s -> 225.42s]  us is like a ray of light in the dark for us here at the archive. If you feel this monetization is
+[225.42s -> 229.91s]  unfair towards Germa then don't worry. Part of this ad revenue will go straight back to Germa
+[229.91s -> 235.22s]  and funding his big shows. As for the money that is coming to us at the archive we will do our
+[235.22s -> 240.84s]  best to earn our keep which leads us to the next section I want to talk about upcoming changes
+[240.84s -> 246.25s]  and improvements we plan on making to the channel. A while back I made a survey about the volume of
+[246.25s -> 251.16s]  Germa streams. In that survey I asked if there were any changes that you wanted to see made to
+[251.16s -> 256.55s]  the channel. I wanted to thank everyone who left a suggestion even if you made a suggestion for a
+[256.55s -> 262.15s]  change that was denied. I really appreciate all the comments. The suggestions have been read
+[262.15s -> 268.14s]  through and considered. Changes that are rejected will be explained as to why afterwards.
+[268.14s -> 272.78s]  It's important to understand that we're trying to balance the channel being an archive and the
+[272.78s -> 278.28s]  channel being viewer friendly. For example splitting the streams up by game versus not
+[278.28s -> 283.72s]  splitting up the streams up at all versus splitting an eight hour stream into shorter sections of four
+[283.72s -> 290.12s]  hours each. Inevitably I can't make everyone happy but I can do my best by making a few improvements.
+[290.12s -> 295.50s]  With that being said let's first start with changes not to be made. Many of these stem from
+[295.50s -> 301.18s]  not having enough time or just not being very feasible. The first thing is having playlists for
+[301.18s -> 305.74s]  many different types of streams or even just a playlist for different periods and arcs of
+[305.74s -> 310.42s]  Germa's life and the reason I don't want to do this is because having too many playlists makes
+[310.42s -> 316.12s]  it hard to sort through and also it's just too many playlists to kind of sort things into so
+[316.12s -> 321.10s]  that'll be a little bit too much. The next one is more detailed timestamps and chapters.
+[321.10s -> 326.70s]  For example timestamping highlights or skipping to a specific point in the VOD or timestamping
+[326.70s -> 331.98s]  the beginning of him playing. For this one I'd say just have a little bit more patience. It takes
+[331.98s -> 336.86s]  too much time to timestamp everything. We do like however seeing some people timestamp different
+[336.86s -> 341.34s]  bits in the video and we may occasionally heart some of those comments if you timestamp the video
+[341.34s -> 346.63s]  so thank you if you do that. The next one is kind of similar in that it's editing out BRB sections
+[346.63s -> 351.80s]  and trimming streams down. This one takes a little bit too much work for not much return.
+[351.80s -> 356.20s]  If you don't like the BRB sections try watching some long edits of the streams like Skye's
+[357.58s -> 363.22s]  long edits or Chelsea's stream recaps or if those are too long watch the second Germa videos which
+[363.22s -> 368.34s]  are also very very good with some talented editors. On top of all that we're a stream
+[368.34s -> 373.70s]  archive so it doesn't make much sense to edit the streams down. The next one on the list is
+[373.70s -> 378.71s]  having the date in the title. Now this one kind of clutches the title too much. In the past we
+[378.71s -> 384.79s]  used to put the title in the the date in the title but we decided to take it off. It's nicer and
+[384.79s -> 389.94s]  cleaner not having the date and the date is already in the description. This next one is speeding up
+[389.94s -> 395.40s]  VOD uploads. This one I kind of don't really understand because usually I like to have the
+[395.40s -> 401.48s]  videos uploaded the night of the stream and have it go up the next morning. It takes a little bit
+[401.48s -> 407.08s]  of extra time to get all the bits ready especially if it's closer to midnight when he ends the stream
+[407.08s -> 412.68s]  or if it's a bigger stream like the latest Elden Ring streams. So if it takes any longer it's
+[412.68s -> 417.08s]  usually due to copyright or having to edit the video for some other reason or it's a big stream
+[417.08s -> 423.22s]  that I'm waiting for Community Jake to send a copy of the studio recording. If for some reason
+[423.22s -> 429.70s]  it takes a little longer than I expect I usually try to announce it in the archive discord so if
+[429.70s -> 433.70s]  you want some more news about when a video is going to come out late go ahead and join the
+[433.70s -> 439.18s]  archive discord. This next one is kind of similar to what we talked about before splitting the videos
+[439.18s -> 444.86s]  up into parts for example splitting Elden Ring part one into two four-hour videos. This one's not
+[444.86s -> 449.58s]  really feasible for the same reason as not trimming it down. It takes more time to do for not much
+[449.58s -> 454.54s]  return more time to upload and it wouldn't be a very good viewing experience for the majority of
+[454.54s -> 460.63s]  people. YouTube does a really good job of saving your place or you can just leave a comment with
+[460.63s -> 466.92s]  the timestamp that you left off. I prefer to have one eight-hour video than two four-hour videos
+[466.92s -> 471.40s]  and this also means less ads in general. This next one is on the other spectrum of splitting
+[471.40s -> 477.08s]  streams and that is not splitting streams that have two games in it. This one we like to do at
+[477.08s -> 482.50s]  the archive because it makes it easier for a couple reasons. One if a stream gets blocked or a game
+[482.50s -> 487.78s]  gets blocked for whatever reason the audio the music in the game it makes it easier to split the
+[487.78s -> 491.86s]  game up so that the other game that he streams doesn't get blocked. Another reason we like doing
+[491.86s -> 496.10s]  this is because it helps people find the game they want to see Jerma playing without having
+[496.10s -> 500.73s]  them skim through a bunch of different streams to try to find it. It also makes things easier to
+[500.73s -> 505.29s]  place them in the playlist for organization's sake and also for people wanting to binge watch
+[505.29s -> 511.00s]  a specific game. This next one relates to what we talked about earlier with monetization and that
+[511.00s -> 516.63s]  is to reduce the amount of ads in videos. Now I want to make clear that if any video gets any
+[516.63s -> 522.55s]  amount of copyright claims more times than not there tends to be an insane amount of ads and we
+[522.55s -> 527.77s]  can't do anything about it to reduce the amount of ads. For example the Laugh You Lose video got
+[527.77s -> 533.85s]  claimed and has so many ads in such a short amount of time. I've heard reports of about one every 10
+[533.85s -> 539.59s]  seconds. For the videos that we can control ads on I do my best to make sure to minimize ads while
+[539.59s -> 544.82s]  still keeping him there. When I talked to community Jake about it I told him that I like to keep ads
+[544.82s -> 551.18s]  to a relative minimum and he agreed so we agreed on a good ad spacing for us both. This next one
+[551.18s -> 556.06s]  asks us to put the hour a stream starts into the description. Now for this one I kind of want to
+[556.06s -> 562.06s]  ask why. Also I don't really know how to find that without keeping track of the time he starts
+[562.06s -> 568.30s]  because oftentimes he starts at different times and he's just late. This one asks us to announce
+[568.30s -> 573.75s]  when VODs will come out. Now for this one as I mentioned before VODs usually come out within
+[573.75s -> 579.03s]  the next day or two of the original stream. If it takes any longer I'll announce it in the community
+[579.03s -> 585.22s]  tab or I'll announce it in our discord. A few of you have asked us to place VODs into a non-youtube
+[585.22s -> 592.04s]  place for example mega, dropbox, google drive, etc. This is something that I've actually kind of
+[592.04s -> 596.60s]  wanted to do but I'm not even sure how to do it without an insane additional cost for the amount
+[596.60s -> 601.96s]  of streams and data that are going to be archived the extra time it'll take to upload them. It's
+[601.96s -> 606.78s]  something I'm interested in but it's just not very feasible at the moment. This next one is one that
+[606.78s -> 612.02s]  gets requested fairly often and that is to put the twitch VOD link in the description. After a couple
+[612.02s -> 617.06s]  months the original VOD gets deleted meaning the link is only valid for those 60 days that the VOD
+[617.06s -> 622.42s]  is available. While I could delete the link after 60 days I'm not really looking to track every VOD
+[622.50s -> 627.62s]  for 60 days for the rest of the time German streams so yeah sorry about that. After around
+[627.62s -> 632.66s]  germans resident evil village streams this is one that gets requested fairly often and that is to
+[632.66s -> 639.86s]  upscale the videos into 1080p uploads instead of letting youtube downscale to 720p. Now there's
+[639.86s -> 645.62s]  a little bit of technicality stuff going on here but to kind of put it simply it's a little bit
+[645.62s -> 650.26s]  more work to put into 1080p. This is something that I actually kind of want to see and look into
+[650.26s -> 655.22s]  and experiment but if it ends up being too hard to do too much overhead we might not end up doing
+[655.22s -> 660.26s]  it so there's a chance that we'll do this but don't really count on it too much at the moment.
+[660.26s -> 665.37s]  This next one is one that gets requested very often and that is to put chat on screen. The
+[665.37s -> 669.29s]  reason I don't want to do this is because I don't want chat to become mandatory for people who
+[669.29s -> 674.73s]  dislike chat. I know a good portion actually a majority of people don't like having chat on
+[674.73s -> 680.65s]  screen. In the past I did a poll and a majority of the people said that they didn't like chat and
+[680.65s -> 684.97s]  didn't want chat on screen so because of this I don't want to make it mandatory for people who
+[684.97s -> 691.88s]  don't want it. Now I understand that having chat is what makes a stream well a stream but I can't
+[691.88s -> 695.96s]  admit that chat can be distracting at times and sometimes you just want to see a full screen of
+[695.96s -> 702.20s]  germa focus on germa. Now this last denied change I want to talk about is anything that relates to
+[702.76s -> 709.08s]  changes on germa's side for example putting chat on stream or having more facecam time or doing
+[709.16s -> 715.40s]  specific kind of stream because for the simple fact that I am not germa. Well that was a little
+[715.40s -> 720.20s]  bit long and I hope you guys weren't getting too bored but now it's time for the exciting part
+[720.20s -> 724.49s]  which is talking about the upcoming changes and improvements that I want to implement.
+[724.49s -> 729.29s]  Starting off we'll be talking about one change that's on germa's side. The main purpose of the
+[729.29s -> 734.89s]  VOD volume survey was to determine if it was a minority a majority of people who were experiencing
+[734.89s -> 740.01s]  audio issues with germa streams. I showed the results of the VOD volume survey to Community
+[740.01s -> 744.73s]  Jake and both Germa and Community Jake agreed that something needs to be changed so they'll be
+[744.73s -> 749.69s]  looking into making some changes soon. Frankly I'm actually really happy that I was able to do
+[749.69s -> 753.61s]  something that helps improve the stream for everyone else. Now for the first change that
+[753.61s -> 758.65s]  we'll be making on the channel is we'll be starting to mark the start and end of the BRB
+[758.65s -> 764.09s]  segments to make it its own BRB segment in the chapters. Additionally we'll also be time stamping
+[764.09s -> 768.87s]  where we pull the thumbnail from. Big streams are important for Germa right now so I want to make
+[768.87s -> 774.31s]  sure that his archive of that stream is as good a quality as we can get it. So because of that
+[774.31s -> 778.49s]  Community Jake will be sending us recordings of those big production streams to upload.
+[778.49s -> 783.61s]  If for whatever reason he can't send it then we'll be uploading the twitch version instead.
+[783.61s -> 788.28s]  This next one is something that's been requested fairly often and that is having community made
+[788.28s -> 792.60s]  subtitles. We'll be looking a little bit into having these community made subtitles. Now
+[792.68s -> 797.72s]  obviously this change relies more on the community so it's not for sure if this change will be made
+[797.72s -> 801.72s]  for certain but if anybody's interested in helping write eight hour long subtitles for
+[801.72s -> 806.60s]  fans of hard hearing please let me know message me on discord my discord will be in the description.
+[806.60s -> 810.84s]  At the very least if anybody's interested in helping subtitle some of Germa's bigger streams
+[810.84s -> 815.00s]  I'd be very grateful for that. This next change and the change after that are some changes that
+[815.00s -> 819.56s]  we've already made to the archive channel. The first change slash improvement being uploading
+[819.56s -> 825.08s]  and recovering older lost vods or blocked streams that have been blocked worldwide or for
+[825.08s -> 829.88s]  certain people. As some of you keen-eyed viewers may have seen we've already re-uploaded Germa's
+[829.88s -> 836.46s]  Jump King part 2 stream which is uploaded with some parts muted while keeping Germa's voice intact.
+[836.46s -> 841.02s]  Big thanks to Sky for helping out with the audio for that stream. If you guys haven't already please
+[841.02s -> 845.88s]  go to his channel and give him some love. He's been very kind and helpful to me. I wanted to
+[845.88s -> 849.96s]  start bringing back more of those long lost blocked streams or even some of the very old
+[849.96s -> 854.54s]  streams that were thought to be lost to time if possible. I'll be making a community post in the
+[854.54s -> 859.98s]  near future asking for suggestions on what videos you want to see returned next for the next change
+[859.98s -> 864.46s]  we've already made. For streams that we have separated by game like a recent stream where he
+[864.46s -> 869.74s]  streamed Mario Golf, Picross, Big Brand Academy, and Elden Ring we'll be linking the other games
+[869.74s -> 874.62s]  within that same stream but you'll be able to click the link to it in the comments of the video
+[874.62s -> 879.82s]  to other parts within that same stream. Getting down to the last couple changes the next one is
+[879.82s -> 884.47s]  having detailed thumbnails for example part numbers within the thumbnail. We're going to
+[884.47s -> 889.37s]  start trying to put a little bit more detail into the thumbnails mostly just putting part
+[889.37s -> 895.11s]  numbers on the thumbnail if applicable but we'll see what else we can do. Finally the last thing
+[895.11s -> 900.18s]  I want to talk about is something that has been requested over and over again. In the past I've
+[900.18s -> 904.66s]  said I wanted a way to add chat to these VODs while at the same time making them optional for
+[904.66s -> 910.31s]  people that don't want them or don't like having the chat alongside the video. I'm pleased to
+[910.31s -> 915.43s]  announce that I finally have a solution that's available for you guys. What I have for you guys
+[915.43s -> 922.02s]  is a website called Chat Replay. Well what is it you may be asking? This website will allow you to
+[922.02s -> 927.32s]  watch archived drama streams with a replay of twitch chat alongside the video. This means you
+[927.32s -> 932.92s]  get to see your favorite one guy moments live in chat or see twitch chat say hi to the VOD watchers.
+[932.92s -> 938.76s]  That's you guys. Chat Replay will not only let you watch archived drama streams with chat but also
+[938.76s -> 944.39s]  many other participating channels. That's not all though. If you prefer to stay on YouTube to watch
+[944.39s -> 949.75s]  streams then you can take advantage of the Chat Replay extension to have chat embedded right on
+[949.75s -> 953.99s]  the YouTube page right next to the video. The extension will add a button below the YouTube
+[953.99s -> 959.69s]  player that will allow you to embed chat into the YouTube page, pop chat out to put wherever you
+[959.77s -> 966.44s]  please, or open a twitch-like theater mode for you to view just like you're on Twitch.
+[966.44s -> 971.91s]  The extension is available now on Chrome and Firefox. If you're on a browser that doesn't
+[971.91s -> 977.62s]  support the extension or you're on mobile, you can still make use of the Chat Replay website.
+[977.62s -> 982.10s]  If you guys know a YouTube channel that uploads a copy of Twitch streams to YouTube
+[982.10s -> 989.02s]  and you want to see Chat Replay on that channel, ask them to message me or Restorn on Discord.
+[989.02s -> 993.18s]  My Discord will be in the description and Restorn's Discord can be found on the top
+[993.18s -> 998.28s]  of the Chat Replay website if you click the Join button. I just want to remind you guys that when
+[998.28s -> 1004.52s]  you're asking your favorite channels to implement Chat Replay, please do so politely. Don't spam them
+[1004.52s -> 1010.26s]  asking them to join your Chat Replay and keep it civilized, please. You can link them to this video
+[1010.26s -> 1014.66s]  with a timestamp to the start of this section or just link them to the Chat Replay website.
+[1014.66s -> 1019.98s]  The link to the website and the download pages for the extension will be in the description.
+[1019.98s -> 1024.78s]  Bringing you guys Chat wouldn't be possible without the help of community member Restorn.
+[1024.78s -> 1028.78s]  He's the one who created and maintains Chat Replay in the background, so please give him
+[1028.78s -> 1033.74s]  some of your guys' thanks. In addition, if you guys run into any problems, please let him know
+[1033.74s -> 1039.03s]  directly. Please don't leave any comments somewhere else and expect a problem to be fixed.
+[1039.03s -> 1043.91s]  If you guys like Chat Replay, please feel free to toss Restorn a couple dollars using the Donate
+[1043.91s -> 1050.07s]  button on the top right of the website. You guys have been asking for Chat for a long time. It's
+[1050.07s -> 1055.85s]  a question that has been asked for years. Can you please add Chat to the videos? So I'm glad to have
+[1055.85s -> 1060.65s]  finally gotten a good solution to that question. There are more things you guys have been asking,
+[1060.65s -> 1066.39s]  so I feel like it's time to move into the Q&A section of this video. These questions are picked
+[1066.39s -> 1071.32s]  out from the Bod Volume Survey, as well as a couple from the community post I made recently.
+[1071.32s -> 1076.20s]  Again, big thank you for your questions, even if I didn't pick yours to be answered. If you have a
+[1076.20s -> 1079.96s]  question that you'd like to have answered but isn't in this section of the video, you can go
+[1079.96s -> 1084.68s]  ahead and ask in the comments and I'll do my best to answer as many as I can. The questions can be
+[1084.68s -> 1090.52s]  about anything like Chat Replay, the partner slash monetization, the channel, or anything else.
+[1090.52s -> 1095.74s]  Just please try to keep the questions somewhat related to Germa or this channel. This section
+[1095.74s -> 1100.73s]  might be fairly long, so I'll try to get through it as quick as possible. But if you're not interested
+[1100.73s -> 1106.36s]  in listening to me answer some questions, feel free to skip to the timestamp on screen. Or you
+[1106.36s -> 1111.02s]  can exit the video now because this is the last section of the update video. If you decide to
+[1111.02s -> 1115.98s]  leave, thanks for stopping by and listening. I hope you had a great day. For those of you still
+[1115.98s -> 1121.90s]  here, let's get into those questions. Question one asks us how much work goes into uploading
+[1121.90s -> 1127.30s]  a video from Twitch to YouTube. Generally, the stream takes about two hours for me to download
+[1127.30s -> 1132.82s]  the VOD, make sure it's ready for upload, and upload it. I'm able to upload it quickly with
+[1132.82s -> 1138.34s]  gigabit fiber internet. While it uploads, I link chat using Chat Replay so it'll be available as
+[1138.34s -> 1142.82s]  soon as it's live. Once it's uploaded and processed, it's in Starkiller's hands where
+[1142.82s -> 1147.54s]  he skims through the video to find a suitable thumbnail, writes the title, description, puts
+[1147.54s -> 1153.78s]  playlists, end cards, and finally sets up the video to go up at 7am PST. On to question two,
+[1153.78s -> 1158.82s]  what's our relationship to Germa and did we have to get special permission to upload VODs?
+[1158.82s -> 1163.72s]  Up until about the time Germa moved to Vegas, we didn't have direct contact with him. I think he
+[1163.72s -> 1168.44s]  was a little cautious of us up until then, but since then he's been talking to us more,
+[1168.44s -> 1173.00s]  and I even got a chance to show him the sunflowers that I was growing while not knowing at all that
+[1173.00s -> 1178.28s]  he was also growing some too. While we didn't have to get special permission, I made sure early on
+[1178.28s -> 1182.68s]  in the channel's life to get explicit permission from both Stirr and Germa before I continued
+[1182.68s -> 1188.12s]  archiving for the public. I still uploaded streams for my personal use though. Question three,
+[1188.12s -> 1192.50s]  how long do you plan on doing this channel? Currently, the plan is to upload as long as
+[1192.50s -> 1198.18s]  Germa is streaming. If for some reason we have to stop uploading, I'll do my absolute best
+[1198.18s -> 1204.20s]  to find a replacement so that the archive stays updated. Question four asks, do we edit any VODs
+[1204.20s -> 1209.91s]  or they re-upload from Twitch? We tend to try to keep the VODs as close to a source as possible.
+[1209.91s -> 1214.39s]  The only edits we do are cutting the empty spaces of not talking at the beginning of the streams,
+[1214.39s -> 1220.23s]  or when we split up the streams by games he plays, or in the rare instances of copyright blocking a
+[1220.23s -> 1225.83s]  stream, we try to edit out any of the copyrighted content. On the topic of copyright content,
+[1225.83s -> 1231.11s]  question five asks, how do you deal with copyright claims that block streams? If he's playing a
+[1231.11s -> 1237.03s]  random, somewhat unimportant game like House Flipper or Fart Simulator 2023, then it's easier to just
+[1237.03s -> 1242.49s]  mute the section that gets claimed. But for big streams like Dollhouse, Game Awards, or other
+[1242.49s -> 1247.05s]  streams where sound is important, we determine if we have a case to file a dispute against that
+[1247.61s -> 1251.45s]  It has to be almost clear that we'll win the dispute, because with too many strikes,
+[1251.45s -> 1257.05s]  the channel will get deleted and that's no good. Question six asks, what would you do if a seagull
+[1257.05s -> 1264.07s]  crashed into your room? Question seven asks, what are your favorite content creators aside from
+[1264.07s -> 1269.94s]  Jerma? At the cost of my pride, I'll reveal some of the people I've been watching lately. I have
+[1269.94s -> 1274.50s]  been watching a lot of VTubers lately, but more specifically, I've been watching some Nijisanji
+[1274.82s -> 1280.92s]  members like Salen, Pomu, or Finana. It's only a few streams here and there from a few members
+[1280.92s -> 1285.96s]  of Nijien, depending on if they play a game I want to watch. Aside from that, I've been
+[1285.96s -> 1292.04s]  enjoying many of True Nerd's Fallout YOLO runs, Ray Navey's Jr. streams, and very occasionally
+[1292.04s -> 1296.76s]  Soviet Womble and Russian Badger whenever they upload. Starkiller, on the other hand, enjoys
+[1296.76s -> 1304.52s]  watching Vinny Vinesauce, Kitboga, SimpleFlips, Many True Nerd as well, Windigoon, and JimmyIsHere.
+[1304.52s -> 1308.87s]  There's a few more that he likes to watch, but those are the ones he's been watching lately.
+[1308.87s -> 1313.59s]  Since I had out myself watching VTubers, I'll hint at Starkiller's favorite VTuber.
+[1314.95s -> 1319.26s]  You'll see it on screen now. Now that I look at it, most of the questions that are left are about us,
+[1319.26s -> 1323.66s]  so if you guys aren't interested in that, then also you can skip to the timestamp. Question eight
+[1323.66s -> 1329.80s]  asks, what is our favorite Jerma stream? Mine is Chibi-Robo because it was my favorite GameCube game,
+[1329.80s -> 1333.88s]  but no one else seems to like it for some reason. Either that or Rhythm Heaven Fever.
+[1333.88s -> 1338.65s]  Starkiller's favorite Jerma stream is either the Long Drive or Talk to Transformers since
+[1338.65s -> 1344.60s]  he's seen the highlights for many times. That or the Sorcery streams. Question nine asks,
+[1344.60s -> 1350.12s]  pineapple on pizza or no? If I have a choice, no, but I'll eat it if that's what gets ordered
+[1350.12s -> 1356.23s]  because I prefer not starving. Still on the topic of foods, what is our favorite food?
+[1356.23s -> 1362.23s]  Quesadillas. I love Quesadillas so much, but mostly only the ones that I make myself. That's mostly
+[1362.23s -> 1367.21s]  because the ones from the fast food chains taste like fake cheese. Starkiller, on the other hand,
+[1367.21s -> 1373.14s]  had a hard time deciding, but settled on pizza and Chinese food. Question 11 asks, how many
+[1373.14s -> 1379.78s]  Burger King burgers have you eaten? Wouldn't you like to know McDonald's spy? Now on to the last
+[1379.78s -> 1385.54s]  question, question 12. Is this channel a labor of love? A lot of time and effort goes into this
+[1385.54s -> 1390.68s]  channel that there's worried of us getting burned out. Years ago when I first started this channel,
+[1390.68s -> 1395.16s]  it started off as a personal storage of VODs that I wanted to watch later that I didn't want to
+[1395.16s -> 1400.36s]  save before Twitch deleted them. As I started to see more people make use of the Archive channel
+[1400.36s -> 1404.36s]  and as I got better internet and storage space, the channel started becoming a better way to
+[1404.36s -> 1409.32s]  serve the community and for me to personally give back to Jerma since at the time I didn't have
+[1409.32s -> 1414.78s]  money to sub or give bits. Nowadays, as Starkiller and I become busy in our personal lives,
+[1414.78s -> 1419.82s]  update the channel each Jerma stream is something we have less time for, but seeing how many people
+[1419.82s -> 1425.66s]  we help just by uploading this funny man makes it all worth it for us. So with that last question,
+[1425.66s -> 1431.27s]  that brings this video to a close. There was a lot that was talked about here with the partnership,
+[1431.27s -> 1436.10s]  upcoming changes, and chat replay, so I hope it wasn't too boring to watch.
+[1436.10s -> 1440.02s]  Like I mentioned at the beginning of the Q&A section, if you have a question about anything
+[1440.02s -> 1443.94s]  I talked about here today, please feel free to leave it at the comment section below and I'll
+[1443.94s -> 1448.66s]  try to answer as many as I can. In addition to that, if you want more news about the Archive,
+[1448.66s -> 1453.78s]  want to stay updated with why Abad might be out later than usual, or just want a place to hang out,
+[1453.78s -> 1458.92s]  come join our Discord. In there, it's always time for some juicy franks.
+[1458.92s -> 1463.83s]  One final thing before I end the video, I wanted to thank you all for your support from the bottom
+[1463.83s -> 1468.62s]  of my heart. If you excuse a quick tangent for me to share a little more about myself,
+[1468.62s -> 1473.67s]  I had always dreamed to be a YouTube star as many kids do. Growing older, I realized I don't exactly
+[1473.67s -> 1478.71s]  have the personality or the voice to make good content. Even while doing this line, I had to
+[1478.71s -> 1483.67s]  retake it several times. However, this channel has allowed me to live vicariously, feeling the
+[1483.67s -> 1488.71s]  support of the community. I know most of you guys' support goes to Jerma, but I read every comment
+[1488.71s -> 1493.03s]  that you guys leave thanking us for the Archive, and it always makes me glad that I get to be a
+[1493.03s -> 1498.65s]  part of something so cool and useful to so many people, including Jerma himself. We here at the
+[1498.65s -> 1503.13s]  Archive want to thank you once again for your support, and we will do our best to keep providing
+[1503.13s -> 1507.67s]  the Jerma content you know and love. Thank you all, and see you next time.

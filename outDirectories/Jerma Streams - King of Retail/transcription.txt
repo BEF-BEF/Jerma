@@ -1,0 +1,717 @@
+[3.77s -> 14.26s]  Hello. Hi. Yes, sorry. I apologize to everybody. It is 420, 20 minutes later than the two hour
+[14.26s -> 22.38s]  later delay that I gave you earlier today. And I apologize for that. I'm very sorry. I'm battling
+[22.38s -> 30.52s]  a headache. I know that's like the easiest excuse to get out of anything, but it's true. I have,
+[30.52s -> 39.99s]  I've had a headache. Weed is legal? Weed's been legal in Las Vegas for like three years.
+[41.45s -> 48.70s]  Hello, how are you? Haven't seen you guys in a while. This is longer than I ever anticipate.
+[48.70s -> 55.75s]  You'll have to wait for a stream. Even being once a week Andy does not mean once every 10 days Andy.
+[55.75s -> 64.01s]  I'd rather it be six or seven days tops. But there's been a lot going on and very soon,
+[64.81s -> 74.18s]  very soon, we'll be able to talk about it. So lots of exciting stuff. Let's just say that
+[74.18s -> 79.24s]  August and September. Holy shit. That's all I'm gonna say.
+[84.18s -> 103.34s]  Let's go. Yeah, let's go. Holy shit. What do you say? Why, why are you streaming? It's Thursday.
+[104.06s -> 112.06s]  You seem like the kind of guy that can sneeze on command. It took a long time to learn how to do
+[112.06s -> 130.50s]  that. Countless hours studying people. Let's go. Yeah, let's go. So today, this is not going to be
+[130.50s -> 138.86s]  a short stream, by the way. I'm gonna play King of Retail. This is a game that looks really good.
+[139.50s -> 149.06s]  I'm very excited for it. You make your own store. You sell products. It's like a chores game. And
+[149.06s -> 156.18s]  you know, that's what I do here. That's like what I play. But yeah, this ain't gonna be like,
+[156.18s -> 163.40s]  we've done like three to four hour streams the last three or four streams. That's not gonna happen
+[163.40s -> 171.45s]  today. Even if King of Retail gets boring, if I don't like it. I'm like, okay, I had my fill.
+[172.86s -> 179.90s]  We still have, I mean, we've got the 2020 Olympics game, video game. That's incredibly important that
+[179.90s -> 192.22s]  we play that. I don't know if it's today, but we'll see. Have I played Papers, Please? I have.
+[195.06s -> 200.26s]  I've got to the point of Papers, Please, where I can't play it anymore. Because once you incorporate
+[200.26s -> 207.13s]  more than four documents, I physically cannot play the game. I can't do it. I actually can't do
+[207.13s -> 213.06s]  it. I always play Papers, Please until you get to four documents and I talk about how much fun it is
+[213.06s -> 226.44s]  and then I don't do it. And I skip it. But yeah, I'm ready to go. I should eat a whopper. Hey,
+[226.44s -> 233.42s]  I'll eat whatever I want. All right. King of Retail. Make sure the face cam's not on.
+[235.48s -> 244.12s]  All right, we're good. There it is. This is King of Retail. We're gonna do new manager,
+[244.12s -> 251.75s]  create a manager and get ready to conquer the world of retailing. All right, let's go.
+[251.75s -> 262.07s]  First name. Should it be me or should it be somebody else? Who should it be? This is a Unity
+[262.07s -> 269.34s]  game? Yeah, every game nowadays is a Unity game. It's free to license. It's cheap and it's easy to
+[269.34s -> 274.49s]  use. I used to say the same thing and then I realized, holy shit, like this is like actually
+[274.49s -> 281.56s]  like really good for independent developers. Don't you have to pay like 40% of your entire
+[281.56s -> 288.76s]  life savings to be able to use Unreal or something? What's the licensing fee for Unreal?
+[288.76s -> 300.20s]  There's something crazy, right? Unity's not free. Well, I'm making that up then. 40% of your soul.
+[301.08s -> 310.92s]  Now, Unreal is free too. After a million dollars, they take a 10% cut. As a developer who uses
+[310.92s -> 320.12s]  Unreal, I have to correct you. All right, then yeah, correct me. All right, yeah, I'm completely
+[320.12s -> 334.58s]  corrected. And it's even got green text. It's got green text. I don't know. I feel like this
+[334.58s -> 344.06s]  would happen if you like character melded me and Elon Musk together. Oh, never mind. Now it's me
+[344.06s -> 364.82s]  and Elon. Now it is. I like this one so far. I like that one. Yeah. Oh, whatever. I say the name wrong.
+[364.82s -> 392.71s]  Elon. Elon. Is Elon? Elon. Elon. Elon. Elon. Elon. Whatever. I kind of like that. I can't even
+[392.71s -> 396.47s]  really make Mr. Green. All right, we're gonna change the character's name because it can't even
+[396.47s -> 418.78s]  be Mr. Green. It's gonna be like, it's got to be a more tame version of Mr. Green. That's even worse.
+[419.26s -> 442.12s]  It's a character from a children's book. John Sale. Cousin Green? Cousin Green. I think that
+[442.12s -> 449.61s]  might be worse than the last one. No, who can't? This guy is just a, this is a side character.
+[449.61s -> 461.43s]  Doesn't matter. All right, that's fine. Are you happy with this manager? Yes, I am. Let's go.
+[461.43s -> 468.60s]  All right, single store mode, campaign mode, or business school. As the owner of a new store,
+[468.60s -> 473.93s]  do you have what it takes to expand your customer base and make a profit? Work for other companies
+[473.93s -> 479.05s]  and earn enough money to found your own and go from managing a small store to large retail chains.
+[479.05s -> 489.46s]  Can you dominate the city? Learn about the game. So this tutorial. Just go flunk out of business
+[489.46s -> 505.00s]  school. This is tutorial. All right, you know you're, you know you're like not doing so well
+[505.00s -> 517.53s]  as a professor when you pump fake crowd sound into your, into your class. He doesn't have to do this.
+[521.29s -> 527.18s]  I'm the only person that signed up for business 101. Welcome to all of you. Please talk to the
+[527.18s -> 531.66s]  instructor to participate in one of our classes. Please be quiet during the lectures. If you have
+[531.66s -> 539.45s]  a question, please raise your hand and yes, stupid questions do exist. I have a stupid question.
+[540.42s -> 553.22s]  Where are all the people? Know your area. Dark horse. Shut up. Oh, there we go. Thank you.
+[554.34s -> 563.11s]  Know your area. Oh God, what the fuck is this? To run a successful store, you want to know more
+[563.11s -> 568.74s]  about the city and the customers that reside in it. Each city consists of a unique mix of customers.
+[568.74s -> 578.09s]  They're categorized into the following segments. Fashion high, low, and wealth low, high. So fashion
+[578.09s -> 589.14s]  low, wealth low is farmer. Fashion low, wealth high is techie. Fashion high, wealth low is student.
+[589.14s -> 598.52s]  Is this how we're measured? The kind of clothing we wear? What? Wealth high, fashion high is
+[598.52s -> 612.17s]  celebrity. Where do you sit on the political compass test? Uh, hipster, techie, accountant,
+[612.17s -> 624.50s]  celebrity. Oh dude, I got celebrity on the political compass test. Okay. So yeah, I get it.
+[624.50s -> 629.22s]  As you can see, the chart shows what each segment looks for when they go shopping. Are they quality
+[629.78s -> 633.78s]  or money oriented? And how important is it that the article is in fashion?
+[637.29s -> 645.66s]  Click to share your results. Click share. I got hipster in the political compass test. What will
+[645.66s -> 658.31s]  you get? Zero likes, zero retweets, zero replies. As if I did that, it would be zero likes, zero
+[658.31s -> 667.35s]  retweets, zero replies. Understand? That's essentially an ad that people have to scroll by.
+[667.35s -> 677.42s]  No one looks at those. Not one person. It's an annoying Twitter ad. A pie chart of the population
+[677.42s -> 685.86s]  could look like this. Farmer, pensioner, student, ecologist, laborer, hipster, techie, accountant,
+[685.86s -> 693.62s]  and celebrity. There's a lot of celebrities that live in this town. Damn. In the chart, you can
+[693.62s -> 696.82s]  see that this city mainly has a low income population, so your assortment of articles
+[696.82s -> 705.30s]  should primarily consist of articles of the lower price range. Okay. Customer flows. The various
+[705.30s -> 710.98s]  segments also have different shopping patterns. So the peak hours for farmers and students may be
+[710.98s -> 715.69s]  different during a given day, but the peak hours for farmers in a workday compared to the weekday
+[715.69s -> 721.70s]  will also vary. Weekends are in general busier than workdays. Well, wouldn't I have to have the
+[721.70s -> 726.70s]  store open at like four o'clock in the morning? Because farmers get up really early. On your
+[726.70s -> 733.98s]  computer, you can see... whatever. Don't forget about article saturation. When you sell articles,
+[733.98s -> 738.70s]  the market will get saturated with those articles. The more you sell an article, the fewer customers
+[738.70s -> 745.18s]  will require it. I just realized I'm just standing up here in the front of the classroom reading
+[745.18s -> 753.26s]  this. No one's teaching me anything. These are sa- these saturations are averaged out over several
+[753.26s -> 757.75s]  days. To tackle this, you can occasionally switch your focus to different articles. All right,
+[757.75s -> 763.43s]  all right. This is important shit, though. We gotta know this. You're standing up on the desk.
+[767.77s -> 771.83s]  All right, this is important shit. Just hold on. When customers go shopping, they have various
+[771.83s -> 776.15s]  needs for the different categories. The customer's need is the most important factor when they go
+[776.15s -> 781.35s]  shopping. If the customer has a big need, they are willing to compromise a lot for the right article.
+[781.35s -> 785.96s]  Whatever. Reputations. All right, just, like, don't have, like, rat shit everywhere and people
+[785.96s -> 790.17s]  will be happy. The store is a reputation with individual customer segments. Those are a reputation
+[790.17s -> 793.61s]  for selling the various article groups. When customers go, look, I'm just gonna- I'm just
+[793.61s -> 800.15s]  gonna sell, like, white t-shirts and, like, sandals. That's- everyone can buy that. That's in fashion
+[800.15s -> 805.96s]  for everybody. Each time you sell something, your reputation goes up. And if a customer leaves angry
+[805.96s -> 812.74s]  and disappointed, your reputation goes down. Before you start buying articles for your store,
+[812.74s -> 817.62s]  you might want to investigate the type of city that you are in. This information is available.
+[817.62s -> 835.19s]  All right. Yo, teach! When is it lunch? Should I do the other stuff? Oh, there's a lot. Know your
+[835.19s -> 840.73s]  article. Managing your articles. Influencing your customers. The art of selling. I already know how
+[840.73s -> 845.45s]  to do this. Managing staff. This is a lot. This is a lot. I think I have to- I gotta read at least
+[845.45s -> 851.90s]  the first three of these, okay? Everybody relax. Know your article. I'm just gonna- I'm gonna skip
+[851.90s -> 857.42s]  through it. I'm gonna do exactly like I did when I was in high school and college. I'm gonna have
+[857.42s -> 864.12s]  to read like two sentences and then get like a D on the test, but still be fine and pass.
+[864.12s -> 869.08s]  All of your articles have various base parameters that make them unique. Price, score, fashion.
+[869.08s -> 874.52s]  Got it. All right. Quality, design, and luxury. Got it. All categories of a city average price.
+[874.52s -> 878.76s]  To see if an article is either expensive or cheap, customers will compare it to the average price.
+[878.76s -> 882.12s]  By decreasing or increasing the price, you can adjust how attractive articles are to certain
+[882.12s -> 888.66s]  groups. Okay. Quality, score. Quality of an article. If it's a very high quality, then all right.
+[888.66s -> 893.56s]  Article fashion. This explains how stylish an article is. This is- this is the blue line
+[893.56s -> 899.14s]  is stylish. A farmer, on the other hand, doesn't mind the fashionability, but doesn't want to pay
+[899.14s -> 906.73s]  extra, okay? Luxury. This is for like the celebrities, right? High luxury. Effort to sell.
+[906.73s -> 916.46s]  That was easy- what? That was the class? This professor sucks. I could have googled this.
+[922.50s -> 926.82s]  That's the most- all right. Managing your articles. Just wait. I'm- not only- I'm gonna do it. I need
+[926.82s -> 933.59s]  to know what to do. Stop it. Guys, fine. You go sleep. Go sleep in the back. I'm up at the
+[933.59s -> 939.02s]  front learning, okay? If you want to sleep, then sleep on your desk. Whatever. Between the moment
+[939.02s -> 942.78s]  you order articles and the moment the customer takes them home, the article usually goes through
+[942.78s -> 953.51s]  the following phases. It has to be delivered? They don't take it from the store. They just point at
+[953.51s -> 959.37s]  it and then I deliver it to them? Okay. When your unit arrives, they're prepared to the warehouse.
+[959.37s -> 966.79s]  Okay. After when the articles are the delivery units, you need to unpack them. Got it? Minimum
+[966.79s -> 969.83s]  storage system. To make things easier, you have access to multiple systems on your computer. One
+[969.83s -> 975.94s]  of them is storage. Okay. Let's just go fail five businesses and like figure it out. You know what
+[975.94s -> 986.39s]  I mean? All right. I'll be all right. Stop shouting. I'm trying to sleep for fifth period.
+[987.54s -> 992.44s]  F. You're gonna get an F. All right. So you have to store stuff. You have to order stuff. Things
+[992.44s -> 997.29s]  have to be delivered with the flow. There's a flow. I got it. All right. All right. I think I'll be
+[997.29s -> 1000.33s]  all right. I think I get the general concept of the game. Let me see if there's anything else
+[1000.33s -> 1008.82s]  important here. Let's go. Let's go. I'm ready. Let's go. If I need to figure it out, I'll figure
+[1008.82s -> 1025.38s]  it out. How do I leave college? All right. New manager. Wait, no, no, no. Load manager. Wait,
+[1025.38s -> 1031.69s]  did I just go to school and that's it? Puzzle and green. Okay. Load. Why is he in a different
+[1031.69s -> 1040.73s]  clothes? All right. Let's do campaign mode. Let's go for it. Campaign. New game. Message from City
+[1040.73s -> 1047.10s]  Hall. Dear retailer, from what we have heard, you are interested in running your own company in our
+[1047.10s -> 1053.32s]  city. Before you can do that, you must come to us to prepare the essentials. We'd also like to offer
+[1053.32s -> 1057.72s]  some advice on how to get it off to a solid start and what the city has to offer. You know,
+[1057.72s -> 1062.63s]  you can navigate around the city using the WASD keys. The arrow keys are replacing the mouse at
+[1062.63s -> 1070.36s]  the edge of the screen. You're sincerely the mayor. What a weird last sentence to get. I would think
+[1070.36s -> 1081.98s]  he was on drugs. This guy is shit faced. Imagine getting this letter. Oh shit. Okay. All right.
+[1081.98s -> 1086.23s]  Company not founded. Welcome to the city. Before you start on your own, you need to require capital.
+[1087.22s -> 1098.54s]  Work for hire. Okay. Bills outfits. $16 a day. Very low population. So this is where I have to work?
+[1098.54s -> 1107.54s]  Holy shit. Look at all this. City, take courses here. Learn more about the game. Oh, that's...
+[1107.54s -> 1117.24s]  Okay. $16 a day? This is the City Hall. This is permits and then a big baseball field.
+[1119.66s -> 1126.97s]  I have to work here. This is my first job. $16 a day? That seems like fucking nothing.
+[1126.97s -> 1141.77s]  Completion bonus $80. All right. Will go work? I have to work? Go to the store. What time is it?
+[1141.77s -> 1152.84s]  Complete the current contract. You must serve five customers. Congratulations on your new store.
+[1152.84s -> 1156.36s]  This is your pre-opening day, meaning you have all the time in the world to get your store ready for
+[1156.36s -> 1165.77s]  the grand opening. We've prepared a list of things to do to get you up and running. That's something
+[1165.77s -> 1174.63s]  that is that in the store? Bills outfits. Oh, Bill, we got to talk about your sign. Bill, your sign is
+[1174.63s -> 1185.42s]  like what my school principal had at the end of his desk. It's a name tag. Okay. Buy a delivery unit.
+[1185.42s -> 1191.14s]  Design, leave store. Normal. We can do fast speed. Oh, shit. Okay. We're not doing that.
+[1191.70s -> 1199.93s]  I have $2,400. Why do I have to design his store? Buy inventory. Buy a storage unit. Okay. How about
+[1200.81s -> 1211.40s]  buy inventory? All right. Buy a delivery. So buy inventory. Registers. And you don't need
+[1211.40s -> 1220.31s]  a register? Okay. Delivery units. $80. All right. What's going to get this one? It has
+[1220.31s -> 1230.68s]  30 units. Oh, shit. I got to go in here. All right. This makes sense. Right here. This is where I store
+[1230.68s -> 1240.66s]  stuff for deliveries. All right. Storage unit. 160. Well, I'm just going cheap right now. I'm
+[1240.66s -> 1254.65s]  just learning how to play. How do I flip? Okay. Order articles. Clothes. Shirts. Okay. Hold on.
+[1254.65s -> 1265.75s]  Buy inventory. Manage articles. Order articles. Clothes. Shirts. Oh, God. Oh, what do I get?
+[1265.75s -> 1273.11s]  How about fun and games? I took an arrow to the knee. Should I set up a meme store? Nobody wants
+[1273.11s -> 1285.70s]  this shirt. That's so stupid. Okay. I'm going to get fun and games. How many do I get? Oh, drag them
+[1285.70s -> 1298.58s]  here. Okay. One. I buy like 10? I'm going to buy 10 arrow to the knee shirts. Okay. Now I need to
+[1298.58s -> 1308.36s]  request a delivery. Staff room is tiny. All right. Request delivery. Before you open, all deliveries
+[1308.36s -> 1313.37s]  are free today. All right. Give me it. I'm on my way with the articles you ordered. See you in a
+[1313.37s -> 1328.41s]  moment. Where does he go? I'm just going to stand here and look at the door. Imagine having only one
+[1328.41s -> 1356.76s]  shirt. Oh, GTA. Drop it. All right. Cool. Unpack. Buy displays for your articles. Oh, I have to
+[1356.76s -> 1364.63s]  actually build the displays. Oh, no. Okay. All right. All right. Wait, what's all this? Oh,
+[1364.63s -> 1370.89s]  shit. That's where I'm storing the other shirts. Okay. Buy displays. This game actually might be
+[1370.89s -> 1377.61s]  pretty fun. All right. Design. Manage signs. Design. Buy inventory. Displays. There it is.
+[1377.61s -> 1388.57s]  Displays. Clothes. Shirts. Do I have the racks in the middle? How many do I have? $320. These
+[1388.57s -> 1399.54s]  look like things that kids play on at the playground. Okay. What about... All right. We're
+[1399.54s -> 1411.00s]  going to go with this one. Does it matter? All right. Add articles to it. Edit articles. Design.
+[1411.00s -> 1425.11s]  All right. Edit articles. Clothes. Shirts. What am I going to have on here? Okay. I could have four
+[1425.11s -> 1434.06s]  slots. Okay. Pack article. Remove autofill. Manage all spots. Oh, shit. Okay. I think that's all
+[1434.06s -> 1454.20s]  right. Fill article. Where is it? Okay. If you can't... If you came into this store, you are on a
+[1454.20s -> 1461.16s]  candid camera TV show. There's no way this is not a hidden camera show or like you're on video and
+[1461.16s -> 1469.70s]  something crazy is going to happen around you. This is a set. Okay. So add articles. I need more
+[1469.70s -> 1478.73s]  t-shirts. Okay. I use them all? How many did I buy? All right. Update the store window. Whatever.
+[1478.73s -> 1492.12s]  Fuck it. Select article to showcase. But what... I don't even have these. Should I just do false
+[1492.12s -> 1518.57s]  advertising? What am I doing? Final touches. I feel like a roller coaster tycoon shop. Over there
+[1518.57s -> 1526.44s]  is still... I need to buy a register. Open the register. Buy a computer. Okay. Open a register.
+[1526.44s -> 1532.10s]  Buy a register. Let's get the... How much money do I have? 1,700? All right. Let's need a little one.
+[1532.10s -> 1555.19s]  I'll rotate. There it is. It'd be right here. This store is so small. Where do I put this? Okay. Do
+[1555.19s -> 1566.38s]  I have to sit behind there or do I have to hire somebody? Open the register. Open for customers.
+[1566.38s -> 1583.67s]  Close register. Design. Wait. I can design the register? Oh no. Okay. This is kind of cool.
+[1583.67s -> 1593.64s]  Haste? All right. Open the register. Close the queue. Buy... Wait. I need to buy a computer first
+[1593.64s -> 1607.35s]  before I open. Okay. Buy a computer. Do I have enough money to buy a computer? Registers? Office?
+[1607.35s -> 1613.22s]  Is this a computer or is this a monitor? Okay. Monitor. Advertise to increase reputation.
+[1613.22s -> 1627.58s]  Oh shit. All right. This is going in here. Now over here. Do I have to do anything with this? Use.
+[1627.58s -> 1631.78s]  You can't do that today. Why can't I use the computer? All right. Let's open for business.
+[1632.33s -> 1656.76s]  How much do these even sell for? I have no idea what these even sell for. Here we go. Open. Welcome
+[1656.76s -> 1680.95s]  cousin? Oh, my name is cousin. Right. Whatever. Might as well pull the fire alarm. Where are the
+[1680.95s -> 1709.13s]  customers? The perfect insurance fraud scam. It's pre-opening. Starts end the day? End the day. How
+[1709.13s -> 1732.49s]  do I end the day? Just leave? Computer? Manage staff. Manage articles. Manage signs. How do I
+[1732.49s -> 1743.34s]  just end the day? Leave store? Go to the office. Wait. No. Didn't I go to business school? Close
+[1743.34s -> 1752.89s]  the register. I think I did already, didn't I? That it? Go to office? My office is in here.
+[1752.89s -> 1762.62s]  This is going to just teleport me in there? Daily payment? No, I didn't even make any money. Why
+[1762.62s -> 1770.39s]  do I have to pay rent? Can I just work here? When your store closes, this is where you go to finish
+[1770.39s -> 1774.55s]  up the day and go to prepare for the next in here. You have all the time in the world to do what needs
+[1774.55s -> 1784.26s]  to be done before opening tomorrow. To interact with any of these objects, go to press E. Walk away,
+[1784.26s -> 1789.58s]  press escape. All right. Let's take a look at what you can do. This is the catalog designer. This is
+[1789.58s -> 1793.34s]  where you can design various advertisements to be put in magazines that are read all over the city.
+[1793.34s -> 1798.12s]  Okay, that sounds fun. These can give a boost to your reputation, increase the needs of the
+[1798.12s -> 1801.56s]  customers, as well as temporarily increase the number of people passing by your store.
+[1801.56s -> 1812.34s]  I think it's exactly, yeah, yeah, yeah, yeah. Whoa. Expanding and rebuilding the store.
+[1812.34s -> 1818.04s]  You can manage the layout of your store and if you own it, also expand the store itself. Green tiles
+[1818.04s -> 1826.23s]  are your sales space. Yellow are your storage. Blue are your staff rooms. Oh, shit. You can add
+[1826.23s -> 1830.47s]  free standing walls and edit the size and shape of your rooms. When changing the rooms, remember
+[1830.47s -> 1834.82s]  to make sure that there's a door leading to the main area. This is way more detailed than I thought
+[1834.82s -> 1840.79s]  it was going to be. Holy shit. Game auto saves each time you enter or leave the office, so don't worry.
+[1840.79s -> 1846.78s]  But if you have changes you want to keep, you can also save and quit the game from here. Oh my god.
+[1846.78s -> 1853.22s]  Today's results. You can see this game actually could be really, really, really good. Really good.
+[1853.22s -> 1858.54s]  We're going to find out. You can also see statistics on your sales performance. Green represents
+[1858.54s -> 1864.20s]  income and red is expenditures. All right. So yeah, but I had to put some inventory in the store.
+[1864.20s -> 1875.53s]  Here's the schedule for your employees. You can assign working hours, lunch breaks, tasks, and days
+[1875.53s -> 1885.70s]  off on a weekly basis. Is everybody only working on Thursday? We all come in on Thursday and then
+[1885.70s -> 1895.80s]  no one is in the store for five or six straight days. To change a schedule, move the mouse to an
+[1895.80s -> 1901.34s]  hour. Click and hold the left mouse button and then move the mouse to a different hour and release
+[1901.34s -> 1907.43s]  the button. Add a lunch break design. Click the right mouse button on the desired hour. Oh my god.
+[1907.43s -> 1912.76s]  This is going to be so much fun. Courses and talents. At this board, you can view and manage
+[1912.76s -> 1918.78s]  your staff individually. That guy's name is Jerma. Other than viewing their personal information,
+[1918.78s -> 1921.98s]  you can see their talents and send them on courses as well as promoting and doing wage
+[1921.98s -> 1934.02s]  renegotiations. This is your personal computer. Here you can do various things. Okay. As well
+[1934.02s -> 1938.18s]  as ordering articles, you can see various stats regarding sales and customers. Use this to analyze
+[1938.18s -> 1943.74s]  your store and prepare for the next day. If you're in a pinch, you can also apply for a loan to get
+[1943.74s -> 1949.42s]  extra money immediately. They have to be paid back with interest, right? This is your application
+[1949.42s -> 1953.88s]  inbox. It contains letters from the various persons who want to work at the store. Each
+[1953.88s -> 1958.63s]  application contains hints about the skill and experience of the person behind. If a person
+[1958.63s -> 1963.05s]  sounds interesting, you can start the interview process from here. Will you learn more about the
+[1963.05s -> 1970.81s]  person and negotiate a wage? What? What is all this? This is too- this is insane. This is the
+[1970.81s -> 1977.00s]  negotiation table. This is the table where you conduct your interviews. When an interview has
+[1977.00s -> 1982.26s]  ended in an agreement, the contract itself lies on the table for you to sign. You can then hire
+[1982.26s -> 1989.86s]  the person, discard the contract, or simply let it be until you are ready to decide. Here's- here you
+[1989.86s -> 1995.96s]  can set the operating hours of the store. Simply click the arrows to increase the desired times.
+[1995.96s -> 2002.52s]  Wait, can I have a 24-hour store? Oh. City regulations allow stores to have- to be open from
+[2002.52s -> 2009.22s]  2 to- oh shit, it's uh- it's military. This always fucks me up. I have to count backwards. I don't
+[2009.22s -> 2015.14s]  know what that- I don't know what time that is. Is that 11 o'clock? PM? No, that's 10 o'clock.
+[2015.14s -> 2021.35s]  That's 10- is it 10? That's 10 PM, right? I don't use military time. I don't- whatever. I have- can
+[2021.35s -> 2026.66s]  I change that? Subtract 12. I don't- I don't- I don't- it's- it's hard to look at. I know it's like
+[2026.66s -> 2033.67s]  so- it should be so simple. We shouldn't- we should always- it's- why do we start over at 12, right? I
+[2033.67s -> 2041.45s]  know. It should just be 24 hours in a day, so it's 24. I get it. I know. Trust me. It gets hard.
+[2041.45s -> 2049.88s]  All right, so that we can uh- when the store is open, that's cool. As a manager, you always meet
+[2049.88s -> 2059.48s]  in one hour before the store opens and leave one hour after it closes. Oh, what? I'm like 20 minutes
+[2059.48s -> 2066.52s]  late to my own streams. I'm gonna come in an hour early? I'm gonna- I don't think I'm gonna be able
+[2066.52s -> 2072.41s]  to do that. An hour early. If you can- if you change the hours to also check your staff schedule,
+[2072.41s -> 2087.38s]  this will automatically update. Okay, cool. On Friday, there's sightseeing for pins? What does
+[2087.38s -> 2102.31s]  that say? A picnic? A pins? What does that say? Pensic? What's pensic? Okay, so this is if people
+[2102.31s -> 2104.79s]  are gonna be in the area, they're gonna be sightseeing, they're gonna want binoculars,
+[2104.79s -> 2110.82s]  they're gonna want uh- uh- cockies, right? They're gonna want cargo shorts. I get it.
+[2110.82s -> 2130.22s]  Okay, here we go. I'm kind of overwhelmed, but I'm really into this. I only have $1,100. This- I- I-
+[2130.22s -> 2143.03s]  oh, I'm- wait, I'm- I have a bird's eye view of the store? Shit, okay. I only have $1,139
+[2143.03s -> 2148.63s]  to run- I have to run a whole store like this? All right. Advertising. Let's- no, no, no, no, no.
+[2148.63s -> 2152.31s]  Fuck that. I have like a bunch of shitty shirts. I have to go in there and fix that.
+[2152.95s -> 2162.58s]  What's the schedule look like? Where's the schedule? No, there's nothing on there. Where's
+[2162.58s -> 2169.88s]  that schedule? You have no staff? What? I thought I just had like 10 employees. Where's- where's
+[2169.88s -> 2178.84s]  where's Jermarcus? I don't have any staff? Oh, that was just a lie. All right, do I sleep on the couch?
+[2178.84s -> 2188.04s]  All right, I'm ready. What's today? Okay, so on Friday, there's a sightseeing for a pensic.
+[2188.04s -> 2194.49s]  A tourist group of 20 people are visiting your area from the pensioner segment. All right, we
+[2194.49s -> 2208.44s]  get- by Friday, we get to load a bunch of pensioner stuff in here. Let's go. I made $1? Guys,
+[2208.44s -> 2220.18s]  I found that on the ground on the walk to the store. All right, this is not- okay, let's go,
+[2220.18s -> 2223.48s]  let's go, let's go. All right, no more of this meme shit. I want to actually have a business,
+[2223.48s -> 2233.69s]  you know what I mean? Do I have $1,100? The pensioners like this? Let me see. Edit articles.
+[2233.69s -> 2246.81s]  What- clothing. All right, what do I got? Shirts. How can I tell? How can I tell? Design the
+[2246.81s -> 2255.19s]  inventory? Design the interior? Holy shit, hold on. Oh, should I just have like- should it be a reptile
+[2255.19s -> 2261.58s]  store? Oh, the store's not open. I gotta open the store right now. Hurry, hurry, hurry. Come
+[2261.58s -> 2271.69s]  on, come on, come on. Open store. Open store. Open the store. Open. Come on in. Buy a t-shirt.
+[2271.69s -> 2289.10s]  Hey, hey, hey, hey. A grand opening of Bill's Outfits. I would literally anyone go to this
+[2289.10s -> 2305.27s]  store. I need to make money somehow. What about the computer? Who am I talking to somebody?
+[2305.27s -> 2313.45s]  Student? Pensioner. What's this? Am I like making a Reddit thread? What am I doing?
+[2313.45s -> 2323.19s]  Oh, fuck. Somebody's in here. I gotta get off Reddit. Come on in. Anything you like? Hi. Spare
+[2323.19s -> 2331.91s]  two seconds. What? This is a celebrity. I'm thinking of buying this, but I'm not quite sure.
+[2331.91s -> 2339.06s]  Begin sale. All right, fuck. Why do I have to do this? Improve customer happiness.
+[2339.06s -> 2352.62s]  Is this guy peeing? Oh, I thought he was peeing. This is perfect for you. And it's, um, a success
+[2352.62s -> 2367.69s]  rate. Um, and let's- and tell me more? What- just fucking buy the shirt. What are you talking about?
+[2367.77s -> 2384.98s]  Buy it. Keep- keep this between us. Finish the sale. Buy it. What the fuck was that? What do you
+[2384.98s -> 2397.34s]  want? Nice. All right. Good, good, good. What was that all about? Oh shit. I'm actually making money.
+[2397.34s -> 2412.98s]  What? Are they confused? Why are you confused? Are these people not aware they're going?
+[2412.98s -> 2430.23s]  Come on in. There's six t-shirts left. How many of you are out there? What? Come on. What do you
+[2430.23s -> 2438.33s]  mean they can't path? Why? I need more inventory. I- all right. I get more inventory. Just wait.
+[2438.33s -> 2448.20s]  What time is it? All right. It's 11 for- it's- it's almost noon. Come on in. I haven't seen this
+[2448.20s -> 2455.08s]  store before. What do you sell? Shirts. We have a wide selection of shirts. I have no interest in
+[2455.08s -> 2470.04s]  that at the moment. Can I interest you in a shirt? Sounds interesting. All right. Go buy one. Thanks.
+[2470.04s -> 2480.34s]  You're welcome. You want me to buy something? Yep. Just wipe out all my stupid shitty meme
+[2480.34s -> 2497.14s]  inventory so I can actually play the game. They're stealing? No they're not. There's five shirts left.
+[2497.14s -> 2503.54s]  Hey, can I help you? We sell shirts here. I don't know if I like shirts.
+[2503.54s -> 2510.46s]  Do you like shirts? I don't like shirts. Let me- let me tell you something. We got- you remember
+[2510.46s -> 2516.60s]  the arrow to the knee joke? We got that here. There's only a few of them left. And let me also
+[2516.60s -> 2525.48s]  tell you that we've also got a improved conversation rate. I- what does this even mean?
+[2526.28s -> 2548.34s]  It's very interesting. Yes it is. Didn't want it. Can I buy mo- I gotta buy- okay. Inventory. Um,
+[2548.34s -> 2559.19s]  how about- can I sell cash registers? Would I do that? That'd be kind of cool.
+[2563.00s -> 2573.34s]  Manage signs. No, I can only buy shirts. Shirts, okay. Inventory. Oh, I need to buy- wait, wait,
+[2573.34s -> 2582.01s]  it's- it's- it's manager articles. Okay, there it is. Order articles. I can only- can buy shirts.
+[2587.88s -> 2593.45s]  Okay, I have too many of these. Oh, fuck. Hold on. Hey, can you help me? Just a minute. Hold on.
+[2593.45s -> 2599.14s]  Congratulations. You met the terms of our agreement and we're very pleased with your
+[2599.14s -> 2603.06s]  reference. We thank you for the cooperation and a job well done. See you in the future.
+[2603.14s -> 2621.80s]  On the board of directors. What? I only had to work for one day? You sold three shirts. That was
+[2621.80s -> 2630.79s]  just a drug front. They just hired me to pretend to sell stuff while they did drug deals in the
+[2630.79s -> 2639.16s]  back for like a week. And then I'm the guy that- I'm the fall guy. I'm the one that- I'm the one
+[2639.16s -> 2647.56s]  that's gonna go to jail. On a budget. Okay, what are we looking for here? Selling shirts and shoes.
+[2647.56s -> 2657.67s]  Achieve a turnover of at least $1,600. Okay. What about the other one? Is there more than one?
+[2658.23s -> 2665.42s]  No, it's just this one. All right. I have to build a solid financial foundation.
+[2666.06s -> 2679.85s]  Okay, let's go. We need to sell shirts and shoes. Total sales is currently at zero. I need to sell
+[2679.85s -> 2688.84s]  $1,600 worth of merchandise. Okay. Oh shit, this is already here. That's literally the red shelf
+[2688.84s -> 2693.74s]  right there. That's the exact thing that I have. All right, so thankfully all this stuff's already
+[2693.74s -> 2702.33s]  here. We got a computer. We got delivery units. The shirt's already in here. There are shirts
+[2702.33s -> 2718.58s]  already in here. So let me put these. Cool. All right, let's make a display. Edit articles here.
+[2718.58s -> 2735.35s]  Clothes. Shoes. Let's put flip-flops over here. Flip-flops. One, two. Yeah, put them everywhere.
+[2735.35s -> 2748.62s]  Okay, add them. Okay, there's flip-flops. Um, how can I- why can I manage spots? Where's-
+[2748.62s -> 2771.16s]  this is spot one? How come I can't put any on the other side? Remove that. Okay. Shoes. Oh, well,
+[2771.16s -> 2783.82s]  the sneaker's on this side. All right, that looks good. Fill it up. Wouldn't that be- this is, uh,
+[2783.82s -> 2799.77s]  one, right? What the hell? Fill. Add the articles. Why is it not doing it? You only sell one shoe at
+[2799.77s -> 2815.75s]  a time. Because aren't these on two already? This business is doomed. I- remove articles. Okay,
+[2815.75s -> 2828.70s]  take them off. What am I doing wrong? Okay, that's what I want in the spots. Made it- yeah,
+[2828.70s -> 2838.38s]  that's what I want. So fill it up. Okay, what the fuck is that? All right, good. What do I have for
+[2838.38s -> 2863.42s]  shirts? Or two- we're gonna go over here? Yeah, this is fine. Load it all up. You need more meme
+[2863.42s -> 2867.18s]  shirts? When I make my own business, then we'll do whatever we want. I need to get to that point
+[2867.18s -> 2872.39s]  first. All right, what else do I have? Clothes. Shirts. Oh, I have no more shirts. Should I get
+[2872.39s -> 2876.73s]  some more shirts? I gotta put some more shirts over here. All right, well, I'll get some meme
+[2876.73s -> 2895.00s]  stuff. Fine. Buy delivery unit. All right, let's do it. Okay, inventory. Delivery unit. 80. That'd
+[2895.00s -> 2906.82s]  be a Rick and Morty shirt store. I don't need to do that. Hot Topic already does that. Okay,
+[2906.82s -> 2915.91s]  that looks good. Hot Topic is just such a Rick and Morty store. I'm surprised that the employees
+[2915.91s -> 2924.30s]  don't do the voices. They should be dressed up in Rick and Morty costumes, doing Rick and Morty
+[2924.30s -> 2930.95s]  accents and impressions and stuff. All right, all right, Morty. Look, I got one Rick and Morty
+[2930.95s -> 2939.62s]  keychain, one Pickle Rick, and a Morty- and a poster from season two. Oh, have a nice day.
+[2943.69s -> 2948.89s]  Shut up, Morty. No, I'm turning into, like, Alex Jones. Shut up, Morty. Let me start with
+[2948.89s -> 2961.74s]  Morty. Morty, not a Morty. All right, I gotta buy something. I want to do this shit. All right,
+[2961.74s -> 2969.77s]  hold on. Goku? Don't I already have a storage unit? I have, like, three. Why do I have to buy
+[2969.77s -> 2975.42s]  more of these? I already have a bunch of these. Why would I need to- this- I can't even put this
+[2975.42s -> 2999.54s]  anywhere. All right, I want to get this right. Clothes. Shirts. What's this? These anime t-shirts?
+[2999.54s -> 3012.81s]  All right, yeah, we're gonna just do a bunch of anime t-shirts. I can't even see what that is.
+[3012.81s -> 3022.89s]  How many- let's do five? Four of each? Five of each? How much goes on- what goes on one rack?
+[3022.89s -> 3045.26s]  Four or five? Is it five? Air it! Okay, now give me that delivery. I'll put the anime shirts in the
+[3045.26s -> 3067.00s]  window. You look like Captain Kirk. Perfect. You know, okay, you know those Halloween stores where
+[3067.00s -> 3070.52s]  all the employees are dressed up in Halloween costumes and stuff? I wish that was in more stores.
+[3070.52s -> 3078.28s]  It'd be so cool if, like, Captain Kirk was just walking around talking to you about merchandise
+[3078.28s -> 3093.16s]  and stuff. I'd be like, holy shit, this is cool. I mean, Hot Topic. No, Hot Topic, they don't, like,
+[3093.16s -> 3102.74s]  dress up as, like, they're getting characters or anything. That would be hell for the workers.
+[3102.74s -> 3107.94s]  What would be whoever wanted to do that? Oh, by the way, they get paid extra. You're getting paid
+[3107.94s -> 3118.12s]  extra to do that, too. Dude, I would want whole acting sequences to play out in my store. Imagine
+[3118.12s -> 3124.07s]  you're at a Best Buy. You're just sitting there looking at headphones, and all of a sudden, like,
+[3124.07s -> 3130.09s]  a- like, a pirate's- like, a pirate ship rolls in, and they're like, oh, land ho! And they're
+[3130.09s -> 3133.61s]  looking around like, can any landlubbers point me in the direction of the televisions?
+[3134.17s -> 3142.02s]  It'd be hilarious. It'd be like, holy shit, there's pirates here. It'd be like going to Disney.
+[3142.02s -> 3148.98s]  And by the way, I heard that this land in particular had 40% off their Vizio TV section.
+[3149.62s -> 3157.62s]  And, like, they grab a guy, like, throw him overboard. They make him, like, walk a plank
+[3157.62s -> 3162.26s]  into, like, a pool. You would shop there all the time. I know you would. I would, too.
+[3165.83s -> 3174.12s]  Where is this guy? Did he already come in? Wait, did I just completely miss the guy coming in
+[3174.12s -> 3185.77s]  and delivering? Oh, shit, he- I did. I was not even paying any attention. That's just a renaissance
+[3186.33s -> 3199.30s]  fair. It kind of is. Who would want to walk the plank? I don't know, I- if you have, like,
+[3199.30s -> 3214.14s]  a circus background or something, I don't know. Okay, there's one more rack. I need one more.
+[3214.14s -> 3227.70s]  Nah, whatever, who fucking cares. It would cause customers to cringe away in fear of being seen
+[3227.70s -> 3238.28s]  in that store. I don't think so. No, it wouldn't. I would- you would think it was, like, I would
+[3238.28s -> 3246.73s]  think it- wouldn't you think it was funny? Buy displays for your articles. Okay. I need to-
+[3246.73s -> 3266.55s]  Buy displays. This? Buy displays for your articles. Floor sign? Ceiling sign. God. Um,
+[3267.48s -> 3294.18s]  is it lit? No. That's way too much money. Where is it? You can't even see that. Sorry,
+[3294.18s -> 3303.37s]  to the naked eye if you walk to the store, that's like, like, a bug trap. That's not a display.
+[3303.37s -> 3321.14s]  Buy displays for your articles? Wait, I already have them. Oh, what the hell? You already- they're
+[3321.14s -> 3331.40s]  already in here. What? I just got virus detected? What the fuck are you talking about? All right.
+[3331.40s -> 3343.61s]  Um, what's the cheapest one I can do just to get this off? Okay, there we go. Well, I gotta
+[3343.61s -> 3351.66s]  buy more shit now, right? I gotta buy more clothes. All right, let's buy- I need five.
+[3351.66s -> 3364.34s]  How many can fit on here? I can do 10. So I need 15 shirts. What should it be? Let's see. Manage
+[3364.34s -> 3379.48s]  articles. 15 shirts. Uh, I'm gonna complete the anime rack. Wait, sweaters? What about just like
+[3379.48s -> 3393.88s]  a button-up shirt? Lock guy? Um, sure. Why not? Okay, what else? And I'll just have like a whole
+[3393.88s -> 3405.61s]  rack of just- these- these just button-ups. Oh, these are kind of cool. No, no, all right,
+[3405.61s -> 3416.31s]  here we go. Sportswear. It's gonna be a sportswear. Here we go. This is a lot of money, but I'm doing
+[3416.31s -> 3426.70s]  it. All right, update your store windows with, uh, what do I want to showcase here? I think you
+[3426.70s -> 3439.75s]  subpar umpire for the 10 community subs. Appreciate it. Why can I put stuff in the windows that I don't
+[3439.75s -> 3453.48s]  actually have? Well, I have a lot of these. You can lie, but yeah, why would I want to lie to my
+[3453.48s -> 3462.86s]  customers? All right, I'm also gonna have a bunch of the sports shit. So I'm gonna have- I'm gonna
+[3462.86s -> 3473.34s]  put sportswear in the window. Where is it? It's right here, right? Where is it? Sportswear.
+[3474.06s -> 3490.95s]  Yeah, all right. Yeah, I got these. This is giving me actual retail PTSD. I hated doing this at my
+[3490.95s -> 3502.92s]  store when I worked there. Oh, sure. Oh, I'm sorry. Okay, clickbait window Andy. No, I'm not-
+[3502.92s -> 3509.59s]  How is this clickbait? I actually own this stuff. Where are my shirts? Oh, I have to unpack.
+[3509.59s -> 3531.34s]  That should be a sprint. Remember, the back room looks like it's an Invader Zoom.
+[3537.10s -> 3538.78s]  I like tacos and pancakes.
+[3557.90s -> 3562.46s]  Wow, do you hate that show too? What, do you hate that show too, guys? You all hate that show?
+[3562.46s -> 3586.36s]  Everybody hate that show too? That was a terrible impression. I don't have the robot filter on.
+[3586.36s -> 3599.74s]  That's what he said, and Gurr talked about how he liked like tacos. That all I can fit. Oh shit.
+[3599.74s -> 3608.36s]  Well, I'll fill it back up later. Everybody hates Invader Zoom. No, they don't. I thought
+[3608.36s -> 3612.57s]  the show was pretty good. All right, I'm ready to open store. Let's go. Can I do anything with
+[3612.57s -> 3620.62s]  that sign? I already did all this shit. I don't know. I'm not gonna buy the stuff that's already
+[3620.62s -> 3652.28s]  here. No, no, I'm not gonna do that. Let's go. Where are all the customers? This is day zero.
+[3652.28s -> 3665.77s]  Oh, okay. Well, I'm running out of money. All right, let me just- Let's go. Let me make some
+[3665.77s -> 3696.31s]  money. I need to make 1600 bucks. The dollar that I found on the ground. Perfect. Store is open.
+[3696.31s -> 3734.44s]  Here they come. Do I have a staff? I don't have that much money. Actually open the store.
+[3734.44s -> 3742.63s]  It's not open. Yes, it is. It's open for customers. The shop is not open. What?
+[3742.63s -> 3752.28s]  Door is opened. Wait, I had to physically go and open the door? God damn it. I missed out on so
+[3752.28s -> 3776.33s]  many people. I heard Jermarcus. That's gonna be my first hire. Somebody come in here. You guys
+[3776.33s -> 3788.74s]  take way too long walking on the road. Everybody in. I got shirts. I got shoes. Get in here. What
+[3788.74s -> 3802.70s]  the fuck? It's open. Look. What? I haven't seen this store before. What do you sell? We sell shoes.
+[3802.70s -> 3810.04s]  We have a wide selection of shoes. If the perfect one shows up, I might buy it. All right. You want
+[3810.04s -> 3823.18s]  some shoes? Did I set one aside for you? Handsome success. All right. Improve the customer success
+[3823.18s -> 3833.66s]  rate. What the fuck does any of this even mean? Tell me more. Come buy it. Thanks. You're welcome.
+[3833.66s -> 3844.22s]  All right. Come on in. Did you catch the game last night? What grade are you in school? Do you
+[3844.22s -> 3849.98s]  have the lasagna? It's my favorite. I love that guy. I love that. I love that infomercial so much.
+[3850.54s -> 3867.59s]  Like one of my favorite things ever. 70 bucks. That's a lot. 49. All right. Come on. Need help
+[3867.59s -> 3880.92s]  over there? Wait, wait, wait, wait, wait. Don't, don't, don't leave. Don't leave. Don't leave.
+[3880.92s -> 3889.64s]  Okay. 104 bucks. Holy shit. Nice. Come on in. Looking for shoes. I got sandals and I got
+[3889.64s -> 3901.27s]  sneakers. Which one? Need help? Nope. You're good. Oh, God damn it. All right. Hold on. Does
+[3901.27s -> 3908.15s]  this guy want to buy something? They're shirts and shoes. I'm thinking of buying this, but I'm not
+[3908.15s -> 3923.50s]  sure. Okay. It's very popular. It's very popular. You should get it. Holy fuck. You were just not
+[3923.50s -> 3929.77s]  pleasable. Not sure what to look for. What do you recommend? Click on an article. Um, what do I have
+[3929.77s -> 3935.80s]  the most? Oh, the most expensive one. That's perfect. Good. Fuck. Hold on. Hold that thought.
+[3943.11s -> 3976.89s]  Okay. I need Steph. He's so scary. Do you want to come in? Looking for shoes. Yep. I got them here.
+[3981.05s -> 3986.97s]  Oh, and for the Pickle Rick shirt, I would highly recommend it. And you're going to go for a pair
+[3986.97s -> 4005.86s]  of shoes too. Yep. Red sneakers. You got it. Get them both. Get them both. That was a lot. That's
+[4005.86s -> 4027.96s]  like a hundred bucks. Stand and face the ball until a customer comes in. Okay. Is it weird that like,
+[4027.96s -> 4032.60s]  if I ever ran a business like this, I would like, you would get a bonus if you did this.
+[4032.60s -> 4039.08s]  And if it, like, I would give you 50, I would add 50 to a hundred dollars onto your wage,
+[4039.08s -> 4043.08s]  like for this day. If you, if you did that for like half an hour or something, like it'd be funny.
+[4051.77s -> 4055.85s]  And then when somebody's like, excuse me, you go, you turn like screaming, like you're like,
+[4055.85s -> 4075.35s]  like they startled you. Can I help you? I'm making actually a pretty good amount of money.
+[4075.35s -> 4095.85s]  And I would like come down as like the boss and be like, what's going on in here? We'd be like,
+[4095.85s -> 4104.26s]  we do it like a big play. Like eventually like a slime would drop on me and everyone would like
+[4104.26s -> 4123.66s]  cheer. Like the, like the, the, the, the annoying boss got like fucking slimed. Oh shit. I need more
+[4123.66s -> 4132.20s]  shoes. They're really popular. Okay. Wait, wait, wait, wait, wait, wait. You better pay them well
+[4132.20s -> 4146.81s]  to put up with all that. Oh, absolutely. Absolutely. Give you back to streaming in a week.
+[4150.49s -> 4155.59s]  Oh, I need to buy stuff. I need to buy more shoes. I need to buy expensive shoes.
+[4159.18s -> 4169.85s]  Eilish. Here we go. What do we go? What's expensive? 41, 48. That's it. I'm like really
+[4169.85s -> 4190.84s]  expensive shoes. Really expensive. We're going to get like just a bunch of loafers. Hello. Delivery
+[4190.84s -> 4218.33s]  $45. What the fuck? What time is it? And get two shirts. 27 bucks. What? It's kind of expensive.
+[4221.05s -> 4232.18s]  I'm loading up the shoes. Hold on. The store is closed. Somebody's still in here. Door's closed.
+[4232.18s -> 4246.17s]  Unpack this inventory. Let's go. On the office, office computer, you can adjust the markup.
+[4246.17s -> 4255.42s]  Really? Okay. I can put more sportswear out there. Nobody's buying the sportswear. I need to,
+[4255.42s -> 4263.62s]  okay. I need like a sign or something. Yeah. I need, I got to, I got to advertise or something.
+[4263.62s -> 4286.01s]  Manage signs. Sign on the wall. Huge. Behind this. Say like, here's the sportswear. What the
+[4286.01s -> 4297.11s]  fuck just happened? Did I pass out? I blacked out. Okay. That actually scared the shit. I thought
+[4297.11s -> 4301.83s]  something was wrong with my computer. I thought I was about to get a weird message or something.
+[4301.83s -> 4310.12s]  I actually had a small internal panic for a second. I was like, what the fuck is going on?
+[4310.12s -> 4316.76s]  I got to tell you guys about a dream I had. I don't, I need some dream detectives to tell
+[4316.76s -> 4327.78s]  me what the hell's wrong with me. You want me to do it now? I do it now? Because I actually need
+[4327.78s -> 4334.66s]  to know why this happened. All right. Lay it on me. Here we go. Okay. So I had a dream that I was
+[4334.66s -> 4341.90s]  driving around with some friends in a car and we'd been coming back from a store and I was
+[4341.90s -> 4347.85s]  driving, I think one of my friends home. By the way, it was not in my car. I was in an old,
+[4348.49s -> 4355.26s]  like kind of beat up old fashioned car. It wasn't even mine. So get near this person's neighborhood.
+[4355.26s -> 4360.25s]  Okay. Yeah. I know where you live. Get out here. And when I turned the corner to go into the street,
+[4360.25s -> 4366.28s]  I noticed something very bizarre. It's a small street. It was like a little cul-de-sac. There
+[4366.28s -> 4374.18s]  were maybe 15 houses, maybe 15 houses total on this road. And all in every yard, just walking
+[4374.18s -> 4380.58s]  around aimlessly lying down, like just bathing in the sun and shit, are tigers and lions.
+[4380.58s -> 4386.57s]  They're everywhere. Some of them have like blood all over their mouths. Some of them are like kind
+[4386.57s -> 4391.69s]  of running around. It had to have been like 20 to 30 tigers and lions, at least. It was like,
+[4391.69s -> 4396.09s]  what the fuck is going on in your neighborhood, dude? Why are there tigers everywhere? They're
+[4396.09s -> 4399.94s]  everywhere. And it's like, keep the doors closed because they were like walking around. Like I'm
+[4399.94s -> 4404.50s]  almost like if you're on a safari and it's like, holy shit, like the elephants are coming over here.
+[4404.50s -> 4411.64s]  It was, it was weird. So I kind of freaked out and I was like, what do I do about this? I was
+[4411.64s -> 4415.78s]  going really slow. I was going maybe like five miles per hour, maybe two miles per hour because
+[4415.78s -> 4420.18s]  I didn't want to hit any of the cats or anything. I was just like going slow, trying to navigate
+[4420.18s -> 4424.12s]  around. And I was like, I need to tell people about this. Like this is fucking horrible. This
+[4424.12s -> 4431.35s]  is a neighborhood. So I'm just like, I got to do this. So I held the horn down. I was going like
+[4436.89s -> 4442.33s]  while I slowly drove around this neighborhood, trying to, I don't know, warn everybody in the
+[4442.33s -> 4447.02s]  neighborhood, be like a big alarm. I was like, people need to know this is horrible. And I
+[4447.02s -> 4452.14s]  did that for maybe like a full loop around the cul-de-sac. And over on the left side,
+[4452.78s -> 4458.44s]  one of the houses, the door opens, the front door of this person's house, just
+[4459.56s -> 4464.02s]  and it was a lady and I couldn't really see her because she was kind of behind the door. The door
+[4464.02s -> 4471.61s]  just kind of opened and she just screams, I'm not going to do the roar. It was like, what the fuck?
+[4472.17s -> 4477.99s]  And like 10 lions sprint into her open door and you just hear like,
+[4480.95s -> 4485.27s]  like crashes, plates breaking and like fucking smashes and stuff. This lady was getting
+[4485.35s -> 4491.08s]  mauled by like 10 tigers and I'm sitting there going, oh my fucking God. Oh my God. What the
+[4491.08s -> 4498.54s]  fuck did I do that? Did me beeping the horn cause her to like open the door? And did she even,
+[4498.54s -> 4504.10s]  did these people know that there are tigers out here? Am I, did I kill that lady? And like I saw
+[4504.10s -> 4507.54s]  a couple other houses like start to stir a little bit. Like you heard noises and I'm like, oh my
+[4507.54s -> 4512.50s]  God, I'm going to kill this whole neighborhood. What did I do? I was trying to warn everybody.
+[4513.08s -> 4517.72s]  And the whole time I'm panicking. So we got, I'm like, all right, one of the, by the way,
+[4517.72s -> 4522.52s]  one of the tigers was like up looking at the car, like kind of running at the car, like
+[4522.52s -> 4527.48s]  doing like that thing that cats do where they go like, and they like their faces like go like,
+[4528.84s -> 4533.75s]  did that make any sense? Do you guys know what I'm saying? I can't do that sound. That probably
+[4533.75s -> 4543.18s]  sounded insane. No. Okay. Let me try to do that better. It's like, I can't do it. It's a fucking
+[4543.18s -> 4550.62s]  cat noise. I'm a human being. So, but anyways, it was like going after the door. So I just hear
+[4550.62s -> 4554.54s]  this. I keep hearing screaming coming from this lady's house and other people. I'm thinking,
+[4554.54s -> 4557.26s]  I just think I might have just, I think, did I kill everybody in this neighborhood
+[4557.26s -> 4561.58s]  by warning them? Why would I hold the horn down? Like people, maybe people don't even know that
+[4561.58s -> 4566.66s]  there's tigers here. What's wrong with me? So finally we get out of the neighborhood. Like I,
+[4566.66s -> 4572.18s]  we can't, I got to get out of here. We got, I don't know what to do. So I go home. I go home
+[4572.98s -> 4578.42s]  and my mother, I open the door and first of all, the weird part about this is after getting out
+[4578.42s -> 4585.29s]  of the car, my friend had a shopping cart. Like, oh yeah, like he just had a shopping cart. Like
+[4585.29s -> 4592.82s]  he was in the car. It was like two or three frozen food items. I don't know. So he's just pushing it
+[4592.82s -> 4597.66s]  as a guy. That's what we just did. So we go into the house. My mother's on the phone. She's looking
+[4597.66s -> 4605.50s]  at me. Yup. Oh, um, yup. He's here. Oh, that's not good. Oh no. Yup. He's here. And I'm sitting
+[4605.50s -> 4610.86s]  there going, that's the cops. That's the cops. And like, I killed, I like, I killed that lady.
+[4610.86s -> 4614.14s]  Like I was just trying to warn everybody and like now I'm not going to go to jail or something.
+[4614.14s -> 4617.02s]  I'm going to have to go to the, I'm going to talk to like a detective. I don't know. I'm,
+[4617.02s -> 4623.59s]  I'm fucked. And she's just staring at me. So finally she's like, okay. Yup. He's here. He's
+[4623.59s -> 4630.22s]  here. And she hangs up the phone. I'm like, uh, like who's, uh, who's that ma? She goes,
+[4630.22s -> 4643.03s]  oh, that was your sister. She's at the bank. And then I woke up. I have no idea what that meant.
+[4643.03s -> 4652.02s]  I have absolutely no idea. But let me tell you something. When I like seeing the tigers with the
+[4652.02s -> 4657.80s]  blood all over their mouths, like they would, they had been feeding. I don't even, I don't even know
+[4657.80s -> 4662.36s]  on what, maybe on other animals on each other. That was probably 20 to 30 tigers in this little
+[4662.36s -> 4673.46s]  neighborhood. I'm not going to do the roar. Like what is that supposed to mean? It's fucking crazy.
+[4679.98s -> 4693.30s]  Do the roar. Yeah. I have one thing that I always wanted to do and maybe I'll like,
+[4693.30s -> 4698.86s]  I have to have more crazy dreams though, but at some point I think it'd be really funny
+[4698.86s -> 4706.87s]  to do a stream where I hire a handful, like a handful of animators and they just animate
+[4707.43s -> 4714.31s]  not just my dreams, but other people's dreams in the community. Do you know how many insane
+[4714.31s -> 4717.35s]  things we've heard people say, oh yeah, I had this dream dude that like, you know, you were a
+[4717.35s -> 4720.71s]  fucking magician and you teleported to three different planets and then you like, uh,
+[4720.71s -> 4726.47s]  captured me. Like we've heard some really wacky shit before and like I have wacky dreams too.
+[4726.47s -> 4732.44s]  It'd be kind of fun to have like a fully animated, like here's like the 10 insane dreams that I had
+[4732.44s -> 4744.09s]  and then some from the community. I don't know. Do the roar. You should have seen it though.
+[4744.09s -> 4748.17s]  You should have seen it. The second the door opened and she screamed, it just every, all the
+[4748.17s -> 4753.13s]  cats went just heads tilted, like at least seven or eight of them that were in her lawn.
+[4753.13s -> 4758.07s]  And it was just immediate just sprint, sprint, sprint, sprint, sprint into her door. And just,
+[4758.07s -> 4761.91s]  it was just carnage. You heard some of the most awful sounds I've ever heard in my entire life,
+[4761.91s -> 4778.81s]  ever. But anyways, didn't I have a dream before about a tiger mauling a guy and he's like,
+[4778.81s -> 4783.34s]  oh, hold on, I got to get my cigarettes. Right? I told you about that one. What's with the tigers?
+[4783.34s -> 4789.54s]  Why do I keep seeing tigers and lions? That's at least the second or third time in the last year
+[4789.54s -> 4806.49s]  that a tiger has mauled somebody in one of my dreams. What does that mean? It means you're a
+[4806.49s -> 4814.36s]  furry. Well, if I was a furry, wouldn't I be one of the tigers? Like, wouldn't I have the POV of
+[4814.36s -> 4830.41s]  watching the people in the car drive around the neighborhood while I'm just baking in the sun?
+[4830.41s -> 4849.00s]  Whoa. All right. Well, how do I, I need a staff. Where do I get a staff? Wait, somebody has it?
+[4851.77s -> 4856.41s]  Somebody have the actual, wait, wait, wait. See one of the big cats in your dream represents
+[4856.97s -> 4862.57s]  the feminine aspect of which you have neglected or overlooked. You may also be looking for
+[4862.57s -> 4868.42s]  excitement in your social sphere or in your life. The dream of a large pride of mixed cats
+[4868.42s -> 4874.50s]  symbolizes that you have not allowed your true self to shine through. I feel like that's not real.
+[4877.54s -> 4884.26s]  No, but hold on a minute. This is where it's different. It's not just me seeing a bunch of
+[4884.26s -> 4889.66s]  tigers. It's the fact that they were like terrorizing a neighborhood. Does that change
+[4889.66s -> 4897.74s]  things? I didn't just drive by and see a tiger. These tigers were literally mauling people.
+[4897.74s -> 4902.92s]  There's a ton of them. All right. I just freaked out for a second. I looked over at the preview
+[4902.92s -> 4909.24s]  on OBS. I thought this was my desktop. I was like, what the fuck happened? What's this one say?
+[4909.80s -> 4915.13s]  The dream meaning of a ferocious tiger means you don't act according to your expectations.
+[4915.69s -> 4919.13s]  Some people who live around you might be afraid of the way you work with them
+[4919.13s -> 4923.21s]  and you hurt their feelings. Be more careful with your actions. The way you talk to others,
+[4923.21s -> 4929.69s]  be careful not to act on impulse. That's what the fuck are you talking about? That's not even,
+[4929.69s -> 4935.72s]  give me another one. Your ego is telling you that you're hurting the people around you, but your
+[4935.72s -> 4942.36s]  ID is telling you to stop seeing patterns where there are none. That sentence doesn't make any
+[4942.36s -> 4957.38s]  sense. The tiger in dream is an embodiment of freedom, power, intuitive understanding, strength,
+[4957.38s -> 4962.50s]  courage, optimism, free spirit, and protection. This mighty animal also reflects your subtle
+[4962.50s -> 4969.29s]  emotions and feeling of being restrained. Okay, but this person says, I actually study psychology.
+[4969.29s -> 4974.01s]  Tigers attacking others in dreams normally means that you have many obstacles going on right now
+[4974.01s -> 4988.90s]  and aren't fully paying attention to them. Also, the blue is wheezer blue. What blue? Seeing
+[4988.90s -> 4994.34s]  feline animals, particularly violent ones, is an embodiment of imminent danger, more so danger of
+[4994.34s -> 5009.91s]  you pooping your pants. He he ha ha ha. Good. Somebody said, it means you've got to collab with
+[5009.91s -> 5017.82s]  neanners. All right, I'm reading one more of these and that's it. They indicate raw power and
+[5017.82s -> 5025.24s]  emotions. They're also a symbol of sexuality. Tigers are also a sign of vitality and good health.
+[5026.17s -> 5031.53s]  They also indicate unpredictable and aggressive behavior and uncontrollable urges. This dream
+[5031.53s -> 5037.29s]  might reveal having some vices and bad habits you can't control or get rid of. A tiger is a
+[5037.29s -> 5043.83s]  symbol of persistence as well. It warns you now it's not the time for change and about the need
+[5043.83s -> 5061.21s]  to have patience in order to achieve your goals. Hmm. Tigers apparently mean everything, yeah.
+[5061.21s -> 5065.85s]  No joke, I had a dream where I invited Jerma to DJ my cousin's kindergarten graduation and he
+[5065.85s -> 5072.02s]  kept making unfunny jokes and people were staring at me angry because I brought him. That's pretty
+[5072.02s -> 5084.17s]  good. All right, one more. The tiger represents something you can't control in your life and it's
+[5084.17s -> 5088.25s]  giving you anxiety. At least that's what I think based on how you've reacted in your dream.
+[5089.46s -> 5098.02s]  Okay, I understand that one. If you dream of being attacked by tigers, which I wasn't, I like,
+[5098.90s -> 5104.02s]  I was the catalyst to somebody else getting attacked, right? Like I held the horn down
+[5104.02s -> 5109.14s]  trying to warn people of the imminent danger and I actually killed them because of it, right?
+[5109.14s -> 5121.10s]  There's got to be something there. Okay, here we go. Last one. This is really interesting though.
+[5121.10s -> 5125.18s]  Dreaming of ferocious animals and animal attacks means that there is an aspect of yourself you're
+[5125.18s -> 5129.99s]  not letting show. It can also be a sign that you are repressing your inner catboy maid.
+[5129.99s -> 5139.98s]  Oh, okay, thank you. It means that there are many things in your life that you think are hurting or
+[5139.98s -> 5146.04s]  affecting you in a bad way and the tiger represents the feeling of fighting back these things.
+[5146.04s -> 5150.84s]  It also could mean five billion dollars has been added to the debt, you fucking sleazy gambling
+[5150.84s -> 5173.94s]  piece of shit. Roar for chat. Oh my god. Sleazy. All right, let's go. But that was a crazy dream,
+[5173.94s -> 5189.75s]  wasn't it? I'm not gonna do the roar. Lady, oh god. So I need, let's log out. I need to hire
+[5189.75s -> 5202.82s]  somebody. I have to have a staff. Oh, here we go. No, no, I want to see this. Article stats,
+[5202.82s -> 5210.39s]  quality, fashion, luxuries. People want quality right now. That's what that means, right? So
+[5210.39s -> 5222.31s]  people are looking for quality and luxury right now. Video Vivi just gave 20 immunity subs. How
+[5222.31s -> 5236.71s]  do I hire staff? Minimum storage, summary. Where do I get staff? Oh, here we go. Applications.
+[5237.35s -> 5247.80s]  There's nobody, nobody's applied to the job. Okay, daily news, price hunters. All right,
+[5247.80s -> 5257.43s]  we're gonna do price hunters. It's gonna be a huge ad for our shirts. Place category,
+[5257.43s -> 5264.54s]  at place customer. All right, Matt, it's gonna be for two days for our shirts. Create the
+[5264.54s -> 5300.10s]  advertisement. What am I doing? How do I, I don't get it. It's too big. Oh shit, okay. 50, I'm not
+[5300.10s -> 5335.69s]  doing 50% off. What an awful ad. How do I shrink this? This is just like, you get this in the mail
+[5335.69s -> 5358.58s]  when your mother invites like the, like six of you to a birthday party. I can't fit them? Yes, I can.
+[5358.58s -> 5374.87s]  Techies. Oh boy, they just have blue shirts on? Oh shit, wait, wait, wait. Okay, this is the one.
+[5374.87s -> 5388.47s]  This is the shirt I'm trying to sell. They're like a hundred bucks each. All right, get rid of this
+[5388.47s -> 5413.27s]  one. Get rid of these two. Place it. No soup for you. Thank you for the 10 community steps. Place it.
+[5413.27s -> 5431.05s]  Put it down. Why can I not put it down? What the fuck? What's going on? Magazine, price hunters. Oh
+[5431.05s -> 5442.98s]  shit, fashion land. The golden coin. All right, how about fashion land? I can't even move any
+[5442.98s -> 5451.91s]  of this stuff now. All right, well this is the ad now. I, whatever. I don't care. Two days, buy it.
+[5451.91s -> 5469.69s]  Okay, so that's going. Anything going on? No. All right, let me get back in the store. Let's go.
+[5469.69s -> 5496.55s]  I didn't find any money on the ground. Does this game have gamba? Gambling? All right. How's the
+[5496.55s -> 5503.11s]  inventory look? I need to fill this up with shoes. With new shoes. What do I got? Didn't I get some
+[5503.11s -> 5521.74s]  new stuff? I did. All right, these are expensive. Okay, do I have enough? I need a sign for these.
+[5521.74s -> 5534.12s]  Give me a sign. Design, a sign. On the wall. Right here. Thank you, Germafans69 for the 10
+[5534.12s -> 5543.22s]  community subs. We've got a lot of subs. You guys are subbing it up. Change. Oh, okay, here we go.
+[5543.22s -> 5551.05s]  Current type. You're assigned to select. Oh, shit. All right, all right, all right. Now I make it.
+[5551.05s -> 5569.56s]  I don't have money. What? Holy shit, I only have $215. What? When did that happen? Okay, now I need
+[5569.56s -> 5579.16s]  to editor. Oh, shit. Type. It's a fashion. What is it? Oh, fuck. Hold on. Wait, wait, wait, wait, wait,
+[5579.16s -> 5589.74s]  wait, wait. Um, do I draw on this? Load poster? Quality? How do I do this? Click background?
+[5590.46s -> 5598.95s]  There are people. Why are there people in the store? The store's not even open. What?
+[5601.48s -> 5611.19s]  Why is the store open? I'm not sure what to get. That. Looks promising. Go get it. Yes, yes, yes,
+[5611.19s -> 5616.47s]  yes, yes, yes, yes. Go, go, go, go, go, go, go. Great. Cool. Cool. Cool. I need. Okay, leave. Oh,
+[5616.47s -> 5627.14s]  my fucking God. Customer needs. Improve impact of conversation. Article hype. Hype up the article.
+[5627.14s -> 5636.09s]  Improve the impact. Refill the patience. Go for it. Thank you. Okay, that was such a pain. That's
+[5636.09s -> 5643.34s]  too much work. Hire help. I need. I don't. I need to hire somebody. I thought that lady wanted a
+[5643.34s -> 5667.45s]  pizza. All right, come on. Go buy the expensive stuff. Import an image of your face. Uh, somebody
+[5667.45s -> 5676.23s]  give me one. Make sure it's something easy like a PNG. Wait, I mean, somebody give me one. The
+[5676.23s -> 5683.86s]  links are dead. Do I have one? How do I pause the game? Hold on. Do I have a picture of my face,
+[5683.86s -> 5703.27s]  like on my desktop somewhere? Do the sus guy? No. Sus face. Fine. Fine. Just I'll take sus face.
+[5703.27s -> 5710.62s]  Give me the sus face. I'll take it. It's got to be one of the mods that does it because the links
+[5710.62s -> 5732.15s]  have been nuked. Uh, that, but that's not the sus face though. That's the regular face. I hate
+[5732.15s -> 5736.87s]  this image. I almost just set this as my desktop background. That would have scared the shit out
+[5736.87s -> 5760.55s]  of me later. All right. Let me drag it in here. All right. Let's see if this is easy. Let's see
+[5760.55s -> 5767.35s]  how easy this is. It's just as simple as they're just dragging it into this folder. Let me see.
+[5767.91s -> 5787.64s]  What's it called? All right. Uh, it's, it's in there. I wonder if it worked. Let's find out.
+[5788.28s -> 5802.20s]  Pause the game. Oh shit. What happened? There we go. I'm like in windowed mode now. What the
+[5802.20s -> 5810.31s]  hell happened? What happened to my screen? All right. Well, I wish I could just fucking tell
+[5810.31s -> 5819.82s]  everybody to leave. Tell about your shirts. Just fucking buy something or don't. Buy something or
+[5819.82s -> 5827.51s]  don't. Leave. Oh my God. I need somebody to talk to her. Okay. Whatever. I need to hire somebody.
+[5840.02s -> 5854.06s]  Load important new image. What the fuck? Uh, this is not, hold on. That is not what I thought that
+[5854.06s -> 5867.96s]  was going to look like. Okay. What if I do that? I, I, this is, I have no idea what this means.
+[5873.35s -> 5877.83s]  I don't have that many guys. I don't have that many drives. I have one drive. I don't have 20,
+[5877.83s -> 5890.92s]  I don't have 26 hard drives. It would be fucking insane. It's in the game files.
+[5892.18s -> 5905.77s]  I dragged it into the folder. See? I don't think that's going to work. Hold on. By the way,
+[5905.77s -> 5909.77s]  you know what? Just a fucking, I don't, I don't, I got to fix the screen too. Why do I cut? The
+[5909.77s -> 5917.34s]  screen got cut off. Hold on a second. I got to stay. Oh fuck. I'm losing customers. Just stand
+[5917.34s -> 5926.33s]  at this thing. Whatever. I just sold that to nobody. I think I just took that guy's money.
+[5926.97s -> 5933.03s]  All right. This is okay. Here's my biggest problem with games that have like an import image feature.
+[5934.04s -> 5951.51s]  It's always seems to be so like difficult to use. Like this should be simple. Okay. Editor,
+[5952.76s -> 5960.44s]  load an image. Oh my Lord. Yeah. This is like every one of my drives, but I don't even have
+[5960.44s -> 5965.18s]  any of these program files. Yeah. I'm not, I don't want you guys to see what kind of programs I have.
+[5968.54s -> 5977.72s]  What, where is, where is steam? Steam, steam apps. Common. Yeah. I don't want that. This is like,
+[5977.72s -> 5984.36s]  this is spoilers for the games I'm going to play like next week. King of retail,
+[5984.36s -> 5991.99s]  king of retail logos. Germa sus fatal error. The game has crashed. What the fuck?
+[5991.99s -> 6019.38s]  Okay. I hope it's saved. What the fuck? Yeah. That showed every steam game I have installed.
+[6019.38s -> 6022.90s]  I don't want you guys to see the games. I'm coming up like in, I'd like it to be a surprise.
+[6023.54s -> 6054.26s]  It was a virus. I don't think so. Oh, where was I? I kind of chose to make my own store. Yeah. I
+[6054.26s -> 6064.26s]  want to, okay. This is cool and everything, but I don't really want to, I want to make my own store.
+[6064.26s -> 6067.78s]  Yeah. This is all right. This is much, this is what I'm talking about. All right. Population size.
+[6067.78s -> 6086.28s]  There's 667,000 people here. Should be huge. How about a small, a city or a million people?
+[6086.28s -> 6092.07s]  This one. Okay. Yeah. All right. Yeah. Yeah. Yeah. Yeah. Yeah. It don't matter. Whatever.
+[6092.07s -> 6103.14s]  City's wealth. They have a lot of money or are they, is it lower? How much is the middle of the
+[6103.14s -> 6118.15s]  road here? Ashen cents. Um, I don't know. Maybe like here. That looks good. Okay. New store.
+[6118.15s -> 6133.48s]  Select, select categories. Food, food and computers, food and beverages and computers.
+[6133.48s -> 6144.41s]  No, just food. I was gonna, it's just gonna make a restaurant. Food and drinks. No, just food.
+[6144.41s -> 6173.35s]  Select a logo. I can't, I can't. That's it. Oh, okay. Joe custom. I can't, where am I? I tried
+[6173.35s -> 6193.64s]  to upload it. Where is it? Oh no. Is there a burger one? I didn't see the burger. Where is it?
+[6193.64s -> 6216.92s]  Mayo burgers. I'm probably the one with the apple. Get stuffed. It'd be different blue like this.
+[6216.92s -> 6231.59s]  No, that looks too like tech. This looks too tech. Orange. There we go. It looks good. Stuffed with
+[6231.59s -> 6240.15s]  mayo. Okay. That's fine. Whatever. Can I make the logo a different color? Whatever. Main colors.
+[6243.96s -> 6264.26s]  Orange and um, I don't know, like something like, like a, like orange and green, like a harvest.
+[6264.26s -> 6278.84s]  That looks good. What's wrong with that? Nickelodeon. Yeah. They close Nickelodeon
+[6278.84s -> 6289.13s]  studios, by the way. What? What's all that about? I can't, you know what? They close Nickelodeon
+[6289.13s -> 6296.34s]  studios in Universal in Orlando, right? To make room for what? The fucking minions ride? That's,
+[6303.27s -> 6309.22s]  all right. I have four. I thought it was four million. I can't look at this. This has to change
+[6309.22s -> 6322.71s]  immediately. All right. So what do I want for the floor? Why is everything orange? Like I have to
+[6322.71s -> 6330.74s]  fit the theme of the store. All right. Should I have as you will close? Ooh, I kind of like that.
+[6330.74s -> 6360.09s]  Actually don't like it anymore. I kind of feel like I'm in a pizza oven. Tiger. Um, this is ugly,
+[6360.09s -> 6389.11s]  but I already bought it. All right. Walls. Fortnite. This is Fortnite. It is. No, ugly.
+[6389.11s -> 6405.77s]  All right. Should I make every bonus level in Mario Sunshine? Okay. I hate this, but whatever.
+[6405.77s -> 6422.17s]  And the ceiling. It's a Mario pipe store. Yeah. Oh dude, I should sell fucking pipes,
+[6422.17s -> 6433.82s]  bongs and shit. That was ugly. All right. So what do I want to sell here? What do I have to,
+[6433.82s -> 6444.74s]  options to buy? Groceries? Refrigerated. Does it have a bunch of these?
+[6447.05s -> 6471.14s]  I'm just going to be selling deli meat. What? Or like almond milk. How much money do I have?
+[6471.14s -> 6498.87s]  All right. What can I put in here? Groceries. Food. Refrigerated. Is bacon. Onion rings.
+[6498.87s -> 6514.66s]  Fried chicken. French fries. Hummus. Diamond standard. Is this pepperoni? Onion rings. Okay.
+[6514.66s -> 6524.55s]  Well, let's put, let's get onion rings. How many can fit in each one? Onion rings and French fries.
+[6524.55s -> 6544.23s]  And then definitely pizzas. Pepperoni pizzas. Um, is this a fish filet? Shrimps? Oh, fish sticks.
+[6544.23s -> 6556.87s]  Organic veggie bacon. Plant-based, just a shitload of plant-based meat. Sausages. Chicken breast.
+[6556.87s -> 6571.10s]  All right. I need a bunch of chicken breast. Steak. How much money do I have? Okay. Um,
+[6571.10s -> 6596.09s]  what about fruits? How about a fucking pumpkins? Corn and onions. I don't, I don't know. What do
+[6596.09s -> 6616.26s]  I do? What else should I sell here? Can I make something else besides food? How do I edit my store?
+[6616.26s -> 6627.86s]  I chose only food. Well, can I just go back? Oh shit. I need to, I need to storage. I know,
+[6627.86s -> 6646.31s]  I know, I know, I know, I know, I know. I'm going. There you go. Finally. Storage. A big one. All
+[6646.31s -> 6658.79s]  right. Come on in. Deliver it. All delivered. Come on. Let's go. You need to start a new store
+[6658.79s -> 6673.94s]  to change and add categories. Are you serious? What? God damn it. All right. Well, I'll come
+[6673.94s -> 6692.78s]  back to this one. All right. It might be all right. Unpack everything. Why didn't you sell,
+[6692.78s -> 6698.04s]  why did you, what store doesn't sell beverages and only food? I don't know. In my brain,
+[6698.04s -> 6701.72s]  I thought this was a restaurant or something and I was gonna be cooking dinner. I don't know why
+[6701.72s -> 6716.31s]  I thought that. Restaurants have drinks too. I don't know. Why would they even let me do that?
+[6716.31s -> 6726.06s]  It has to be idiot proof. There's no more room for this stuff. Well, now I get it. I get it. I get
+[6726.06s -> 6744.89s]  it now. I'm out of room already. Kind of money. What? It's more than 700 bucks for this? 800?
+[6745.45s -> 6777.51s]  How much shit did I buy? Groceries. Food. Refrigerated. Add a shelf. Let's do meat over
+[6777.51s -> 6803.78s]  here. Add, drop a single spot. Drop to add shelf. Fill shelf. This is a very confusing UI,
+[6803.78s -> 6816.39s]  I just say. Drop, add single spot, fill shelf. That's what I want. Fill the shelf. Okay. There
+[6816.39s -> 6838.25s]  we go. Why is there still a menu for it? I only have two things. Okay. That's meat. We're going
+[6838.25s -> 6859.11s]  to do meat first. Steak. We'll go in here. Why is it only single? Why is it only singles?
+[6864.46s -> 6887.96s]  Okay. Meat, steak. This place sucks. I'm sorry. Pizzas. Why would anyone shop here? I don't know
+[6887.96s -> 6896.66s]  if we get to get a quick steak, to get a quick pizza, frozen pizza on the way home. All right.
+[6896.66s -> 6910.90s]  French fries. Fill it up. And then we'll do two French fries. This place is fucking terrible.
+[6914.71s -> 6918.82s]  Oh shit. I didn't have enough. It's all right. It looks like people shop here.
+[6924.04s -> 6961.27s]  Onion rings. Okay. And then the fruits. Groceries, food, fruit, corn. Okay. Then it was
+[6961.27s -> 6971.00s]  pumpkins. All right. This is the, my kid dressed themselves for the day of creating a grocery
+[6971.00s -> 6989.22s]  store. Like my three-year-old dressed themself today. I might make some, look, I'll just make
+[6989.22s -> 6995.75s]  everything really expensive. Fruits. Okay. What are they? What are these? These apples?
+[6995.75s -> 7000.95s]  I have no idea what these even are. I don't, I actually don't know what these are. They're
+[7000.95s -> 7012.81s]  onions? Apples? Potatoes? I don't know. Is it garlic? No, it's not. And this is going to
+[7012.81s -> 7043.83s]  be the miscellaneous shelf. Okay. All right. That's fine. Now I need a, what do I need?
+[7043.83s -> 7051.99s]  Oh shit. I need a register. Do I have enough? Yeah. I have enough for the, I have enough for
+[7051.99s -> 7068.50s]  the good register. The big one. All right. Let's go. You only sell yellow food. This is bizarre.
+[7068.50s -> 7083.03s]  What do you mean? Whoa. Why did I do that? That's weird. That's really fucking weird.
+[7083.03s -> 7092.23s]  Why did my brain do that? I mean, this is not yellow, but everything else is.
+[7101.11s -> 7111.10s]  High displays. Update your store. Oh, the store windows. Right, right, right. Okay.
+[7111.10s -> 7119.02s]  You eat too much McDonald's. This is not the only game we're playing, by the way. We're playing
+[7119.02s -> 7144.14s]  something else in a little bit. A chicken and steak is in the window. All right. Well, this
+[7144.14s -> 7151.72s]  place sucks. I know. It's awful. I'm not good at this, but it's all right. You're putting steak
+[7151.72s -> 7155.80s]  directly into the sun. It's in a refrigerated unit with a tinted window on it. We're fine.
+[7156.28s -> 7183.22s]  Next day. Wait, what if I run out of money? Oh, like there's no such thing as like being tired
+[7184.28s -> 7188.60s]  in this game. I'm just going to do everything. So I might as well just stay open until everyone
+[7189.40s -> 7201.21s]  just stay open. Unread emails. Trying today. Organics is offering discounts on selected
+[7201.21s -> 7213.27s]  articles for our suppliers. Well, like I have refund. All right, let's go. Let's do it. All
+[7213.27s -> 7219.96s]  right. So I'm going to give you guys a choice of the next game. Here are your options. 2020
+[7219.96s -> 7239.03s]  Olympic Games or wait, maybe a mystery. I have to make sure it runs. It's an FMV game. An old FMV
+[7239.03s -> 7260.76s]  game. I don't even know if it runs. I feel like we have to play the 2020 Olympic one. The Olympics.
+[7260.76s -> 7267.43s]  And this Olympic Games, this new game is just crazy. I'm trying to figure out what the goal
+[7267.43s -> 7282.78s]  here with this game is. You'll see what I mean when we play it. I'm open. Hi. I'm open. The store
+[7282.78s -> 7289.74s]  is open. I should have been open already. Is it Sonic and Mario? It is not Sonic and Mario,
+[7289.74s -> 7296.74s]  but weirdly enough, Sonic is in the game. You can just be Sonic the Hedgehog in the Olympics,
+[7296.74s -> 7300.84s]  like the real Olympics. It's not like a cartoon world. I don't know. It makes no sense.
+[7301.48s -> 7312.34s]  It's supposed to be a 2020 Olympic Games simulation, but one of the people you can play as
+[7312.34s -> 7318.94s]  is it's not even Sonic the Hedgehog, the cartoon Sonic the Hedgehog. It's a guy in a Sonic the
+[7318.94s -> 7335.67s]  Hedgehog costume. Nobody's buying anything. This one guy is going to buy an order of onion rings.
+[7345.11s -> 7378.60s]  Eleven dollars. Minus 22. Shit. God damn it. It's a store with seven refrigerators. Yeah,
+[7378.60s -> 7395.13s]  I'm just getting started. I'm an aspiring food business. Fast forward time. I can do that.
+[7395.13s -> 7412.66s]  You're right. I still have negative one dollar. What do you guys want? Come in here. Hello? This
+[7412.66s -> 7425.94s]  game sucks and it's even worse if you're bad at it, man. Jesus. I'm sorry. You know, the best part
+[7425.94s -> 7430.55s]  about that comment is the man at the end. You know what I mean? It wasn't just like, oh, this
+[7430.55s -> 7434.55s]  game sucks, especially if you're like not any good at it. No, it was like, yeah, this game sucks,
+[7434.55s -> 7451.02s]  especially if you're not good at it, man. That stings. That's like the stinger. All right. What
+[7451.02s -> 7471.86s]  do people want? 2020 Olympic Games. All right. I think I need a controller. Nobody's stealing.
+[7471.86s -> 7479.61s]  What are you talking about? Remember, this game is good. I played it on Roblox. This game is pretty
+[7479.61s -> 7486.10s]  good. I can't decide between the corn and the corn. I'm not quite sure if I want a pumpkin or
+[7486.10s -> 7495.16s]  not. Can you sound me on this? Sure. Uh, what month is it? Uh, it's January. Don't buy a pumpkin.
+[7495.16s -> 7513.67s]  Oh, okay. Why? No, I think I'll take it anyways. Somebody stole pizza. Nobody stole pizza. You
+[7513.67s -> 7530.18s]  can't steal in this game. Hungry? What the hell? I just ran so fast. I stole the pumpkin. Nobody
+[7530.18s -> 7566.62s]  stole anything. What if I just leave the store? Excuse me. Did you pay for that? Oh, steal from
+[7566.62s -> 7574.55s]  your competitor's stores. Yeah. That'd be funny if you could do that. Somebody said, imagine if you
+[7574.55s -> 7579.24s]  walked into a small store and there was just nobody in there. That's kind of like the equivalent of
+[7579.24s -> 7586.90s]  when you go to class and the teacher's not there and you know that the substitute's coming soon.
+[7587.54s -> 7595.90s]  It's like, oh shit, what do we do? There's always that one kid that gets up and starts drawing on
+[7595.90s -> 7603.66s]  the board. Teacher comes in, substitute comes in. Eventually everyone's sitting down after like
+[7604.54s -> 7616.42s]  everyone's written a bunch of bullshit up on the board. They just ignore it. They just erase it
+[7616.42s -> 7623.37s]  and start talking. All right. I'm going to play 2020 Olympics. Let's go. This game was fun. I like
+[7623.37s -> 7629.45s]  it, but I just, I'm not, I'm not very good at this and it's all right. It was fun. I had a good time.
+[7629.45s -> 7633.29s]  I told you about my dream. Uh, I told you about a bunch of things that happened. We're going to
+[7633.29s -> 7646.14s]  play Sonic and Hedgehog at the Olympics. The 15 minute rule never existed here. Well, I told you
+[7646.70s -> 7652.95s]  this was not going to be a short stream. We have a few things to play. This was the number one. Who
+[7652.95s -> 7663.34s]  knows Sonic? Uh, it's not Sonic at the Olympic games. It's just the Olympic games. All right.
+[7663.34s -> 7667.26s]  Let's take a quick break. I'll come right back in about two, three minutes and we'll play, uh,
+[7668.55s -> 7673.99s]  no, I keep saying Sonic. We're going to play the Olympic 2020 Olympic games video game. All right.
+[7673.99s -> 7674.71s]  See you in a minute.

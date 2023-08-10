@@ -1,0 +1,1377 @@
+[1.27s -> 10.33s]  Good... Oh, I can't say good morning. I have to say good afternoon. Sure of my might. Yeah,
+[10.33s -> 18.23s]  start a little bit an hour later today than usual. Stuff to do this morning. But I've completed all
+[18.23s -> 28.39s]  of my tasks and I'm ready to play a video game. In front of all of you. Today, we're gonna be
+[28.39s -> 35.43s]  playing Eternal Darkness. Ssssssadities. I've not... Let's... Let's stop for... Let's hold on a second.
+[36.15s -> 43.93s]  Hadn't even been one, two full minutes. I'm just gonna... We're not gonna do that yet. I promised my
+[43.93s -> 49.91s]  mother that I would at least be cordial and I wouldn't be like a weirdo for the first 40
+[49.91s -> 56.94s]  minutes of the stream today. Sorry, Mom. Alright, turn to Dr. Synodys Requiem. This game came out
+[56.94s -> 67.03s]  for GameCube. GameCube Classic. This game, uh, fucks with you while you play it. It's by Silicon Knights.
+[67.67s -> 71.83s]  You might know them as the people that sued, uh, Unreal Engine and they lost.
+[74.10s -> 81.10s]  Unfortunately, that's like the biggest thing they've done. Which is sad because this game is
+[81.10s -> 87.90s]  really good and I'm actually one of the weirdos that liked Two Human. I liked that game. I thought
+[87.90s -> 92.62s]  Two Human was good. That was the last real video game they worked on and then they had all this
+[92.62s -> 102.49s]  legal problems and then they stopped. Two Human was good. I liked it. Me and my brother used to
+[102.49s -> 108.87s]  sit there and play Two Human like three or four hours a day. Now, granted that only lasted maybe
+[110.06s -> 122.79s]  a couple of weeks, but if we still had fun, you're Two Human. Hold on. I have a question.
+[123.67s -> 129.11s]  Hey, how is me? Alright, this is important. How is me telling you a story about how me and my
+[129.11s -> 138.46s]  brother played Two Human? A minus two joke or a plus two joke for that matter. That doesn't make
+[138.46s -> 143.74s]  any sense. You know, my fond memories of me and my brother playing Two Human on the couch.
+[144.70s -> 156.94s]  That wasn't very funny. That was really funny. Oh, you got an emote? Wait, you got an emote.
+[158.25s -> 166.49s]  Only visible to you. You got an emote today. Thanks to EX Theo's subscription. Thank him?
+[167.21s -> 174.58s]  Hold on. I can say thank you. What does that do? Thanks for the hyper slam. Hold on. How does this
+[174.58s -> 188.42s]  work? Okay, I just hit enter. I don't know what I did. I just apparently thanked that person.
+[190.22s -> 202.25s]  Hey, thanks. Thank me instead. I don't think I've seen that before. Alright, this is Eternal
+[202.25s -> 206.62s]  Darkness. Let's move over to the streaming screen so you can see what's going on here.
+[207.34s -> 221.35s]  Are we kind of loud? But it's okay. I will turn it down for you. I'm ready to play. I have played
+[221.35s -> 227.11s]  this game before. It was about 20 years ago as you see 2002. So it's been a while, but I want to
+[227.11s -> 233.54s]  relive it. Audio not synced up. There's no audio to sync up. What are you talking about?
+[238.66s -> 240.98s]  Dude, audio is not even synced up. Let's test.
+[247.86s -> 252.76s]  Fuck, I just turned into the demo at Radio Shack where you go in and you press the buttons on the
+[252.76s -> 267.75s]  keyboard. You press like 014 and then start hitting keys. It's fine. We're good. Radio Shack isn't
+[267.75s -> 280.73s]  real. Did they go bankrupt? This wretched book is where it all began so long ago.
+[280.73s -> 293.30s]  Ace Camp today? No, not today. I love Roivas. It's a great tea. Oh, he's dead.
+[293.54s -> 300.25s]  This is not my story, nor even the story of the Roivas family. It is the story of humanity.
+[305.61s -> 309.62s]  Your perceptions will not change reality, but simply color it.
+[310.50s -> 314.54s]  Humanity has been on the edge of extinction for two millennia,
+[315.42s -> 323.58s]  ignorant of so much and dependent on so few. This is a scary game. This is not a scary game.
+[324.78s -> 356.38s]  Let me correct you. What's going on? It just went purple. All right. Shit. Oh, come on.
+[357.43s -> 373.94s]  Don't do this to me. No, no. Stop outing me. Is it emulated? I had to, okay, because I have the game.
+[373.94s -> 388.02s]  I have the disk and it wouldn't capture through my fucking capture card. We're going to get like
+[388.02s -> 409.82s]  purple flashes, aren't we? No, the disk. I've already shown it. Pick up the phone. We're going
+[409.82s -> 416.44s]  to get purple. Should I put like a warning that says like, hey, intermediate purple flashing?
+[417.40s -> 433.56s]  Of course, it could be perfect. Yeah. Who's this? This is inspector. I'll be on the next flight out.
+[434.20s -> 438.50s]  Looks pretty good though. Could have used the Wii for this. I did.
+[439.46s -> 441.14s]  Here's what happened when I went through the Wii.
+[447.34s -> 450.94s]  It's because of the capture card. I don't know why it's doing it. It's fucked up for some reason.
+[450.94s -> 457.82s]  I trust you had a pleasant trip. Yes, I suppose so considering. Yes. My condolences. This
+[458.06s -> 464.94s]  most unpleasant. It's a shame we couldn't meet under brighter circumstances. Yes, it is. Can we
+[464.94s -> 469.66s]  get this over with please? Of course this way. Oh, it's only going to happen when we change to a
+[469.66s -> 475.90s]  different chapter. Not a pleasant sight. Oh shit. Okay. That's not that bad. I'm afraid there's
+[475.90s -> 490.68s]  not much to see. Disable what? What should I disable? Disable store XFB. All right,
+[490.68s -> 493.72s]  where the fuck is that? How do I store XFB?
+[502.38s -> 506.65s]  Store XFB to texture only. To avoid this.
+[517.22s -> 522.10s]  I already know what happens. Her grandfather was Edgar Allan Poe and like he wrote The Raven here
+[522.10s -> 526.50s]  and then the place is cursed. I don't what that's who cares. There's no head. Now none of this
+[526.50s -> 531.62s]  makes sense. There's no sign of intrusion and there was certainly a lot of force used here.
+[531.62s -> 535.29s]  I have never seen anything like this in my 20 years on the force.
+[536.17s -> 540.57s]  We have no evidence except for the body and what's left doesn't say much.
+[542.25s -> 546.17s]  We don't have a single clue. When I go on my I'll turn I'll change it.
+[546.17s -> 547.93s]  I feel like that's probably somewhere easy to find in the
+[548.65s -> 553.61s]  until you do go into the registry edit hold on a minute I don't want to do that in the
+[553.61s -> 564.76s]  middle of the stream I want answers so do I I wish I had some two weeks later purple flash
+[564.76s -> 577.93s]  incoming no we're good turn on real xfb or after okay real xfb talked by her grandfather's mysterious
+[577.93s -> 583.37s]  death and frustrated the incompetence of the local police alex vows to uncover the truth
+[583.37s -> 589.61s]  she decides to search the mansion the place where edward al ad edward edward ed squidward
+[589.61s -> 596.44s]  alan poe conducted his research if there was a tie to his past and possibly a tie to his murder
+[596.44s -> 605.93s]  we'll be here welcome to eternal darkness sanity's end okay we got to search there's a punch game
+[605.93s -> 614.70s]  already has plus one letter grade what do I think about vr salmon max kind of cool I guess
+[615.90s -> 626.02s]  really is kind of like resident evil huh uh this is a sword with something I can
+[627.48s -> 632.20s]  oh scary whispers a wooden plaque is fastened to the door taking the place of the lock
+[633.10s -> 637.66s]  colored sigil is carved into the wood above a wide slot the slot is just wide enough to insert
+[637.66s -> 642.78s]  a narrow blade I need a sword to open this probably if I remember how do I run is there a run
+[643.50s -> 652.46s]  yeah it doesn't run okay but what about house flipper vr I mean that's kind of cool but I
+[652.46s -> 657.05s]  feel like I already know what that's gonna be like I feel like I've already played that for
+[657.05s -> 668.65s]  some reason I don't know why I haven't played piano the grand pianist dancer awaiting the hands
+[668.65s -> 674.33s]  of a decent musician unfortunately edward never really lived up to that description and as such
+[674.33s -> 681.62s]  the piano fell into disuse I wish I could just sit down and just do like a Mozart piece right now
+[682.26s -> 689.26s]  you know I really think I wish you know how games have mini games that you said you like oh wow
+[689.26s -> 693.42s]  this is a cool little feature for many why how come this has never been a full piano that you
+[693.42s -> 699.02s]  control with left stick and like uh the two bumpers on the left side and right stick for
+[699.02s -> 705.11s]  your right hand for the right trigger and right bumper that'd be so much fun if you just I don't
+[705.11s -> 711.21s]  know why no one's done that it's so easy happens in half-life alex thanks for the spoiler hey thanks
+[711.21s -> 715.21s]  for spoiling the entire series of a half-life alex to me there's a piano you can play thank you
+[715.77s -> 722.70s]  the illustration features a collection of strange line designs related to each other in a cyclical
+[722.70s -> 727.38s]  manner there's some significance to it but it's particularly evident it isn't particularly
+[727.38s -> 736.52s]  evident okay I gotta find the secrets all right so what at what point does my screen turn off in
+[736.52s -> 740.36s]  like the like the kojima of like hideo blinks in the top right corner doesn't that happen in this
+[740.36s -> 754.07s]  game walk a beautiful carriage clock the hands appear to be stuck and the clock continues to
+[754.07s -> 760.89s]  tick with the time permanently set to 3 33 there is a key in the back of the clock presumably for
+[760.89s -> 767.98s]  winding it wind the key yes alex picks up the desk clock and pulls the key from it however there's
+[767.98s -> 773.10s]  something odd about the key it isn't for a winding at all it looks like a dresser key
+[773.10s -> 791.82s]  nice all right open a bedroom we're gonna find bedroom bedroom one portraits of the ancestral
+[791.82s -> 798.70s]  roivas line the foyer walls their faces reveal a dark brooding edge there's something about
+[798.70s -> 804.79s]  each one that gives the viewer an unsettling feeling this is the luigi's mansion house
+[805.43s -> 814.49s]  I mean it's every horror movie mansion is the exact same they all are the resident evil house
+[815.21s -> 823.69s]  they all have this gigantic red carpet bullshit that goes up two big flights of stairs that are
+[823.69s -> 829.24s]  parallel to each other and then there's two rooms on the left and two rooms on the right
+[829.24s -> 833.91s]  and one all yeah one all the way down in the hallway this is how every single the horror
+[833.91s -> 839.69s]  movie mansion is it doesn't matter what game doesn't matter what movie all exactly the same
+[839.69s -> 856.04s]  it's identical doors locked oh I gotta go to the dresser what a worthless hallway by the way
+[856.12s -> 863.91s]  this is four why not just end the wall there save yourself like fucking five grand on new building
+[863.91s -> 875.78s]  costs it's a secret room yeah that's true sorry all right this is the study five grand on new
+[875.78s -> 883.93s]  building costs yeah I don't know what that was what what does that mean new building costs huh
+[883.93s -> 902.38s]  that was just a bad translation I was trying to say a redone kitchen the warm glow of the candle
+[902.38s -> 908.74s]  light the roivas family tree hangs from the wall shadows flitter across its surface obscuring the
+[908.74s -> 915.10s]  detail if one looks closely the family secrets are revealed we'll look closely oh where's the
+[915.10s -> 930.92s]  bedroom door is locked how do I where's the dresser dresser no I don't care about that guy I missed
+[930.92s -> 954.36s]  the door I'm gonna hurry up it's but now it's 333 forever don't worry this one hey puzzle game no
+[954.36s -> 964.63s]  I'm fine oh there there this is not a puzzle game by the way this is just to remember where the door
+[964.63s -> 977.51s]  is game it's not a puzzle game I'll know plus you guys can just give me the answers it's fine
+[977.51s -> 981.35s]  okay it's time for me to be up front with you I don't want to lie I have to tell you the truth
+[981.35s -> 985.91s]  I've looked at chat more time than I've looked at the screen with the game on it I swear to god
+[985.91s -> 990.07s]  I've just been hanging out with you guys just looking at chat I haven't even played okay so
+[990.07s -> 999.30s]  I gotta play what did I miss if you I wish I could have a I wish I could time that or something
+[999.30s -> 1015.08s]  I would have what door did I miss this an eye tracker an eye tracker stream for me would be
+[1015.88s -> 1024.14s]  you guys would hate it some of you guys would throw up you would just see how crazed I am on
+[1024.14s -> 1029.03s]  a daily basis you'd be like wait a minute this there has to be a calibration problem how did
+[1029.03s -> 1034.62s]  it go into the four corners of the screen 10 times in the last one second that's impossible
+[1034.62s -> 1048.70s]  hey dude you calibrations wrong uh no it isn't that this set this time to 333 this looming
+[1048.70s -> 1053.34s]  grandfather clock seems to stand ominously in the corner gazing on this empty room with an almost
+[1053.34s -> 1090.39s]  patriarchal layer 333 yep the secret study don't touch that purple screen fix coming through
+[1090.39s -> 1101.93s]  germawalk hold on a minute this is important oh man that I cannot can I like is that does that
+[1101.93s -> 1111.34s]  person like have a sub they gave me a picture book like for a child graphics hacks bang bang
+[1111.90s -> 1120.62s]  bang wait did you wait hold on wait do I check that box or do I do I just do exactly what you
+[1120.62s -> 1126.94s]  gave me in like the fucking pop-up book all right wait I gotta get to a save point before I do this
+[1126.94s -> 1134.23s]  let me get to a save point first again there's gonna be a purple flash by the way I have to
+[1134.23s -> 1137.43s]  warn everybody there's a purple flash that happens like when we change chapters and then I'm gonna
+[1137.43s -> 1141.99s]  save the game and then bang I'm gonna go turn that off okay so just I really am warning that's not
+[1141.99s -> 1148.06s]  like a joke I'm not fucking around like seriously it's bad a large leather bounty antique book open
+[1148.06s -> 1173.35s]  it and it opened to 16 by 10 resolution nor did I care the knowledge changed me have to do a
+[1173.35s -> 1178.79s]  while reference will also change you every single strength as you read this oh you will come to
+[1178.79s -> 1185.18s]  learn hold on I'm talking over the cutscene you too will come to understand this is her voice
+[1185.18s -> 1192.76s]  talking or you will perish she's reading the book purple be careful purple I'm serious that once I
+[1192.76s -> 1200.68s]  could not see beyond the veil of our reality to see those who dwell behind no that's bullshit
+[1200.68s -> 1207.64s]  dude nobody reads a book in their own voice for I have learned the frailty of flesh that would be
+[1207.64s -> 1213.96s]  strange why would you give every character your voice one fucking purple I told you sorry it's I
+[1213.96s -> 1220.09s]  told you it's coming I hope I warned you long enough here is queer scandalous there is cons of
+[1220.81s -> 1223.13s]  can you imagine reading a book in your voice
+[1234.68s -> 1235.08s]  yes
+[1241.40s -> 1247.24s]  read books in your own voice do you believe that it really exists centurion I do not doubt our
+[1247.24s -> 1253.08s]  emperor's beliefs or his orders what but if we are to retrieve the artifact hold on a minute
+[1253.08s -> 1258.44s]  and we must be strong and patient so when it when a character talks in a book you don't hear
+[1258.44s -> 1271.53s]  somebody else's voice you hear your voice talking what no yes yes yes what are you talking about
+[1275.22s -> 1282.10s]  I when I read a book I can let's okay let's put it this way so in like the game of thrones books
+[1283.26s -> 1288.06s]  when little finger talks is it you doing a little finger impression
+[1288.06s -> 1302.54s]  or is it the little finger actor talking and you hear it oh I hear a little I hear little
+[1302.54s -> 1323.11s]  finger talking I hear the actor talking purple be careful give me a safe one so I can fix this
+[1329.38s -> 1331.70s]  cat has no inner monologue omega low
+[1336.68s -> 1341.48s]  second no that's not even true everybody has an internal monologue
+[1341.56s -> 1348.31s]  my internal monologue I can get to be somebody else though like okay right now I'm okay I'm
+[1348.31s -> 1352.63s]  thinking of a spongebob episode with spongebob that like grabs Patrick's nose squeezes it and
+[1352.63s -> 1357.11s]  says this thing's gigantic that's not me saying that in my head spongebob is saying that I'm
+[1357.11s -> 1377.54s]  hearing it not Patrick Squidward whatever that's everybody has that die on this floor is finally
+[1377.54s -> 1385.06s]  crafted inlet with gold and gems that we can identify strong linear design is situated in
+[1385.06s -> 1393.59s]  the middle and is equally unknown to the Roman soldier on that morning radio
+[1397.48s -> 1403.51s]  all right so there's the symbol it's all about the symbols in this game I do have a weapon now
+[1403.51s -> 1412.74s]  though which is cool this is a cock and then there's a whip you have to manually save how
+[1413.86s -> 1422.52s]  this function allows the manipulation of inventory items yeah yeah yeah okay equip the character
+[1422.52s -> 1428.60s]  with a with a weapon while the examination of objects press lr by switching back and forth
+[1428.60s -> 1436.06s]  between the sections all right oh shit it is there is it is a manual save all right let me
+[1436.06s -> 1446.73s]  get this done there we go all right I thought I thought I'm like my like my my fucking computer
+[1446.73s -> 1452.28s]  I don't know what that was in the top left it could have just been like my fucking whatever
+[1452.28s -> 1465.10s]  because that's good we're good s10w update gave 150 10 000 bits I'm stupid so that's like 150
+[1465.10s -> 1469.74s]  000 dollars all right let me get this let me fix this before we get started for real so that's
+[1469.74s -> 1476.44s]  saved in one sec that's that's a lot of money though hold on this is good to go let me check
+[1476.44s -> 1485.18s]  this box reboot it okay well somebody just gave a lot of money that was a hundred dollars from
+[1485.18s -> 1492.87s]  s10w update thanks to the hundred fucking bucks Jesus people still give me insane money I don't
+[1492.87s -> 1501.62s]  even I can't believe it they say that they took my advice another the 47th richest person in the
+[1501.62s -> 1513.35s]  world here's your cut peace and love all right let's get this I gotta I gotta get this to hold
+[1513.35s -> 1524.20s]  on graphics hacks well mine doesn't look like that mine doesn't look like that uncheck it
+[1524.20s -> 1532.46s]  wait uncheck that store e fb copies right or check it because it was checked already
+[1532.46s -> 1541.72s]  okay that's all I have to do skip efb access from cpu all right I unchecked it let's see if it fixes
+[1541.72s -> 1553.00s]  it uncheck everything all right I unchecked it it's unchecked I'm ready to start all right I
+[1553.00s -> 1562.79s]  have the latest version of that software all right let's go deep into that darkness peering
+[1563.77s -> 1571.78s]  if you fixed it I stood there wondering theory you unchecked the wrong one no no no no no no
+[1571.78s -> 1583.03s]  this person gave me detailed fourth grade information a game all right it might flash
+[1583.03s -> 1592.62s]  purple I'm just warning you hopefully it doesn't let's see what happens I unchecked it you are
+[1592.62s -> 1609.00s]  from the third grade get banned get banned idiot ladder leads into the dank art of the labyrinth
+[1610.42s -> 1615.05s]  danger lurks beneath let let pious her jesus
+[1625.66s -> 1634.79s]  you know I I just found out a new category for 2020 is end of the year awards uh worst
+[1634.79s -> 1644.95s]  we're eating or worst talking courage jesus like absolutely worst mispronunciation I don't know
+[1644.95s -> 1655.21s]  what the fuck is going on man I aged a hundred years in fucking five I don't get it this guy's
+[1655.21s -> 1676.30s]  gonna get up just like dark souls 2 okay so this is ready and this is swings look you just hit
+[1676.30s -> 1684.38s]  people you can aim for their heads too right you can aim for different body parts this game is
+[1684.38s -> 1695.78s]  actually pretty cool for a time you can target body parts and we have a five finish him we get
+[1695.78s -> 1708.65s]  a five second slow mode so I can read chat and that'd be worse this beta represents life energy
+[1708.65s -> 1712.25s]  every time a character takes damage the level will get lower when it reaches zero the character
+[1712.25s -> 1721.45s]  will die okay I know what health does I mean this was 2002 right this was like 1930
+[1721.93s -> 1738.46s]  okay people before your what slapstick sounds
+[1741.10s -> 1752.70s]  that was pretty slapstick strange granite block lies on the floor okay I can put that block up
+[1752.70s -> 1763.45s]  there do you smell burnt toast yeah yeah no no no it's like it's like sulfur right you smell
+[1763.45s -> 1771.61s]  sulfur doesn't mean you're getting possessed by a demon wait should I go fuck knock on the door first
+[1771.61s -> 1784.39s]  yeah oh I have to get all the cubes 100 sure it's something like that it's not like that
+[1788.15s -> 1794.01s]  god damn it why does that person have to say that slapstick
+[1797.02s -> 1809.18s]  it actually is oh you just have to add I'm so annoyed by that one of the editors
+[1809.18s -> 1813.50s]  just here do me a favor I'm gonna swing in a bunch of them and then just put like
+[1813.50s -> 1820.97s]  curly Larry and Moe talking and and locally wisdoms behind it it's perfect I'll get it for
+[1820.97s -> 1845.14s]  you don't do that why not that that's funny watch out I want to go for the legs you know
+[1845.86s -> 1870.26s]  you don't yet maybe have to learn it all right everybody quiet okay I'm realizing something
+[1870.26s -> 1877.16s]  that's like early Larry and Moe killing each other you hear like a knife sound a knife going
+[1877.16s -> 1889.29s]  into a body all the while with the three stooges goofy sound effect sound that's like Moe killing
+[1889.29s -> 1918.17s]  Larry and curly with a knife in the kitchen that's fucked up oh I'm with their four blocks dead
+[1918.17s -> 1937.99s]  all right all right get on the ground stay on the ground die I have three or four yeah I
+[1937.99s -> 1948.54s]  gotta place them in the uh I know where I gotta go with it I'm gonna be walking right down this
+[1948.54s -> 1976.02s]  hallway this guy's name pious gone highest I don't think his name is John here we go
+[1982.15s -> 1991.24s]  no it's not biggest dickus I put the red one in here put into the walls a square
+[1992.04s -> 2000.42s]  all right we have to ah that's I gotta go it's gonna have to go to 16 by 10 every time I go in
+[2000.42s -> 2007.43s]  the menu it's so funny about biggest dickus uh look it up it's a funny Monty Python thing
+[2008.97s -> 2029.82s]  did I miss one I actually missed one you're a fake fan what are you talking about
+[2030.62s -> 2045.42s]  I mean that last one purple it's not pre-recorded save that word no now you know the word is p
+[2046.14s -> 2056.46s]  it rhymes with uh intravenous yes
+[2070.09s -> 2077.77s]  intravenous no no nobody said that I made it up I heard sponge I heard spongebob say it in my head
+[2094.34s -> 2110.25s]  show don't you understand I can get spongebob to say anything in my head I just can you must
+[2110.25s -> 2116.71s]  prove your worth by destroying this statue yeah so I have to destroy the whole thing
+[2117.43s -> 2123.35s]  back the head in the arms prove it you I how can I prove something like that
+[2124.23s -> 2137.86s]  right now spongebob in my head just said my name's German I-85 I'm streaming live on German and he's
+[2137.86s -> 2140.58s]  at the computer and stuff like I can get him to say whatever I want I just heard him do it
+[2154.07s -> 2158.63s]  are you guys figuring out that I have some kind of weird superpower or I can hear other people
+[2158.63s -> 2169.85s]  talking in my head if I want to it's a superpower
+[2174.33s -> 2181.88s]  I have an eternal monologue yeah I have both I can I can just I can shape shift it's really
+[2181.88s -> 2196.42s]  hard to explain but a button attached to a small island softly illuminates the room a bizarre
+[2196.42s -> 2209.00s]  energy seems to radiate from it press it press it hey if people that cannot think of words just
+[2209.00s -> 2219.18s]  concept and images I don't know that's this is news to me I can see words in my head right now
+[2219.18s -> 2222.46s]  like I'm spelling them out I can just see them like it's the ball is bouncing on the lyrics at
+[2222.46s -> 2232.14s]  the bottom of the video I'm literally seeing every word I'm saying but everyone has the internal
+[2232.14s -> 2241.38s]  monologue wait is it was I have to choose like a power what's the best Kingdom Hearts thing to do
+[2242.94s -> 2248.62s]  health magic or damage it's never magic by the way they just put it there because Disney is
+[2248.62s -> 2262.60s]  magical and shit it doesn't do anything shield and power the best one let's see details effigy
+[2262.60s -> 2268.04s]  resembling a warped angel shaped from the dark green emerald covers effortlessly above the
+[2268.04s -> 2276.98s]  pedestal should I just claim this artifact all right hold on no I pressed a I pressed yes
+[2277.86s -> 2285.85s]  I was trying to press B looks like looks like we're going with the earthbenders
+[2286.81s -> 2313.11s]  shit accidental super powered god damn it whatever this is the best one anyways
+[2315.59s -> 2324.66s]  hey notice how there's no uh white symbol here hey it's supposed to be fixed and I have I was
+[2324.66s -> 2332.50s]  once as naive as a child is sharp um that was our anyways notice how there was no uh air symbol
+[2332.50s -> 2338.58s]  there of others and make them just saying mad with a fucking purple shit ruined my joke you know that
+[2338.58s -> 2352.31s]  was gonna be funny fucking stupid-ass purple bullshit perish now the text is purple great it's
+[2352.31s -> 2361.29s]  mocking me whom of the eternal darkness hey professor Richard cheese thanks for the 10
+[2361.29s -> 2374.57s]  community subs read it this time oh fuck what do you mean read it there was no text on it before
+[2374.57s -> 2387.32s]  read it just store it mine was already checked mine was already checked man I was checked already
+[2389.86s -> 2399.02s]  graphics tax if efb access from cpu should I check it pretty cool game the game is actually
+[2399.02s -> 2411.59s]  pretty cool because store efb right now detections only was checked already just make the check marks
+[2411.59s -> 2423.48s]  that are in the image hold on fast step calculation I'm just gonna copy this person's homework
+[2424.28s -> 2433.54s]  internal frame buffer wait why that two of these wait a minute wait a minute wait a minute this
+[2433.62s -> 2449.82s]  minus two or xfb copies to texture store efb copies to texture like it's xfb right it's so
+[2449.82s -> 2457.06s]  the efb was wrong I have the old version this I have the new version of I have the new version
+[2457.62s -> 2468.44s]  chroma key out the color purple you motherfucker turn on real xfb or disable xf store so this the
+[2468.44s -> 2481.78s]  tutorial that I got in the imgur link is wrong they maybe unchecked the wrong thing that's not
+[2481.78s -> 2488.54s]  even a debate I think that person was trying to be helpful fuck I was gonna like mod that guy okay
+[2488.54s -> 2499.21s]  I just tried I unchecked the thing let's see what happens key out purple I can't just key out the
+[2499.21s -> 2508.57s]  color purple yeah it's store xfb not dfb that's the xfb is the one that I have to uncheck so
+[2509.21s -> 2518.89s]  the really easy tutorial was actually wrong and hard I mean do it if it happens again I'll try
+[2519.77s -> 2530.82s]  disable xfb fuck it was efb in this guy's image
+[2535.90s -> 2538.62s]  okay I gotta pay attention I gotta pay attention I gotta pay attention
+[2538.62s -> 2549.26s]  this is gonna be some coordinates here hold on all right what is this crank socket is mounted
+[2549.26s -> 2556.23s]  in the telescope appears to be linked to a mirror supported by a brass pedestal curious contraption
+[2556.23s -> 2570.36s]  to be sure what purpose can it possibly serve just it yes this reminds me of like how old tv
+[2570.36s -> 2578.86s]  shows used to do guy is ai or made out of machines and it's talking oh yes mr stevenson it is so glad
+[2579.66s -> 2593.78s]  to see you I am so happy to see you pretty pretty torn on that one I see a lot of people
+[2593.78s -> 2599.86s]  didn't like it a lot of people did it's pretty interesting okay this is open what did it open
+[2599.86s -> 2609.24s]  examine globe cradled in a wooden frame its glossy surface is painted in the likeness of an ancient
+[2609.24s -> 2615.05s]  map the lens is situated in the northern hemisphere above a label that reads there be
+[2615.37s -> 2634.62s]  dragons here there's two of these though just mirror right wait a minute there's nothing in
+[2634.62s -> 2651.29s]  the top crank doll do you guys see a mirror where's the mirror did you say I was adjusting
+[2651.29s -> 2681.30s]  a mirror thing up top how's it making that noise are there any more of these yeah there's another
+[2681.30s -> 2687.59s]  one of these over here too fuck what do I do with this can I not do this yet I don't think I can do
+[2687.59s -> 2702.58s]  this yet I'm back later the fuck I just got the twitter notification he sent out dude what
+[2702.66s -> 2712.30s]  we've been let's go where can I not go before let's go this way this is open now
+[2713.02s -> 2731.59s]  no this is locked this is green now okay please for the love of god don't do that
+[2733.93s -> 2738.97s]  okay uh is it like a family sword I have to go get like ps's sword or something right
+[2742.39s -> 2756.02s]  how come every game I play has instant messenger sounds fuck stop ruining a game I like why
+[2756.02s -> 2761.06s]  that's true but I now I like this game now you're making me not like it anymore
+[2761.06s -> 2773.22s]  all right where's the sword there's a sword secret down here or something sword I'm looking for
+[2773.22s -> 2777.94s]  uncle's sword these books contain the history of the Royvus family yeah whatever it's the lore
+[2777.94s -> 2799.51s]  who cares where's that sword it's here somewhere give me the sword oh let's go down here lore is
+[2799.51s -> 2811.42s]  unimportant no lore is not unimportant lore is unimportant for me streaming good painting of a
+[2811.42s -> 2822.52s]  jungle shrouded building it seems to be a temple in Asia perhaps from Thailand or Cambodia ancient
+[2822.52s -> 2836.78s]  Roman weapon a gladius take it go put that sword in that door press her key and second floor key
+[2836.78s -> 2846.09s]  I don't okay I can't use it all right got the sword let's try to stick the sword into the door
+[2853.67s -> 2864.50s]  let her rest what why I can't oh right because I'm holding down left trigger okay she's fine
+[2864.50s -> 2881.13s]  you're killing her she I'm gonna be fine I don't care about this I want to stick this into wherever
+[2881.13s -> 2895.66s]  it was where is it this way it's one of the left doors you know you're gonna be fine we're concerned
+[2895.66s -> 2915.38s]  about her all right stick it in stick the sword in the slot is wide enough to insert a narrow blade
+[2915.38s -> 2932.98s]  god damn it Alex places the blade in the slot but feels it push back it is as if the magic of the
+[2932.98s -> 2940.41s]  blade does not fit the lock so I gotta go like bless this thing in the blood of the green guy
+[2940.41s -> 2954.74s]  right how do we do that gotta be a slime guy sword yeah all right well how do we do that though
+[2964.92s -> 2971.56s]  so green eats blue blue eats red red eats green and purple is not part of the food chain
+[2971.56s -> 2982.92s]  okay please make monkey noises we're not going we're not doing that again okay no you got you
+[2982.92s -> 3010.44s]  did that once and I'm not doing it again please no no I'm not gonna do monkey noises no the key
+[3010.44s -> 3014.04s]  comes apart in the lock the key to the second floor is broken is there a way of repairing it
+[3014.76s -> 3021.40s]  Alex has picked up the broken second floor key can I not you well it's still locked he must be
+[3021.40s -> 3040.62s]  repaired somehow god damn it okay stop and I'm never doing it again I am never doing it again
+[3040.62s -> 3051.69s]  even for a thousand dollars at this still I don't know can I do anything with this can I stick the
+[3051.69s -> 3059.98s]  sword in no minus two what a sellout that means he'll yeah that means oh no that's not what I'll
+[3059.98s -> 3065.42s]  mean not a thousand and one I'm not doing it again I need to hold on I need to bless this
+[3065.42s -> 3084.26s]  fucking sword I'm gonna go into the sword room back into the library wait book in the sword room
+[3086.90s -> 3104.42s]  use your special book this is the tome of eternal darkness with spells whatever I'm gonna go should
+[3104.42s -> 3108.50s]  I go back I'm gonna think I'm gonna go into the library where's the library again I read that
+[3109.06s -> 3131.56s]  put in here do an antelope now I don't I don't know what an antelope sounds like I have no clue
+[3131.56s -> 3138.30s]  all right what did I miss something in here some kind of mask faces serenity and composure
+[3142.14s -> 3149.42s]  oh cool strangely with the tome of eternal darkness in her possession Alex can read the
+[3149.42s -> 3155.59s]  page it is a chapter page from the tome itself take the chapter found the chapter page titled
+[3155.59s -> 3167.72s]  the binding of the corpse god put it in the book and read it I cannot say no purple true beginning
+[3167.72s -> 3175.66s]  nor am I sure of its end so perhaps here is the best place to start I am reminded of ideas I first
+[3175.66s -> 3182.14s]  encountered in sir James George Frazier's book the golden bow a study in magic and religion
+[3183.24s -> 3187.80s]  we are overwhelmed by a very human need to weave a weather of 1400s and 1500s
+[3189.99s -> 3194.87s]  since time immemorial ancient peoples have dressed up their lack of knowledge
+[3194.87s -> 3199.11s]  as gods and demons I have discovered that sometimes
+[3199.11s -> 3205.19s]  Bible the fates of gods and mortals intertwine legends are born I guess I am just describing
+[3205.19s -> 3214.74s]  the Bible I'm like yeah well I want to I want more of that though my time is done read the
+[3214.74s -> 3223.06s]  bibles forever in shadow will you be master of chaos and to fade to nothing in obscurity
+[3223.06s -> 3232.34s]  will be thy fate many millennia for this day it is the true chaos of all things
+[3232.34s -> 3239.46s]  that you now must be entombed amongst the beings of flesh and bone see you have a great monument
+[3239.46s -> 3250.14s]  here mount rock it is a pity that no lies it as yours may the darkness claim the
+[3250.94s -> 3258.86s]  chaos and damn beast no longer will thy reign be kept over the ancients you have kept imprisoned
+[3259.82s -> 3271.26s]  thou hast seen the last of this world no I killed this guy on this thing under here
+[3271.90s -> 3289.37s]  brushing all of his eyes this is purple guy so I have claimed this temple in the name of the green
+[3290.01s -> 3297.88s]  guy not even these mythical fables can keep me amused yes there has to be something to do around
+[3297.88s -> 3304.33s]  here I wish something that fantastic and of higher purpose could happen to me
+[3305.37s -> 3321.64s]  all right let's go I have a weapon gonna be like puzzles here and shit in there okay a triangular
+[3321.64s -> 3327.00s]  design is carved into the floor the etched grooves are filled with colored sand related to each other
+[3327.08s -> 3333.16s]  yeah okay just keep this in mind we kick red's ass blue we have to run away from just remember
+[3333.16s -> 3347.45s]  that okay we are not afraid of anything red we are only afraid of blue statue of a goddess
+[3347.45s -> 3353.45s]  delicately sculpted from sandstone it casts an alert eye over everyone who enters the temple
+[3353.45s -> 3359.61s]  there's a strange necklace about its neck should ilia take the necklace from the statue yes
+[3360.41s -> 3373.53s]  strange necklace this necklace can be used to heal elia make sure that ilia does not move when
+[3373.53s -> 3381.08s]  the spell is being cast okay there do I have to use it I can heal take a look at what we got for
+[3381.08s -> 3406.50s]  doors here it's kind of dark don't you think we're gonna go left I'm gonna get up emote only mode
+[3406.50s -> 3412.34s]  incoming um why okay this is gonna this is harder than I thought it was gonna be
+[3414.82s -> 3423.72s]  it's actually very easy it's not hard at all let's go left right
+[3428.66s -> 3433.78s]  sentence fortress oh shit I didn't even mean to do that correctly and I'm doing all right
+[3434.34s -> 3450.76s]  I'm located by creatures a sanity loss occurs causing a decrease in the level of a sanity meter
+[3450.76s -> 3455.24s]  and the character to pulse green beware sanity loss affects perception and eventually health
+[3455.96s -> 3462.62s]  aren't these things in Zelda okay what just happened there's your sanity meter this meter
+[3462.62s -> 3467.98s]  represents a character's sanity every time he she meets a monster his sanity or her sanity will get
+[3467.98s -> 3473.72s]  lower the lower the sanity meter the more the character will hallucinate yes okay here we go
+[3474.36s -> 3489.58s]  performing a finishing move on a creature recovers sanity that was fucking crazy give me that sanity
+[3489.58s -> 3503.85s]  back a bronze necklace take it I have two necklaces does one do more than the other
+[3504.57s -> 3518.26s]  is that it not a door the design of the wall appears to depict the time of the day perhaps
+[3518.26s -> 3527.82s]  the candles do too light or extinguish the candles no don't just smash it like a four-year-old
+[3528.38s -> 3539.32s]  okay here we go okay so we need to we have extinguished them all one in the middle it's
+[3539.32s -> 3560.15s]  sun time yeah I got it oh fuck I couldn't pay attention to what door just opened all right you
+[3560.15s -> 3566.07s]  ever have that so I just drank uh I have a soda water over here it's like just a carbonated water
+[3567.14s -> 3570.58s]  and I you know when you drink it sometimes and you do something weird with your throat
+[3570.58s -> 3575.38s]  or you turn a weird way and it somehow hurts it goes into like your sinuses and in your nose
+[3575.38s -> 3581.19s]  and it's like ah you like do it the wrong way somehow and it's just because it goes up to your
+[3581.19s -> 3586.23s]  roof of your mouth and kind of into your yeah I hate that just happened like the worst it's
+[3586.23s -> 3608.52s]  ever been by the way that was horrible on charts finish the sanity meter if you don't know if you
+[3608.52s -> 3611.72s]  never heard of this game you're like what is this game this game stupid look at this shitty game
+[3611.72s -> 3617.32s]  that he's playing well the whole point of this game is uh you have the sanity meter and the
+[3617.32s -> 3623.93s]  game starts to really fuck with you game like deletes your save files like turns off the screen
+[3623.93s -> 3631.24s]  it torrents movies behind your back you know whatever it does it's not good it makes everything
+[3631.24s -> 3646.97s]  really bad it fucks up the whole game stops boiling oh yeah that's sorry never mind this
+[3646.97s -> 3654.38s]  game just sucks never mind hey guys don't worry the game's just bad it's the game just sucks
+[3654.38s -> 3661.70s]  okay there it's just a walk around and swing at enemies and open up doors that's it nothing
+[3661.70s -> 3676.31s]  there's nothing cool in this game engraved on the floor is a striking design featuring the sun rising
+[3676.31s -> 3682.12s]  above the edge of the world I gotta remember that puzzle or I gotta remember that for some
+[3682.44s -> 3688.55s]  another one of these uh appears to depict a time of the day perhaps candle do-do-do
+[3688.55s -> 3713.62s]  yeah they do all right so what's wrong with this one can't blow these candles out why not nice
+[3713.62s -> 3726.44s]  dodging it's the easiest thing ever this one's red red is good right we can kill red easily yeah
+[3726.44s -> 3762.30s]  welcome to pokemon this is how pokemon works right um not really engraved on the floor is
+[3762.30s -> 3766.79s]  a striking design featuring a starry sky filling the heavens I feel like I'm gonna need to remember
+[3766.79s -> 3771.51s]  this shit yeah this is there's nothing here but I can't touch it okay wait I can touch it
+[3771.51s -> 3794.86s]  so it's all empty yeah that's it done both the doors came down when I came in yeah so the door
+[3794.86s -> 3805.02s]  from that other area which god helped me if I can remember where that was that's the blood-borne
+[3805.02s -> 3811.18s]  noise I don't know what do you mean which one small pedestal covered with decorative etching
+[3811.18s -> 3816.14s]  stands before the wall the blowgun upon it must have some special significance for it to be the
+[3816.14s -> 3845.75s]  focal point of this display I'll take it roll the credits oh my saber a shitty sword
+[3848.89s -> 3861.80s]  yeah that sword was made that sword was made out of like rock candy not even glass fragments of a
+[3861.80s -> 3873.90s]  shattered short sword lie up on the floor oh pick it up you can all right I gotta shoot this guy
+[3873.90s -> 3878.17s]  with a blow gun in the head oh these wait these are my friends these are green guys I shouldn't
+[3878.17s -> 3892.33s]  be attacking green guys right yeah I'm like my sanity's messing up late for that oh well
+[3893.05s -> 3899.91s]  right so what are you what are you who are you the guard is grateful for Elias saving his life
+[3899.91s -> 3903.59s]  in return the officer repair Elias broken weapon as a gesture of thanks thank you
+[3905.94s -> 3912.04s]  thanks that was very very that was way shorter than I thought it was going to be
+[3937.62s -> 3941.38s]  I didn't know it was gonna happen instantly like that I don't need that guy for anything right
+[3944.70s -> 3956.55s]  I'm gonna it's red and stiffy happy happy joy joy happy happy joy joy happy happy joy joy
+[3956.55s -> 3958.71s]  happy happy joy wait what's wrong with me
+[3963.66s -> 3977.00s]  monster wait I haven't saved the game in probably a full hour I have to win as the slime guy
+[3977.80s -> 3992.57s]  where do I go stupid no I don't want to beat this guy anymore is there anything I could do
+[3995.53s -> 4001.05s]  oh let me regain my sanity let me watch like Fred Rogers give a speech so I can at least
+[4001.05s -> 4021.75s]  gain my fucking sanity back okay this mural depicts a skeletal demon befriending the ancient
+[4021.75s -> 4036.92s]  smear people by denouncing one of their fertility gods and I'm not even kidding anytime I tell you
+[4036.92s -> 4044.70s]  anytime you feel like shit anytime you don't feel fucked up watch Mr Rogers talk about anything
+[4046.20s -> 4070.90s]  you will feel fucking great afterwards I gotta save the game I'm I'm too insane to save the game
+[4078.87s -> 4084.55s]  what did I have to kill that guy why what was the point of that it didn't do anything I just
+[4084.55s -> 4087.75s]  I didn't know I thought it was I'm gonna get some sanity back right here come on
+[4089.64s -> 4102.58s]  okay give me the sword the sword's better I want the sword all right what the hell am I doing in
+[4102.58s -> 4108.44s]  here there's a holding device as though something can be inserted perhaps a key or lever
+[4110.14s -> 4114.73s]  I need a key or what do I have what the hell is strange necklace 10 oh yeah heal
+[4117.22s -> 4124.81s]  my insanity is too low all right I can't believe I didn't fucking save the game either that sucks
+[4124.81s -> 4144.30s]  all right I need to get a lever or I gotta get a lever save now you killed the enemy yeah Jesus
+[4144.30s -> 4159.86s]  God so that shit's already happening this hallway longer what this this room is different
+[4160.82s -> 4174.73s]  okay I can kill these guys I'm gonna finish off like two or three of them
+[4175.45s -> 4197.21s]  finish no don't look at me stop looking at me please you fucking can't be serious dude
+[4202.62s -> 4210.38s]  because I had to shoot that guy all because I had to shoot the guy and it ruined everything
+[4211.26s -> 4239.91s]  I'm here so I can finish you thank you my god okay I'm back to normal sort of now what opened
+[4245.00s -> 4261.85s]  this is all right this is different save game now back yes that was whoa whoa whoa whoa whoa
+[4262.41s -> 4276.01s]  that would have been 45 minutes of lost time doing nothing what is this I got a link what's
+[4276.01s -> 4290.58s]  this one filming eternal purple from a stream from a stream fortnight I know I don't want to
+[4290.58s -> 4298.66s]  do that I'm not going to stream fortnight this is your way to you know make like a make like
+[4298.66s -> 4306.01s]  a funny image and I'll look at that and somehow I'll be like okay yeah I'm gonna do that
+[4306.57s -> 4316.09s]  play fortnight no I'm not gonna play why would I do that I don't I don't want to play fortnight
+[4316.73s -> 4326.84s]  this is pretty good though wrong the link there's no such thing as a wrong link in this stream
+[4329.11s -> 4341.50s]  what would constitute a right link all right what was this even a reference to no shit
+[4342.14s -> 4359.53s]  there's me in the mirrors all right cool good we got it awesome all right let's go
+[4360.25s -> 4375.18s]  let's go talk to the god when this thing supposed to be dead
+[4377.40s -> 4390.14s]  but this is even way further back you are reduced to feeding on flesh and bone
+[4390.14s -> 4403.75s]  mighty have fallen you will surely fester for millennia to come a slow and torturous fate
+[4404.47s -> 4411.03s]  for thee you had best leave young fool or you will find yourself as food for the dead god
+[4411.99s -> 4425.29s]  dead god start communicating with me no I didn't
+[4428.50s -> 4432.74s]  I really want to go stand next to this thing and do the like the moon presence thing from
+[4432.74s -> 4442.07s]  bloodborne what's it called contact
+[4455.96s -> 4463.19s]  the essence of what's god the sun that is a source is small from those people you must
+[4463.19s -> 4468.95s]  get it unless they use it to destroy the little brightness your world has left in it
+[4469.59s -> 4480.86s]  it's like if the heart in your body was as big as a sunflower seed it's not even a heart it's
+[4481.90s -> 4494.23s]  look at how big this guy is he's this guy is as big as three or four houses that was his heart
+[4494.23s -> 4502.65s]  all right I have I have the eternal darkness
+[4503.21s -> 4507.96s]  metal staff is held by the arms of the statue I have acquired the staff
+[4510.71s -> 4526.31s]  there's your lever you know he looks like a cabbage I've not really seen it but
+[4529.00s -> 4536.20s]  I don't fight him don't fight him don't fight him don't fight him oh my goodness
+[4536.20s -> 4538.04s]  fucking gracious why did I just do that
+[4538.04s -> 4557.88s]  okay fucking who cares finish this guy I just peeled my nose off but my whole front part of
+[4557.88s -> 4583.61s]  my face just came off okay I'm not getting sanity for that oh hurry up I'm going
+[4586.52s -> 4602.68s]  shit I'm insane I don't know what to do put the thing in quick what did that do it what if all
+[4602.68s -> 4626.97s]  of them like he just got slimed that's it behind him wrong way wrong way what didn't I go from the
+[4626.97s -> 4660.86s]  other room wrong way that's the only way okay I'm good wait it should it was the wrong way
+[4662.07s -> 4706.98s]  what won't crush me wait am I getting Luigi'd did I get the bad ending already what did that
+[4706.98s -> 4731.88s]  even do drum of the voices drum of the voices he was just saying chill out dude
+[4743.56s -> 4748.30s]  all right we gotta keep going this way dude he was just saying chill out man
+[4756.12s -> 4780.98s]  sponge bob voice you mean the guy doing happy happy happy look around okay examine who what's
+[4780.98s -> 4794.46s]  this natural human female bears witness to the monstrosity that fills the room somebody puking
+[4795.10s -> 4814.70s]  pick up fool you should have run instead you will die where is the essence of manta rock
+[4816.30s -> 4837.91s]  do I use it to zap him where is it I will not ask again child very well then you will set
+[4837.91s -> 4865.10s]  count of the horrors of oblivion after complete that's kind of a weird transition
+[4869.50s -> 4878.09s]  candles are here now all right let's see the candles small shrine of candles their placement
+[4878.09s -> 4882.89s]  appears to be very deliberate corresponding to the etchings on the table and an illustration
+[4882.89s -> 4891.88s]  upon the wall etching on the table illustration on the wall I already know what it is ready I
+[4891.88s -> 4905.32s]  already got it I remember things the cigar with the correct sequence of candles being lit a hidden
+[4905.32s -> 4913.40s]  panel opens there is a message tube found the message tube what does the message say
+[4914.12s -> 4918.95s]  antique leather bound message tube the kind used to transport sealed message scrolls
+[4918.95s -> 4941.54s]  it's unopened all right chapter entitled suspicious of conspiracy your presence is welcome
+[4941.54s -> 4960.22s]  majesty as always I am honored my concern is with the other ancients
+[4961.02s -> 4964.86s]  it's a girl in harry potter should they unite with manta rock like the ghost girl
+[4966.94s -> 4968.46s]  he floats around she's talked to harry
+[4973.16s -> 4998.30s]  myrtle was unaware there is nothing like that it kind of is that's pretty close that's really
+[5001.42s -> 5005.75s]  the only thing we're missing is like the then what shall remain the frank
+[5006.47s -> 5012.07s]  what do you intend for him the frank is an instrument of light he seeks to unite europe
+[5012.07s -> 5020.55s]  under his banner when this in place my guardians will be hard pressed to perform the functions you
+[5020.55s -> 5030.90s]  require for your own schemes pious think of your future then charlemagne will be removed from the
+[5030.90s -> 5041.61s]  picture explain like i'm oh no that's eu moment but he was doing explain like i'm five
+[5043.93s -> 5055.66s]  of course he is as good as death okay after the chapter page is removed the message tube
+[5055.66s -> 5065.85s]  is no longer needed alex discards it so we're good to hear about our god okay cool so now we're
+[5065.85s -> 5077.75s]  gonna find another chapter page which do i have wait isn't this the save the game yeah
+[5078.79s -> 5104.25s]  remember to save yep yep yep okay so i already did this one right did i not do this one oh you
+[5104.25s -> 5112.10s]  discard it from my research it is apparent that the endeavors of mankind are mere puppetry at the
+[5112.10s -> 5121.69s]  hands of the ancients whenever a king vows reform the ancients move quickly to stifle it sorry for
+[5121.69s -> 5127.21s]  that uh apologies that image i made with the fix it was incorrect the new holy roman empire
+[5127.21s -> 5130.65s]  it's fine it's all right the height of its power i'm just kidding around don't worry man
+[5143.96s -> 5147.48s]  will you stop reading this to our lord and emperor charlemagne the frank
+[5147.48s -> 5150.44s]  no one but him must see it yeah i fixed it already i did
+[5152.50s -> 5174.44s]  yeah i know i got it we would have already seen it don't read that okay quick quick poll would you
+[5174.44s -> 5179.72s]  open that ever again what sorcery is this would you open that ever again i have bewitched
+[5182.04s -> 5186.44s]  okay and what do you do after that will become you tell anybody i have to warn him of this treachery
+[5188.36s -> 5193.59s]  i'm not even sure i would tell my mother that happened what do you even do with that thing
+[5197.08s -> 5202.92s]  destroy it you can't destroy it it's definitely too powerful to destroy burning it would just
+[5202.92s -> 5211.46s]  make whatever god angry that you burnt it holy shit i almost punched this person after anthony
+[5211.46s -> 5217.06s]  briefly describes his mission the monk informs him that charlemagne was last seen in audience
+[5217.06s -> 5225.58s]  with the bishop in the visiting chamber is this why everyone was spamming for me to save the game
+[5225.58s -> 5234.54s]  because i was gonna punch somebody in the face and ruin everything that's why i get it okay
+[5235.91s -> 5243.58s]  thank you for the help i appreciate it i even have a punch funeral casket made from unfinished
+[5243.58s -> 5248.79s]  wood it is not properly sealed should anthony open it yeah all right put the
+[5254.12s -> 5262.63s]  close it close it close it you have closed this poor man has been the victim of great evil
+[5263.74s -> 5270.62s]  look how his body has been defiled as if something has burst out from inside him here
+[5271.26s -> 5277.91s]  take this for your protection and find the bishop yeah take this be informed of the same sword that
+[5277.91s -> 5285.13s]  every single one of us and all of our ancestors ever through history that's like the historic
+[5285.13s -> 5293.18s]  blade that's just passed down for 10 000 years right yeah the scrab mass six that sounds like
+[5293.18s -> 5301.16s]  me trying to say a word and that's me saying it incorrectly like that's me trying to say sacramento
+[5301.16s -> 5310.26s]  california that's like what i say in here in my head uh yeah i saw scratch the mass six california
+[5310.26s -> 5328.06s]  i have been i've been there before it was cool oh no his brain we must warn the others
+[5330.76s -> 5343.18s]  but i equipped that shit what else can i do in here i do have a map i'm just realizing this now
+[5346.39s -> 5352.66s]  save charlemagne oh i think he's been dead for like seven or eight days how am i supposed to
+[5352.66s -> 5361.02s]  save that guy awful voices emanate from inside the bishop's visiting chamber however the door
+[5361.02s -> 5370.86s]  is locked and anthony will need the bishop's key to enter all right oh find this key the bishop's
+[5370.86s -> 5397.67s]  key he's on the toilet no he's that's like his audience chamber now what silent hill ilia
+[5398.31s -> 5418.20s]  pious oh yeah i destroyed his statue right on what appears to be a leathery hand lies a mysterious
+[5418.20s -> 5427.62s]  book it's bound in human skin beckons to you should anthony claim the tomb of eternal darkness
+[5433.26s -> 5453.11s]  you got it okay i got the book that was up there apparently who wrote it yeah
+[5454.44s -> 5466.36s]  who wrote that that's a weird thing to think about who wrote the tome of eternal darkness
+[5466.36s -> 5476.89s]  whoever wrote it was it was being dictated by somebody else or did like satan write the book
+[5476.89s -> 5483.30s]  who actually wrote that book why would you write that book it had to have been like dictated by
+[5483.30s -> 5498.34s]  some god i guess yeah i did it i wrote it for fun this up i know that it's red blue green red
+[5498.34s -> 5508.36s]  blue green red blue green circle of power circles of power describe the amount of power that a spell
+[5508.36s -> 5513.59s]  will have the more points within that circle the stronger the spell will be spells are magical
+[5513.59s -> 5519.70s]  incantations that enhance a character's natural abilities okay here's the spell list it's an
+[5519.70s -> 5528.63s]  inventory of all the spell information okay we're signed a quick spell collecting this will allow
+[5528.63s -> 5535.56s]  the player to experiment with ruin combinations and discover new spells okay that's the inventory
+[5535.56s -> 5540.68s]  of all the components of the magical spells and this is the quick spell all right let's see what
+[5540.68s -> 5546.68s]  do we have a quick spell nothing whatever spells nothing new spell don't have enough
+[5546.68s -> 5555.90s]  components to make a new spell what have i got again there ruins circle of power okay like what
+[5555.90s -> 5567.08s]  am i supposed to do with that oh what's this uh there's one that can be moved always check the
+[5567.08s -> 5592.09s]  bookcases always one spell andy sure uh-oh what's that does that mean what is it is he holding
+[5592.09s -> 5611.19s]  something is it did he eat that or what is this supposed to be his arm off i can't i'm stuck in
+[5611.19s -> 5625.19s]  this room good all right hold on i'm gonna stop breathing a second let's give it go right rest
+[5625.19s -> 5642.14s]  yeah see all right we're good magical ruin all right so yeah you i remember this yeah you go
+[5643.10s -> 5648.94s]  like ru ru parka parka ru parka and it does something i remember this yeah okay the key
+[5648.94s -> 5665.69s]  elements creating spells you use them in different ways okay new spell don't have enough weird how
+[5665.69s -> 5670.73s]  your brain just remembers those things i haven't played this game for 20 years since it came out
+[5671.85s -> 5688.49s]  i don't know why but i know that i know that ruin the way that they say it boomer alert
+[5691.19s -> 5701.00s]  what's wrong with me i didn't drink some water i look like me when i did the last green screen
+[5701.88s -> 5734.62s]  this guy's fucking dehydrated you good what the is this the guy that used a wheelchair in middle
+[5734.62s -> 5743.59s]  school yeah weirdly we're just that's a weird thing to hold on to that's a straight i'm just
+[5743.59s -> 5751.74s]  gonna tell you that's a weird thing for you to know and hold on to for this long grateful for
+[5751.74s -> 5757.58s]  his life the monk tells anthony what happened he was carrying a sacred urn from the baptismal
+[5757.58s -> 5763.02s]  font but he was confronted by the bishop who was brandishing a large blade in whose eyes burned
+[5763.02s -> 5770.01s]  with an evil fire the monk dropped the urn out of shock and ran returning to retrieve the urn he
+[5770.01s -> 5775.67s]  found only the sword the bishop had left behind thanks he gives the bishop's sword to anthony
+[5782.46s -> 5799.91s]  he's me nice i'm a bit i love two-handers no i'm not gonna kill this guy i know you all want to
+[5799.91s -> 5805.00s]  see it but you know i'm not gonna do it everybody thinks i'm just gonna fall back and baseball
+[5805.00s -> 5822.76s]  swing that guy's head off no i made that mistake already please rotate there is darkness difficult
+[5822.76s -> 5834.28s]  to make out anything well i could probably help that picked up the piece of broken green urn
+[5835.59s -> 5846.90s]  there they are piece of broken green urn mix them together two-thirds of a broken green urn okay i
+[5846.90s -> 5857.99s]  need the rest of the pieces of it rip urn yep nothing to do with these uh boxes right nope
+[5858.63s -> 5868.63s]  the whole thing together broken green urn is it like a glue what else can i do with it
+[5868.63s -> 5891.96s]  another rune agmor arpstone tablet okay i got the magical codex codex runes cannot be misunderstood
+[5891.96s -> 5895.80s]  roots cannot be understood without a codex without a codex runes in your possession will
+[5895.80s -> 5912.95s]  remain a mystery uh right okay all right we need to collect those okay well he instantly died
+[5914.42s -> 5923.24s]  cool thanks for the magical rune there it is all right so this is item no new spells i need
+[5923.24s -> 5938.47s]  i think three right jeremy it's the power of fire why am i what's this why is this happening to me
+[5945.11s -> 5958.39s]  all right damn this thing's awesome okay this is uh let's say you're in ruins
+[5959.03s -> 5963.43s]  oh
+[5964.31s -> 5978.15s]  i still alive red urn pick it up all right eyes of the fixed degree one
+[5979.03s -> 5988.52s]  is there a quick weapon switch probably not this game is in from 2002
+[5989.32s -> 6001.53s]  disturbing rendition of a monstrous devil can i drink urn urn urn urn urn
+[6004.86s -> 6010.04s]  this an age tapestry hangs on the wall of the soils from the dank atmosphere and the
+[6010.04s -> 6031.32s]  corruption about it after i burn that right yep i really do feel like i'm playing resident evil
+[6031.32s -> 6038.63s]  having to go into the menu and switch weapons damn that was two hits that guy got wait finish
+[6038.63s -> 6046.06s]  him he's a pair of legs he's like the number bunchers monster really do i have to finish him
+[6047.26s -> 6068.39s]  everybody said the oh is annoying i'm leaving i don't know what that means okay an iron plate
+[6068.39s -> 6074.23s]  in the floor is carved with three curious circles bright splashes have marred its
+[6074.23s -> 6084.65s]  pockmarked and worn surface three curious circles that's where the urns go okay what is this one
+[6084.65s -> 6105.96s]  i have a go this one antorbach project i want you to find julio amongst the books on the table
+[6105.96s -> 6111.42s]  is an ancient scroll of what appears to be paper enchant item spell scroll
+[6111.98s -> 6121.91s]  ha through this function the player can examine the content of each spell scroll that has been
+[6121.91s -> 6130.82s]  acquired okay oh wow uh the note reads that which is broken shall be fixed that which is dull will
+[6130.82s -> 6138.87s]  be sharp that is another the the nature of the enchant item magic the spell requires the
+[6138.87s -> 6146.23s]  antorbach and magormor ruins i haven't bought all right let's make the spell new spell what are you
+[6146.31s -> 6175.16s]  talking about okay antorbach and magormor i don't have it i got it the hell is this open the bishop
+[6175.16s -> 6188.39s]  passed through the secret door there has to be a way to get through it shit how do i get through
+[6188.39s -> 6199.58s]  it do i have anything or or the urns urns urns but i don't have hold on although the urns it
+[6199.58s -> 6203.66s]  appears to sit correctly in place on the pressure plate it does not appear to be heavy enough to
+[6203.66s -> 6218.25s]  depress it yeah i gotta fix the urn i don't oh oh god damn it okay hold on
+[6218.25s -> 6228.46s]  while fumbling around the urn slips from anthony's stiff fingers dashing itself
+[6228.46s -> 6239.26s]  into fragments on the floor oh wait there's a rune in there oh all right i found it
+[6242.47s -> 6251.18s]  ulioth antorbach magormor you've just discovered the enchant item spell nice this allows players
+[6251.18s -> 6262.44s]  to cast spells that have been found or researched and you can assign this cool this will enable the
+[6262.44s -> 6270.54s]  casting spells without having to choose the book yes thank god like the alignment spells can be
+[6270.54s -> 6277.02s]  cast directly from this book or from the quick spell you have to press up yeah okay there it is
+[6278.89s -> 6283.85s]  magic meter this meter represents the character's magical energy the level will get lower this
+[6283.85s -> 6293.00s]  meter regenerates whenever the character is in motion all right let's go so check this go cast
+[6293.00s -> 6334.01s]  that spell nice voice oh three is that not enough to depress it what are you talking about it in the
+[6334.01s -> 6359.14s]  wrong spot oh because it has water in it okay shit wow your character looks dead yeah i know
+[6359.14s -> 6373.14s]  oh i love that sound sound of just like pee filling a jar like water pouring into a glass
+[6383.90s -> 6395.91s]  asmr asmr piss video um that would be kind of weird because that would take you a long time
+[6395.91s -> 6403.72s]  to film that video it would take like three or four weeks to get a three or four or five minute
+[6403.72s -> 6415.61s]  video get 10 minutes of pee content asmr that's like four or five days of drinking food and water
+[6415.61s -> 6455.94s]  but take one day no it would not 10 full minutes of peeing oh shit boss bike cut his head off all
+[6455.94s -> 6484.58s]  right i got the key shit dude i even kill i like i killed this guy's clothes detail all right shrine
+[6484.58s -> 6491.05s]  to a god that speaks of an ancient evil all right now i got the uh i got the key back to the front
+[6491.05s -> 6528.76s]  door save the game i can't okay just don't lose don't lose and you'll win yeah exactly characters
+[6528.76s -> 6559.56s]  just yeah i don't know no no i want to kill this guy finish to the bishop's door they do a lot i
+[6559.56s -> 6587.38s]  don't i don't care little scorpions great i don't remember this shit trapper dimension sprawls in
+[6587.38s -> 6592.42s]  every direction while in this place magic cannot be cast and the humans are subjected to odd
+[6592.42s -> 6597.70s]  phenomena the portals cycle from color to color as time progresses and you own and only the quick
+[6597.70s -> 6623.13s]  will escape okay i need purple oh i guess i'm good oh that's to refill your sanity did i die
+[6623.93s -> 6653.24s]  i don't think i did oh i'm back all right well i refilled this entity let me save it
+[6653.24s -> 6665.11s]  this is a little side thing rappers have no eyes but can sense sound very well if anthony can sneak
+[6665.11s -> 6687.48s]  past them they won't be troubled oh just be quiet i have no idea where they are i can't believe
+[6687.48s -> 6695.16s]  germa stole this game right next to me in fact i think the we is still i think turned on
+[6696.12s -> 6715.34s]  oh it's off i got it it's off it's off wasting power it's no i just looked over it's a it's a
+[6715.34s -> 6721.29s]  red light it means it's not on oh by the way i want to make sure everyone knows this tomorrow
+[6721.29s -> 6736.63s]  is dlc movie night that's tomorrow doing it somewhere around noon 11 to 12 the idea
+[6736.63s -> 6740.55s]  there is a ton of videos i don't know how much we're gonna get through but we're gonna see how
+[6740.55s -> 6754.71s]  much we can get through in like five to six hours all right i got the key this is not community
+[6754.71s -> 6768.26s]  content night this is only the dlc movie night i really don't look good this is it looked like
+[6768.26s -> 6796.34s]  shit 12 hours or riot i can't sit here for 12 hours boss fight uh-huh all right i'm working slow
+[6797.06s -> 6815.62s]  i'm just over encumbered cut his other arm off cut the other arm off cut his other arm off
+[6822.36s -> 6837.99s]  good looks like you're using voice commands it would have been bad if he got up okay
+[6838.79s -> 6871.94s]  it was sexy pose jesus this guy's still standing you know what i'm so pissed that germa didn't get
+[6871.94s -> 6878.97s]  the sexy pose from that game i don't i don't think you are that mad about it i think you just
+[6878.97s -> 6883.21s]  remembered because we just started talking about it and like two years have gone by and you
+[6883.21s -> 6912.92s]  remember two years ago when you were annoyed you're not still mad about that oh we're trying
+[6912.92s -> 6922.68s]  to save him anthony his fate was this game's metal as is the fate of this world yeah i guess it is
+[6922.68s -> 6939.26s]  your faith there is little to save you from the power of yeah the book got too scary
+[6939.98s -> 6955.98s]  i'm done reading today i don't like this part i'm gonna stop what else is in this room that i can
+[6955.98s -> 6979.91s]  fuck around with go back down right save the game wait i can fix broken stuff now right every time
+[6979.91s -> 6990.18s]  we read in the book we learn something in the real world you got stick bugged shut up stop do not
+[6990.18s -> 7002.23s]  unbelievable unbelievable i refuse to laugh at that but it was funny and it's annoying me how
+[7002.23s -> 7027.64s]  funny it was somebody just donate like ten dollars and do that or what leave no i want to leave
+[7029.48s -> 7054.17s]  oh you're not coming in at the door no that's stick bugged oh my fucking god i'm so mad at that
+[7054.17s -> 7076.18s]  come back another day fucking instant messenger why is it i don't even it's so i whatever benjamin
+[7076.18s -> 7100.04s]  franklin too dark in here to do anything perhaps the circuit has been broken better room chapter
+[7100.04s -> 7110.97s]  page has been hastily stashed behind the frame oh the gift of forever sick sick cigarettes ammo
+[7112.49s -> 7130.26s]  let's read it chapter four dreams modern psychology offers only unproven theories
+[7131.30s -> 7136.34s]  some see them as the meaningless tossing and turning of a brain settling into a restful sleep
+[7137.78s -> 7141.38s]  others see them as laden with symbols of our unconscious desires
+[7142.81s -> 7148.57s]  to still others dreams represent the upwelling of the archetypes normally hidden deep within
+[7148.57s -> 7156.65s]  the recesses of the human collective unconscious of one thing i am certain after a brush with the
+[7156.65s -> 7164.78s]  ancients our dreams metamorphosize i played it i already did it man all right this is 565 ad in
+[7164.78s -> 7190.47s]  persia saw actually i have saw two here lord you for years advances i do is right there yeah
+[7191.03s -> 7198.82s]  and think of nothing else i fear i desire you many hundred times more than you love me
+[7199.91s -> 7209.02s]  my life has become a waking dream kareem for weeks i have dreamed of an ancient treasure
+[7209.02s -> 7218.04s]  so precious that it changes all life around it it must be mine kareem if you truly desire me
+[7218.04s -> 7226.73s]  as you say then you will find this for me bring this treasure to me oh relax i will be yours
+[7228.17s -> 7237.42s]  both of our dreams will come true i need nothing more than you you have enthralled me to the point
+[7238.06s -> 7248.10s]  i can think of nothing else promise if i leave will not forget about me you need not worry i
+[7248.10s -> 7256.20s]  desire nothing more than the treasure that you seek leave now kareem and i shall await you
+[7264.38s -> 7286.92s]  time for us to do some puzzles fell for it the end no it's not the end it's only the beginning
+[7293.00s -> 7302.90s]  axe oh man's corpse lies fallen wounds cover the exposed flesh of his body where his armor has
+[7302.90s -> 7323.05s]  failed he's gonna get up oh here are all the statues it's a new one anthony ours is gonna be
+[7323.05s -> 7340.12s]  right here very very soon claim the tomb of eternal darkness that's part about games back
+[7340.12s -> 7348.04s]  in like 2000 1999 2002 whatever is this is a mario no you know it's just like oh
+[7348.92s -> 7361.21s]  really mario no doesn't do anything you just actually like step away funny if it did something
+[7361.21s -> 7385.26s]  else tome of eternal darkness home the tomb why can i not move already insane how am i actually
+[7385.26s -> 7401.27s]  trapped in the corner kill kill no don't climb down climb up i want to get my sanity back
+[7412.90s -> 7416.66s]  tome is one of my fanfics don't read it please i lost a bet with a friend
+[7418.26s -> 7435.26s]  okay watch out for green i lost a bet with a bet of what that you had to write
+[7436.66s -> 7443.66s]  a story i don't know what that means all right a statuette vaguely resembling a man stands atop a
+[7443.66s -> 7457.54s]  low pedestal pick it up read that guy's fan face uh so i'm telling you guys something interesting
+[7457.54s -> 7467.75s]  here i'm telling you i've decided that i'm going to keep track of second i wake up the dream that
+[7467.75s -> 7476.84s]  i had the night before and then we are going to put on kind of weird scary music two or three
+[7476.84s -> 7481.00s]  months from now and we're going to do i'm going to read you all the dreams i've had over the last two
+[7481.00s -> 7489.27s]  three months i want to keep i want to keep a dream journal and talk and tell you about all of them
+[7489.27s -> 7508.71s]  like four hours then he does that because benny's fucking benny's a hilarious dude that like it
+[7508.71s -> 7529.70s]  knows how to do comedy so yeah i got a new rune though what is it i don't know what it is all right
+[7529.70s -> 7546.55s]  i need h okay wait anything else in this room or better yet like just commission out animators to
+[7546.55s -> 7551.59s]  animate them all just give them exact details of what happens and i don't even tell the story we
+[7551.59s -> 7570.82s]  just watched them it'll be like two hours and you guys can try to break down what the hell was
+[7570.82s -> 7583.05s]  wrong with my brain that night oh lord starting to go a little bit crazy oh p already give me a
+[7583.05s -> 7601.78s]  second how do you know that i have to go pee all right statuette codex what's this one for
+[7602.66s -> 7613.86s]  this is the codex for zealoteth okay so i have to i got two statues now what do i do with them
+[7616.73s -> 7629.05s]  i put the other one on it oh let me switch it up can't use that shit go piss now no i'm
+[7629.05s -> 7659.40s]  just i'm just wait the door you have to pay animation wages for weeks that's fine go to
+[7659.40s -> 7671.45s]  the bathroom no i don't have to go to the bathroom right now all right what do i do with these
+[7671.45s -> 7685.61s]  statues is there a place i could put them here no you're shitting yourself you're shitting yourself
+[7686.49s -> 7693.59s]  i am not shitting myself i am not it's not happening yours i told you i have to pee i
+[7693.59s -> 7704.58s]  don't know where you guys are getting shit from you're shitting yourself you're shitting yourself
+[7704.58s -> 7710.70s]  you're shitting yourself all right all right all right all right all right what do i do these
+[7710.70s -> 7730.33s]  statues you promised you would shit your pants on stream like five months ago i don't i did not
+[7730.33s -> 7742.92s]  do that i did not promise that why would i promise something like that that's the stupidest thing to
+[7743.40s -> 7747.08s]  all right what do i do i'm stuck how can i be stuck these puzzles are not hard
+[7748.31s -> 7765.34s]  or statuette use i can't put the the this one here what is this not what i'm not watching videos
+[7765.34s -> 7807.77s]  right now that's what was happening which started like a little kid you guys are like
+[7807.77s -> 7821.64s]  go to the bathroom now and i'm like no oh my god okay all right what do i do with these statues
+[7821.64s -> 7829.45s]  seriously crudely scruffy statue if it seems perfectly heavy for its size but where do i
+[7829.45s -> 7865.24s]  press them oh save and go to the bathroom save and go to the bathroom oh watch out i don't want
+[7865.24s -> 7880.82s]  to go to that red one that one's already occupied by bowser ow mario party yeah i don't want to
+[7880.82s -> 7894.92s]  look i want to land on the red one because then we'll be on the same team remember if
+[7894.92s -> 7921.14s]  you read this it's time to change means what just got my sanity back so holy shit hey thanks man
+[7921.70s -> 7943.69s]  watch out run you're on this guy's team just wasted so much health for no reason i could
+[7943.69s -> 7963.22s]  just walked out there's no experience points i'm fucking leaving okay so what did that do for me
+[7968.66s -> 7971.94s]  this thing went up well what does that what does that do for me for this do i does that do anything
+[7971.94s -> 7990.55s]  for me didn't do anything elevator i'm gonna get transported to this that weird spirit world again
+[7991.27s -> 8024.62s]  fuck just run run run that can i kill these things go blue what is like a weird like red
+[8024.62s -> 8052.68s]  light green light thing damn it i want health red heals blue mana green sanity yeah
+[8054.36s -> 8063.78s]  i use the health one i still get it red has the health right right right right right
+[8064.42s -> 8074.41s]  oh i want to get hit by one of these guys again all right come get me now let me go to red
+[8078.74s -> 8094.58s]  red's occupied by this guy all right turn red i can tele-frag this guy right oh my god he's
+[8094.58s -> 8120.73s]  running a fucking breath how much okay seriously how much breath do you need step on a fucking red
+[8120.73s -> 8144.58s]  red you actually can't tele-frag him i thought that was not real swinging into the ground
+[8145.14s -> 8173.21s]  please kill okay full health i'm gonna save the game now what do i do about this
+[8174.97s -> 8184.87s]  all right all those things are gone examine oh so i had to get rid of all those red things
+[8184.87s -> 8193.85s]  go to the bathroom go to the bathroom i will go to the bathroom when i get a chance not right now
+[8197.30s -> 8211.32s]  all right dead dead old blood has it got a sword in his back there's a tolwar sword
+[8212.04s -> 8218.60s]  the wounds are deep and furious take the tolwar i can now wield two tolwars simultaneously
+[8220.26s -> 8235.91s]  well that's pretty cool this is gonna sound weird and maybe some of you will get what i'm
+[8235.91s -> 8243.03s]  trying to say here why does it feel like a 2013 to 2016 german 985 thumbnail that was weird right
+[8243.91s -> 8284.95s]  get off kill him how am i already this insane dude i can smell you all right you're in trouble
+[8293.38s -> 8310.71s]  whoa am i not hurting him all right i got my sanity back i'm fine all right large blade
+[8325.21s -> 8347.21s]  get off me i missed an item i'll go back i don't have invincibility for at least a second after
+[8347.21s -> 8354.86s]  that come on we're gonna get softlocked i'm not gonna get softlocked i'm gonna go get it
+[8359.93s -> 8378.18s]  hey look what's that the recover spell cover spell requires the sand tack and
+[8378.18s -> 8402.63s]  narrow calf runes do i have those runes no no no no no put my sword in here it's my favorite
+[8402.63s -> 8449.08s]  toothpaste flavor just cool refreshing mint come on dude you're rito it's frozen me your way cut
+[8449.08s -> 8461.53s]  his arm off dude do i have a heal wait it was just playing the beginning cut scene okay what
+[8461.93s -> 8476.74s]  did he kill me no i'm okay i'm all right i'm all right wait wait wait wait wait
+[8476.74s -> 8510.23s]  why can he fit down here i did i do it again get the fucking book hey
+[8511.96s -> 8519.98s]  wait what's that noise what's the birds no i want to go there i want to go there i want to go there
+[8524.66s -> 8552.92s]  i want the sanity yes green turn turn turn turn ah there we are back to normal this game sucks
+[8552.92s -> 8569.69s]  play potty racers um somebody's true true i don't true what all right i'm gonna kill this guy
+[8573.24s -> 8578.39s]  wait till he does this big charge move there it is i go for the right arm first
+[8579.19s -> 8601.03s]  fuck i got greedy trying to target the arm target the arm oh my god target his fucking arm
+[8610.28s -> 8640.01s]  sick parry am i doing i'm doing all right how are you doing did i get a heal um i got this
+[8640.01s -> 8656.82s]  these two don't have them yet all right let's go am i doing on health what's the spell for you to
+[8656.82s -> 8664.68s]  go to the bathroom that's a great question it's called when i get to the end of this chapter
+[8665.40s -> 8684.52s]  and you order the pizza for me tomorrow night i i i cannot order a pizza for you that's the one
+[8684.52s -> 8698.44s]  i just got all right i got recover that's recover let's put that quick spell go with uh
+[8698.52s -> 8712.71s]  uh yeah new spell power level three spell list recover assign it only blue i can't can i not do
+[8713.59s -> 8716.47s]  green what does it do
+[8720.46s -> 8740.30s]  what i just recover to the end of the chapter i'm fine it recovers mana oh
+[8740.30s -> 8753.42s]  oh that's kill there's the long sword of ramdow take it yeah i don't like these two swords they
+[8753.42s -> 8773.05s]  suck see let's check it out yep a two-hander quick burger boy technique and get out of here
+[8773.05s -> 8791.94s]  all right stay down stay down stay down good good good good good
+[8800.28s -> 8804.44s]  dude what the fuck we can see the green stink lines coming through the screen
+[8805.16s -> 8812.54s]  so well i'm sorry about that
+[8824.62s -> 8867.83s]  that's so stupid almost dead rhymes with art art art all right can i leave bathroom stop i'm not
+[8867.83s -> 8890.02s]  going to the bathroom until i'm ready everyone jesus how did i miss shit he turned him one of
+[8890.02s -> 8897.67s]  those bird people come on come on really really are you serious really now that's what happened
+[8898.47s -> 8909.51s]  i'm gonna die no get away from me please
+[8912.81s -> 8929.14s]  ah kill kill kill kill what get away from me okay cut scene i win
+[8929.78s -> 8973.42s]  all right when was the last time i saved the game that's not good how far away was this
+[8973.42s -> 8984.57s]  ten minutes ago all right i'll fucking speed run this all right all right right right i'm
+[8984.57s -> 9144.49s]  gonna go to the bathroom we're back how you doing broke his turkey dick again
+[9144.49s -> 9160.97s]  again something like that but not really i forgot about that already
+[9161.85s -> 9183.99s]  oh what's going on around my game what happened i lost communication with the controller oh i'm
+[9183.99s -> 9198.30s]  good that was weird so where where the hell did i end up here i don't remember how far away was
+[9198.30s -> 9206.17s]  this this seems like a long time ago what was the last thing i just did no it's not that far it's
+[9206.17s -> 9234.57s]  all right i'll go quick yeah set that heal recover spell okay sign it there it is
+[9235.77s -> 9256.31s]  save save save save save i'm gonna do this whole room again that sucks release this right here
+[9256.95s -> 9290.42s]  it's so loud all right hold on i'll get it i'll get it i missed the rumor oh don't wait for
+[9290.42s -> 9313.06s]  reminisce about the rumor i miss him too i get it i miss getting visibly angry every
+[9314.47s -> 9334.09s]  30 to 45 minutes every single day on stream i love having my whole day ruined i love lying in bed
+[9336.33s -> 9342.47s]  two o'clock in the morning and having my eyes rip open because i hear it
+[9344.63s -> 9361.88s]  and i think that somebody's about to drive into my fucking house man miss that quick quick quick
+[9366.36s -> 9374.92s]  one of these guys turns into one of those things i got lucky it's not this one
+[9375.64s -> 9386.42s]  i really wish there was a dodge that's the next set right it's the next set
+[9387.14s -> 9393.88s]  you don't realize what you had until it was gone now you're right
+[9407.58s -> 9417.11s]  didn't did i get it off no okay i got the rune now just to get get away from the sanity thing
+[9417.67s -> 9450.79s]  these guys with the sanity bullshit why i kill it before it kills me okay good that's it right
+[9451.35s -> 9467.13s]  it can't be another one okay is my sanity too low to save it god i didn't pick the green thing
+[9468.71s -> 9480.90s]  i did it on accident i didn't even mean to game sucks playing nintendogs instead
+[9483.30s -> 9502.46s]  um i don't have nintendogs i'm sorry man kind of fucked up all right the blades in the slot
+[9502.46s -> 9513.32s]  feels pushback is the magic of the blade does not fit the lock really why really so what now what
+[9513.32s -> 9536.74s]  am i supposed to do i have to enchant it so now it's blue isn't it a green lock
+[9537.38s -> 9555.00s]  i need to i need to enchant it with green all right hold on how do i do that a new spell green
+[9557.37s -> 9575.10s]  oh shit um okay there it is and she discovered the enchant item spell green all right
+[9579.03s -> 9598.41s]  take a green recover too that's smart isn't it i'll do that right now a new spell green
+[9601.27s -> 9619.22s]  self absorb okay now quick spell enchant assign green on recover oh no
+[9632.42s -> 9634.18s]  oh that's good do it again
+[9638.87s -> 9639.37s]  again
+[9644.09s -> 9656.20s]  that's very very handy okay save it i forget this entire game why are you not letting the
+[9656.20s -> 9674.89s]  insanity effects happen resident sleeper why is this door not opening resident sleeper no
+[9674.89s -> 9682.46s]  insanity effects resident sleeper yeah you know i guess i guess you're right yeah let's think about
+[9682.46s -> 9689.45s]  it the one selling point of this game is the game fucks with you all the time i'm not you guys aren't
+[9689.45s -> 9700.84s]  even seeing the selling point of the game i can't make a red one can i all right breathe for a
+[9700.84s -> 9723.08s]  second game sucks you're too sane too much sanity going to link the corridor the ceiling has given
+[9723.08s -> 9737.74s]  in collapse should you climb over the rubble yeah oh shit this is bad can i i need i gotta heal
+[9737.74s -> 9747.46s]  with this little locket thing at least one more time shoot me through walls are you fucking kidding
+[9747.46s -> 9766.87s]  me let's go i'm who cares just go down the i don't care these bones blast from a sculpture made from
+[9766.87s -> 9780.76s]  human skin and bone all right so wait can i put something on here let's go put let's put the
+[9780.76s -> 9796.90s]  necronomicon on here but you're playing too good i am not playing good i'm not playing too good
+[9797.46s -> 9843.06s]  i have to save it shit shit shit should have to play good he's too talented hey he's doing
+[9843.06s -> 9848.82s]  this on purpose but he's playing good on purpose it's usually the other way around pretend or riot
+[9850.12s -> 9855.46s]  no that's not how this works he's doing good on purpose
+[9859.54s -> 9885.59s]  of course i am i'm trying to win start pretending holy shit okay i'm doing good
+[9886.31s -> 9897.99s]  start pretending start pretending finally we almost done with this wave of enemies thing
+[9898.79s -> 9909.66s]  hurry up more more funnies pretend all right fine fine if that's what you want no i don't
+[9909.66s -> 9912.86s]  no i don't care i have to be good i have to play good i'm gonna die in a second
+[9913.58s -> 9950.87s]  it was so bad i hate these little guys then miss shit how did that not land contact on his head
+[9950.87s -> 9962.55s]  and stop pretending stop pretending start pretending stop pretending guys are fucking crazy
+[9970.31s -> 9981.22s]  actually bad laugh out loud that's what you guys want you want to be able to write bad oh he's bad
+[9984.58s -> 10014.63s]  not today it's my turn to be good today not today all right do it good play good what's this shit
+[10014.63s -> 10035.02s]  what's he doing what are they doing what are they doing okay here we go go to the bathroom no not
+[10035.02s -> 10052.57s]  this again i could just google a playthrough keep pretending yeah i guess you could google the ending
+[10052.57s -> 10080.97s]  of the game thank you just google the ending yeah you could you could google anything
+[10085.02s -> 10095.24s]  david here it actually won't be funny if you did that as a joke no i don't want to google the
+[10095.24s -> 10105.54s]  ending of the game because now i'm it's wild how this game is only one year younger than me
+[10106.34s -> 10132.52s]  yeah that is insane all right should i go blue i'm gonna enchant this thing blue all right
+[10132.52s -> 10151.99s]  chant item cast blue these are purple right does that matter come on dude i have to finish
+[10151.99s -> 10172.25s]  every single one of them i really don't want to sometimes i think about just how old i am
+[10172.25s -> 10177.61s]  you guys are gonna vote oh wow this game is only one year younger than me every day i wake up and
+[10177.61s -> 10192.01s]  i just go 35 this year this feels wrong to say doesn't it i turned 35 this year 35 is one of
+[10192.01s -> 10197.29s]  those ages that when you're like 17 18 19 you just you'll you just never see yourself as a 35
+[10197.29s -> 10202.86s]  year old what am i gonna be like when i'm older like oh when i'm 50 when i'm 40 nobody ever
+[10202.86s -> 10220.87s]  thinks about when they're like 30 or 35 you always skip i do maybe some of you do you know what's
+[10220.87s -> 10227.54s]  crazy 35 was always the age that i thought was like the old wise teacher okay this i'm gonna die
+[10227.54s -> 10239.75s]  again i'm stuck in the corner please move what the fuck i'm gonna die again i'm going to die
+[10239.75s -> 10269.58s]  again get off come on i was just waiting for him and he didn't jump on my face of course he
+[10269.58s -> 10278.39s]  does that move twice in a row why would you read this with a skull the human skull facing you
+[10279.11s -> 10290.31s]  it doesn't do that there's no reason for you to do that replace that with like a bowl of pretzels
+[10290.31s -> 10308.84s]  like what are you fucking stupid pretty good pretending yeah all right can i refill this
+[10309.64s -> 10331.69s]  am i just is it over i'm just gonna lose forever oscar i need health but i don't know i don't know
+[10331.69s -> 10359.69s]  any healing spells i don't right i don't have any red ones just can't get hit get about i don't
+[10359.69s -> 10366.01s]  even care about killing him with an execute i'll just continue to be like this he'll die eventually
+[10366.01s -> 10376.26s]  right you made my day better hey well thanks for stopping by hope your day goes good continues to
+[10376.98s -> 10401.06s]  can i save it here you can't save in combat no one said that
+[10402.90s -> 10406.82s]  making up compliments now making up like things that people say that are good
+[10406.82s -> 10410.26s]  hey like that you hey nice job hey you making my day but i'm making that up
+[10410.98s -> 10425.19s]  it'd be very strange if i was come on kill him
+[10456.73s -> 10460.14s]  i all right i don't think i made it this far last time did i
+[10461.10s -> 10488.38s]  it's this exact part right here shit oh my god you little shit how did that not hit him
+[10490.14s -> 10512.92s]  the sword went through his body there's a fucking huge guy what my controls are backwards right now
+[10516.87s -> 10527.72s]  get away from me no please no please don't kill me run away from him run away from him
+[10529.70s -> 10541.64s]  okay wait this i know where i can even go what the fuck dude i need full health
+[10542.36s -> 10547.16s]  i didn't want to get stuck in the hallway with him because i'm just guaranteed to die
+[10547.72s -> 10574.38s]  oh my god how you supposed to do this just use the torch use the small swords fuck i've not been in
+[10574.38s -> 10590.50s]  the same room for two hours stop gaslighting everybody give me the torch we're gonna use
+[10590.50s -> 10622.42s]  torch only it's got so greedy gaslight him to believe he shit himself you convince me that i
+[10622.42s -> 10642.58s]  shit my pants here right now do i freak out run to the bathroom and check okay so when i check in
+[10642.58s -> 10662.54s]  there's nothing there do i still think i did it yes so how many of you guys have had the weird
+[10662.54s -> 10669.03s]  panic-inducing moment where you're out somewhere and this is why i don't like to fart anywhere i
+[10669.03s -> 10674.55s]  don't fart i'm not a farter i just this is a dead serious conversation i don't fart i i try to
+[10674.55s -> 10678.87s]  wait and i try to do it in the bathroom or something because i always have this weird panic
+[10678.87s -> 10684.71s]  where if i'm out somewhere and i'm doing something and if i fart and i shit my pants
+[10685.77s -> 10692.46s]  if this is panic always in the back of my mind where like i cannot fart because i may shit my
+[10692.46s -> 10723.98s]  pants uh and even if i know i don't i still think i did and i will have this i'll be going man i
+[10723.98s -> 10726.94s]  really probably should check see if i shit my pants i know i didn't but what if i did
+[10735.29s -> 10759.19s]  uh i think i soft-locked myself by the way i don't have enough health to do this and enchanted
+[10764.74s -> 10788.57s]  you can heal sanity if you wave with the torch i don't like these i want the big one
+[10788.57s -> 10791.61s]  i'm just gonna i'm gonna win i'm gonna beat it right now i'm gonna win right now
+[10815.80s -> 10823.99s]  sanity ain't gonna go down back it up i'm way too close there's no reason to be this close
+[10828.71s -> 10856.54s]  pretend to be cool kill him
+[10868.57s -> 10871.69s]  no no no no this is the guy that's the guy that's the guy i guess i gotta kill him kill kill
+[10871.69s -> 10903.29s]  swing swing got him okay big guy coming ah where's the big guy oh fuck big guy coming
+[10903.93s -> 10907.77s]  big guy coming big guy coming big guy coming get full sanity big guy right in the way
+[10908.33s -> 10918.66s]  big guy on the way all right just gonna save the game writer okay here we go
+[10961.85s -> 10976.18s]  no i can go dude it's so stupid what i can't even swing at him why would you why would they make you
+[10976.18s -> 10982.10s]  fight one of these huge fucking hulk monsters in a room that's as big as a bathroom in an airplane
+[10982.10s -> 10996.30s]  like what why are we doing this here i'm trying to cut his arm and just like
+[10996.70s -> 11039.19s]  eat and i got it once and oh my god stop no i've ruined it already i need help i'm soft
+[11039.19s -> 11045.90s]  locked i can't even be the game out the game's over i have a tiny little bit of help i can't
+[11045.90s -> 11072.28s]  even do it why can i execute the people on the ground oh i'm so dead again oh i'm about to
+[11072.28s -> 11075.80s]  fucking rip i was gonna say i'm about to rip the disc out but that's not even possible anymore
+[11076.52s -> 11081.26s]  do i just do it even though it's not anything i'm not gonna do anything
+[11081.90s -> 11108.38s]  i'm so dead one of these guys gonna turn into the bird and then the birds gonna slash me and
+[11108.38s -> 11124.81s]  my sanity is gonna go to zero uh what there he is there's the fucking goddamn bird sanity zero
+[11126.25s -> 11133.54s]  there's no other safe point i can't there's no other safe point of the whole game
+[11134.10s -> 11150.50s]  use the torch it kills in one hit you are gaslighting yourself by using the big knife
+[11160.87s -> 11164.23s]  don't tell me that don't tell me that if it's real then i get very upset
+[11165.50s -> 11172.02s]  just to only use the torch in the sanity spill okay that's what i'm doing use the chalk rooms
+[11172.02s -> 11199.67s]  what do the chalk rooms do throwing weapon uh throwing weapon at the big guy how did i use one
+[11199.67s -> 11227.51s]  why then 19 okay i'm ready don't even look at them why am i letting them look at me
+[11231.48s -> 11237.46s]  then this had to be the room that everybody said start pretending look what happens you
+[11237.46s -> 11248.97s]  guys just get what you want you know that's not what i'm doing so you know in all your minds
+[11248.97s -> 11253.21s]  i did start pretending to make sure that i that i could make well what a funny stream and he's
+[11253.21s -> 11258.46s]  stuck in the room he's stuck in the airplane bathroom why did i have to line up that way
+[11278.38s -> 11294.36s]  that's pretending stream of 2020 all right here when the birds coming big knife aim up
+[11295.08s -> 11315.96s]  yeah i was trying that look at the sanity it's too fast stop being so i hate that i'm gonna
+[11315.96s -> 11355.83s]  fucking scream i'm about to fucking yell as loud as i can swap to other weapon for the bird
+[11355.83s -> 11387.85s]  this is the one i can feel it just use emulator saves wait what do you mean hold on
+[11390.23s -> 11393.53s]  wait don't tell me i can do that because then i'll ruin the rest of the whole stream
+[11396.52s -> 11399.32s]  i'm gonna abuse the hell out of that i'm gonna just gonna be completely abused
+[11401.99s -> 11406.97s]  that's i'm not there yet all right i know it exists good to know i'm not there yet
+[11406.97s -> 11416.17s]  we'll see maybe it's very maybe not yet let me try to do it on my own
+[11437.21s -> 11442.14s]  all right come on try to fight the bone thief in the hallway
+[11445.46s -> 11450.50s]  it's guys gonna get one or two clean hits on them and i'm just gonna throw the
+[11451.46s -> 11465.00s]  it's not a children's game this is rated m for mature
+[11465.80s -> 11492.41s]  this is for mature adults only it is rated m m for mayonnaise okay let's go
+[11500.22s -> 11506.62s]  gotta hit them one two three grab the grab the just the two-handed sword and hit him once
+[11507.58s -> 11522.30s]  in fact i'm gonna do it up here okay okay do it spells good good not bad good start good
+[11522.30s -> 11561.24s]  start good start good start good start okay now put on the how do we use these where is he
+[11561.80s -> 11564.70s]  all right my controls are backwards again
+[11577.46s -> 11610.06s]  he makes the analog backwards my analog is upside down no this is unbearable
+[11610.06s -> 11621.08s]  fuck this is not even like i don't remember this being like this no i can't use safe state
+[11621.08s -> 11633.98s]  i'll never do it i gotta do it on my own why do i have to fight the huge guy by the way aiming
+[11633.98s -> 11647.86s]  those little frisbees is it doesn't make any sense once you get restore life you'll never have to do
+[11647.86s -> 11669.80s]  this again yeah i'd love to get it now we're going back to original strategy chant the tiny
+[11669.80s -> 11678.41s]  swords blue how do i make a save state what's the what's the button don't say alt f4 if you
+[11678.41s -> 11700.34s]  say alt f4 you're getting timed out for 10 minutes what is it shift what hello germy your biggest i'm
+[11700.34s -> 11710.70s]  your biggest fan all right wait what are you showing me i don't need to put it in m girl link
+[11711.43s -> 11721.53s]  load state save state capture go to save slot one shift f1 okay here we go ready let's see if it
+[11721.53s -> 11734.98s]  works got it okay we're good we're good we're good we're good we're good thank you shift f1
+[11734.98s -> 11743.30s]  whenever i'm feeling scared cheating i don't care i gave up on that a long time ago i'm only
+[11743.30s -> 11764.50s]  going to use it seldomly i promise now it's over so everything's ruined because now i'm going to do
+[11764.50s -> 11768.66s]  that forever i'm not going to use it all the time i'm only going to get out of this fucking room i
+[11768.66s -> 11824.79s]  promise no i'm gonna abuse it get away from me stop running so fast good okay here we go
+[11836.22s -> 11880.46s]  your experience is ruined no it's not this is only for this room i promise
+[11880.46s -> 11907.24s]  good okay yay yay blue hog i guess it's it is not a pug i'm embarrassed but i don't care i
+[11907.24s -> 11914.81s]  wouldn't i wouldn't be able to do that no way all right so did i get anything from this
+[11915.37s -> 11926.71s]  besides the blue thing lighting up shit shaped like a delicate dome a pale blue
+[11926.71s -> 11955.29s]  statuette floats should i claim this yeah she's dead who did this to you
+[11960.97s -> 11963.85s]  what are you teaching america's youth cheating i can't believe i let my
+[11963.85s -> 11968.41s]  children watch your stream ready them for maturity that's what you press when you first come to the
+[11968.41s -> 11972.44s]  spring
+[11982.02s -> 11983.78s]  so much for thinking
+[11992.54s -> 11994.86s]  no i we're getting over that i'm not talking about like
+[11995.58s -> 12000.14s]  the artifact which i'm not talking about that ever again and it is not for us to possess
+[12001.67s -> 12009.46s]  if we are to be together again you must make a sacrifice only when that is complete will we be
+[12009.46s -> 12022.01s]  together sacrifice why should i do anything for you you lied to me betrayed me you really don't
+[12022.01s -> 12030.44s]  look so good anymore you must forget the past despite who you are now you will also become
+[12030.44s -> 12039.64s]  something more just as i have but the sacrifice must be made we must remain here and guard the
+[12039.64s -> 12048.22s]  artifact things will come to play and you must be strong to keep it from them without your sacrifice
+[12049.18s -> 12069.32s]  the world will fall into darkness the things i do for love she kisses me to death it's going
+[12069.32s -> 12094.71s]  off his nostrils he's like he's what was that what was that like 1995 screensaver okay so now
+[12094.71s -> 12100.89s]  what did that what did i what did he do i have the key to the dresser which i haven't done anything
+[12100.89s -> 12121.90s]  about but what was the last what did i get i got like a did i get a new spell sword door oh yeah
+[12121.90s -> 12134.36s]  that's right the sword door that's not the sword door dave i am oh that's pretend saving you're
+[12134.36s -> 12146.89s]  talking about real hard saving yep so i can enchant this green and we'll do the green door
+[12155.88s -> 12187.86s]  okay uh somebody just a phone call why is this why it's so odd all right that's actually pretty
+[12187.86s -> 12193.48s]  creepy that's creepy i will say it's creepy all right we got we got a quick spell all right
+[12193.48s -> 12214.97s]  enchant item this one five it's just a pantry sealed it away for centuries i didn't want anyone
+[12214.97s -> 12222.07s]  to touch my marshmallow fluff you can only get that shit in the northeast can't get it anywhere
+[12222.07s -> 12235.75s]  else which is bullshit by the way spice jar well that's a huge rat all right what's in the
+[12235.75s -> 12275.26s]  spice jar firmly sealed glass spice jar the aroma of arabian spices in in there open it up the
+[12275.34s -> 12282.54s]  future is yours the light in the age of always in those spices has been extinguished the pillar
+[12282.54s -> 12291.37s]  of flesh has been constructed the master of chaos the keeper of the ancients is long the master of
+[12291.37s -> 12298.25s]  comedy the planets will be in alignment soon all is prepared for your arrival i will begin the
+[12298.25s -> 12308.38s]  final incantation will bring you into our world in days the next millennium will truly usher in a
+[12308.38s -> 12320.47s]  new age your guardians now prepare the gate okay so i got it what's this one this is chapter five
+[12321.19s -> 12327.19s]  what year is this i will not argue that i was shocked by the sudden mention of one oh this is
+[12327.67s -> 12335.80s]  1760 the distinguished dr maximilian roivas it chilled me to my bones it all just takes
+[12335.80s -> 12344.33s]  place in the same house come from how had my ancestor stumbled upon it i feverishly began
+[12344.33s -> 12352.92s]  to read more eager to learn his story seems that maximilian had inherited his father's mansion
+[12353.48s -> 12361.05s]  just as i had alone since the death of his wife and since his children had their own adult lives
+[12362.01s -> 12376.04s]  he explored the house to discover his family roots i saw that that's okay it has been two weeks
+[12376.04s -> 12381.18s]  since the death of my father and it has finally come to me to look over the mansion
+[12382.14s -> 12392.07s]  now i am truly alone forced to start a new life here in road island i intend to make the mansion
+[12392.07s -> 12397.91s]  mine and live in it there's my four those powdered wigs are so cool the family tradition i wish it
+[12397.91s -> 12403.19s]  was still cool to wear those the mansion has its secrets i'm sure why do these go out of style my
+[12403.19s -> 12419.30s]  time here they're ugly but at what point in history did people just take these off and go
+[12419.30s -> 12424.70s]  nah nah fuck that i don't want to wear that looks terrible what was the first generation that's like
+[12424.70s -> 12431.10s]  nah i don't want to put on that looks horrible something had to have happened this had to have
+[12431.10s -> 12447.58s]  been something weird okay the flintlock pistol oh you get a gun i have a gun now i got a gun
+[12448.22s -> 12468.52s]  walking around my own house with my gun okay that's is this a that's not a monster is it
+[12472.31s -> 12499.42s]  no this is okay this is a it's a servant okay jesus i don't look so angry was something in the room
+[12499.42s -> 12504.47s]  why did i do that i didn't you ever seen the adam salem movie where he rewinds time you can do
+[12504.47s -> 12510.81s]  whatever you want you can do anything because it's fine he's right there he's alive interior
+[12510.81s -> 12536.23s]  outhouse oh i get more ammo two more what about this candle thing the door of the servants quarters
+[12536.23s -> 12541.11s]  are securely locked and if i feel uneasy an ominous presence lurks behind that door
+[12542.07s -> 12550.74s]  all right okay stained glass window uh resplendent with bright colors and exquisite
+[12550.74s -> 12563.29s]  workmanship there's something odd about it perhaps the curious detail curious calling everything a
+[12563.29s -> 12591.19s]  stick bug more ammo okay that's stick bug the letter what does the letter say a letter written
+[12591.19s -> 12598.79s]  with some precision in the long hand dear friend the antiquity of which you ask is indeed the
+[12598.79s -> 12604.63s]  tomb of eternal darkness or a copy of it at least its secrets are still hidden from me for i have
+[12604.63s -> 12610.47s]  been unable to read it as have most scholars who have tried it will remain within the sanctity
+[12610.47s -> 12621.24s]  of the mansion for the wrong hands it would be a powerful weapon you know it's roibos medical
+[12621.24s -> 12626.78s]  journal used to take notes on medical and pathological analysis okay i got 15 bullets
+[12634.17s -> 12643.62s]  i closed on today no the answer to that question is always no i swear to god i keep thinking they're
+[12643.62s -> 12673.46s]  bad guys toilet wait here's grim reflection returns max's question and gaze more ammo all right i got
+[12673.46s -> 12691.19s]  a lot of ammo shoot window you're exhausting shoot window would relax stop i haven't even
+[12691.19s -> 12714.49s]  gone in all the rooms yet i'm just looking around i've pointed the gun at every single person here
+[12714.49s -> 12735.03s]  put jingle keys into the mic or riot is that a baseball bat pump handle cool uh while going
+[12735.03s -> 12739.24s]  about her duties the servant casually remarks about a strange quality hanging in the air
+[12739.24s -> 12747.90s]  something weird going on jingle keys jingle look how about this i have two glass bottles how about
+[12747.90s -> 12781.77s]  i just go like this that better yes people happy oh you what are you doing here are you what's this
+[12782.49s -> 12787.96s]  there's something written beneath the image when darkness spreads its wings before my master
+[12788.68s -> 12801.10s]  zelotath's greatest foe the path to truth will be opened uh the biggest foe is blue blue blue hates
+[12801.10s -> 12821.50s]  uh green hates blue blue hates red right i was shocked it's red wait i thought it was blue
+[12822.06s -> 12840.52s]  enter secret passage not yet um sword curled scroll of age parchment reveal invisible spell
+[12843.02s -> 12857.77s]  and a cutlass i'll take it gerber just fart no but i did used to do that though i know we've
+[12857.77s -> 12861.77s]  gone i we've talked about this i know we have but just to give you a little bit people that might
+[12861.77s -> 12868.70s]  not know there was a time during my youtube career he said career he said office where i
+[12868.70s -> 12873.83s]  was putting just fart noises in videos and i did it like three or four times over a course of a
+[12873.83s -> 12880.54s]  couple of weeks and after like the third or fourth time nobody even noticed they were there and i
+[12880.54s -> 12885.48s]  just was like this is not funny anymore like nobody cares nobody thought that was funny nobody
+[12885.48s -> 12891.56s]  even mentioned it it was just so i guess so normal that nobody cared to even say what was that at
+[12891.56s -> 12897.82s]  like four minutes in like 25 seconds this went on for at least a week or two and even said like
+[12897.82s -> 12905.96s]  years later i did it still and nobody ever said anything which i do i do i have no idea what
+[12905.96s -> 12919.85s]  videos they were i have absolutely no clue he never stopped farting i there was one specifically
+[12919.93s -> 12925.02s]  where i was talking to somebody i think i was talking to star and i was like blah blah blah
+[12925.02s -> 12932.84s]  blah i said a sentence and there was a fart noise yes you found it wait hold on did you actually
+[12932.84s -> 12949.72s]  find it found did you found one just being like dickheads shooting everybody and shooting each
+[12949.72s -> 12955.16s]  other can i even i'm gonna spray the hell out of these guys yeah shooting everybody and shooting
+[12955.16s -> 12960.44s]  each other but i did it i did it at least a few times trying to make an honest living putting out
+[12960.44s -> 12965.40s]  fires saving cats and these two were just being like dickheads shooting everybody and shooting
+[12965.40s -> 12969.32s]  each other can i even i'm gonna spray the hell out of these guys yeah that's not you know the
+[12969.32s -> 12977.11s]  role players are fighting back right so i uh and i never talked about it i don't think either
+[12977.75s -> 12982.98s]  this was never brought up ever again and then i did it a couple more times and it wasn't funny
+[12983.78s -> 12997.35s]  it wasn't even making me laugh and i still put it in the videos there's another one how would you
+[12997.35s -> 13006.55s]  even know where these were there's no way you found them all already today we're going to do
+[13006.55s -> 13012.14s]  a dish that i remember from my mother what is this this has nothing to do with me at all
+[13012.94s -> 13020.25s]  that's jacob panning world's greatest intellectual on earth uh thanks though i mean like i would love
+[13020.25s -> 13028.81s]  to watch it found another one if you want to check it out go check it out
+[13029.45s -> 13035.46s]  take everybody see you all soon take care of everybody and do the dance you get for free for
+[13035.46s -> 13045.00s]  downloading the game well we won that's loadout guys it's on steam it's free to play if you want
+[13045.00s -> 13049.64s]  to check it out go check it out take care everybody see you all soon take care everybody and good
+[13051.00s -> 13058.52s]  okay wait wait wait this is how did you find them all already how do you have these bookmarked
+[13058.52s -> 13062.65s]  do you remember specifically when you were melee we're in the fucking call and i told you i was
+[13062.65s -> 13073.18s]  going to a halloween party what'd you tell me you guys thought i was lying you thought i was lying
+[13074.22s -> 13077.82s]  everybody thought i was making it up everybody thought i was making it up
+[13081.08s -> 13099.91s]  there's not another one here there's definitely not a fourth one though right i farted in this one
+[13100.73s -> 13104.33s]  there's one in this tf2 halloween video from 2013
+[13117.93s -> 13124.55s]  oh why would i put this okay you know what this loadout video from february 9th 2014
+[13125.42s -> 13132.74s]  in the comment section does anybody say anything about it i don't say anything
+[13132.74s -> 13142.63s]  people just stopped giving some people stopped caring do you see how i i i had to stop doing
+[13142.63s -> 13151.08s]  this because it wasn't funny and this is the this is a year apart by the way okay this is tf2 i bet
+[13151.08s -> 13160.07s]  you 100 bucks november 3rd 2013 february 9th 2014 was the loadout video this is a full fucking year
+[13160.07s -> 13165.26s]  apart hey we're in the fucking call and i told you i was going to a halloween party what'd you tell me
+[13166.86s -> 13178.76s]  all right is a stenographer jesus christ yeah i probably at least and what's the gta video
+[13178.76s -> 13191.94s]  october 16th 2013 hold on hold on hold on i want to see if this one's real i know i did it at least
+[13191.94s -> 13201.59s]  five or six times this is a family guy peter farting compilation all right i'm gonna move on
+[13201.59s -> 13213.34s]  another gta video no i'm getting linked like just random like peter griffin fart sound videos
+[13215.70s -> 13234.62s]  all right you get the idea though okay examine there's to be a wax rubbing of some kind
+[13236.54s -> 13254.14s]  i have dual pistols went lock pistol oh dual pistols what no way are we gonna go kill that
+[13254.14s -> 13289.54s]  guy out there okay well i didn't i didn't want to shoot him reload reload the gun we found another
+[13289.54s -> 13296.82s]  one the video we're looking for was the august 2015 gta video hold on wait i don't know how to
+[13296.82s -> 13311.14s]  fuck you guys find this shit it's another one in cry and cry of fear hold on wait wait wait wait
+[13311.14s -> 13324.52s]  cry of fear no this is the simpson song no you guys are not even lit this is baby crying
+[13325.24s -> 13346.55s]  this is a real fart from you what watch it again real quick also by the way i'm having
+[13346.55s -> 13353.03s]  an insane epiphany right now and this is tearing down the entire fabric of my fucking mind
+[13354.10s -> 13362.90s]  i was doing that on streams too recently i had a fart machine and i would play it sometimes
+[13363.22s -> 13367.56s]  like over the like over the last six to 12 months and i never said anything about it
+[13367.56s -> 13384.31s]  i did it on these streams too yeah i have i have been doing that no you haven't yes i have yes i
+[13384.31s -> 13389.99s]  have i've been i've been doing it a lot somebody have a clip of me doing it on stream i'm not
+[13389.99s -> 13393.78s]  gaslighting you guys this is real this is really happening i know for a fact that one of them
+[13393.78s -> 13399.72s]  happened at least on the stream that me and joel did at least two or three times we did um that
+[13399.72s -> 13403.48s]  bomb defusal game i did it like three times on that stream and didn't say talk about it at all
+[13404.60s -> 13408.04s]  and then did it like another like i swear to god i did it like two or three weeks later and then a
+[13408.04s -> 13420.04s]  month later it's real it's real stop linking me the fucking family guy thing you're fart lighting
+[13420.04s -> 13426.54s]  us so i'm not somebody will get it i swear to god somebody will actually get the real one
+[13426.54s -> 13437.98s]  holy shit was it the second bomb defusal i did it like 10 times 134 15 all right i'm gonna stop
+[13437.98s -> 13444.57s]  because no one is actually linking me anything you guys are just all linking your favorite
+[13444.57s -> 13457.83s]  fart videos everybody's got one i have not laughed at every single fart absolutely not i got
+[13457.83s -> 13467.32s]  no way i mean you you might queen i have not laughed at every single one you bring me documented
+[13467.32s -> 13477.88s]  proof i did not i i know i did not bullshit i don't believe it what where will list the thing
+[13480.31s -> 13485.43s]  here's where this doesn't do anything laughed at every fart blue wire laughed at every
+[13486.07s -> 13491.83s]  there's there's no red wires there's one red i fucking said that okay there's only there's only
+[13491.83s -> 13500.95s]  one red there's one red wire okay all right is the last wire yellow no it's blue okay is it one blue
+[13500.95s -> 13506.36s]  wire there's germa i swear i'm gonna fucking come over to boston i'm gonna fucking all right is it
+[13506.36s -> 13512.28s]  what i don't even live there anymore man well i'm fucking all right where's the fart is it one yes
+[13512.28s -> 13517.16s]  or no is it is it one blue wire there's i there's no farther you guys are fucking this all up
+[13529.77s -> 13538.87s]  fine that's one all right i have to move on from this shit i can't sit here all day
+[13538.87s -> 13557.67s]  that was a real one no it wasn't real oh here's another one red blue we have we have we have
+[13558.31s -> 13568.26s]  we have we have we have red we're looking at red blue
+[13572.09s -> 13580.98s]  i did it so many times i swear to god people got pissed one time people got pissed one time
+[13582.42s -> 13587.46s]  i forget what the exact context was but i did it and people got fucking mad they were like stop
+[13587.46s -> 13594.63s]  dude that's not funny did he skyline stream there's at least a couple somebody got pissed
+[13594.63s -> 13606.63s]  and it was like it wasn't funny at all he's gas no i have to have a distinct memory i just don't
+[13606.63s -> 13614.28s]  know what the fucking what game it was it doesn't know the omega symbol no no no no no no i'm done
+[13614.28s -> 13623.80s]  i'm done i'm done i'm done skylines clip you'll stop i not click it mods when an autopsy has been
+[13623.80s -> 13630.17s]  performed max can do the new entry by turning to the journal section of the tool i think autopsy at
+[13630.17s -> 13639.90s]  the bottom of the page okay autopsy the creature wears the skin of people to protect itself
+[13641.29s -> 13655.42s]  gross but yeah i i it was a couple times that i did it on stream and people did not notice
+[13655.98s -> 13667.86s]  and i was sitting there going nobody knows i did that i nobody said anything oh god he's here
+[13667.86s -> 13699.24s]  wait he's kicking this guy's ass isn't he's not a bad guy but they were all possessed some are
+[13699.24s -> 13725.13s]  possessed oh shit i don't know if i hit them move out of the way you do the same thing in god hand
+[13725.13s -> 13738.62s]  hold on i haven't saved stated in a long time i'm gonna die i can't shoot his arms off okay just
+[13738.62s -> 13754.54s]  kill me when was the last safe state i miss god hand it's far back i don't even know how far
+[13754.54s -> 13784.65s]  back it is we're good i just had to load that safe real quick okay take out the cutlass stop
+[13784.65s -> 13800.95s]  please all right there we can see the autopsy cool cool cool let's just get a little bit of a
+[13800.95s -> 13813.00s]  save state somebody's gonna find them because i said it and now people are gonna look and
+[13813.00s -> 13824.38s]  you'll find them and we can be embarrassed for me when we hear them eventually i want to load the
+[13824.38s -> 13840.82s]  gun i'll open the door black and white two vod had one i'm not gonna click him unless they've
+[13840.82s -> 13885.98s]  verified modeling off cut his arm off he's dead all right what a pain in the ass he's not dead
+[13889.16s -> 13904.10s]  just shoot him in the head that's not his head thank you god mods we got one mods we got one
+[13904.10s -> 13914.76s]  all right do you verify me please mods okay let's see this is this is in the black and white stream
+[13936.95s -> 13950.01s]  where is it in this game why is this so low game is too well i'll turn the game down
+[13954.10s -> 13973.10s]  okay let's listen to this wood where is it okay that's what that does i really wish my um
+[13975.45s -> 13983.82s]  dog could have seen that it's not even there do it again keep watching
+[13989.34s -> 13996.65s]  right is that me or is that in the game
+[14010.31s -> 14018.68s]  this one's at 412 art with extra reverb i don't want to play this because i feel like it's gonna
+[14018.68s -> 14040.49s]  hurt everybody's speakers i'm done i'm done i'm done invisible spell uh uloth nerecath okay cool
+[14041.13s -> 14056.70s]  let's go ahead and go back to what we're doing here all right so let's put that on the little
+[14056.70s -> 14068.17s]  bar here a spell list it reveal invisible we do blue or green doing reveal invisible down i guess
+[14068.17s -> 14086.81s]  be
+[14092.52s -> 14095.24s]  play the reverb thing i just did i played the fart reverb one
+[14098.84s -> 14107.38s]  all right what do i have for uh items i got kind of distracted there okay i've got this
+[14108.26s -> 14112.82s]  letter i got the tomb of eternal darkness i gotta put the tomb of eternal darkness somewhere
+[14112.82s -> 14120.28s]  yeah wow i should i would not be very good if very bad not be very good all right
+[14121.48s -> 14139.78s]  i'm gonna have some bad news for you remember when you said that auto had a savory dog smell
+[14139.78s -> 14143.86s]  as he slept that's actually little dog farts you were sniffing his sleepy dog farts and you
+[14143.86s -> 14150.04s]  said it was savory and that's not even real that's not that's not accurate that's fake
+[14150.04s -> 14184.63s]  that's not actually what was going on but sure okay nothing nothing reload the guns why do you
+[14184.63s -> 14189.75s]  huff your dog while he's sleeping what the fuck this is look don't listen to everybody in here
+[14190.39s -> 14218.18s]  are you listening to these people he's bleeding get get him get him
+[14232.18s -> 14235.78s]  if you don't know what to sit with what the sleepy dog smell is i'm sorry you just don't
+[14235.78s -> 14241.48s]  you don't have like the part of your dna that allows you to smell it all right ones in the chat
+[14242.28s -> 14247.08s]  do you know what the sleepy dog smell is ones or not it's just like having an eternal monologue
+[14250.84s -> 14266.58s]  thank you i'm thank you so much all of you it's not dog farts it's like a scientific thing that
+[14266.58s -> 14270.74s]  happens with the dog when it sleeps and if it's something with their paws in there i don't know
+[14271.70s -> 14285.10s]  oh what's this an envelope let's get it i was supposed to scare me but i was looking at you
+[14285.10s -> 14301.67s]  guys talking to me about how my dog doesn't smell that was supposed to scare me um melted
+[14301.75s -> 14312.30s]  wax an odd rune is pressed into the wax letter addressed to one of max's father's aids and i
+[14312.30s -> 14322.25s]  got the basement key that's totally tubular hey uh dear friend i expected the beasts are drawing
+[14322.25s -> 14326.65s]  closer to our discovery they want the book by themselves it seems and do not want us to have
+[14326.65s -> 14331.93s]  it in our possession i have taken steps to ensure that their ilk will not touch the key in this
+[14331.93s -> 14337.05s]  envelope if you fall prey to their claws the envelope containing the basement key has been
+[14337.05s -> 14343.69s]  sealed with a corrosive magic one not aligned to us tries to handle it it will be released
+[14343.69s -> 14350.62s]  inflicting pain suffering and a grievous blow to this sanity okay it's blue so just be blue
+[14351.26s -> 14371.61s]  load those guns up load those guns up so people are asking tomorrow what time
+[14371.61s -> 14378.42s]  i want to just make it clear again dlc movie night is tomorrow starting somewhere around
+[14378.42s -> 14391.35s]  between 11 and 12 pacific i'm around like 11 to 12 p.m 11 like 11 a.m to 12 p.m i'm assuming
+[14391.35s -> 14404.94s]  we're gonna be sitting there for a good solid five to six hours i'm just coming down the hall
+[14404.94s -> 14426.09s]  down to the basement why are we why are we in like sepia tone where do you go
+[14426.73s -> 14444.14s]  why should i do the invisibility spell he's abusing cheats no i'm using cheats not abusing
+[14445.02s -> 14464.70s]  how many times am i gonna shoot him in the head it's not the same thing three heads okay should
+[14464.70s -> 14477.37s]  i keep shooting in the middle head for a quick part viewers are plummeting no that doesn't
+[14477.37s -> 14486.26s]  but i don't care good freeze frame look at that zoom in on that that's a great picture
+[14487.22s -> 14501.72s]  oh i stuck like this okay no wait i finally got it thank god okay new spell list
+[14502.36s -> 14511.64s]  heel we want recover so it's noracath and santac thank god
+[14528.50s -> 14536.84s]  all right it's time to drop the ban hammer should i just put heels around the whole thing huh
+[14539.06s -> 14545.46s]  cover assign mana to go up here
+[14546.02s -> 14553.22s]  oh
+[14558.63s -> 14560.92s]  this isn't doing anything
+[14566.46s -> 14579.54s]  wait am i back to my back to normal he's an invisible horror stalking him have you no eyes
+[14579.54s -> 14589.40s]  can you not see it oh wait hold on look at what's fine the invisible guy it says this invisible guy
+[14589.40s -> 14634.78s]  stalking him guess not mind i'm fighting green guys oh there's nobody here what's this design
+[14634.78s -> 14638.70s]  is oddly reminiscent of a circle of power mentioned to the tomb of eternal darkness
+[14639.26s -> 14658.60s]  probably first to some kind of spell why am i so slow i need to unlock the basement this is not
+[14658.60s -> 14671.35s]  the basement jump king waiting room you can't be waiting for a very very long time where's the
+[14671.35s -> 14705.78s]  basement it's all waiting room is it is it all the way in the back hold on when is germa gonna
+[14705.78s -> 14715.90s]  go insane this is clickbait look i don't i don't know i played this game 20 years ago i don't
+[14715.90s -> 14742.17s]  remember why did i even shoot him classic tuber yeah well i am a classic tuber yeah that's right
+[14744.06s -> 14751.59s]  i was making youtube videos back in like 2012 2011 i think that makes me a classic youtuber
+[14752.31s -> 14777.21s]  isn't it are you punching me for real leave me the fuck alone you're really odd to walk into
+[14777.21s -> 14787.13s]  though you're one of the other servants for a second i thought i was not doing this right
+[14787.93s -> 14803.16s]  you might know me from the servers wait that person was normal that wasn't a why were they
+[14803.16s -> 14819.78s]  attacking me did she or did she not walk up and punch me three times let me know she walked up
+[14819.78s -> 14849.42s]  and threw like three haymakers at me i go i thought the game was actually broken you got me
+[14850.14s -> 14878.98s]  i'm i don't know where to go i'm trying to find the basement what was that that was the somebody
+[14878.98s -> 14883.64s]  in the house dropped something in the shower sound for some reason it always sounds like they
+[14883.64s -> 14888.04s]  fell and just smashed into everything and like broke three of their bones am i blind
+[14901.10s -> 14909.32s]  letter five letter four letter two your friend whatever all right i need to go to the basement
+[14909.32s -> 14925.90s]  i don't know what to do well you don't go up to go to the basement you would do invisible
+[14926.54s -> 14933.51s]  what is an invisible door why do i hear a loud smashing oh is somebody in this room
+[14936.34s -> 14948.22s]  hey who's in here is he upstairs there's nothing even in there's nobody here okay that was weird
+[14948.78s -> 14975.24s]  okay so i need to do um invisibility use the red and reveal invisible spell oh okay oh i get it
+[14975.72s -> 14983.61s]  because it's it's the red hates green green hates blue blue hates green and purple hates them
+[14983.61s -> 15019.16s]  all of us or something right rock paper scissors yeah he's ready the guns
+[15022.63s -> 15039.56s]  oh they're gonna turn into birds weird bird things not fight on the stairs can can you please just
+[15039.56s -> 15056.41s]  back up a little so i can what am i doing i'll get stick buck you fucking loser
+[15064.92s -> 15090.79s]  now what's down here you spell rewind time the image field a tattered scroll yeah yeah the
+[15090.79s -> 15095.67s]  sanitation exerts a force of mystical power within the confines of its ruins nothing may
+[15095.67s -> 15122.92s]  enter till it is dispelled oh i need the ruins mo what's this pump some water a rusted pump
+[15122.92s -> 15134.14s]  stands by the well its handle appears to be missing oh i have one of those i already have
+[15134.14s -> 15169.38s]  rewind time that's true yep you're right let let me actually get a youtube thumbnail freeze frame
+[15169.38s -> 15175.11s]  that's what it would have been and my thumbnail sucked they were always so bad it was always just
+[15175.11s -> 15179.99s]  hey to have a guy standing up that's a character in the game and just use the rule of thirds and
+[15179.99s -> 15188.44s]  people will think it looks good a guy pointing a gun a guy pointing his fist a guy punching it
+[15189.08s -> 15193.72s]  it was every single thumbnail i just couldn't be bothered you know i just like just wanted to
+[15193.72s -> 15203.38s]  upload the fucking video like i was done just upload it just shoot myself in the head do i
+[15203.38s -> 15219.91s]  have bullets wait why am i in a prison wait hold on i was okay i was in jail oh all right well
+[15220.79s -> 15238.30s]  for that give me that you know the main gimmick of this game i just punched you in the face i'm
+[15238.30s -> 15248.33s]  sorry i'm so sorry i really am that like just that was probably loud all right uh damage field
+[15248.33s -> 15268.98s]  spell so nobody can walk through it should i turn it on stop touching the fucking mic dude seriously
+[15269.54s -> 15297.16s]  i have this ruin now right purple desolate ruin of a fantastic a p e g image built into a huge
+[15297.16s -> 15319.00s]  naturally formed cave oh you don't have to render it that's no that helps you know that would get
+[15319.00s -> 15338.74s]  me if this wasn't too you know 2020 this only works if you are alive in 1998 turn it back up i
+[15338.74s -> 15355.08s]  don't know how i can't they turned down the cutscene all right hold on wait wait wait
+[15355.08s -> 15359.19s]  i'm sorry it doesn't matter wait so i have to do my spell
+[15376.09s -> 15408.50s]  does that do a power level protect protect protect protect did i do okay green should i do green
+[15409.22s -> 15425.88s]  let me do green maybe okay green red
+[15453.32s -> 15480.89s]  work oh got him he's invisible though he's i gotta turn this visibility off ah any more
+[15480.89s -> 15514.50s]  magical energy tear parka parka tear parka yep i had it right fuck him shoot him
+[15515.30s -> 15525.32s]  i guess i could try to shoot him but i don't think it hurt him didn't do anything that you
+[15525.32s -> 15549.82s]  lied enchanted with red oh nice okay yeah you're right you're right yeah yeah yeah yeah all right
+[15549.82s -> 15586.18s]  now i have red enchanted guns so tough anymore are you come on come back oh shit reddit enchanted
+[15586.18s -> 15597.34s]  guns why does everything have to be read it with you guys i didn't want to shoot that guy
+[15597.34s -> 15629.80s]  why is he so defensive about reddit i'm not but what am i going to eat today
+[15631.58s -> 15641.29s]  wait took you three months to figure this out it's a very long time
+[15664.50s -> 15672.10s]  damn the powdered wig really does make you look really different he just looks like
+[15672.18s -> 15677.22s]  every dude i've ever seen at walmart before he was like in a pirate outfit and he had the hair
+[15702.57s -> 15714.87s]  if i'm like the the audio director here it's like that that was a perfect take what a perfect take
+[15714.87s -> 15734.14s]  that i would i wouldn't even change anything what i do what i pressed a button oh wait oh
+[15738.60s -> 15750.38s]  fake dlc okay that was cool i can go into that into the basement now right
+[15750.38s -> 15770.97s]  they are not already in the basement i can go to the hidden door skipping lore
+[15772.01s -> 15780.33s]  remember you should make i'm not going to be coming out for a long time okay if you want to
+[15780.33s -> 15793.16s]  go to the bathroom use the one downstairs just leave me the fuck alone this is where the hidden
+[15793.16s -> 15832.28s]  door was before yes there's a hidden door i have like new spells i have a reveal invisible
+[15833.16s -> 15851.80s]  damage field where have i not been able to go there's wait the glass can i break the glass
+[15852.84s -> 15863.67s]  what the hell is this glowing medieval maiden luminous even with the faint light of the setting
+[15863.67s -> 15884.47s]  sun there's something in the and there's something in there what that wasn't it
+[15889.53s -> 15893.45s]  germa germa germa germa germa germa germa germa germa germa germa germa germa germa germa germa
+[15895.22s -> 15904.94s]  what is it what is it kids dark to scene perhaps the circuit's been broken
+[15904.94s -> 15935.24s]  telephone i have a dresser key dresser key i mean where's the dresser the key goes in
+[15937.16s -> 15967.46s]  isn't that a con what do they mean by dresser i need a funny voice so i can sleep real mcchicken
+[15967.46s -> 15976.95s]  wink what i want something i want something delicious i want something that's 10 out of 10
+[15977.59s -> 15993.96s]  but i can't eat i'm trying to stay away from uh red oh i'm gonna eat wait dresser right here we go
+[15993.96s -> 16000.62s]  okay all right hey hey hey hey hey look searches hey hey hey take it out take it out i got it
+[16000.62s -> 16013.21s]  invisibility spell reveal invisible green hash house stuffed blue cheeseburger but replace buns
+[16013.21s -> 16039.10s]  with lettuce wraps there we go there's a new page oh it's a gun sorry is a chrome finished
+[16039.10s -> 16046.14s]  revolver in a tattered page from the tomb of eternal darkness make it a journey into darkness
+[16058.65s -> 16063.93s]  did you seriously forget that you shat yourself earlier good call back to four and a half hours
+[16063.93s -> 16070.15s]  ago
+[16105.34s -> 16114.23s]  how long is the game i don't know i don't think it's that long your future depends on me majesty
+[16114.87s -> 16116.15s]  without me to open the gate
+[16130.82s -> 16149.72s]  and minutes longer than that i got my new book gone on this guy looks tiny the ancients influence
+[16149.72s -> 16154.52s]  13 hours according to how long to beat from all walks of life to all parts of the world
+[16155.24s -> 16163.88s]  their tendrils crept and wrought 1983 their prisons decayed constantly as their guardians work
+[16163.88s -> 16170.39s]  continued i discovered mention of a breakthrough in satellite radar imaging that revealed the
+[16170.39s -> 16177.83s]  presence of a hitherto unknown temple mound in the anchor tom region of cambodia an archaeologist
+[16177.83s -> 16185.51s]  of some repute dr edwin lindsey took it upon himself to investigate the area 1983
+[16187.72s -> 16193.48s]  unfortunately the local government at the time thought differently requiring that lindsey find
+[16193.48s -> 16201.08s]  other means into the country and to finance the expedition he found these in paul augustine a
+[16201.08s -> 16208.66s]  collector of rare items who professed an interest in the discovery and agreed to help after a
+[16208.66s -> 16214.74s]  dysentery riddled two-week venture lindsey and augustine located the remains of an ancient city
+[16214.74s -> 16220.87s]  temple this is like indiana jones back to the 12th century there's a bunch of traps in this one
+[16221.59s -> 16232.06s]  i mean that's just the guy from indiana jones on the right yes this is it it has to be
+[16233.02s -> 16237.58s]  oh i'm thinking of i'm thinking of the judge from uh the who frame roger rabbit
+[16238.14s -> 16245.50s]  i have searched for it without success oh that's it he's in that yeah no that's true
+[16251.34s -> 16275.03s]  it's mr x mr mr x before the roids i get him god
+[16276.60s -> 16287.21s]  haha you are a scholar dr lindsey not a warrior that regard i have several centuries more experience
+[16287.21s -> 16308.39s]  than you don't be a fool die quietly you cannot oh he's got oh he's it's it's augustine guardians
+[16308.39s -> 16324.92s]  of zelda kill him okay resin evil
+[16327.88s -> 16337.08s]  why would you aim there wait till he opens up okay wait till i shoot him in the stomach
+[16337.80s -> 16373.00s]  wait what's going on don't eat your stomach again please whoa where's this guardian sucks
+[16373.64s -> 16415.69s]  attack open open open dead okay finally jesus all right somebody just said this is just like
+[16415.69s -> 16435.22s]  your colonoscopy i'm reaching to try to find out what that means it's just like your colonoscopy
+[16436.02s -> 16455.86s]  a worn uh bronze dust get out of here wait i reveal invisible i have i have a broom
+[16456.50s -> 16467.05s]  oh i had all this other stuff i have a shotgun okay cool i don't have any spells oh i need to
+[16467.05s -> 16485.38s]  find the book first okay where do i go thick layer of dust obscures the there's the bronze
+[16485.38s -> 16502.06s]  bracelet pick it up hmm the lot that goes on in the chat the germa doesn't address
+[16503.80s -> 16521.61s]  uh it could be hard to address everything going on it's a hundred dollars we just gave a hundred
+[16521.61s -> 16529.70s]  bucks shangyi just gave ten thousand bits a hundred fucking bucks thank you for the
+[16529.70s -> 16538.07s]  hundred dollars internal fart internal fartness germa's rectum uh eternal fartness right well
+[16538.07s -> 16547.78s]  thank you for the hundred bucks dude seriously miss karim we all get consumed by the old gods
+[16548.89s -> 16560.97s]  hey they make a statue out of all of us there's another one here look derivus three more pedestals
+[16560.97s -> 16583.98s]  stop stepping on those faces they're in pain yeah all right let's do an invisibility check
+[16587.02s -> 16616.22s]  what would it be green or i don't know red it sounded like something opened use the sword
+[16616.22s -> 16629.74s]  what is it a kukri is there an explanation for why the characters know the spells well it's my
+[16629.74s -> 16636.34s]  understanding that these guys pick up the book and then they kind of just know everything because
+[16636.42s -> 16641.62s]  the book rocks their brain and it i guess i'm apparently walking through this without getting
+[16641.62s -> 16657.80s]  hurt okay it absorbs into your body and your brain and stuff and it gets uh give me that
+[16664.12s -> 16685.86s]  shit you're doing a real bad job stealing uh red i need red damage right put on the
+[16693.46s -> 16718.65s]  bass pro fishing it didn't work i love fishing games so i i can't move this guy
+[16719.29s -> 16729.45s]  now all right just stop getting hurt and go i'm a big fan of fishing games
+[16729.45s -> 16753.32s]  remember the pc fishing game it's got pre-fired i definitely want mana i'm so excited for tomorrow
+[16755.56s -> 16758.60s]  i am mentally preparing myself for tomorrow it's been so long
+[16759.80s -> 16767.10s]  i went into the green screen like three and a half months ago i cannot wait and i've been a good boy
+[16767.10s -> 16772.57s]  too i haven't watched anything i did initially i did i could help myself i watched a few things
+[16772.57s -> 16787.11s]  initially but i've been very very good what time tomorrow somewhere around 11 o'clock in the morning
+[16787.11s -> 16810.63s]  specific okay let's do this again i have another necklace okay let's go where is it where is it
+[16810.63s -> 16822.36s]  there it is you can't go back to fishing clinic as fortnight jimmy has not forgiven you unfortunate
+[16823.00s -> 16832.89s]  what about the bird watching stream yeah there's there are so many different things to do i just
+[16832.89s -> 16849.98s]  need to do them another bracelet is it a bad thing or a good thing just shoot at me hey what
+[16849.98s -> 16862.95s]  the fuck are you doing to give it back wait don't i have a shitty one
+[16876.78s -> 16883.50s]  all right i'll give it back fine i can't i can't somebody help me please
+[16885.26s -> 16893.83s]  well i gotta replace that with something is there a way to go
+[16894.47s -> 16922.66s]  you're my auto i just wait that way can you do the auto laugh does what does autos laugh the auto laugh
+[16935.40s -> 16964.50s]  what stop all right just put the knock him down i want that rune do the laugh what i don't he
+[16964.50s -> 16982.42s]  doesn't have a laugh the auto laugh i don't think what that means autos laugh oh okay when he goes
+[16982.42s -> 16994.62s]  like whatever right i can't just do that right now i can't i can't do that right now i'm just
+[16994.62s -> 17014.68s]  like chilling playing a game i can't just like start doing the auto laugh wait what's that funny
+[17014.68s -> 17049.91s]  man funny man funny man wait is that it's hiding there can i burn it burn it i said this chapter
+[17049.91s -> 17054.31s]  has a miserable ruin that you can end up not having for the rest of the game by the way
+[17054.31s -> 17075.03s]  oh god that's not good i want to use the brush man is that the one you got that the
+[17075.03s -> 17080.79s]  rune you're talking about dispel magic oh i can just spell magic on that guy now
+[17081.43s -> 17097.78s]  i gotta stand there this guy spell red shock and equip and reload it like what i can't just
+[17097.78s -> 17106.98s]  reload the gun i'm just preparing the guy's watching me prepare all this okay he's loading
+[17106.98s -> 17116.30s]  up the gun he's opening his spell book should i do anything about this or just stand i don't have
+[17116.30s -> 17146.81s]  the runes really use it whatever my head i lost a arm now i'm just the tofu from resident evil
+[17159.64s -> 17339.83s]  hold on give me one second i have to pee bad it's all good all right what do i need i need i need
+[17339.83s -> 17350.02s]  to get that necklace i need to have to dispel magic on that guy wait okay yeah my character
+[17350.02s -> 17357.48s]  freaked out all right dispel magic i don't have the fucking ruin right we save this for real so
+[17357.48s -> 17382.18s]  i don't ruin everything when i play this again great i tried to do that i'm not trying minus one
+[17382.18s -> 17391.59s]  i didn't say anything that wasn't funny even going back to fucking 1983 minus yeah yeah yeah
+[17391.59s -> 17395.03s]  cringe yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah yeah okay
+[17403.88s -> 17418.68s]  is that the ruin that i needed some where's the spell do spell a list spell magic
+[17420.84s -> 17435.96s]  netflix and red gormor i don't have that i have red gormor where's netflix netflix is this netflix
+[17450.42s -> 17454.76s]  you know what i would love for a video game it'd be so much fun if there was a game just
+[17454.76s -> 17462.25s]  about trying to avoid traps in a room like just make a game with this same character in the same
+[17462.25s -> 17468.79s]  environment but all the rooms are trapped and it's very clever you have to get no not like saw
+[17468.79s -> 17487.61s]  this ruin what do you need to put on here shit play minesweeper i don't want to play minesweeper
+[17499.03s -> 17513.98s]  vase wait what's this blue thing invisible blue invisible green invisible green right
+[17522.90s -> 17538.52s]  eliminate all the spider webs fuck did i miss the spider web back there
+[17539.24s -> 17568.09s]  i'm just looking at the ground i'm looking for webs oh no webs here right oh shit go back go back
+[17568.09s -> 17588.17s]  go back give me that bracelet just get hit by everything doesn't matter i can just heal instantly
+[17588.97s -> 17607.22s]  i can heal i'm gonna be fine okay let's go in here where the hell is it put the metal one on
+[17607.22s -> 17612.58s]  and then put that one on the it's gonna be a pain in the ass isn't it okay here we go all right
+[17613.22s -> 17635.54s]  give me it silver put the metal one on here okay good just a web i don't see a web
+[17636.18s -> 17644.01s]  those are bones oh that's a fucking web on the ground okay that looked i thought that was bones
+[17644.01s -> 17669.14s]  i don't know why no go back here there it is okay spell magic and i can put the silver
+[17669.14s -> 17674.82s]  bracelet on that lady's neck in the hallway down here and i can dispel magic on that guy
+[17675.78s -> 17692.50s]  so let's uh get a good save here what do you mean you can't use that now what
+[17695.66s -> 17716.09s]  i need four bracelets we wrote in all caps illegal emulator illegal that's illegal
+[17719.51s -> 17744.54s]  okay let's do dispel magic red give me that silver necklace pick it up shotgun this guy's so dead
+[17744.70s -> 17768.06s]  good yeah
+[17768.38s -> 17781.13s]  garage roll no sorry this is before every video game had that cool now i have the necklace go back
+[17781.13s -> 17800.76s]  here put the necklace on and maybe that'll open do not die here i'll go pop broad necklace gonna
+[17800.76s -> 17826.89s]  work thank god i don't have to get three more of these damn things illegal boot rune give me
+[17827.61s -> 17842.87s]  be clear the second cobweb that was on the first floor um i i don't know is that what this is
+[17844.12s -> 17868.63s]  minus one did i get it he's fine with cobwebs okay good shotgun back on so remind me again
+[17869.67s -> 17875.61s]  depending on what you pick depending what character or what color you pick that's the
+[17875.61s -> 17901.19s]  enemies that are in the game right yes wait really that's pretty cool yeah it is kind of cool the
+[17901.19s -> 17914.82s]  green is the most fun is it and just what order you get the color ruins i think oh okay
+[17915.70s -> 17921.70s]  green affects sanity more
+[17941.46s -> 17942.34s]  whatever i made it
+[17949.86s -> 17965.16s]  so swing swing swing swing swing why do i need to swing this is gold it's probably
+[17965.16s -> 17983.48s]  gonna say give that back right carrying something valuable i can't pick it up actually a car of
+[17983.48s -> 17988.74s]  granite a ceremonial temple guard appears to be keeping watch on the seated goddess in the
+[17988.74s -> 18012.97s]  corner of the room so how do i turn it like this it's not scary at all i got it i think it's on a
+[18012.97s -> 18030.66s]  timer you know i good i have another silver bracelet where's this one going what the hell
+[18031.30s -> 18037.08s]  it appears to be a hole in the wall but it is large enough for a small dog to pass through
+[18037.64s -> 18055.27s]  your shrinking spell i'm being poisoned i'm fucking around there
+[18058.84s -> 18079.83s]  turkey dick spell hey dispel uh blue just back away from this damn thing i need to dispel magic
+[18080.47s -> 18095.91s]  dispel magic red right what's the point of these enemies like i can't even get out of my game
+[18096.47s -> 18103.42s]  i can't even finish him because he's inside of this stupid thing he's inside of the wall
+[18103.98s -> 18117.14s]  all right dispel magic red right um i did not tell him to shoot the shotgun and he
+[18117.14s -> 18142.52s]  de-shot that was on his own marine is uh green is what i meant to do oh god i've got to dispel
+[18142.52s -> 18159.83s]  all these i don't even know where the hell they are oh basin font situated beneath the statue
+[18159.83s -> 18172.66s]  beside that an orb shaped button sits on a panel press the button yeah water smells like acid i
+[18172.66s -> 18193.51s]  have to put something in there to pick up uh i don't want to do it again what can i do with that
+[18194.89s -> 18210.44s]  do i have a cup i don't i don't i can't hold the acid in it i'm not gonna put my hand in the basin
+[18217.61s -> 18230.58s]  wait wrong way wins monkey ball very very very soon wait is this the wrong way
+[18230.58s -> 18245.83s]  okay oh wait is it i'm so identical this one it's this one right yeah super monkey
+[18245.83s -> 18255.91s]  ball is gonna i'm gonna probably 100% that game shit i stepped in the goddamn gas oh
+[18258.94s -> 18274.76s]  no no no no no no no i need uh shit run come on i'm not gonna get by it smash wait i just
+[18285.75s -> 18294.78s]  get off what the fuck is that what oh shit no when was it oh my goodness
+[18295.50s -> 18318.04s]  i gotta wait for the mana don't cheat the last save was like an hour and a half ago so i have to
+[18338.65s -> 18349.82s]  save scoundrel yeah i finally heal
+[18357.40s -> 18369.06s]  okay wait wait wait wait who i don't care i don't Jesus Christ the stupid fucking plate
+[18370.02s -> 18377.99s]  all right here we are no no no no no no no no no no all right i need to turn i need to use equip
+[18377.99s -> 18404.22s]  um even the shotgun okay what i cannot why can i do it you're gonna attack jupiter
+[18405.02s -> 18429.83s]  sorry to hear that all down already this guy is here there's a ghost under the bed in your house
+[18429.83s -> 18442.12s]  quick hit it with a knife okay dispel what color is it it's blue right it's not fucking green oh
+[18442.20s -> 18491.86s]  my god it's do it there's one more red where that is i have no idea this panel recess panel uh
+[18492.42s -> 18522.15s]  what did that do just run shotgun shells this feels like a trap why is this i feel like this
+[18522.15s -> 18532.39s]  is broken it was this trap or what i feel like there's gonna be a hammer at the end of this it's
+[18532.39s -> 18578.49s]  gonna hit me right in the fucking head that's so sad kill him all right watch out this guy seems to
+[18578.57s -> 18581.69s]  be very vocal about how scary it is the other ones weren't like this
+[18591.18s -> 18622.81s]  oh shit that's not a good place to save okay uh shotgun i shoot really god damn it
+[18622.81s -> 18659.30s]  dispel with blue stop cheating it's a game from 2002 you have to okay so that's open
+[18660.02s -> 18686.25s]  run run run run pop web oh yes finally i have okay oh that is the wrong that's the wrong one
+[18693.19s -> 18724.82s]  you get what you fucking deserve yeah kind of all right we'll just leave i can just shoot him
+[18724.82s -> 18761.00s]  actually just shoot him just actually shoot in the head good there it is it's like sliced meat
+[18761.00s -> 18768.54s]  don't do that shit again i have the necklace i have the bracelet i can open up the dumb door
+[18768.54s -> 18788.62s]  there's a door to open what do you want ever since ever since my parents died ever since they were
+[18788.62s -> 18799.78s]  killed wood pyramids plummeting i actually have to eat i'm fucking hungry
+[18800.98s -> 18805.22s]  i'm gonna have to stand up here in a little bit too we'll see what i get let me put these
+[18805.22s -> 18809.38s]  items down here and see what happens wait that was that was a hallucination that didn't happen
+[18814.82s -> 18840.60s]  is this germa pluto a new emote it's already an emote you already have it i don't want to go
+[18840.60s -> 18849.16s]  stay down here right i'm confused wasn't there another thing to put the necklace on
+[18867.35s -> 18882.55s]  so yeah like wasn't it like right here it's up and around maybe
+[18884.79s -> 18891.05s]  dissolve the thing in the acid yeah i could do that too right i don't know what this thing does
+[18896.89s -> 18907.74s]  some sliced turkey and shove it okay thank you i'm glad you said face i was a little
+[18907.74s -> 18912.95s]  concerned there for a minute all right here we go shit i can't put it on okay i have to dissolve
+[18912.95s -> 18934.58s]  this thing in acid all right the acid things back here okay here we go press the button
+[18935.48s -> 18944.18s]  dissolve it have you played this game for five hours um i don't know just kind of what i decided
+[18944.18s -> 18963.66s]  i was gonna do today i'm just chilling man this game is set in ohio i don't think this game is
+[18963.66s -> 18988.70s]  set in ohio why would you even say that all right where are we now that's just like kind of made me
+[18988.70s -> 18993.88s]  mad enough to turn the stream off i'm gonna be honest like i don't want to walk down the stairs
+[18993.88s -> 19018.50s]  again i prove it oh i will i will real soon don't you worry about it it's a big guy down there
+[19019.06s -> 19033.51s]  that's a new monster what the hell is that all right we need to do uh green right
+[19034.47s -> 19053.38s]  you can't green the red guy all right here we go you can't green shotgun blue beats red
+[19053.94s -> 19078.25s]  okay now reload it and blow his head off i've had about enough fucking you
+[19084.78s -> 19124.92s]  oh he's dead oh okay no more tricks right i know i'm just trying to go all right i know what i'm
+[19124.92s -> 19159.59s]  not supposed to be doing that oh shit no no save the gun he's getting angry i think he's getting
+[19159.59s -> 19174.23s]  hungry i'm honest pizza no no no no no no pizza no no no it's got to be healthy it's got to have
+[19174.23s -> 19213.42s]  at least 10 turkey 10 tuna 10 mayonnaise uh uh i thought that was him saying that for one second
+[19216.22s -> 19237.88s]  get squished get sandwiched please yes i'm smarter than you oh shit oh no enchant with green quick
+[19253.27s -> 19260.90s]  blue ike why it's because it's christmas colors that's why it's it's got me messed up the whole
+[19260.90s -> 19301.86s]  time it's red and green red and green christmas christmas santa santa santa i'm gonna fucking
+[19301.86s -> 19324.23s]  eat this controller i turned around can we please please fall down why do you have to finish every
+[19324.23s -> 19358.17s]  single fucking enemy what are you looking at okay yeah it's a nice hieroglyphics on the wall all
+[19358.17s -> 19369.70s]  right it's time to eat i i'm gonna get out of here you can call me a cheater all you want it's all
+[19369.70s -> 19376.12s]  right i'm gonna save the game really get a lungo that was three hours and okay that was a full
+[19376.12s -> 19382.70s]  almost hour and 20 minutes past yeah it's probably time for me to go anyways i really
+[19382.70s -> 19402.68s]  want to try to stay under this like five to six hour mark the bugs all over the screen if i could
+[19402.68s -> 19425.75s]  just run if i could hit by every single trap i'm gonna die please it's ruining there i'm not dead
+[19425.75s -> 19451.66s]  i'm alive who's dead i'm doing just fine somebody said why save when you are never going to play
+[19451.66s -> 19467.78s]  this again you don't know that you don't know if that's true or not you don't know that omega
+[19468.18s -> 19473.85s]  yes we do no you don't know that you don't know it's it's no no you don't get away from me
+[19473.85s -> 19480.47s]  no you don't have you have no idea beautiful joe i played beautiful yeah but i've only played it
+[19480.47s -> 19499.75s]  for like an hour no i'm not i'm gonna just hold on i'm not done yet i don't know what i just did
+[19509.30s -> 19518.04s]  if i don't get by one thing i get a thousand dollars i'm trying to make it so nobody has
+[19518.04s -> 19535.82s]  to give me a thousand dollars like please okay good cutscene cutscene i'm a trapper spell scroll
+[19535.82s -> 19552.30s]  what summon trapper i do it right now summon a green trapper
+[19555.10s -> 19563.27s]  there we go there's like a little shit wait after trappers been summoned press a to trap an enemy
+[19563.27s -> 19570.47s]  it's targeted wait what i think are release control the trapper trappers cannot open doors
+[19574.33s -> 19587.83s]  oh i'm the little guy are they all they're all exploding at the same time they're all gonna
+[19587.83s -> 19616.28s]  see you guys tomorrow tomorrow's green screen dlc movie night we've been waiting a long time for
+[19616.28s -> 19628.95s]  this one 11 a.m to 12 it's probably gonna go for at least five or six hours it's it's at least three
+[19628.95s -> 19633.51s]  or 400 videos it's gonna have to probably be over the course of two or three different days
+[19634.57s -> 19641.34s]  i cannot wait i'm so excited for it it's gonna be tons of fun the last two times we've done this
+[19642.86s -> 19648.97s]  tears have been streaming down my face so i cannot imagine it'll be any different
+[19648.97s -> 19654.86s]  see you tomorrow let's roll the credits thanks we had some community subs that i missed we had
+[19654.86s -> 19660.06s]  five from forlitty and 10 now i got professor richard cheese i missed forlitty deal thank you
+[19660.62s -> 19672.58s]  thanks a lot guys we'll see you soon tomorrow more specifically let's put the uh
+[19674.02s -> 19680.90s]  let's get those credits rolling what do you say dudes please tell me i didn't break it
+[19680.90s -> 19694.02s]  did i break it i didn't break it yes yes thanks for the subs guys what am i going to do go to
+[19694.02s -> 19700.74s]  the dentist on stream what you should have said is when am i going to be a dentist on stream
+[19701.54s -> 19719.98s]  and work on a pretend patient pretend we know you're an irl dentist you're promising too many
+[19719.98s -> 19727.08s]  streams i actually was talking to this about uh exactly what you're describing so the guy that
+[19727.08s -> 19731.32s]  does a lot of the producing work and who is essentially coming on as somebody they can help
+[19731.32s -> 19739.22s]  to do a bunch of the projects with me we talk a couple times a week and what unfortunately what
+[19739.22s -> 19744.79s]  was happened is with the coronavirus all these things that keep coming up and all these ideas
+[19745.43s -> 19753.38s]  they're all being worked on they just can't happen right now and over the in the next probably few
+[19753.38s -> 19759.38s]  months next three or four months there's going to be a lot of streams that are just going to be done
+[19759.38s -> 19765.56s]  and ready to go when this shit is under control so it's going to be back to back to back to back
+[19765.56s -> 19770.46s]  there's going to be probably three or four huge streams in a row because they're all have already
+[19770.46s -> 19780.36s]  been worked on they're all done the last three four months when you hear about a stream that's
+[19780.36s -> 19786.22s]  like hey i'm gonna do this i'm gonna do that let me the bird the bird stream that may may or may
+[19786.22s -> 19791.11s]  may or may not have already been worked on and is being looked into with a bunch of other ones too
+[19794.63s -> 19798.97s]  and he's like he was laughing about he's like yeah you kind of do have a bunch of stuff that
+[19798.97s -> 19804.68s]  you're gonna just dump back load on everybody because it can happen like three or four times
+[19804.68s -> 19814.76s]  in a row i'm like yeah that's fine when's the slime stream you'll know i'm not going to tell
+[19814.76s -> 19827.75s]  you who it is i'm not going to tell you where they stream but i'll give you a hint yeah we'll
+[19827.75s -> 19834.38s]  see you tomorrow uh it's going to be an exciting day i cannot wait i'm looking forward to it more
+[19834.38s -> 19841.02s]  than anything i'll see you guys tomorrow have a great night

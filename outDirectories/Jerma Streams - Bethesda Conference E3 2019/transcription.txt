@@ -1,0 +1,1765 @@
+[1.21s -> 7.50s]  I'll put it on the screen so you don't miss anything. Where is it? Where is it? Okay, come on. Go go go go go go go go go go go
+[9.16s -> 30.09s]  I can't miss this and then it's in bed. Did it work? All right. Just you watch that. I'll be right back
+[30.09s -> 57.11s]  I gotta pee. Why is it doing this? Is it broken? Wrong stream? Which is it just Bethesda?
+[73.37s -> 77.48s]  Oh my god, just give me this. All right. I'll be right back. Just just relax. I'll be right back.
+[83.98s -> 86.46s]  Okay, I got something. I got something. Do it. Do it.
+[87.42s -> 93.34s]  Bethesda seems they've done a good job at sometimes like pulling these surprises out, right?
+[93.34s -> 99.02s]  Even fallout 76 I think was like kind of a surprise. What if we saw a Bethesda who has a
+[99.02s -> 107.50s]  many awesome worlds? What if we saw Bethesda auto chess? Wow, that was really... I think
+[107.50s -> 112.06s]  this is serious. We're apparently less than a minute so your final thoughts. We're just
+[112.06s -> 119.30s]  naming games we enjoy and asking Bethesda. Can you make Pokemon snap Bethesda, please?
+[119.30s -> 126.26s]  A shinder made by Bethesda. Wishing well. I want Rio to start just off. Wow, Bethesda.
+[127.96s -> 133.96s]  I think we'll find Elder Scrolls online. What? Yeah, we'll see a little bit more about that.
+[133.96s -> 141.48s]  They released earlier their lineup for this year. Even within three. Be together.
+[142.12s -> 148.28s]  That is what we are about to be for the Bethesda E3 showcase right here E3 on Twitch. It is day
+[148.28s -> 154.60s]  one 2019. We still have so much coming at you this entire week. We hope that you'll enjoy
+[154.60s -> 157.64s]  this next press conference. We'll be back afterwards for the post-press conference
+[157.64s -> 161.00s]  or we won't. You'll be with Drop Frames. You'll find out when that actually happens.
+[161.00s -> 164.92s]  Don't forget we also got Devolver and the pre-free show. Ladies and gentlemen,
+[164.92s -> 169.32s]  enjoy the next press conference of day number one. But don't forget we have just got started.
+[169.32s -> 225.70s]  It is time now for Bethesda. There is no game without the players. Really, it all comes down
+[225.70s -> 234.58s]  to you. There is no game. There's no one to play it. No one to interact with it.
+[236.42s -> 247.19s]  Keep us in check. And we appreciate that. And through all of it, you're always there with us.
+[248.47s -> 252.07s]  Damn it, man. I pissed all over the toilet. I had to clean it up. It was bad.
+[253.03s -> 256.30s]  I fucking, it was out of control. It wouldn't stop.
+[268.82s -> 272.10s]  I used to take a week off every time Bethesda game came out.
+[272.10s -> 275.14s]  My name is Mark Diaz and when I was eight years old, I used to sneak over to my
+[275.14s -> 280.46s]  buddy's house to play Doom. I'm Rich Lambert. Daggerfall was one of the very first games
+[280.46s -> 284.54s]  that got me into the Elder Scrolls world. I'm Dana Christo and I started out as a
+[284.54s -> 287.74s]  16-year-old gamer who just wanted to bring joy to others through video games.
+[288.70s -> 292.86s]  And now I'm game director at Arkane Studios. Now I'm a game programmer anywhere.
+[292.86s -> 297.50s]  Now I get to be a part of building that world as the creative director on Elder Scrolls Online.
+[297.50s -> 301.26s]  Now I'm a UI programmer at Bethesda Game Studios and it's everything I could have dreamed of.
+[302.22s -> 309.74s]  I see you. I see you. I see you. We see you because we are you. And together. Together.
+[309.74s -> 312.86s]  Together. We are all. We are all.
+[312.86s -> 326.82s]  It's our Andrew W.K. Party, party, party, it's time. Right?
+[355.99s -> 357.19s]  This is not Awkward Teen.
+[359.43s -> 362.39s]  That is our, yeah, that is like the Andrew W.K. Awkward Teen.
+[366.22s -> 377.21s]  Too loud. I got you. I got you. I got you.
+[377.77s -> 394.42s]  That was three games. Yes. Thank you. One of them nobody likes.
+[396.18s -> 398.73s]  Here he comes. Oh.
+[421.53s -> 427.11s]  Yeah. Thank you guys for being here. Thank everyone watching around the world
+[427.11s -> 429.99s]  to tuning in to watch our fifth annual E3 showcase.
+[431.11s -> 438.60s]  You're welcome. We're here for you. This is a night dedicated to those who love games,
+[438.68s -> 441.24s]  who love the incredible entertainment that games provide.
+[441.80s -> 445.48s]  This past year you fought demons on Mars and Nazis in America.
+[446.20s -> 454.74s]  You were assassins in the Empire, adventurers in Tamriel, and survivors in the wasteland.
+[457.14s -> 461.54s]  And you've embarked on these amazing adventures on PC, console, VR, mobile,
+[461.54s -> 467.06s]  or wherever and however you choose to play. And that's the key. You take the worlds that
+[467.06s -> 472.66s]  we create and you make them yours. You share your experiences with other players, with
+[472.66s -> 478.90s]  friends and with family. With our games you've built large global communities that truly matter.
+[479.62s -> 483.94s]  This year we want to give special recognition to the extraordinary Bethesda community.
+[483.94s -> 487.86s]  As you showed, as you saw in our opening video, you mean everything to us.
+[488.58s -> 492.98s]  I've almost been at this company for 20 years. And when I first started.
+[493.70s -> 496.66s]  I do? Oh, I mean, I mean everything.
+[497.70s -> 509.90s]  First started, one of my first responsibilities was moderating the community forums, chatting with
+[509.90s -> 514.46s]  you and keeping you up to date on our games. It was a great way to start my career at Bethesda
+[514.46s -> 519.10s]  because it was the perfect reminder of why we do what we do. And like so many others at
+[519.10s -> 522.78s]  Bethesda, I've spent a lot of time with you at events around the world. Is that him?
+[522.78s -> 525.82s]  I've enjoyed meeting so many of you. Is that him from like 20 years ago?
+[525.90s -> 527.18s]  Oh, first, all right, never mind.
+[527.18s -> 528.14s]  Taking time throughout the show,
+[528.14s -> 531.90s]  let's do what I used to do in the Bethesda community.
+[531.90s -> 536.46s]  We are thrilled tonight to show our fans the lineup of great games we've been creating
+[536.46s -> 542.46s]  just for you, including the premiere of some exciting new games. And we'll go deep on Doom
+[542.46s -> 554.66s]  Eternal. Stop cheering. They didn't see anything yet. So if you're ready, let's show you
+[554.66s -> 557.62s]  like a screenshot of concrete. And he's still going to cheer.
+[557.62s -> 561.06s]  One of the most celebrated development studios in the world, Bethesda Game Studios.
+[561.06s -> 564.66s]  Please welcome studio head and my good friend, Todd Howard.
+[565.62s -> 570.87s]  I don't know. I can't even look at him. I can't even look at the screen.
+[571.75s -> 577.48s]  Is he there? Is he there yet? Tell me when he's there.
+[578.28s -> 585.22s]  Thank you. Great to see everybody.
+[585.22s -> 585.72s]  Hey, Todd.
+[586.82s -> 591.06s]  We have had an incredibly exciting year at Bethesda Game Studios.
+[592.02s -> 594.82s]  Given some of that excitement, impressed you're still here.
+[599.67s -> 606.74s]  Actually, over the last year, we've had over 60 million players in our games.
+[608.74s -> 609.78s]  And it's all of you.
+[618.54s -> 625.66s]  It's all of you who have made these worlds what they are. Take Fallout 76.
+[626.30s -> 632.12s]  All right. This is a good one.
+[633.51s -> 638.79s]  A type of game we'd never done before. Had a lot of difficulties at launch.
+[640.86s -> 641.66s]  Like this.
+[641.66s -> 643.90s]  A lot of well-deserved criticism.
+[651.54s -> 656.90s]  And you kept playing it. And through all of that, something amazing has happened.
+[656.90s -> 663.78s]  It's thanks to all of you. This game has one of the best online communities we've ever seen.
+[664.34s -> 667.94s]  It's me, my mom, my grandma.
+[667.94s -> 669.22s]  And everybody's nice to each other.
+[671.42s -> 673.66s]  They don't go on killing griefing sprees.
+[673.66s -> 676.38s]  They leave food and water for the newbies and wave to each other.
+[676.38s -> 677.18s]  I don't know about you.
+[678.46s -> 680.33s]  Come on. Come on.
+[681.37s -> 682.81s]  I paid good money for these seats.
+[683.93s -> 691.45s]  We're in store this year for Fallout 76.
+[691.45s -> 696.73s]  But first, our latest game, The Elder Scrolls Blades, is in early access.
+[696.73s -> 701.05s]  And thanks to all of you, it became our second straight
+[701.05s -> 703.93s]  number one mobile game after Fallout Shelter.
+[703.93s -> 705.05s]  Absolutely incredible.
+[705.05s -> 707.29s]  This is the only game I've ever played in my life.
+[707.29s -> 709.53s]  I'm not kidding. This is a full, real statement.
+[710.65s -> 715.37s]  Within 25 minutes, the iPad hit me almost in the face because I fell asleep.
+[717.61s -> 719.37s]  I fell asleep playing the game.
+[719.37s -> 720.57s]  I actually went to bed.
+[720.57s -> 724.49s]  Like I passed out asleep and the iPad went like right on my bed.
+[726.09s -> 727.29s]  I've never done that before.
+[728.73s -> 729.69s]  It's really good sleeping.
+[730.65s -> 733.69s]  And thanks again to all of you for making Blades number one.
+[733.69s -> 734.81s]  I didn't even get past this tutorial.
+[734.81s -> 737.13s]  Someone who's worked on The Elder Scrolls for 20 years.
+[737.13s -> 738.49s]  It might be good. I don't know.
+[738.49s -> 742.01s]  To bring this world to your friends in an all new way.
+[742.01s -> 746.33s]  We still love those classic dungeon crawlers and it's clear you do as well.
+[746.89s -> 749.77s]  And whether you're exploring a dungeon or rebuilding your town,
+[749.77s -> 751.85s]  it's great to be able to do it wherever you are.
+[752.41s -> 756.01s]  Since it's E3, we're releasing our biggest update yet.
+[756.01s -> 758.97s]  Featuring all new jobs and solo arena battles.
+[758.97s -> 761.93s]  Jobs? We're getting more jobs here.
+[762.89s -> 765.69s]  And a brand new dragon quest line.
+[765.69s -> 769.29s]  What we understand is the unemployment rate in The Elder Scrolls Blades
+[769.29s -> 771.05s]  is by far the lowest it's ever been.
+[772.25s -> 776.01s]  It has even more, but best of all, it's coming out tonight.
+[780.55s -> 784.39s]  So download free tonight and give it a try.
+[786.07s -> 789.67s]  And we're also hard at work on our arena mode for this fall.
+[789.67s -> 794.31s]  We'll feature PvP, your own guilds, and visiting your friends' towns.
+[794.31s -> 798.87s]  But most exciting this year, we're also bringing Blades to an all-new platform.
+[798.87s -> 799.59s]  Switch Blades.
+[808.82s -> 809.78s]  That's, who cares?
+[814.78s -> 818.06s]  If you don't have a phone, you know what I mean?
+[818.06s -> 820.38s]  If you were going to play this, you would have played it on your phone.
+[820.38s -> 822.14s]  Everybody has a phone. What, you guys don't have phones?
+[827.90s -> 841.14s]  Right? Is this the new Skyrim?
+[841.14s -> 842.50s]  Are they going to release this like 12 times?
+[842.50s -> 845.06s]  Blades is coming this fall to the Nintendo Switch.
+[845.06s -> 846.66s]  And yes, it's still free.
+[848.70s -> 849.74s]  Thank god.
+[849.74s -> 853.10s]  If it was money, I would have been upset about that.
+[853.10s -> 858.22s]  For the Switch, you can play on the go, on your TV, and with motion controls.
+[858.22s -> 862.14s]  But best of all, it's cross-play and cross-progression with the mobile version.
+[862.14s -> 862.54s]  So you can...
+[864.63s -> 866.63s]  People are real fucking excited about this.
+[866.63s -> 869.75s]  So you can start tonight on mobile and all your progress will carry over.
+[869.91s -> 873.91s]  And it's viable here in our booth and Nintendos.
+[873.91s -> 874.39s]  Yeah.
+[874.39s -> 876.31s]  Between my iPhone and my Switch.
+[877.67s -> 880.23s]  Oh, help. Somebody help.
+[882.39s -> 886.31s]  We also have some special rewards for both our Apple and Google players this week.
+[886.31s -> 887.67s]  They're paid actors.
+[887.67s -> 889.11s]  And let us know what you think.
+[889.11s -> 889.67s]  Thanks again.
+[895.54s -> 900.82s]  Now, let me introduce Jeff and Tom to tell you what's coming to Fallout 76.
+[902.26s -> 912.86s]  There are some really excited people here.
+[913.74s -> 915.98s]  Hi, I'm project leader Jeff Garter.
+[915.98s -> 918.06s]  And I'm co-studio director Tom Mustaine.
+[919.10s -> 922.30s]  On behalf of everyone at Bethesda Game Studios,
+[922.30s -> 924.62s]  we want to thank the millions of you who have played with us,
+[925.18s -> 929.02s]  stuck with us, and helped shape the world of Fallout 76.
+[930.46s -> 934.14s]  Absolutely.
+[934.78s -> 937.74s]  It's incredible what the game has become.
+[937.74s -> 941.90s]  You've told us how much you've loved this year's updates so far.
+[941.90s -> 945.42s]  From camp building, legendary weapons, player vending,
+[945.42s -> 947.58s]  and of course, the dreaded Sheep Squatch.
+[948.94s -> 949.42s]  Sheep Squatch.
+[949.42s -> 952.94s]  We've also been working on our biggest update yet.
+[952.94s -> 954.62s]  It's called Wastelanders.
+[955.42s -> 958.22s]  And it will fundamentally change the game.
+[959.58s -> 961.34s]  All I remember is Rick and Morty played this.
+[962.22s -> 962.62s]  That's it.
+[962.62s -> 965.34s]  I don't know anything else about this.
+[965.34s -> 966.94s]  76 opened its door.
+[967.66s -> 970.06s]  This is like a Rick and Morty play this game.
+[970.06s -> 972.30s]  We all discovered that Appalachia isn't quite what it used to be.
+[972.30s -> 973.10s]  I'll get out of the way.
+[973.10s -> 975.18s]  We encountered a lot of things.
+[975.34s -> 976.94s]  Some people are interested.
+[976.94s -> 979.58s]  Overcame a lot of things.
+[980.54s -> 986.38s]  I don't think any of us expected for people to actually come back.
+[987.26s -> 989.02s]  Are you from that vault?
+[989.98s -> 990.78s]  Can you help us?
+[992.30s -> 995.02s]  We've traveled pretty far.
+[995.74s -> 998.20s]  I heard there's hope here in Appalachia.
+[999.32s -> 1000.60s]  Folk rebuilding.
+[1000.60s -> 1001.64s]  I mean, nobody cares?
+[1003.98s -> 1005.18s]  We'll fight too.
+[1005.18s -> 1007.42s]  What, do you think this is like a giant astroturf?
+[1008.38s -> 1010.73s]  Didn't you say there was like a million players?
+[1011.29s -> 1014.04s]  We've been seen everything.
+[1014.92s -> 1017.64s]  And the one thing we've learned is this.
+[1017.64s -> 1021.56s]  You got to claim the wasteland before it claims you.
+[1022.84s -> 1027.02s]  Question is, are you with us?
+[1028.30s -> 1028.78s]  With them.
+[1037.46s -> 1041.46s]  You guys think this pumped in crowd sounds?
+[1048.62s -> 1049.90s]  No, no, it's not.
+[1049.90s -> 1052.70s]  Human NPCs are coming to Fallout 76.
+[1055.02s -> 1056.25s]  Heck yeah.
+[1058.01s -> 1065.61s]  Not just NPCs, but a full quest line, new rewards, and as you saw, full dialogue trees.
+[1067.05s -> 1073.35s]  This is a long-term story we're telling.
+[1073.35s -> 1078.47s]  Year one was about the vault doors opening and all of you settling the wasteland.
+[1078.47s -> 1081.67s]  Year two is about people coming back to reclaim it.
+[1082.47s -> 1086.87s]  Like previous Fallout games, these characters have their own stories and goals.
+[1086.87s -> 1091.03s]  It's up to you to choose how to interact with them and live with those consequences.
+[1091.83s -> 1097.43s]  The Wastelanders update is coming this fall and will be free for all Fallout 76 players.
+[1098.31s -> 1098.55s]  Fall?
+[1099.59s -> 1100.94s]  That's kind of a ways away.
+[1105.64s -> 1109.40s]  And in the spirit of free, we're doing something special just for E3.
+[1109.96s -> 1114.60s]  Fallout 76 is going to have a free trial for everyone starting tomorrow.
+[1114.60s -> 1116.20s]  It's free for a week.
+[1117.83s -> 1120.79s]  And let me tell you what we're doing with Fallout 76.
+[1120.95s -> 1124.95s]  It's going free for one week.
+[1124.95s -> 1127.19s]  And it's growing community have become.
+[1127.19s -> 1129.27s]  We can't wait to welcome all of you.
+[1130.07s -> 1133.91s]  And because so many of you are going to be joining us,
+[1133.91s -> 1138.87s]  we thought we'd also give you a sneak peek this week at an all-new game mode.
+[1138.87s -> 1139.43s]  Check it out.
+[1149.90s -> 1152.62s]  Your first test was making it to the vault.
+[1152.62s -> 1154.46s]  Now, your real trial begins.
+[1155.82s -> 1156.54s]  I wouldn't be surprised.
+[1157.50s -> 1158.78s]  Here are vault 51.
+[1159.74s -> 1166.55s]  Perhaps you will be the one nuclear winter.
+[1166.55s -> 1169.83s]  We are in serious need of leadership.
+[1169.83s -> 1173.11s]  So I have devised a unique process.
+[1176.79s -> 1181.59s]  A battle to the death is the only sure way to judge the superior candidate.
+[1183.19s -> 1186.07s]  This should prove interesting.
+[1189.43s -> 1200.15s]  This is what we call in the industry, a pivot.
+[1201.11s -> 1243.05s]  There could only be one overseer.
+[1244.41s -> 1244.97s]  Good luck.
+[1251.86s -> 1255.70s]  Fallout 76 pivoted to a PR game mode.
+[1257.14s -> 1260.50s]  Just like Fortnite, it'll probably be the only thing that anyone plays.
+[1260.50s -> 1264.02s]  We put a battle royale in Fallout 76.
+[1264.02s -> 1266.25s]  How do they censor and stuff?
+[1266.25s -> 1269.93s]  Nuclear winter is a battle royale born from the Fallout universe.
+[1269.93s -> 1271.61s]  From power armor to perk cards.
+[1271.61s -> 1274.97s]  From camp building to contending with wasteland creatures.
+[1274.97s -> 1277.77s]  And of course, my personal favorite, nukes.
+[1279.05s -> 1282.89s]  It's a great free addition to an already huge game.
+[1282.89s -> 1285.05s]  We love playing it and we think you will too.
+[1289.37s -> 1290.41s]  That guy wasn't excited.
+[1290.41s -> 1291.77s]  That guy got burnt.
+[1291.77s -> 1294.25s]  So he dropped the cigarette on his lap.
+[1295.21s -> 1299.37s]  Remember all of Fallout 76, including nuclear winter,
+[1299.37s -> 1301.61s]  is free to try this week.
+[1301.61s -> 1304.57s]  Somebody took their bare feet, took their shoes off,
+[1304.57s -> 1307.13s]  put their ice cold bare feet on that guy's back.
+[1310.62s -> 1311.58s]  Jump in tomorrow.
+[1311.58s -> 1313.18s]  We can't wait to see you.
+[1313.18s -> 1313.74s]  Thanks again.
+[1315.50s -> 1317.80s]  Fucking PR mode.
+[1318.60s -> 1327.13s]  Everything we've talked about that's coming this year is free.
+[1327.13s -> 1327.93s]  I like that jacket.
+[1327.93s -> 1332.57s]  We get to represent hundreds of passionate developers across
+[1332.57s -> 1336.65s]  four studio locations in North America working on multiple projects.
+[1337.21s -> 1340.89s]  Yes, we're still hard at work on our next-gen RPG, Starfield.
+[1341.61s -> 1344.09s]  And of course, Elder Scrolls 6.
+[1349.88s -> 1355.32s]  We know how precious these game worlds are to all of you.
+[1355.32s -> 1356.20s]  And they are to us.
+[1356.84s -> 1360.04s]  We know the time you spend in them is important.
+[1360.60s -> 1364.44s]  Keep telling us what you love, what you'd like to see us do better.
+[1364.44s -> 1367.16s]  Thank you again, everybody, for your support.
+[1367.16s -> 1371.40s]  But really, even more so, I want to thank everybody for believing in us.
+[1371.40s -> 1371.80s]  Thank you.
+[1373.24s -> 1374.04s]  Is that the end?
+[1376.73s -> 1377.13s]  Is that the end?
+[1377.13s -> 1382.22s]  Please welcome the Foul Gameworks, Mr. Shinji Mikami.
+[1383.29s -> 1387.78s]  I was going to say that's not very good.
+[1400.92s -> 1401.88s]  What's Tango Gameworks?
+[1402.44s -> 1403.00s]  What do they do?
+[1403.72s -> 1407.64s]  I'd like to start by greeting my team in Tokyo.
+[1407.64s -> 1408.60s]  Tango Gameworks.
+[1408.60s -> 1409.24s]  What do they make?
+[1409.24s -> 1412.60s]  It's Monday morning there, but they are watching.
+[1412.60s -> 1413.24s]  Evil Within.
+[1416.50s -> 1417.06s]  Evil Within.
+[1420.95s -> 1425.59s]  I am not a big fan of that game.
+[1425.59s -> 1429.35s]  I am excited to announce the next game from Tango.
+[1431.37s -> 1433.61s]  Ghostwire, Tokyo.
+[1433.61s -> 1434.17s]  Ghostwire.
+[1436.18s -> 1436.58s]  Hold on.
+[1436.58s -> 1438.34s]  Wait, we got something.
+[1438.34s -> 1438.90s]  This is new.
+[1439.54s -> 1440.10s]  This is new.
+[1441.30s -> 1442.10s]  Hold your judgments here.
+[1442.10s -> 1443.30s]  Hold on.
+[1444.26s -> 1449.54s]  It is an action-adventure game in which you will fight paranormal enemies
+[1450.18s -> 1452.98s]  and rid the city of supernatural evil.
+[1454.02s -> 1455.86s]  I think you'll love it.
+[1455.86s -> 1456.10s]  Okay.
+[1457.38s -> 1464.38s]  That guy definitely has a camera pointed at him.
+[1464.38s -> 1465.42s]  I'm going to upload it later.
+[1465.42s -> 1467.10s]  Ghostwire, Tokyo.
+[1467.10s -> 1469.50s]  Here is creative director at Tango.
+[1474.34s -> 1474.90s]  Come on.
+[1475.86s -> 1477.22s]  This ain't even Cox doing this.
+[1477.22s -> 1478.42s]  This is just a bad feed.
+[1480.41s -> 1481.13s]  All right.
+[1481.21s -> 1481.61s]  Let's see.
+[1481.61s -> 1482.97s]  I'm intrigued.
+[1484.17s -> 1484.97s]  I'm very intrigued.
+[1486.57s -> 1487.77s]  I'm very intrigued about this.
+[1506.31s -> 1506.87s]  It's hard to do.
+[1507.51s -> 1510.76s]  It's hard to do.
+[1522.36s -> 1524.52s]  People are vanishing in Tokyo.
+[1525.48s -> 1526.92s]  You must find out why.
+[1528.92s -> 1529.40s]  Spooky.
+[1533.40s -> 1536.52s]  You have to explore the world.
+[1537.40s -> 1541.88s]  Face challenges to uncover the truth and save humanity.
+[1543.32s -> 1548.36s]  In the game, you will meet spirits, some dangerous, some peaceful,
+[1548.92s -> 1553.56s]  and survivors that each have their own stories.
+[1555.00s -> 1556.84s]  You will need to ask yourself.
+[1557.80s -> 1560.04s]  It is normal or paranormal.
+[1560.92s -> 1561.64s]  This is Men in Black?
+[1562.92s -> 1563.64s]  This is Men in Black.
+[1563.64s -> 1567.24s]  The aliens are among us and you have to find out who's an alien or who's a ghost.
+[1567.24s -> 1568.52s]  I just missed a really good joke.
+[1572.92s -> 1574.92s]  We are very excited.
+[1574.92s -> 1576.28s]  Let's take a look.
+[1577.24s -> 1578.12s]  Thank you.
+[1578.12s -> 1582.63s]  Let's take a look.
+[1582.63s -> 1630.41s]  What happened?
+[1631.05s -> 1634.62s]  Was it the rapture?
+[1635.42s -> 1662.95s]  That was pretty cool.
+[1663.59s -> 1683.86s]  Don't fear the unknown.
+[1684.50s -> 1685.45s]  Attack it.
+[1698.23s -> 1698.87s]  I'm interested.
+[1699.59s -> 1700.87s]  That looks different.
+[1700.87s -> 1701.59s]  Looks interesting.
+[1705.16s -> 1706.52s]  No gameplay or anything.
+[1706.52s -> 1708.36s]  I work as a mechanical engineer.
+[1708.36s -> 1709.40s]  I work in a hospital.
+[1709.40s -> 1710.36s]  I used to work with kids.
+[1710.36s -> 1711.16s]  Interesting concept.
+[1711.16s -> 1712.20s]  I'm an electrician.
+[1712.20s -> 1713.40s]  I'm an event planner.
+[1713.40s -> 1716.44s]  In real life, I'm a systems administrator.
+[1716.52s -> 1720.92s]  Program assistant for a private school for children with autism.
+[1720.92s -> 1721.96s]  I'm trying to be an artist.
+[1721.96s -> 1723.88s]  I like to think of myself as one.
+[1724.52s -> 1727.32s]  Make like back-end systems that it's really fun.
+[1727.32s -> 1728.04s]  I'm a streamer.
+[1728.92s -> 1729.56s]  I'm a streamer.
+[1729.56s -> 1730.52s]  Maybe permanently or temporarily.
+[1730.52s -> 1731.80s]  I'm a full-time streamer.
+[1731.80s -> 1733.40s]  I got a YouTube channel.
+[1733.40s -> 1734.52s]  I make my own yarn.
+[1734.52s -> 1735.96s]  I'm a social worker.
+[1735.96s -> 1737.48s]  Teaching inmates.
+[1737.48s -> 1738.52s]  I'm a game developer.
+[1738.52s -> 1739.96s]  Working at a video game cafe.
+[1739.96s -> 1742.36s]  I've been a Doom fan since the game came out.
+[1742.36s -> 1746.28s]  I remember being in the eighth grade and a buddy of mine gave me the shareware demo
+[1746.28s -> 1749.00s]  on three and a half inch floppy disks.
+[1749.00s -> 1753.88s]  My older brother picked up Fallout 3 and I took his copy and played it when he wasn't home.
+[1753.88s -> 1754.52s]  Fallout 4.
+[1756.44s -> 1757.72s]  Oh, it was in Boston.
+[1757.72s -> 1758.28s]  I like Boston.
+[1758.28s -> 1762.36s]  The scope of that game was just like a lot bigger than things I was used to.
+[1762.36s -> 1767.48s]  Just setting foot in Shimmering, the first city that you go to in Somerset,
+[1767.48s -> 1769.56s]  it was amazing.
+[1769.56s -> 1772.04s]  You would look out and you'd be like, oh, I want to go there.
+[1772.60s -> 1775.72s]  And then you could go there, which was wild.
+[1775.72s -> 1776.76s]  Go out into the world.
+[1776.76s -> 1778.76s]  Just go in any direction that you want to go.
+[1778.76s -> 1782.36s]  The exploration and the weirdness and the alienness of it.
+[1782.36s -> 1783.32s]  I played Oblivion.
+[1783.32s -> 1785.32s]  I tell you, it probably saved my life.
+[1785.32s -> 1789.96s]  It was one of my first experiences with a fantasy world that was that immersive.
+[1790.76s -> 1791.56s]  Love the dragons.
+[1791.56s -> 1792.60s]  Gather the dragons.
+[1792.60s -> 1795.40s]  When you take down a dragon, you can definitely take down any illness.
+[1796.12s -> 1798.76s]  Don't ever stop adding dragons to your game.
+[1798.76s -> 1800.12s]  Add dragons to Fallout.
+[1800.12s -> 1801.40s]  Add dragons to Rage.
+[1801.40s -> 1803.40s]  Add dragons to everything.
+[1803.40s -> 1804.12s]  I'm a dragon.
+[1804.12s -> 1805.08s]  Mecha dragons.
+[1805.08s -> 1806.12s]  I'm a dragon.
+[1806.12s -> 1806.84s]  More dragons.
+[1811.40s -> 1812.44s]  Stop doing that.
+[1827.30s -> 1828.50s]  We want Doom.
+[1828.50s -> 1829.38s]  You'll get it.
+[1829.38s -> 1830.90s]  Doom's coming up in like 10 minutes.
+[1831.54s -> 1832.18s]  Probably not even.
+[1834.26s -> 1844.47s]  I just want to shout out to our friend Greg there,
+[1844.47s -> 1846.47s]  the one in the video that really loves dragons.
+[1846.47s -> 1850.79s]  I'm happy to say, Greg, The Elder Scrolls Online has dragons.
+[1853.64s -> 1855.08s]  I don't mean any disrespect by this at all.
+[1855.72s -> 1858.68s]  Right now, in fact, players are decent to the season of the dragon.
+[1858.68s -> 1864.28s]  Our year-long story about greed, revenge, cat people, and of course, dragons.
+[1866.44s -> 1871.83s]  Tonight's focus on the community resonates with me and everyone at Xenomax Online Studios
+[1871.83s -> 1875.75s]  because ESO literally would not exist without you.
+[1875.75s -> 1880.47s]  Watching you play the game, streaming, telling stories, hearing your feedback,
+[1880.47s -> 1885.67s]  we understand that you are the most important part of the world of Tamriel.
+[1885.75s -> 1886.79s]  It's fun, and it's fun, right?
+[1887.75s -> 1890.41s]  Thank you.
+[1890.41s -> 1893.93s]  Thank you for making ESO the extraordinary adventure it is today.
+[1894.81s -> 1897.93s]  The past year has been a huge success for ESO.
+[1897.93s -> 1899.53s]  More Game of the Year awards.
+[1899.53s -> 1901.21s]  Millions more players have joined.
+[1902.97s -> 1910.09s]  So many, in fact, that we recently had more server capacity just to support
+[1910.09s -> 1912.89s]  all the new players in Tamriel.
+[1912.89s -> 1914.89s]  I just want to make sure we say, can I just say this?
+[1914.89s -> 1916.65s]  Can we please stop serving alcohol?
+[1917.53s -> 1920.17s]  Before the show's getting bigger and better.
+[1920.17s -> 1920.89s]  Come on.
+[1920.89s -> 1924.57s]  Just a few days ago, we launched the Elder Scrolls Online Elsewhere,
+[1924.57s -> 1932.06s]  the latest chapter in the game where you're able to visit, for the first time,
+[1932.06s -> 1936.30s]  the homeland of the Khajiit, as well as control the dead as the new Necromancer class.
+[1937.18s -> 1943.18s]  And if you haven't played it yet, Elsewhere is the perfect starting point for new players.
+[1946.65s -> 1950.41s]  When we announced Season of the Dragon, we kicked it off by showing you a video
+[1950.41s -> 1955.05s]  about how dragons were unleashed on Elsewhere and we ended with a cliffhanger.
+[1955.05s -> 1956.33s]  I feel like that guy doesn't have a shirt on.
+[1956.33s -> 1958.57s]  I'm really excited to show you what happens next.
+[1958.57s -> 1962.89s]  I feel like that guy has like a football kind of logo painted on his chest
+[1963.53s -> 1965.93s]  and he's got like a full paint on his face.
+[1965.93s -> 1966.97s]  He's got like horns on.
+[1966.97s -> 1968.17s]  He's just screaming in the crowd.
+[1969.37s -> 2030.63s]  For a second, I just, I was like, what is going on?
+[2031.59s -> 2032.87s]  It's just a cat.
+[2032.87s -> 2035.64s]  I forgot this is Elder Scrolls.
+[2084.90s -> 2085.30s]  Nice.
+[2086.18s -> 2088.58s]  I don't know about the umbrella.
+[2108.76s -> 2109.26s]  Thief.
+[2112.68s -> 2114.60s]  Oh, magnificent Smaug.
+[2115.48s -> 2119.56s]  Your impressive body is none other than I could ever see before.
+[2170.65s -> 2171.15s]  Nice.
+[2172.01s -> 2192.10s]  Dude, that was so awesome.
+[2192.82s -> 2196.98s]  Why don't we take a look and see how that scenario would play out in the actual game.
+[2211.22s -> 2215.29s]  That's right.
+[2217.66s -> 2220.22s]  You may have recognized the return of Sai Sahan,
+[2220.22s -> 2222.30s]  the legendary Redguard Swordmaster.
+[2223.37s -> 2227.85s]  He's the legendary Redguard Swordmaster you met as part of the original five companions.
+[2227.85s -> 2230.41s]  He's back as the leader of the Dragon Guard,
+[2230.41s -> 2235.54s]  a group of dragon hunting warriors you've seen in other Elder Scrolls games.
+[2235.54s -> 2239.30s]  He'll be featured in our fourth quarter story DLC named Dragonhold,
+[2240.34s -> 2244.12s]  which will complete the season of the dragon.
+[2244.84s -> 2247.88s]  We've got a lot more to share about the return of Sai and the Dragon Guard,
+[2247.88s -> 2250.36s]  which will unveil at QuakeCon later this summer.
+[2251.32s -> 2254.68s]  This guy's gonna call his mom later and be like,
+[2254.68s -> 2257.32s]  Mom, mom, it's been wild.
+[2257.32s -> 2258.84s]  Sorry, I got Larry tight.
+[2258.84s -> 2260.44s]  I've been fucking screaming.
+[2260.44s -> 2261.96s]  They did not introduce two new dragons.
+[2262.60s -> 2264.20s]  They introduced a new cat.
+[2264.20s -> 2264.84s]  I can't believe it.
+[2265.56s -> 2266.44s]  All right, I'll talk to you later.
+[2266.44s -> 2267.08s]  Love you, mom.
+[2267.08s -> 2269.56s]  So much for your support of the Elder Scrolls online.
+[2269.56s -> 2271.64s]  We're humbled by your enthusiasm.
+[2271.64s -> 2275.16s]  Your enthusiasm for the game motivates us every day.
+[2275.16s -> 2276.84s]  You guys are seriously awesome.
+[2276.84s -> 2277.34s]  Thank you.
+[2280.78s -> 2282.46s]  Dust is gonna start coming out of this guy's throat.
+[2282.46s -> 2283.74s]  I'm concerned for this dude's health.
+[2284.46s -> 2287.48s]  He's gonna be like coughing up the sand.
+[2287.48s -> 2288.44s]  I have something else to talk about.
+[2288.44s -> 2293.06s]  The Elder Scrolls online isn't the only game in development at ZeniMax online studios.
+[2293.78s -> 2298.34s]  We have several other projects, one of which we're ready to reveal tonight.
+[2299.22s -> 2304.38s]  And to tell us all about it is the game's creative director, Kira Schlitt.
+[2305.58s -> 2306.32s]  New game.
+[2308.66s -> 2309.46s]  All right, new game.
+[2318.42s -> 2323.96s]  And now for something completely different.
+[2324.92s -> 2326.34s]  Yarn Free.
+[2326.34s -> 2326.98s]  Whatever it's called.
+[2326.98s -> 2332.02s]  A classic Saturday morning cartoon in free-to-play mobile game form.
+[2332.66s -> 2333.38s]  Let's take a look.
+[2334.26s -> 2334.76s]  What?
+[2337.80s -> 2339.40s]  Saturday morning mobile free...
+[2340.84s -> 2341.34s]  TV?
+[2342.44s -> 2344.82s]  Commander Keen.
+[2364.89s -> 2367.54s]  This feels like a fake game trailer.
+[2367.54s -> 2368.90s]  That's gonna be like another reveal.
+[2370.26s -> 2372.34s]  This is a bait, I think.
+[2384.20s -> 2387.80s]  Didn't it feel kind of like it was gonna bleed into something else?
+[2387.80s -> 2390.60s]  That was gonna be like, I mean Commander Keen, whatever.
+[2392.66s -> 2396.02s]  So there's a new branch on Commander Keen's family tree,
+[2396.02s -> 2398.34s]  and they're heading to iOS and Android.
+[2399.14s -> 2401.62s]  If you're hearing about Commander Keen for the first time,
+[2401.62s -> 2406.66s]  it was one of the first PC action games created by id Software in the early 90s.
+[2407.62s -> 2408.12s]  Yeah.
+[2411.08s -> 2417.00s]  It starred boy genius Billy Blaze, whose alter ego Commander Keen protected Earth.
+[2417.00s -> 2419.88s]  I thought it was like Mark Keen.
+[2419.88s -> 2422.60s]  Want to give a really big thanks to our friends at id
+[2422.60s -> 2426.68s]  for trusting us to deliver our modern take on this classic game.
+[2432.73s -> 2438.01s]  So tonight, as we introduce Commander Keen to a new generation of players,
+[2438.01s -> 2441.69s]  we're also introducing the next generation of heroes.
+[2441.69s -> 2442.41s]  Meet Billy.
+[2444.33s -> 2444.97s]  Billy Keen.
+[2446.33s -> 2447.29s]  Billy and Billy Keen.
+[2447.29s -> 2450.17s]  Two geniuses who follow in their famous father's footsteps.
+[2450.17s -> 2450.97s]  Is that Fortnite dance?
+[2450.97s -> 2453.93s]  The new commanders are of course funny and powerful,
+[2453.93s -> 2459.45s]  but the game is also full of enemies, allies, and some really bad bad guys.
+[2460.65s -> 2464.01s]  The twins build wacky gadgets from household items
+[2464.01s -> 2466.73s]  to save the Earth from certain alien destruction.
+[2467.29s -> 2469.69s]  Drag and drop gadgets to summon allies,
+[2469.69s -> 2473.45s]  attack enemies, and move through the environment.
+[2473.45s -> 2476.57s]  Choose from a caboodle of contraptions to conquer challenges,
+[2476.57s -> 2478.17s]  and try saying that five times fast.
+[2479.37s -> 2481.85s]  The tomes go on adventures and stories,
+[2481.85s -> 2484.41s]  which tell some of the classic Commander Keen tales,
+[2484.41s -> 2487.69s]  as well as a whole bunch of brand new ones.
+[2487.69s -> 2490.57s]  In story mode, you'll overcome aliens,
+[2490.57s -> 2494.01s]  collect power-ups, and explore Mars and beyond.
+[2494.89s -> 2499.77s]  You can also go helmet to helmet with other players in battle mode.
+[2499.77s -> 2503.61s]  A real-time head-to-head race through an alien landscape
+[2503.61s -> 2505.69s]  where you need to control checkpoints
+[2505.69s -> 2508.73s]  and claim the flag to gain ultimate victory.
+[2509.69s -> 2515.05s]  Commander Keen will soft launch this summer on iOS and Android phones.
+[2515.05s -> 2516.41s]  You don't know the worst part about this.
+[2516.41s -> 2519.61s]  It's not the fact that everyone's like, oh bad Beth.
+[2520.33s -> 2524.25s]  You guys realize that mobile games like that make more money
+[2524.25s -> 2525.85s]  than like God of War did probably.
+[2525.85s -> 2529.85s]  Unique in-game rewards and hot Commander Keen launch updates.
+[2530.49s -> 2535.05s]  We really can't wait to kick some asteroid with you all.
+[2535.05s -> 2536.57s]  That game is going to make more money
+[2537.29s -> 2540.17s]  than the global fucking theater run of Avatar.
+[2541.61s -> 2542.41s]  That's just the way it is.
+[2542.41s -> 2543.29s]  That's just the way it is now.
+[2551.51s -> 2554.07s]  We, like you, love mobile games.
+[2554.07s -> 2557.03s]  In addition to Blades and the upcoming Commander Keen,
+[2557.03s -> 2559.35s]  millions of you have enjoyed Fallout Shelter,
+[2559.35s -> 2563.51s]  which has now reached over 150 million downloads and counting.
+[2563.51s -> 2565.19s]  I told you, how many people saw Avatar?
+[2566.31s -> 2569.08s]  How many people saw the movie Avatar?
+[2569.08s -> 2570.76s]  For fans of collectible card games,
+[2570.76s -> 2572.60s]  we brought the Elder Scrolls Legends to mobile
+[2572.60s -> 2575.16s]  so you could experience the Elder Scrolls in a new way.
+[2576.12s -> 2578.84s]  This year, the Legends community has continued to grow
+[2578.84s -> 2582.52s]  and a lot of upgrades, new features, and new content.
+[2582.52s -> 2584.84s]  It's a great experience for a night of gaming
+[2584.84s -> 2586.84s]  or a quick match over a cup of coffee.
+[2590.34s -> 2593.32s]  I gotta get out of here.
+[2593.80s -> 2598.28s]  Oh no, it's taking over.
+[2599.32s -> 2600.20s]  It's over, guys.
+[2601.32s -> 2603.08s]  Mobile is the new, it's taking over.
+[2603.64s -> 2628.71s]  Somebody said, no, what if we like,
+[2629.91s -> 2630.55s]  it's not gonna work.
+[2631.11s -> 2633.35s]  You can be upset about this, but you understand something.
+[2633.91s -> 2636.87s]  You're just one person and a hundred grandmas
+[2636.87s -> 2637.99s]  are gonna fucking download this.
+[2639.74s -> 2641.26s]  You think you could win against a hundred grandmas?
+[2641.98s -> 2644.22s]  I don't think you could.
+[2671.18s -> 2673.26s]  They want like everybody to be playing this in homeroom.
+[2673.90s -> 2679.61s]  But I told you, that's gonna be a fucking homework reminder.
+[2680.33s -> 2693.05s]  Got reported?
+[2693.69s -> 2712.34s]  It's the future, guys.
+[2712.34s -> 2713.06s]  See, dragons.
+[2713.06s -> 2713.70s]  It's the future.
+[2715.34s -> 2716.62s]  If you enjoy other card games
+[2716.62s -> 2718.22s]  but are looking for something that provides
+[2718.22s -> 2719.42s]  a little deeper challenge,
+[2719.42s -> 2721.58s]  you can download Legends for free on the App Store
+[2721.58s -> 2722.94s]  and begin playing tonight.
+[2723.66s -> 2726.14s]  Legends' next expansion, Moons of Elsewhere,
+[2726.14s -> 2731.02s]  will be available on June 27th for PC, Mac, Mobile, and Tablet.
+[2731.02s -> 2732.30s]  You can head over to BethesdaNet
+[2732.30s -> 2734.14s]  to get a glimpse of the new cards and content
+[2734.14s -> 2735.34s]  or play it this week in our booth.
+[2735.34s -> 2736.62s]  There's two different mobiles now.
+[2736.62s -> 2737.58s]  I'll see you there.
+[2737.58s -> 2738.78s]  It's Mobile and Tablet.
+[2739.98s -> 2740.86s]  Aren't they both mobile?
+[2743.66s -> 2744.06s]  Breaking them up.
+[2744.06s -> 2745.26s]  Speaking of new content,
+[2745.26s -> 2748.14s]  three weeks ago we released Rage 2
+[2748.14s -> 2755.59s]  and now Insanity rules for millions of players
+[2755.59s -> 2756.71s]  around the world.
+[2756.71s -> 2758.95s]  But we wanted to do more than just deliver
+[2758.95s -> 2761.03s]  a critically acclaimed open world shooter.
+[2761.67s -> 2763.51s]  We've already added community challenges
+[2763.51s -> 2765.99s]  that reward you just for having fun in the wasteland
+[2765.99s -> 2767.83s]  and we've got a lot more planned
+[2767.83s -> 2770.47s]  with new features rolling out this week.
+[2770.47s -> 2770.79s]  Porn?
+[2770.79s -> 2773.43s]  The world of Rage 2 will become even more unpredictable.
+[2773.43s -> 2774.87s]  I wish I was watching porn.
+[2774.87s -> 2775.51s]  What did that say?
+[2776.87s -> 2803.96s]  Puke explosions.
+[2805.43s -> 2806.71s]  Don't say shit.
+[2807.35s -> 2832.46s]  I'm not gonna play Andrew WK.
+[2832.46s -> 2833.82s]  I got yelled at last year
+[2833.82s -> 2834.94s]  for doing that too many times.
+[2864.95s -> 2866.38s]  New cheats.
+[2874.98s -> 2876.34s]  Surprise for you all.
+[2894.01s -> 2899.37s]  No, I'm not gonna do that.
+[2899.37s -> 2900.25s]  That's something blue.
+[2901.13s -> 2902.01s]  That's fucking blue.
+[2902.01s -> 2902.73s]  I'm not doing that.
+[2902.73s -> 2906.09s]  Please welcome executive producer at Machine Games,
+[2906.09s -> 2907.53s]  Jörg Gustafsson.
+[2909.53s -> 2922.50s]  After liberating America from the Nazi scum
+[2922.50s -> 2925.22s]  in Wolfenstein 2, the new Colossus.
+[2925.22s -> 2926.18s]  Wolfenstein 3.
+[2930.12s -> 2932.84s]  This year we take you back to Europe
+[2932.92s -> 2935.40s]  with two new Wolfenstein games.
+[2936.84s -> 2939.80s]  First, we are bringing Nazi killing
+[2939.80s -> 2948.17s]  into virtual reality with Wolfenstein cyber pilot.
+[2949.13s -> 2952.73s]  As a hacker working for the French resistance,
+[2952.73s -> 2955.69s]  you will take control of Nazi war machines
+[2956.25s -> 2958.41s]  and turn them against their creators.
+[2959.69s -> 2962.41s]  Cyber pilot will be available this July
+[2963.37s -> 2966.89s]  and it's playable this week in our e-free booth.
+[2974.87s -> 2977.67s]  And if you haven't fought Nazis in VR,
+[2977.67s -> 2979.19s]  you don't know what you are missing.
+[2980.39s -> 2985.90s]  As I said, we have two new Wolfenstein games.
+[2987.40s -> 2990.04s]  This summer, we are going to be launching
+[2990.04s -> 2991.72s]  Wolfenstein Youngblood.
+[2992.20s -> 2993.88s]  Wolfenstein Youngblood.
+[2996.41s -> 2999.21s]  Wolfenstein, Wolfenstein, and then Wolfenstein,
+[2999.21s -> 3000.09s]  another Wolfenstein.
+[3000.09s -> 3002.73s]  With a gameplay experience that is bigger
+[3002.73s -> 3004.81s]  than any previous Wolfenstein game,
+[3005.85s -> 3008.65s]  you will have more weapons and weapon upgrades
+[3008.65s -> 3012.01s]  than ever before, more ways to customize
+[3012.01s -> 3014.97s]  your play style, and of course,
+[3014.97s -> 3017.53s]  even more evil Nazis to kill.
+[3018.81s -> 3022.31s]  What is it for?
+[3023.67s -> 3024.79s]  It's not a tablet.
+[3024.79s -> 3027.51s]  In Youngblood, you can kill those Nazis
+[3027.51s -> 3028.47s]  with a friend.
+[3030.42s -> 3032.18s]  You couldn't do that in Wolfenstein 2?
+[3032.18s -> 3033.14s]  Was it on Singapore?
+[3034.71s -> 3037.51s]  Yes, Wolfenstein is going co-op.
+[3038.89s -> 3042.01s]  Youngblood is set in the 1980s,
+[3042.01s -> 3044.57s]  two decades after the new Colossus.
+[3045.53s -> 3049.93s]  BJ Blazkowicz is missing in Nazi-occupied Paris
+[3050.73s -> 3052.97s]  and it's up to his twin daughters,
+[3052.97s -> 3056.09s]  Jess and Soph, to track him down.
+[3057.53s -> 3059.77s]  In Youngblood, you can still play by yourself
+[3060.65s -> 3063.21s]  or you can partner with a pal
+[3063.21s -> 3066.17s]  to double up on shooting, stabbing,
+[3066.17s -> 3067.37s]  and killing Nazis.
+[3070.74s -> 3071.38s]  Check it out.
+[3078.68s -> 3079.64s]  Nazi country.
+[3081.00s -> 3082.60s]  That's where Papa is,
+[3082.60s -> 3083.96s]  so that's where we're going.
+[3084.92s -> 3087.08s]  We can find him together.
+[3088.52s -> 3091.66s]  I may have an assignment suitable
+[3091.66s -> 3092.62s]  for two Nazi killers.
+[3092.62s -> 3094.54s]  Do we get to kill Nazis in this one?
+[3094.54s -> 3097.58s]  Somebody said, uh, I think, probably.
+[3097.58s -> 3098.22s]  I think so.
+[3181.50s -> 3185.02s]  Wolfenstein Youngblood releases on PlayStation 4,
+[3185.02s -> 3187.74s]  Xbox One, Nintendo Switch,
+[3187.74s -> 3190.78s]  and PC on July 26th.
+[3192.98s -> 3194.34s]  I mean, that comes out like now,
+[3194.34s -> 3195.54s]  in like less than a month and a half.
+[3197.14s -> 3198.58s]  And if you can't wait,
+[3198.58s -> 3201.14s]  stop by our E3 booth to play this week.
+[3201.78s -> 3202.18s]  Thank you.
+[3209.00s -> 3211.80s]  And now I'd like to welcome to the stage
+[3211.80s -> 3214.04s]  my dear friends from Arcane Lyon
+[3215.69s -> 3219.05s]  who worked with us on these two Wolfenstein games,
+[3219.05s -> 3220.73s]  Dinga and Sébastien.
+[3230.23s -> 3231.51s]  Did I mute myself?
+[3231.51s -> 3233.98s]  No, I didn't mute myself.
+[3235.99s -> 3236.79s]  We love you too.
+[3243.42s -> 3245.66s]  Hi, I'm Dinga Bakaba,
+[3245.66s -> 3247.50s]  and game director at Arcane Lyon.
+[3248.70s -> 3250.94s]  Is this for Wolfenstein or is this a new game?
+[3250.94s -> 3251.74s]  In the same studio.
+[3252.86s -> 3255.18s]  So along with partnering with our good friends
+[3255.18s -> 3257.34s]  at Machine Games on Wolfenstein,
+[3257.34s -> 3260.30s]  we've been working on other projects at Arcane Lyon.
+[3261.26s -> 3264.22s]  And tonight we're excited to announce
+[3264.22s -> 3266.38s]  our latest first-person action game.
+[3267.82s -> 3269.10s]  It's something innovative,
+[3269.82s -> 3270.94s]  stylish,
+[3270.94s -> 3273.10s]  and different from anything we've done before.
+[3273.10s -> 3274.14s]  Innovative, stylish, and different.
+[3274.14s -> 3276.30s]  Let me begin by saying
+[3276.30s -> 3279.58s]  bienvenue to the frozen island of Black Reef.
+[3280.54s -> 3283.10s]  This is a place of mystery
+[3284.06s -> 3286.38s]  where our looks can kill.
+[3287.34s -> 3290.20s]  The game takes place during what we say in French
+[3290.20s -> 3292.28s]  is the période de folie,
+[3292.28s -> 3294.28s]  a time of madness.
+[3295.80s -> 3297.08s]  And now that we've given you
+[3297.08s -> 3299.08s]  a small taste of the world,
+[3299.08s -> 3302.68s]  let us introduce you to our two deadly rivals,
+[3302.68s -> 3304.28s]  Colt and Juliana.
+[3304.28s -> 3305.64s]  Is it just concept art?
+[3305.64s -> 3307.08s]  It's not, is it just, no, okay.
+[3307.08s -> 3307.58s]  Yeah.
+[3309.24s -> 3323.21s]  This place is in a paradise.
+[3324.49s -> 3325.37s]  It's a prison.
+[3326.81s -> 3331.61s]  Out here.
+[3331.61s -> 3332.17s]  Out here?
+[3332.17s -> 3332.89s]  We're trapped.
+[3332.89s -> 3333.39s]  We're free.
+[3334.33s -> 3337.37s]  In this endless, eternal cycle.
+[3340.90s -> 3354.73s]  Your life's purpose is on this island.
+[3355.69s -> 3359.46s]  I can't let this go on any longer.
+[3362.60s -> 3365.08s]  Days I repeat.
+[3365.08s -> 3366.52s]  The longer that I'm out here.
+[3366.52s -> 3367.96s]  The more certain I am.
+[3368.20s -> 3368.70s]  1v1?
+[3370.20s -> 3373.30s]  To protect the cycle.
+[3373.30s -> 3375.14s]  The only way to break the cycle
+[3376.10s -> 3377.14s]  is to kill you.
+[3378.66s -> 3395.26s]  It's gonna be like a 1v1 action adventure game?
+[3396.14s -> 3396.78s]  Multiplayer?
+[3407.18s -> 3408.62s]  Is on my side.
+[3410.14s -> 3410.78s]  Deathloop.
+[3411.50s -> 3414.81s]  All right, let's get some deets on this one.
+[3414.81s -> 3415.61s]  Let's get the details.
+[3416.17s -> 3417.45s]  I want details on this one.
+[3430.20s -> 3433.86s]  Deathloop combines a mind-bending story
+[3433.86s -> 3435.78s]  with meticulously designed levels,
+[3436.42s -> 3439.78s]  and of course, arcane signature gameplay
+[3439.78s -> 3442.26s]  that lets you approach every situation
+[3442.26s -> 3442.98s]  any way you like.
+[3443.94s -> 3445.62s]  Because in the endless clash
+[3445.62s -> 3448.58s]  between these two extraordinary assassins,
+[3448.58s -> 3450.34s]  how you play is up to you.
+[3451.06s -> 3454.42s]  Plus, I think it's really fucking cool.
+[3455.62s -> 3457.99s]  I mean, yeah.
+[3461.03s -> 3461.51s]  What is it?
+[3462.47s -> 3464.87s]  Yeah, maybe, maybe you should have said
+[3464.87s -> 3466.07s]  that in French actually.
+[3466.15s -> 3467.43s]  Maybe, maybe not.
+[3467.43s -> 3470.39s]  But, but it's also pretty fucking true.
+[3473.03s -> 3475.43s]  Are we allowed to swear on in person
+[3475.43s -> 3477.03s]  but not like on the trailer?
+[3477.03s -> 3478.23s]  And we really hope that you enjoy it.
+[3478.23s -> 3480.63s]  They're really emphasizing like the F word here.
+[3480.63s -> 3481.83s]  They're like, oh fuck!
+[3482.47s -> 3485.75s]  But their trailer has like, I don't understand.
+[3486.87s -> 3489.83s]  It's a wonderful way to get away
+[3489.83s -> 3491.99s]  from all the pressures in life.
+[3491.99s -> 3493.35s]  I think the sense of community
+[3493.35s -> 3495.59s]  has really helped me as a person
+[3495.59s -> 3497.43s]  because I'm typically very isolated.
+[3497.43s -> 3499.67s]  It's definitely very confidence building.
+[3499.67s -> 3501.11s]  It's brought me out of my shell
+[3501.11s -> 3502.39s]  and stopped being an introvert.
+[3502.39s -> 3504.87s]  I could like be a hero and do all these things.
+[3504.87s -> 3507.11s]  You find really creative, really fun,
+[3507.11s -> 3509.03s]  really talented people.
+[3509.03s -> 3510.15s]  Meet people who are in my group
+[3510.15s -> 3512.07s]  that I've only known as a character.
+[3512.07s -> 3514.71s]  Probably made more friends online than I have.
+[3514.71s -> 3518.01s]  The games that you bring out
+[3518.01s -> 3519.93s]  just helps people honestly.
+[3519.93s -> 3522.81s]  My parents were refugees from the Vietnam War,
+[3522.81s -> 3524.33s]  which is why I'm also fascinated
+[3524.33s -> 3525.85s]  by elements of war.
+[3525.85s -> 3528.33s]  Playing these games just kind of put me out of
+[3529.13s -> 3530.73s]  the worry and the stress.
+[3531.69s -> 3535.13s]  I was in a dark place for a while
+[3535.13s -> 3536.33s]  and I told myself I wasn't going
+[3536.33s -> 3537.69s]  to be there anymore.
+[3537.69s -> 3539.37s]  And so now the only dark places
+[3539.37s -> 3541.21s]  that I'm allowed to go are in dungeons and ESO.
+[3541.77s -> 3544.73s]  Just being someone who is LGBT,
+[3544.73s -> 3547.21s]  it's nice to be able to sit down
+[3547.21s -> 3548.17s]  and play these games
+[3548.17s -> 3550.25s]  and feel accepted for who I am.
+[3550.25s -> 3552.41s]  It's really nice to see that their storyline
+[3552.41s -> 3554.97s]  has some sort of emotional effect on me as a player.
+[3554.97s -> 3557.93s]  And I just really admire the creativity
+[3557.93s -> 3559.05s]  that goes into the process
+[3559.05s -> 3560.41s]  of making these big worlds
+[3560.41s -> 3561.69s]  with these amazing stories.
+[3562.89s -> 3563.37s]  Good shit.
+[3565.61s -> 3566.89s]  This is old, John.
+[3566.89s -> 3568.25s]  This is like old milk.
+[3572.81s -> 3575.05s]  Building these fantastic worlds
+[3575.05s -> 3576.81s]  and telling these stories
+[3576.81s -> 3578.41s]  comes from a passion to deliver
+[3578.41s -> 3580.81s]  the very best experiences for our players.
+[3581.37s -> 3583.21s]  Hi, I'm James Altman,
+[3583.21s -> 3584.81s]  director of publishing at Bethesda.
+[3588.15s -> 3589.11s]  What do you got for us?
+[3589.91s -> 3592.62s]  Robert Duffy.
+[3592.62s -> 3593.82s]  Starlight, whatever it's called.
+[3593.82s -> 3594.70s]  Starfleet.
+[3594.70s -> 3595.58s]  What's the name of that game?
+[3598.07s -> 3599.67s]  Stargazer.
+[3599.67s -> 3601.03s]  What's the one everyone wants to see?
+[3602.49s -> 3603.05s]  Starfield.
+[3603.05s -> 3604.65s]  We have some exciting new technology
+[3605.45s -> 3606.97s]  to show you that can dramatically
+[3606.97s -> 3608.57s]  improve gaming for millions.
+[3609.37s -> 3611.21s]  So for the past two decades,
+[3611.21s -> 3612.81s]  we've approached game development
+[3612.81s -> 3615.45s]  not by looking at what is possible today
+[3615.45s -> 3618.33s]  but with a vision of what can be possible tomorrow.
+[3618.33s -> 3619.29s]  And at Bethesda,
+[3619.29s -> 3621.85s]  we're proud of our legacy of innovation
+[3621.85s -> 3622.81s]  where again and again
+[3622.81s -> 3624.01s]  we've changed the industry.
+[3624.57s -> 3626.97s]  We were the first to use physics-based engines
+[3626.97s -> 3627.85s]  for sports games.
+[3628.65s -> 3630.01s]  We were groundbreakers with
+[3630.01s -> 3631.53s]  go anywhere, do anything,
+[3631.53s -> 3632.81s]  open world RPGs.
+[3633.61s -> 3636.17s]  We are the inventors of the first person shooter
+[3636.17s -> 3638.57s]  which is now the world's most popular form of gaming.
+[3643.27s -> 3645.59s]  We are pioneers in downloadable content
+[3645.59s -> 3648.07s]  and the first to bring mods to consoles.
+[3648.07s -> 3650.55s]  And actually, since we first brought mods
+[3650.55s -> 3652.47s]  to consoles in 2016,
+[3652.47s -> 3654.15s]  there have been one billion
+[3654.15s -> 3656.07s]  mod downloads for Fallout and Skyrim.
+[3657.43s -> 3663.98s]  We of course developed the first
+[3663.98s -> 3666.46s]  commercially viable VR technology
+[3666.46s -> 3668.86s]  revealed in our E3 booth in 2012.
+[3668.86s -> 3671.18s]  Yes, that is the original VR headset
+[3671.18s -> 3672.54s]  held together by tape
+[3672.54s -> 3674.38s]  and worn by our very own Tim Willits.
+[3675.50s -> 3676.62s]  They're taking a lot of credit.
+[3678.47s -> 3681.59s]  We also invented corn, maze.
+[3681.59s -> 3682.95s]  And of course, we are well known
+[3682.95s -> 3684.31s]  as developers of best in class.
+[3684.31s -> 3685.91s]  I invented the hamburger too.
+[3693.14s -> 3695.14s]  Innovation and creativity is in our game.
+[3695.14s -> 3697.30s]  Weirdly enough, we also invented
+[3697.30s -> 3698.18s]  the dentist drill.
+[3699.14s -> 3701.22s]  To improve player experiences.
+[3701.22s -> 3702.50s]  So tonight, we have exciting
+[3702.50s -> 3703.70s]  new technology to announce.
+[3704.90s -> 3706.42s]  We're going to show you the result
+[3706.42s -> 3708.18s]  of years of research and development.
+[3708.74s -> 3710.74s]  Cutting edge game engine based technology
+[3710.74s -> 3712.82s]  we've developed specifically for game streaming.
+[3713.54s -> 3715.38s]  Now we'd like to introduce you to Orion.
+[3716.02s -> 3717.38s]  Streaming? Streamers?
+[3718.82s -> 3719.70s]  I heard streamer.
+[3719.70s -> 3720.34s]  I'm a streamer.
+[3721.06s -> 3721.94s]  I'm not going to like this.
+[3721.94s -> 3723.06s]  Maybe I'll like this.
+[3723.14s -> 3725.38s]  Orion is a tremendous breakthrough
+[3725.38s -> 3727.14s]  in streaming technology.
+[3727.14s -> 3728.58s]  It is our name for a group
+[3728.58s -> 3730.34s]  of patented technologies
+[3730.34s -> 3732.26s]  that optimize game engines
+[3732.26s -> 3734.74s]  for performance in a cloud environment.
+[3734.74s -> 3737.14s]  Orion can work with any game engine
+[3737.14s -> 3738.90s]  and will improve player experiences
+[3738.90s -> 3740.50s]  no matter which game you're playing
+[3740.50s -> 3741.62s]  or whether you're streaming
+[3741.62s -> 3743.54s]  on Stadia, on Xcloud
+[3743.54s -> 3744.98s]  or another streaming platform.
+[3745.54s -> 3747.14s]  So how does Orion work?
+[3748.34s -> 3750.02s]  The exciting game streaming services
+[3750.02s -> 3751.38s]  you've been hearing so much about
+[3751.38s -> 3753.38s]  have largely focused on hardware solutions
+[3753.38s -> 3756.18s]  to address the complex challenges of streaming.
+[3756.74s -> 3757.54s]  That's a lot of words.
+[3759.82s -> 3761.10s]  We used our expertise
+[3761.10s -> 3763.02s]  in developing game engine software
+[3763.02s -> 3764.14s]  and took a different approach.
+[3764.94s -> 3766.78s]  By incorporating Orion technology
+[3766.78s -> 3768.06s]  at the game engine level
+[3768.70s -> 3771.10s]  we're able to stream game content
+[3771.10s -> 3773.74s]  up to 20% faster per frame
+[3774.62s -> 3776.70s]  leading to a dramatic reduction in latency.
+[3777.58s -> 3779.58s]  In addition, an Orion-enabled game
+[3779.58s -> 3782.06s]  can stream with up to 40% lower bandwidth.
+[3782.94s -> 3784.70s]  And happily for game developers
+[3784.70s -> 3786.62s]  Orion technology is easy to integrate
+[3786.62s -> 3788.38s]  with your game build with RSDK.
+[3789.02s -> 3790.22s]  But what does that mean for you?
+[3791.10s -> 3792.46s]  It means that streaming games
+[3792.46s -> 3794.78s]  will be faster and better with Orion
+[3795.34s -> 3797.10s]  and Orion substantially reduces
+[3797.10s -> 3798.38s]  the cost of streaming
+[3798.38s -> 3801.34s]  for players and for publishers.
+[3801.34s -> 3802.62s]  So it won't matter
+[3802.62s -> 3803.98s]  if your friends and family
+[3803.98s -> 3805.42s]  are sucking up all the bandwidth
+[3806.22s -> 3808.78s]  or if you live far away from a data center.
+[3809.34s -> 3810.38s]  With Orion,
+[3810.38s -> 3812.38s]  you'll still be able to stream your game
+[3812.38s -> 3813.58s]  at max settings.
+[3817.61s -> 3818.57s]  But that's real.
+[3818.57s -> 3819.85s]  I mean max settings.
+[3820.81s -> 3824.23s]  It's a big deal if it works.
+[3826.62s -> 3829.18s]  Now as with any new computer technology
+[3829.18s -> 3831.58s]  one must ask the question
+[3832.22s -> 3833.26s]  can it play Doom?
+[3834.78s -> 3836.33s]  He said the word.
+[3836.33s -> 3838.81s]  Question, can it stream
+[3838.81s -> 3842.25s]  an unrelenting first person shooter
+[3842.25s -> 3844.25s]  with native 4K resolution
+[3844.33s -> 3845.69s]  at 60 frames per second?
+[3846.49s -> 3846.97s]  Let's see.
+[3847.53s -> 3848.33s]  Oh, it's really doing.
+[3848.33s -> 3848.97s]  I want to see this.
+[3848.97s -> 3851.05s]  So I wish I could see doing right now.
+[3852.01s -> 3855.82s]  I can't wait.
+[3855.82s -> 3857.26s]  I'd like to introduce Shale Williams
+[3857.26s -> 3859.02s]  tech specialist from id Software.
+[3859.02s -> 3860.54s]  Oh, here it comes guys.
+[3860.54s -> 3861.18s]  This is it.
+[3861.18s -> 3862.06s]  It's coming right now.
+[3862.06s -> 3864.30s]  So Shale is streaming
+[3864.30s -> 3866.54s]  an Orion enabled Doom 2016
+[3866.54s -> 3868.30s]  right now to that mobile device.
+[3868.30s -> 3869.74s]  Holy shit, he's actually doing it.
+[3869.74s -> 3871.66s]  There is no reduction in visual fidelity.
+[3873.13s -> 3874.33s]  This is the greatest thing
+[3874.33s -> 3875.45s]  I've ever seen in my life.
+[3875.45s -> 3876.41s]  At 60 frames per second
+[3876.41s -> 3877.93s]  without perceptible latency.
+[3878.73s -> 3879.85s]  And we want you all to
+[3879.85s -> 3882.17s]  experience the power of streaming technology
+[3882.17s -> 3884.81s]  yourself as we test and refine it.
+[3884.81s -> 3886.01s]  So for a chance to be among
+[3886.01s -> 3887.21s]  the first in the world
+[3887.21s -> 3890.09s]  to stream Doom 2016 for free
+[3890.09s -> 3891.29s]  all you need to do is join
+[3891.29s -> 3892.73s]  the Doom Slayers Club
+[3892.73s -> 3895.53s]  by registering at slayersclub.com tonight.
+[3895.53s -> 3896.65s]  Holy shit.
+[3897.53s -> 3898.33s]  Are you kidding me?
+[3898.33s -> 3899.37s]  This is fucking the greatest thing
+[3899.37s -> 3900.33s]  I've ever seen in my entire life.
+[3901.05s -> 3902.01s]  What the fuck, dude?
+[3904.01s -> 3906.10s]  I'm okay.
+[3906.10s -> 3907.30s]  Everybody could use a little more
+[3907.30s -> 3908.18s]  Doom in their lives.
+[3909.14s -> 3915.10s]  We'll see you in hell.
+[3917.61s -> 3936.12s]  What you interfere with now
+[3936.92s -> 3939.72s]  is bigger than you can imagine.
+[3939.72s -> 3947.38s]  Continue this wrath.
+[3950.58s -> 3951.70s]  It is written.
+[3954.34s -> 3957.53s]  It is their time to give penance.
+[3960.57s -> 3962.44s]  You are but one man.
+[3964.60s -> 3978.07s]  They are no longer your people to save.
+[3980.07s -> 4012.15s]  Holy shit.
+[4012.95s -> 4019.22s]  I'm gonna need some help.
+[4022.54s -> 4032.84s]  I'm gonna need help.
+[4034.10s -> 4035.06s]  I can't.
+[4035.06s -> 4036.18s]  I fucking clogged so much.
+[4036.18s -> 4036.74s]  I don't.
+[4036.74s -> 4038.26s]  I shrunk down into my fucking clothes.
+[4038.26s -> 4038.98s]  I can't get out of here.
+[4038.98s -> 4039.54s]  This is awesome.
+[4039.54s -> 4040.82s]  Thank you so, so much.
+[4042.42s -> 4043.62s]  I'm Marty Stratton,
+[4043.62s -> 4045.86s]  the executive producer of Doom Eternal.
+[4045.86s -> 4051.05s]  And I'm Hugo Martin,
+[4051.05s -> 4052.49s]  the game's creative director.
+[4057.56s -> 4058.36s]  As you just saw,
+[4059.00s -> 4061.32s]  we're not just building a world for Doom.
+[4061.32s -> 4063.32s]  It's an entire universe.
+[4063.32s -> 4066.20s]  Earth is on the brink of annihilation.
+[4066.20s -> 4068.52s]  It's being consumed by demons.
+[4068.52s -> 4070.60s]  And your crusade to save it
+[4070.60s -> 4073.16s]  will take you across dimensions
+[4073.16s -> 4076.12s]  to locations never seen before in Doom,
+[4076.12s -> 4078.20s]  from heaven and hell
+[4078.20s -> 4080.36s]  to the sentinel home world and beyond.
+[4081.16s -> 4081.66s]  Yeah.
+[4086.60s -> 4089.56s]  There is so much to see and discover.
+[4089.56s -> 4093.32s]  But Doom is first and foremost about gameplay.
+[4093.32s -> 4095.56s]  And Doom Eternal promises to be
+[4095.56s -> 4097.32s]  the ultimate power fantasy.
+[4098.04s -> 4101.00s]  The fun comes from mastering the experience
+[4101.00s -> 4103.08s]  because you are the Doom Slayer,
+[4103.08s -> 4106.52s]  the strongest, fastest demon killer in existence.
+[4106.52s -> 4108.52s]  And nothing can stand in your way.
+[4109.64s -> 4111.86s]  Absolutely.
+[4112.82s -> 4117.00s]  Of course, the challenge in Doom
+[4117.00s -> 4119.96s]  is all about handcrafted combat,
+[4119.96s -> 4122.92s]  but also engaging level design.
+[4122.92s -> 4124.28s]  And in Doom Eternal,
+[4124.28s -> 4126.60s]  the game always has something
+[4126.60s -> 4127.96s]  new to throw at you,
+[4127.96s -> 4129.72s]  even deep into the campaign.
+[4130.28s -> 4131.00s]  Let's take a look.
+[4132.44s -> 4133.16s]  This is gonna be good.
+[4135.24s -> 4136.52s]  Doom's combat was a ton of fun.
+[4137.32s -> 4155.18s]  The chat's way behind.
+[4155.18s -> 4157.02s]  There's like a two minute delay on the screen.
+[4157.02s -> 4158.22s]  That's just for stream snipers.
+[4158.86s -> 4184.41s]  What the fuck was that?
+[4185.13s -> 4188.31s]  Was it a brain?
+[4198.86s -> 4199.66s]  Thanks.
+[4199.66s -> 4203.96s]  You know, it's so important to us at id Software
+[4203.96s -> 4206.36s]  that every aspect of the gameplay
+[4206.36s -> 4208.36s]  has real meaning to you, the player.
+[4208.92s -> 4210.44s]  Every enemy is different.
+[4210.52s -> 4212.20s]  Every weapon has a purpose
+[4212.20s -> 4214.12s]  and every decision you make really counts.
+[4214.92s -> 4217.48s]  The only path to victory in Doom Eternal
+[4217.48s -> 4220.04s]  is to aggressively control the fight
+[4220.04s -> 4223.16s]  with amazing agility, powerful guns,
+[4223.16s -> 4224.44s]  and critical resources.
+[4225.00s -> 4225.48s]  That's right.
+[4225.48s -> 4228.36s]  I'll tell you, we absolutely can't wait
+[4228.36s -> 4229.24s]  for you to play it.
+[4229.88s -> 4232.04s]  And some of you won't have to wait too long.
+[4233.08s -> 4235.48s]  If you are lucky enough to be in the room tonight.
+[4237.66s -> 4239.18s]  In the room tonight.
+[4239.18s -> 4240.70s]  Not like Open Dead E3.
+[4240.70s -> 4242.38s]  You'll have a chance to play it
+[4242.38s -> 4244.22s]  immediately following the show.
+[4247.08s -> 4247.96s]  What the hell?
+[4247.96s -> 4249.00s]  Why am I not there?
+[4249.00s -> 4249.80s]  I want to be there.
+[4253.94s -> 4255.14s]  And for those not here.
+[4255.14s -> 4256.10s]  Look under your seat.
+[4257.14s -> 4258.10s]  I got one.
+[4258.10s -> 4260.66s]  Playable in the Bethesda booth all week.
+[4262.82s -> 4265.03s]  But enough talk.
+[4265.99s -> 4267.83s]  Let's see how it all comes together.
+[4268.39s -> 4271.91s]  And watch as this perfect killing machine
+[4271.91s -> 4272.55s]  goes to work.
+[4273.51s -> 4279.61s]  So what are we looking for here?
+[4280.01s -> 4280.57s]  Guys, guys.
+[4280.57s -> 4282.01s]  Hey, what are we looking for?
+[4291.91s -> 4297.18s]  Is Doom Eternal the only game
+[4297.74s -> 4300.78s]  that has shown this much gameplay?
+[4300.78s -> 4302.22s]  I feel like we haven't seen very much gameplay
+[4302.22s -> 4304.06s]  this whole conference.
+[4304.06s -> 4313.99s]  Or is this game player or is this not?
+[4314.79s -> 4320.66s]  There we go.
+[4320.66s -> 4322.65s]  I mean, it's definitely,
+[4322.65s -> 4323.85s]  it's going to be scripted gameplay,
+[4323.85s -> 4324.73s]  but we'll see.
+[4332.97s -> 4333.61s]  It looks great.
+[4339.82s -> 4340.78s]  Missed chest.
+[4341.74s -> 4342.54s]  Missed chest.
+[4344.02s -> 4345.78s]  Guys, I'm not playing the game right now.
+[4346.74s -> 4347.94s]  I'm not doing this.
+[4348.58s -> 4361.34s]  This guy sucks.
+[4361.34s -> 4362.54s]  This streamer sucks.
+[4363.18s -> 4373.77s]  You guys are vicious.
+[4373.77s -> 4404.39s]  Looks fun.
+[4405.03s -> 4405.43s]  It does.
+[4406.07s -> 4428.49s]  Turn up your FOV.
+[4428.49s -> 4430.60s]  No, I don't play with higher FOV.
+[4430.60s -> 4463.00s]  Here's me an advantage over other players.
+[4463.00s -> 4464.36s]  Yeah, this is a lot of gameplay.
+[4464.92s -> 4469.85s]  It's pretty foreign in the world of E3.
+[4495.99s -> 4497.59s]  Louder, louder, louder.
+[4503.93s -> 4504.65s]  Lava.
+[4504.65s -> 4507.27s]  Don't just want to put that lava
+[4507.27s -> 4507.91s]  on your ice cream.
+[4508.63s -> 4516.81s]  Like let it cool down for a little bit
+[4516.81s -> 4518.09s]  and then drip it on your ice cream.
+[4518.65s -> 4523.51s]  I feel like lava is a spicy orange flavor.
+[4523.51s -> 4524.23s]  Like a spicy,
+[4525.19s -> 4526.47s]  like clementine flavor.
+[4527.43s -> 4544.88s]  Thanks.
+[4546.79s -> 4547.29s]  Thanks.
+[4548.39s -> 4548.89s]  Thanks, guys.
+[4549.91s -> 4550.55s]  That was awesome.
+[4552.71s -> 4554.23s]  Did the scream guy get up?
+[4554.23s -> 4555.43s]  Maybe he got up and started screaming.
+[4555.43s -> 4558.07s]  Because the gameplay that you just saw
+[4558.07s -> 4560.07s]  is just a piece of what you're going
+[4560.07s -> 4561.75s]  to play this week at E3.
+[4563.94s -> 4567.80s]  But I bet a lot of you are wondering
+[4567.80s -> 4569.80s]  when do we get to play Doom Eternal
+[4569.80s -> 4570.44s]  at our home?
+[4571.56s -> 4574.42s]  Well, you don't have to wait too much longer.
+[4575.62s -> 4576.42s]  Not quite tomorrow.
+[4578.10s -> 4579.86s]  September.
+[4579.86s -> 4581.30s]  But Doom Eternal will release
+[4581.30s -> 4581.94s]  September 4th.
+[4581.94s -> 4583.22s]  On November 22nd.
+[4583.22s -> 4583.86s]  That was close.
+[4589.91s -> 4590.71s]  It's already been,
+[4590.71s -> 4591.91s]  it's been out for two months.
+[4593.19s -> 4594.79s]  How did you miss it in the Steam store?
+[4595.75s -> 4598.07s]  An amazing collector's edition.
+[4598.07s -> 4599.35s]  We're really proud of.
+[4599.35s -> 4599.85s]  Yeah.
+[4601.10s -> 4601.60s]  Yeah.
+[4602.38s -> 4603.90s]  That's an actual helmet.
+[4605.48s -> 4606.92s]  Yeah, you could wear it.
+[4606.92s -> 4607.88s]  You could wear that thing.
+[4612.30s -> 4613.50s]  He's already got one on.
+[4617.94s -> 4618.44s]  Lucky.
+[4618.66s -> 4620.26s]  This guy's already got it.
+[4620.26s -> 4621.06s]  That's right.
+[4621.06s -> 4621.86s]  Already a badass.
+[4621.86s -> 4622.90s]  He's already got one on.
+[4624.94s -> 4625.26s]  All right.
+[4625.26s -> 4627.10s]  Well, we've got one more thing.
+[4627.10s -> 4629.02s]  We know that you've been waiting to hear about.
+[4629.02s -> 4630.38s]  He's like, actually, no.
+[4631.10s -> 4632.70s]  I'm a fucking astronaut dickhead.
+[4634.87s -> 4635.91s]  I just got off the moon.
+[4636.71s -> 4639.35s]  We've been developing this in-house, it did.
+[4639.35s -> 4641.43s]  And it's unlike anything you've played before.
+[4642.07s -> 4642.71s]  Yeah.
+[4642.71s -> 4645.91s]  We've been so pumped to share this with you.
+[4645.91s -> 4648.23s]  This is pure doom, but with your friends.
+[4648.79s -> 4652.47s]  Where two player-controlled demons take on one
+[4652.47s -> 4655.11s]  fully-loaded slayer in a fight to the death.
+[4655.11s -> 4655.91s]  2v1?
+[4655.91s -> 4658.39s]  This is a first-person fighter.
+[4658.39s -> 4661.91s]  Where it's demon strategy versus slayer skill.
+[4661.91s -> 4663.11s]  You know, we can't wait.
+[4663.11s -> 4663.67s]  2v1?
+[4663.67s -> 4666.63s]  Because we know you'll love the different play styles
+[4666.63s -> 4668.31s]  of the various demons.
+[4668.31s -> 4672.07s]  Because each has unique movement, attacks, and abilities.
+[4672.71s -> 4674.07s]  They can even spawn AI-
+[4674.07s -> 4674.95s]  This is reverse evolve.
+[4674.95s -> 4677.83s]  To control the battlefield and help you take down the slayer.
+[4678.71s -> 4682.47s]  It's strategic, competitive, and it's a ton of fun.
+[4682.47s -> 4685.27s]  And we can't wait to share more details with you
+[4685.27s -> 4686.95s]  this year at QuakeCon.
+[4686.95s -> 4687.59s]  Oh, it's in already?
+[4687.59s -> 4689.67s]  There's a lot more to share at QuakeCon.
+[4689.67s -> 4693.35s]  But before we go, we do want to take a first look
+[4693.35s -> 4695.67s]  at Doom Eternal's new multiplayer.
+[4695.67s -> 4696.63s]  Oh, we are going to see it.
+[4696.63s -> 4699.27s]  On behalf of our amazing team at Id in Dallas
+[4699.27s -> 4701.75s]  and Frankfurt, Germany, we want to thank you
+[4701.75s -> 4703.67s]  all so much for your support.
+[4704.31s -> 4705.03s]  Thanks, everyone.
+[4706.39s -> 4713.93s]  2v1.
+[4714.82s -> 4716.90s]  Demons versus one decked out player.
+[4722.84s -> 4723.34s]  Fight.
+[4725.24s -> 4732.54s]  Demon health critical.
+[4738.55s -> 4739.43s]  Yes, Jerma.
+[4739.43s -> 4739.93s]  2v1.
+[4740.95s -> 4741.45s]  Yes.
+[4741.99s -> 4744.30s]  Slayer killed.
+[4744.30s -> 4745.02s]  True.
+[4745.02s -> 4748.87s]  Oh, is this-
+[4749.51s -> 4750.71s]  Is this 2v1?
+[4750.71s -> 4751.91s]  2v1, I guess.
+[4773.32s -> 4773.82s]  Fight.
+[4778.06s -> 4778.62s]  No, I mean, it's-
+[4779.26s -> 4780.14s]  It looks alright.
+[4780.86s -> 4784.15s]  It's kind of just-
+[4786.84s -> 4787.96s]  It'll be fun, by the way.
+[4795.11s -> 4796.95s]  And now introducing Goldust.
+[4797.83s -> 4805.43s]  And for everyone at our studios around the globe
+[4805.43s -> 4807.11s]  that have worked so hard in the great games
+[4807.11s -> 4808.71s]  you've seen tonight, we say thank you.
+[4809.82s -> 4813.18s]  2019 marks 25 years of Doom.
+[4813.18s -> 4815.42s]  So, to celebrate, we will be going all out
+[4815.42s -> 4817.18s]  with Doom at QuakeCon this summer.
+[4817.18s -> 4819.42s]  No, I'll just go with 6 and no Starfield.
+[4819.42s -> 4821.10s]  Panels and activities dedicated to Doom,
+[4821.10s -> 4822.86s]  which we call DoomCon.
+[4823.74s -> 4825.85s]  DoomCon.
+[4825.85s -> 4826.57s]  See what we did there?
+[4826.57s -> 4828.01s]  We took out the Quake and put Doom.
+[4829.05s -> 4831.94s]  We hope you can come hang out with us in Dallas
+[4831.94s -> 4833.62s]  at our inaugural event in London.
+[4833.62s -> 4835.70s]  If you can't, please tune in online.
+[4835.70s -> 4838.66s]  Until then, go to Bethesda.net for more info
+[4838.66s -> 4840.50s]  on all the games you saw tonight.
+[4840.50s -> 4841.78s]  If you're here at E3 this week,
+[4841.78s -> 4843.86s]  we'll have hands-on with many of our games,
+[4843.86s -> 4845.78s]  so be sure to stop by our booth.
+[4845.78s -> 4847.70s]  In the meantime, thanks for playing,
+[4847.70s -> 4848.82s]  thanks for watching,
+[4848.82s -> 4850.82s]  and thanks to all of you for being part of the-
+[4850.82s -> 4853.86s]  No, they'll do like an Elder Scrolls 6 teaser, right?
+[4853.86s -> 4854.66s]  I mean, they did one last-
+[4854.66s -> 4856.42s]  They did one last year, of course they are.
+[4857.14s -> 4858.34s]  They did one last year.
+[4859.70s -> 4865.58s]  They teased it last year and it's not ready to show at all.
+[4865.58s -> 4868.14s]  At Bethesda, we're in the business of creating heroes.
+[4869.66s -> 4871.50s]  But the true hero is you.
+[4872.62s -> 4875.14s]  They already confirmed no-
+[4875.14s -> 4877.22s]  It's like we hand you this malleable clay
+[4877.22s -> 4878.98s]  and you do these extraordinary things
+[4878.98s -> 4880.18s]  that we never could have imagined.
+[4880.98s -> 4885.19s]  We get to build these worlds and these communities,
+[4885.19s -> 4886.71s]  and you all come in and you play
+[4886.71s -> 4888.79s]  and you bring these worlds that we create to life.
+[4888.79s -> 4889.67s]  Need more PR.
+[4889.67s -> 4891.75s]  You help us build richer worlds.
+[4895.51s -> 4897.35s]  You add meaning to everything we do.
+[4898.31s -> 4899.35s]  We are glad you're here.
+[4899.35s -> 4900.47s]  We're so glad you're here.
+[4900.47s -> 4901.11s]  To the heroes.
+[4902.23s -> 4902.87s]  To the heroes.
+[4903.83s -> 4905.27s]  Shit, I don't have a drink.
+[4905.27s -> 4905.91s]  To you.
+[4905.91s -> 4906.41s]  To you.
+[4921.59s -> 4923.62s]  Well, there it is.
+[4926.25s -> 4927.77s]  Bethesda Conference. Done.
+[4929.21s -> 4932.65s]  Got a lot of mobile games.
+[4933.37s -> 4934.01s]  Got a lot of-
+[4935.53s -> 4937.32s]  We got to see a lot of Doom Eternal, though.
+[4937.88s -> 4938.76s]  You got to see a lot of Doom.
+[4939.90s -> 4940.54s]  Got to see it.
+[4942.14s -> 4942.70s]  2v1.
+[4943.75s -> 4945.83s]  Looks like it's 2v1 in that mode.
+[4945.83s -> 4946.63s]  I'm not sure it could be.
+[4948.94s -> 4949.82s]  And that's it.
+[4950.84s -> 4951.24s]  That's it.
+[4951.80s -> 4960.28s]  That was me singing, by the way.
+[4960.28s -> 4960.78s]  It was?
+[4961.40s -> 4963.24s]  Am I going to pretend to be a streamer?
+[4963.24s -> 4964.36s]  All right.
+[4964.36s -> 4967.08s]  Well, that's what Bethesda had to offer there at E3.
+[4969.37s -> 4970.89s]  They mentioned Fallout 76.
+[4970.89s -> 4972.49s]  Hell, they gave it an expansion.
+[4973.69s -> 4975.13s]  And then they announced-
+[4975.13s -> 4977.13s]  Did they close my stream?
+[4977.61s -> 4978.89s]  Did they turn me off?
+[4978.89s -> 4981.21s]  You guys just saw the Bethesda Conference.
+[4981.21s -> 4982.97s]  We don't want you doing this shit!
+[4982.97s -> 4984.17s]  So prepare thyselves.
+[4986.17s -> 4988.09s]  Co-walk us through the Fallout 76 stuff.
+[4989.53s -> 4992.17s]  If I could play back the VOD and just highlight your face
+[4992.17s -> 4993.69s]  the entire time, it would maybe tell the story-
+[4993.69s -> 4994.97s]  Highlight my face.
+[4994.97s -> 4996.33s]  Let's hear you put it into words.
+[4999.77s -> 5002.49s]  I already pretended I was on the panel like three times.
+[5002.49s -> 5003.69s]  You want me to do this joke again?
+[5003.69s -> 5004.33s]  It was a funny joke.
+[5005.45s -> 5007.69s]  That was the punchline.
+[5008.57s -> 5014.28s]  Actually, and it turns out at some point
+[5014.28s -> 5016.04s]  we slipped into the worst timeline.
+[5016.04s -> 5017.88s]  I don't know exactly when that happened,
+[5017.88s -> 5020.68s]  but we just kind of slipped streamed on in there.
+[5024.84s -> 5026.04s]  It was pretty impressive.
+[5026.04s -> 5030.28s]  As far as I know, there's still some major, major bugs
+[5030.28s -> 5033.56s]  with Fallout 76 and that whole thing about-
+[5033.56s -> 5035.08s]  which is one of the reasons when Tom was like,
+[5035.08s -> 5037.64s]  yeah, we have such a great community.
+[5038.28s -> 5040.92s]  That's because your PVP mechanics are broken.
+[5042.52s -> 5044.20s]  That's why they aren't killing each other.
+[5044.20s -> 5046.36s]  It's because that system is fundamentally flawed
+[5047.24s -> 5048.44s]  and people don't use it.
+[5049.08s -> 5050.36s]  You want to, but you can't.
+[5050.92s -> 5056.94s]  Yeah, so it's a little interesting.
+[5058.14s -> 5058.78s]  I don't know.
+[5058.78s -> 5059.74s]  Here's the thing.
+[5059.74s -> 5062.70s]  I knew there was going to be blade stuff.
+[5062.70s -> 5066.46s]  I knew there was going to be ESO 26.
+[5066.46s -> 5067.66s]  This is the kind of thing I had to do.
+[5067.66s -> 5067.74s]  Sorry.
+[5067.74s -> 5070.06s]  These are all things that are going to happen.
+[5070.06s -> 5070.56s]  Right.
+[5071.50s -> 5075.74s]  But I will say the Commander Keen stuff.
+[5076.54s -> 5077.02s]  That was-
+[5077.02s -> 5077.52s]  Yeah.
+[5078.30s -> 5082.06s]  That kind of hit me on a spiritual level.
+[5082.06s -> 5087.58s]  I grew up with Commander Keen and it was the kind of thing where-
+[5089.50s -> 5092.38s]  I'm just going to go ahead and pretty much make the same joke.
+[5093.34s -> 5094.14s]  It's the kind of thing where-
+[5094.14s -> 5094.86s]  I do that every day.
+[5095.34s -> 5099.50s]  I had to watch Command and Conquer, go mobile,
+[5100.54s -> 5104.54s]  and then die this public execution-style death
+[5104.54s -> 5106.30s]  where everyone just gave up on it.
+[5106.30s -> 5108.54s]  And now we have to do that with Commander Keen.
+[5109.10s -> 5113.82s]  And it's just like, oh man.
+[5113.82s -> 5114.30s]  It sucks.
+[5115.42s -> 5116.22s]  It's unfortunate.
+[5116.22s -> 5121.82s]  It's like us old people have to watch our favorite franchises become our worst enemy.
+[5122.86s -> 5123.90s]  Mortal Kombat says hello.
+[5125.26s -> 5126.30s]  It's just unfortunate.
+[5127.90s -> 5129.58s]  Should we just go into the conference talk at this point?
+[5133.58s -> 5138.94s]  Zeke, me and you are out on Fallout 76.
+[5138.94s -> 5141.42s]  We played it for a day and then we're good there.
+[5142.06s -> 5143.18s]  Nobody who played it.
+[5143.18s -> 5144.30s]  Spent some time with the game.
+[5145.26s -> 5146.14s]  And you also are-
+[5147.82s -> 5148.46s]  Follow me.
+[5148.46s -> 5148.96s]  Follow me.
+[5150.46s -> 5150.86s]  I'm sorry.
+[5153.02s -> 5154.54s]  Is the BR at all interesting?
+[5155.26s -> 5155.90s]  Is that-
+[5155.90s -> 5156.40s]  No.
+[5158.22s -> 5159.26s]  What's your guys' favorite fast food?
+[5159.26s -> 5161.90s]  Movement in everything of the Fallout games has never been my draw to it.
+[5161.90s -> 5164.86s]  So why would I want a game that relies on movement and shooting
+[5165.98s -> 5168.94s]  when those are the things that are not good about the game?
+[5170.06s -> 5171.26s]  That's Fallout 76.
+[5172.46s -> 5173.74s]  Wendy's is probably the best, I think.
+[5173.74s -> 5177.02s]  They're also still having pretty major server stability issues.
+[5177.02s -> 5177.58s]  Yeah.
+[5177.58s -> 5178.62s]  Another thing they are, you're right.
+[5178.62s -> 5181.98s]  Small groups of players on spread out servers
+[5181.98s -> 5184.78s]  and they're wanting to do 52 player games now?
+[5184.78s -> 5187.34s]  Somebody in my chat just said it's fucking hilarious.
+[5187.34s -> 5188.06s]  It's just the game isn't-
+[5188.06s -> 5189.74s]  Somebody in my chat just said-
+[5189.74s -> 5190.62s]  Hold on, hold on.
+[5190.62s -> 5191.18s]  Listen.
+[5191.18s -> 5194.86s]  The story in my chat just said that Burger King was the best.
+[5196.86s -> 5197.50s]  No, I'm sorry.
+[5197.50s -> 5197.90s]  I'm sorry.
+[5197.90s -> 5198.70s]  I don't mean to interrupt you.
+[5198.70s -> 5199.98s]  It's in a different dimension.
+[5199.98s -> 5200.94s]  The Burger King really-
+[5200.94s -> 5201.50s]  I don't know, man.
+[5201.50s -> 5203.90s]  The death is what happened and then the-
+[5203.90s -> 5205.34s]  That's unbelievable.
+[5205.34s -> 5205.82s]  I can't even-
+[5206.54s -> 5209.58s]  Slowly rolling down the hill without any-
+[5209.58s -> 5210.06s]  I'm sorry.
+[5210.06s -> 5210.62s]  I'm sorry.
+[5210.62s -> 5211.90s]  I really don't mean to fuck this whole thing up.
+[5212.94s -> 5214.46s]  My favorite thing, I think-
+[5214.78s -> 5217.98s]  ...about the Fallout 76 portion is the crowd member that when they said
+[5217.98s -> 5220.70s]  that the server capacity was being raised just lost his shit.
+[5220.70s -> 5223.66s]  He just really was all about the server capacity.
+[5224.22s -> 5226.14s]  What was going on with the fucking crowd?
+[5226.14s -> 5227.02s]  The whole conference-
+[5227.02s -> 5227.90s]  That guy's screaming!
+[5227.90s -> 5229.66s]  ...up until PSO was done-
+[5229.66s -> 5230.94s]  That guy's fucking screaming!
+[5230.94s -> 5232.70s]  ...was really into that shit.
+[5232.70s -> 5232.94s]  Right?
+[5232.94s -> 5233.98s]  Maybe a little bit too much.
+[5235.82s -> 5236.70s]  You get it.
+[5236.70s -> 5238.22s]  There was employees up front.
+[5238.22s -> 5239.82s]  Do we have a direct source that was saying it?
+[5239.82s -> 5242.62s]  Well, they were all wearing Bethesda shirts so I think that was the-
+[5243.58s -> 5248.62s]  I went to a conference like two years ago and they had our seats in the very front.
+[5248.62s -> 5252.30s]  So I'm assuming that that was what they did before.
+[5252.30s -> 5252.86s]  Right.
+[5252.86s -> 5254.06s]  But I'm not positive.
+[5254.06s -> 5255.02s]  There are still-
+[5255.02s -> 5256.46s]  I gotta go?
+[5256.46s -> 5257.82s]  Thanks for inviting me.
+[5257.82s -> 5258.78s]  Even 76 has-
+[5258.78s -> 5259.58s]  I gotta get out of here.
+[5259.58s -> 5261.98s]  They weren't kidding when they said that 76 has an active player base.
+[5261.98s -> 5263.90s]  I know people that are still-
+[5263.90s -> 5267.26s]  They put all the stuff to the side and they're still enjoying those games.
+[5267.26s -> 5269.02s]  And ESO is bigger than it's ever been.
+[5269.66s -> 5271.98s]  So, I mean, there's, you know, there's, there's-
+[5271.98s -> 5276.30s]  If you can drink the Kool-Aid, if you like that kind of stuff, then, you know-
+[5276.30s -> 5276.86s]  Kool-Aid's not-
+[5276.86s -> 5277.34s]  They're there.
+[5277.34s -> 5278.14s]  They're around.
+[5278.14s -> 5278.38s]  Yeah.
+[5279.98s -> 5280.70s]  I'm sorry, guys.
+[5280.70s -> 5281.26s]  I gotta go.
+[5281.26s -> 5282.06s]  I have to get out of here.
+[5283.26s -> 5284.70s]  I'm supposed to be for like two hours but-
+[5286.46s -> 5289.66s]  I gotta go to Burger King because people think it's a joke that I like it.
+[5289.66s -> 5291.18s]  Like, how much do you love Fallout 76?
+[5291.18s -> 5292.94s]  Or, excuse me, how much do you love Bethesda?
+[5293.90s -> 5297.50s]  And they gave out t-shirts and said, we'll give you a front row ticket.
+[5297.50s -> 5298.30s]  Should I just go?
+[5298.30s -> 5300.06s]  Make sure to be really enthusiastic.
+[5300.06s -> 5300.30s]  Sure.
+[5301.18s -> 5301.42s]  Yeah.
+[5301.42s -> 5302.94s]  I thought, my name's Jerma985.
+[5302.94s -> 5303.90s]  Please.
+[5303.90s -> 5307.02s]  You'd think they would know, like, maybe tone it down after a little bit.
+[5308.30s -> 5309.26s]  Well, we got, we gotta be careful.
+[5309.26s -> 5311.34s]  Let's not yuck their yum, you know?
+[5312.94s -> 5313.66s]  Yeah, celebrate it.
+[5313.66s -> 5314.86s]  They're enjoying it and having their fun.
+[5314.86s -> 5315.66s]  If I could get a shout out-
+[5315.66s -> 5317.34s]  We'll have our negative opinions and they can keep having fun.
+[5317.34s -> 5318.62s]  Jerma985 is my name.
+[5318.62s -> 5319.34s]  Exactly.
+[5319.34s -> 5319.82s]  Exactly.
+[5320.38s -> 5322.86s]  The other favorite thing, I think Zeke caught this.
+[5322.86s -> 5325.74s]  I don't know if Anne or Co did, but Zeke lost a shit when they said it.
+[5325.74s -> 5330.70s]  In the Wastelanders trailer that they showed, the voice-acted line was,
+[5330.70s -> 5332.70s]  we didn't expect anyone to come back.
+[5333.50s -> 5334.30s]  That was-
+[5334.30s -> 5334.78s]  I'll see what-
+[5336.30s -> 5338.14s]  That's pretty on the nose.
+[5338.14s -> 5339.18s]  You'll just get somebody else.
+[5339.18s -> 5342.22s]  That was so, so delicious to hear that.
+[5342.22s -> 5344.86s]  Just like, we didn't expect anyone to come back.
+[5344.86s -> 5346.30s]  I was like, really?
+[5348.54s -> 5348.86s]  Yeah.
+[5349.98s -> 5354.06s]  The next line was, I can't believe you idiots are still giving us your money.
+[5355.90s -> 5357.34s]  But we were all laughing, so we went over.
+[5357.34s -> 5358.14s]  Exactly. That's right.
+[5359.42s -> 5362.94s]  Co, the other stuff, and you brought this up as we were watching it.
+[5362.94s -> 5365.66s]  The human NPCs, full quest line, and dialogue trees.
+[5365.66s -> 5368.06s]  Didn't they say that stuff was never going to be in Fallout 76?
+[5368.06s -> 5372.22s]  They specifically marketed the product to not include that.
+[5372.22s -> 5374.78s]  It's just kind of hilarious because when the beta came out,
+[5375.66s -> 5376.86s]  everyone and their mother was like,
+[5376.86s -> 5379.10s]  this game could totally have NPCs.
+[5379.10s -> 5380.54s]  You should put NPCs in here.
+[5380.54s -> 5382.06s]  And they were like, no, no, no.
+[5382.06s -> 5383.18s]  That's our decision.
+[5383.18s -> 5385.42s]  We are here deciding not to do this.
+[5385.90s -> 5386.86s]  This is going to be awesome.
+[5386.86s -> 5388.30s]  And then a year later, they're like,
+[5388.30s -> 5389.98s]  okay, guys, we're putting the NPCs in.
+[5389.98s -> 5390.62s]  Okay.
+[5390.62s -> 5392.30s]  They're going to have quest lines and dialogue trees.
+[5393.26s -> 5394.22s]  We're putting them back.
+[5394.22s -> 5394.54s]  It's cool.
+[5394.54s -> 5395.42s]  It's cool.
+[5395.42s -> 5397.10s]  It's just kind of funny because it's like, dude,
+[5397.82s -> 5400.94s]  that's what they were screaming at you from before the game was out.
+[5403.10s -> 5405.26s]  Now, maybe if they start listening to all that stuff,
+[5405.26s -> 5407.02s]  hey, maybe Fallout 76 can get good.
+[5407.66s -> 5409.18s]  Maybe it's a step in the right direction.
+[5410.22s -> 5412.78s]  Nothing's not saveable, given enough work and time.
+[5413.90s -> 5414.62s]  Yeah, we'll see.
+[5414.62s -> 5415.02s]  We'll see.
+[5415.74s -> 5416.86s]  We will indeed see.
+[5417.42s -> 5419.58s]  Right after that, I think the show's starting to
+[5421.02s -> 5423.34s]  get some life into it, I would say,
+[5423.34s -> 5426.30s]  with Ghostwire Tokyo, which is from The Evil Within Devs.
+[5428.06s -> 5428.94s]  This thing looks pretty good.
+[5430.78s -> 5432.30s]  It's an action adventure game.
+[5434.54s -> 5435.98s]  We didn't see any gameplay at all,
+[5435.98s -> 5437.18s]  but the trailer was sick.
+[5437.90s -> 5440.30s]  That was a really good trailer or teaser
+[5440.30s -> 5441.34s]  or whatever the fuck you want to call it.
+[5441.34s -> 5445.18s]  But also, you know, we'll see the gameplay,
+[5445.18s -> 5446.14s]  but yeah.
+[5447.50s -> 5448.78s]  Think about Evil Within.
+[5448.78s -> 5449.82s]  These are the same devs.
+[5449.82s -> 5454.54s]  They did a great job of translating their CGI stuff,
+[5454.54s -> 5456.22s]  which they initially just showed,
+[5456.22s -> 5459.58s]  into an actual pretty well-made game.
+[5459.58s -> 5461.02s]  I had a great time with Evil Within.
+[5461.02s -> 5461.42s]  Yeah.
+[5461.42s -> 5463.26s]  And not only that, but it looks like,
+[5463.26s -> 5465.18s]  and yeah, I've known at every point of my life.
+[5465.18s -> 5466.22s]  I like Evil Within one day.
+[5466.22s -> 5466.78s]  I didn't.
+[5466.78s -> 5467.34s]  I really didn't.
+[5468.14s -> 5471.98s]  But with this new thing, apparently something I didn't pick up on
+[5471.98s -> 5474.78s]  is the guy that introduced the woman
+[5475.26s -> 5478.14s]  introduced she is like his protege.
+[5478.14s -> 5478.38s]  Yeah.
+[5478.38s -> 5480.38s]  So it's kind of like we just we just kind of
+[5481.42s -> 5484.62s]  this passing of the torch, which is kind of awesome.
+[5484.62s -> 5486.30s]  And she was great, by the way.
+[5486.30s -> 5486.86s]  Oh my gosh.
+[5486.86s -> 5487.66s]  She was adorable.
+[5487.66s -> 5488.46s]  She was great.
+[5488.46s -> 5489.34s]  That was awesome.
+[5491.98s -> 5492.86s]  I think this is a sequel.
+[5492.86s -> 5494.06s]  The aesthetic was awesome.
+[5494.06s -> 5495.34s]  A lot of stylized elements.
+[5495.34s -> 5496.94s]  A lot of really interesting imagery.
+[5497.98s -> 5501.18s]  If the gameplay is good, this could be this could be big.
+[5501.26s -> 5503.10s]  Yeah, I thought about Zeke thought.
+[5503.10s -> 5507.58s]  Yeah, well, I like like it's just a scene like that.
+[5507.58s -> 5508.22s]  Like, look at that.
+[5508.22s -> 5511.42s]  There's I thought those are going to turn into worms, by the way.
+[5511.42s -> 5511.74s]  Sorry.
+[5511.74s -> 5512.22s]  Interrupt.
+[5517.58s -> 5518.86s]  Yeah, yeah.
+[5521.66s -> 5523.18s]  Hey, no, hey, no, what are you doing?
+[5524.70s -> 5526.22s]  No, I want to be part of it, too.
+[5526.22s -> 5530.46s]  The look of it in the intrigue, the like, you know,
+[5530.46s -> 5534.62s]  not knowing what's going on, but how cool it like it's compelling.
+[5534.62s -> 5537.34s]  And I really make intrigue to see how this.
+[5585.90s -> 5590.26s]  By the way, let me just say all those people there,
+[5590.26s -> 5591.54s]  they're really fun, nice people.
+[5592.18s -> 5597.90s]  Just don't ban me from Twitch.
+[5597.90s -> 5598.62s]  I didn't do anything.
+[5599.18s -> 5602.12s]  Devolver is happening right now.
+[5603.99s -> 5605.19s]  I mean, you can hear me.
+[5605.19s -> 5605.83s]  You can hear me or not?
+[5608.63s -> 5610.79s]  No, no, no, no, no, no Devolver.
+[5610.79s -> 5613.59s]  I want to watch Devolver like downstairs with like a bowl of spaghetti.
+[5614.31s -> 5621.11s]  I just want to eat a bowl of spaghetti downstairs and watch.
+[5621.11s -> 5623.51s]  Devolver is only like an hour or like 45 minutes, right?
+[5623.51s -> 5624.39s]  Less than 45 minutes.
+[5624.95s -> 5626.82s]  I'm way too loud.
+[5626.82s -> 5627.30s]  No, I'm not.
+[5627.30s -> 5627.70s]  I'm fine.
+[5628.34s -> 5632.63s]  I'm not going to eat a bowl.
+[5632.63s -> 5633.35s]  No, I'm not going to.
+[5633.35s -> 5633.91s]  I'll see you tomorrow.
+[5633.91s -> 5638.68s]  I'll see you tomorrow for what's the first.
+[5638.68s -> 5639.56s]  What's tomorrow?
+[5639.56s -> 5640.60s]  Let's take a look.
+[5640.60s -> 5655.00s]  Tomorrow is Ubisoft Square.
+[5655.80s -> 5658.34s]  We'll catch those months.
+[5658.90s -> 5664.74s]  Go make duck broth.
+[5665.46s -> 5667.86s]  We're going to play Cooking Sim tomorrow
+[5667.86s -> 5670.90s]  because I have to kill like an hour or two again in the middle.
+[5670.90s -> 5675.69s]  When is the PC gaming show as well?
+[5675.69s -> 5677.21s]  That's at like 10 o'clock in the morning, isn't it?
+[5682.17s -> 5682.49s]  If I...
+[5682.49s -> 5684.65s]  Okay, is that 10 a.m. Eastern?
+[5693.54s -> 5694.74s]  10, 9, 8...
+[5694.74s -> 5696.26s]  I got to get up at 7 o'clock in the morning?
+[5701.88s -> 5702.92s]  Please don't leave me.
+[5707.51s -> 5708.79s]  You might see me for the PC one too.
+[5718.68s -> 5719.56s]  Don't go.
+[5719.56s -> 5720.44s]  Don't go.
+[5720.44s -> 5720.92s]  Skip it.
+[5722.12s -> 5723.00s]  Yeah, we'll see.
+[5723.00s -> 5725.42s]  I got to get some food to me.
+[5728.86s -> 5730.38s]  I will see you guys tomorrow.
+[5730.38s -> 5735.61s]  That's the end.
+[5735.61s -> 5741.02s]  It's been six and a half hours.
+[5741.02s -> 5741.50s]  Holy shit.
+[5751.59s -> 5753.43s]  Watch Devolver all the across.
+[5753.43s -> 5757.53s]  Oh, let me mute this before everyone hates me.
+[5758.33s -> 5770.57s]  Yeah, I'll be live for at least Ubisoft and Square.
+[5770.57s -> 5771.53s]  We'll play something in the middle.
+[5772.33s -> 5774.17s]  If I get up early enough, maybe the PC conference.
+[5774.17s -> 5776.89s]  But I don't think I'm going to get up at like 7 o'clock in the morning.
+[5776.89s -> 5779.70s]  Was there on my mic?
+[5779.70s -> 5780.58s]  Is my mic fucked up?
+[5785.27s -> 5786.87s]  But interesting stuff.
+[5787.43s -> 5789.75s]  I'm really looking forward to Phantasy Star Online 2.
+[5790.31s -> 5792.14s]  That looks pretty great.
+[5793.54s -> 5794.82s]  That's because I'm peeking.
+[5795.85s -> 5796.57s]  Something's not right.
+[5800.54s -> 5801.58s]  Devolver doesn't need content.
+[5801.58s -> 5802.38s]  But that's what I mean.
+[5802.38s -> 5806.30s]  Devolver is like its own complete edited video package.
+[5806.30s -> 5807.50s]  And me just kind of in the corner.
+[5807.50s -> 5809.26s]  I don't think I don't really want to do that.
+[5809.98s -> 5813.24s]  For the other ones, it's like live and people are talking.
+[5814.04s -> 5816.92s]  Devolver usually does like a full just edited video, right?
+[5817.72s -> 5819.37s]  I don't know if I want to just sit there and...
+[5820.33s -> 5821.85s]  I can't really add anything to that, I don't think.
+[5822.49s -> 5829.11s]  I felt the same way about Nintendo too.
+[5830.25s -> 5830.65s]  We'll see.
+[5831.21s -> 5833.13s]  But we're going to do the bits real quick.
+[5833.69s -> 5834.65s]  Thanks everybody for watching.
+[5834.65s -> 5835.77s]  I hope you had a fun time.
+[5835.77s -> 5837.21s]  I hope you got to see some things you liked.
+[5838.01s -> 5842.70s]  I'll see you tomorrow for more of the conferences.
+[5846.46s -> 5847.50s]  If you catch it, you catch it.
+[5847.50s -> 5850.55s]  If not, then maybe we'll see you again soon.
+[5851.11s -> 5851.91s]  Thanks a lot everybody.
+[5854.15s -> 5858.06s]  See you tomorrow.
+[5858.06s -> 5859.26s]  And for those of you that are sticking around,
+[5859.82s -> 5862.46s]  for a few minutes while we go over the bits and the subs,
+[5863.56s -> 5868.33s]  we had 250 from Deja.
+[5869.83s -> 5871.67s]  Thank you Deja for the 250.
+[5871.67s -> 5875.51s]  Lego Forza sounds like a PS2 cheat code and not a $10 expansion.
+[5883.90s -> 5885.18s]  People are probably going to love it though.
+[5885.82s -> 5888.62s]  Tingy, thanks for the 250.
+[5889.26s -> 5890.86s]  Lego for next Germa Rumble.
+[5891.58s -> 5898.14s]  Like just a physical Lego?
+[5898.14s -> 5904.63s]  I don't think I can even make that.
+[5907.88s -> 5910.20s]  Thank you Turbo Pasta for the $3.
+[5910.20s -> 5911.88s]  Master of Comedy has competition.
+[5912.60s -> 5913.40s]  Thanks for the last.
+[5914.28s -> 5915.80s]  And they link a Twitter.
+[5915.80s -> 5918.81s]  Somebody made a Germa the Giant Twitter.
+[5919.37s -> 5921.06s]  You guys are fast.
+[5921.78s -> 5929.21s]  That's not an officially endorsed Twitter account by the way.
+[5934.94s -> 5937.45s]  Thank you though.
+[5937.45s -> 5939.37s]  Thank you Demonic Cucumber for the $3.
+[5939.37s -> 5940.41s]  It didn't mean much to you,
+[5940.41s -> 5942.89s]  but the Lego Speed Champions left me hyped.
+[5942.89s -> 5946.17s]  The map had an Easter egg to this failed Lego theme.
+[5947.58s -> 5950.46s]  Plus the Lego Star Wars announcement left me sobbing with joy.
+[5951.18s -> 5953.10s]  Anyways, for the everything is Lego joke,
+[5953.10s -> 5956.14s]  I have to agree as we got Lego Stranger Things
+[5956.14s -> 5958.62s]  and Lego Minions announced within a month of each other.
+[5959.86s -> 5960.98s]  It just does really well.
+[5961.54s -> 5966.04s]  The Lego is just completely timeless forever.
+[5966.84s -> 5974.58s]  A timeless, timeless classic thing that will never go away.
+[5975.30s -> 5982.95s]  It's as old as dirt, but thank you.
+[5984.60s -> 5987.08s]  Thank you also to Mini Clips for the $10.
+[5988.28s -> 5991.24s]  I heard Todd Howard adopted two kids and named one Todd
+[5991.80s -> 5992.84s]  and the other Howard.
+[5995.32s -> 5996.28s]  I'm not sure that's real,
+[5996.28s -> 5997.80s]  but thank you for the $10.
+[5997.80s -> 5998.36s]  Appreciate it.
+[6001.56s -> 6003.40s]  Hey Zalaski, thanks for the 250.
+[6003.40s -> 6008.44s]  ISE3 2019, where we celebrate 24 years of gamers pretending
+[6009.40s -> 6011.80s]  at a trade show for investors and retailers,
+[6012.36s -> 6013.72s]  a convention for them and flipping out
+[6013.72s -> 6015.56s]  when it doesn't live up to their expectations.
+[6016.20s -> 6025.29s]  Kind of increase those stock prices.
+[6025.29s -> 6025.69s]  Thank you.
+[6025.69s -> 6027.37s]  I'll store H2O for the $5.
+[6027.37s -> 6029.45s]  The Microsoft conference felt like they were a bigger pitch
+[6029.45s -> 6032.97s]  to PC gaming, like they're keeping their options open
+[6034.15s -> 6038.15s]  for an exit from the console market.
+[6038.15s -> 6040.47s]  Do you think that the big hardware makers
+[6040.47s -> 6043.11s]  focusing on high specs in exchange for price accessibility
+[6043.11s -> 6045.19s]  is the better option for the next generation of gaming?
+[6045.99s -> 6048.71s]  All-in-one entertainment consoles like the Xbox One
+[6049.43s -> 6050.31s]  seem to have failed.
+[6051.03s -> 6053.51s]  But I worry that in going in other directions
+[6053.51s -> 6055.91s]  might make any console that's not the switch inaccessible.
+[6060.73s -> 6063.53s]  I think a lot of the hardware makers
+[6064.33s -> 6066.33s]  are almost really, really desperate to have
+[6067.72s -> 6072.12s]  CD lists and subscription-based content
+[6073.16s -> 6074.28s]  that's starting to really...
+[6075.16s -> 6077.24s]  They can cut back on so many costs.
+[6078.04s -> 6078.68s]  All these people...
+[6078.68s -> 6082.73s]  They don't have to make product anymore,
+[6082.73s -> 6084.89s]  like actual on-the-shelf product anymore,
+[6084.89s -> 6086.01s]  if that ever gets to a point.
+[6086.65s -> 6094.07s]  Think about how much Xbox desperately would save
+[6095.22s -> 6096.98s]  and all these other publishers will save
+[6096.98s -> 6099.70s]  if there's no more physical boxes anymore.
+[6099.70s -> 6101.22s]  And that's not really a good thing
+[6102.02s -> 6103.54s]  because we've seen so many times,
+[6104.70s -> 6106.22s]  oh, yeah, it's just a stream.
+[6106.22s -> 6106.94s]  It's a service.
+[6106.94s -> 6108.54s]  It's, you know, download the game.
+[6108.54s -> 6109.18s]  You don't own it.
+[6109.18s -> 6110.38s]  We do, but it's our server.
+[6110.38s -> 6111.74s]  But you get the little key to it.
+[6112.30s -> 6113.64s]  That could be bad.
+[6116.47s -> 6118.31s]  But that's the direction a lot of them want to go, I think,
+[6119.03s -> 6121.14s]  because they can save so much money
+[6122.44s -> 6123.88s]  on manufacturing costs.
+[6124.52s -> 6130.10s]  Somebody mentioned the death of music and CDs.
+[6130.98s -> 6131.70s]  Look at Spotify.
+[6131.70s -> 6134.26s]  Spotify is what you do for music.
+[6136.66s -> 6138.34s]  90% of the people in this chat right now
+[6138.34s -> 6140.10s]  probably just have Spotify.
+[6140.10s -> 6142.18s]  And maybe you still have CDs,
+[6142.18s -> 6145.24s]  but subscription models or what?
+[6145.96s -> 6147.24s]  It's kind of the future, I guess.
+[6151.96s -> 6155.64s]  Interesting to see what happens.
+[6155.64s -> 6157.72s]  There are pros and cons for both of them.
+[6159.85s -> 6160.33s]  But thank you.
+[6161.13s -> 6162.49s]  Hey, Zellgrote, thanks for the $5.
+[6163.45s -> 6164.97s]  I was watching your Super Fight stream
+[6164.97s -> 6166.17s]  and would love to see you in Star
+[6166.17s -> 6167.13s]  and it's Alex played again.
+[6168.01s -> 6169.93s]  By the way, Todd is in your cupboard.
+[6172.06s -> 6173.98s]  He got to Las Vegas real quick.
+[6174.70s -> 6176.70s]  He must have taken like a bullet train.
+[6182.33s -> 6185.00s]  But that's the game where you
+[6187.03s -> 6188.71s]  you have to argue your way
+[6190.02s -> 6191.78s]  over somebody else with like a monster
+[6191.78s -> 6192.90s]  or a power or something, right?
+[6193.54s -> 6198.10s]  They probably updated it a lot.
+[6198.10s -> 6198.82s]  Might be worth doing.
+[6199.46s -> 6201.21s]  But thank you.
+[6201.21s -> 6203.53s]  Thank you, FlyingPixels, $30 earlier.
+[6204.09s -> 6205.29s]  30 bucks from FlyingPixels.
+[6205.29s -> 6207.13s]  You made me laugh so hard that I cried.
+[6207.13s -> 6208.65s]  That hasn't happened in a while.
+[6208.65s -> 6209.45s]  Thanks for the laughs.
+[6210.17s -> 6211.45s]  Thanks for the 30 fucking dollars
+[6212.33s -> 6213.45s]  and for hanging out
+[6213.45s -> 6218.57s]  and choosing my stream to take E3 in with.
+[6218.57s -> 6219.21s]  So thank you.
+[6219.77s -> 6221.54s]  Really appreciate it.
+[6224.36s -> 6226.28s]  Freudian Weapon, thanks for 250.
+[6226.28s -> 6227.48s]  No message, just 250.
+[6228.52s -> 6229.00s]  Thank you.
+[6229.00s -> 6231.72s]  Jerma lied and didn't draw sticks.
+[6231.72s -> 6232.84s]  Thanks for the 250.
+[6232.84s -> 6233.72s]  You're a dragon.
+[6235.53s -> 6238.18s]  You said scalies were not people.
+[6238.18s -> 6239.06s]  You aren't a person.
+[6240.89s -> 6241.13s]  What?
+[6241.13s -> 6243.05s]  No, I said I said a dragon.
+[6243.05s -> 6244.89s]  I said a dragon is not a human.
+[6246.38s -> 6246.94s]  Because they're not.
+[6246.94s -> 6247.74s]  They're a lizard.
+[6247.74s -> 6248.94s]  A layer like a lizard.
+[6249.50s -> 6250.86s]  A dragon is not a person.
+[6253.27s -> 6256.14s]  They're a they're a dragon.
+[6256.14s -> 6260.79s]  How is that incorrect?
+[6264.66s -> 6267.06s]  Spliceable Spleen gave five community subs earlier.
+[6267.06s -> 6267.94s]  Thanks for the five subs.
+[6268.50s -> 6270.02s]  Dropped him about 10 minutes ago.
+[6270.02s -> 6270.42s]  Thank you.
+[6271.14s -> 6277.35s]  Thank you so much for the five community subs.
+[6277.35s -> 6280.42s]  And then finally here we had let's get the
+[6280.42s -> 6282.74s]  let's get the credits on here while we have a second.
+[6285.27s -> 6287.27s]  Join us tomorrow where we do it all again.
+[6287.91s -> 6289.99s]  We check out some of the other conferences.
+[6292.39s -> 6294.07s]  Enjoy the rest of tonight's E3.
+[6294.07s -> 6297.70s]  There's Devolver going on like in 20-30 minutes.
+[6298.52s -> 6300.52s]  And then probably some after show stuff if you, you know,
+[6300.52s -> 6301.24s]  go check it out.
+[6301.24s -> 6302.68s]  There's a lot of great streamers doing this.
+[6303.32s -> 6305.02s]  There's a lot of good content.
+[6305.02s -> 6307.02s]  A lot of good live stuff going on I think after too.
+[6307.02s -> 6308.38s]  So check it out.
+[6308.94s -> 6313.86s]  Let's roll the credits right now.
+[6314.42s -> 6318.87s]  Here they come.
+[6318.87s -> 6319.83s]  Oh my god.
+[6320.97s -> 6322.25s]  With this many subs?
+[6325.02s -> 6325.66s]  Holy shit.
+[6329.90s -> 6331.18s]  That's a lot of fucking people.
+[6331.18s -> 6332.62s]  I didn't know that this many people sub tonight.
+[6333.58s -> 6333.82s]  Wow.
+[6335.51s -> 6336.07s]  That's a lot.
+[6336.87s -> 6339.83s]  Thank you to everybody that continues to subscribe to this stream.
+[6340.55s -> 6345.96s]  You had close to 8k viewers so yeah.
+[6345.96s -> 6348.28s]  And that's I thanks for watching that.
+[6349.50s -> 6351.18s]  Hopefully you thought it was fun.
+[6352.90s -> 6360.60s]  Feed your guild members will do right when I before I close it out.
+[6360.60s -> 6362.92s]  But thank you to PeacefulHaley for the 250.
+[6364.06s -> 6365.85s]  Thank you PeacefulHaley.
+[6365.85s -> 6366.97s]  Hey Jeremy, how are you?
+[6366.97s -> 6367.93s]  I'm doing pretty damn good.
+[6368.41s -> 6372.17s]  I haven't been here in a while but this year's Bethesda conference is probably the worst.
+[6372.17s -> 6373.37s]  Just completely dull.
+[6373.37s -> 6376.81s]  But at the same time I don't like shitting on the people who make these games.
+[6376.81s -> 6381.37s]  Because they work hard and are excited about it and I hate seeing people shit on them.
+[6381.37s -> 6384.25s]  Even though I can agree yeah this is pretty boring and meh.
+[6384.25s -> 6385.93s]  Hope Nintendo will save the day.
+[6385.93s -> 6386.97s]  Anyways enjoy your night.
+[6389.72s -> 6394.31s]  Yeah I mean it's look there are some great things that were shown today.
+[6394.87s -> 6397.93s]  We fell for the bot again.
+[6397.93s -> 6398.41s]  What bot?
+[6398.97s -> 6402.09s]  What did I do?
+[6402.09s -> 6405.19s]  Jeremy has read more bot messages?
+[6406.07s -> 6410.07s]  What bot?
+[6410.63s -> 6415.43s]  I have no idea what you guys are talking about.
+[6415.43s -> 6416.87s]  My chat just crashed.
+[6416.87s -> 6417.91s]  What the hell is going on?
+[6420.25s -> 6421.37s]  My browser just crashed.
+[6427.82s -> 6432.78s]  Oh anyways um I mean there's a lot of things that aren't for me.
+[6433.42s -> 6436.06s]  But there's a few things that I would say that looks pretty great.
+[6436.94s -> 6438.94s]  The problem with game conferences like this.
+[6442.70s -> 6447.82s]  A lot of it is just let's all like pretend in a room for an hour.
+[6448.46s -> 6449.67s]  You know what I mean?
+[6449.67s -> 6452.15s]  Hey let's just like get a bunch of people together and let's like just
+[6452.87s -> 6458.23s]  game some excitement for stuff that may not be as exciting as it looks.
+[6458.95s -> 6462.74s]  But that's just the nature of the business.
+[6462.74s -> 6463.70s]  That's just the way it is.
+[6464.42s -> 6470.65s]  Look people have talked shit about like the fake goofy E3 presentations
+[6470.65s -> 6474.17s]  and game releases and game showings for years.
+[6474.17s -> 6475.45s]  And they're not really changing.
+[6476.41s -> 6478.49s]  They kind of still follow the same formula every time.
+[6479.05s -> 6481.29s]  Yeah it's just a giant sales pitch.
+[6482.81s -> 6484.49s]  It's a giant pre-sales pitch.
+[6486.78s -> 6490.70s]  But obviously Microsoft announced a new console which that's not just like hey
+[6491.82s -> 6494.14s]  buy uh wash dogs 4.
+[6494.86s -> 6496.50s]  I mean that's a new console.
+[6497.14s -> 6501.58s]  But it is what it is.
+[6502.46s -> 6503.26s]  I still enjoy them.
+[6503.26s -> 6504.14s]  They're still fun to watch.
+[6504.14s -> 6505.90s]  They're still interesting because they're just like announcements
+[6505.90s -> 6508.22s]  and sometimes they're exciting things like the George R.R. Martin
+[6508.94s -> 6510.46s]  and From Software collaboration.
+[6511.34s -> 6513.10s]  How could you not be excited about something like that?
+[6513.10s -> 6514.46s]  That's a big that's a huge deal.
+[6515.18s -> 6516.50s]  That'll be a lot of fun.
+[6518.36s -> 6519.32s]  Hopefully.
+[6522.39s -> 6524.95s]  But thank you to Peaceful Haley for that little tidbit.
+[6527.00s -> 6528.76s]  Fajita Meat thanks for the five dollars.
+[6529.48s -> 6530.04s]  Seems good.
+[6530.04s -> 6532.52s]  Had a great time watching you watch E3.
+[6532.52s -> 6533.48s]  Quick question.
+[6533.48s -> 6537.08s]  What's with all the angry faces on your video thumbnails in the German stream archive?
+[6538.44s -> 6539.40s]  Wait what?
+[6539.40s -> 6541.00s]  What do you mean angry faces?
+[6550.57s -> 6554.54s]  Well there's there's there's only like one angry there's only one angry
+[6554.54s -> 6555.50s]  there's no angry face.
+[6555.50s -> 6555.82s]  Where?
+[6556.54s -> 6562.49s]  I don't see any angry faces.
+[6562.49s -> 6564.57s]  I see a little a couple of awkward weirdo ones.
+[6565.13s -> 6569.18s]  I don't see angry face.
+[6572.34s -> 6574.10s]  Well I I don't I don't control this channel.
+[6575.88s -> 6576.60s]  The logos?
+[6576.60s -> 6578.04s]  Like the the J?
+[6581.85s -> 6582.33s]  I don't know.
+[6583.26s -> 6584.30s]  But thank you for the five dollars.
+[6584.30s -> 6588.94s]  And finally thank you C4G for the 250 final plus two score was 1876.
+[6589.50s -> 6591.83s]  I don't know if the bot posted or not when it was called.
+[6593.96s -> 6594.44s]  Not bad.
+[6598.06s -> 6601.99s]  Not bad.
+[6601.99s -> 6603.99s]  That's an 1800 plus positive.
+[6608.18s -> 6610.34s]  But uh see you tomorrow.
+[6610.34s -> 6611.06s]  Thanks for watching.
+[6611.70s -> 6614.65s]  Go enjoy the rest of the last conference that's going on.
+[6617.88s -> 6618.60s]  See you all soon.
+[6619.74s -> 6620.38s]  Take care.
+[6620.38s -> 6622.70s]  And here's uh I'm gonna feed the guild.
+[6623.58s -> 6624.54s]  Good night guys.
