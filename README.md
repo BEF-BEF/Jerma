@@ -5,11 +5,6 @@ run main.py
 
 comment out things until you stop getting errors
 
-
-look at faster-whisper installation documentation if you want to transcribe new videos.
-
-You will need to get a youtube api key and cookies.txt in secrets.
-
     # Index content for fast searching. It'll take a while the first time you run it then it's fast.
     index_content()
 
@@ -17,3 +12,10 @@ You will need to get a youtube api key and cookies.txt in secrets.
     search_indexed("Crack time!")
 
 these are the two lines that you need if you just want to search through the text
+
+
+
+
+### look at faster-whisper installation documentation if you want to transcribe new videos.
+
+You will need to get a youtube api key and cookies.txt in secrets.
