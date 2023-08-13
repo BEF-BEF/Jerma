@@ -55,7 +55,7 @@ Found in: outDirectories/Jerma Streams - Stream Awards 2021 and WWE 2K20/transcr
 URL: https://www.youtube.com/watch?v=6MEYUy91Y90&t=11141s
 ```
 
-## look at faster-whisper installation documentation if you want to transcribe new videos.
+## complete faster-whisper installation documentation if you want to transcribe new videos
 
 
 You will need to get a youtube api key and cookies.txt in secrets.
