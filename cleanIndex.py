@@ -40,6 +40,9 @@ def create_or_open_index(index_dir):
     if not os.path.exists(index_dir):
         os.makedirs(index_dir)
         print(f"Created new index directory: {index_dir}")
+        # Ensure indexed_files.txt is empty
+        with open(CONFIG["INDEXED_FILES_LIST"], 'w') as f:
+            pass  # This will create or truncate the file to be empty
         return create_in(index_dir, CONFIG["schema"])
     else:
         print(f"Opening existing index directory: {index_dir}")

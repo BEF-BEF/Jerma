@@ -37,7 +37,11 @@ these are the two lines that you need if you just want to search through the tex
 
 You will need to get a youtube api key and cookies.txt in secrets.
 
+Get a youtube API key: https://developers.google.com/youtube/v3/getting-started
 
+Get cookies.txt: I used cookies.txt extension in firefox
+
+Do more pip installs
 ```
 pip3 install --upgrade google-api-python-client
 
