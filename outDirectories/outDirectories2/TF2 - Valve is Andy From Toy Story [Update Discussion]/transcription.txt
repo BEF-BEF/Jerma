@@ -1,0 +1,91 @@
+[0.31s -> 18.26s]  Hey, what is going on, everybody? Jerma here with a Team Fortress 2 gameplay commentary, and tonight I'm gonna be playing as the Scout.
+[18.26s -> 23.26s]  So what I want to talk about in this video is about the new update. Yes, if you don't know, we just got a new update.
+[23.26s -> 28.26s]  If you've been living underneath a rock like Patrick Stewart Star, then you won't know this.
+[28.26s -> 33.26s]  But we got a major update to TF2, a lot of new Man vs. Machine stuff, and a few balance changes to weapons.
+[33.26s -> 36.26s]  But I'm not going to really cover all the content in the update.
+[36.26s -> 41.26s]  I'm going to cover what I think this update means for us as a Team Fortress community.
+[41.26s -> 46.26s]  And right off the bat, the first thing that we need to talk about here is this.
+[46.26s -> 51.69s]  This is the second content update that we've received to this game in the last two months.
+[51.69s -> 58.99s]  When was the last time they did anything like this? When was the last time we got two content updates sort of back to back in a row?
+[58.99s -> 62.99s]  That has not happened in probably like two years.
+[62.99s -> 67.30s]  And just around the corner, guys, are the holidays.
+[67.30s -> 72.54s]  There has always been a TF2 update to coincide with the holiday season.
+[72.54s -> 76.54s]  Now this could be the update that we're looking at right here, but I don't think so.
+[76.54s -> 82.54s]  There's always been something there a week before Christmas, usually at the week of the 20th to 21st.
+[82.54s -> 87.54s]  That's when they add a holiday-themed update, and it's happened every year without fail.
+[87.54s -> 93.78s]  That means we're potentially going to have three updates in three months to Team Fortress 2.
+[93.78s -> 96.21s]  Nobody could have ever believed that was ever going to happen.
+[96.21s -> 99.21s]  We all thought, oh, wow, we're not getting any updates. What's going on here?
+[99.21s -> 103.21s]  It's been like a year since we've seen anything really new to the game.
+[103.21s -> 107.21s]  I would have believed you more if you were sitting in a room with me across and sitting on the couch.
+[107.21s -> 112.21s]  If you told me, hey, there's going to be a TF2 update, three of them in a row in three months.
+[112.21s -> 119.21s]  And also, aliens are going to land tomorrow, and they're going to take your whole family and turn them into fucking loaves of bread.
+[119.21s -> 122.21s]  I probably would have been more inclined to believe the second statement.
+[122.21s -> 127.70s]  But regardless of that, it's awesome to see that Valve is spending time in this game.
+[127.70s -> 136.70s]  Because for the longest while now, the TF2 community has felt like an old, raggedy, broke down toy that Valve didn't want to play with anymore.
+[136.70s -> 138.70s]  Think about when you were a kid. Think about when you were younger.
+[138.70s -> 141.70s]  Think about when you were younger. You had that one toy that you really liked.
+[141.70s -> 145.70s]  Teddy Ruxpin was the coolest stuffed animal you could have had.
+[145.70s -> 149.70s]  You were the only guy on your street with a goddamn Teddy Ruxpin for crying out loud.
+[149.70s -> 153.70s]  And then Dota 2 comes around. The Matchbox cars.
+[153.70s -> 158.70s]  You used to remember Matchbox, power wheels. That was so cool.
+[158.70s -> 160.70s]  And you loved it. And you played with that.
+[160.70s -> 163.70s]  And Teddy Ruxpin just sat in the corner and kind of just cried for a while.
+[163.70s -> 167.70s]  And then eventually, eventually you went back to that toy.
+[167.70s -> 171.88s]  And eventually you picked up the Teddy Ruxpin and you said, holy hell, I remember this thing.
+[171.88s -> 175.88s]  This thing was awesome. It used to say like four different phrases. That's amazing.
+[175.88s -> 179.50s]  And that's kind of what the Valve team is doing right now.
+[179.50s -> 184.50s]  They spent a bunch of time on the Steam box, a bunch of time in Dota 2 and all these new projects.
+[184.50s -> 188.50s]  And then they just... Toy Story. I'm explaining the plot of Toy Story.
+[188.50s -> 194.50s]  Valve is Andy from Toy Story and we're fucking Woody. That's what's going on here.
+[194.50s -> 201.74s]  And at the end, at the very end of Toy Story, Andy finds out he can not only have fun with Buzz Lightyear,
+[201.74s -> 204.74s]  Dota 2 and the Steam box, but he can also have fun with Woody too.
+[204.74s -> 206.74s]  And it's a big happy family and the credits roll.
+[206.74s -> 212.74s]  And then there's like three more movies that explain much more weird shit that who even cared about in the first place.
+[212.74s -> 216.74s]  Didn't Toy Story 4 come out and Andy went to college and flunked out?
+[216.74s -> 218.74s]  I don't even know what happened to that. I didn't see the movie.
+[218.74s -> 222.18s]  All right, let's get back on track here now.
+[222.18s -> 224.66s]  So, what these updates mean?
+[224.66s -> 228.83s]  Think of the last three or four updates we've got to Team Fortress 2.
+[228.83s -> 231.83s]  No, they haven't added any new weapons to the game.
+[231.83s -> 233.83s]  And I know I've complained about this before.
+[233.83s -> 240.07s]  I have complained very outspokenly about how we haven't had anything really new added to the game in a long time.
+[240.07s -> 245.07s]  And I had this realization the other day, or well, today and yesterday, because that's when the update came out,
+[245.07s -> 251.38s]  that Valve is taking a different approach to how they're patching and content updating this game.
+[251.38s -> 252.38s]  It goes like this.
+[252.38s -> 259.86s]  They have added so many items to this game, so many weapons to this game that just go unused, right?
+[259.86s -> 265.86s]  And they do a bunch of these patches where they make balance changes to these items to make people actually want to use them.
+[265.86s -> 268.86s]  And that's what they did with the Baby Faces Blaster, this patch.
+[268.86s -> 276.86s]  They're taking this approach where, sure, we could add a new weapon that's plus 20% more fire damage and you piss rainbows.
+[276.86s -> 279.86s]  But who's going to use that item in the next two weeks?
+[279.86s -> 282.86s]  People will equip it. You'll see a couple of videos on it.
+[282.86s -> 285.86s]  But would I actually use that item in a game?
+[285.86s -> 289.86s]  And usually, most of the time, the answer to that question is no.
+[289.86s -> 295.10s]  So what they're doing is they're going back and they're trying to make all these items that they've added
+[295.10s -> 300.10s]  that not very many people really use and try to make them actual items that people will want to use.
+[300.10s -> 303.10s]  And the Baby Faces Blaster, as you're watching this video right now,
+[303.10s -> 307.10s]  has been changed into an item that I would see myself using from time to time.
+[307.10s -> 310.10s]  Switch out from the stock, switch out from some of the other scatter guns.
+[310.10s -> 316.10s]  It's an actual usable, good scatter gun now, when before it was kind of just a gimmick item
+[316.10s -> 318.10s]  that you would equip for a laugh every now and then.
+[318.10s -> 322.59s]  Now, people did play with these before, before the big palance, the palance.
+[322.59s -> 325.59s]  Before going to, like, the palace show when Valve went to the palace,
+[325.59s -> 328.59s]  before they did all these balance changes, people still used these items.
+[328.59s -> 331.59s]  People still ran around with the Baby Faces Blaster.
+[331.59s -> 335.59s]  I've seen people with Hale's own Baby Faces Blasters before this update.
+[335.59s -> 338.59s]  I'm not saying that those people, oh, yeah, fuck you.
+[338.59s -> 344.15s]  What I'm saying is, these last few patches have been housekeeping patches,
+[344.15s -> 348.15s]  trying to get the game up to a standard where everything is kind of usable,
+[348.15s -> 352.15s]  everything works, everything makes sense, and there's no, like, gimmicks anymore.
+[352.15s -> 356.15s]  There still will be, there always will be, but just not as many.
+[356.15s -> 358.71s]  And that's going to wrap up this video.
+[358.71s -> 361.71s]  I will do Man vs. Machine, you'll probably see that in the next few days with a couple of friends.
+[361.71s -> 363.71s]  I don't know, we'll see how that goes.
+[363.71s -> 365.71s]  But those are my thoughts on this update.
+[365.71s -> 367.71s]  And let me know what you think, guys. What do you think of the update?
+[367.71s -> 368.71s]  What do you think of this stuff?
+[368.71s -> 371.71s]  What do you think of, like, the recoloring of weapons that's coming soon?
+[371.71s -> 372.71s]  There's a lot to talk about.
+[372.71s -> 375.71s]  I just wanted to get this part of it off my chest for the time being.
+[375.71s -> 376.71s]  And I'll see you guys all next time.
+[376.71s -> 379.95s]  And, of course, take care, everybody.

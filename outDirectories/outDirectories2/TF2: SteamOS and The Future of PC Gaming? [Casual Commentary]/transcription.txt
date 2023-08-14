@@ -1,0 +1,63 @@
+[0.31s -> 14.76s]  Hey, what is going on, everybody? Germa here with a Team Fortress 2 gameplay commentary.
+[14.76s -> 23.76s]  And tonight, I'm gonna be playing as the Demoman with the lock and load, the shield that protects you from flames,
+[23.76s -> 28.76s]  and the eye-lander and the half-satoichi. I take off the eye-lander like halfway through this video,
+[28.76s -> 33.76s]  because it just wasn't helping me at all. It was actually making things worse for me because I was getting killed.
+[33.76s -> 41.76s]  Anyways, we've got some stuff to talk about today. We've got something very important, very, very huge announcement from Valve.
+[41.76s -> 46.76s]  And it's ongoing. It is concurrently happening. There is three announcements they are doing.
+[46.76s -> 50.76s]  And it's all gonna be about this new Steam operating system.
+[50.76s -> 56.00s]  Now, this is something that I was talking about with friends for a long time. I really, truly...
+[56.00s -> 62.30s]  Well, first of all, before I get into that, Valve has announced that they are making their own operating system,
+[62.30s -> 72.30s]  just like Windows and OS X or Macintosh. They're trying to get into the hardware market with their own operating system.
+[72.30s -> 80.54s]  And what a lot of people assume is going to be their own console, the Steam console with their Steam operating system based on Linux.
+[80.54s -> 86.54s]  That's why they've been pushing the whole Linux thing for a while now. They've ported a lot of their games to Linux.
+[86.54s -> 89.54s]  They've been working closely with Linux. It's gonna be their own console.
+[90.54s -> 97.28s]  Now, the reason why this is a big deal is mainly because of one very, very important thing.
+[97.28s -> 101.78s]  PC gaming is in the minority right now.
+[101.78s -> 111.19s]  Not very many people have capable PCs that they can run powerful games on and get 60 frames per second, sick graphics, smooth gameplay.
+[111.19s -> 116.37s]  It's an expensive thing, right? But it's the best platform.
+[116.37s -> 122.37s]  Like, PC games, if you run your computer and you play a game on PC and then you go and do the same thing on a console,
+[122.37s -> 130.54s]  it is drastically different. It is so different sometimes that it hurts your head to go back and play it on a console.
+[130.54s -> 138.54s]  Most console games run at like 25 to 30 frames per second, which if you're a PC gamer and you have a high-end machine
+[138.54s -> 143.54s]  and you're used to running games at over 60 frames per second, it's a very noticeable difference.
+[143.54s -> 150.54s]  It's very noticeable, especially when you're trying to do sharp turns in a car or whip around really fast in an FPS.
+[150.54s -> 154.54s]  It's very like blindingly different when you play on the different platforms.
+[154.54s -> 164.78s]  So Valve wants to try to get this minority that, oh, if you don't have a $1,500 machine and a giant space on the wall of one of your rooms,
+[164.78s -> 169.78s]  you can't play PC games. I think they're trying to get rid of that.
+[170.96s -> 176.96s]  I think they're trying to make it so they can build an affordable living room console steam machine
+[176.96s -> 181.96s]  to be able to run all these games at the best like settings that they possibly can run at.
+[181.96s -> 190.50s]  And on top of that, it's been clearly stated by Valve's different executives, by Gabe Newell, by a lot of people,
+[190.50s -> 197.81s]  that they don't like Windows 8. Gabe Newell actually said in an interview a while ago that he thinks Windows 8 is a catastrophe.
+[197.81s -> 201.81s]  That's a direct quote. So I can kind of agree with that to an extent.
+[201.81s -> 207.81s]  I'm not a big fan of Windows 8. I don't like the tiles, the touchscreen metro system that they're trying to go towards.
+[207.81s -> 216.54s]  I'm not a big fan of it. So with that being said, why wouldn't Valve make their own gaming enthusiast centered operating system?
+[216.54s -> 221.54s]  If all these operating systems that they're typically used to are kind of going in the wrong directions in their opinion,
+[221.54s -> 229.91s]  why wouldn't they do this? And it's a great idea. And I'm so glad to see this because I foresee in the next five to ten years,
+[229.91s -> 234.91s]  people won't be playing PC games on Windows 10 like or Windows 11.
+[234.91s -> 240.91s]  If Microsoft's going to take their direction that they're going to take and they're going to move towards the tablet-based computer
+[240.91s -> 245.91s]  and the touch screens, if they're going to abandon sort of the keyboard and mouse, which I don't think they ever will,
+[245.91s -> 251.22s]  but if they ever do decide to do that, Valve's Linux operating system is going to be there.
+[251.22s -> 255.22s]  It's going to be there for us to enjoy. It's going to be here for a long time.
+[255.22s -> 261.22s]  And this is really just a prototype. This Steam box, you know, Steam OS, bring Steam to your living room.
+[261.22s -> 266.22s]  This is very much a beta and they're testing out a lot of things. They're doing a lot of experiments.
+[266.22s -> 272.46s]  And it's incredibly exciting to see this because we could be witnessing a change in the paradigm.
+[272.46s -> 278.46s]  We could be witnessing, I almost want to say a split in what the personal computer is designed to do.
+[278.46s -> 285.63s]  The personal computer back in the day was never designed for all this, was never designed for you to be playing video games on it.
+[285.63s -> 291.63s]  It was only until the last decade really, this past millennium, when people started to see it was possible
+[291.63s -> 295.63s]  and started to really put a lot of effort into punching into PC gaming.
+[295.63s -> 301.63s]  So I think right now you're going to see a split. The PC, the personal computer, is going to split off into two different ways.
+[301.63s -> 308.63s]  It used to be one entity. Now it's splitting off like a fucking jellyfish that just got cut in half.
+[308.63s -> 315.63s]  You know what I mean? There's going to be the PC gaming technology enthusiast side that I think is going to gravitate towards Steam
+[315.63s -> 320.63s]  and towards Linux and towards all that stuff. And then you got the other side, which is gravitating towards the tablets
+[320.63s -> 326.63s]  and the touch screens and the Microsoft Word and the personal computer. It's becoming a split.
+[326.63s -> 334.13s]  And it makes perfect sense because for the longest time, people were so afraid to get a PC and do PC gaming.
+[334.13s -> 342.13s]  The keyboard and mouse, what folder am I installing this in? Where is it? Where's the CD key? I don't know how to turn it on.
+[342.13s -> 349.13s]  People were always afraid because it wasn't a box that sat in your living room that you put a disc in and then hit play.
+[349.13s -> 353.13s]  It's very easy to play on a console. It's not really that difficult at all.
+[354.50s -> 358.50s]  But it's really exciting news nonetheless, and that's really going to wrap up the video, guys.
+[358.50s -> 362.50s]  If you don't know what the hell I'm talking about, then just check the link in the description.
+[362.50s -> 365.50s]  There's going to be some info there on the Steam OS.
+[365.50s -> 368.50s]  Still a couple of announcements. They have still like two announcements to make.
+[368.50s -> 373.50s]  I don't know what they're going to be, but they're going to be related to the Steam in your living room quote project.
+[373.50s -> 377.74s]  And I'm going to leave it there. So exciting stuff. Let me know what you think in the comments section, guys.
+[377.74s -> 380.74s]  And I'll see you guys all next time. Thank you so much for watching. I really do appreciate it.
+[380.74s -> 384.55s]  And of course, take care, everybody.

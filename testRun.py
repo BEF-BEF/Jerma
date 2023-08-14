@@ -1,0 +1,2 @@
+from stupidGithubTooManyDirectories import split_directories, combine_directories
+combine_directories()

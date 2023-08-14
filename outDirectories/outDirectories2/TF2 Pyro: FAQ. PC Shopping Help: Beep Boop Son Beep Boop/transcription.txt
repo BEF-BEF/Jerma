@@ -1,0 +1,93 @@
+[6.78s -> 16.10s]  Hey, what is going on everybody? Jerma here with a Team Fortress 2 gameplay commentary and tonight.
+[16.10s -> 21.10s]  Gonna be playing as the Pyro with the Degreaser. I think this is a strange Degreaser.
+[21.10s -> 27.10s]  The Who... Extinguisher? No, it's the Postal Pummeler. It is the reskin of the Extinguisher.
+[27.10s -> 29.41s]  And the Vintage Flare Gun.
+[29.41s -> 34.41s]  So this video, what I want to talk about is something that's gonna be really important to a lot of you guys.
+[34.41s -> 37.41s]  And it's a question I get very often in PMs and comments.
+[37.41s -> 41.41s]  And I want to answer it in a little bit more detail because I feel like when I answer these things in comments.
+[41.41s -> 44.41s]  I'm just like, you need a good graphics card.
+[44.41s -> 49.41s]  But I want to get into more detail if you are new to PC gaming.
+[49.41s -> 53.97s]  Or you just don't know what to do if you don't have a good computer.
+[53.97s -> 58.97s]  Now this little video is not going to cover how to make every single game run on your computer.
+[58.97s -> 63.97s]  Because PCs and PC gaming in general is very, very weird.
+[63.97s -> 69.97s]  There's a very large spectrum of what's going to work and what's not going to work on your computer.
+[69.97s -> 74.97s]  So I guess this is going to be more of a general just buyer's guide when you go buy and shop for a computer.
+[74.97s -> 78.34s]  Because there's a lot of companies that are trying to rip you off.
+[78.34s -> 81.34s]  Now I'm not going to mention any specific brands or specific companies.
+[81.34s -> 85.34s]  Mostly because I don't want to get myself in any trouble if it happens to be like,
+[85.34s -> 89.34s]  Whoa, why did you make that video about my company? I'm going to kill you.
+[89.34s -> 92.70s]  Hopefully they don't do that. But you get the idea.
+[92.70s -> 94.70s]  And it's this, by the way, when you're done with this.
+[94.70s -> 98.70s]  Let's say you go, you follow this advice and you go get a computer from Best Buy or something.
+[98.70s -> 102.70s]  And you come back and you try and load up Battlefield 3 with every single setting on Ultra.
+[102.70s -> 108.70s]  And you have like nine different programs running in the background and you're not getting 195,000 frames per second in Battlefield 3.
+[108.70s -> 112.07s]  That is not what this is made for.
+[112.07s -> 115.07s]  All right, now that's out of the way. Let's talk about what I'm actually going to talk about in this video.
+[115.07s -> 122.07s]  And it's going to be how to buy a computer, how to go shop for a computer, what to get, how to know what you want to get, et cetera, et cetera.
+[122.07s -> 128.31s]  One thing, the first thing I want to tell you guys about buying a new computer is money does not equal better.
+[128.31s -> 132.31s]  That's a huge thing you need to remember. Money does not equal better.
+[132.31s -> 138.31s]  So what I mean by that is when you go to a computer store, if you go to Best Buy, you go to Walmart, you go to the Micro Center,
+[138.31s -> 143.31s]  anywhere that sells computers, whether it be laptops or desktops, if you see a price tag,
+[143.31s -> 149.31s]  if let's say there's two computers sitting right next to each other, one of them is $1,200 and the other one is $950.
+[149.31s -> 155.31s]  Don't automatically assume that the one that is more expensive is going to be better than the one that is less expensive.
+[155.31s -> 162.31s]  A lot of times you're going to be paying for brand names or you're going to be paying for markups that these companies do.
+[162.31s -> 166.31s]  I really don't know what reason. If I could give you a reason, I would give it to you.
+[166.31s -> 174.31s]  But a lot of these companies have much more expensive computers with literally the exact same product inside the case.
+[174.31s -> 180.31s]  Now this, I could tell you a million different examples, but there are so many because there are so many computer companies.
+[180.31s -> 183.31s]  There's a lot of custom builders. There's a lot of different variables in this.
+[183.31s -> 191.81s]  So I'm going to just keep it pretty vague and say if it's a lot of money, don't automatically assume that it's the best computer you could ever have.
+[191.81s -> 194.81s]  So with all of that in mind, let's talk about the three things.
+[194.81s -> 199.81s]  That's right. There's only three things you need to look for when you're buying a gaming computer.
+[199.81s -> 206.81s]  That is the CPU, the memory, and the graphics card. Everything else is pretty much useless to you.
+[206.81s -> 214.81s]  If you want a gaming computer and you don't really care about anything else, those are really the only three important things you got to look for when you're buying a computer.
+[214.81s -> 219.05s]  And the first one is going to be the CPU. So let's talk about that for a second.
+[219.05s -> 224.05s]  CPUs. You don't really need a crazy CPU to run most modern games.
+[224.05s -> 238.05s]  Now, I would probably say in the last five years, if you have a CPU that's either a dual core or a quad core that was made in the last four or five years, you can run any game at pretty much medium to high quality.
+[238.05s -> 243.05s]  You don't need a six core processor to run Team Fortress 2. It's just unnecessary.
+[243.05s -> 252.35s]  I would probably recommend getting something like an Intel i5 over an i7, only because the reason why I say this is if you're just getting a computer to game on,
+[252.35s -> 257.35s]  if it's going to be your console that's not a console, you don't really need an i7.
+[257.35s -> 263.35s]  i7s are more designed for heavy rendering and heavy video editing and photo editing and stuff like that.
+[263.35s -> 268.35s]  But if you have that in mind, if you're going to do that, then by all means, I would start looking at some i7s.
+[268.35s -> 275.66s]  So the second thing on the list is really not that important when it comes to gaming, but it is in some ways, and that is RAM.
+[275.66s -> 281.66s]  So RAM, I can spend less than 10 seconds on RAM. As long as you have somewhere around four to eight gigs of RAM,
+[281.66s -> 287.66s]  you have more than enough for any game that is out right now and any game that's probably going to be out in the next couple years.
+[287.66s -> 295.83s]  And for a frame of reference for you, I only had six gigs of RAM up until about four or five weeks ago when I did my recent computer upgrades.
+[295.83s -> 301.83s]  So it's really not that important. As long as you're hovering somewhere around six, you will be totally fine.
+[301.83s -> 307.52s]  So finally, the last thing which is going to take the most amount of time in this video is the graphics card.
+[307.52s -> 311.08s]  Now, this is where companies like to really screw people.
+[311.08s -> 317.08s]  So graphics cards in general, if you don't know, you don't need a graphics card in your computer to run your computer.
+[317.08s -> 325.32s]  You can have something called integrated graphics, which is what 85% of every computer that is ever built or ever sold has.
+[325.32s -> 329.32s]  And integrated graphics have come a long way in the last five or six years or so,
+[329.32s -> 334.62s]  but they cannot even hold a candle to a dedicated graphics card.
+[334.62s -> 339.62s]  And this is kind of where I have a problem with some of these stores that sell computers and really computer selling outlets in general.
+[339.62s -> 343.62s]  Nobody ever tells you this. Nobody ever cares to let you know that, oh, by the way,
+[343.62s -> 347.62s]  if you plan on doing anything multimedia related, that's intense.
+[347.62s -> 351.86s]  It's not going to happen because this computer is not going to be able to handle it.
+[351.86s -> 355.86s]  Nobody likes to put that sign there or that tag on the machine.
+[355.86s -> 357.86s]  They just want you to buy the computer.
+[357.86s -> 363.86s]  And let's face it, a mainstream audience that's not gaming related doesn't really care about graphics cards.
+[363.86s -> 369.86s]  And they're willing to spend the seven to eight hundred dollars on a computer that's much worse than one they could potentially have
+[369.86s -> 372.86s]  if they either built it themselves or did a little bit of research.
+[372.86s -> 377.10s]  And that's what this video is all about. This is my PSA to you guys.
+[377.10s -> 379.10s]  It's really the whole reason why I made the video.
+[379.10s -> 385.10s]  Do a little bit of research before you buy any computer, even if you're going to buy it online or you're going to do a custom builder or something.
+[385.10s -> 390.10s]  Just look around. Don't just walk into a store and ask the guy behind the counter.
+[390.10s -> 392.10s]  Hey, give me a good computer. I have a thousand dollars.
+[392.10s -> 398.10s]  It's you really need to do research because a lot of these people are going to try and sell you either a bunch of crap you don't need
+[398.10s -> 401.10s]  or a bunch of crap you did need, but you didn't get it.
+[401.10s -> 405.10s]  And that's really the whole point of this whole thing is make sure you are educated.
+[405.10s -> 408.10s]  Make sure you find out. Does this computer have a graphics card?
+[408.10s -> 410.10s]  Let's say somebody's trying to sell you something. You get a salesman.
+[410.10s -> 415.10s]  He's like, oh, yeah, this computer is top of the line. It's got an i7. It's got a bunch of memory.
+[415.10s -> 418.10s]  It's fantastic. And the first question you ask this guy is this.
+[418.10s -> 421.10s]  Does this computer have a dedicated graphics card?
+[421.10s -> 425.34s]  And he's going to go, no, but, um, you know, yeah.
+[425.34s -> 429.34s]  And you can catch him off guard right there because a lot of people don't expect that question.
+[429.34s -> 431.34s]  They don't expect you to ask them that.
+[431.34s -> 438.34s]  So make sure you keep in mind that you don't want to spend a ton of money on something that you're not going to get the full potential of.
+[438.34s -> 441.03s]  So that is going to wrap up this video, guys.
+[441.03s -> 443.03s]  Thank you all so much for watching. I really do appreciate it.
+[443.03s -> 447.03s]  And hopefully some of this information could help you guys be better computer buyers
+[447.03s -> 451.03s]  or better shoppers in your destination of your computer greatness.
+[451.03s -> 453.21s]  So, yeah, I'll see you guys all soon.
+[453.21s -> 456.21s]  And, of course, take care, everybody.

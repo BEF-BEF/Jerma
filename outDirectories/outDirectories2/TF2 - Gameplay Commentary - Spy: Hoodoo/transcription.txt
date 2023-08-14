@@ -1,0 +1,140 @@
+[0.25s -> 7.86s]  What up guys, it's Jerma bringing you another gameplay commentary. This time I am the Spy on
+[7.86s -> 12.90s]  Hoodoo. This is Defense on Hoodoo. I think this is the last part of Hoodoo. There's a few different
+[12.90s -> 17.86s]  parts. I think this is the last part. I jumped in and they were here. So I'm using the Enforcer,
+[17.86s -> 22.74s]  the new Spy Revolver, using the K'nai vs. Kunai, which is pretty much my default knife. I love the
+[22.74s -> 29.38s]  K'nai vs. Kunai. And the Dead Ringer. I'm sorry, I promise you guys I'll give you an invisibility
+[29.38s -> 33.06s]  watch gameplay at some point, but I love the Dead Ringer so much I just can't help it.
+[33.78s -> 41.14s]  So I'm going to give you guys a very, very quick spy tip. This is something that I never see people
+[41.14s -> 46.50s]  do. Most spies do not do this and they get themselves killed. Within the first five seconds
+[46.50s -> 53.62s]  of the gate opening, do not go anywhere. This is absolutely essential to succeeding in the first
+[53.62s -> 58.34s]  minute as a spy. You'll see what happens here when it gets down to about 10 seconds. What you see
+[58.34s -> 62.90s]  most spies do is they'll get right up in front of the gate and they'll either have the Cloak and
+[62.90s -> 66.90s]  Dagger and they're cloaking or they're hiding behind a wall right next to the gate. And then
+[66.90s -> 73.90s]  right when the doors open, it's like boom, they're dead instantly because there's so much spam and
+[73.90s -> 79.26s]  there's so much crap going on in the first 10-15 seconds of a match. You're never going to get
+[79.26s -> 84.38s]  behind anybody and you're just going to get killed by spam. So just don't run up to the gates and
+[84.38s -> 88.38s]  try and do something in the first five seconds. See, about 20 seconds went by and there's a lot
+[88.38s -> 92.86s]  of options that I have here now. I kind of got a little screwed over there because I went for a kill
+[92.86s -> 97.82s]  that he was already pretty much dead. But now I'm behind a bunch of people and I'm not guaranteed to
+[97.82s -> 103.42s]  die instantly. Even though I do fail pretty miserably right here, the point still remains.
+[103.98s -> 109.58s]  Don't just run out into the gates when the gates open or don't run right into somebody the second
+[109.58s -> 115.42s]  the gates open. Stay back, count to about 20, and I guarantee you you'll have more success than you
+[115.42s -> 120.30s]  did before. So they're starting to get on the card here. There's about two or three of them.
+[120.30s -> 125.50s]  They get very, very far up in a very short amount of time. This seemed like it was going to be just
+[125.50s -> 128.78s]  a throwaway gameplay. I didn't think we were going to win. I didn't think anything was going to happen
+[128.78s -> 132.70s]  or it was going to be that that cool because, as you see, they're really rolling up to the point
+[132.70s -> 137.42s]  here. I get a few kills here. I get this demo man because he's going the wrong direction. I don't
+[137.42s -> 142.22s]  know where he was going. He was going over here for some reason into this little nook. Don't ask me
+[142.22s -> 146.86s]  what he was doing. Maybe he was looking for ammo or something. I'm not sure. I get this sniper and
+[146.86s -> 152.38s]  then this sniper. Watch this. This is kind of funny. He's just kind of aiming all over the place and
+[152.38s -> 159.50s]  standing still. He might have been a free to play guy, but welcome to Team Fortress 2. My name's
+[159.50s -> 166.70s]  Gabe Newell. Hopefully it'll have been worth the wait. So anyways, Hoodoo is one of the best spy maps
+[166.70s -> 172.78s]  there is. If you want to practice as a spy, if you don't play spy that well, go to Hoodoo and play
+[172.78s -> 178.22s]  Hoodoo. Get familiar with Hoodoo because there are so many nooks and crannies you can hide in
+[179.02s -> 185.18s]  at Hoodoo more than any other map in Team Fortress 2. It's almost like they made this map
+[185.18s -> 190.54s]  specifically for spies to do well because there's a spot back there. There's like three or four
+[190.54s -> 195.02s]  nooks and crannies here. There are these tall rocks that you can hide behind that are just as
+[195.02s -> 199.98s]  big for a person to get behind them. Me and this Pyro getting a little duel. I end up killing him,
+[199.98s -> 204.46s]  but it comes back and bites me on the ass in a minute. But see these rocks? See these really
+[204.46s -> 208.94s]  high rocks? You can just stand behind them and decloak and no one will ever see you.
+[209.74s -> 214.78s]  So 100% this map is completely recommended if you want to learn how to play spy better or hone
+[214.78s -> 221.10s]  your already spy skills. So this soldier walks by on fire and this sniper is in the way, so I think
+[221.10s -> 225.26s]  I'm going to shoot him, but no, I just decide to stab him instead. Pyro comes up behind me,
+[225.26s -> 230.94s]  gets his revenge with a nice crit with the power jack. And now that I have about a minute or two,
+[230.94s -> 235.58s]  I want to just quickly describe and answer a question that a lot of you have asked me.
+[236.54s -> 243.34s]  I get at least one pm a day or one comment a day asking why my graphics are so low
+[244.06s -> 253.34s]  and why my graphics look like they're from like 1998. I play in DirectX 8, so I'm sorry if that
+[253.34s -> 258.22s]  bothers some of you guys and I'm sorry if you have to deal with it, but there's not going to be a
+[258.22s -> 263.82s]  change anytime soon. I've had to play in DirectX 8 since way back when I think it was like almost
+[263.82s -> 269.50s]  a year ago. Team Fortress 2 came up with an update that changed the way that particle effects were
+[269.50s -> 275.42s]  rendered on computers. Medigun beams were changed, pyro flamethrowers were changed,
+[275.42s -> 281.26s]  teleporters got like a new glow effect, and when they did that, when I was in DirectX 9,
+[281.90s -> 287.18s]  my frames per second went down to like 25 or something ridiculous when they used to be at like
+[287.18s -> 293.66s]  60, 70, 80 frames per second. I went to DirectX 8 and the problems completely and totally went away,
+[293.66s -> 299.58s]  so they still haven't fixed this because I've tried to go back to DirectX 9 before. Right before
+[299.58s -> 302.86s]  I was going to do these commentaries, I tried it and it still didn't work. I still was getting
+[302.86s -> 309.74s]  terrible frames per second. I've tried everything, so don't leave a comment telling me to change my
+[309.74s -> 314.70s]  video drivers or something because I've already done it. So I come up behind this heavy, get him
+[314.70s -> 320.38s]  with a backstab, and I want to talk about another tip. Look at what I have equipped right now as my
+[320.38s -> 326.14s]  disguise as a medic. I'm using the bone saw right now. You can switch what weapon you're holding in
+[326.14s -> 331.58s]  the disguise if you hit B while you're holding your different weapons. Too many spies walk around
+[331.58s -> 335.90s]  if they're disguised. Let's just say you're disguised as the medic, right? If you're walking
+[335.90s -> 341.34s]  around with a syringe gun out as the medic as your disguise, people are going to know you're a spy
+[341.34s -> 346.54s]  because what medic walks around with a syringe gun when there's no enemies around? So make sure
+[346.54s -> 349.98s]  you're aware of the different items that people are holding in different situations. It'll save
+[349.98s -> 354.14s]  you a lot of spy checking. So me and this sniper are going toe-to-toe. He covers me with the
+[354.14s -> 358.78s]  G-Roddy. I think he's going to get me with a kill because it would take one shot, but I end up getting
+[358.78s -> 363.74s]  him. This revolver is really, really fun to use. It's really, really powerful. The whole point for
+[363.74s -> 367.34s]  me coming back here was to take off the teleporter. I figured it was going to take too long for the
+[367.34s -> 371.58s]  sapper, and I was right because look at these people coming out to try and get me. I get away
+[371.58s -> 376.78s]  with my life intact, and I decloak right behind this rock. Like I told you before, this place is
+[376.78s -> 382.62s]  fantastic for decloaking because look, nobody seems to know or care. So I'm following this line
+[382.62s -> 388.62s]  of people, and this is where the dead ringer shines as you'll see in the next second or two here.
+[388.62s -> 393.58s]  Get this engineer, get the sentry gun, pull out the dead ringer, run behind everybody. You know
+[393.58s -> 398.22s]  you're just going to die. Just use it. Don't be afraid to take this thing out. Get behind every
+[398.22s -> 402.54s]  single person again. Make sure you don't decloak right next to somebody because they'll hear it.
+[403.10s -> 407.90s]  Come right back up with the way I came originally, and we're going to do it all over again.
+[408.54s -> 412.06s]  This time I get about three or four kills in a row. I get this engineer,
+[412.94s -> 419.50s]  get that medic, and the heavy he was healing. Pull it out, rinse and repeat again. That's the
+[419.50s -> 425.34s]  best part about the dead ringer is if you have a set route, pretty much plan out a route you're
+[425.34s -> 430.62s]  going to take and just do it every single time. People are very, very ignorant to dead ringer
+[430.62s -> 434.94s]  spies. They never check and they always lose their ground whenever they're looking for you.
+[434.94s -> 439.58s]  So I get that sniper, I get this scout, pull the dead ringer out. We turn around,
+[439.58s -> 445.66s]  we try and do it again. This engineer knows I'm around. He is starting to wise up a little bit to
+[445.66s -> 450.46s]  dead ringer spy, which is me. Cloak right behind these rocks because it's awesome.
+[450.46s -> 455.10s]  Hoodoo is awesome. Come up here. I try to jump and get that sentry. It doesn't work. It's too far
+[455.10s -> 459.98s]  away, and right here is a completely and totally horribly embarrassing thing. I could have
+[459.98s -> 466.38s]  guaranteed killed this medic with one shot with the revolver, but I slipped up five times in a row
+[466.38s -> 471.34s]  and I took off the sapper and then I took out the disguise kit. So that was pretty embarrassing,
+[471.34s -> 475.34s]  but it was a pretty good run. I think I killed maybe six or seven people in that life, so
+[475.34s -> 479.42s]  pretty good run. And a million people are going to comment telling me,
+[479.42s -> 483.82s]  Jerma, you used the quick switch. Why are you using the stupid slow switch thing?
+[484.38s -> 489.58s]  I'm just so used to using it. I can't do the quick weapon switch. I cannot do it. I refuse to try
+[489.58s -> 494.30s]  because I've tried it before. It's just not happening, so I have to deal with that sometimes
+[494.30s -> 498.94s]  because I can't do it any other way. So I get this sniper, pull out the dead ringer, try and
+[498.94s -> 505.18s]  go back to my usual position, my usual spot, get some more cloak, get some health. De-cloak,
+[505.18s -> 512.30s]  I come back up these stairs and this is another embarrassing moment, so I can't explain this.
+[512.30s -> 516.78s]  I should have just sapped that stupid mini sentry because otherwise I would be in no trouble at all,
+[517.26s -> 523.26s]  but nope, I'm a moron and didn't sap that sentry. I looked at it and I was like,
+[523.26s -> 526.86s]  I should probably sap that, but I didn't. I just went straight for the
+[526.86s -> 532.22s]  engineered kill and that was a dumb move. But I guess to be fair, this last part of
+[532.22s -> 538.94s]  Hoodoo here, this huge choke point up here on the right, you could potentially see 10, 12,
+[538.94s -> 544.46s]  maybe if there's a 15 player server, 16 player server. Everybody comes through this doorway.
+[545.10s -> 549.42s]  Very rarely will you see, maybe one or two people will go the other way to come up about what that
+[549.42s -> 554.14s]  cliff is. But for the most part, people all go this way, so it's hard to get behind people.
+[554.14s -> 559.82s]  This soldier knows he shoots me and I die instantly. I had the kunai, so obviously I die in one rocket.
+[560.38s -> 565.42s]  But it's tough with this last point. This is a huge choke point. Everyone's just stuffing,
+[565.42s -> 570.46s]  both teams are just stuffing into the small area. And especially if you're playing with
+[570.46s -> 575.10s]  the regular invisibility watch or the cloak and dagger, forget about playing spy at this
+[575.10s -> 579.58s]  point in the match. Go to pyro or switch to dead ringer because it is just not possible.
+[580.30s -> 584.46s]  So I don't even try to go into that room because of what happened the last two times.
+[584.46s -> 588.30s]  I sit out here thinking that maybe somebody will come around the corner and I can pick them off.
+[588.30s -> 592.30s]  And this is actually kind of funny. They get an uber and I'm an engineer right now and I'm just
+[592.30s -> 598.06s]  going to stand right behind the heavy and no one's going to do anything about it and bang, he's dead.
+[598.14s -> 600.86s]  So I thought that was pretty funny that I'm just an engineer just like,
+[600.86s -> 604.70s]  hey, we're going to get this captured. We're going to do it. Just standing behind the heavy
+[604.70s -> 609.58s]  and no one. People are like, oh, that's normal. That's okay. So I'm pretty screwed here. Everybody's
+[609.58s -> 615.18s]  in this room. I think I get one kill right here, this sniper. No, I do. I do. I do. I do. Don't
+[615.18s -> 621.02s]  worry. I'm watching. So I kill that sniper. This heavy's coming around the corner. See,
+[621.02s -> 625.82s]  this is what I was talking about. It is like bumper cars right now. Like what was I supposed
+[625.82s -> 630.94s]  to do in that situation? You know what I mean? I mean, I guess I could have gone up the stairs
+[630.94s -> 634.86s]  and around the corner or something, but there were a lot of people up in that room too. So
+[634.86s -> 638.62s]  I don't think that would have been successful either. And you saw what I was doing. I was
+[638.62s -> 644.86s]  just smashing into people just like like a fucking fridge, like a walking fridge is pretty much what
+[644.86s -> 649.34s]  I was. So I come up around here, try to get the dead ringer up, try and make something happen with
+[649.34s -> 654.62s]  the last minute here. And this is the actual noise that I made when this happened. I kid you not.
+[654.62s -> 657.82s]  This is the exact noise that I made in this situation. You ready?
+[667.64s -> 669.64s]  I saw him come around the corner and I just was like...
+[671.40s -> 677.40s]  There's nothing I could have done though because I'm an idiot and they built a sentry. So they're
+[677.40s -> 681.32s]  starting to do a little bit of a push. We end up winning it anyways because it's only about 20
+[681.32s -> 686.68s]  seconds and the cart is now moving backwards. So I figure I have to make at least something happen
+[686.68s -> 691.24s]  here at the end. That medic comes out and tries to uber that heavy, but he has to go with an
+[691.24s -> 696.76s]  engineer instead, which I think is hilarious. He has that stupid treasure hat on. So I do make
+[696.76s -> 700.84s]  something happen in the end here. It's five seconds left so this doesn't really matter.
+[700.84s -> 705.96s]  But I get the engineer and his sentry gun and look at the cart. I was freaking out. I was like,
+[705.96s -> 712.76s]  oh shit, I better get out here. And I kill this heavy. I sap him. See, I sap that heavy.
+[712.76s -> 718.76s]  So we end up winning. They don't get enough people on the cart and I believe I get top
+[718.76s -> 724.52s]  score. I think I do, but who cares? Who gives a shit about that anyways? Thank you guys so,
+[724.52s -> 729.24s]  so, so, so, so much for being here and for watching. I appreciate it. And we're getting
+[729.24s -> 733.72s]  closer to 500. There's like 420 or something now or something like that. So we're getting
+[733.72s -> 738.60s]  close before I start to show myself. So keep it coming, baby.

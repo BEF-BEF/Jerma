@@ -1,0 +1,147 @@
+[0.31s -> 14.82s]  Hey, what is going on everybody? Jirba here with a Team Fortress 2 gameplay commentary.
+[14.82s -> 17.82s]  And tonight, gonna be playing as the YAY!
+[17.82s -> 23.19s]  So, uh, what I wanna talk about in this video is a couple of important things.
+[23.19s -> 25.19s]  The first one is gonna talk about Team Fortress 2.
+[25.19s -> 28.50s]  And the second thing is gonna talk about a new computer I'm getting.
+[28.50s -> 30.50s]  And I'm wicked excited because I'm building a new computer.
+[30.50s -> 33.50s]  We're gonna talk about the patch, we're gonna talk about, like, the service,
+[33.50s -> 36.50s]  we're gonna talk about how much I get inside of it, and if you can't tell I've already had a few cups of coffee.
+[36.50s -> 40.50s]  And this is gonna kinda be like a coffee commentary in a little bit of a sense.
+[40.50s -> 43.50s]  Where, you know, I'm just talking about nothing, talking about not, you know, whatever.
+[43.50s -> 44.50s]  Well, we're gonna talk about this.
+[44.50s -> 47.86s]  So, the first thing, TF2, is...
+[47.86s -> 50.86s]  We're gonna slow it down a little bit and get kinda serious.
+[50.86s -> 54.30s]  TF2 hasn't really had anything going on in a long time.
+[54.30s -> 59.30s]  And I really, truly hope, I have incredibly high hopes,
+[59.30s -> 64.47s]  for not only the Halloween update coming out soon here, but the Christmas update.
+[64.47s -> 68.71s]  Because if the Christmas update comes along, or the Halloween update comes along,
+[68.71s -> 73.08s]  and nothing really is added to the game, that's gonna be pretty sad.
+[73.08s -> 78.08s]  That's gonna be a sad day for the core community in Team Fortress 2.
+[78.08s -> 80.08s]  But I highly doubt that's gonna happen.
+[80.08s -> 84.08s]  I really don't think we're gonna get that overlooked by Valve.
+[84.08s -> 89.58s]  But the thing is, Valve, at the moment, has so many things they're working on,
+[89.58s -> 93.58s]  so many projects, so many secret things they don't want anybody to know about,
+[93.58s -> 98.58s]  potential new games, they're getting into the hardware market with the Steam Machine,
+[98.58s -> 102.58s]  SteamOS, they're doing a ton of stuff right now.
+[102.58s -> 107.44s]  And I guess the question at hand is, is Team Fortress 2,
+[107.44s -> 110.44s]  just like an afterthought for them at this point,
+[110.44s -> 116.06s]  is Team Fortress 2 Valve's grandmother that they only see every so often?
+[116.06s -> 120.06s]  All of us have grandparents that we see every so often.
+[120.06s -> 122.06s]  We love them, we respect them.
+[122.06s -> 126.06s]  But we have our things that we're doing on a day-to-day basis.
+[126.06s -> 129.06s]  We don't go see Grandma every day.
+[129.06s -> 133.06s]  But when we do see her, she's gonna plant this big wet kiss on our face,
+[133.06s -> 134.06s]  and we're gonna be like,
+[134.06s -> 137.06s]  Hi Grandma, good to see you, I love you.
+[137.06s -> 138.06s]  And she's always like,
+[138.06s -> 141.06s]  Oh, it's such a great thing to see you, how's your school going?
+[141.06s -> 145.30s]  How are you dear, please tell me everything.
+[145.30s -> 150.61s]  Are we Valve's overzealous grandmother?
+[150.61s -> 151.61s]  Is that what we're turning into?
+[151.61s -> 154.61s]  Because Valve loves the TF2 community,
+[154.61s -> 156.61s]  but I feel like they're just like, Hi TF2, how you doing?
+[156.61s -> 158.61s]  Here's a few hats.
+[158.61s -> 159.61s]  Okay, we gotta go now.
+[159.61s -> 160.61s]  We gotta go back to work.
+[160.61s -> 162.61s]  We'll talk to you later, Grandma.
+[162.61s -> 165.78s]  And Grandma always gets really sad when you leave.
+[165.78s -> 166.78s]  When you leave your grandparents' house,
+[166.78s -> 168.78s]  they always get really sad that you leave.
+[168.78s -> 170.78s]  And when Valve gives us something,
+[170.78s -> 172.78s]  and then they just leave, we get really sad.
+[172.78s -> 175.78s]  Please come back and visit me soon, Valve, I love you.
+[175.78s -> 177.78s]  I'm your grandmother.
+[177.78s -> 180.78s]  I'm your grandmother, for Christ's sake.
+[180.78s -> 182.78s]  And I feel like that's the road we're going down.
+[182.78s -> 184.78s]  And Valve doesn't really give a shit.
+[184.78s -> 187.78s]  And they're just like, you know what, just deal with it.
+[187.78s -> 189.78s]  Open up the fucking community workshop
+[189.78s -> 191.78s]  and have them make items for themselves.
+[191.78s -> 194.78s]  And I really, I said this a long time ago,
+[194.78s -> 195.78s]  and I hope it does happen,
+[195.78s -> 198.78s]  that Valve turns this game over to the community
+[198.78s -> 200.78s]  so we can make our own shit.
+[200.78s -> 201.78s]  We can decide what goes in.
+[201.78s -> 203.78s]  We can decide what doesn't go in.
+[203.78s -> 204.78s]  We can take it over.
+[204.78s -> 208.09s]  I want that to happen because when you're an old grandmother,
+[208.09s -> 211.09s]  there's tons of other old grandmothers just like you
+[211.09s -> 213.09s]  that'll come over your house and play bridge
+[213.09s -> 214.09s]  or play cards or something.
+[214.09s -> 215.09s]  Like, we can do that.
+[215.09s -> 219.46s]  So if all y'all ever want to play bridge as an old grandmother,
+[219.46s -> 220.46s]  like, you know, I'm down.
+[220.46s -> 221.46s]  You know that now.
+[221.46s -> 224.46s]  But regardless of that, I really, truly do have high hopes.
+[224.46s -> 225.46s]  Like I said in the beginning,
+[225.46s -> 227.46s]  I have high hopes that they'll give us some cool stuff
+[227.46s -> 229.46s]  for Halloween and for Christmas.
+[229.46s -> 231.70s]  I really don't want to be the old grandma
+[231.70s -> 233.70s]  that's nagging them all the time,
+[233.70s -> 235.70s]  but we really do need some new content in TF2.
+[235.70s -> 237.70s]  It's been long overdue.
+[237.70s -> 241.70s]  And I'm not talking about content that has already been here
+[241.70s -> 243.70s]  and Valve just decided to release it.
+[243.70s -> 246.70s]  Like the CP process map and the other stand-in,
+[246.70s -> 248.70s]  those already existed for a long time.
+[248.70s -> 250.70s]  And Valve just was like, you know what?
+[250.70s -> 252.70s]  Stamp, this is now a map.
+[252.70s -> 256.13s]  And this is by no means an attack on Valve.
+[256.13s -> 258.13s]  Valve is my favorite gaming company.
+[258.13s -> 260.13s]  I love everything they ever do.
+[260.13s -> 261.13s]  They've been so good to us.
+[261.13s -> 264.30s]  They've supported this game for free for so long.
+[264.30s -> 267.30s]  And that's truly something that a game company never does.
+[267.30s -> 271.30s]  But it's very evident that TF2 is not their top priority right now.
+[271.30s -> 275.30s]  It's not even in the top three for priority lists.
+[275.30s -> 278.30s]  They're working on so many things right now as a company.
+[278.30s -> 280.30s]  TF2 is kind of on the back burner,
+[280.30s -> 282.30s]  and that's completely understandable.
+[282.30s -> 285.30s]  And I guess we'll just see what happens in the coming months
+[285.30s -> 286.30s]  and the coming years.
+[286.30s -> 288.30s]  We'll see where this game goes.
+[288.30s -> 290.50s]  Nobody knows.
+[290.50s -> 291.50s]  We'll move away from that.
+[291.50s -> 294.50s]  We're going to talk now about my new computer that I'm working on.
+[294.50s -> 296.50s]  It's going to be a beast.
+[296.50s -> 298.50s]  For those of you that are computer junkies like me,
+[298.50s -> 301.50s]  this thing is going to be an absolute mammoth machine.
+[301.50s -> 302.50s]  Chrono trigger reference.
+[302.50s -> 304.50s]  It's going to be insane.
+[304.50s -> 306.50s]  I'm going to make it an i7.
+[306.50s -> 308.50s]  I'm going to get the 7-core i7.
+[308.50s -> 311.50s]  They don't even make those, but I'm going to make them make it for me.
+[311.50s -> 314.50s]  No, I'm getting the i7-4930K,
+[314.50s -> 318.68s]  which is their new 6-core processor for video rendering, video editing.
+[318.68s -> 321.68s]  It should make things a lot more smoother than it is now.
+[321.68s -> 324.68s]  Also going to be getting a GTX 780.
+[324.68s -> 325.68s]  I was going to get a Titan,
+[325.68s -> 329.68s]  but looking at the benchmarks between the Titan and the 780,
+[329.68s -> 335.68s]  it seems like it's not really that huge of a deal to spend an extra $600 or whatever it is.
+[335.68s -> 337.68s]  A Titan's like $1,000, isn't it?
+[337.68s -> 338.68s]  That's a little too much for me.
+[338.68s -> 340.68s]  I can't spend that much money.
+[340.68s -> 341.68s]  But it's also going to have all solid state.
+[341.68s -> 344.68s]  I'm going to make sure I don't have any moving parts in there.
+[344.68s -> 349.68s]  I want all solid state drives for keeping video footage, for editing video footage.
+[349.68s -> 352.68s]  It's going to be a machine worth talking about.
+[352.68s -> 355.86s]  And I promise the day this thing comes in,
+[355.86s -> 359.86s]  the day that I get it all custom built and it's all here on the shelf,
+[359.86s -> 362.86s]  I will make a vlog showcasing it, go over the specs again,
+[362.86s -> 364.86s]  and that sort of thing.
+[364.86s -> 367.16s]  But that's going to wrap up the video.
+[367.16s -> 369.16s]  That's just all I really wanted to talk about.
+[369.16s -> 372.16s]  I want to go off on like kind of a coffee, caffeine-induced rant
+[372.16s -> 375.34s]  about the Team Fortress 2 state of the game.
+[375.34s -> 376.34s]  And please let me know your thoughts, guys.
+[376.34s -> 378.34s]  Let me know what you have to say about this.
+[378.34s -> 379.34s]  Let me know how you feel.
+[379.34s -> 381.34s]  I always like to hear about what you guys have to say.
+[381.34s -> 383.34s]  Keep it simple. Keep it respectful.
+[383.34s -> 385.34s]  And keep it clean.
+[385.34s -> 387.34s]  Like a boxer's fight.
+[387.34s -> 388.34s]  Anyways, guys, thank you so much for watching.
+[388.34s -> 389.34s]  I really do appreciate it.
+[389.34s -> 390.34s]  And I'll see you guys all next time.
+[390.34s -> 392.94s]  And of course, you know what to do.
+[392.94s -> 393.94s]  Take care, everybody.

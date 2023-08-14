@@ -1,0 +1,2451 @@
+[1.66s -> 3.66s]  Just because.
+[3.66s -> 9.16s]  Alright, so now you're in the party? Okay.
+[9.16s -> 15.11s]  We're getting playstationed. Yeah, that doesn't matter.
+[15.11s -> 17.99s]  Alright, so, join the party.
+[17.99s -> 20.30s]  Here we are. Okay.
+[20.30s -> 23.86s]  Now play together.
+[23.86s -> 25.86s]  Play together is a feature that makes it easy to play multiple games
+[25.86s -> 29.90s]  with a place to play to power up the AI. Okay.
+[29.90s -> 32.46s]  How do you want to play together? Join game session.
+[32.46s -> 40.70s]  What's the method?
+[40.70s -> 43.64s]  And then join friends game.
+[43.64s -> 47.54s]  Oh, okay, okay. That would make sense.
+[47.54s -> 50.30s]  Alright, so I'm just going to look into
+[50.30s -> 52.30s]  free roam and just try to jump into your game.
+[52.30s -> 56.52s]  That would make sense, wouldn't it?
+[56.52s -> 60.36s]  Oh, okay.
+[60.36s -> 62.36s]  So while we're doing this, have you played through all the single player yet in this?
+[62.36s -> 64.36s]  Uh, I have not.
+[64.36s -> 66.36s]  I'm like 40% of the way through.
+[66.36s -> 69.24s]  Okay, so you're on like chapter 3 then?
+[69.24s -> 71.24s]  Yeah.
+[71.24s -> 73.24s]  I just barely am like into chapter 3, I think.
+[73.24s -> 77.34s]  Yeah, there's a lot left.
+[77.34s -> 79.34s]  I mean, there's a hot air balloon.
+[79.34s -> 81.77s]  Really? There's a hot air balloon?
+[81.77s -> 83.77s]  No, that was you.
+[83.77s -> 86.14s]  Ooh.
+[86.14s -> 88.14s]  There's an Elvis impersonator. I love those things.
+[88.14s -> 90.14s]  That's some of my favorite means of travel.
+[90.14s -> 92.50s]  I'm glad you're bringing it up.
+[92.50s -> 94.87s]  Yeah, I want to know all about that in a couple minutes.
+[94.87s -> 96.87s]  But before we, um,
+[96.87s -> 98.87s]  before we do that, I want to also say there's a game called Rust
+[98.87s -> 100.87s]  that just implemented hot air balloons.
+[100.87s -> 102.87s]  Oh my god, are you serious?
+[102.87s -> 104.87s]  Yeah, swear to god.
+[104.87s -> 106.87s]  Alright, let me, uh, give me one second.
+[106.87s -> 109.94s]  I have to say hello to somebody.
+[109.94s -> 111.94s]  Somebody just knocked on my door.
+[111.94s -> 113.94s]  I gotta say hello to them. Hold on.
+[113.94s -> 115.94s]  Hey, it's you guys! It's my stream!
+[115.94s -> 117.94s]  My stream!
+[117.94s -> 119.94s]  I'm half expecting this to be
+[119.94s -> 121.94s]  It's not.
+[121.94s -> 123.94s]  Uh, oh.
+[123.94s -> 126.25s]  I just want to say hello.
+[126.25s -> 128.25s]  Playing Red Dead Online with Vinnie.
+[128.25s -> 132.02s]  In case you didn't know, just want to make sure you're aware of that.
+[132.02s -> 134.02s]  Hey, how you doing?
+[134.02s -> 136.71s]  It's me, Elvis.
+[136.71s -> 138.71s]  Vinnie Vinesauce.
+[138.71s -> 140.71s]  That was fucking really good.
+[140.71s -> 142.71s]  That was really,
+[142.71s -> 144.71s]  that was really good.
+[144.71s -> 146.71s]  I had to come back and say that.
+[146.71s -> 148.71s]  I'm half expecting this to be a skit.
+[148.71s -> 150.71s]  I had to fucking clown here.
+[150.71s -> 152.71s]  I just sent him home.
+[152.71s -> 155.08s]  Hey, that's Vinnie!
+[155.08s -> 157.90s]  Wait, is that Vinnie?
+[157.90s -> 160.52s]  That's Vinnie! Vinnie!
+[160.52s -> 162.52s]  Hey, I made it!
+[162.52s -> 164.52s]  Let me see your character. What is, what is this character?
+[164.52s -> 166.52s]  My character is loathsome looking.
+[166.52s -> 169.27s]  Let me see yours.
+[169.27s -> 171.27s]  Yeah, I hate my character. At least, at least you're a dude looks like.
+[171.27s -> 173.64s]  You're about to say me.
+[173.64s -> 176.33s]  You're about to say looks like me.
+[176.33s -> 179.59s]  You think that's what I look like?
+[179.59s -> 181.59s]  No. Well hey, I mean, if anything, we could be in a band called The Stooges.
+[181.59s -> 183.59s]  I look like Iggy Pop. You look like the drummer.
+[183.59s -> 185.59s]  So I guess we're good.
+[185.59s -> 187.96s]  Let me add you to a posse.
+[187.96s -> 190.14s]  I think we can do that now.
+[190.14s -> 192.14s]  No, this looks like the taxi driver from The Muppets.
+[195.78s -> 198.41s]  Don't make fun of my face ever again!
+[198.41s -> 200.41s]  Alright, so now we're friends.
+[200.41s -> 202.41s]  That was a friend punch.
+[202.41s -> 205.03s]  So, get your hat.
+[205.03s -> 207.53s]  You look like Solid Snake from the third one.
+[207.53s -> 212.18s]  Squeeze the hop.
+[212.18s -> 214.18s]  Oh yeah, I started the cycle.
+[214.18s -> 216.68s]  I got a posse.
+[216.68s -> 218.68s]  You must be able to pay fee to create a posse.
+[218.68s -> 221.30s]  I must be able to pay fee?
+[221.30s -> 223.74s]  Fuck you, Rockstar.
+[223.74s -> 225.74s]  That's like a funny laugh out loud Rockstar
+[225.74s -> 227.74s]  is taking payment joke, right?
+[227.74s -> 230.34s]  Uh huh. Oh, it's real though.
+[230.34s -> 232.34s]  You're on my all temporary posse.
+[232.34s -> 235.78s]  Alright, so invites.
+[235.78s -> 238.86s]  Your tent has been moved
+[238.86s -> 240.86s]  to Vinesauce's camp.
+[240.86s -> 243.35s]  So we share a camp now.
+[243.35s -> 246.04s]  Yeah.
+[246.04s -> 248.04s]  Let's just do a quick test.
+[248.04s -> 250.54s]  Alright, let me use your hat though.
+[250.54s -> 253.42s]  I'm ready for my picture.
+[253.42s -> 255.42s]  Alright, friendly fire is confirmed off.
+[255.42s -> 257.42s]  Which is good because I didn't know if that was going to work.
+[257.42s -> 259.42s]  But I have to figure out which one of our hats
+[259.42s -> 262.10s]  I like better on my hat.
+[262.10s -> 264.73s]  I hate my hat, so.
+[264.73s -> 266.90s]  Where did you get this thing?
+[266.90s -> 268.90s]  It was a default, like jabroni hat.
+[268.90s -> 270.90s]  So is this one.
+[270.90s -> 273.85s]  Then why is mine dirtier than yours?
+[273.85s -> 275.85s]  I don't know actually. What have you been doing?
+[275.85s -> 277.85s]  What have you been rolling around in the mud?
+[277.85s -> 279.85s]  I think so. Last time I played this, I think that's what I did.
+[279.85s -> 282.73s]  Alright, let's go have fun.
+[282.73s -> 284.73s]  Yeah, I don't know where that is.
+[284.73s -> 286.73s]  So this is a bunch of random missions.
+[286.73s -> 288.73s]  Have you done any online at all?
+[288.73s -> 291.22s]  I've done some of the missions online, yeah.
+[291.22s -> 293.22s]  I've done like a death match.
+[293.22s -> 295.72s]  I've done some of the team based stuff.
+[295.72s -> 298.09s]  It was fun, I enjoyed it. Cool, cool.
+[298.09s -> 300.09s]  Whoa, what was that? Lightning?
+[300.09s -> 302.90s]  There's a lightning mission starting.
+[302.90s -> 305.46s]  We have horses, don't we?
+[305.46s -> 307.77s]  Somewhere we have horses.
+[307.77s -> 310.20s]  My horse is coming from behind here.
+[310.20s -> 312.89s]  This is interesting. Showdown series.
+[312.89s -> 314.89s]  Large match. Oh, this is the stuff I did.
+[314.89s -> 319.30s]  This stuff is pretty fun.
+[319.30s -> 321.30s]  You want to just ride off and like...
+[321.30s -> 323.30s]  You want to just lasso people and torture them?
+[325.30s -> 327.54s]  Oh yeah, that's the first thing you want to do when you get online.
+[327.54s -> 329.54s]  Why don't we torture people?
+[329.54s -> 333.00s]  That sounds like fun.
+[333.00s -> 338.94s]  Like this guy.
+[338.94s -> 342.01s]  He's pulling out his gun. Well, we killed him.
+[342.01s -> 344.01s]  He's dead.
+[344.01s -> 346.01s]  I guess we did torture him.
+[346.01s -> 348.01s]  He was tortured in life.
+[348.01s -> 350.01s]  We got a murder trophy?
+[350.01s -> 352.01s]  I guess that means we're bad.
+[352.01s -> 354.01s]  I was wondering why...
+[354.01s -> 356.01s]  Are you a good guy or are you a bad guy in these games?
+[358.01s -> 360.01s]  I'm more or less a good guy online.
+[360.01s -> 362.01s]  Though I've done some horrendously questionable things.
+[362.01s -> 364.01s]  How about you?
+[364.01s -> 366.01s]  I'm always a good guy.
+[366.01s -> 368.01s]  No matter what.
+[368.01s -> 370.01s]  Any opportunity that presents itself, I always do the right thing.
+[372.38s -> 374.38s]  Is that going to be a problem for this stream?
+[374.38s -> 376.68s]  I'm not sure.
+[376.68s -> 378.68s]  We may have some disagreements.
+[378.68s -> 381.18s]  I fed someone to an alligator.
+[381.18s -> 385.46s]  I hear gunshots.
+[385.46s -> 387.46s]  Okay, that's a good deed.
+[387.46s -> 389.46s]  Just trying to do good deeds over here.
+[389.46s -> 392.54s]  Yeah, that seems like it was a good deed.
+[392.54s -> 394.54s]  For sure.
+[394.54s -> 396.54s]  I just ran past that guy's horse.
+[396.54s -> 398.54s]  That poor, frightened, scared horse.
+[398.54s -> 400.54s]  He just killed its owner.
+[400.54s -> 402.54s]  I was trying to help that guy.
+[402.54s -> 404.54s]  There was flies around his head.
+[404.54s -> 407.10s]  I was trying to get rid of them.
+[407.10s -> 409.34s]  This is like his camp.
+[409.34s -> 412.09s]  Oh man, that guy just good-guided me.
+[412.09s -> 414.09s]  Get that good guy down there.
+[414.09s -> 416.26s]  I got him.
+[416.26s -> 419.59s]  Can you help me?
+[419.59s -> 421.77s]  Yeah, let me find you.
+[421.77s -> 423.77s]  Is this left or dead?
+[423.77s -> 426.71s]  I think so.
+[426.71s -> 428.71s]  You're bleeding out and you're dead.
+[430.71s -> 436.34s]  That guy's whole camp just disappeared.
+[436.34s -> 439.80s]  I'm going to do an emote.
+[439.80s -> 441.80s]  I'm going to wave. I want to be friends.
+[441.80s -> 443.80s]  Are you going to be friends with this guy?
+[443.80s -> 445.98s]  I'm going to try to be friends with him.
+[445.98s -> 448.86s]  I'm going to offer the twig of peace.
+[448.86s -> 450.86s]  What's the emote wheel?
+[450.86s -> 452.86s]  You hold L2, you press R1,
+[452.86s -> 454.86s]  and then you get an emote.
+[454.86s -> 456.86s]  You can do an emote wheel.
+[458.86s -> 462.57s]  Please tell this guy
+[462.57s -> 464.57s]  over the fake voice chat.
+[464.57s -> 466.57s]  Oh, never mind.
+[466.57s -> 469.13s]  What?
+[469.13s -> 471.13s]  I didn't try to do anything.
+[471.13s -> 473.13s]  I think he has his flag up.
+[473.13s -> 476.78s]  I don't think we can do anything to him.
+[476.78s -> 478.78s]  I didn't know that was a thing, but I'm glad it is.
+[478.78s -> 481.08s]  I'm going to farewell handshake this guy.
+[481.08s -> 483.08s]  Never mind.
+[483.08s -> 485.08s]  I tried.
+[489.69s -> 491.69s]  It's just like GTA Online.
+[491.69s -> 493.69s]  Excuse me, partner.
+[493.69s -> 498.15s]  You go.
+[498.15s -> 501.35s]  Over the table, quick.
+[501.35s -> 505.96s]  Don't let him get away.
+[505.96s -> 507.96s]  I don't think we can
+[507.96s -> 509.96s]  do a whole lot with this dude.
+[509.96s -> 511.96s]  I feel like the game has
+[511.96s -> 513.96s]  some safety checks in place.
+[513.96s -> 515.96s]  This dude wants to be peaceful
+[515.96s -> 517.96s]  and we're just trying to run him down with all the horses.
+[517.96s -> 520.26s]  All right.
+[520.26s -> 522.26s]  That was fun.
+[522.26s -> 524.26s]  Yeah, I enjoyed that for all
+[524.26s -> 526.26s]  three seconds.
+[526.26s -> 528.26s]  There's another thing here.
+[528.26s -> 530.26s]  I set a waypoint off.
+[530.26s -> 532.26s]  You can see it, but there seems to be a group of people.
+[532.26s -> 534.26s]  What are you doing?
+[534.26s -> 536.26s]  I just figured I was going to come over here.
+[536.26s -> 538.26s]  I'm not a very good driver.
+[538.26s -> 540.26s]  My horse does not have
+[540.26s -> 542.26s]  the load-bearing potential for this kind of thing, right?
+[542.26s -> 544.26s]  It's all right. Trust me.
+[544.26s -> 546.26s]  If I drive one of these cars,
+[546.26s -> 548.26s]  I'm going into a bench post.
+[548.26s -> 550.26s]  All right. Fair enough.
+[550.26s -> 556.52s]  So, you know,
+[556.52s -> 558.82s]  hot air balloon?
+[558.82s -> 560.82s]  Yeah. Pretty much how it works is
+[560.82s -> 562.82s]  you go up in the air.
+[562.82s -> 564.82s]  And why are these people all ghosts?
+[564.82s -> 566.82s]  I don't know. What is this?
+[566.82s -> 568.82s]  They're made of vapor.
+[568.82s -> 570.82s]  Why are they like Metal Gear Solid
+[570.82s -> 572.82s]  invisible? Why are they able to shoot us?
+[572.82s -> 574.82s]  Hold on. We'll take care of this.
+[574.82s -> 581.80s]  Wait, they're ghosts, but they can shoot us still.
+[581.80s -> 583.80s]  How does it
+[583.80s -> 585.80s]  make any sense? Kill the NPC.
+[585.80s -> 588.04s]  Kill the NPC.
+[588.04s -> 590.04s]  Trying.
+[590.04s -> 592.04s]  Fuck their flight path giver.
+[592.04s -> 594.41s]  Just like the Crossroads back in the early 2000s.
+[594.41s -> 596.58s]  The NPC is the Irishman.
+[596.58s -> 598.58s]  What's his name?
+[598.58s -> 600.58s]  Sean.
+[600.58s -> 602.58s]  I don't understand why we can't interact with these guys.
+[602.58s -> 604.58s]  They can't interact with us.
+[604.58s -> 606.58s]  That seems very unfair.
+[606.58s -> 608.58s]  Oh, this is fair.
+[608.58s -> 611.85s]  Wait, wait. Did you just do that?
+[611.85s -> 614.98s]  Why are ghosts?
+[614.98s -> 616.98s]  No, I didn't do that. The ghost bullies
+[616.98s -> 618.98s]  are taking care of all this.
+[618.98s -> 621.42s]  Alright, well, we found
+[621.42s -> 623.72s]  a strange happening here.
+[623.72s -> 627.18s]  This online doesn't make
+[627.18s -> 629.18s]  a whole lot of sense to me right now.
+[629.18s -> 631.18s]  So they're in a different server and they're able to interact with our server.
+[631.18s -> 633.18s]  I don't know.
+[633.18s -> 635.93s]  There's a
+[635.93s -> 637.93s]  mission here, but we can't do it because
+[637.93s -> 639.93s]  we're in a danger zone or something.
+[639.93s -> 641.93s]  That's too bad. You know what? I was going to
+[641.93s -> 643.93s]  sabotage their vehicles.
+[643.93s -> 647.05s]  Vehicles? Yeah.
+[647.05s -> 649.05s]  I can't even sabotage their vehicles.
+[649.05s -> 651.05s]  Oh, that guy got out of
+[651.05s -> 653.05s]  the phase for a second. No.
+[653.05s -> 655.05s]  I saw that. This is really
+[655.05s -> 657.05s]  Westworld shit.
+[657.05s -> 659.05s]  Yeah, it's kind of not fair.
+[659.05s -> 661.74s]  So hot air balloons, you fill
+[661.74s -> 663.74s]  them with air and they go up into the sky.
+[663.74s -> 665.74s]  Yeah, and then you eat all the passengers to stay alive.
+[665.74s -> 668.17s]  Okay, cool.
+[668.17s -> 670.17s]  Oh, I understand.
+[670.17s -> 672.17s]  Like in a video game.
+[674.17s -> 676.17s]  In one of those video games.
+[676.17s -> 678.17s]  What's a video game where you eat stuff
+[678.17s -> 680.17s]  when you're
+[680.17s -> 682.17s]  traveling?
+[682.17s -> 686.14s]  Do you know? Any idea?
+[686.14s -> 688.14s]  No.
+[688.14s -> 690.89s]  When you fly around...
+[690.89s -> 692.89s]  The Oregon Trail. Yeah, yeah, yeah, yeah.
+[692.89s -> 694.89s]  Except that one you drive on.
+[694.89s -> 696.89s]  You're on an Oregon
+[696.89s -> 698.89s]  on the trail.
+[698.89s -> 701.83s]  You know,
+[701.83s -> 703.83s]  I don't...
+[703.83s -> 705.83s]  That's fucking disgusting. Why would I ever...
+[705.83s -> 707.83s]  Oh boy, what have I done?
+[707.83s -> 709.83s]  I'm assuming there's a lot
+[709.83s -> 711.83s]  to the story that I'm unaware of.
+[711.83s -> 713.83s]  So I'm just going to let you do you.
+[713.83s -> 715.83s]  No, no, I just...
+[715.83s -> 717.83s]  I...
+[717.83s -> 720.20s]  It's been a while since I was in the air, so...
+[720.20s -> 722.20s]  Jerma, do you have a horse reviver?
+[722.20s -> 724.20s]  I think I just killed my horse.
+[724.20s -> 726.20s]  I killed mine too.
+[726.20s -> 728.20s]  Are you serious?
+[728.20s -> 730.20s]  Yeah, I jumped off the cliff. Did you jump off
+[730.20s -> 732.20s]  this one? Yeah, I jumped off this one.
+[734.57s -> 736.57s]  Oh, now he's...
+[736.57s -> 739.13s]  Oh.
+[741.75s -> 743.75s]  I hope you have horse insurance.
+[743.75s -> 745.75s]  I think I do. Well, whatever. These are like shitty
+[745.75s -> 747.75s]  default free ones.
+[747.75s -> 749.75s]  Yeah, but I named mine Oatmeal.
+[753.21s -> 755.21s]  No, don't shoot oatmeal!
+[755.21s -> 757.58s]  There you go.
+[757.58s -> 760.78s]  If anything, at least turn him into food.
+[760.78s -> 763.14s]  It won't let me stab oatmeal.
+[763.14s -> 765.14s]  Well, now we have to walk.
+[765.14s -> 767.14s]  Alright, well there's a whole gang hideout
+[767.14s -> 769.14s]  over here. You want to go kill some stuff?
+[769.14s -> 771.14s]  Let's go light some people up.
+[771.14s -> 773.70s]  Okay.
+[775.70s -> 777.70s]  Wait a minute.
+[777.70s -> 779.70s]  I think I can skin my horse.
+[779.70s -> 781.70s]  Can I skin your horse?
+[781.70s -> 785.03s]  No.
+[785.03s -> 787.40s]  I think these are the bad guys.
+[787.40s -> 791.30s]  So we can take this place out.
+[791.30s -> 793.30s]  That guy was like a pinball machine.
+[793.30s -> 795.93s]  That was pretty good.
+[795.93s -> 797.93s]  That was really good.
+[797.93s -> 799.93s]  Earn, earn. We got you.
+[799.93s -> 802.23s]  That's how a cowboy says yes
+[802.23s -> 804.23s]  just in case you didn't know. They say earn, earn.
+[804.23s -> 806.23s]  Earn, earn?
+[806.23s -> 808.23s]  They say earn, earn.
+[808.23s -> 810.41s]  Earn, earn.
+[810.41s -> 812.41s]  Minister.
+[816.71s -> 820.10s]  No more tears.
+[820.10s -> 822.10s]  I just fucking died.
+[822.10s -> 824.10s]  I was too busy paying attention to earn, earn.
+[824.10s -> 826.10s]  I'm sorry.
+[826.10s -> 828.47s]  The local fucking dentist.
+[828.47s -> 830.78s]  You know what I mean, earn?
+[830.78s -> 833.53s]  I've become a bit of a psychopath
+[833.53s -> 837.05s]  it seems.
+[837.05s -> 839.05s]  Ernest, Ernest.
+[841.05s -> 844.76s]  Alright, I'm coming to rescue you.
+[844.76s -> 848.34s]  Don't worry. Don't worry. If you die I got a horse
+[848.34s -> 850.65s]  reviver. I'll take care of you.
+[850.65s -> 853.08s]  Okay.
+[853.08s -> 855.08s]  It works on people too. Same drug.
+[855.08s -> 857.58s]  There's only a couple dudes left
+[857.58s -> 859.58s]  so we just have to like
+[859.58s -> 861.58s]  kill the main dude who's like on the docks
+[861.58s -> 863.58s]  I guess. Alright, so you can stab him a hundred times.
+[863.58s -> 866.58s]  Watch this.
+[866.58s -> 870.98s]  Alright, we got him.
+[870.98s -> 873.16s]  Fuck him up.
+[873.16s -> 875.53s]  Ooh, that was, okay.
+[875.53s -> 878.98s]  He's in the water now.
+[878.98s -> 880.98s]  So we split every piece of treasure
+[880.98s -> 882.98s]  every treasure chest we find, it's fifty-fifty, right?
+[882.98s -> 884.98s]  Yes.
+[884.98s -> 887.86s]  This we do.
+[887.86s -> 894.26s]  Alright, come watch me stab this guy.
+[894.26s -> 896.26s]  Oh, you're fighting the main guy. I'm fighting like his
+[896.26s -> 898.26s]  I'm fighting his uncle out here.
+[898.26s -> 900.26s]  I just slit his throat.
+[900.26s -> 902.26s]  You got the guy with lumbago?
+[902.26s -> 905.98s]  Alright. Wait, wait, wait, wait.
+[905.98s -> 909.88s]  Don't touch anything.
+[909.88s -> 912.38s]  How many hats did he have?
+[912.38s -> 914.38s]  He only had one and it says you cannot store this hat.
+[914.38s -> 916.38s]  Well, we're gonna have to cut it in half.
+[916.38s -> 920.09s]  Because that's the only way that's fair.
+[920.09s -> 922.09s]  It says here you can get your free Arabian
+[922.09s -> 924.09s]  horse from the strawberry stables.
+[924.09s -> 926.09s]  Someone in chat said so. If you want to
+[926.09s -> 928.09s]  get a non-shitty horse in a bit
+[928.09s -> 930.09s]  maybe that'll be a good thing to do on stream.
+[930.09s -> 932.09s]  That'll be a good fun thing to do.
+[932.09s -> 934.09s]  Is there any
+[934.09s -> 936.09s]  loot box in here
+[936.09s -> 938.09s]  or something? There's a cabinet.
+[938.09s -> 940.09s]  It costs three rock star gold to open, yeah.
+[940.09s -> 942.26s]  Once purchased, looted,
+[942.26s -> 944.26s]  or crafted consumables. It's so dark over here.
+[944.26s -> 947.27s]  Oh, I got a guy.
+[947.27s -> 949.90s]  There's a guy in there.
+[949.90s -> 951.90s]  Where'd you get that guy from?
+[951.90s -> 955.54s]  He was in the cabinet.
+[955.54s -> 957.54s]  I guess we just get to take this guy.
+[957.54s -> 959.54s]  Maybe we can sell him somewhere?
+[959.54s -> 962.10s]  Pretty sure we can do that.
+[962.10s -> 964.10s]  Let's do that.
+[964.10s -> 966.10s]  I dropped him in the water and
+[966.10s -> 968.10s]  you have to bring him to the iPhone store.
+[968.10s -> 970.10s]  The water damage is like
+[970.10s -> 972.10s]  you just can't fucking recover it.
+[972.10s -> 974.10s]  I just got disconnected.
+[974.10s -> 976.92s]  And just like that
+[976.92s -> 978.92s]  you're gone.
+[978.92s -> 980.92s]  Did you get DC'd?
+[980.92s -> 982.92s]  I don't know if I got DC'd
+[982.92s -> 984.92s]  but I can't loot anybody right now.
+[984.92s -> 986.92s]  The cycle never ends.
+[986.92s -> 989.42s]  You would think
+[989.42s -> 991.42s]  Vegas would have good internet.
+[991.42s -> 993.42s]  I got
+[993.42s -> 995.42s]  a greater internet at the moment.
+[995.42s -> 997.42s]  For some reason my connection to rock star
+[997.42s -> 1002.28s]  I don't know why.
+[1002.28s -> 1007.06s]  This is what was happening to me before too.
+[1007.06s -> 1009.06s]  Are you still in the game?
+[1009.06s -> 1011.06s]  I'm still in game.
+[1011.06s -> 1013.50s]  Let me know when you're back online.
+[1013.50s -> 1018.10s]  I can invite you.
+[1018.10s -> 1020.10s]  What the...
+[1020.10s -> 1022.41s]  Can I swear?
+[1022.41s -> 1024.41s]  I swear a little.
+[1024.41s -> 1027.67s]  Shit.
+[1027.67s -> 1029.67s]  What the shit?
+[1029.67s -> 1032.94s]  I'm sorry.
+[1032.94s -> 1034.94s]  By rights we shouldn't even be friends.
+[1034.94s -> 1036.94s]  I'm a New York Yankees guy.
+[1036.94s -> 1038.94s]  What?
+[1038.94s -> 1040.94s]  What?
+[1040.94s -> 1044.20s]  I can't believe you
+[1044.20s -> 1046.20s]  just fucking said that.
+[1046.20s -> 1049.91s]  The truth is though
+[1049.91s -> 1051.91s]  I don't really care.
+[1051.91s -> 1053.91s]  I was told I was a Yankees fan when I was a child.
+[1053.91s -> 1055.91s]  I was told
+[1055.91s -> 1057.91s]  I was a Yankees fan.
+[1057.91s -> 1059.91s]  I was told that I was.
+[1059.91s -> 1061.91s]  You know
+[1061.91s -> 1063.91s]  watched a couple games here and there.
+[1063.91s -> 1066.34s]  I'm supposed to be angry at you
+[1066.34s -> 1068.34s]  according to the laws of thermodynamics.
+[1068.34s -> 1070.78s]  I mean that's
+[1070.78s -> 1073.98s]  okay.
+[1073.98s -> 1075.98s]  Being a Yankee fan
+[1075.98s -> 1077.98s]  obviously
+[1077.98s -> 1079.98s]  there's something wrong with you.
+[1079.98s -> 1081.98s]  Right, of course there is.
+[1081.98s -> 1083.98s]  If you go to the doctor
+[1083.98s -> 1085.98s]  and you tell the doctor
+[1085.98s -> 1087.98s]  when they do a physical exam
+[1087.98s -> 1089.98s]  one of the first things they have to ask you is
+[1089.98s -> 1091.98s]  still a baseball fan?
+[1091.98s -> 1093.98s]  Yeah, yeah I am.
+[1093.98s -> 1095.98s]  Yankees? Red Sox? Which one?
+[1095.98s -> 1097.98s]  Because it's very important.
+[1097.98s -> 1099.98s]  You get a CT scan for that.
+[1099.98s -> 1102.22s]  They have to check your whole body
+[1102.22s -> 1104.22s]  and make sure it's not like an ulcer
+[1104.22s -> 1106.22s]  or something. That could be what's causing it.
+[1106.22s -> 1108.22s]  I think
+[1108.22s -> 1110.22s]  it's the Lumbego again though.
+[1110.22s -> 1113.03s]  Pretty sure.
+[1113.03s -> 1115.03s]  What is Lumbego?
+[1115.03s -> 1117.03s]  So the uncle character in this game
+[1117.03s -> 1119.03s]  says that he has a killer case of Lumbego
+[1119.03s -> 1121.03s]  and apparently what that is
+[1121.03s -> 1123.03s]  is just his lower back hurts.
+[1123.03s -> 1125.03s]  So it's his lower back pain.
+[1125.03s -> 1127.03s]  I like to blame a lot of my failings
+[1127.03s -> 1129.03s]  on Lumbego these days.
+[1129.03s -> 1131.03s]  Am I in your game?
+[1131.03s -> 1133.03s]  I might even just be in your game.
+[1133.03s -> 1136.10s]  Am I in here?
+[1136.10s -> 1138.10s]  Am I with you?
+[1138.10s -> 1140.10s]  No, I'm sending you another invite.
+[1140.10s -> 1142.10s]  Doesn't look like you're in here.
+[1142.10s -> 1144.10s]  Oh god, this guy is going to kill me.
+[1144.10s -> 1146.34s]  I hope I can portal out of here.
+[1146.34s -> 1148.34s]  Lethal hog. Processing invite.
+[1148.34s -> 1150.34s]  Okay, thank god.
+[1150.34s -> 1152.65s]  This guy in his whole posse
+[1152.65s -> 1154.65s]  was medicinally walking around me
+[1154.65s -> 1156.65s]  with their guns out.
+[1156.65s -> 1160.87s]  Just portal to it out of the way.
+[1160.87s -> 1163.24s]  Were they ghosts?
+[1163.24s -> 1165.24s]  No, they were just bandits.
+[1165.24s -> 1167.24s]  Okay, because I think that might be
+[1167.24s -> 1169.24s]  a glimpse at the DLC.
+[1169.24s -> 1171.24s]  Ghost cowboys. We had zombies in the
+[1171.24s -> 1173.24s]  previous game and it'll just be ghosts this time around.
+[1173.24s -> 1175.24s]  I wonder what their plan is.
+[1175.24s -> 1177.24s]  Do they have no plan at all?
+[1177.24s -> 1180.42s]  Think?
+[1180.42s -> 1182.42s]  Yeah, they have a plan. The plan is to continue
+[1182.42s -> 1184.42s]  implementing weapons and cosmetic items
+[1184.42s -> 1186.42s]  and selling gold bars
+[1186.42s -> 1188.42s]  that you can then buy them with.
+[1188.42s -> 1190.42s]  Did you know that
+[1190.42s -> 1192.42s]  one of the dudes at Rockstar
+[1192.42s -> 1194.42s]  or was it Take Two or something
+[1194.42s -> 1196.42s]  said that they didn't feel GTA Online was monetized
+[1196.42s -> 1198.42s]  enough? Wait, is that for real?
+[1198.42s -> 1200.42s]  Yeah, apparently. Somebody actually said that?
+[1200.42s -> 1202.42s]  Yeah.
+[1202.42s -> 1206.20s]  And I like Rockstar.
+[1206.20s -> 1208.20s]  And they're really good to me. And I think
+[1208.20s -> 1210.20s]  that that's ridiculous. That was a highly
+[1210.20s -> 1212.20s]  monetized game. What the?
+[1212.20s -> 1215.14s]  I think I'm in your game.
+[1215.14s -> 1217.14s]  But I don't think I'm in your posse. Is this you up here?
+[1217.14s -> 1219.14s]  Hold on. I don't know. Let me just
+[1219.14s -> 1221.14s]  make sure.
+[1221.14s -> 1223.64s]  Strauss said that. There you go.
+[1223.64s -> 1226.07s]  Yeah.
+[1226.07s -> 1228.07s]  Yeah, I'm right next to you. Telling that there's a character
+[1228.07s -> 1230.07s]  that is a loan shark in this game
+[1230.07s -> 1232.07s]  called Strauss.
+[1232.07s -> 1237.30s]  Just want to make sure he was dead.
+[1237.30s -> 1239.30s]  Hey.
+[1239.30s -> 1241.30s]  Thank you.
+[1241.30s -> 1243.30s]  Wasn't there
+[1243.30s -> 1245.30s]  an Activision
+[1245.30s -> 1247.30s]  executive that said they wished they
+[1247.30s -> 1249.30s]  could sell a controller that was like $150
+[1249.30s -> 1251.30s]  or if they
+[1251.30s -> 1253.30s]  could sell their games for like double, they would do it
+[1253.30s -> 1255.30s]  if they could get away with it or something.
+[1255.30s -> 1257.30s]  I think so. Yeah, I seem to remember.
+[1257.30s -> 1259.30s]  I don't know for sure, but that sounds familiar.
+[1259.30s -> 1261.30s]  That was a couple years ago, no? Yeah.
+[1261.30s -> 1263.30s]  Something ridiculous like that.
+[1263.30s -> 1265.54s]  It's just it's a gift
+[1265.54s -> 1267.54s]  that keeps on giving. It really is.
+[1267.54s -> 1269.54s]  All right.
+[1269.54s -> 1271.54s]  I'm trying to join your posse.
+[1271.54s -> 1273.54s]  I got you the invite now.
+[1273.54s -> 1277.06s]  There's someone mad at me.
+[1277.06s -> 1279.06s]  So if someone appears over the ridge and tries to shoot
+[1279.06s -> 1281.06s]  us, then
+[1281.06s -> 1283.06s]  that's my fault.
+[1283.06s -> 1285.06s]  All right. So where's this free horse?
+[1285.06s -> 1287.06s]  Is that your horse?
+[1287.06s -> 1289.06s]  Yeah, it is. I guess it is now.
+[1289.06s -> 1291.06s]  I guess it is yours now.
+[1291.06s -> 1293.06s]  So Valentine,
+[1293.06s -> 1295.06s]  I'll set a waypoint. Set a waypoint for us.
+[1295.06s -> 1297.06s]  And by the way, there
+[1297.06s -> 1299.06s]  is- Wait, wait. Valentine chat?
+[1299.06s -> 1303.61s]  Oh, okay.
+[1303.61s -> 1305.61s]  There's like a 90 to 95 percent
+[1305.61s -> 1307.61s]  chance that I'm going to dump us.
+[1307.61s -> 1309.61s]  What's that?
+[1309.61s -> 1311.61s]  Is that the guy that was trying to fight you?
+[1311.61s -> 1314.92s]  That's my horse.
+[1314.92s -> 1316.92s]  Why was it just angry? It just had like a
+[1316.92s -> 1318.92s]  blip on the screen. Really?
+[1318.92s -> 1320.92s]  Yeah, it was a red blip. No, I don't
+[1320.92s -> 1323.22s]  know. That was weird.
+[1323.22s -> 1325.98s]  Easy, easy, easy, easy.
+[1325.98s -> 1327.98s]  Watch this, they're going to go
+[1327.98s -> 1331.62s]  bowling. They're fast
+[1331.62s -> 1333.62s]  though. These horses are real fucking
+[1333.62s -> 1337.40s]  shitty. These pins.
+[1337.40s -> 1339.40s]  So Jeremy, are you going to Pax East
+[1339.40s -> 1341.40s]  this year, even though you now live halfway across
+[1341.40s -> 1343.40s]  the country? More than halfway.
+[1343.40s -> 1345.40s]  I am not.
+[1345.40s -> 1347.40s]  Not going to Pax East this year.
+[1347.40s -> 1349.40s]  Unfortunately. I had to
+[1349.40s -> 1351.40s]  check. I just wanted to know. Are you chasing after
+[1351.40s -> 1353.40s]  this guy? No, I'm just
+[1353.40s -> 1355.40s]  trying to head to Valentine.
+[1355.40s -> 1357.77s]  Yeah, not this year.
+[1357.77s -> 1360.46s]  Vinny, are you going to Pax East?
+[1360.46s -> 1362.46s]  I will be there in body
+[1362.46s -> 1365.08s]  but not in spirit.
+[1365.08s -> 1367.51s]  So no.
+[1367.51s -> 1370.01s]  Because your spirit
+[1370.01s -> 1372.01s]  is what controls the body. The body is just a
+[1372.01s -> 1374.01s]  big case.
+[1374.01s -> 1376.01s]  Yeah, it's like
+[1376.01s -> 1378.01s]  a meat machine.
+[1378.01s -> 1380.01s]  So you're sending your horse hair cooler master
+[1380.01s -> 1382.01s]  to Pax.
+[1382.01s -> 1384.01s]  That's correct.
+[1384.01s -> 1386.25s]  I need a new keyboard for this
+[1386.25s -> 1388.25s]  fucking game.
+[1388.25s -> 1390.25s]  And I need some more memory because, man, I am
+[1390.25s -> 1392.25s]  running out.
+[1392.25s -> 1394.25s]  I've got to learn how to laugh without being a disgusting
+[1394.25s -> 1396.49s]  human being.
+[1396.49s -> 1398.49s]  Me just laughing right there.
+[1398.49s -> 1400.49s]  What was my horse doing?
+[1400.49s -> 1402.49s]  What the fuck?
+[1402.49s -> 1405.05s]  He just ran over my
+[1405.05s -> 1410.62s]  head.
+[1410.62s -> 1412.62s]  That was good. Keep it up.
+[1412.62s -> 1414.62s]  I need to feed him.
+[1414.62s -> 1416.98s]  Oh, carrots.
+[1416.98s -> 1418.98s]  Where's the horse food? Oh, that's right.
+[1418.98s -> 1420.98s]  I can feed him my clothes.
+[1420.98s -> 1422.98s]  I barely have anything to feed this fucking
+[1422.98s -> 1432.78s]  thing.
+[1432.78s -> 1434.78s]  Are you trying to shoot that guy? Yeah, I tried.
+[1434.78s -> 1437.21s]  But yeah, what I'm saying is
+[1437.21s -> 1439.21s]  people must hate
+[1439.21s -> 1441.21s]  talking to me. Okay, so let me ask
+[1441.21s -> 1443.21s]  you something. We like hung out.
+[1443.21s -> 1445.21s]  We hung out in person.
+[1445.21s -> 1447.21s]  In person.
+[1447.21s -> 1449.21s]  When I like laughed at something, did I just
+[1449.21s -> 1451.21s]  like sprinkle or spit in
+[1451.21s -> 1453.21s]  your face? No. Okay.
+[1453.21s -> 1455.21s]  I don't know what it is about sitting here, but every time I laugh, I just like
+[1455.21s -> 1457.21s]  droplets of water just all over my
+[1457.21s -> 1459.21s]  screen. I'm not even sipping anything.
+[1459.21s -> 1461.21s]  I don't understand how.
+[1461.21s -> 1463.21s]  You know, I have a weird
+[1463.21s -> 1465.21s]  confession to make. Okay.
+[1465.21s -> 1467.21s]  So my Wii U gamepad, the screen
+[1467.21s -> 1469.21s]  is like
+[1469.21s -> 1471.21s]  is kind of gross. That's like
+[1471.21s -> 1473.21s]  four years of streaming it and speaking
+[1473.21s -> 1475.21s]  in front of it. And I thought I didn't
+[1475.21s -> 1477.21s]  spit when I spoke or laugh.
+[1477.21s -> 1479.21s]  I was clearly extremely
+[1479.21s -> 1481.21s]  mistaken. So I think this is just being
+[1481.21s -> 1483.21s]  a human. This is just faulty hardware.
+[1483.21s -> 1485.21s]  Something that we all share.
+[1485.21s -> 1487.21s]  No, I think you're honest in there because
+[1487.21s -> 1489.21s]  it's gonna happen again. Don't you do it.
+[1489.21s -> 1491.21s]  Okay, we're fine. This horse
+[1491.21s -> 1493.21s]  sucks. I'd rather just ride on yours.
+[1495.45s -> 1497.45s]  You can if you want. My
+[1497.45s -> 1499.45s]  oatmeal is a sturdy horse
+[1499.45s -> 1501.45s]  firm, I guess. But also the
+[1501.45s -> 1503.45s]  frame rates are dipping. Are you getting like weird frame rates?
+[1503.45s -> 1505.45s]  Oh yeah, it's bad. It's like
+[1505.45s -> 1507.45s]  20 frames a second. Yeah, what's
+[1507.45s -> 1509.45s]  going on? I feel like I'm playing Ocarina of Time again.
+[1509.45s -> 1511.45s]  Uh, but I think
+[1511.45s -> 1513.45s]  that's just like a hill. Let me like transfer.
+[1513.45s -> 1516.07s]  Let me transfer.
+[1516.07s -> 1518.07s]  I think that's just a
+[1518.07s -> 1520.57s]  almost a tree.
+[1520.57s -> 1522.57s]  Just hang on a minute, okay? Yeah. Where's your horse?
+[1522.57s -> 1526.28s]  Take care of it.
+[1526.28s -> 1528.28s]  Wait, you're killing him. You just killed my horse?
+[1528.28s -> 1530.28s]  No, no, I
+[1530.28s -> 1532.28s]  wouldn't let me. We're friends.
+[1532.28s -> 1534.28s]  Tidge wouldn't let me. Yeah,
+[1534.28s -> 1536.71s]  I tried.
+[1536.71s -> 1538.71s]  But you haven't noticed that, I don't know, do you have like an iPad
+[1538.71s -> 1540.71s]  or anything? I don't have
+[1540.71s -> 1543.02s]  any, um, no.
+[1543.02s -> 1545.02s]  Even like the Switch or the Wii U,
+[1545.02s -> 1547.02s]  you're right there, but for some
+[1547.02s -> 1549.02s]  reason, it's the most embarrassing thing in the world.
+[1549.02s -> 1551.02s]  Even your phone too. If somebody
+[1551.02s -> 1553.02s]  ever is like, hey, can I use your phone?
+[1553.02s -> 1555.02s]  It's just like, oh fuck, and you look at it and
+[1555.02s -> 1557.02s]  it's just like, oh, and I was like, I was like shitting and like
+[1557.02s -> 1559.02s]  using this. I gotta like wipe it off. I gotta like
+[1559.02s -> 1561.02s]  pissing and
+[1561.02s -> 1563.02s]  There's particles.
+[1563.02s -> 1565.02s]  There's particles, whether you want there to be or not,
+[1565.02s -> 1567.02s]  there's particles. And nobody wants, nobody
+[1567.02s -> 1569.02s]  wants you to, if there's a screen involved,
+[1569.02s -> 1571.02s]  you never want
+[1571.02s -> 1573.02s]  someone to touch it or look at it.
+[1573.02s -> 1575.90s]  Anytime somebody wants to, oh, can I use your iPad
+[1575.90s -> 1578.65s]  for a second? Well, that person didn't
+[1578.65s -> 1580.65s]  let us use their iPad.
+[1580.65s -> 1586.41s]  Fuck. Maybe there are horses
+[1586.41s -> 1588.41s]  better. I can't steal it.
+[1588.41s -> 1592.95s]  We can't take it?
+[1592.95s -> 1594.95s]  Oh, hey.
+[1594.95s -> 1597.83s]  Calm it down,
+[1597.83s -> 1599.83s]  calm down, calm down, calm down.
+[1599.83s -> 1601.83s]  Alright, let's get out of here before they get mad at us.
+[1601.83s -> 1603.83s]  No, no, I'm talking about the horse. I calmed the horse down. This thing is cool.
+[1603.83s -> 1606.14s]  We need to take this thing.
+[1606.14s -> 1608.14s]  I don't think we can. I think it's, it's got a
+[1608.14s -> 1610.14s]  saddle on it. That thing tried to kick you
+[1610.14s -> 1614.68s]  by the way.
+[1614.68s -> 1618.58s]  Well, that person's head is still bleeding.
+[1618.58s -> 1622.30s]  I can't wait to get our cool, oh, there they are,
+[1622.30s -> 1625.18s]  they're there. Alright,
+[1625.18s -> 1627.18s]  line it up. I'm jumping to the horse.
+[1630.18s -> 1632.18s]  Not even necessary.
+[1632.18s -> 1634.49s]  Nope, none of this
+[1634.49s -> 1636.49s]  is necessary. I told you, I'm not a good guy.
+[1636.49s -> 1638.49s]  I am morally as
+[1638.49s -> 1640.49s]  gray as you can get. This is your, this is
+[1640.49s -> 1642.49s]  good guy, right?
+[1642.49s -> 1644.66s]  I'm a good guy, yeah. No, that's what,
+[1644.66s -> 1646.66s]  good, we,
+[1646.66s -> 1648.90s]  what's bad about it?
+[1648.90s -> 1650.90s]  They are bad. We're killing the bad guys.
+[1650.90s -> 1655.13s]  That's what I'm saying. So,
+[1655.13s -> 1657.13s]  oh, oh, oh, here, in regards to the
+[1657.13s -> 1659.13s]  discussion that we just had about touchscreens,
+[1659.13s -> 1661.13s]  did you know that they did,
+[1661.13s -> 1663.13s]  I don't know who they is,
+[1663.13s -> 1665.13s]  but they did some tests
+[1665.13s -> 1667.13s]  on McDonald's touchscreens
+[1667.13s -> 1669.13s]  for ordering, and they determined that
+[1669.13s -> 1671.13s]  there is poo on every one of the ones
+[1671.13s -> 1673.13s]  that they tested. Oh,
+[1673.13s -> 1675.13s]  that's, that's fucking
+[1675.13s -> 1677.13s]  disgusting.
+[1677.13s -> 1679.37s]  Nice jump, by the way.
+[1679.37s -> 1682.63s]  Yeah. I'm
+[1682.63s -> 1684.63s]  sorry, man, but I'm of the opinion, that doesn't really
+[1684.63s -> 1686.63s]  gross me out because I feel like there's poo
+[1686.63s -> 1688.63s]  everywhere. Yeah, there is poo
+[1688.63s -> 1690.63s]  everywhere. As Bruce Willis once said, there's always
+[1690.63s -> 1692.63s]  a little shit in the meat. I mean, like
+[1692.63s -> 1694.63s]  there's probably, there's probably shit on your hands
+[1694.63s -> 1696.63s]  right now. Yeah.
+[1696.63s -> 1698.63s]  No, I wouldn't be surprised. I mean, you know, little
+[1698.63s -> 1700.63s]  microbes.
+[1700.63s -> 1702.63s]  I mean, if you test the oxygen around you, it's
+[1702.63s -> 1704.63s]  probably like point one percent poo.
+[1704.63s -> 1706.63s]  And you just look down and it's like, oh my
+[1706.63s -> 1708.63s]  god. My hands
+[1708.63s -> 1710.63s]  are covered in shit. I look
+[1710.63s -> 1712.63s]  down and my controller is just filled
+[1712.63s -> 1715.32s]  with turds.
+[1715.32s -> 1717.50s]  That would be disgusting. I'm getting
+[1717.50s -> 1719.50s]  someone just said, Vinnie, I'm getting sick.
+[1719.50s -> 1721.50s]  I'm sorry, chat member. You didn't deserve that.
+[1721.50s -> 1723.74s]  How much vomit
+[1723.74s -> 1725.74s]  particulates do you believe are floating
+[1725.74s -> 1727.74s]  around at any given moment? Well,
+[1727.74s -> 1729.74s]  to be, I'll be completely honest, at least
+[1729.74s -> 1731.74s]  a few dozen here because I, when you said you were a
+[1731.74s -> 1733.74s]  Yankees fan, I threw up into my glass. So
+[1733.74s -> 1735.74s]  Oh, good point. That did happen.
+[1735.74s -> 1737.74s]  How did you feel about
+[1737.74s -> 1739.74s]  I mean, are you, I don't know, I don't remember
+[1739.74s -> 1741.74s]  if we talked about this when we were in Boston, but are
+[1741.74s -> 1743.74s]  you a big enough baseball fan to have really felt
+[1743.74s -> 1745.74s]  like a dopamine hit when
+[1745.74s -> 1747.74s]  they won? Um, no.
+[1747.74s -> 1749.74s]  Because I took the ultimate
+[1749.74s -> 1753.00s]  drug in 2004. Jesus.
+[1753.00s -> 1755.00s]  Jesus.
+[1755.00s -> 1757.00s]  I found Jesus.
+[1757.00s -> 1759.00s]  Oh, no, really?
+[1759.00s -> 1761.00s]  What did you hit?
+[1761.00s -> 1763.00s]  When the Red Sox won the World Series for the first
+[1763.00s -> 1765.00s]  time in like a hundred years. Oh, okay.
+[1765.00s -> 1767.00s]  That was 2004 was like the magical
+[1767.00s -> 1769.00s]  year and no other drug could ever
+[1769.00s -> 1771.00s]  come close.
+[1771.00s -> 1773.00s]  2007 was pretty good too because
+[1773.00s -> 1775.00s]  one of my favorite players was on the
+[1775.00s -> 1777.00s]  World Series with 2007 and
+[1777.00s -> 1779.00s]  you know, that team
+[1779.00s -> 1781.00s]  I think was a really great team. But then
+[1781.00s -> 1783.00s]  2013, it was like, oh, okay.
+[1783.00s -> 1785.00s]  Man, this is
+[1785.00s -> 1787.00s]  Red Sox are so good this third time
+[1787.00s -> 1789.00s]  in like less than 10 years.
+[1789.00s -> 1791.00s]  And then this last one, it's like the best team they've ever
+[1791.00s -> 1793.00s]  had in history of the history of the entire
+[1793.00s -> 1795.00s]  franchise. And it's like, yeah.
+[1795.00s -> 1797.00s]  Man, I wish I could get that 2004
+[1797.00s -> 1799.00s]  drug bill.
+[1799.00s -> 1801.00s]  Right, right. It just gets less. It's like
+[1801.00s -> 1803.00s]  when the Yankees won a bunch in
+[1803.00s -> 1805.00s]  a row in the
+[1805.00s -> 1807.00s]  late 90s and it was just getting boring.
+[1807.00s -> 1809.00s]  And then when they didn't win, it was like, well, fuck, I wanted a day
+[1809.00s -> 1811.00s]  off from school.
+[1811.00s -> 1813.00s]  It wasn't even like special anymore. It was just
+[1813.00s -> 1815.00s]  where's my day off? Because they were giving us a day off when the Yankees
+[1815.00s -> 1817.00s]  won. Really?
+[1817.00s -> 1819.00s]  Yeah, they did. For the parade.
+[1819.00s -> 1821.00s]  You could choose not to go and they wouldn't be upset.
+[1821.00s -> 1823.00s]  Wow.
+[1823.00s -> 1825.00s]  Uh huh. So where's our free horse?
+[1825.00s -> 1827.24s]  Um, hey chat.
+[1827.24s -> 1830.94s]  Was that a jape?
+[1830.94s -> 1833.50s]  Did you guys, uh...
+[1833.50s -> 1835.80s]  Were you just joking with us the whole time, huh?
+[1835.80s -> 1837.80s]  No. The free horse is in strawberry.
+[1837.80s -> 1841.06s]  Jeremy, I have a
+[1841.06s -> 1843.30s]  I have a confession. What is it?
+[1843.30s -> 1845.30s]  I took us to the wrong town. Oh.
+[1845.30s -> 1847.86s]  It's okay.
+[1847.86s -> 1849.86s]  Because I go to the wrong town literally
+[1849.86s -> 1851.86s]  every time I play the game. So.
+[1851.86s -> 1854.68s]  Okay. Um, we have to go to strawberry.
+[1854.68s -> 1857.75s]  Wait, wait, can we take a, um,
+[1857.75s -> 1859.75s]  take a fast travel? I think it costs money.
+[1859.75s -> 1862.87s]  What's this horse? Did I get a...
+[1862.87s -> 1864.87s]  Oh, this is the horse that I got from... Okay, yeah.
+[1864.87s -> 1867.43s]  So this is my actual horse.
+[1867.43s -> 1869.43s]  There's one with the frame rates in multiplayer.
+[1869.43s -> 1871.43s]  Jesus. Yeah, they're pretty bad.
+[1871.43s -> 1874.70s]  Um, I'm gonna
+[1874.70s -> 1876.70s]  attempt to do the stagecoach and see how long that takes.
+[1876.70s -> 1878.70s]  And how much money
+[1878.70s -> 1880.70s]  it costs to fast travel. Oh, yeah, yeah.
+[1880.70s -> 1883.26s]  That's probably a good idea.
+[1883.26s -> 1885.26s]  It's under buy horses superior.
+[1885.26s -> 1887.26s]  But it's only in strawberry. Only in
+[1887.26s -> 1891.61s]  strawberry. How far away is that from here?
+[1891.61s -> 1893.61s]  That's not that far. It's not too bad.
+[1893.61s -> 1895.61s]  It's not terrible. Vinny, no. Hang on.
+[1895.61s -> 1897.61s]  Wait, wait, wait. Only strawberry.
+[1897.61s -> 1899.61s]  No. In any stables. Only strawberry.
+[1899.61s -> 1901.61s]  Any stable. Only
+[1901.61s -> 1903.61s]  strawberry. I hate life sometimes.
+[1903.61s -> 1905.61s]  Okay, I'm gonna go back to this and I'm gonna let you know.
+[1905.61s -> 1907.61s]  Eat the raspberries, Vinny.
+[1907.61s -> 1909.61s]  That's what they say.
+[1909.61s -> 1911.61s]  Eat those raspberries. Don't eat them.
+[1911.61s -> 1913.61s]  They're not poisonous. Those raspberries
+[1913.61s -> 1915.61s]  in front of you are not poisonous. Yes, they are.
+[1915.61s -> 1917.61s]  They're poisonous. Like,
+[1917.61s -> 1919.61s]  I've talked about this on my stream before, but let me
+[1919.61s -> 1921.61s]  see how you feel about this.
+[1921.61s -> 1923.61s]  If you were in a room and
+[1923.61s -> 1925.61s]  there were a hundred people
+[1925.61s -> 1927.61s]  outside, like we're talking like a two-way
+[1927.61s -> 1929.61s]  mirror, like glass, right? You're sitting in like
+[1929.61s -> 1932.10s]  a interrogation room.
+[1932.10s -> 1934.10s]  And a guy comes in and puts
+[1934.10s -> 1936.10s]  berries down in front of you.
+[1936.10s -> 1938.10s]  They're like
+[1938.10s -> 1940.10s]  red. Just red berries on the little
+[1940.10s -> 1942.86s]  plate and he leaves the room. Are you going to eat
+[1942.86s -> 1944.86s]  them if you hear fifty
+[1944.86s -> 1946.86s]  percent of the people screaming, don't eat those.
+[1946.86s -> 1948.86s]  They're poisonous from the other room.
+[1948.86s -> 1950.86s]  Or eat them. They'll give you superpowers. Don't listen
+[1950.86s -> 1955.91s]  to them. What are you gonna do? Are you gonna eat them?
+[1955.91s -> 1957.91s]  How depressed am I before I enter this room?
+[1957.91s -> 1959.91s]  Today was a great day.
+[1959.91s -> 1962.66s]  Like, today was a fantastic day.
+[1962.66s -> 1965.03s]  One of the best you probably had all week.
+[1965.03s -> 1970.01s]  Did Smash come out yet?
+[1970.01s -> 1972.01s]  Yeah, Smash came out.
+[1972.01s -> 1974.01s]  And Gino got confirmed for DLC.
+[1980.84s -> 1982.84s]  Okay, I won't eat the berries then. You won't eat them?
+[1982.84s -> 1984.84s]  Alright. No. Alright, so when you push that
+[1984.84s -> 1986.84s]  away, half of the people in the other room
+[1986.84s -> 1988.84s]  are screaming at you.
+[1988.84s -> 1991.72s]  And they're very upset with you. And like your
+[1991.72s -> 1993.72s]  day gets worse because as you're walking out
+[1993.72s -> 1995.72s]  there's like drinks are getting thrown at you.
+[1995.72s -> 1998.02s]  There's like fruits that are flying by your head.
+[1998.02s -> 2000.02s]  Like, you should have eaten yours, you fucking idiot.
+[2000.02s -> 2002.02s]  And like somebody drives by and throws like a large soda at you.
+[2002.02s -> 2007.40s]  God, this is tough. What would
+[2007.40s -> 2010.15s]  you do?
+[2010.15s -> 2012.15s]  I wouldn't do it. No, I don't think so.
+[2012.15s -> 2015.61s]  I mean, super powers sound cool
+[2015.61s -> 2017.61s]  and everything, but isn't God much
+[2017.61s -> 2019.61s]  more cooler?
+[2019.61s -> 2021.61s]  Alright, I'm gonna sell oatmeal. Goodbye oatmeal.
+[2021.61s -> 2023.61s]  Why are you selling your
+[2023.61s -> 2025.61s]  horse? I liked oatmeal because
+[2025.61s -> 2027.61s]  it was a cool name, but someone else can have oatmeal.
+[2027.61s -> 2029.61s]  There's a free horse in here, dude. There's a free horse in there?
+[2029.61s -> 2031.61s]  Yeah, there's a free horse.
+[2031.61s -> 2035.00s]  Did you just like ram
+[2035.00s -> 2037.00s]  into the fucking stables at full speed?
+[2037.00s -> 2039.00s]  Because I saw that on the
+[2039.00s -> 2041.00s]  cutscene.
+[2041.00s -> 2043.00s]  Alright, go to buy horse,
+[2043.00s -> 2045.00s]  go to superior at the bottom,
+[2045.00s -> 2047.00s]  Arabian, red chestnut,
+[2047.00s -> 2049.88s]  and you can claim a free
+[2049.88s -> 2052.18s]  horse. Your stable is full?
+[2052.18s -> 2054.18s]  Yeah, you gotta sell your other horse.
+[2054.18s -> 2056.49s]  How much did you get for selling that one?
+[2056.49s -> 2058.49s]  Next to nothing.
+[2058.49s -> 2060.92s]  My horse's name is Sean.
+[2060.92s -> 2065.58s]  Alright, sorry.
+[2065.58s -> 2067.58s]  Someone said name it Bagel.
+[2067.58s -> 2071.27s]  Name it Nut. Oh, that's a good
+[2071.27s -> 2073.27s]  idea. I'll name it Nut. People are gonna be so upset
+[2073.27s -> 2075.83s]  I'm about to sell this horse.
+[2075.83s -> 2077.83s]  Yeah, my audience was not happy.
+[2077.83s -> 2080.78s]  Oh, by the way,
+[2080.78s -> 2082.78s]  why don't we do a quick plug? I want to plug your
+[2082.78s -> 2084.78s]  stream. If anyone wants to see what's going on, or
+[2084.78s -> 2086.78s]  do like a multi-stream and watch Jerma
+[2086.78s -> 2088.95s]  stream too, you can go to Twitch.tv
+[2088.95s -> 2091.45s]  slash Jerma.
+[2093.75s -> 2095.75s]  That's good enough.
+[2095.75s -> 2097.75s]  They'll find me. Sure. Twitch.tv
+[2097.75s -> 2100.38s]  slash Jerma. Yeah, it's
+[2100.38s -> 2102.38s]  J-H-E-R-R-H-H-H.
+[2102.38s -> 2104.74s]  Twitch.tv slash.
+[2104.74s -> 2106.74s]  Because there's numbers, right? At the end.
+[2106.74s -> 2108.74s]  Yeah, I'm one of those idiots that has numbers.
+[2108.74s -> 2111.75s]  Jerma985, J-H-E-R-M-A-985.
+[2111.75s -> 2113.75s]  And if anybody over here that wants to go check out
+[2113.75s -> 2117.02s]  Vinnie. Yeah, you
+[2117.02s -> 2119.02s]  could go to Twitch.tv
+[2119.02s -> 2121.02s]  slash. Yeah.
+[2121.02s -> 2123.02s]  This is like four H's.
+[2123.02s -> 2126.60s]  Vine. Vine
+[2126.60s -> 2129.74s]  sauce. That is correct.
+[2129.74s -> 2132.36s]  You know, multi-stream us.
+[2132.36s -> 2134.54s]  You know what I'm saying? Yeah, there's
+[2134.54s -> 2136.54s]  gonna be a way to do that natively
+[2136.54s -> 2138.54s]  soon enough, like Twitch is implemented
+[2138.54s -> 2140.54s]  or they're working on implementing a way to do that.
+[2140.54s -> 2143.29s]  So that way
+[2143.29s -> 2145.78s]  you can just enjoy other
+[2145.78s -> 2147.78s]  streamers without having to go to like a multi-stream website.
+[2147.78s -> 2150.09s]  So I think that's kind of cool.
+[2150.09s -> 2152.09s]  Yeah. That's kind of, that's very
+[2152.09s -> 2155.03s]  necessary. Yeah. I think it's
+[2155.03s -> 2157.59s]  a great idea. I'm surprised it hasn't happened sooner.
+[2157.59s -> 2161.62s]  There we go. Alright, so I got my free
+[2161.62s -> 2164.89s]  horse. Thank God. There's
+[2164.89s -> 2166.89s]  a couple free saddles available.
+[2166.89s -> 2169.26s]  Yeah. I'm looking
+[2169.26s -> 2171.26s]  at some of the stuff right now. 80
+[2171.26s -> 2173.75s]  bucks. How are you ever gonna get like
+[2173.75s -> 2175.75s]  more than five gold bars in this game?
+[2175.75s -> 2177.75s]  How is that impossible?
+[2177.75s -> 2179.75s]  Oh, I know how it's possible.
+[2181.75s -> 2183.75s]  There was a big drama post about how
+[2183.75s -> 2185.75s]  someone was like, they did the math and to earn
+[2185.75s -> 2187.75s]  enough money to buy another
+[2187.75s -> 2189.75s]  stable or like, you know, a horse.
+[2189.75s -> 2191.93s]  A good horse. They said it was something
+[2191.93s -> 2193.93s]  like 80 hours.
+[2193.93s -> 2195.93s]  And then that was disproven. I mean, they got the
+[2195.93s -> 2197.93s]  math wrong and it was like seven hours instead.
+[2197.93s -> 2200.17s]  Oh, I don't want to
+[2200.17s -> 2202.17s]  cause you any alarm here.
+[2202.17s -> 2204.47s]  But horse insurance
+[2204.47s -> 2206.47s]  for this horse is five gold bars
+[2206.47s -> 2209.10s]  that I don't have. Found out that the
+[2209.10s -> 2211.10s]  horses come back no matter what. The insurance
+[2211.10s -> 2213.10s]  just makes them more healthy. Oh,
+[2213.10s -> 2216.49s]  okay. So you can't
+[2216.49s -> 2218.49s]  if you have an owned horse and multiplayer,
+[2218.49s -> 2221.74s]  you're good. Okay, that's good.
+[2221.74s -> 2225.13s]  But yeah, you definitely
+[2225.13s -> 2227.13s]  want to get another saddle because
+[2227.13s -> 2229.82s]  there's some really good ones.
+[2229.82s -> 2231.82s]  So what you do is go to empty slot,
+[2231.82s -> 2233.82s]  attack one of them, and then
+[2233.82s -> 2235.82s]  special. Oh, you got it? Yeah, I got one.
+[2235.82s -> 2239.59s]  Okay, cool. I don't know why these are free.
+[2239.59s -> 2241.90s]  Are these all for free?
+[2241.90s -> 2245.29s]  I mean, I can't buy them though. Some of them.
+[2245.29s -> 2247.29s]  Oh, some of them. Did you get the couple
+[2247.29s -> 2250.10s]  free ones or? This one's 39.
+[2250.10s -> 2252.47s]  Which one is the free one? This one's 67.
+[2252.47s -> 2254.71s]  It should just be 00.
+[2254.71s -> 2257.91s]  Oh, I doubt it's special. Okay, I see.
+[2257.91s -> 2260.28s]  Alligator Ranch. Yeah, I'll get this one.
+[2260.28s -> 2263.74s]  The very last one at the end is really
+[2263.74s -> 2269.22s]  good. Let's see. Rattlesnake.
+[2269.22s -> 2273.05s]  Some of them are pretty cool. Oh,
+[2273.05s -> 2275.05s]  quick recommendation while we're here.
+[2275.05s -> 2277.05s]  I'd recommend getting some provisions
+[2277.05s -> 2279.05s]  for your horse so they can eat and not die.
+[2279.05s -> 2281.29s]  Oh, that's a good idea.
+[2281.29s -> 2283.29s]  Yeah, and maybe a horse reviver too.
+[2283.29s -> 2286.60s]  A little expensive, but it's probably
+[2286.60s -> 2290.63s]  worth it. So it's services, right?
+[2290.63s -> 2292.63s]  Well, not services. Under
+[2292.63s -> 2295.77s]  provisions. How much is it? Yeah.
+[2295.77s -> 2297.77s]  That's a lot of money. Well, the horse reviver's a lot
+[2297.77s -> 2299.77s]  of money, but the hay is a quarter,
+[2299.77s -> 2302.90s]  so that's not too bad, and it's... I'm just gonna buy
+[2302.90s -> 2305.08s]  shit right now. Hey, what about a sugar
+[2305.08s -> 2307.77s]  cube? You gonna get a couple of those? I'm gonna
+[2307.77s -> 2309.77s]  get some beets from Shroot Farms, but
+[2309.77s -> 2311.77s]  yeah, I'm gonna get some sugar cube. I got a horse
+[2311.77s -> 2315.86s]  reviver, I got some food. You know, by doing this,
+[2315.86s -> 2317.86s]  we're never gonna afford new weapons.
+[2317.86s -> 2320.98s]  Never. I've come to
+[2320.98s -> 2323.48s]  terms with the fact that it's just gonna be
+[2323.48s -> 2325.98s]  I'm gonna use the pea shooter with the BB gun.
+[2325.98s -> 2328.41s]  Yeah. Me too.
+[2328.41s -> 2332.38s]  Should we get our horses? Sorry, I had some
+[2332.38s -> 2334.62s]  peanut butter. Like a horse would.
+[2334.62s -> 2336.98s]  That's what they used to feed Mr.
+[2336.98s -> 2338.98s]  Ed to make it look like he was talking.
+[2338.98s -> 2341.86s]  The way you said
+[2341.86s -> 2343.86s]  that too, like the way your voice managed to squeak
+[2343.86s -> 2345.86s]  out that sentence, it sounded like Mr. Ed a little bit
+[2345.86s -> 2347.86s]  gush-poo-poo.
+[2347.86s -> 2352.54s]  So, good job.
+[2352.54s -> 2355.54s]  I didn't even... That show sucks!
+[2355.54s -> 2358.36s]  Yeah, I hated Mr. Ed.
+[2358.36s -> 2360.86s]  That horse scared the fuck out of me.
+[2360.86s -> 2364.38s]  Why does it talk? I don't like it.
+[2364.38s -> 2368.09s]  Why didn't anybody try to breed it?
+[2368.09s -> 2370.09s]  You could have a bunch of... You could start an entire
+[2370.09s -> 2372.09s]  new horse...
+[2372.09s -> 2374.52s]  Sub-species. Yeah.
+[2374.52s -> 2376.52s]  We could have intelligent horses
+[2376.52s -> 2378.82s]  all talking. Sell them.
+[2378.82s -> 2381.26s]  They would be so happy. We could...
+[2381.26s -> 2383.26s]  Horses that just love to sit around and eat hay, right?
+[2383.26s -> 2385.43s]  Yeah. That's all they do.
+[2385.43s -> 2387.43s]  Just put a headset on, yeah.
+[2387.43s -> 2389.80s]  Put a headset on them and they could be like
+[2389.80s -> 2393.32s]  telemarketers while they're just hanging out.
+[2393.32s -> 2395.32s]  Where are we going? That's right!
+[2395.32s -> 2397.56s]  You give them jobs again. Like, because they don't have
+[2397.56s -> 2399.56s]  as many jobs these days like they used to back in the
+[2399.56s -> 2401.56s]  old west and, you know, before that, of course.
+[2401.56s -> 2403.56s]  But I think, yeah, make them telemarketers.
+[2403.56s -> 2405.56s]  Hello! How can I help you?
+[2405.56s -> 2407.93s]  They would be so happy.
+[2407.93s -> 2409.93s]  They would get paid. They would get paid.
+[2409.93s -> 2412.68s]  Of course we would pay them. Of course.
+[2412.68s -> 2414.68s]  Fucking horse cars. Of course.
+[2414.68s -> 2418.06s]  Where are we going? I don't know.
+[2418.06s -> 2420.06s]  Do you want to kill some things?
+[2420.06s -> 2422.42s]  Yeah, let's go...
+[2422.42s -> 2424.42s]  In the context of this video game, yes.
+[2424.42s -> 2427.05s]  It's out of context.
+[2427.05s -> 2429.29s]  Hey, you want to go kill some stuff? Yeah!
+[2429.29s -> 2432.42s]  Yeah, we don't want to do that.
+[2432.42s -> 2434.42s]  I want to go run over some rabbits.
+[2434.42s -> 2439.80s]  I can start up a quick join
+[2439.80s -> 2442.10s]  and we can do a mission.
+[2442.10s -> 2444.10s]  We can do a story mission or we can do like a
+[2444.10s -> 2446.79s]  showdown mission.
+[2446.79s -> 2448.79s]  Let's do a showdown mission.
+[2448.79s -> 2454.04s]  Why not?
+[2454.04s -> 2456.04s]  Showdown series. You'll also join as a member of their posse.
+[2456.04s -> 2471.83s]  Okay, cool. It looks like we're going.
+[2471.83s -> 2473.83s]  So how's the weather over there, man?
+[2473.83s -> 2476.33s]  It's beautiful. Do you miss Boston weather?
+[2476.33s -> 2479.34s]  Not at all.
+[2479.34s -> 2481.34s]  This is snow season here
+[2481.34s -> 2483.34s]  for Boston, so
+[2483.34s -> 2485.34s]  I am absolutely ecstatic that
+[2485.34s -> 2487.34s]  it's like 50 degrees
+[2487.34s -> 2489.34s]  every day. It drops down overnight
+[2489.34s -> 2491.34s]  because it's obviously the desert, so it drops down to like
+[2491.34s -> 2493.34s]  low 40s.
+[2493.34s -> 2495.34s]  So it gets cold, but
+[2495.34s -> 2497.34s]  the days are great.
+[2497.34s -> 2500.79s]  He's literally talking about
+[2500.79s -> 2502.79s]  the weather.
+[2502.79s -> 2504.79s]  Oh god, I just got booted.
+[2504.79s -> 2506.79s]  Wait, you got booted?
+[2506.79s -> 2508.79s]  Really? Yeah.
+[2508.79s -> 2510.79s]  Oh, okay. Why does this game
+[2510.79s -> 2512.79s]  hate me so much?
+[2512.79s -> 2516.06s]  I'll just quit out.
+[2516.06s -> 2518.06s]  I don't know why this game hates me so much.
+[2518.06s -> 2523.24s]  What's wrong with the weather?
+[2523.24s -> 2525.24s]  I'll just say this. Lately it's been pretty cold
+[2525.24s -> 2528.76s]  here, but
+[2528.76s -> 2531.06s]  considered at times in my life
+[2531.06s -> 2533.06s]  moving to a place where I don't
+[2533.06s -> 2535.06s]  have to deal with like
+[2535.06s -> 2537.69s]  bone chill.
+[2537.69s -> 2539.69s]  The one thing that I will say
+[2539.69s -> 2541.69s]  is going to the west coast
+[2541.69s -> 2544.49s]  is, I mean
+[2544.49s -> 2546.49s]  there are pros and cons everywhere. I mean I miss Boston
+[2546.49s -> 2548.49s]  all the time. Yeah.
+[2548.49s -> 2550.49s]  But you miss bagels. Yeah.
+[2550.49s -> 2552.49s]  You bet your ass I do.
+[2552.49s -> 2555.56s]  I miss the bagels. I miss the
+[2555.56s -> 2557.56s]  sub sandwiches, like the steak and cheese subs.
+[2557.56s -> 2559.99s]  I miss those.
+[2559.99s -> 2562.36s]  Yeah. I would miss those too.
+[2562.36s -> 2565.05s]  I miss the pizza. Ah, that's
+[2565.05s -> 2567.05s]  right. Do you find any good pizza?
+[2567.05s -> 2569.22s]  Yeah, I mean there's some decent pizza places
+[2569.22s -> 2571.22s]  out here, but not like there are in New York
+[2571.22s -> 2575.83s]  obviously. Okay, I'm
+[2575.83s -> 2577.83s]  going to try to invite you again. Yeah,
+[2577.83s -> 2579.83s]  I don't know why
+[2579.83s -> 2581.83s]  because
+[2581.83s -> 2583.83s]  every time it kicks me out it says, there's a problem
+[2583.83s -> 2585.83s]  with the Rockstar servers. It doesn't
+[2585.83s -> 2587.83s]  like say, you've been disconnected because your computer
+[2587.83s -> 2589.83s]  sucks. It's, you've been
+[2589.83s -> 2591.83s]  disconnected but our servers are a problem.
+[2591.83s -> 2593.83s]  That's like what the error code is. At least
+[2593.83s -> 2597.10s]  they're honest about it. I don't know
+[2597.10s -> 2599.10s]  though, I feel like, I don't
+[2599.10s -> 2601.10s]  know who this is. Who the fuck is this?
+[2601.10s -> 2607.37s]  I think I just,
+[2607.37s -> 2611.85s]  all right. All right.
+[2611.85s -> 2616.20s]  I'm ready for an invite.
+[2616.20s -> 2618.20s]  Here it is. Hey, coming
+[2618.20s -> 2620.20s]  to you. Hey.
+[2620.20s -> 2623.53s]  Hey.
+[2628.33s -> 2630.33s]  I've been watching The Office like
+[2630.33s -> 2632.33s]  a dumbass lately. I don't know why. It's a good show.
+[2632.33s -> 2634.33s]  There's an episode.
+[2634.33s -> 2636.33s]  It's a good show. I don't know. It's just it was something to watch
+[2636.33s -> 2638.33s]  and there's an episode where in the beginning
+[2638.33s -> 2640.33s]  it was cold open.
+[2640.33s -> 2642.33s]  We talked about the weather and now I'm talking about
+[2642.33s -> 2644.33s]  I'm describing episodes of The Office.
+[2644.33s -> 2646.33s]  Your audience is going to be like, can you stop
+[2646.33s -> 2648.33s]  streaming with this guy?
+[2648.33s -> 2650.33s]  This guy sucks. He can't even
+[2650.33s -> 2652.33s]  stay connected to Rockstar's video game
+[2652.33s -> 2654.33s]  servers and he's talking about the weather.
+[2654.33s -> 2658.04s]  Anyway, there's an episode
+[2658.04s -> 2660.04s]  where they go A and I'm going to stop
+[2660.04s -> 2662.04s]  there. It's good enough.
+[2662.04s -> 2664.04s]  There's an episode where they go A.
+[2664.04s -> 2666.04s]  Yeah, they go A.
+[2666.04s -> 2668.28s]  Here, I'll invite you again.
+[2668.28s -> 2670.28s]  We have another problem at this point.
+[2670.28s -> 2672.28s]  I'll just like watch you stream.
+[2672.28s -> 2674.28s]  No, I mean, I'm down to
+[2674.28s -> 2676.28s]  try a couple more matches at least.
+[2676.28s -> 2678.28s]  It's worth a shot.
+[2678.28s -> 2680.28s]  I think we could have some fun if it
+[2680.28s -> 2682.28s]  just was stable. I know, I know. I don't understand.
+[2682.28s -> 2684.28s]  I've gotten
+[2684.28s -> 2686.28s]  disconnected like three or four times when I stream this too.
+[2686.28s -> 2688.28s]  But it happens.
+[2688.28s -> 2690.28s]  Usually from random matches.
+[2690.28s -> 2693.02s]  I don't understand.
+[2693.02s -> 2695.02s]  What's the weather like on The Office?
+[2695.02s -> 2697.02s]  What's the weather like?
+[2697.02s -> 2699.02s]  Well,
+[2699.02s -> 2701.02s]  there's an episode where they go A.
+[2701.02s -> 2703.83s]  I can answer that
+[2703.83s -> 2705.83s]  because it was filmed in
+[2705.83s -> 2707.83s]  California and they try to make it look
+[2707.83s -> 2709.83s]  like Scranton, Pennsylvania, so it's snowy.
+[2709.83s -> 2711.83s]  But it's really not.
+[2715.72s -> 2717.72s]  Well,
+[2717.72s -> 2721.56s]  I got booted again.
+[2721.56s -> 2723.56s]  Super cool.
+[2723.56s -> 2725.56s]  Wait, wait, wait, wait. But you're still
+[2725.56s -> 2727.56s]  like, you haven't had any problems streaming.
+[2727.56s -> 2729.56s]  Oh, no, not at all. I've got no drop frames at all.
+[2729.56s -> 2732.57s]  It's something
+[2732.57s -> 2734.57s]  to do with where I'm coming from.
+[2734.57s -> 2736.87s]  Why does Rockstar not want to
+[2736.87s -> 2738.87s]  acknowledge Las Vegas?
+[2738.87s -> 2740.87s]  Maybe they don't. I don't understand.
+[2740.87s -> 2742.87s]  No, I'm not deleting the game.
+[2745.62s -> 2747.62s]  Yeah, I don't know. It's something to do with
+[2747.62s -> 2749.80s]  how they connect. I figured
+[2749.80s -> 2751.80s]  it was a problem from three days ago because it was the
+[2751.80s -> 2753.80s]  first day or two of the beta, but
+[2753.80s -> 2755.80s]  it looks like it's kind of just a server routing
+[2755.80s -> 2757.80s]  or server problem
+[2757.80s -> 2759.80s]  with Rockstar. And
+[2759.80s -> 2762.23s]  specifically either Las Vegas
+[2762.23s -> 2764.60s]  servers or
+[2764.60s -> 2766.60s]  California servers because, I mean, technically
+[2766.60s -> 2769.93s]  I'm on the West Coast.
+[2769.93s -> 2771.93s]  Well, maybe they'll get that sorted out in a couple days.
+[2771.93s -> 2773.93s]  That's what I was hoping for
+[2773.93s -> 2775.93s]  three days ago.
+[2775.93s -> 2777.93s]  Yeah, sorry. Sorry this is kind of
+[2777.93s -> 2779.93s]  impeding on everything.
+[2779.93s -> 2781.93s]  That's fine. I mean, I'm still shooting people in the
+[2781.93s -> 2783.93s]  face. It's not a big deal. But I would prefer
+[2783.93s -> 2785.93s]  to shoot people in the face with you in an
+[2785.93s -> 2788.68s]  actual match. That would be better.
+[2788.68s -> 2790.68s]  I'll invite you again.
+[2790.68s -> 2794.01s]  Let's try again. Yeah, let's try again.
+[2794.01s -> 2798.17s]  Even though it says I'm on a mission.
+[2798.17s -> 2800.17s]  Maybe they just hate you.
+[2800.17s -> 2803.69s]  I don't know, maybe. I tried restarting
+[2803.69s -> 2809.32s]  it. Moving to the country,
+[2809.32s -> 2811.32s]  gonna eat myself some
+[2811.32s -> 2813.32s]  peaches. Moving
+[2813.32s -> 2815.32s]  to the country, gonna eat
+[2815.32s -> 2817.32s]  me a lot of peaches.
+[2817.32s -> 2819.32s]  Look out!
+[2819.32s -> 2821.32s]  Look out, man!
+[2821.32s -> 2824.20s]  Peaches come
+[2824.20s -> 2826.20s]  in a can. They was put
+[2826.20s -> 2828.20s]  there by a man.
+[2830.70s -> 2832.70s]  I haven't heard that in a long time. Holy shit.
+[2832.70s -> 2834.70s]  Yeah, that was
+[2834.70s -> 2836.70s]  for you. I figured you might know about that. That was
+[2836.70s -> 2838.94s]  great. Yeah.
+[2838.94s -> 2840.94s]  I feel like, I feel really good
+[2840.94s -> 2842.94s]  right now. I was a little sad
+[2842.94s -> 2844.94s]  about like the Rockstar server issue here, but
+[2844.94s -> 2846.94s]  I feel fantastic.
+[2846.94s -> 2848.94s]  Yeah, that just takes
+[2848.94s -> 2850.94s]  the power of song. That's all it takes.
+[2850.94s -> 2853.99s]  Alright, here we go.
+[2853.99s -> 2856.23s]  Don't do it, Rockstar. I know
+[2856.23s -> 2858.23s]  you want to. Look at them.
+[2858.23s -> 2860.23s]  Look at them do it. Look at how much they want.
+[2860.23s -> 2862.23s]  Okay. I'm ready
+[2862.23s -> 2864.60s]  for an invite.
+[2864.60s -> 2866.60s]  And this will be the last time because it's going to stay
+[2866.60s -> 2868.60s]  on. I'm not going to get disconnected from
+[2868.60s -> 2871.03s]  Rockstar servers. The problem is
+[2871.03s -> 2873.03s]  I can't actually invite you now because I'm in a mission.
+[2873.03s -> 2875.03s]  Supposedly. Maybe for the better
+[2875.03s -> 2877.03s]  so I can stay connected for a minute.
+[2877.03s -> 2884.01s]  That's what you think. I know.
+[2884.01s -> 2887.59s]  Let me try...
+[2887.59s -> 2889.59s]  Explain to me what
+[2889.59s -> 2891.59s]  you were just doing. Because
+[2891.59s -> 2893.59s]  you were doing like a randomized Ocarina
+[2893.59s -> 2896.54s]  of Time? Yeah.
+[2896.54s -> 2898.54s]  So there's a randomizer
+[2898.54s -> 2900.54s]  and you can assign a bunch of different
+[2900.54s -> 2902.54s]  options. It's a really customizable randomizer.
+[2902.54s -> 2904.54s]  And
+[2904.54s -> 2906.54s]  all you have to do is
+[2906.54s -> 2908.54s]  every chest...
+[2908.54s -> 2910.54s]  Wow, I did what you did earlier.
+[2910.54s -> 2912.54s]  Every treasure chest.
+[2912.54s -> 2914.54s]  Oh, Jesus.
+[2914.54s -> 2916.54s]  Good luck saying it the right way ever again.
+[2916.54s -> 2918.54s]  Every treasure chest
+[2918.54s -> 2920.54s]  has randomized content
+[2920.54s -> 2922.54s]  except for a couple. And
+[2922.54s -> 2924.54s]  you can find medallions, you can find items,
+[2924.54s -> 2926.54s]  you can find swords, you can find all kinds of crazy shit.
+[2926.54s -> 2928.54s]  Really? And essentially
+[2928.54s -> 2930.54s]  you have to get the six medallions
+[2930.54s -> 2932.54s]  and they could be anywhere. And then you can fight
+[2932.54s -> 2934.54s]  Ganon. And you can
+[2934.54s -> 2936.54s]  make it really hard for yourself
+[2936.54s -> 2938.54s]  or you can make it a lot easier for yourself.
+[2938.54s -> 2940.54s]  Like, for example, I started the game
+[2940.54s -> 2942.54s]  Kakariko Village was open.
+[2942.54s -> 2944.54s]  I started the game where
+[2944.54s -> 2946.54s]  Kokiri Forest was open so I could just leave
+[2946.54s -> 2948.54s]  and go to the world map anytime. Oh, really?
+[2948.54s -> 2950.54s]  So, but yeah,
+[2950.54s -> 2952.54s]  I mean, it's kind of cool because you could just play the game
+[2952.54s -> 2954.54s]  in like six or seven hours
+[2954.54s -> 2956.54s]  if you're lucky and you know what you're doing.
+[2956.54s -> 2958.54s]  So could you get everything in the first six
+[2958.54s -> 2960.54s]  chests of the game?
+[2960.54s -> 2962.54s]  I got a hookshot in the first chest.
+[2962.54s -> 2964.54s]  Wow. That's cool.
+[2964.54s -> 2966.54s]  And you can get some, I got a
+[2966.54s -> 2968.54s]  medallion real early. You can get really broken
+[2968.54s -> 2970.54s]  like stuff early on
+[2970.54s -> 2972.54s]  or you can get five blue rupees.
+[2972.54s -> 2974.54s]  Five rupees every time.
+[2974.54s -> 2976.54s]  Which is the worst thing ever.
+[2976.54s -> 2978.54s]  Yeah, that's like
+[2978.54s -> 2980.54s]  what is it, green rupee the lowest?
+[2980.54s -> 2983.93s]  Mhm.
+[2983.93s -> 2985.93s]  But it's a really fun thing.
+[2985.93s -> 2987.93s]  I love it. I'm really enjoying it.
+[2987.93s -> 2990.74s]  No, it seemed cool. It seemed really cool
+[2990.74s -> 2993.11s]  from what I saw.
+[2993.11s -> 2995.11s]  You've never done a randomizer stream?
+[2995.11s -> 2997.11s]  Never. I mean, the only randomizer
+[2997.11s -> 2999.11s]  I've ever heard of or ever done was something like
+[2999.11s -> 3004.49s]  Team Fortress
+[3004.49s -> 3006.49s]  and that just randomizes loadouts, not like
+[3006.49s -> 3008.49s]  randomizing the whole game essentially. Oh, I see.
+[3008.49s -> 3011.11s]  I gotcha. So I'm just
+[3011.11s -> 3013.11s]  kind of, I'm just running until my character
+[3013.11s -> 3015.54s]  dies.
+[3015.54s -> 3017.54s]  Is that possible?
+[3017.54s -> 3019.54s]  You need to feed the character eventually.
+[3019.54s -> 3021.54s]  Hey chat, does anyone know how to
+[3021.54s -> 3023.54s]  abandon this stupid mailbag quest?
+[3023.54s -> 3025.54s]  Oh yeah, I got stuck in
+[3025.54s -> 3027.91s]  the mail room by the way. You gotta be
+[3027.91s -> 3036.87s]  careful with that mail door.
+[3036.87s -> 3038.87s]  Shoot yourself in the head. Okay, now
+[3038.87s -> 3040.87s]  the timer ran out. Okay, so now I can probably
+[3040.87s -> 3045.86s]  invite you.
+[3045.86s -> 3048.62s]  Yes, the mail door.
+[3048.62s -> 3050.62s]  The door to the mail room. The mail door.
+[3050.62s -> 3052.62s]  I got trapped in there. Remember when I was
+[3052.62s -> 3056.20s]  breaking windows? Did someone not
+[3056.20s -> 3058.20s]  understand? They were like, what are you talking about, Jerma?
+[3058.20s -> 3060.20s]  They were saying like M-A-L-E, like
+[3060.20s -> 3062.20s]  mail door. Oh.
+[3062.20s -> 3073.13s]  Okay.
+[3073.13s -> 3075.56s]  You alright? You okay?
+[3075.56s -> 3077.99s]  What happened?
+[3077.99s -> 3079.99s]  Tell me in minute detail.
+[3079.99s -> 3081.99s]  I got shot in the head.
+[3081.99s -> 3083.99s]  Hey, can you invite me?
+[3083.99s -> 3085.99s]  I see.
+[3085.99s -> 3087.99s]  Because my invite thing is totally
+[3087.99s -> 3089.99s]  blocked out for some reason.
+[3089.99s -> 3093.56s]  Mine is too.
+[3093.56s -> 3095.56s]  You invites and updates.
+[3095.56s -> 3098.25s]  Can I?
+[3098.25s -> 3101.70s]  Yeah, I can't invite you either.
+[3101.70s -> 3105.67s]  It's blocked out.
+[3105.67s -> 3107.67s]  Rockstar, what the heck are you doing here?
+[3107.67s -> 3115.29s]  I guess I'll just die.
+[3115.29s -> 3117.29s]  Are we in the same game?
+[3117.29s -> 3120.17s]  I'm playing Red Dead Redemption 3.
+[3120.17s -> 3122.54s]  Well, because
+[3122.54s -> 3124.54s]  if we're in the same lobby,
+[3124.54s -> 3127.16s]  I don't think so.
+[3127.16s -> 3129.16s]  No, because I can't. No, I don't think so either.
+[3129.16s -> 3131.16s]  Because I can't even get you into my posse.
+[3131.16s -> 3135.13s]  R1 on the player list.
+[3135.13s -> 3139.16s]  Apparently
+[3139.16s -> 3144.28s]  you're not even online.
+[3144.28s -> 3146.28s]  Yeah, apparently.
+[3146.28s -> 3148.28s]  Go to your friends tabs or go to players and hit R1.
+[3148.28s -> 3150.46s]  And does it say I'm like
+[3150.46s -> 3159.59s]  online?
+[3159.59s -> 3165.42s]  I'm just eating baked beans.
+[3165.42s -> 3167.42s]  You know what's a cool thing to do as a streamer I found out
+[3167.42s -> 3169.42s]  I've learned over the years?
+[3169.42s -> 3171.42s]  Eat food while you're streaming.
+[3171.42s -> 3173.42s]  I can't
+[3173.42s -> 3175.42s]  do that, man.
+[3175.42s -> 3177.42s]  It's either the best thing for some
+[3177.42s -> 3179.42s]  people and they love it.
+[3179.42s -> 3181.42s]  Or it's like they'll watch
+[3181.42s -> 3183.42s]  the stream specifically because it's social eating.
+[3183.42s -> 3185.42s]  Yeah, I've heard of that.
+[3185.42s -> 3187.42s]  They hate the way it sounds, yeah.
+[3187.42s -> 3189.42s]  I've heard of like the social eating thing, but not just like
+[3189.42s -> 3191.42s]  oh, hey guys, just gonna take a break from Red Dead
+[3191.42s -> 3193.42s]  and eat a plate of spaghetti. Hold on.
+[3193.42s -> 3195.42s]  I couldn't do it. I don't want people
+[3195.42s -> 3197.42s]  to look at me when I'm eating.
+[3197.42s -> 3199.42s]  Yeah, don't fucking look at me is what I say.
+[3199.42s -> 3201.42s]  I don't?
+[3201.42s -> 3203.42s]  When I go to dinner, out with friends
+[3203.42s -> 3205.42s]  or family and the food comes out,
+[3205.42s -> 3207.42s]  I hate the fact that everyone's just
+[3207.42s -> 3209.42s]  able to look at me just across the table.
+[3209.42s -> 3211.42s]  Fuck, you know what?
+[3211.42s -> 3213.42s]  Let's go off on this. Fuck the whole table
+[3213.42s -> 3215.42s]  scenario that we have here in the United States.
+[3215.42s -> 3217.42s]  Somebody's sitting across from you.
+[3217.42s -> 3219.42s]  They're always looking at you and they're staring at your eyes
+[3219.42s -> 3221.42s]  like you do the weird eye contact when you both take a huge
+[3221.42s -> 3223.42s]  bite and you're like, oh, whoops.
+[3223.42s -> 3225.42s]  Just line us up on the
+[3225.42s -> 3227.42s]  other side so it's just a giant bench
+[3227.42s -> 3229.42s]  and no one's across
+[3229.42s -> 3231.42s]  from you. Everyone just sits and you can fit so many
+[3231.42s -> 3234.62s]  more people. Like Thanksgiving, except
+[3234.62s -> 3236.62s]  for the fact that you don't have to sit across from anybody.
+[3236.62s -> 3239.37s]  That's like the Last Supper you mean, right?
+[3239.37s -> 3241.37s]  What the fuck are you doing here?
+[3241.37s -> 3243.37s]  How did you get in here? How did you get in here?
+[3243.37s -> 3247.59s]  No, no, no. Get off me.
+[3247.59s -> 3250.28s]  Get off me.
+[3250.28s -> 3254.31s]  Get your hands in the air. How did you find me?
+[3254.31s -> 3257.00s]  I don't even understand how
+[3257.00s -> 3260.84s]  you got in here.
+[3260.84s -> 3264.68s]  I went into
+[3264.68s -> 3266.68s]  the menus and I found you.
+[3266.68s -> 3269.62s]  Easy, easy.
+[3269.62s -> 3272.50s]  Watch the edge.
+[3272.50s -> 3274.50s]  Oh my god, you're choking me to death.
+[3274.50s -> 3276.50s]  Oh shit, I didn't mean to do that.
+[3276.50s -> 3279.45s]  Oh, that's a shame.
+[3279.45s -> 3281.45s]  No, stay right there.
+[3281.45s -> 3283.45s]  I want to take a picture of you.
+[3283.45s -> 3287.42s]  I want to get like a good photo of you.
+[3287.42s -> 3294.97s]  By the way, I'm the camera.
+[3294.97s -> 3297.46s]  Okay.
+[3297.46s -> 3305.21s]  I lived. I somehow lived.
+[3305.21s -> 3307.21s]  Oh, look who I've got.
+[3307.21s -> 3310.66s]  Hey, come on down here.
+[3310.66s -> 3312.66s]  Come retrieve your body. Who's this?
+[3312.66s -> 3314.66s]  Oh, that's me. Was that me?
+[3314.66s -> 3316.66s]  Yeah, I threw you down there.
+[3316.66s -> 3318.66s]  What the fuck? Hold on a minute.
+[3318.66s -> 3321.54s]  I know what we're going to do today.
+[3321.54s -> 3325.56s]  Okay, we're going to make
+[3325.56s -> 3327.56s]  a bunch of dead bodies of ourselves
+[3327.56s -> 3329.80s]  on this ledge.
+[3329.80s -> 3331.80s]  It really will be Westworld then.
+[3331.80s -> 3333.80s]  I just invited you to a posse though.
+[3333.80s -> 3335.80s]  Oh, did you?
+[3335.80s -> 3337.80s]  I don't see any invites.
+[3337.80s -> 3339.80s]  I think I just kicked the muskrat.
+[3339.80s -> 3342.04s]  How come I don't have any invites from you?
+[3342.04s -> 3344.66s]  Because this fucking
+[3344.66s -> 3346.66s]  service is so fucking broken.
+[3348.66s -> 3358.39s]  I'm gone.
+[3358.39s -> 3360.39s]  Here's the wild thing.
+[3360.39s -> 3362.39s]  This is worse than before. This is worse than it was
+[3362.39s -> 3365.14s]  three days ago.
+[3365.14s -> 3367.14s]  Did you get disconnected again?
+[3367.14s -> 3370.60s]  Yeah, this is worse than it was three days ago.
+[3370.60s -> 3378.26s]  Damn.
+[3378.26s -> 3380.26s]  There's something wrong with
+[3380.26s -> 3382.26s]  what Rockstar servers on the East Coast,
+[3382.26s -> 3384.26s]  West Coast specifically, has to be.
+[3384.26s -> 3386.82s]  I'm sure it's something.
+[3386.82s -> 3388.82s]  Because I have a
+[3388.82s -> 3390.82s]  stable connection everywhere.
+[3396.78s -> 3398.95s]  Okay, this is weird.
+[3398.95s -> 3400.95s]  I'm lagging too because my character is doing the
+[3400.95s -> 3402.95s]  whistling face, but there are no whistles coming out of it.
+[3408.58s -> 3410.58s]  He says he doesn't eat on stream, but
+[3410.58s -> 3412.58s]  there was a time you shoved a bunch of taquitos
+[3412.58s -> 3414.58s]  into your mouth or something.
+[3414.58s -> 3419.77s]  The character is going
+[3419.77s -> 3422.58s]  meme-y.
+[3422.58s -> 3424.58s]  I'm all lagged out.
+[3424.58s -> 3426.58s]  Did you eat like taquitos
+[3426.58s -> 3428.58s]  on stream?
+[3428.58s -> 3430.58s]  They said you don't
+[3430.58s -> 3432.58s]  eat on stream, but you ate a
+[3432.58s -> 3434.58s]  shitload of taquitos when you were shitfaced or something.
+[3434.58s -> 3437.59s]  What?
+[3437.59s -> 3439.59s]  Oh, they're talking about
+[3439.59s -> 3441.59s]  me.
+[3441.59s -> 3447.42s]  Oh, me.
+[3447.42s -> 3449.42s]  You don't remember this.
+[3449.42s -> 3451.42s]  I guess you were shitfaced.
+[3451.42s -> 3453.42s]  When did I eat taquitos?
+[3453.42s -> 3459.24s]  What the fuck are you guys talking about?
+[3459.24s -> 3461.24s]  I ate testiculitos.
+[3461.24s -> 3463.24s]  Vdub gave me some.
+[3463.24s -> 3465.24s]  What?
+[3465.24s -> 3467.54s]  What the fuck?
+[3467.54s -> 3469.54s]  I have a rival as a pro Call of Duty player
+[3469.54s -> 3471.54s]  named Vdub.
+[3471.54s -> 3473.54s]  He's got a thing called testiculitos.
+[3473.54s -> 3475.54s]  It's a long story.
+[3475.54s -> 3477.54s]  Testiculitos.
+[3477.54s -> 3479.54s]  Okay, is your invite
+[3479.54s -> 3481.85s]  grayed out?
+[3481.85s -> 3483.85s]  Oh yeah, yes it is.
+[3483.85s -> 3485.85s]  So, I don't know, maybe there's just a problem again
+[3485.85s -> 3487.85s]  and we picked the great, perfect day
+[3487.85s -> 3489.85s]  three days later where it just doesn't work
+[3489.85s -> 3492.66s]  again.
+[3492.66s -> 3494.66s]  I mean, I know how I joined your game before.
+[3494.66s -> 3496.66s]  I went into the friends menu, I went to your profile
+[3496.66s -> 3498.66s]  and then I clicked join, so I'm going to do that again
+[3498.66s -> 3500.66s]  and see if that works.
+[3500.66s -> 3502.66s]  Yeah, I don't understand, man. I wish I knew.
+[3509.75s -> 3512.38s]  Oh, there's tobacco here.
+[3512.38s -> 3516.66s]  I was wasted and
+[3516.66s -> 3518.66s]  Kim brought me
+[3518.66s -> 3522.12s]  taquitos.
+[3522.12s -> 3525.06s]  That didn't happen. I've never had a taquito before
+[3525.06s -> 3532.68s]  in my life.
+[3532.68s -> 3534.68s]  What did you just crack open?
+[3534.68s -> 3537.11s]  Is it like a coarse light?
+[3537.11s -> 3539.11s]  No, it was gum, dude.
+[3539.11s -> 3541.11s]  I got disconnected again.
+[3541.11s -> 3543.61s]  Is there something else we can do?
+[3543.61s -> 3545.61s]  I feel like I've like torn
+[3545.61s -> 3547.61s]  you away from what you were doing and it's like,
+[3547.61s -> 3549.61s]  hey, it's been an hour and everything's just shot.
+[3549.61s -> 3551.61s]  This was the plan from the beginning.
+[3551.61s -> 3553.61s]  This is not at all
+[3553.61s -> 3555.61s]  disrupting me or my streaming.
+[3555.61s -> 3558.81s]  Well, I mean, I kind of have to go soon anyway,
+[3558.81s -> 3560.81s]  so this isn't really that big of a deal. It's just a shame
+[3560.81s -> 3562.81s]  that this doesn't work because I was having fun.
+[3562.81s -> 3564.81s]  Yeah, I really want to play it.
+[3569.16s -> 3571.16s]  Just watch you play. We're going to
+[3571.16s -> 3573.16s]  live vicariously through you.
+[3573.16s -> 3575.16s]  Yeah, but even if you do watch me play, I'm going to get
+[3575.16s -> 3577.16s]  disconnected too. I've been getting disconnected.
+[3577.16s -> 3579.85s]  Alert, you have been disconnected
+[3579.85s -> 3581.85s]  from Red Dead Online due to a fault on
+[3581.85s -> 3583.85s]  Rockstar Game Services.
+[3583.85s -> 3588.50s]  When is the beta supposed to be done?
+[3588.50s -> 3594.31s]  A year.
+[3594.31s -> 3599.54s]  Alert. Hey, did you
+[3599.54s -> 3602.17s]  get the alert? I got an alert.
+[3602.17s -> 3604.86s]  Yep. I got it on my cell phone.
+[3604.86s -> 3607.48s]  Hey, please ping me.
+[3607.48s -> 3609.48s]  Please send me a text every time that
+[3609.48s -> 3612.36s]  the servers go down. By the way,
+[3612.36s -> 3614.36s]  I think Kraken was playing this not too long ago,
+[3614.36s -> 3616.36s]  so maybe we can get the old crew
+[3616.36s -> 3618.36s]  back together. Yeah, I'd
+[3618.36s -> 3620.36s]  love to actually play this because what's here would
+[3620.36s -> 3623.37s]  be fun. Yeah.
+[3623.37s -> 3625.37s]  Maybe not, you know, when the game
+[3625.37s -> 3627.37s]  is still broken, but when it's fixed,
+[3627.37s -> 3629.37s]  we can
+[3629.37s -> 3631.86s]  bug Kraken. Yeah, how many people
+[3631.86s -> 3633.86s]  can you have in like a squad?
+[3633.86s -> 3636.10s]  I think four.
+[3636.10s -> 3638.10s]  Four for a non-paid posse.
+[3638.10s -> 3640.10s]  You have to pay,
+[3640.10s -> 3642.47s]  you have to actually pay for it
+[3642.47s -> 3645.48s]  with like in-game money.
+[3645.48s -> 3647.48s]  That's kind of weird. That's cool.
+[3647.48s -> 3649.48s]  Yeah. What about
+[3649.48s -> 3651.48s]  Critical? Critical is like, he's a bigger
+[3651.48s -> 3653.48s]  YouTuber slash street, like
+[3653.48s -> 3655.48s]  I guess more YouTuber, but he's like such a big
+[3655.48s -> 3657.48s]  YouTuber. I always feel bad bothering him. I don't know.
+[3657.48s -> 3660.15s]  It's hard to explain.
+[3660.15s -> 3662.15s]  I would like to get Critical involved.
+[3662.15s -> 3664.15s]  He's not a very proactive person
+[3664.15s -> 3666.15s]  when it comes to stuff like this.
+[3666.15s -> 3668.71s]  He threw
+[3668.71s -> 3670.71s]  cards at me the other day, and
+[3670.71s -> 3672.71s]  I was screaming at him and stuff. So yeah,
+[3672.71s -> 3674.71s]  maybe he'll play. You think he would be
+[3674.71s -> 3676.71s]  down? Maybe, yeah.
+[3676.71s -> 3678.71s]  I'll give him a shout. I was going to talk to him anyways.
+[3678.71s -> 3680.71s]  So how
+[3680.71s -> 3682.71s]  about we make a plan without
+[3682.71s -> 3684.71s]  people expecting it to be
+[3684.71s -> 3686.71s]  like Word of God, that it's going
+[3686.71s -> 3688.71s]  to happen 100%. But when this
+[3688.71s -> 3690.71s]  game gets fixed, and when
+[3690.71s -> 3692.71s]  we can play with a stable connection,
+[3692.71s -> 3694.71s]  me, you, Criken,
+[3694.71s -> 3696.71s]  Critical will try to get like a thing going.
+[3696.71s -> 3699.14s]  Oh, sick! That sounds
+[3699.14s -> 3701.70s]  good. Cool.
+[3701.70s -> 3703.70s]  So,
+[3703.70s -> 3705.70s]  I think,
+[3705.70s -> 3707.70s]  I don't know what your plan is. Are you going to just
+[3707.70s -> 3710.52s]  take off? What, tonight?
+[3710.52s -> 3712.52s]  Like right now. Like
+[3712.52s -> 3714.52s]  right now? I'm going to invite you one more time because
+[3714.52s -> 3716.52s]  I think the server's restarted. Oh, the server's
+[3716.52s -> 3718.52s]  restarted? Yeah, maybe.
+[3718.52s -> 3724.09s]  Okay. Somebody said,
+[3724.09s -> 3726.09s]  oh no, it's the end of the stream voice.
+[3728.09s -> 3730.09s]  Mine? No, I like mine.
+[3730.09s -> 3732.09s]  Like, all right, do you do a thing when you
+[3732.09s -> 3734.09s]  stream, when like, okay, let's say you've been streaming for
+[3734.09s -> 3736.09s]  you know, six, seven, four,
+[3736.09s -> 3738.09s]  whatever, five. You're getting a little tired.
+[3738.09s -> 3740.39s]  Do you do like a, okay,
+[3740.39s -> 3742.39s]  so, do you do like a, I'm going to
+[3742.39s -> 3744.39s]  end the stream voice? Yep.
+[3744.39s -> 3746.39s]  Yeah. I think so.
+[3746.39s -> 3752.34s]  I didn't just do it right there.
+[3752.34s -> 3754.34s]  Are you in game? I'm loading in
+[3754.34s -> 3756.34s]  right now. Okay, when, okay, let me know
+[3756.34s -> 3758.34s]  when you, when you load it in because it says
+[3758.34s -> 3760.34s]  it wants me to invite, um,
+[3760.34s -> 3763.29s]  it wants to invite me to watch
+[3763.29s -> 3765.59s]  your stream. It wants to invite
+[3765.59s -> 3767.59s]  you to watch my stream? To watch your
+[3767.59s -> 3769.59s]  gameplay, yes. Oh, you're going to come watch
+[3769.59s -> 3771.59s]  my gameplay? That's what it wants, yeah.
+[3771.59s -> 3774.28s]  Share play? Yeah,
+[3774.28s -> 3776.28s]  it's the end of the phone call voice.
+[3776.28s -> 3778.71s]  Yeah, that's, when you
+[3778.71s -> 3781.46s]  talk to somebody on the phone. And you're
+[3781.46s -> 3783.77s]  like, oh, all right. Yeah,
+[3783.77s -> 3785.77s]  that's how people end conversations.
+[3785.77s -> 3787.77s]  You add some inflection to let people know
+[3787.77s -> 3789.77s]  that, hey, this is like, the conversation
+[3789.77s -> 3792.33s]  is going to be over here in a minute.
+[3792.33s -> 3794.33s]  My, my, like, here's mine.
+[3794.33s -> 3796.33s]  All right. Yeah.
+[3796.33s -> 3798.33s]  All right.
+[3798.33s -> 3800.33s]  All right. And then it goes up real
+[3800.33s -> 3802.33s]  high. All right. Yep.
+[3802.33s -> 3805.59s]  Mine is usually,
+[3805.59s -> 3807.59s]  it starts with, okay, so,
+[3807.59s -> 3809.59s]  or it's, but,
+[3809.59s -> 3811.96s]  yeah. Okay, so, I
+[3811.96s -> 3815.10s]  think. How about cool?
+[3815.10s -> 3817.10s]  You're doing one of the cool.
+[3817.10s -> 3819.10s]  I don't know if I like cool, because
+[3819.10s -> 3821.10s]  cool kind of sounds like I'm not interested in
+[3821.10s -> 3823.10s]  conversation, like a cool, all
+[3823.10s -> 3825.10s]  right, I gotta go. It's like, you didn't think that was cool.
+[3825.10s -> 3827.10s]  If you thought that was cool, you'd just stick around a little bit longer, right?
+[3827.10s -> 3829.10s]  Yeah, it's a little passive
+[3829.10s -> 3831.53s]  aggressive. Yeah. I think
+[3831.53s -> 3833.53s]  all right works, because all right's like, all right, like, it's over.
+[3833.53s -> 3836.90s]  All right. How's
+[3836.90s -> 3838.90s]  the weather on your phone, by the way?
+[3838.90s -> 3841.40s]  My phone? It's pretty good.
+[3841.40s -> 3843.70s]  Yep. All right.
+[3843.70s -> 3846.46s]  All right.
+[3846.46s -> 3848.46s]  My invites are grayed out.
+[3848.46s -> 3850.46s]  There we go. I gotcha. Okay, the invites are still
+[3850.46s -> 3852.46s]  grayed out, but I can invite you to the posse. We're in the same
+[3852.46s -> 3854.46s]  server. Oh. All right.
+[3854.46s -> 3857.46s]  Come find me. Come find me, and
+[3857.46s -> 3859.96s]  come take a picture with me.
+[3859.96s -> 3861.96s]  Okay. Well, I think we should try to do,
+[3861.96s -> 3863.96s]  while we're in a server together, we should try to do, like,
+[3863.96s -> 3865.96s]  an actual, like,
+[3865.96s -> 3867.96s]  fight match. Yeah.
+[3867.96s -> 3869.96s]  Okay. So it starts now,
+[3869.96s -> 3872.97s]  then. I think we have to be in the posse.
+[3872.97s -> 3876.42s]  Oh, okay. I thought
+[3876.42s -> 3878.42s]  you meant, like, you and me are just gonna fight.
+[3878.42s -> 3880.98s]  Oh, no, no, no, no, no. I was, I was gonna say
+[3880.98s -> 3883.86s]  we could do a, like,
+[3883.86s -> 3886.36s]  you know, like a team death match thing.
+[3886.36s -> 3888.79s]  Oh, I actually tried to load, yeah, I tried to load into one.
+[3888.79s -> 3891.10s]  No, that, apparently
+[3891.10s -> 3893.10s]  the weather is a little too harsh on these, yeah,
+[3893.10s -> 3896.30s]  I'm disconnected.
+[3896.30s -> 3898.30s]  No shit already? No shit, yep.
+[3898.30s -> 3900.66s]  Already, this is way,
+[3900.66s -> 3902.84s]  we at least, three days ago, we could
+[3902.84s -> 3904.84s]  play for at least 20, 30 minutes
+[3904.84s -> 3908.17s]  before it would do this, so. It's a shame.
+[3908.17s -> 3910.17s]  This is a shame. Well, I mean, this is not, this is
+[3910.17s -> 3912.17s]  not a bother to me. I want you to know
+[3912.17s -> 3914.17s]  that this is also affecting me.
+[3914.17s -> 3916.17s]  That's okay, it's affecting me too.
+[3916.17s -> 3918.17s]  Okay. I think, let's just wait
+[3918.17s -> 3920.17s]  a little bit, wait a couple days, and then we'll try
+[3920.17s -> 3923.18s]  again. That sounds good to me. I wanna, I wanna
+[3923.18s -> 3925.18s]  actually play this with you, but yeah, it's a
+[3925.18s -> 3928.31s]  shame that this isn't happening.
+[3928.31s -> 3930.31s]  It is a shame, but it's alright. It happens.
+[3930.31s -> 3932.62s]  Nothing to do about it.
+[3932.62s -> 3934.62s]  What are you gonna, what are you gonna cry, just cry over
+[3934.62s -> 3937.11s]  spell servers? I can jump off a cliff.
+[3937.11s -> 3939.67s]  Oh, I just did that.
+[3939.67s -> 3941.67s]  I love how that's both the go-to
+[3941.67s -> 3943.67s]  thing, whatever.
+[3943.67s -> 3948.52s]  Sleep off.
+[3948.52s -> 3950.52s]  You can't cry, you can't cry over
+[3950.52s -> 3952.82s]  spilled servers. No, you can't.
+[3952.82s -> 3955.58s]  I'm just gonna go and do
+[3955.58s -> 3957.58s]  like a showdown match.
+[3957.58s -> 3960.63s]  You know, I have like another
+[3960.63s -> 3962.63s]  10, 20 minutes that I'm gonna play this, so
+[3962.63s -> 3964.63s]  may as well play.
+[3964.63s -> 3967.45s]  Oh shit, someone got a jump. Can you
+[3967.45s -> 3969.45s]  explain, is it, it's
+[3969.45s -> 3971.62s]  jup or jump?
+[3971.62s -> 3973.62s]  It is, it is
+[3973.62s -> 3975.86s]  Jupiter, jup.
+[3975.86s -> 3977.86s]  Okay, because I've been saying, I think the chat tricked me into
+[3977.86s -> 3979.86s]  saying jup. They did. I was like, yeah, but it's Jupiter.
+[3979.86s -> 3981.86s]  It's pronounced jup. Yeah, they lied to you.
+[3981.86s -> 3984.04s]  They were like, nah, bro. Yeah, figures.
+[3984.04s -> 3986.04s]  I mean, I've said, I've clarified
+[3986.04s -> 3988.04s]  it at least a hundred times. It is
+[3988.04s -> 3990.04s]  Jupiter, the planet is Jupiter, it's not Jupiter.
+[3990.04s -> 3993.37s]  Oh yeah, there's the moon, there's
+[3993.37s -> 3995.37s]  the, oh, there's, there's the mon.
+[3995.37s -> 3997.54s]  There's Murs.
+[3997.54s -> 3999.54s]  What's back there, oh, that's Venus.
+[3999.54s -> 4002.10s]  What else? Oh, Jupiter.
+[4002.10s -> 4004.10s]  Oh, of course. Behind that you got
+[4004.10s -> 4006.10s]  Plateau, yeah.
+[4006.10s -> 4011.22s]  Plateau is my favorite, yeah.
+[4011.22s -> 4013.22s]  So, can I ask you why it
+[4013.22s -> 4015.22s]  exists? Because it's become a bit of
+[4015.22s -> 4017.22s]  a local chat, like a lot of your memes have spilled
+[4017.22s -> 4019.22s]  over into my life. I want you to know that.
+[4019.22s -> 4021.53s]  Oh, I'm sorry. I don't mind.
+[4021.53s -> 4023.53s]  I'm sure it's been somewhat vice versa,
+[4023.53s -> 4027.94s]  but I'll take it.
+[4027.94s -> 4029.94s]  Well, I don't, I just
+[4029.94s -> 4032.25s]  one day was looking through
+[4032.25s -> 4034.42s]  my, my mother got me
+[4034.42s -> 4037.11s]  a telescope when I was younger, and
+[4037.11s -> 4039.11s]  I've always been like interested in the stars
+[4039.11s -> 4041.29s]  and the moon and everything.
+[4041.29s -> 4043.59s]  And that just, I just, those are
+[4043.59s -> 4045.59s]  images that were taken. I just
+[4045.59s -> 4047.59s]  I'm into the planets and I think the solar
+[4047.59s -> 4049.90s]  system's really cool and just
+[4049.90s -> 4051.90s]  through the telescope I have a picture
+[4051.90s -> 4054.58s]  that's able to take photos. It's one of those things
+[4054.58s -> 4056.58s]  that you know of, oh, you can take binoculars, you can take pictures.
+[4056.58s -> 4058.58s]  But if you're at like the baseball game
+[4058.58s -> 4060.58s]  or you have a telescope and you're at the baseball
+[4060.58s -> 4062.58s]  game, you want to get like a good close up of a home plate
+[4062.58s -> 4064.58s]  and who's batting when you're in the bleachers.
+[4064.58s -> 4066.89s]  So yeah, it's a telescopic
+[4066.89s -> 4069.83s]  view of just, that's just what they look like.
+[4069.83s -> 4072.78s]  Chat, is he lying? I mean,
+[4072.78s -> 4074.78s]  the telescope is an incredibly expensive
+[4074.78s -> 4076.78s]  it's at least like a
+[4076.78s -> 4079.02s]  it's like $145. It's like
+[4079.02s -> 4081.02s]  $144.99.
+[4081.02s -> 4083.02s]  No, that doesn't sound like an expensive telescope.
+[4083.02s -> 4085.02s]  It makes it the most expensive one you can get on Amazon.
+[4085.02s -> 4089.05s]  I believe you because
+[4089.05s -> 4094.30s]  I don't know why I believe you, but I do, but I
+[4094.30s -> 4096.30s]  feel like I shouldn't. No, that's just
+[4096.30s -> 4098.60s]  what the planets look like. Go do it.
+[4098.60s -> 4100.60s]  Wait, your mother got this for you when you were like
+[4100.60s -> 4102.60s]  10 and you got it on Amazon? No, no, no.
+[4102.60s -> 4104.60s]  When I was younger, my mother
+[4104.60s -> 4106.60s]  got me a telescope, but it's what interests me so much
+[4106.60s -> 4108.60s]  in the solar system. So you bought another one?
+[4108.60s -> 4110.60s]  Yeah, so years later obviously
+[4110.60s -> 4112.60s]  I'm a grown man now.
+[4112.60s -> 4114.60s]  You know, 20, 24 and
+[4114.60s -> 4116.97s]  decided I was going to
+[4116.97s -> 4118.97s]  keep my passion going and that's
+[4118.97s -> 4120.97s]  the solar system and the planets and those are just
+[4120.97s -> 4123.27s]  images taken from the telescope.
+[4123.27s -> 4127.05s]  Wait, you're 24?
+[4127.05s -> 4130.95s]  What do you mean? Chat, how much is Jerma
+[4130.95s -> 4133.90s]  lying? 85% of the time.
+[4133.90s -> 4138.42s]  That's probably what it is.
+[4138.42s -> 4140.42s]  No, he's your age. You're my age.
+[4140.42s -> 4143.82s]  Yeah, but I got
+[4143.82s -> 4146.06s]  We're talking about like internal age, you know?
+[4146.06s -> 4148.06s]  Right, right, how do you feel?
+[4148.06s -> 4150.06s]  I feel
+[4150.06s -> 4152.06s]  I feel like 45, but I mean
+[4152.06s -> 4154.06s]  internally I wish I was 25.
+[4154.06s -> 4156.94s]  I believe that. Alright, so I've
+[4156.94s -> 4158.94s]  been in the game for more than 30 seconds
+[4158.94s -> 4160.94s]  and I'm not disconnected yet.
+[4160.94s -> 4162.94s]  Wait, in my game?
+[4162.94s -> 4165.18s]  Am I in your game?
+[4165.18s -> 4167.18s]  Are you playing a death match?
+[4167.18s -> 4169.18s]  Oh, I'm not, but I'm ready for you when you come out maybe.
+[4169.18s -> 4171.18s]  It's possible, it's very possible
+[4171.18s -> 4173.18s]  we'll get to play for like 20 minutes.
+[4173.18s -> 4175.42s]  I like the idea that we're doing a co-op match
+[4175.42s -> 4177.42s]  of Red Dead, but playing separately
+[4177.42s -> 4179.42s]  in separate servers.
+[4179.42s -> 4183.26s]  What is Sean doing here?
+[4183.26s -> 4185.56s]  So here's the thing, I wanted to
+[4185.56s -> 4187.56s]  actually tell you that I also had a
+[4187.56s -> 4189.56s]  telescope when I was younger. This is no bullshit.
+[4189.56s -> 4191.56s]  So when you say that, I was like fucking
+[4191.56s -> 4193.56s]  fascinated. I wanted to be an astronomer when I was a kid.
+[4193.56s -> 4195.56s]  And I had a telescope, I had books,
+[4195.56s -> 4197.56s]  I had the whole fucking thing.
+[4197.56s -> 4199.56s]  I'm dead serious, which then turned into alien
+[4199.56s -> 4201.56s]  conspiracies, which was the
+[4201.56s -> 4203.86s]  wrong way to go about that.
+[4203.86s -> 4205.86s]  Alien conspiracies.
+[4205.86s -> 4208.79s]  Yeah, that's true.
+[4208.79s -> 4211.03s]  Well, think about it.
+[4211.03s -> 4213.03s]  No, but like honest to God, when you start to really
+[4213.03s -> 4215.03s]  think about, especially when you're
+[4215.03s -> 4217.72s]  younger, what's up there? You know what I mean?
+[4217.72s -> 4219.72s]  You're looking up there, there's like planets and the moons
+[4219.72s -> 4222.02s]  up there, what the fuck is up there?
+[4222.02s -> 4224.52s]  Jupiter. Jupiter is up there.
+[4224.52s -> 4228.04s]  So, if
+[4228.04s -> 4230.04s]  that's true, and you got that from your telescope,
+[4230.04s -> 4233.48s]  that's kind of cool. Yeah.
+[4235.66s -> 4237.66s]  Your emutes don't make any sense.
+[4237.66s -> 4239.90s]  They don't make any sense. I'm like, okay, go
+[4239.90s -> 4242.84s]  look. Go look through a telescope
+[4242.84s -> 4245.40s]  of what the moon looks like.
+[4245.40s -> 4247.77s]  That's just an image.
+[4247.77s -> 4249.77s]  There's a lot of people that are
+[4249.77s -> 4251.77s]  spouting bullshit about me.
+[4255.40s -> 4257.40s]  They keep using the word doctor,
+[4257.40s -> 4259.40s]  like doctor. I'm not a doctor.
+[4259.40s -> 4265.53s]  I'm a fucking streamer.
+[4265.53s -> 4268.28s]  Wait, you're not? No.
+[4268.28s -> 4270.28s]  So what are some jobs you've had
+[4270.28s -> 4272.28s]  that you've had before you were streaming? I'm just
+[4272.28s -> 4274.28s]  curious. Doctor.
+[4274.28s -> 4276.28s]  Physician. Mostly.
+[4281.10s -> 4283.34s]  Oddly enough, I was
+[4283.34s -> 4285.34s]  a substitute teacher
+[4285.34s -> 4287.51s]  for a long time. Substitute.
+[4287.51s -> 4289.69s]  That's cool.
+[4289.69s -> 4291.69s]  I did wedding videos
+[4291.69s -> 4295.72s]  for a while. Oh, you have
+[4295.72s -> 4297.72s]  video editing? Yeah. Yeah.
+[4297.72s -> 4299.72s]  I did some of that too, actually.
+[4299.72s -> 4301.72s]  Video editing
+[4301.72s -> 4303.72s]  video, just making
+[4303.72s -> 4306.34s]  freelance, just kind of on the
+[4306.34s -> 4308.34s]  side when I did other stuff.
+[4308.34s -> 4312.44s]  I got real
+[4312.44s -> 4314.44s]  gripping, thrilling stuff going on over here.
+[4314.44s -> 4316.44s]  Thanks for hanging out, guys.
+[4316.44s -> 4318.44s]  Oh no, I'm talking about on my stream.
+[4318.44s -> 4320.44s]  How was the weather around those jobs?
+[4320.44s -> 4322.44s]  It was fucking beautiful.
+[4322.44s -> 4324.44s]  I'm talking about just on my stream.
+[4324.44s -> 4326.44s]  I'm just riding on a road, just
+[4326.44s -> 4329.38s]  holding X.
+[4329.38s -> 4332.07s]  I got real thrilling stuff over here.
+[4332.07s -> 4334.82s]  As you can see.
+[4334.82s -> 4336.82s]  Look at those invitations.
+[4336.82s -> 4338.82s]  I can't invite you to the match I'm in, but I'm going to try
+[4338.82s -> 4340.82s]  to join yours.
+[4340.82s -> 4343.38s]  No, just do your thing.
+[4343.38s -> 4345.38s]  I've come to the
+[4345.38s -> 4347.38s]  realization that this is probably just
+[4347.38s -> 4349.38s]  too good to be true.
+[4349.38s -> 4351.38s]  And you're going to get in here. I'm going to take
+[4351.38s -> 4353.38s]  a quality photo of you coming into the stream
+[4353.38s -> 4355.38s]  into the server.
+[4355.38s -> 4357.38s]  And then it's going to go
+[4357.38s -> 4361.16s]  grrrr.
+[4361.16s -> 4363.66s]  That's what I'm hoping.
+[4363.66s -> 4365.66s]  No, I'm not. What?
+[4365.66s -> 4367.66s]  I'm not hoping that happens.
+[4367.66s -> 4369.66s]  I've become so conditioned to think it's going to.
+[4369.66s -> 4373.30s]  Am I in your server?
+[4373.30s -> 4375.30s]  No, I'm not in your server, but I will. I'm going to get in there.
+[4375.30s -> 4377.30s]  Maybe we get a chance to do
+[4377.30s -> 4379.30s]  one more match. Let's see.
+[4379.30s -> 4381.30s]  I love that urn urn thing.
+[4381.30s -> 4383.30s]  I love it.
+[4383.30s -> 4385.30s]  Thanks, man. Yeah, I figured that would, you know,
+[4385.30s -> 4387.30s]  that's the natural evolution of Arthur's
+[4387.30s -> 4390.06s]  show.
+[4390.06s -> 4392.06s]  Urn urn.
+[4392.06s -> 4394.06s]  Pail boss, mate.
+[4394.06s -> 4397.13s]  Okay, you've
+[4397.13s -> 4399.13s]  been in a match. You've been in a server for six minutes
+[4399.13s -> 4401.13s]  without disconnect, apparently.
+[4401.13s -> 4403.13s]  That's pretty impressive. So I'm going to join
+[4403.13s -> 4405.13s]  yours.
+[4405.13s -> 4407.13s]  I want a good photo of me.
+[4407.13s -> 4409.75s]  This looks pretty good right here with the snowy
+[4409.75s -> 4415.58s]  mountaintop. Be careful.
+[4415.58s -> 4417.82s]  Okay, I'm good. So I got a good
+[4417.82s -> 4419.82s]  spot for you to come on in when you get in here.
+[4419.82s -> 4427.42s]  Cool.
+[4427.42s -> 4430.30s]  Enable focus lock.
+[4430.30s -> 4432.30s]  So are you excited for the Detective Pokemon movie?
+[4432.30s -> 4435.88s]  Detective Pokemon? Yeah.
+[4435.88s -> 4438.94s]  I'm excited for it.
+[4438.94s -> 4440.94s]  I think it looks really
+[4440.94s -> 4442.94s]  fun.
+[4442.94s -> 4446.06s]  I think so. I think so, Mr. Red.
+[4446.06s -> 4448.06s]  Yeah.
+[4448.06s -> 4450.06s]  Did you play Pokemon Let's Go?
+[4450.06s -> 4452.06s]  I've never played
+[4452.06s -> 4454.06s]  a Pokemon game before in my life.
+[4454.06s -> 4456.06s]  Except for- Really? So you-
+[4456.06s -> 4461.80s]  Never.
+[4461.80s -> 4463.80s]  Pokemon, I think I did try
+[4463.80s -> 4466.30s]  to play
+[4466.30s -> 4468.30s]  Pokemon Diamond or
+[4468.30s -> 4470.30s]  Pearl, whatever that was, the one for DS. Oh, there you are.
+[4470.30s -> 4475.35s]  Look. Hey, mister.
+[4475.35s -> 4477.66s]  Okay, I got a good photo of you.
+[4477.66s -> 4479.66s]  That one's going on the album of friends.
+[4479.66s -> 4483.50s]  Oh.
+[4483.50s -> 4486.18s]  You're fine.
+[4486.18s -> 4488.81s]  You just gave me a new face.
+[4488.81s -> 4493.61s]  Hey, mister.
+[4493.61s -> 4496.30s]  Alright, so
+[4496.30s -> 4499.37s]  we're still here. We're not disconnected.
+[4499.37s -> 4501.37s]  That's amazing. Yeah, neither
+[4501.37s -> 4503.37s]  of us are ghosts. Holy shit.
+[4503.37s -> 4505.37s]  I guess join the posse and then we'll
+[4505.37s -> 4507.37s]  go shoot some stuff and see if that lasts.
+[4507.37s -> 4509.80s]  Uh, posse.
+[4509.80s -> 4512.10s]  I see your posse.
+[4512.10s -> 4514.10s]  I cannot join. This posse is closed
+[4514.10s -> 4516.54s]  and cannot be joined. And I have no
+[4516.54s -> 4523.13s]  invites.
+[4523.13s -> 4527.42s]  This is just
+[4527.42s -> 4529.42s]  what happens when you go
+[4529.42s -> 4531.42s]  to the bird exhibit at the local zoo.
+[4531.42s -> 4533.42s]  Right?
+[4533.42s -> 4535.42s]  The bird room?
+[4535.42s -> 4537.42s]  Yeah, this is the bird room.
+[4537.42s -> 4539.42s]  Oh, Jesus. See ya.
+[4539.42s -> 4541.42s]  Goodbye. See you later.
+[4541.42s -> 4543.42s]  God damn it.
+[4543.42s -> 4545.42s]  You know what's funny? Your horse is still
+[4545.42s -> 4547.66s]  here. Yeah, he's got a better
+[4547.66s -> 4549.66s]  connection to Rockstar apparently than I do.
+[4549.66s -> 4553.82s]  But anyways,
+[4553.82s -> 4555.82s]  just to follow up on the bird exhibit, have you
+[4555.82s -> 4557.82s]  been to a butterfly exhibit?
+[4557.82s -> 4559.82s]  I have, yeah. Well, I mean,
+[4559.82s -> 4561.82s]  I remember the one
+[4561.82s -> 4563.82s]  time I was in Texas
+[4563.82s -> 4565.82s]  in Galveston there was a
+[4565.82s -> 4567.82s]  butterfly room in some place and I went in
+[4567.82s -> 4569.82s]  there for a bit. I don't know why I'm telling
+[4569.82s -> 4571.82s]  you this, but yes, yes.
+[4571.82s -> 4573.82s]  Well, I mean, it's important because
+[4573.82s -> 4575.82s]  the bird
+[4575.82s -> 4577.82s]  room, the butterfly room is like the bird room
+[4577.82s -> 4579.99s]  .5.
+[4579.99s -> 4581.99s]  But the scary part about the butterfly room
+[4581.99s -> 4583.99s]  is aren't you just terrified of
+[4583.99s -> 4585.99s]  just being in there because there's just butterflies
+[4585.99s -> 4587.99s]  in every direction. They're above you, they're
+[4587.99s -> 4589.99s]  below you, they're left and right. I feel like
+[4589.99s -> 4591.99s]  I'm just gonna like
+[4591.99s -> 4593.99s]  Godzilla stomp on one of them. Yeah, like
+[4593.99s -> 4595.99s]  devastate one, right? Or breathe
+[4595.99s -> 4598.49s]  one in?
+[4598.49s -> 4600.49s]  Maybe not that.
+[4600.49s -> 4602.49s]  Breathe one in?
+[4602.49s -> 4604.49s]  Like throw your nose into your lungs?
+[4604.49s -> 4606.49s]  Yeah.
+[4606.49s -> 4608.73s]  I guess that was kind of a
+[4608.73s -> 4610.73s]  weird thing to say. But yeah, I thought
+[4610.73s -> 4612.73s]  maybe that was a problem.
+[4612.73s -> 4614.73s]  Next time I go to a butterfly room.
+[4614.73s -> 4616.73s]  Was it Moody Gardens? Does
+[4616.73s -> 4618.73s]  Moody Gardens have a butterfly room?
+[4618.73s -> 4624.30s]  Moody Gardens, Butterfly.
+[4624.30s -> 4626.30s]  Maybe I made that up. Maybe I lied.
+[4626.30s -> 4628.30s]  Yeah, they have them. Butterfly. Rainforest
+[4628.30s -> 4630.30s]  pyramid, yeah. That's that. Yep.
+[4630.30s -> 4632.30s]  I've been to Moody Gardens.
+[4632.30s -> 4634.47s]  Jesus Christ. I was 18 when
+[4634.47s -> 4636.47s]  that happened. 15 years ago.
+[4636.47s -> 4639.35s]  That's as old as some of you.
+[4639.35s -> 4641.35s]  No offense.
+[4641.35s -> 4643.35s]  Do you forget how long ago 15
+[4643.35s -> 4645.35s]  years ago is? You know what I mean?
+[4645.35s -> 4647.35s]  Yeah, I know. That's a decade
+[4647.35s -> 4650.23s]  and a half.
+[4650.23s -> 4652.23s]  I mean, playing on the rune of time again is weird
+[4652.23s -> 4654.23s]  for that reason. Brings back a lot
+[4654.23s -> 4656.23s]  of memories. So what were you saying then?
+[4656.23s -> 4658.23s]  I was making a call back.
+[4658.23s -> 4660.23s]  I was going, okay,
+[4660.23s -> 4662.23s]  so, Butter.
+[4662.23s -> 4664.23s]  Alright, alright.
+[4666.41s -> 4668.41s]  How's the weather around? Let's end this.
+[4668.41s -> 4670.41s]  Let me
+[4670.41s -> 4672.41s]  see. What's it gonna be like?
+[4672.41s -> 4674.41s]  It's gonna be cloudy
+[4674.41s -> 4676.41s]  with a chance of meatballs.
+[4676.41s -> 4678.41s]  Why am I typing that in?
+[4678.41s -> 4680.41s]  Cloudy with a chance of disconnect.
+[4680.41s -> 4682.41s]  2009. That's when that came up.
+[4682.41s -> 4684.41s]  Anyone's curious.
+[4684.41s -> 4686.41s]  Sorry, everybody.
+[4686.41s -> 4688.41s]  I really figured it was gonna be
+[4688.41s -> 4690.41s]  fun. I'm sure it was nice to have you
+[4690.41s -> 4692.41s]  as a special guest. Honestly, my audience always
+[4692.41s -> 4694.41s]  really enjoys talking
+[4694.41s -> 4696.41s]  about you, whether it be in a positive
+[4696.41s -> 4698.41s]  or negative way. They enjoy you quite a bit.
+[4698.41s -> 4700.41s]  Well,
+[4700.41s -> 4702.41s]  thank you. Thank you,
+[4702.41s -> 4704.41s]  everybody in the Vinesauce chat. Appreciate it.
+[4704.41s -> 4706.41s]  Thank you, Germachat,
+[4706.41s -> 4708.41s]  for tolerating me for a couple minutes.
+[4708.41s -> 4710.41s]  Everybody over here loves you, dude.
+[4710.41s -> 4712.90s]  You are like,
+[4712.90s -> 4714.90s]  everybody here in Hearns you over here, so don't worry.
+[4714.90s -> 4716.90s]  That is nice. I like that.
+[4716.90s -> 4719.21s]  That's a good compliment.
+[4719.21s -> 4721.21s]  But we'll try again.
+[4721.21s -> 4723.21s]  Let's see what happens during the week.
+[4723.21s -> 4725.64s]  Listen, I've been having
+[4725.64s -> 4727.64s]  disconnects too, so maybe one day we'll both
+[4727.64s -> 4729.64s]  be able to play this.
+[4729.64s -> 4731.64s]  And until then, I guess,
+[4731.64s -> 4733.64s]  you know, take care of yourself.
+[4733.64s -> 4735.64s]  Go find some good pictures of planets.
+[4735.64s -> 4737.64s]  Yeah. And you
+[4737.64s -> 4739.64s]  yourself go look up, go
+[4739.64s -> 4741.64s]  get a telescope and look, and you'll see.
+[4741.64s -> 4744.01s]  One day I will, maybe.
+[4744.01s -> 4746.01s]  Alright. Have a good one. And until then,
+[4746.01s -> 4748.01s]  I'm gonna go kill a couple dudes, and then
+[4748.01s -> 4750.01s]  we'll be in touch. We'll meet somewhere in
+[4750.01s -> 4752.01s]  the middle. So take care, Germachat.
+[4752.01s -> 4754.01s]  See you later, guys. Take care. Bye.
+[4754.01s -> 4758.81s]  I wanted to
+[4758.81s -> 4760.81s]  fucking play!
+[4760.81s -> 4762.81s]  I wanted to play
+[4762.81s -> 4764.81s]  Money Player!
+[4764.81s -> 4766.81s]  I was keeping it so, so
+[4766.81s -> 4768.81s]  collected the whole time!
+[4768.81s -> 4770.81s]  I just wanted to play Money
+[4770.81s -> 4772.81s]  Player with my friend!
+[4772.81s -> 4774.81s]  Tears are fucking pouring down my face!
+[4776.81s -> 4780.52s]  You know how hard it is to contain yourself?
+[4780.52s -> 4782.89s]  No, that's unfortunate. It really is.
+[4782.89s -> 4784.89s]  I thought this was gonna be fixed.
+[4784.89s -> 4791.22s]  Uh, Vinny,
+[4791.22s -> 4793.22s]  Vinny, the great guy.
+[4793.22s -> 4795.22s]  Highly recommend
+[4795.22s -> 4797.40s]  If you do not follow that stream,
+[4797.40s -> 4800.73s]  give it a follow.
+[4800.73s -> 4802.73s]  So we can talk about one thing here.
+[4802.73s -> 4804.73s]  The plan today
+[4804.73s -> 4807.29s]  got a little messed up.
+[4807.29s -> 4810.74s]  Vinny and Vine!
+[4813.69s -> 4818.17s]  It's apparently been happening all day.
+[4818.17s -> 4820.17s]  The plan was
+[4820.17s -> 4822.17s]  we were only gonna play this for like
+[4822.17s -> 4824.54s]  two or three hours. So
+[4824.54s -> 4826.71s]  it's kind of at the point where
+[4826.71s -> 4828.71s]  the plan was I was only gonna
+[4828.71s -> 4830.71s]  stream for like two or three hours anyways.
+[4830.71s -> 4832.71s]  So, I'm sorry guys
+[4832.71s -> 4834.71s]  that this kind of in the middle
+[4834.71s -> 4836.71s]  extra stream here turned out to be
+[4836.71s -> 4838.71s]  a little bit of a uh, you know what I mean?
+[4841.53s -> 4843.53s]  For tomorrow, the reason why this stream was
+[4843.53s -> 4845.53s]  not gonna be very long is cause I'm going to
+[4845.53s -> 4847.53s]  prepare the movie night.
+[4847.53s -> 4849.53s]  I wanna make sure it's ready to go. I wanna make sure
+[4849.53s -> 4851.53s]  that it is
+[4851.53s -> 4853.53s]  uh, perfect.
+[4853.53s -> 4855.53s]  There are a lot of submissions,
+[4855.53s -> 4857.53s]  there are a lot of, there's a lot of work
+[4857.53s -> 4859.53s]  that went into it, so
+[4859.53s -> 4861.53s]  the plan was I was gonna only stream for an hour or two
+[4861.53s -> 4863.53s]  and I just, I just deleted an hour for some
+[4863.53s -> 4865.53s]  reason because it's been an hour or two and I'm just like
+[4865.53s -> 4867.53s]  I'm like inceptioning that into your brain that the stream
+[4867.53s -> 4869.53s]  is only gonna be an hour.
+[4869.53s -> 4871.53s]  Um, I'm so excited for it. I'm looking
+[4871.53s -> 4873.53s]  forward to it. It's gonna be a lot of fun.
+[4873.53s -> 4875.53s]  So, I'm gonna end the stream here.
+[4875.53s -> 4877.53s]  Uh, again, I'm sorry
+[4877.53s -> 4879.53s]  about the Rockstar servers. I
+[4879.53s -> 4881.53s]  really, really thought after a few days it was gonna be
+[4881.53s -> 4883.53s]  fixed. So, I'm gonna go
+[4883.53s -> 4885.53s]  I'm gonna go fix, uh, not fix
+[4885.53s -> 4887.53s]  my internet. I'm
+[4887.53s -> 4891.18s]  I'm so used to saying that.
+[4891.18s -> 4893.18s]  But, I'm gonna go prepare. I wanna make sure I put a lot of
+[4893.18s -> 4895.18s]  time into the movie night.
+[4895.18s -> 4897.18s]  So,
+[4897.18s -> 4899.18s]  uh, take care.
+[4899.18s -> 4901.18s]  I'll go through the bits. It's probably gonna be very quick.
+[4901.18s -> 4903.93s]  I'll see you guys tomorrow. If you don't know what I'm talking
+[4903.93s -> 4905.93s]  about, we're doing a movie night tomorrow
+[4905.93s -> 4907.93s]  where I gave
+[4907.93s -> 4909.93s]  uh, like two or three hours of brain-threat
+[4909.93s -> 4911.93s]  footage to
+[4911.93s -> 4913.93s]  everybody in this entire community
+[4913.93s -> 4915.93s]  and some of the incredibly
+[4915.93s -> 4917.93s]  talented and creative funny fucking people
+[4917.93s -> 4919.93s]  that are here have made some great shit
+[4919.93s -> 4921.93s]  to watch tomorrow. In the stream tomorrow,
+[4921.93s -> 4923.93s]  probably only gonna be like a couple hours, two or three hours.
+[4923.93s -> 4925.93s]  I don't wanna have it over states welcome. I don't want it to be
+[4925.93s -> 4927.93s]  one of those scenarios where it's like, alright, we're like
+[4927.93s -> 4929.93s]  five hours in and like, here's
+[4929.93s -> 4931.93s]  another like me keyed in front of Minecraft.
+[4931.93s -> 4933.93s]  Cause, you know,
+[4933.93s -> 4935.93s]  it's inevitable.
+[4935.93s -> 4938.10s]  But there are a lot of really funny fucking people in this
+[4938.10s -> 4942.65s]  community. And I'm
+[4942.65s -> 4944.65s]  really looking forward to it. It's been in the making
+[4944.65s -> 4946.65s]  for like four months. And
+[4946.65s -> 4948.65s]  um, just really glad that it's gonna be
+[4948.65s -> 4950.65s]  actually a thing we do tomorrow.
+[4950.65s -> 4952.65s]  So, let me go.
+[4952.65s -> 4954.65s]  Uh, let's do the bits.
+[4954.65s -> 4956.65s]  Really quickly.
+[4956.65s -> 4959.85s]  If you just showed up.
+[4959.85s -> 4961.85s]  Sorry, I didn't even tweet the stream
+[4961.85s -> 4964.09s]  out, I'm glad I didn't. Cause
+[4964.09s -> 4967.02s]  uh, you know, unfortunately.
+[4967.02s -> 4971.56s]  There isn't actually that much
+[4971.56s -> 4973.56s]  Minecraft. I know, I'm just kidding around.
+[4973.56s -> 4975.99s]  I'm just playing around. For what was there, I hope you
+[4975.99s -> 4977.99s]  enjoyed just hanging out. Cause we kinda just hung out
+[4977.99s -> 4979.99s]  and talked about the weather. For like an hour.
+[4979.99s -> 4982.17s]  Uh, if Vinny is
+[4982.17s -> 4984.17s]  streaming, go watch him. Metallix is streaming, go
+[4984.17s -> 4986.17s]  watch him. While I work
+[4986.17s -> 4988.17s]  on some stuff.
+[4988.17s -> 4994.57s]  What time tomorrow? Tomorrow at 4
+[4994.57s -> 4996.57s]  pm pacific time. Is when
+[4996.57s -> 4998.57s]  the stream is going to start.
+[4998.57s -> 5005.67s]  4 pm pacific.
+[5005.67s -> 5007.67s]  Which is 7 pm eastern.
+[5007.67s -> 5009.67s]  And I am trying to
+[5009.67s -> 5012.62s]  uh, I am trying
+[5012.62s -> 5014.62s]  to, cause I've been so used to telling everybody
+[5014.62s -> 5016.62s]  times in eastern. And I feel like
+[5016.62s -> 5018.62s]  there's a lot of people that still
+[5018.62s -> 5020.62s]  um, when I say, oh 4 o'clock!
+[5020.62s -> 5022.62s]  A lot of people don't know I mean
+[5022.62s -> 5024.62s]  pacific. Cause I've been so,
+[5024.62s -> 5026.62s]  it's just, for 3, 4 years
+[5026.62s -> 5028.62s]  it's been eastern.
+[5028.62s -> 5030.62s]  So, that's why I keep saying the eastern times
+[5030.62s -> 5034.33s]  as well. It was fun
+[5034.33s -> 5036.33s]  watching you two go off cliffs together.
+[5036.33s -> 5039.46s]  It was. But thank you
+[5039.46s -> 5042.09s]  uh, thank you again everybody.
+[5042.09s -> 5044.09s]  Thank you daf. Skeletor for the
+[5044.09s -> 5046.09s]  10 bucks. No message, 10 dollars.
+[5046.09s -> 5048.09s]  Uh, coconut, thanks for the 1 buck.
+[5048.09s -> 5050.09s]  2 bucks actually, 3 bucks!
+[5050.09s -> 5052.33s]  They say uh, plug
+[5052.33s -> 5055.85s]  walk. I don't know what that means.
+[5055.85s -> 5057.85s]  Thank you Divus for the 5 dollars.
+[5057.85s -> 5059.85s]  No message.
+[5059.85s -> 5061.85s]  Uh, Hawkeye, thank you Hawkeye
+[5061.85s -> 5063.85s]  for the 30 dollars Hawkeye.
+[5063.85s -> 5066.66s]  30 bucks, a little more than an hour ago.
+[5066.66s -> 5072.10s]  They say, hey there Jerma,
+[5072.10s -> 5074.10s]  works pretty slow right now. And there's a
+[5074.10s -> 5076.10s]  snowstorm outside. So I decided to pop in and
+[5076.10s -> 5078.10s]  give these that have been meeting to
+[5078.10s -> 5080.10s]  donate. I work pretty late so I'm resigned
+[5080.10s -> 5082.10s]  to be a slimy
+[5082.10s -> 5084.10s]  vaude boy. But the laughs
+[5084.10s -> 5086.60s]  are always well worth it. See you around.
+[5086.60s -> 5088.60s]  Thank you for the 30 dollars and
+[5088.60s -> 5090.60s]  slimy vaude
+[5090.60s -> 5094.44s]  boy. That's
+[5094.44s -> 5098.73s]  slimy vaude boy. But thank you
+[5098.73s -> 5102.31s]  so much Hawkeye. 30 dollars,
+[5102.31s -> 5104.31s]  lots of money. Sorry that the stream
+[5104.31s -> 5106.49s]  that you gave that money on was
+[5106.49s -> 5108.49s]  uh, not even, I would even
+[5108.49s -> 5110.49s]  not even classify the, it's been
+[5110.49s -> 5112.49s]  like an hour and a half.
+[5112.49s -> 5115.05s]  Um, don't worry. We got tomorrow
+[5115.05s -> 5117.05s]  night, we got a very very good
+[5117.05s -> 5119.05s]  fun stream ready to go. So
+[5119.05s -> 5121.05s]  thank you. Thank you Garf for the
+[5121.05s -> 5123.05s]  Monday killer for the one dollar. My name is Garf and I'm here
+[5123.05s -> 5125.05s]  to say I eat lasagna every day.
+[5125.05s -> 5127.05s]  Yo yo Jerma, it's Garf the rapper here.
+[5127.05s -> 5129.05s]  I'm hoping to reboot my rap career.
+[5129.05s -> 5131.05s]  Yes there's a six minute Garfield rap in the
+[5131.05s -> 5133.05s]  early 90s. Uh, speaking of reinventing
+[5133.05s -> 5135.05s]  your image, have you heard of those two Shrek
+[5135.05s -> 5137.05s]  remakes? Well you just said Shrek so
+[5137.05s -> 5139.86s]  I'm censoring the rest of this comment.
+[5139.86s -> 5141.86s]  Won by the guy who made the minions and the
+[5141.86s -> 5144.04s]  fan made one. The fan
+[5144.04s -> 5146.04s]  made one called Shrek retold was
+[5146.04s -> 5149.11s]  released two days ago. Every scene is
+[5149.11s -> 5152.06s]  directed by a different artist. What movie would you
+[5152.06s -> 5154.06s]  want remade by fans?
+[5154.06s -> 5160.82s]  Um, I don't
+[5160.82s -> 5163.45s]  know. Probably
+[5163.45s -> 5166.58s]  maybe you could try
+[5166.58s -> 5168.58s]  Why am I taking this comment seriously? Uh,
+[5168.58s -> 5172.04s]  what movie? I would
+[5172.04s -> 5176.46s]  say, uh, crocodile
+[5176.46s -> 5179.14s]  Dundee. There's some stuff
+[5179.14s -> 5181.51s]  there that could be done maybe. Uh, thank you
+[5181.51s -> 5183.51s]  Jess for the one dollar. When I was a kid I used
+[5183.51s -> 5186.89s]  to say, uh,
+[5186.89s -> 5188.89s]  Chay Kane instead of Keychain.
+[5188.89s -> 5190.89s]  I couldn't shake it for years. I would
+[5190.89s -> 5192.89s]  also say sunshine
+[5192.89s -> 5194.89s]  every time. I remember this. I can't say it
+[5194.89s -> 5196.89s]  normally for days after.
+[5196.89s -> 5198.89s]  Cheshire Trust. It's a Cheshire
+[5198.89s -> 5200.89s]  Trust at this point. It's not a treasure chest.
+[5200.89s -> 5204.92s]  It's hard to say it the other way.
+[5204.92s -> 5206.92s]  But thank you. Thank you ExtraCheesy for the one dollar. He says
+[5206.92s -> 5208.92s]  he doesn't eat, but yeah, the whole
+[5208.92s -> 5211.80s]  taquitos things. Uh, ExtraCheesy
+[5211.80s -> 5213.80s]  thanks again for the ten dollars here. Here's
+[5213.80s -> 5215.80s]  what you said you never did before.
+[5215.80s -> 5229.82s]  What the hell is this? I'm
+[5229.82s -> 5233.40s]  eating taco
+[5233.40s -> 5235.40s]  You drive dude. I'm eating.
+[5235.40s -> 5238.22s]  That's not even me. Four?
+[5238.22s -> 5242.38s]  Eat four taquitos at the same time.
+[5242.38s -> 5244.38s]  Hold on. Wait, wait, wait, wait, wait.
+[5244.38s -> 5246.62s]  When did I do this?
+[5246.62s -> 5250.26s]  I don't remember putting
+[5250.26s -> 5252.26s]  like five fucking taquitos in my mouth.
+[5252.26s -> 5255.72s]  Hold on a second.
+[5271.13s -> 5275.16s]  This is one of the last streams before I left.
+[5275.16s -> 5277.16s]  Oh. Oh, okay.
+[5277.16s -> 5280.94s]  You drive dude. I'm eating.
+[5280.94s -> 5284.14s]  Four? One, two,
+[5284.14s -> 5286.63s]  three, four. I don't
+[5286.63s -> 5288.63s]  do this, do I? This is a joke, right?
+[5288.63s -> 5292.66s]  I'm not doing it.
+[5292.66s -> 5302.01s]  I knew it.
+[5302.01s -> 5304.01s]  I knew it. I knew I wasn't
+[5304.01s -> 5306.18s]  gonna do it. We got a helicopter
+[5306.18s -> 5308.18s]  dude. We got a helicopter. Okay
+[5308.18s -> 5310.18s]  I've had enough of that.
+[5314.90s -> 5316.90s]  I thought you guys were talking about Vinny.
+[5319.85s -> 5322.54s]  I've never eaten a taquito
+[5322.54s -> 5324.54s]  in my life.
+[5324.54s -> 5327.48s]  It's so funny cause that was
+[5327.48s -> 5329.48s]  that wasn't like five years ago
+[5329.48s -> 5331.48s]  that wasn't like three years ago. That was like
+[5331.48s -> 5333.48s]  two months ago.
+[5336.41s -> 5341.08s]  Oh
+[5343.08s -> 5345.08s]  How do you guys remember these things?
+[5345.08s -> 5347.08s]  Good thing you keep me honest.
+[5347.08s -> 5349.51s]  But thank you Extra Cheesy for that.
+[5349.51s -> 5351.51s]  Ten dollars, eleven dollars, twelve dollars.
+[5351.51s -> 5353.51s]  And I want
+[5353.51s -> 5355.82s]  the red badge. Thank you
+[5355.82s -> 5358.31s]  Extra Cheesy. Red badge.
+[5358.31s -> 5360.31s]  Mark Bosh Magali
+[5360.31s -> 5362.31s]  thanks for the one dollar. The disconnect joke was really
+[5362.31s -> 5364.31s]  interesting. Not sure what you were trying to accomplish.
+[5364.31s -> 5366.31s]  Either way, it was nice seeing you
+[5366.31s -> 5368.31s]  with Vinny. Take care.
+[5368.31s -> 5370.31s]  The disconnecting from
+[5370.31s -> 5373.32s]  the game joke. That's too
+[5373.32s -> 5376.39s]  bad. That's too
+[5376.39s -> 5380.36s]  bad. But
+[5380.36s -> 5382.36s]  I would be more upset about this
+[5382.36s -> 5384.36s]  if, cause I know that he
+[5384.36s -> 5387.24s]  when we talked about doing this he was like
+[5387.24s -> 5389.24s]  oh let's do this. This sounds like fun. Like let's give
+[5389.24s -> 5391.24s]  it a few days though cause there's internet problems. There's like
+[5391.24s -> 5393.24s]  Rockstar servers are kinda fucked up or whatever
+[5393.24s -> 5395.42s]  right. I'm just glad that he
+[5395.42s -> 5397.42s]  was already streaming something. He was doing
+[5397.42s -> 5399.42s]  something. This wasn't like a okay
+[5399.42s -> 5401.42s]  here's the stream for today.
+[5401.42s -> 5403.42s]  He had already been playing like Ocarina of Time
+[5403.42s -> 5405.42s]  and I'm really glad that it wasn't
+[5405.42s -> 5407.42s]  just like oh hey let's just
+[5407.42s -> 5409.42s]  let's just ruin this stream.
+[5409.42s -> 5412.47s]  So. And
+[5412.47s -> 5414.47s]  on this end at least that this was
+[5414.47s -> 5416.47s]  an in between to tomorrow.
+[5416.47s -> 5418.47s]  And we streamed yesterday, streamed tomorrow
+[5418.47s -> 5420.47s]  and I'm just glad that this wasn't
+[5420.47s -> 5422.47s]  you know oh that's it.
+[5422.47s -> 5426.18s]  Red dead connection.
+[5426.18s -> 5430.73s]  Yeah. Sorry
+[5430.73s -> 5432.73s]  again everybody. I wish
+[5432.73s -> 5434.73s]  I could snap my fingers and magically
+[5434.73s -> 5436.73s]  have it not happen but
+[5436.73s -> 5438.73s]  I'm actually going to do a little bit of research
+[5438.73s -> 5440.73s]  because the stuff that I read
+[5440.73s -> 5442.73s]  about it there's like workarounds
+[5442.73s -> 5444.73s]  and I tried the workarounds
+[5444.73s -> 5446.73s]  already. They didn't work.
+[5446.73s -> 5449.10s]  But maybe there's some other things to try.
+[5449.10s -> 5451.72s]  But thank you Marvish
+[5451.72s -> 5453.72s]  Magali. Thank you Hunter Kane for the one dollar. Have some
+[5453.72s -> 5456.22s]  bits. Thanks. Mostly lost thanks for
+[5456.22s -> 5458.22s]  the one dollar. You should host Vinny or
+[5458.22s -> 5460.22s]  Italics. You do know how the host button works right?
+[5460.22s -> 5462.97s]  I don't know what
+[5462.97s -> 5464.97s]  you mean like they
+[5464.97s -> 5467.72s]  appear like I hope
+[5467.72s -> 5469.72s]  they appear inside of me.
+[5469.72s -> 5477.06s]  What do you mean? Like I have to
+[5477.06s -> 5479.06s]  be inside. That's like a that's like a tapeworm.
+[5479.06s -> 5484.38s]  I don't think I want that.
+[5484.38s -> 5486.38s]  That's how the movie Venom starts.
+[5486.38s -> 5491.69s]  I don't think I want that.
+[5491.69s -> 5493.69s]  Ha ha ha ha ha
+[5493.69s -> 5497.08s]  ha ha. Hey thank you
+[5497.08s -> 5499.08s]  D Jack for the one dollar. I rewatched the Zoo Tycoon stream
+[5499.08s -> 5501.08s]  and nearly shit myself with the T-Rex not being
+[5501.08s -> 5503.08s]  able to find his car joke. Keep bringing
+[5503.08s -> 5507.50s]  the chuckles. Thank you D Jack.
+[5507.50s -> 5511.14s]  It was a fun stream. Spoilers.
+[5511.14s -> 5513.14s]  Oh sorry. Sorry guys.
+[5513.14s -> 5516.15s]  Venom is a symbiote. Sorry.
+[5516.15s -> 5518.15s]  Sorry for the spoils.
+[5518.15s -> 5520.15s]  And Smelly Boy right at the end. When are you going to play
+[5520.15s -> 5522.15s]  Metal Gear Rising? Tomorrow.
+[5522.15s -> 5524.15s]  No it's a lie. I'm kidding. Not tomorrow.
+[5524.15s -> 5526.33s]  Tomorrow we're doing the...
+[5526.33s -> 5533.69s]  No. Tomorrow we're doing the movie night.
+[5533.69s -> 5539.38s]  How long is the stream going to be
+[5539.38s -> 5542.01s]  tomorrow? That's up
+[5542.01s -> 5544.01s]  for potential debate because
+[5544.01s -> 5546.18s]  after I turn the stream off
+[5546.18s -> 5548.18s]  here I'm going to go to the bathroom.
+[5548.18s -> 5550.18s]  I'm going to go grab a drink and then sit down
+[5550.18s -> 5552.18s]  and really get it hammered out.
+[5552.18s -> 5554.81s]  And I don't know.
+[5554.81s -> 5556.81s]  I'm going to assume it's going to be
+[5556.81s -> 5558.81s]  like less than two or three hours long.
+[5558.81s -> 5561.24s]  Because we're just going to be watching a playlist.
+[5561.24s -> 5563.24s]  We're watching a huge community
+[5563.24s -> 5567.90s]  playlist. So
+[5567.90s -> 5571.99s]  I'm going to assume up to three hours.
+[5571.99s -> 5575.32s]  It's one minute max. Two minutes max.
+[5575.32s -> 5577.32s]  I plan on, I'm just going to tell you
+[5577.32s -> 5579.32s]  just a fair warning, I plan on drinking a little bit
+[5579.32s -> 5581.94s]  of wine. This is the sun.
+[5581.94s -> 5583.94s]  It's been a couple of, it's been like two or three
+[5583.94s -> 5586.57s]  weeks since I've had some good wine.
+[5586.57s -> 5591.54s]  It's going to be a red blend.
+[5591.54s -> 5593.54s]  But that is
+[5593.54s -> 5595.54s]  it. Here come the credits
+[5595.54s -> 5597.54s]  for the short stream that was
+[5597.54s -> 5599.98s]  here. Thank you for
+[5599.98s -> 5601.98s]  subscribing and contributing
+[5601.98s -> 5603.98s]  everybody. It means a lot.
+[5603.98s -> 5607.43s]  I wish it was better circumstances.
+[5607.43s -> 5610.50s]  He's going to eat food and forget.
+[5610.50s -> 5616.33s]  And there's also
+[5616.33s -> 5618.33s]  a very, very real
+[5618.33s -> 5621.46s]  possibility where the
+[5621.46s -> 5623.77s]  it's broken up into two nights.
+[5623.77s -> 5627.40s]  You know what I mean? Because if
+[5627.40s -> 5629.40s]  there are, if there's more than four
+[5629.40s -> 5631.40s]  or five hours of
+[5631.40s -> 5634.02s]  videos to watch, then it might,
+[5634.02s -> 5636.02s]  it'll be better probably to break it up into two
+[5636.02s -> 5645.11s]  separate occasions. It depends.
+[5645.11s -> 5647.11s]  I mean, maybe we'll just do the whole thing. It really depends
+[5647.11s -> 5649.11s]  on how long the whole, after going
+[5649.11s -> 5651.29s]  through and
+[5651.29s -> 5653.29s]  making sure that it's cleaned up
+[5653.29s -> 5655.29s]  and some duplicates are removed
+[5655.29s -> 5657.29s]  or ones that weren't
+[5657.29s -> 5659.29s]  following the rules or ones that just didn't make
+[5659.29s -> 5661.29s]  any sense. Once it's cleaned up a little
+[5661.29s -> 5674.92s]  bit, we'll find out. I can watch it at
+[5674.92s -> 5676.92s]  times two speed.
+[5676.92s -> 5681.06s]  Don't
+[5681.06s -> 5683.06s]  watch them. What do you mean don't watch them?
+[5683.06s -> 5685.88s]  Ones that don't make any sense.
+[5685.88s -> 5687.88s]  Here's what I'm talking about. If there's like
+[5687.88s -> 5690.25s]  we need to shave time off,
+[5690.25s -> 5692.25s]  here's the reason why these all had to
+[5692.25s -> 5694.25s]  be screened and had to be
+[5694.25s -> 5696.25s]  predetermined if they were
+[5696.25s -> 5698.25s]  capable of being on. Because the rules
+[5698.25s -> 5700.25s]  that I set forth were original
+[5700.25s -> 5702.25s]  content encouraged,
+[5702.25s -> 5704.25s]  more than 10 seconds, less than two minutes,
+[5704.25s -> 5706.25s]  like give or take
+[5706.25s -> 5708.25s]  some people, if you go over by
+[5708.25s -> 5710.25s]  five seconds or so, like okay,
+[5710.25s -> 5712.25s]  as long as, or ten seconds, whatever,
+[5712.25s -> 5714.25s]  if the video was made well,
+[5714.25s -> 5716.25s]  we're just trying to see how that works.
+[5716.25s -> 5718.25s]  But, there weren't very many
+[5718.25s -> 5720.25s]  other rules
+[5720.25s -> 5722.25s]  in regards to, well, I mean, obviously there was no
+[5722.25s -> 5724.25s]  hateful shit, there was no sexual stuff,
+[5724.25s -> 5726.25s]  obviously. But,
+[5726.25s -> 5728.25s]  the reason why we have to go through them all
+[5728.25s -> 5730.25s]  is because somebody could just put up
+[5730.25s -> 5732.25s]  hey, here's my, here's my submission
+[5732.25s -> 5734.25s]  and it's a minute and 58 seconds
+[5734.25s -> 5736.25s]  of a black screen and then it flashes me
+[5736.25s -> 5738.25s]  on the screen for one second.
+[5738.25s -> 5740.25s]  That one's not going on, we're not putting
+[5740.25s -> 5742.25s]  that one on the video, you know what I mean? That's not going on.
+[5742.25s -> 5745.45s]  Like, that shit's not going on.
+[5745.45s -> 5747.62s]  That's just a waste of time,
+[5747.62s -> 5749.62s]  you know what I mean? Time is of the essence
+[5749.62s -> 5755.58s]  tomorrow. And so, there's been
+[5755.58s -> 5757.58s]  a few submissions that have
+[5757.58s -> 5759.58s]  just been, just absolute,
+[5759.58s -> 5761.58s]  just carnage,
+[5761.58s -> 5763.58s]  just keyed out, just
+[5763.58s -> 5765.58s]  volume at max,
+[5765.58s -> 5767.58s]  blasting music, and just
+[5767.58s -> 5769.58s]  like, and every one of the
+[5769.58s -> 5771.58s]  green screens just like flying around and stuff.
+[5771.58s -> 5773.58s]  For like two minutes.
+[5773.58s -> 5776.26s]  It's like,
+[5776.26s -> 5778.26s]  there's been some wild submissions,
+[5778.26s -> 5780.26s]  so we need to make sure that we have
+[5780.26s -> 5782.26s]  ones that aren't going to be obviously,
+[5782.26s -> 5784.26s]  you know, blow anybody's ears out.
+[5784.26s -> 5791.11s]  That sounds amazing.
+[5791.11s -> 5793.11s]  And if, yo, I didn't say there was
+[5793.11s -> 5795.11s]  anything wrong with it, but for the purposes of
+[5795.11s -> 5797.11s]  tomorrow's viewing,
+[5797.11s -> 5799.61s]  it needs to be at least fairly
+[5799.61s -> 5810.10s]  structured. I've
+[5810.10s -> 5812.10s]  I've tried to abstain from watching as many
+[5812.10s -> 5814.10s]  of them as I can, but there are a lot of occasions
+[5814.10s -> 5816.10s]  where I do have to watch them,
+[5816.10s -> 5818.10s]  because I'm not sure, is this one okay?
+[5818.10s -> 5820.10s]  Is this one kind of pushing the line
+[5820.10s -> 5822.10s]  a little bit, and I have to watch them. I have to watch
+[5822.10s -> 5824.10s]  a lot of them, pretty much.
+[5824.10s -> 5826.10s]  But, because there's been
+[5826.10s -> 5828.10s]  the mod team has been doing an absolutely
+[5828.10s -> 5830.10s]  fucking fantastic job
+[5830.10s -> 5832.34s]  to keep this
+[5832.34s -> 5834.34s]  where I don't see very many
+[5834.34s -> 5838.38s]  of them, you know what I mean?
+[5838.38s -> 5840.38s]  But they do need to be watched, and I go, alright, I don't know about
+[5840.38s -> 5845.94s]  that. Have somebody watch them for you.
+[5845.94s -> 5847.94s]  That is essentially
+[5847.94s -> 5853.77s]  what the mods have been doing.
+[5853.77s -> 5856.01s]  It's been a huge fucking help.
+[5856.01s -> 5858.01s]  That they deserve praise, they deserve
+[5858.01s -> 5860.01s]  all the love you can give them.
+[5860.01s -> 5865.18s]  And they deserve
+[5865.18s -> 5869.85s]  compensation.
+[5869.85s -> 5874.52s]  Because that's a lot of work. Especially this.
+[5874.52s -> 5881.18s]  Yeah, coming, bits coming
+[5881.18s -> 5888.66s]  your way.
+[5888.66s -> 5890.66s]  Because, I mean, I'll be real here for a minute.
+[5890.66s -> 5892.66s]  There's been occasions where
+[5892.66s -> 5896.12s]  you know, you just can't do
+[5896.12s -> 5898.74s]  it alone, you know what I mean?
+[5898.74s -> 5900.74s]  There's been at least three or four streams that
+[5900.74s -> 5903.61s]  just
+[5903.61s -> 5905.61s]  without the help of at least
+[5905.61s -> 5907.61s]  three, four of these mods.
+[5907.61s -> 5909.61s]  There's no way that the streams would have even been
+[5909.61s -> 5911.61s]  in reality, never would have been in reality, ever.
+[5911.61s -> 5915.82s]  So, big thanks.
+[5915.82s -> 5922.54s]  In reality.
+[5922.54s -> 5925.99s]  And thank you all the subs, everybody
+[5925.99s -> 5929.13s]  that just came in. Get excited for tomorrow,
+[5929.13s -> 5940.65s]  it's gonna be a lot of fun. And finally,
+[5940.65s -> 5942.65s]  right at the very end,
+[5942.65s -> 5944.65s]  we had mostly lost
+[5944.65s -> 5946.65s]  with the dollar. Also, thanks to you, I'm never gonna be able to drink
+[5946.65s -> 5948.65s]  a red blend again without laughing.
+[5948.65s -> 5950.65s]  Oh, come on, it's the best. It's the best.
+[5950.65s -> 5953.66s]  I should have asked, I should have asked
+[5953.66s -> 5956.15s]  a video about that. He would know.
+[5956.15s -> 5958.15s]  He would be like, yeah, of course.
+[5958.15s -> 5960.90s]  Mr. Picklesworth, thanks for the one dollar.
+[5960.90s -> 5962.90s]  Hey, Jerma, how you doing today? I think I got banned from the discord
+[5962.90s -> 5964.90s]  because I said, give,
+[5964.90s -> 5968.49s]  I give back
+[5968.49s -> 5970.49s]  a couple of times in the chat
+[5970.49s -> 5972.49s]  when you took away the image posting.
+[5972.49s -> 5974.98s]  Sorry, if my messages were spammy.
+[5974.98s -> 5977.67s]  Hit up one of the
+[5977.67s -> 5979.67s]  mods in a private message.
+[5979.67s -> 5981.67s]  They will take care of it. They will
+[5981.67s -> 5983.67s]  just, they will take a look and see what happened.
+[5983.67s -> 5990.46s]  I hope it's not too late for you to see this.
+[5990.46s -> 5995.94s]  No. And just
+[5995.94s -> 5997.94s]  also remember something.
+[5997.94s -> 5999.94s]  If somebody gets from the discord
+[5999.94s -> 6001.94s]  or in this channel,
+[6001.94s -> 6003.94s]  if you get like banned,
+[6003.94s -> 6006.89s]  for the, all
+[6006.89s -> 6008.89s]  bans, like permanent, we're talking like
+[6008.89s -> 6011.13s]  bans, are
+[6011.13s -> 6013.13s]  discussed. And it's not just like, hey,
+[6013.13s -> 6016.58s]  you got banned. And there's usually
+[6016.58s -> 6018.58s]  a dialogue you can open up to
+[6018.58s -> 6020.58s]  potentially talk about what happened
+[6020.58s -> 6022.82s]  or why or
+[6022.82s -> 6030.95s]  that does happen. So
+[6030.95s -> 6032.95s]  all hands are disgust.
+[6032.95s -> 6041.53s]  Can I negotiate
+[6041.53s -> 6043.53s]  why I should be banned? You could, yeah.
+[6043.53s -> 6046.54s]  You could. If you really
+[6046.54s -> 6051.59s]  wanted to. But that's going to be
+[6051.59s -> 6053.77s]  it. See you guys tomorrow.
+[6053.77s -> 6057.22s]  Four p.m. Pacific. I'm excited.
+[6057.22s -> 6059.22s]  You're excited. We're all excited.
+[6059.22s -> 6062.62s]  Have a wonderful rest of your evening.
+[6062.62s -> 6065.82s]  Sorry again
+[6065.82s -> 6068.12s]  for Rockstar's servers
+[6068.12s -> 6070.92s]  not working. Good night.
+[6070.92s -> 6074.04s]  Take care. See you tomorrow.
