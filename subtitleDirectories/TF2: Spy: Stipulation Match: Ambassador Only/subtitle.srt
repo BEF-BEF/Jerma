@@ -1,0 +1,279 @@
+1
+00:00:00,310 --> 00:00:13,890
+Hey, what is going on everybody? Jerma here with a Team Fortress 2 gameplay commentary.
+
+2
+00:00:13,890 --> 00:00:18,890
+And tonight, gonna be playing as the Spy tonight with a stipulation match.
+
+3
+00:00:18,890 --> 00:00:26,320
+So if you do not remember what this is, I will give you a quick little memory jog, a brief description of what's going on here.
+
+4
+00:00:26,320 --> 00:00:33,320
+This is the series where I take a class, a certain set of items, or a certain rule set, and I have to follow the rules.
+
+5
+00:00:33,320 --> 00:00:39,320
+Like, for instance, in the last video was a shotgun heavy, and I was only allowed to use the shotgun, could not use the minigun.
+
+6
+00:00:39,320 --> 00:00:46,500
+And in this video, this is a Spy, like I said, and I'm only allowed to use the Ambassador and the Dead Ringer.
+
+7
+00:00:46,500 --> 00:00:49,500
+I cannot use the knife and I cannot disguise.
+
+8
+00:00:49,500 --> 00:00:55,859
+And before we get really started here, I want to say this setup surprised the hell out of me.
+
+9
+00:00:55,859 --> 00:01:00,859
+I really didn't think this was gonna go anywhere. I thought I was gonna just be dying and raging all over the place.
+
+10
+00:01:00,859 --> 00:01:05,859
+But no, I do really ridiculously well in this little set of clips here.
+
+11
+00:01:05,859 --> 00:01:08,859
+Especially in this first one, I killed like nine people in a row.
+
+12
+00:01:08,859 --> 00:01:15,099
+And really, after playing with this for maybe an hour or two, I think it took me maybe an hour to get this gameplay.
+
+13
+00:01:15,099 --> 00:01:22,099
+So after playing with this for a little while, I've come to the realization that I want to do this with the Connivorous Kunai.
+
+14
+00:01:22,099 --> 00:01:25,340
+Get a backstab on somebody and just go for the headshots.
+
+15
+00:01:25,340 --> 00:01:30,519
+I mean, who knows how well that's gonna work in practice, but it was just a thought I had.
+
+16
+00:01:30,519 --> 00:01:31,519
+I might try it at some point.
+
+17
+00:01:31,519 --> 00:01:38,079
+And also, guys, leave me a couple more comments. I love getting your ideas on the next stipulation matches.
+
+18
+00:01:38,079 --> 00:01:44,079
+The next one is probably gonna be a sniper with the Jurati and I can only no scope.
+
+19
+00:01:44,079 --> 00:01:47,079
+So that's probably gonna be the next one. But after that, I don't really have any plans.
+
+20
+00:01:47,079 --> 00:01:50,079
+So shoot me some comments. Let's get some more cool ideas going.
+
+21
+00:01:50,079 --> 00:01:55,829
+So let's talk about the gameplay now. We are on CP Gorge on defense.
+
+22
+00:01:55,829 --> 00:01:59,829
+And I would probably recommend you do this on defense if you're gonna try and do this.
+
+23
+00:01:59,829 --> 00:02:04,829
+Only because offense, you really have to push and there's a lot of spam factor you have to take into consideration.
+
+24
+00:02:04,829 --> 00:02:08,830
+But try it on defense. That's where I've seen the most success doing this.
+
+25
+00:02:08,830 --> 00:02:15,629
+Picking off that sniper right there and then me and this soldier get into one of the most ridiculous fights ever.
+
+26
+00:02:15,629 --> 00:02:20,629
+Like seriously, cue your favorite carnival music because that's what should be playing right now.
+
+27
+00:02:20,629 --> 00:02:23,870
+Like really, this is ridiculous. Look at this.
+
+28
+00:02:23,870 --> 00:02:27,870
+We are still going and eventually I get the kill on him. I couldn't believe that.
+
+29
+00:02:27,870 --> 00:02:30,870
+I was flabbergasted that I got that, by the way.
+
+30
+00:02:30,870 --> 00:02:34,560
+Coming out here, I'll get to strategy in a second, but watch what happens right here.
+
+31
+00:02:34,560 --> 00:02:37,560
+Demoman goes in the air. Do I get the? No, I don't.
+
+32
+00:02:37,560 --> 00:02:40,560
+Oh, well. Yeah, I do.
+
+33
+00:02:40,560 --> 00:02:45,500
+That guy was in the spawn door when I shot him.
+
+34
+00:02:45,500 --> 00:02:48,810
+I mean, it would have been so much better if I had got him in the air.
+
+35
+00:02:48,810 --> 00:02:51,810
+But, you know, whatever. At least I still got him.
+
+36
+00:02:51,810 --> 00:02:54,430
+Oh, also, I gotta bring this up.
+
+37
+00:02:54,430 --> 00:02:57,430
+So in the kill feed, you're probably seeing Henry Bubinski.
+
+38
+00:02:58,430 --> 00:03:01,430
+And that's just one of my stupid aliases I've been putting on lately.
+
+39
+00:03:01,430 --> 00:03:03,430
+That and Dick Simmons.
+
+40
+00:03:03,430 --> 00:03:07,430
+So if you see Henry Bubinski or Dick Simmons, it's just me being a weirdo.
+
+41
+00:03:07,430 --> 00:03:09,430
+I like to mess around sometimes.
+
+42
+00:03:09,430 --> 00:03:14,800
+Right there, also, I was trying to get the soldier to blow himself up on my dead ringer.
+
+43
+00:03:14,800 --> 00:03:18,620
+I don't know why it didn't work, though. Maybe I was a little too far away.
+
+44
+00:03:18,620 --> 00:03:22,620
+So now I want to talk about strategy, not just strategy with this setup.
+
+45
+00:03:22,620 --> 00:03:27,620
+I want to talk about the ambassador and how to improve your ambassador game.
+
+46
+00:03:27,620 --> 00:03:31,620
+This is how I do it, and it's a little weird. It's a little unorthodox.
+
+47
+00:03:31,620 --> 00:03:34,620
+But, you know, it might help somebody, so might as well tell you how I do it.
+
+48
+00:03:34,620 --> 00:03:38,979
+So what I do, I pretend the ambassador is a sniper rifle.
+
+49
+00:03:38,979 --> 00:03:44,159
+Not only do I do that, I also pretend that I'm zoomed in with the sniper rifle.
+
+50
+00:03:44,159 --> 00:03:49,159
+So if you can give yourself this mind trick where when you aim at somebody with the ambassador,
+
+51
+00:03:49,159 --> 00:03:55,159
+you're really telling yourself, hey, this is just a really crappy sniper rifle with, like, no zoom on it.
+
+52
+00:03:55,159 --> 00:03:59,509
+You'll start doing better, because, trust me, that's how I started using it.
+
+53
+00:03:59,509 --> 00:04:01,509
+And you have to remember, guys, it's all mental.
+
+54
+00:04:01,509 --> 00:04:07,069
+That crosshair, the ambassador crosshair, is no different than the sniper rifle crosshair.
+
+55
+00:04:07,069 --> 00:04:11,069
+It's all just mathematics. It's all mechanics in the game.
+
+56
+00:04:11,069 --> 00:04:15,069
+Because the ambassador and the sniper rifle, they're both hitscan weapons.
+
+57
+00:04:15,069 --> 00:04:21,069
+So if you just put yourself in the sniper mindset and shoot like you would a sniper,
+
+58
+00:04:21,069 --> 00:04:24,069
+you're going to use this item so much better, and you're going to be so much better with it.
+
+59
+00:04:24,069 --> 00:04:29,310
+And also, one more thing to add to this, do not freak out with this weapon.
+
+60
+00:04:29,310 --> 00:04:32,310
+Too many times I see ambassador spies just...
+
+61
+00:04:32,310 --> 00:04:36,310
+And they just freak out and shoot every single second they can.
+
+62
+00:04:36,310 --> 00:04:43,490
+And you have to realize, you have to wait a full almost two seconds before this is going to be able to headshot again.
+
+63
+00:04:43,490 --> 00:04:45,730
+So really take your time with this, guys.
+
+64
+00:04:45,730 --> 00:04:51,730
+Even if it takes you three or four seconds between shots, take that time to get yourself in the zone.
+
+65
+00:04:51,730 --> 00:04:56,730
+And don't just fire randomly, because this thing does less damage if you don't headshot someone.
+
+66
+00:04:56,730 --> 00:04:59,290
+So this is going to be the end of the gameplay, guys.
+
+67
+00:04:59,290 --> 00:05:02,290
+Thank you so much for watching. I really do appreciate it.
+
+68
+00:05:02,290 --> 00:05:05,290
+And I don't get on the top of the scoreboard or anything like that.
+
+69
+00:05:05,290 --> 00:05:07,529
+I wasn't really expecting to.
+
+70
+00:05:07,529 --> 00:05:11,529
+So I'll see you all soon, and take care, everybody.

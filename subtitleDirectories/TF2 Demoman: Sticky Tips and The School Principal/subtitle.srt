@@ -1,0 +1,227 @@
+1
+00:00:00,310 --> 00:00:15,500
+Hey, what is going on everybody? Jerma here with a Team Fortress 2 gameplay commentary.
+
+2
+00:00:15,500 --> 00:00:20,579
+And tonight, gonna be playing as the Demoman, using the Sticky Bomb Launcher, of course,
+
+3
+00:00:20,579 --> 00:00:27,300
+the half Zatoichi and the lock and load, which has become my default Demoman setup ever since
+
+4
+00:00:27,300 --> 00:00:32,780
+I got the strange lock and load a few days ago. Now this video, I want to really bring
+
+5
+00:00:32,820 --> 00:00:36,780
+up something very, very important about the Demoman. I want to give you a couple of tips,
+
+6
+00:00:36,780 --> 00:00:42,859
+couple of strategies to use, because I've never done a Demoman tip video. I think I
+
+7
+00:00:42,859 --> 00:00:46,939
+said one or two things, maybe a long time ago about it. But I want to give you some
+
+8
+00:00:46,939 --> 00:00:52,200
+real strategies, at least with the Sticky Launcher. Because with the lock and load and
+
+9
+00:00:52,200 --> 00:00:58,219
+with the default grenade launcher, it's kind of spam. You get lucky sometimes with air
+
+10
+00:00:58,219 --> 00:01:01,219
+shots. You have to time it, you have to lead your targets, that type of thing. But the
+
+11
+00:01:01,219 --> 00:01:06,780
+Sticky Launcher can be a real pain in the butt for a lot of people. And I'm here to
+
+12
+00:01:06,780 --> 00:01:11,819
+save the day. Jerma saves the day. Hold on just one second. Excuse me, hold on, what?
+
+13
+00:01:11,819 --> 00:01:15,900
+You think you're going to be teaching anyone something without me here? Who the hell are
+
+14
+00:01:15,900 --> 00:01:24,250
+you? I'm the principal of the local school. Oh, okay. I mean, this is a Team Fortress
+
+15
+00:01:24,250 --> 00:01:29,090
+2 video. I don't think you really, I mean, I don't think you need to be here. It's not
+
+16
+00:01:30,090 --> 00:01:39,090
+Oh, dear you. I am the school principal. That means what I say goes. And if you don't like
+
+17
+00:01:39,090 --> 00:01:43,209
+that, then I'm going to give you a math problem to screw with your brain. Stop. 2 plus 2 is
+
+18
+00:01:43,209 --> 00:01:47,209
+4. 4 plus 4 is 8. Stop, stop, stop, stop, stop, stop. Okay, I understand. You're the
+
+19
+00:01:47,209 --> 00:01:51,689
+school principal. And if there's one thing I know about principals, they don't like this
+
+20
+00:01:51,689 --> 00:01:56,890
+chant. You better not do it. Homework sucks. No, stop. Homework sucks. Stop it. Homework
+
+21
+00:01:56,890 --> 00:02:05,099
+sucks. Homework sucks. Homework sucks. Homework sucks. He did it. He's gone. Oh, for now.
+
+22
+00:02:05,099 --> 00:02:09,780
+He's gone for now. And is this even a Team Fortress video anymore? This turned into like
+
+23
+00:02:09,780 --> 00:02:15,340
+outer space adventures with Jerma. What the hell is going on? Anyways, so demo man sticky
+
+24
+00:02:15,340 --> 00:02:21,909
+bomb tips. Without that guy here anymore, we can get into this. So the sticky launcher.
+
+25
+00:02:21,909 --> 00:02:25,949
+So what you want to do with this thing, the most important thing about the sticky launcher
+
+26
+00:02:25,949 --> 00:02:32,639
+is setting traps for people. And that does not necessarily mean hiding behind a corner
+
+27
+00:02:32,639 --> 00:02:39,270
+with five stickies on a doorway. When I say sticky trap, I mean real time sticky traps.
+
+28
+00:02:39,270 --> 00:02:44,490
+Think of a land mine system where you're dropping land mines where you know people are going
+
+29
+00:02:44,490 --> 00:02:49,550
+to walk. And if somebody's chasing you, especially if it is a pyro, you are going to see this
+
+30
+00:02:49,550 --> 00:02:54,610
+at least two or three times in this video, a pyro will be chasing me or any close quarters
+
+31
+00:02:54,889 --> 00:02:59,930
+scout or something like that. Drop the stickies where they are running, kind of like a bread
+
+32
+00:02:59,930 --> 00:03:05,169
+crumb trail to you. So pretend you're Hansel and Gretel and the person chasing you is the
+
+33
+00:03:05,169 --> 00:03:09,289
+witch and you're dropping these stickies down. So when they walk over the trail, you can
+
+34
+00:03:09,289 --> 00:03:13,689
+detonate it and it might not kill them for the first sticky or even the second sticky,
+
+35
+00:03:13,689 --> 00:03:17,889
+but a lot of times it only takes two or three. And for the most part, people will still chase
+
+36
+00:03:17,889 --> 00:03:23,289
+you. So definitely check out the bread crumb trail in in quotes. I guess that could be
+
+37
+00:03:23,729 --> 00:03:28,280
+what it is. But the second technique I want to talk about is one that a lot of people
+
+38
+00:03:28,280 --> 00:03:32,599
+do anyways, but I want to cover it just because some people still don't do it. It is the blind
+
+39
+00:03:32,599 --> 00:03:37,780
+fire technique. And that is where if you know there are people around a corner, don't try
+
+40
+00:03:37,780 --> 00:03:42,819
+and make a trap on the right side or wait for them to come around. Just shoot in a space
+
+41
+00:03:42,819 --> 00:03:47,280
+across the corner or around the corner where you know people are going to be. Because think
+
+42
+00:03:47,280 --> 00:03:52,349
+about every single choke point in Team Fortress. There's always going to be a ton of people
+
+43
+00:03:52,349 --> 00:03:57,689
+around certain corners, especially on payload and especially on control point. So once you
+
+44
+00:03:57,689 --> 00:04:02,250
+get the knowledge of the maps, definitely use this blind fire technique and that follows
+
+45
+00:04:02,250 --> 00:04:05,849
+up with another technique. And it's not even really a technique, but still there are people
+
+46
+00:04:05,849 --> 00:04:09,610
+that don't have this. And I was one of those people that originally I did not have this
+
+47
+00:04:09,610 --> 00:04:15,770
+enabled. Turn on hit sounds. You go to advanced options. This is also by the way how to turn
+
+48
+00:04:15,770 --> 00:04:20,449
+on the numbers, the damage numbers. So go to advanced options, turn on play a sound
+
+49
+00:04:20,449 --> 00:04:24,569
+when an enemy is hit. It's something like that. And the damage numbers as text. You
+
+50
+00:04:24,569 --> 00:04:29,889
+want both of those, especially the first one. Because what this allows you to do is blind
+
+51
+00:04:29,889 --> 00:04:33,810
+fire around corners and get the ding sound and know, okay, there's people there. Let
+
+52
+00:04:33,810 --> 00:04:38,300
+me shoot more and kill four people. And it did take me a long time to turn those on and
+
+53
+00:04:38,300 --> 00:04:43,660
+I really don't know why. I think I just didn't like change. But this is going to wrap up
+
+54
+00:04:43,660 --> 00:04:48,139
+the video guys. Thank you so much for watching. I really do appreciate it. Hopefully you got
+
+55
+00:04:48,180 --> 00:04:52,100
+something out of this. I know there's a bunch more tips I can give, but these are just the
+
+56
+00:04:52,100 --> 00:04:56,500
+ones that I like to use. These are the ones that help me the most. So yeah, I'll catch
+
+57
+00:04:56,500 --> 00:04:59,819
+you guys all next time and take care everybody.

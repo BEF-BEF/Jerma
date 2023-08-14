@@ -1,0 +1,2867 @@
+1
+00:00:03,770 --> 00:00:14,259
+Hello. Hi. Yes, sorry. I apologize to everybody. It is 420, 20 minutes later than the two hour
+
+2
+00:00:14,259 --> 00:00:22,379
+later delay that I gave you earlier today. And I apologize for that. I'm very sorry. I'm battling
+
+3
+00:00:22,379 --> 00:00:30,519
+a headache. I know that's like the easiest excuse to get out of anything, but it's true. I have,
+
+4
+00:00:30,519 --> 00:00:39,990
+I've had a headache. Weed is legal? Weed's been legal in Las Vegas for like three years.
+
+5
+00:00:41,450 --> 00:00:48,700
+Hello, how are you? Haven't seen you guys in a while. This is longer than I ever anticipate.
+
+6
+00:00:48,700 --> 00:00:55,750
+You'll have to wait for a stream. Even being once a week Andy does not mean once every 10 days Andy.
+
+7
+00:00:55,750 --> 00:01:04,010
+I'd rather it be six or seven days tops. But there's been a lot going on and very soon,
+
+8
+00:01:04,810 --> 00:01:14,180
+very soon, we'll be able to talk about it. So lots of exciting stuff. Let's just say that
+
+9
+00:01:14,180 --> 00:01:19,239
+August and September. Holy shit. That's all I'm gonna say.
+
+10
+00:01:24,180 --> 00:01:43,340
+Let's go. Yeah, let's go. Holy shit. What do you say? Why, why are you streaming? It's Thursday.
+
+11
+00:01:44,060 --> 00:01:52,060
+You seem like the kind of guy that can sneeze on command. It took a long time to learn how to do
+
+12
+00:01:52,060 --> 00:02:10,500
+that. Countless hours studying people. Let's go. Yeah, let's go. So today, this is not going to be
+
+13
+00:02:10,500 --> 00:02:18,860
+a short stream, by the way. I'm gonna play King of Retail. This is a game that looks really good.
+
+14
+00:02:19,500 --> 00:02:29,060
+I'm very excited for it. You make your own store. You sell products. It's like a chores game. And
+
+15
+00:02:29,060 --> 00:02:36,180
+you know, that's what I do here. That's like what I play. But yeah, this ain't gonna be like,
+
+16
+00:02:36,180 --> 00:02:43,400
+we've done like three to four hour streams the last three or four streams. That's not gonna happen
+
+17
+00:02:43,400 --> 00:02:51,449
+today. Even if King of Retail gets boring, if I don't like it. I'm like, okay, I had my fill.
+
+18
+00:02:52,860 --> 00:02:59,900
+We still have, I mean, we've got the 2020 Olympics game, video game. That's incredibly important that
+
+19
+00:02:59,900 --> 00:03:12,219
+we play that. I don't know if it's today, but we'll see. Have I played Papers, Please? I have.
+
+20
+00:03:15,060 --> 00:03:20,259
+I've got to the point of Papers, Please, where I can't play it anymore. Because once you incorporate
+
+21
+00:03:20,259 --> 00:03:27,129
+more than four documents, I physically cannot play the game. I can't do it. I actually can't do
+
+22
+00:03:27,129 --> 00:03:33,060
+it. I always play Papers, Please until you get to four documents and I talk about how much fun it is
+
+23
+00:03:33,060 --> 00:03:46,439
+and then I don't do it. And I skip it. But yeah, I'm ready to go. I should eat a whopper. Hey,
+
+24
+00:03:46,439 --> 00:03:53,419
+I'll eat whatever I want. All right. King of Retail. Make sure the face cam's not on.
+
+25
+00:03:55,479 --> 00:04:04,120
+All right, we're good. There it is. This is King of Retail. We're gonna do new manager,
+
+26
+00:04:04,120 --> 00:04:11,750
+create a manager and get ready to conquer the world of retailing. All right, let's go.
+
+27
+00:04:11,750 --> 00:04:22,069
+First name. Should it be me or should it be somebody else? Who should it be? This is a Unity
+
+28
+00:04:22,069 --> 00:04:29,339
+game? Yeah, every game nowadays is a Unity game. It's free to license. It's cheap and it's easy to
+
+29
+00:04:29,339 --> 00:04:34,490
+use. I used to say the same thing and then I realized, holy shit, like this is like actually
+
+30
+00:04:34,490 --> 00:04:41,560
+like really good for independent developers. Don't you have to pay like 40% of your entire
+
+31
+00:04:41,560 --> 00:04:48,759
+life savings to be able to use Unreal or something? What's the licensing fee for Unreal?
+
+32
+00:04:48,759 --> 00:05:00,199
+There's something crazy, right? Unity's not free. Well, I'm making that up then. 40% of your soul.
+
+33
+00:05:01,079 --> 00:05:10,920
+Now, Unreal is free too. After a million dollars, they take a 10% cut. As a developer who uses
+
+34
+00:05:10,920 --> 00:05:20,120
+Unreal, I have to correct you. All right, then yeah, correct me. All right, yeah, I'm completely
+
+35
+00:05:20,120 --> 00:05:34,579
+corrected. And it's even got green text. It's got green text. I don't know. I feel like this
+
+36
+00:05:34,579 --> 00:05:44,060
+would happen if you like character melded me and Elon Musk together. Oh, never mind. Now it's me
+
+37
+00:05:44,060 --> 00:06:04,819
+and Elon. Now it is. I like this one so far. I like that one. Yeah. Oh, whatever. I say the name wrong.
+
+38
+00:06:04,819 --> 00:06:32,709
+Elon. Elon. Is Elon? Elon. Elon. Elon. Elon. Elon. Whatever. I kind of like that. I can't even
+
+39
+00:06:32,709 --> 00:06:36,470
+really make Mr. Green. All right, we're gonna change the character's name because it can't even
+
+40
+00:06:36,470 --> 00:06:58,779
+be Mr. Green. It's gonna be like, it's got to be a more tame version of Mr. Green. That's even worse.
+
+41
+00:06:59,259 --> 00:07:22,120
+It's a character from a children's book. John Sale. Cousin Green? Cousin Green. I think that
+
+42
+00:07:22,120 --> 00:07:29,610
+might be worse than the last one. No, who can't? This guy is just a, this is a side character.
+
+43
+00:07:29,610 --> 00:07:41,430
+Doesn't matter. All right, that's fine. Are you happy with this manager? Yes, I am. Let's go.
+
+44
+00:07:41,430 --> 00:07:48,600
+All right, single store mode, campaign mode, or business school. As the owner of a new store,
+
+45
+00:07:48,600 --> 00:07:53,930
+do you have what it takes to expand your customer base and make a profit? Work for other companies
+
+46
+00:07:53,930 --> 00:07:59,050
+and earn enough money to found your own and go from managing a small store to large retail chains.
+
+47
+00:07:59,050 --> 00:08:09,459
+Can you dominate the city? Learn about the game. So this tutorial. Just go flunk out of business
+
+48
+00:08:09,459 --> 00:08:25,000
+school. This is tutorial. All right, you know you're, you know you're like not doing so well
+
+49
+00:08:25,000 --> 00:08:37,529
+as a professor when you pump fake crowd sound into your, into your class. He doesn't have to do this.
+
+50
+00:08:41,289 --> 00:08:47,179
+I'm the only person that signed up for business 101. Welcome to all of you. Please talk to the
+
+51
+00:08:47,179 --> 00:08:51,659
+instructor to participate in one of our classes. Please be quiet during the lectures. If you have
+
+52
+00:08:51,659 --> 00:08:59,450
+a question, please raise your hand and yes, stupid questions do exist. I have a stupid question.
+
+53
+00:09:00,419 --> 00:09:13,220
+Where are all the people? Know your area. Dark horse. Shut up. Oh, there we go. Thank you.
+
+54
+00:09:14,340 --> 00:09:23,110
+Know your area. Oh God, what the fuck is this? To run a successful store, you want to know more
+
+55
+00:09:23,110 --> 00:09:28,740
+about the city and the customers that reside in it. Each city consists of a unique mix of customers.
+
+56
+00:09:28,740 --> 00:09:38,090
+They're categorized into the following segments. Fashion high, low, and wealth low, high. So fashion
+
+57
+00:09:38,090 --> 00:09:49,139
+low, wealth low is farmer. Fashion low, wealth high is techie. Fashion high, wealth low is student.
+
+58
+00:09:49,139 --> 00:09:58,519
+Is this how we're measured? The kind of clothing we wear? What? Wealth high, fashion high is
+
+59
+00:09:58,519 --> 00:10:12,169
+celebrity. Where do you sit on the political compass test? Uh, hipster, techie, accountant,
+
+60
+00:10:12,169 --> 00:10:24,500
+celebrity. Oh dude, I got celebrity on the political compass test. Okay. So yeah, I get it.
+
+61
+00:10:24,500 --> 00:10:29,220
+As you can see, the chart shows what each segment looks for when they go shopping. Are they quality
+
+62
+00:10:29,779 --> 00:10:33,779
+or money oriented? And how important is it that the article is in fashion?
+
+63
+00:10:37,289 --> 00:10:45,659
+Click to share your results. Click share. I got hipster in the political compass test. What will
+
+64
+00:10:45,659 --> 00:10:58,309
+you get? Zero likes, zero retweets, zero replies. As if I did that, it would be zero likes, zero
+
+65
+00:10:58,309 --> 00:11:07,350
+retweets, zero replies. Understand? That's essentially an ad that people have to scroll by.
+
+66
+00:11:07,350 --> 00:11:17,419
+No one looks at those. Not one person. It's an annoying Twitter ad. A pie chart of the population
+
+67
+00:11:17,419 --> 00:11:25,860
+could look like this. Farmer, pensioner, student, ecologist, laborer, hipster, techie, accountant,
+
+68
+00:11:25,860 --> 00:11:33,620
+and celebrity. There's a lot of celebrities that live in this town. Damn. In the chart, you can
+
+69
+00:11:33,620 --> 00:11:36,820
+see that this city mainly has a low income population, so your assortment of articles
+
+70
+00:11:36,820 --> 00:11:45,299
+should primarily consist of articles of the lower price range. Okay. Customer flows. The various
+
+71
+00:11:45,299 --> 00:11:50,980
+segments also have different shopping patterns. So the peak hours for farmers and students may be
+
+72
+00:11:50,980 --> 00:11:55,690
+different during a given day, but the peak hours for farmers in a workday compared to the weekday
+
+73
+00:11:55,690 --> 00:12:01,700
+will also vary. Weekends are in general busier than workdays. Well, wouldn't I have to have the
+
+74
+00:12:01,700 --> 00:12:06,700
+store open at like four o'clock in the morning? Because farmers get up really early. On your
+
+75
+00:12:06,700 --> 00:12:13,980
+computer, you can see... whatever. Don't forget about article saturation. When you sell articles,
+
+76
+00:12:13,980 --> 00:12:18,700
+the market will get saturated with those articles. The more you sell an article, the fewer customers
+
+77
+00:12:18,700 --> 00:12:25,179
+will require it. I just realized I'm just standing up here in the front of the classroom reading
+
+78
+00:12:25,179 --> 00:12:33,259
+this. No one's teaching me anything. These are sa- these saturations are averaged out over several
+
+79
+00:12:33,259 --> 00:12:37,750
+days. To tackle this, you can occasionally switch your focus to different articles. All right,
+
+80
+00:12:37,750 --> 00:12:43,429
+all right. This is important shit, though. We gotta know this. You're standing up on the desk.
+
+81
+00:12:47,769 --> 00:12:51,830
+All right, this is important shit. Just hold on. When customers go shopping, they have various
+
+82
+00:12:51,830 --> 00:12:56,149
+needs for the different categories. The customer's need is the most important factor when they go
+
+83
+00:12:56,149 --> 00:13:01,350
+shopping. If the customer has a big need, they are willing to compromise a lot for the right article.
+
+84
+00:13:01,350 --> 00:13:05,960
+Whatever. Reputations. All right, just, like, don't have, like, rat shit everywhere and people
+
+85
+00:13:05,960 --> 00:13:10,169
+will be happy. The store is a reputation with individual customer segments. Those are a reputation
+
+86
+00:13:10,169 --> 00:13:13,610
+for selling the various article groups. When customers go, look, I'm just gonna- I'm just
+
+87
+00:13:13,610 --> 00:13:20,149
+gonna sell, like, white t-shirts and, like, sandals. That's- everyone can buy that. That's in fashion
+
+88
+00:13:20,149 --> 00:13:25,960
+for everybody. Each time you sell something, your reputation goes up. And if a customer leaves angry
+
+89
+00:13:25,960 --> 00:13:32,740
+and disappointed, your reputation goes down. Before you start buying articles for your store,
+
+90
+00:13:32,740 --> 00:13:37,620
+you might want to investigate the type of city that you are in. This information is available.
+
+91
+00:13:37,620 --> 00:13:55,190
+All right. Yo, teach! When is it lunch? Should I do the other stuff? Oh, there's a lot. Know your
+
+92
+00:13:55,190 --> 00:14:00,730
+article. Managing your articles. Influencing your customers. The art of selling. I already know how
+
+93
+00:14:00,730 --> 00:14:05,450
+to do this. Managing staff. This is a lot. This is a lot. I think I have to- I gotta read at least
+
+94
+00:14:05,450 --> 00:14:11,899
+the first three of these, okay? Everybody relax. Know your article. I'm just gonna- I'm gonna skip
+
+95
+00:14:11,899 --> 00:14:17,419
+through it. I'm gonna do exactly like I did when I was in high school and college. I'm gonna have
+
+96
+00:14:17,419 --> 00:14:24,120
+to read like two sentences and then get like a D on the test, but still be fine and pass.
+
+97
+00:14:24,120 --> 00:14:29,080
+All of your articles have various base parameters that make them unique. Price, score, fashion.
+
+98
+00:14:29,080 --> 00:14:34,519
+Got it. All right. Quality, design, and luxury. Got it. All categories of a city average price.
+
+99
+00:14:34,519 --> 00:14:38,759
+To see if an article is either expensive or cheap, customers will compare it to the average price.
+
+100
+00:14:38,759 --> 00:14:42,120
+By decreasing or increasing the price, you can adjust how attractive articles are to certain
+
+101
+00:14:42,120 --> 00:14:48,659
+groups. Okay. Quality, score. Quality of an article. If it's a very high quality, then all right.
+
+102
+00:14:48,659 --> 00:14:53,559
+Article fashion. This explains how stylish an article is. This is- this is the blue line
+
+103
+00:14:53,559 --> 00:14:59,139
+is stylish. A farmer, on the other hand, doesn't mind the fashionability, but doesn't want to pay
+
+104
+00:14:59,139 --> 00:15:06,730
+extra, okay? Luxury. This is for like the celebrities, right? High luxury. Effort to sell.
+
+105
+00:15:06,730 --> 00:15:16,460
+That was easy- what? That was the class? This professor sucks. I could have googled this.
+
+106
+00:15:22,500 --> 00:15:26,820
+That's the most- all right. Managing your articles. Just wait. I'm- not only- I'm gonna do it. I need
+
+107
+00:15:26,820 --> 00:15:33,590
+to know what to do. Stop it. Guys, fine. You go sleep. Go sleep in the back. I'm up at the
+
+108
+00:15:33,590 --> 00:15:39,019
+front learning, okay? If you want to sleep, then sleep on your desk. Whatever. Between the moment
+
+109
+00:15:39,019 --> 00:15:42,779
+you order articles and the moment the customer takes them home, the article usually goes through
+
+110
+00:15:42,779 --> 00:15:53,509
+the following phases. It has to be delivered? They don't take it from the store. They just point at
+
+111
+00:15:53,509 --> 00:15:59,370
+it and then I deliver it to them? Okay. When your unit arrives, they're prepared to the warehouse.
+
+112
+00:15:59,370 --> 00:16:06,789
+Okay. After when the articles are the delivery units, you need to unpack them. Got it? Minimum
+
+113
+00:16:06,789 --> 00:16:09,830
+storage system. To make things easier, you have access to multiple systems on your computer. One
+
+114
+00:16:09,830 --> 00:16:15,940
+of them is storage. Okay. Let's just go fail five businesses and like figure it out. You know what
+
+115
+00:16:15,940 --> 00:16:26,389
+I mean? All right. I'll be all right. Stop shouting. I'm trying to sleep for fifth period.
+
+116
+00:16:27,539 --> 00:16:32,440
+F. You're gonna get an F. All right. So you have to store stuff. You have to order stuff. Things
+
+117
+00:16:32,440 --> 00:16:37,289
+have to be delivered with the flow. There's a flow. I got it. All right. All right. I think I'll be
+
+118
+00:16:37,289 --> 00:16:40,330
+all right. I think I get the general concept of the game. Let me see if there's anything else
+
+119
+00:16:40,330 --> 00:16:48,820
+important here. Let's go. Let's go. I'm ready. Let's go. If I need to figure it out, I'll figure
+
+120
+00:16:48,820 --> 00:17:05,380
+it out. How do I leave college? All right. New manager. Wait, no, no, no. Load manager. Wait,
+
+121
+00:17:05,380 --> 00:17:11,690
+did I just go to school and that's it? Puzzle and green. Okay. Load. Why is he in a different
+
+122
+00:17:11,690 --> 00:17:20,730
+clothes? All right. Let's do campaign mode. Let's go for it. Campaign. New game. Message from City
+
+123
+00:17:20,730 --> 00:17:27,099
+Hall. Dear retailer, from what we have heard, you are interested in running your own company in our
+
+124
+00:17:27,099 --> 00:17:33,319
+city. Before you can do that, you must come to us to prepare the essentials. We'd also like to offer
+
+125
+00:17:33,319 --> 00:17:37,720
+some advice on how to get it off to a solid start and what the city has to offer. You know,
+
+126
+00:17:37,720 --> 00:17:42,630
+you can navigate around the city using the WASD keys. The arrow keys are replacing the mouse at
+
+127
+00:17:42,630 --> 00:17:50,359
+the edge of the screen. You're sincerely the mayor. What a weird last sentence to get. I would think
+
+128
+00:17:50,359 --> 00:18:01,980
+he was on drugs. This guy is shit faced. Imagine getting this letter. Oh shit. Okay. All right.
+
+129
+00:18:01,980 --> 00:18:06,230
+Company not founded. Welcome to the city. Before you start on your own, you need to require capital.
+
+130
+00:18:07,220 --> 00:18:18,539
+Work for hire. Okay. Bills outfits. $16 a day. Very low population. So this is where I have to work?
+
+131
+00:18:18,539 --> 00:18:27,539
+Holy shit. Look at all this. City, take courses here. Learn more about the game. Oh, that's...
+
+132
+00:18:27,539 --> 00:18:37,240
+Okay. $16 a day? This is the City Hall. This is permits and then a big baseball field.
+
+133
+00:18:39,660 --> 00:18:46,970
+I have to work here. This is my first job. $16 a day? That seems like fucking nothing.
+
+134
+00:18:46,970 --> 00:19:01,769
+Completion bonus $80. All right. Will go work? I have to work? Go to the store. What time is it?
+
+135
+00:19:01,769 --> 00:19:12,839
+Complete the current contract. You must serve five customers. Congratulations on your new store.
+
+136
+00:19:12,839 --> 00:19:16,359
+This is your pre-opening day, meaning you have all the time in the world to get your store ready for
+
+137
+00:19:16,359 --> 00:19:25,769
+the grand opening. We've prepared a list of things to do to get you up and running. That's something
+
+138
+00:19:25,769 --> 00:19:34,630
+that is that in the store? Bills outfits. Oh, Bill, we got to talk about your sign. Bill, your sign is
+
+139
+00:19:34,630 --> 00:19:45,420
+like what my school principal had at the end of his desk. It's a name tag. Okay. Buy a delivery unit.
+
+140
+00:19:45,420 --> 00:19:51,140
+Design, leave store. Normal. We can do fast speed. Oh, shit. Okay. We're not doing that.
+
+141
+00:19:51,700 --> 00:19:59,930
+I have $2,400. Why do I have to design his store? Buy inventory. Buy a storage unit. Okay. How about
+
+142
+00:20:00,809 --> 00:20:11,400
+buy inventory? All right. Buy a delivery. So buy inventory. Registers. And you don't need
+
+143
+00:20:11,400 --> 00:20:20,309
+a register? Okay. Delivery units. $80. All right. What's going to get this one? It has
+
+144
+00:20:20,309 --> 00:20:30,680
+30 units. Oh, shit. I got to go in here. All right. This makes sense. Right here. This is where I store
+
+145
+00:20:30,680 --> 00:20:40,660
+stuff for deliveries. All right. Storage unit. 160. Well, I'm just going cheap right now. I'm
+
+146
+00:20:40,660 --> 00:20:54,650
+just learning how to play. How do I flip? Okay. Order articles. Clothes. Shirts. Okay. Hold on.
+
+147
+00:20:54,650 --> 00:21:05,750
+Buy inventory. Manage articles. Order articles. Clothes. Shirts. Oh, God. Oh, what do I get?
+
+148
+00:21:05,750 --> 00:21:13,109
+How about fun and games? I took an arrow to the knee. Should I set up a meme store? Nobody wants
+
+149
+00:21:13,109 --> 00:21:25,700
+this shirt. That's so stupid. Okay. I'm going to get fun and games. How many do I get? Oh, drag them
+
+150
+00:21:25,700 --> 00:21:38,579
+here. Okay. One. I buy like 10? I'm going to buy 10 arrow to the knee shirts. Okay. Now I need to
+
+151
+00:21:38,579 --> 00:21:48,359
+request a delivery. Staff room is tiny. All right. Request delivery. Before you open, all deliveries
+
+152
+00:21:48,359 --> 00:21:53,369
+are free today. All right. Give me it. I'm on my way with the articles you ordered. See you in a
+
+153
+00:21:53,369 --> 00:22:08,410
+moment. Where does he go? I'm just going to stand here and look at the door. Imagine having only one
+
+154
+00:22:08,410 --> 00:22:36,759
+shirt. Oh, GTA. Drop it. All right. Cool. Unpack. Buy displays for your articles. Oh, I have to
+
+155
+00:22:36,759 --> 00:22:44,630
+actually build the displays. Oh, no. Okay. All right. All right. Wait, what's all this? Oh,
+
+156
+00:22:44,630 --> 00:22:50,890
+shit. That's where I'm storing the other shirts. Okay. Buy displays. This game actually might be
+
+157
+00:22:50,890 --> 00:22:57,609
+pretty fun. All right. Design. Manage signs. Design. Buy inventory. Displays. There it is.
+
+158
+00:22:57,609 --> 00:23:08,569
+Displays. Clothes. Shirts. Do I have the racks in the middle? How many do I have? $320. These
+
+159
+00:23:08,569 --> 00:23:19,539
+look like things that kids play on at the playground. Okay. What about... All right. We're
+
+160
+00:23:19,539 --> 00:23:31,000
+going to go with this one. Does it matter? All right. Add articles to it. Edit articles. Design.
+
+161
+00:23:31,000 --> 00:23:45,109
+All right. Edit articles. Clothes. Shirts. What am I going to have on here? Okay. I could have four
+
+162
+00:23:45,109 --> 00:23:54,059
+slots. Okay. Pack article. Remove autofill. Manage all spots. Oh, shit. Okay. I think that's all
+
+163
+00:23:54,059 --> 00:24:14,200
+right. Fill article. Where is it? Okay. If you can't... If you came into this store, you are on a
+
+164
+00:24:14,200 --> 00:24:21,160
+candid camera TV show. There's no way this is not a hidden camera show or like you're on video and
+
+165
+00:24:21,160 --> 00:24:29,700
+something crazy is going to happen around you. This is a set. Okay. So add articles. I need more
+
+166
+00:24:29,700 --> 00:24:38,730
+t-shirts. Okay. I use them all? How many did I buy? All right. Update the store window. Whatever.
+
+167
+00:24:38,730 --> 00:24:52,119
+Fuck it. Select article to showcase. But what... I don't even have these. Should I just do false
+
+168
+00:24:52,119 --> 00:25:18,569
+advertising? What am I doing? Final touches. I feel like a roller coaster tycoon shop. Over there
+
+169
+00:25:18,569 --> 00:25:26,440
+is still... I need to buy a register. Open the register. Buy a computer. Okay. Open a register.
+
+170
+00:25:26,440 --> 00:25:32,099
+Buy a register. Let's get the... How much money do I have? 1,700? All right. Let's need a little one.
+
+171
+00:25:32,099 --> 00:25:55,190
+I'll rotate. There it is. It'd be right here. This store is so small. Where do I put this? Okay. Do
+
+172
+00:25:55,190 --> 00:26:06,380
+I have to sit behind there or do I have to hire somebody? Open the register. Open for customers.
+
+173
+00:26:06,380 --> 00:26:23,670
+Close register. Design. Wait. I can design the register? Oh no. Okay. This is kind of cool.
+
+174
+00:26:23,670 --> 00:26:33,640
+Haste? All right. Open the register. Close the queue. Buy... Wait. I need to buy a computer first
+
+175
+00:26:33,640 --> 00:26:47,349
+before I open. Okay. Buy a computer. Do I have enough money to buy a computer? Registers? Office?
+
+176
+00:26:47,349 --> 00:26:53,220
+Is this a computer or is this a monitor? Okay. Monitor. Advertise to increase reputation.
+
+177
+00:26:53,220 --> 00:27:07,579
+Oh shit. All right. This is going in here. Now over here. Do I have to do anything with this? Use.
+
+178
+00:27:07,579 --> 00:27:11,779
+You can't do that today. Why can't I use the computer? All right. Let's open for business.
+
+179
+00:27:12,329 --> 00:27:36,759
+How much do these even sell for? I have no idea what these even sell for. Here we go. Open. Welcome
+
+180
+00:27:36,759 --> 00:28:00,950
+cousin? Oh, my name is cousin. Right. Whatever. Might as well pull the fire alarm. Where are the
+
+181
+00:28:00,950 --> 00:28:29,130
+customers? The perfect insurance fraud scam. It's pre-opening. Starts end the day? End the day. How
+
+182
+00:28:29,130 --> 00:28:52,490
+do I end the day? Just leave? Computer? Manage staff. Manage articles. Manage signs. How do I
+
+183
+00:28:52,490 --> 00:29:03,339
+just end the day? Leave store? Go to the office. Wait. No. Didn't I go to business school? Close
+
+184
+00:29:03,339 --> 00:29:12,890
+the register. I think I did already, didn't I? That it? Go to office? My office is in here.
+
+185
+00:29:12,890 --> 00:29:22,619
+This is going to just teleport me in there? Daily payment? No, I didn't even make any money. Why
+
+186
+00:29:22,619 --> 00:29:30,390
+do I have to pay rent? Can I just work here? When your store closes, this is where you go to finish
+
+187
+00:29:30,390 --> 00:29:34,549
+up the day and go to prepare for the next in here. You have all the time in the world to do what needs
+
+188
+00:29:34,549 --> 00:29:44,259
+to be done before opening tomorrow. To interact with any of these objects, go to press E. Walk away,
+
+189
+00:29:44,259 --> 00:29:49,579
+press escape. All right. Let's take a look at what you can do. This is the catalog designer. This is
+
+190
+00:29:49,579 --> 00:29:53,339
+where you can design various advertisements to be put in magazines that are read all over the city.
+
+191
+00:29:53,339 --> 00:29:58,119
+Okay, that sounds fun. These can give a boost to your reputation, increase the needs of the
+
+192
+00:29:58,119 --> 00:30:01,559
+customers, as well as temporarily increase the number of people passing by your store.
+
+193
+00:30:01,559 --> 00:30:12,339
+I think it's exactly, yeah, yeah, yeah, yeah. Whoa. Expanding and rebuilding the store.
+
+194
+00:30:12,339 --> 00:30:18,039
+You can manage the layout of your store and if you own it, also expand the store itself. Green tiles
+
+195
+00:30:18,039 --> 00:30:26,230
+are your sales space. Yellow are your storage. Blue are your staff rooms. Oh, shit. You can add
+
+196
+00:30:26,230 --> 00:30:30,470
+free standing walls and edit the size and shape of your rooms. When changing the rooms, remember
+
+197
+00:30:30,470 --> 00:30:34,819
+to make sure that there's a door leading to the main area. This is way more detailed than I thought
+
+198
+00:30:34,819 --> 00:30:40,789
+it was going to be. Holy shit. Game auto saves each time you enter or leave the office, so don't worry.
+
+199
+00:30:40,789 --> 00:30:46,779
+But if you have changes you want to keep, you can also save and quit the game from here. Oh my god.
+
+200
+00:30:46,779 --> 00:30:53,220
+Today's results. You can see this game actually could be really, really, really good. Really good.
+
+201
+00:30:53,220 --> 00:30:58,539
+We're going to find out. You can also see statistics on your sales performance. Green represents
+
+202
+00:30:58,539 --> 00:31:04,200
+income and red is expenditures. All right. So yeah, but I had to put some inventory in the store.
+
+203
+00:31:04,200 --> 00:31:15,529
+Here's the schedule for your employees. You can assign working hours, lunch breaks, tasks, and days
+
+204
+00:31:15,529 --> 00:31:25,700
+off on a weekly basis. Is everybody only working on Thursday? We all come in on Thursday and then
+
+205
+00:31:25,700 --> 00:31:35,799
+no one is in the store for five or six straight days. To change a schedule, move the mouse to an
+
+206
+00:31:35,799 --> 00:31:41,339
+hour. Click and hold the left mouse button and then move the mouse to a different hour and release
+
+207
+00:31:41,339 --> 00:31:47,430
+the button. Add a lunch break design. Click the right mouse button on the desired hour. Oh my god.
+
+208
+00:31:47,430 --> 00:31:52,759
+This is going to be so much fun. Courses and talents. At this board, you can view and manage
+
+209
+00:31:52,759 --> 00:31:58,779
+your staff individually. That guy's name is Jerma. Other than viewing their personal information,
+
+210
+00:31:58,779 --> 00:32:01,980
+you can see their talents and send them on courses as well as promoting and doing wage
+
+211
+00:32:01,980 --> 00:32:14,019
+renegotiations. This is your personal computer. Here you can do various things. Okay. As well
+
+212
+00:32:14,019 --> 00:32:18,180
+as ordering articles, you can see various stats regarding sales and customers. Use this to analyze
+
+213
+00:32:18,180 --> 00:32:23,740
+your store and prepare for the next day. If you're in a pinch, you can also apply for a loan to get
+
+214
+00:32:23,740 --> 00:32:29,420
+extra money immediately. They have to be paid back with interest, right? This is your application
+
+215
+00:32:29,420 --> 00:32:33,880
+inbox. It contains letters from the various persons who want to work at the store. Each
+
+216
+00:32:33,880 --> 00:32:38,630
+application contains hints about the skill and experience of the person behind. If a person
+
+217
+00:32:38,630 --> 00:32:43,049
+sounds interesting, you can start the interview process from here. Will you learn more about the
+
+218
+00:32:43,049 --> 00:32:50,809
+person and negotiate a wage? What? What is all this? This is too- this is insane. This is the
+
+219
+00:32:50,809 --> 00:32:57,000
+negotiation table. This is the table where you conduct your interviews. When an interview has
+
+220
+00:32:57,000 --> 00:33:02,259
+ended in an agreement, the contract itself lies on the table for you to sign. You can then hire
+
+221
+00:33:02,259 --> 00:33:09,859
+the person, discard the contract, or simply let it be until you are ready to decide. Here's- here you
+
+222
+00:33:09,859 --> 00:33:15,960
+can set the operating hours of the store. Simply click the arrows to increase the desired times.
+
+223
+00:33:15,960 --> 00:33:22,519
+Wait, can I have a 24-hour store? Oh. City regulations allow stores to have- to be open from
+
+224
+00:33:22,519 --> 00:33:29,220
+2 to- oh shit, it's uh- it's military. This always fucks me up. I have to count backwards. I don't
+
+225
+00:33:29,220 --> 00:33:35,140
+know what that- I don't know what time that is. Is that 11 o'clock? PM? No, that's 10 o'clock.
+
+226
+00:33:35,140 --> 00:33:41,349
+That's 10- is it 10? That's 10 PM, right? I don't use military time. I don't- whatever. I have- can
+
+227
+00:33:41,349 --> 00:33:46,660
+I change that? Subtract 12. I don't- I don't- I don't- it's- it's hard to look at. I know it's like
+
+228
+00:33:46,660 --> 00:33:53,670
+so- it should be so simple. We shouldn't- we should always- it's- why do we start over at 12, right? I
+
+229
+00:33:53,670 --> 00:34:01,450
+know. It should just be 24 hours in a day, so it's 24. I get it. I know. Trust me. It gets hard.
+
+230
+00:34:01,450 --> 00:34:09,880
+All right, so that we can uh- when the store is open, that's cool. As a manager, you always meet
+
+231
+00:34:09,880 --> 00:34:19,480
+in one hour before the store opens and leave one hour after it closes. Oh, what? I'm like 20 minutes
+
+232
+00:34:19,480 --> 00:34:26,519
+late to my own streams. I'm gonna come in an hour early? I'm gonna- I don't think I'm gonna be able
+
+233
+00:34:26,519 --> 00:34:32,409
+to do that. An hour early. If you can- if you change the hours to also check your staff schedule,
+
+234
+00:34:32,409 --> 00:34:47,380
+this will automatically update. Okay, cool. On Friday, there's sightseeing for pins? What does
+
+235
+00:34:47,380 --> 00:35:02,309
+that say? A picnic? A pins? What does that say? Pensic? What's pensic? Okay, so this is if people
+
+236
+00:35:02,309 --> 00:35:04,789
+are gonna be in the area, they're gonna be sightseeing, they're gonna want binoculars,
+
+237
+00:35:04,789 --> 00:35:10,820
+they're gonna want uh- uh- cockies, right? They're gonna want cargo shorts. I get it.
+
+238
+00:35:10,820 --> 00:35:30,219
+Okay, here we go. I'm kind of overwhelmed, but I'm really into this. I only have $1,100. This- I- I-
+
+239
+00:35:30,219 --> 00:35:43,030
+oh, I'm- wait, I'm- I have a bird's eye view of the store? Shit, okay. I only have $1,139
+
+240
+00:35:43,030 --> 00:35:48,630
+to run- I have to run a whole store like this? All right. Advertising. Let's- no, no, no, no, no.
+
+241
+00:35:48,630 --> 00:35:52,309
+Fuck that. I have like a bunch of shitty shirts. I have to go in there and fix that.
+
+242
+00:35:52,949 --> 00:36:02,579
+What's the schedule look like? Where's the schedule? No, there's nothing on there. Where's
+
+243
+00:36:02,579 --> 00:36:09,880
+that schedule? You have no staff? What? I thought I just had like 10 employees. Where's- where's
+
+244
+00:36:09,880 --> 00:36:18,840
+where's Jermarcus? I don't have any staff? Oh, that was just a lie. All right, do I sleep on the couch?
+
+245
+00:36:18,840 --> 00:36:28,039
+All right, I'm ready. What's today? Okay, so on Friday, there's a sightseeing for a pensic.
+
+246
+00:36:28,039 --> 00:36:34,489
+A tourist group of 20 people are visiting your area from the pensioner segment. All right, we
+
+247
+00:36:34,489 --> 00:36:48,440
+get- by Friday, we get to load a bunch of pensioner stuff in here. Let's go. I made $1? Guys,
+
+248
+00:36:48,440 --> 00:37:00,179
+I found that on the ground on the walk to the store. All right, this is not- okay, let's go,
+
+249
+00:37:00,179 --> 00:37:03,480
+let's go, let's go. All right, no more of this meme shit. I want to actually have a business,
+
+250
+00:37:03,480 --> 00:37:13,690
+you know what I mean? Do I have $1,100? The pensioners like this? Let me see. Edit articles.
+
+251
+00:37:13,690 --> 00:37:26,809
+What- clothing. All right, what do I got? Shirts. How can I tell? How can I tell? Design the
+
+252
+00:37:26,809 --> 00:37:35,190
+inventory? Design the interior? Holy shit, hold on. Oh, should I just have like- should it be a reptile
+
+253
+00:37:35,190 --> 00:37:41,579
+store? Oh, the store's not open. I gotta open the store right now. Hurry, hurry, hurry. Come
+
+254
+00:37:41,579 --> 00:37:51,690
+on, come on, come on. Open store. Open store. Open the store. Open. Come on in. Buy a t-shirt.
+
+255
+00:37:51,690 --> 00:38:09,099
+Hey, hey, hey, hey. A grand opening of Bill's Outfits. I would literally anyone go to this
+
+256
+00:38:09,099 --> 00:38:25,269
+store. I need to make money somehow. What about the computer? Who am I talking to somebody?
+
+257
+00:38:25,269 --> 00:38:33,449
+Student? Pensioner. What's this? Am I like making a Reddit thread? What am I doing?
+
+258
+00:38:33,449 --> 00:38:43,190
+Oh, fuck. Somebody's in here. I gotta get off Reddit. Come on in. Anything you like? Hi. Spare
+
+259
+00:38:43,190 --> 00:38:51,909
+two seconds. What? This is a celebrity. I'm thinking of buying this, but I'm not quite sure.
+
+260
+00:38:51,909 --> 00:38:59,059
+Begin sale. All right, fuck. Why do I have to do this? Improve customer happiness.
+
+261
+00:38:59,059 --> 00:39:12,619
+Is this guy peeing? Oh, I thought he was peeing. This is perfect for you. And it's, um, a success
+
+262
+00:39:12,619 --> 00:39:27,690
+rate. Um, and let's- and tell me more? What- just fucking buy the shirt. What are you talking about?
+
+263
+00:39:27,769 --> 00:39:44,980
+Buy it. Keep- keep this between us. Finish the sale. Buy it. What the fuck was that? What do you
+
+264
+00:39:44,980 --> 00:39:57,340
+want? Nice. All right. Good, good, good. What was that all about? Oh shit. I'm actually making money.
+
+265
+00:39:57,340 --> 00:40:12,980
+What? Are they confused? Why are you confused? Are these people not aware they're going?
+
+266
+00:40:12,980 --> 00:40:30,230
+Come on in. There's six t-shirts left. How many of you are out there? What? Come on. What do you
+
+267
+00:40:30,230 --> 00:40:38,329
+mean they can't path? Why? I need more inventory. I- all right. I get more inventory. Just wait.
+
+268
+00:40:38,329 --> 00:40:48,199
+What time is it? All right. It's 11 for- it's- it's almost noon. Come on in. I haven't seen this
+
+269
+00:40:48,199 --> 00:40:55,079
+store before. What do you sell? Shirts. We have a wide selection of shirts. I have no interest in
+
+270
+00:40:55,079 --> 00:41:10,039
+that at the moment. Can I interest you in a shirt? Sounds interesting. All right. Go buy one. Thanks.
+
+271
+00:41:10,039 --> 00:41:20,340
+You're welcome. You want me to buy something? Yep. Just wipe out all my stupid shitty meme
+
+272
+00:41:20,340 --> 00:41:37,139
+inventory so I can actually play the game. They're stealing? No they're not. There's five shirts left.
+
+273
+00:41:37,139 --> 00:41:43,539
+Hey, can I help you? We sell shirts here. I don't know if I like shirts.
+
+274
+00:41:43,539 --> 00:41:50,460
+Do you like shirts? I don't like shirts. Let me- let me tell you something. We got- you remember
+
+275
+00:41:50,460 --> 00:41:56,599
+the arrow to the knee joke? We got that here. There's only a few of them left. And let me also
+
+276
+00:41:56,599 --> 00:42:05,480
+tell you that we've also got a improved conversation rate. I- what does this even mean?
+
+277
+00:42:06,280 --> 00:42:28,340
+It's very interesting. Yes it is. Didn't want it. Can I buy mo- I gotta buy- okay. Inventory. Um,
+
+278
+00:42:28,340 --> 00:42:39,190
+how about- can I sell cash registers? Would I do that? That'd be kind of cool.
+
+279
+00:42:43,000 --> 00:42:53,340
+Manage signs. No, I can only buy shirts. Shirts, okay. Inventory. Oh, I need to buy- wait, wait,
+
+280
+00:42:53,340 --> 00:43:02,010
+it's- it's- it's manager articles. Okay, there it is. Order articles. I can only- can buy shirts.
+
+281
+00:43:07,880 --> 00:43:13,449
+Okay, I have too many of these. Oh, fuck. Hold on. Hey, can you help me? Just a minute. Hold on.
+
+282
+00:43:13,449 --> 00:43:19,139
+Congratulations. You met the terms of our agreement and we're very pleased with your
+
+283
+00:43:19,139 --> 00:43:23,059
+reference. We thank you for the cooperation and a job well done. See you in the future.
+
+284
+00:43:23,139 --> 00:43:41,800
+On the board of directors. What? I only had to work for one day? You sold three shirts. That was
+
+285
+00:43:41,800 --> 00:43:50,789
+just a drug front. They just hired me to pretend to sell stuff while they did drug deals in the
+
+286
+00:43:50,789 --> 00:43:59,159
+back for like a week. And then I'm the guy that- I'm the fall guy. I'm the one that- I'm the one
+
+287
+00:43:59,159 --> 00:44:07,559
+that's gonna go to jail. On a budget. Okay, what are we looking for here? Selling shirts and shoes.
+
+288
+00:44:07,559 --> 00:44:17,670
+Achieve a turnover of at least $1,600. Okay. What about the other one? Is there more than one?
+
+289
+00:44:18,230 --> 00:44:25,420
+No, it's just this one. All right. I have to build a solid financial foundation.
+
+290
+00:44:26,059 --> 00:44:39,849
+Okay, let's go. We need to sell shirts and shoes. Total sales is currently at zero. I need to sell
+
+291
+00:44:39,849 --> 00:44:48,840
+$1,600 worth of merchandise. Okay. Oh shit, this is already here. That's literally the red shelf
+
+292
+00:44:48,840 --> 00:44:53,739
+right there. That's the exact thing that I have. All right, so thankfully all this stuff's already
+
+293
+00:44:53,739 --> 00:45:02,329
+here. We got a computer. We got delivery units. The shirt's already in here. There are shirts
+
+294
+00:45:02,329 --> 00:45:18,579
+already in here. So let me put these. Cool. All right, let's make a display. Edit articles here.
+
+295
+00:45:18,579 --> 00:45:35,349
+Clothes. Shoes. Let's put flip-flops over here. Flip-flops. One, two. Yeah, put them everywhere.
+
+296
+00:45:35,349 --> 00:45:48,619
+Okay, add them. Okay, there's flip-flops. Um, how can I- why can I manage spots? Where's-
+
+297
+00:45:48,619 --> 00:46:11,159
+this is spot one? How come I can't put any on the other side? Remove that. Okay. Shoes. Oh, well,
+
+298
+00:46:11,159 --> 00:46:23,820
+the sneaker's on this side. All right, that looks good. Fill it up. Wouldn't that be- this is, uh,
+
+299
+00:46:23,820 --> 00:46:39,769
+one, right? What the hell? Fill. Add the articles. Why is it not doing it? You only sell one shoe at
+
+300
+00:46:39,769 --> 00:46:55,750
+a time. Because aren't these on two already? This business is doomed. I- remove articles. Okay,
+
+301
+00:46:55,750 --> 00:47:08,699
+take them off. What am I doing wrong? Okay, that's what I want in the spots. Made it- yeah,
+
+302
+00:47:08,699 --> 00:47:18,380
+that's what I want. So fill it up. Okay, what the fuck is that? All right, good. What do I have for
+
+303
+00:47:18,380 --> 00:47:43,420
+shirts? Or two- we're gonna go over here? Yeah, this is fine. Load it all up. You need more meme
+
+304
+00:47:43,420 --> 00:47:47,179
+shirts? When I make my own business, then we'll do whatever we want. I need to get to that point
+
+305
+00:47:47,179 --> 00:47:52,389
+first. All right, what else do I have? Clothes. Shirts. Oh, I have no more shirts. Should I get
+
+306
+00:47:52,389 --> 00:47:56,730
+some more shirts? I gotta put some more shirts over here. All right, well, I'll get some meme
+
+307
+00:47:56,730 --> 00:48:15,000
+stuff. Fine. Buy delivery unit. All right, let's do it. Okay, inventory. Delivery unit. 80. That'd
+
+308
+00:48:15,000 --> 00:48:26,820
+be a Rick and Morty shirt store. I don't need to do that. Hot Topic already does that. Okay,
+
+309
+00:48:26,820 --> 00:48:35,909
+that looks good. Hot Topic is just such a Rick and Morty store. I'm surprised that the employees
+
+310
+00:48:35,909 --> 00:48:44,300
+don't do the voices. They should be dressed up in Rick and Morty costumes, doing Rick and Morty
+
+311
+00:48:44,300 --> 00:48:50,949
+accents and impressions and stuff. All right, all right, Morty. Look, I got one Rick and Morty
+
+312
+00:48:50,949 --> 00:48:59,619
+keychain, one Pickle Rick, and a Morty- and a poster from season two. Oh, have a nice day.
+
+313
+00:49:03,690 --> 00:49:08,889
+Shut up, Morty. No, I'm turning into, like, Alex Jones. Shut up, Morty. Let me start with
+
+314
+00:49:08,889 --> 00:49:21,739
+Morty. Morty, not a Morty. All right, I gotta buy something. I want to do this shit. All right,
+
+315
+00:49:21,739 --> 00:49:29,769
+hold on. Goku? Don't I already have a storage unit? I have, like, three. Why do I have to buy
+
+316
+00:49:29,769 --> 00:49:35,420
+more of these? I already have a bunch of these. Why would I need to- this- I can't even put this
+
+317
+00:49:35,420 --> 00:49:59,539
+anywhere. All right, I want to get this right. Clothes. Shirts. What's this? These anime t-shirts?
+
+318
+00:49:59,539 --> 00:50:12,809
+All right, yeah, we're gonna just do a bunch of anime t-shirts. I can't even see what that is.
+
+319
+00:50:12,809 --> 00:50:22,889
+How many- let's do five? Four of each? Five of each? How much goes on- what goes on one rack?
+
+320
+00:50:22,889 --> 00:50:45,260
+Four or five? Is it five? Air it! Okay, now give me that delivery. I'll put the anime shirts in the
+
+321
+00:50:45,260 --> 00:51:07,000
+window. You look like Captain Kirk. Perfect. You know, okay, you know those Halloween stores where
+
+322
+00:51:07,000 --> 00:51:10,519
+all the employees are dressed up in Halloween costumes and stuff? I wish that was in more stores.
+
+323
+00:51:10,519 --> 00:51:18,280
+It'd be so cool if, like, Captain Kirk was just walking around talking to you about merchandise
+
+324
+00:51:18,280 --> 00:51:33,159
+and stuff. I'd be like, holy shit, this is cool. I mean, Hot Topic. No, Hot Topic, they don't, like,
+
+325
+00:51:33,159 --> 00:51:42,739
+dress up as, like, they're getting characters or anything. That would be hell for the workers.
+
+326
+00:51:42,739 --> 00:51:47,940
+What would be whoever wanted to do that? Oh, by the way, they get paid extra. You're getting paid
+
+327
+00:51:47,940 --> 00:51:58,119
+extra to do that, too. Dude, I would want whole acting sequences to play out in my store. Imagine
+
+328
+00:51:58,119 --> 00:52:04,070
+you're at a Best Buy. You're just sitting there looking at headphones, and all of a sudden, like,
+
+329
+00:52:04,070 --> 00:52:10,090
+a- like, a pirate's- like, a pirate ship rolls in, and they're like, oh, land ho! And they're
+
+330
+00:52:10,090 --> 00:52:13,610
+looking around like, can any landlubbers point me in the direction of the televisions?
+
+331
+00:52:14,170 --> 00:52:22,019
+It'd be hilarious. It'd be like, holy shit, there's pirates here. It'd be like going to Disney.
+
+332
+00:52:22,019 --> 00:52:28,980
+And by the way, I heard that this land in particular had 40% off their Vizio TV section.
+
+333
+00:52:29,619 --> 00:52:37,619
+And, like, they grab a guy, like, throw him overboard. They make him, like, walk a plank
+
+334
+00:52:37,619 --> 00:52:42,260
+into, like, a pool. You would shop there all the time. I know you would. I would, too.
+
+335
+00:52:45,829 --> 00:52:54,119
+Where is this guy? Did he already come in? Wait, did I just completely miss the guy coming in
+
+336
+00:52:54,119 --> 00:53:05,769
+and delivering? Oh, shit, he- I did. I was not even paying any attention. That's just a renaissance
+
+337
+00:53:06,329 --> 00:53:19,300
+fair. It kind of is. Who would want to walk the plank? I don't know, I- if you have, like,
+
+338
+00:53:19,300 --> 00:53:34,139
+a circus background or something, I don't know. Okay, there's one more rack. I need one more.
+
+339
+00:53:34,139 --> 00:53:47,699
+Nah, whatever, who fucking cares. It would cause customers to cringe away in fear of being seen
+
+340
+00:53:47,699 --> 00:53:58,280
+in that store. I don't think so. No, it wouldn't. I would- you would think it was, like, I would
+
+341
+00:53:58,280 --> 00:54:06,730
+think it- wouldn't you think it was funny? Buy displays for your articles. Okay. I need to-
+
+342
+00:54:06,730 --> 00:54:26,550
+Buy displays. This? Buy displays for your articles. Floor sign? Ceiling sign. God. Um,
+
+343
+00:54:27,480 --> 00:54:54,179
+is it lit? No. That's way too much money. Where is it? You can't even see that. Sorry,
+
+344
+00:54:54,179 --> 00:55:03,369
+to the naked eye if you walk to the store, that's like, like, a bug trap. That's not a display.
+
+345
+00:55:03,369 --> 00:55:21,139
+Buy displays for your articles? Wait, I already have them. Oh, what the hell? You already- they're
+
+346
+00:55:21,139 --> 00:55:31,400
+already in here. What? I just got virus detected? What the fuck are you talking about? All right.
+
+347
+00:55:31,400 --> 00:55:43,610
+Um, what's the cheapest one I can do just to get this off? Okay, there we go. Well, I gotta
+
+348
+00:55:43,610 --> 00:55:51,659
+buy more shit now, right? I gotta buy more clothes. All right, let's buy- I need five.
+
+349
+00:55:51,659 --> 00:56:04,340
+How many can fit on here? I can do 10. So I need 15 shirts. What should it be? Let's see. Manage
+
+350
+00:56:04,340 --> 00:56:19,480
+articles. 15 shirts. Uh, I'm gonna complete the anime rack. Wait, sweaters? What about just like
+
+351
+00:56:19,480 --> 00:56:33,880
+a button-up shirt? Lock guy? Um, sure. Why not? Okay, what else? And I'll just have like a whole
+
+352
+00:56:33,880 --> 00:56:45,610
+rack of just- these- these just button-ups. Oh, these are kind of cool. No, no, all right,
+
+353
+00:56:45,610 --> 00:56:56,309
+here we go. Sportswear. It's gonna be a sportswear. Here we go. This is a lot of money, but I'm doing
+
+354
+00:56:56,309 --> 00:57:06,699
+it. All right, update your store windows with, uh, what do I want to showcase here? I think you
+
+355
+00:57:06,699 --> 00:57:19,750
+subpar umpire for the 10 community subs. Appreciate it. Why can I put stuff in the windows that I don't
+
+356
+00:57:19,750 --> 00:57:33,480
+actually have? Well, I have a lot of these. You can lie, but yeah, why would I want to lie to my
+
+357
+00:57:33,480 --> 00:57:42,860
+customers? All right, I'm also gonna have a bunch of the sports shit. So I'm gonna have- I'm gonna
+
+358
+00:57:42,860 --> 00:57:53,340
+put sportswear in the window. Where is it? It's right here, right? Where is it? Sportswear.
+
+359
+00:57:54,059 --> 00:58:10,949
+Yeah, all right. Yeah, I got these. This is giving me actual retail PTSD. I hated doing this at my
+
+360
+00:58:10,949 --> 00:58:22,920
+store when I worked there. Oh, sure. Oh, I'm sorry. Okay, clickbait window Andy. No, I'm not-
+
+361
+00:58:22,920 --> 00:58:29,590
+How is this clickbait? I actually own this stuff. Where are my shirts? Oh, I have to unpack.
+
+362
+00:58:29,590 --> 00:58:51,340
+That should be a sprint. Remember, the back room looks like it's an Invader Zoom.
+
+363
+00:58:57,099 --> 00:58:58,780
+I like tacos and pancakes.
+
+364
+00:59:17,900 --> 00:59:22,460
+Wow, do you hate that show too? What, do you hate that show too, guys? You all hate that show?
+
+365
+00:59:22,460 --> 00:59:46,360
+Everybody hate that show too? That was a terrible impression. I don't have the robot filter on.
+
+366
+00:59:46,360 --> 00:59:59,739
+That's what he said, and Gurr talked about how he liked like tacos. That all I can fit. Oh shit.
+
+367
+00:59:59,739 --> 01:00:08,360
+Well, I'll fill it back up later. Everybody hates Invader Zoom. No, they don't. I thought
+
+368
+01:00:08,360 --> 01:00:12,570
+the show was pretty good. All right, I'm ready to open store. Let's go. Can I do anything with
+
+369
+01:00:12,570 --> 01:00:20,619
+that sign? I already did all this shit. I don't know. I'm not gonna buy the stuff that's already
+
+370
+01:00:20,619 --> 01:00:52,280
+here. No, no, I'm not gonna do that. Let's go. Where are all the customers? This is day zero.
+
+371
+01:00:52,280 --> 01:01:05,769
+Oh, okay. Well, I'm running out of money. All right, let me just- Let's go. Let me make some
+
+372
+01:01:05,769 --> 01:01:36,309
+money. I need to make 1600 bucks. The dollar that I found on the ground. Perfect. Store is open.
+
+373
+01:01:36,309 --> 01:02:14,440
+Here they come. Do I have a staff? I don't have that much money. Actually open the store.
+
+374
+01:02:14,440 --> 01:02:22,630
+It's not open. Yes, it is. It's open for customers. The shop is not open. What?
+
+375
+01:02:22,630 --> 01:02:32,280
+Door is opened. Wait, I had to physically go and open the door? God damn it. I missed out on so
+
+376
+01:02:32,280 --> 01:02:56,329
+many people. I heard Jermarcus. That's gonna be my first hire. Somebody come in here. You guys
+
+377
+01:02:56,329 --> 01:03:08,739
+take way too long walking on the road. Everybody in. I got shirts. I got shoes. Get in here. What
+
+378
+01:03:08,739 --> 01:03:22,699
+the fuck? It's open. Look. What? I haven't seen this store before. What do you sell? We sell shoes.
+
+379
+01:03:22,699 --> 01:03:30,039
+We have a wide selection of shoes. If the perfect one shows up, I might buy it. All right. You want
+
+380
+01:03:30,039 --> 01:03:43,179
+some shoes? Did I set one aside for you? Handsome success. All right. Improve the customer success
+
+381
+01:03:43,179 --> 01:03:53,659
+rate. What the fuck does any of this even mean? Tell me more. Come buy it. Thanks. You're welcome.
+
+382
+01:03:53,659 --> 01:04:04,219
+All right. Come on in. Did you catch the game last night? What grade are you in school? Do you
+
+383
+01:04:04,219 --> 01:04:09,980
+have the lasagna? It's my favorite. I love that guy. I love that. I love that infomercial so much.
+
+384
+01:04:10,539 --> 01:04:27,590
+Like one of my favorite things ever. 70 bucks. That's a lot. 49. All right. Come on. Need help
+
+385
+01:04:27,590 --> 01:04:40,920
+over there? Wait, wait, wait, wait, wait. Don't, don't, don't leave. Don't leave. Don't leave.
+
+386
+01:04:40,920 --> 01:04:49,639
+Okay. 104 bucks. Holy shit. Nice. Come on in. Looking for shoes. I got sandals and I got
+
+387
+01:04:49,639 --> 01:05:01,269
+sneakers. Which one? Need help? Nope. You're good. Oh, God damn it. All right. Hold on. Does
+
+388
+01:05:01,269 --> 01:05:08,150
+this guy want to buy something? They're shirts and shoes. I'm thinking of buying this, but I'm not
+
+389
+01:05:08,150 --> 01:05:23,500
+sure. Okay. It's very popular. It's very popular. You should get it. Holy fuck. You were just not
+
+390
+01:05:23,500 --> 01:05:29,769
+pleasable. Not sure what to look for. What do you recommend? Click on an article. Um, what do I have
+
+391
+01:05:29,769 --> 01:05:35,800
+the most? Oh, the most expensive one. That's perfect. Good. Fuck. Hold on. Hold that thought.
+
+392
+01:05:43,110 --> 01:06:16,889
+Okay. I need Steph. He's so scary. Do you want to come in? Looking for shoes. Yep. I got them here.
+
+393
+01:06:21,050 --> 01:06:26,969
+Oh, and for the Pickle Rick shirt, I would highly recommend it. And you're going to go for a pair
+
+394
+01:06:26,969 --> 01:06:45,860
+of shoes too. Yep. Red sneakers. You got it. Get them both. Get them both. That was a lot. That's
+
+395
+01:06:45,860 --> 01:07:07,960
+like a hundred bucks. Stand and face the ball until a customer comes in. Okay. Is it weird that like,
+
+396
+01:07:07,960 --> 01:07:12,599
+if I ever ran a business like this, I would like, you would get a bonus if you did this.
+
+397
+01:07:12,599 --> 01:07:19,079
+And if it, like, I would give you 50, I would add 50 to a hundred dollars onto your wage,
+
+398
+01:07:19,079 --> 01:07:23,079
+like for this day. If you, if you did that for like half an hour or something, like it'd be funny.
+
+399
+01:07:31,769 --> 01:07:35,849
+And then when somebody's like, excuse me, you go, you turn like screaming, like you're like,
+
+400
+01:07:35,849 --> 01:07:55,349
+like they startled you. Can I help you? I'm making actually a pretty good amount of money.
+
+401
+01:07:55,349 --> 01:08:15,849
+And I would like come down as like the boss and be like, what's going on in here? We'd be like,
+
+402
+01:08:15,849 --> 01:08:24,260
+we do it like a big play. Like eventually like a slime would drop on me and everyone would like
+
+403
+01:08:24,260 --> 01:08:43,659
+cheer. Like the, like the, the, the, the annoying boss got like fucking slimed. Oh shit. I need more
+
+404
+01:08:43,659 --> 01:08:52,199
+shoes. They're really popular. Okay. Wait, wait, wait, wait, wait, wait. You better pay them well
+
+405
+01:08:52,199 --> 01:09:06,810
+to put up with all that. Oh, absolutely. Absolutely. Give you back to streaming in a week.
+
+406
+01:09:10,489 --> 01:09:15,590
+Oh, I need to buy stuff. I need to buy more shoes. I need to buy expensive shoes.
+
+407
+01:09:19,180 --> 01:09:29,850
+Eilish. Here we go. What do we go? What's expensive? 41, 48. That's it. I'm like really
+
+408
+01:09:29,850 --> 01:09:50,840
+expensive shoes. Really expensive. We're going to get like just a bunch of loafers. Hello. Delivery
+
+409
+01:09:50,840 --> 01:10:18,329
+$45. What the fuck? What time is it? And get two shirts. 27 bucks. What? It's kind of expensive.
+
+410
+01:10:21,050 --> 01:10:32,180
+I'm loading up the shoes. Hold on. The store is closed. Somebody's still in here. Door's closed.
+
+411
+01:10:32,180 --> 01:10:46,170
+Unpack this inventory. Let's go. On the office, office computer, you can adjust the markup.
+
+412
+01:10:46,170 --> 01:10:55,420
+Really? Okay. I can put more sportswear out there. Nobody's buying the sportswear. I need to,
+
+413
+01:10:55,420 --> 01:11:03,619
+okay. I need like a sign or something. Yeah. I need, I got to, I got to advertise or something.
+
+414
+01:11:03,619 --> 01:11:26,010
+Manage signs. Sign on the wall. Huge. Behind this. Say like, here's the sportswear. What the
+
+415
+01:11:26,010 --> 01:11:37,109
+fuck just happened? Did I pass out? I blacked out. Okay. That actually scared the shit. I thought
+
+416
+01:11:37,109 --> 01:11:41,829
+something was wrong with my computer. I thought I was about to get a weird message or something.
+
+417
+01:11:41,829 --> 01:11:50,119
+I actually had a small internal panic for a second. I was like, what the fuck is going on?
+
+418
+01:11:50,119 --> 01:11:56,760
+I got to tell you guys about a dream I had. I don't, I need some dream detectives to tell
+
+419
+01:11:56,760 --> 01:12:07,779
+me what the hell's wrong with me. You want me to do it now? I do it now? Because I actually need
+
+420
+01:12:07,779 --> 01:12:14,659
+to know why this happened. All right. Lay it on me. Here we go. Okay. So I had a dream that I was
+
+421
+01:12:14,659 --> 01:12:21,899
+driving around with some friends in a car and we'd been coming back from a store and I was
+
+422
+01:12:21,899 --> 01:12:27,850
+driving, I think one of my friends home. By the way, it was not in my car. I was in an old,
+
+423
+01:12:28,489 --> 01:12:35,260
+like kind of beat up old fashioned car. It wasn't even mine. So get near this person's neighborhood.
+
+424
+01:12:35,260 --> 01:12:40,250
+Okay. Yeah. I know where you live. Get out here. And when I turned the corner to go into the street,
+
+425
+01:12:40,250 --> 01:12:46,279
+I noticed something very bizarre. It's a small street. It was like a little cul-de-sac. There
+
+426
+01:12:46,279 --> 01:12:54,180
+were maybe 15 houses, maybe 15 houses total on this road. And all in every yard, just walking
+
+427
+01:12:54,180 --> 01:13:00,579
+around aimlessly lying down, like just bathing in the sun and shit, are tigers and lions.
+
+428
+01:13:00,579 --> 01:13:06,569
+They're everywhere. Some of them have like blood all over their mouths. Some of them are like kind
+
+429
+01:13:06,569 --> 01:13:11,689
+of running around. It had to have been like 20 to 30 tigers and lions, at least. It was like,
+
+430
+01:13:11,689 --> 01:13:16,090
+what the fuck is going on in your neighborhood, dude? Why are there tigers everywhere? They're
+
+431
+01:13:16,090 --> 01:13:19,939
+everywhere. And it's like, keep the doors closed because they were like walking around. Like I'm
+
+432
+01:13:19,939 --> 01:13:24,500
+almost like if you're on a safari and it's like, holy shit, like the elephants are coming over here.
+
+433
+01:13:24,500 --> 01:13:31,640
+It was, it was weird. So I kind of freaked out and I was like, what do I do about this? I was
+
+434
+01:13:31,640 --> 01:13:35,779
+going really slow. I was going maybe like five miles per hour, maybe two miles per hour because
+
+435
+01:13:35,779 --> 01:13:40,180
+I didn't want to hit any of the cats or anything. I was just like going slow, trying to navigate
+
+436
+01:13:40,180 --> 01:13:44,119
+around. And I was like, I need to tell people about this. Like this is fucking horrible. This
+
+437
+01:13:44,119 --> 01:13:51,350
+is a neighborhood. So I'm just like, I got to do this. So I held the horn down. I was going like
+
+438
+01:13:56,890 --> 01:14:02,329
+while I slowly drove around this neighborhood, trying to, I don't know, warn everybody in the
+
+439
+01:14:02,329 --> 01:14:07,020
+neighborhood, be like a big alarm. I was like, people need to know this is horrible. And I
+
+440
+01:14:07,020 --> 01:14:12,140
+did that for maybe like a full loop around the cul-de-sac. And over on the left side,
+
+441
+01:14:12,779 --> 01:14:18,439
+one of the houses, the door opens, the front door of this person's house, just
+
+442
+01:14:19,560 --> 01:14:24,020
+and it was a lady and I couldn't really see her because she was kind of behind the door. The door
+
+443
+01:14:24,020 --> 01:14:31,609
+just kind of opened and she just screams, I'm not going to do the roar. It was like, what the fuck?
+
+444
+01:14:32,170 --> 01:14:37,989
+And like 10 lions sprint into her open door and you just hear like,
+
+445
+01:14:40,949 --> 01:14:45,270
+like crashes, plates breaking and like fucking smashes and stuff. This lady was getting
+
+446
+01:14:45,350 --> 01:14:51,079
+mauled by like 10 tigers and I'm sitting there going, oh my fucking God. Oh my God. What the
+
+447
+01:14:51,079 --> 01:14:58,539
+fuck did I do that? Did me beeping the horn cause her to like open the door? And did she even,
+
+448
+01:14:58,539 --> 01:15:04,100
+did these people know that there are tigers out here? Am I, did I kill that lady? And like I saw
+
+449
+01:15:04,100 --> 01:15:07,539
+a couple other houses like start to stir a little bit. Like you heard noises and I'm like, oh my
+
+450
+01:15:07,539 --> 01:15:12,500
+God, I'm going to kill this whole neighborhood. What did I do? I was trying to warn everybody.
+
+451
+01:15:13,079 --> 01:15:17,720
+And the whole time I'm panicking. So we got, I'm like, all right, one of the, by the way,
+
+452
+01:15:17,720 --> 01:15:22,520
+one of the tigers was like up looking at the car, like kind of running at the car, like
+
+453
+01:15:22,520 --> 01:15:27,479
+doing like that thing that cats do where they go like, and they like their faces like go like,
+
+454
+01:15:28,840 --> 01:15:33,750
+did that make any sense? Do you guys know what I'm saying? I can't do that sound. That probably
+
+455
+01:15:33,750 --> 01:15:43,180
+sounded insane. No. Okay. Let me try to do that better. It's like, I can't do it. It's a fucking
+
+456
+01:15:43,180 --> 01:15:50,619
+cat noise. I'm a human being. So, but anyways, it was like going after the door. So I just hear
+
+457
+01:15:50,619 --> 01:15:54,539
+this. I keep hearing screaming coming from this lady's house and other people. I'm thinking,
+
+458
+01:15:54,539 --> 01:15:57,260
+I just think I might have just, I think, did I kill everybody in this neighborhood
+
+459
+01:15:57,260 --> 01:16:01,579
+by warning them? Why would I hold the horn down? Like people, maybe people don't even know that
+
+460
+01:16:01,579 --> 01:16:06,659
+there's tigers here. What's wrong with me? So finally we get out of the neighborhood. Like I,
+
+461
+01:16:06,659 --> 01:16:12,180
+we can't, I got to get out of here. We got, I don't know what to do. So I go home. I go home
+
+462
+01:16:12,979 --> 01:16:18,420
+and my mother, I open the door and first of all, the weird part about this is after getting out
+
+463
+01:16:18,420 --> 01:16:25,289
+of the car, my friend had a shopping cart. Like, oh yeah, like he just had a shopping cart. Like
+
+464
+01:16:25,289 --> 01:16:32,819
+he was in the car. It was like two or three frozen food items. I don't know. So he's just pushing it
+
+465
+01:16:32,819 --> 01:16:37,659
+as a guy. That's what we just did. So we go into the house. My mother's on the phone. She's looking
+
+466
+01:16:37,659 --> 01:16:45,500
+at me. Yup. Oh, um, yup. He's here. Oh, that's not good. Oh no. Yup. He's here. And I'm sitting
+
+467
+01:16:45,500 --> 01:16:50,859
+there going, that's the cops. That's the cops. And like, I killed, I like, I killed that lady.
+
+468
+01:16:50,859 --> 01:16:54,140
+Like I was just trying to warn everybody and like now I'm not going to go to jail or something.
+
+469
+01:16:54,140 --> 01:16:57,020
+I'm going to have to go to the, I'm going to talk to like a detective. I don't know. I'm,
+
+470
+01:16:57,020 --> 01:17:03,590
+I'm fucked. And she's just staring at me. So finally she's like, okay. Yup. He's here. He's
+
+471
+01:17:03,590 --> 01:17:10,220
+here. And she hangs up the phone. I'm like, uh, like who's, uh, who's that ma? She goes,
+
+472
+01:17:10,220 --> 01:17:23,029
+oh, that was your sister. She's at the bank. And then I woke up. I have no idea what that meant.
+
+473
+01:17:23,029 --> 01:17:32,020
+I have absolutely no idea. But let me tell you something. When I like seeing the tigers with the
+
+474
+01:17:32,020 --> 01:17:37,800
+blood all over their mouths, like they would, they had been feeding. I don't even, I don't even know
+
+475
+01:17:37,800 --> 01:17:42,359
+on what, maybe on other animals on each other. That was probably 20 to 30 tigers in this little
+
+476
+01:17:42,359 --> 01:17:53,460
+neighborhood. I'm not going to do the roar. Like what is that supposed to mean? It's fucking crazy.
+
+477
+01:17:59,979 --> 01:18:13,300
+Do the roar. Yeah. I have one thing that I always wanted to do and maybe I'll like,
+
+478
+01:18:13,300 --> 01:18:18,859
+I have to have more crazy dreams though, but at some point I think it'd be really funny
+
+479
+01:18:18,859 --> 01:18:26,869
+to do a stream where I hire a handful, like a handful of animators and they just animate
+
+480
+01:18:27,430 --> 01:18:34,310
+not just my dreams, but other people's dreams in the community. Do you know how many insane
+
+481
+01:18:34,310 --> 01:18:37,350
+things we've heard people say, oh yeah, I had this dream dude that like, you know, you were a
+
+482
+01:18:37,350 --> 01:18:40,710
+fucking magician and you teleported to three different planets and then you like, uh,
+
+483
+01:18:40,710 --> 01:18:46,470
+captured me. Like we've heard some really wacky shit before and like I have wacky dreams too.
+
+484
+01:18:46,470 --> 01:18:52,439
+It'd be kind of fun to have like a fully animated, like here's like the 10 insane dreams that I had
+
+485
+01:18:52,439 --> 01:19:04,090
+and then some from the community. I don't know. Do the roar. You should have seen it though.
+
+486
+01:19:04,090 --> 01:19:08,170
+You should have seen it. The second the door opened and she screamed, it just every, all the
+
+487
+01:19:08,170 --> 01:19:13,130
+cats went just heads tilted, like at least seven or eight of them that were in her lawn.
+
+488
+01:19:13,130 --> 01:19:18,069
+And it was just immediate just sprint, sprint, sprint, sprint, sprint into her door. And just,
+
+489
+01:19:18,069 --> 01:19:21,909
+it was just carnage. You heard some of the most awful sounds I've ever heard in my entire life,
+
+490
+01:19:21,909 --> 01:19:38,810
+ever. But anyways, didn't I have a dream before about a tiger mauling a guy and he's like,
+
+491
+01:19:38,810 --> 01:19:43,340
+oh, hold on, I got to get my cigarettes. Right? I told you about that one. What's with the tigers?
+
+492
+01:19:43,340 --> 01:19:49,539
+Why do I keep seeing tigers and lions? That's at least the second or third time in the last year
+
+493
+01:19:49,539 --> 01:20:06,489
+that a tiger has mauled somebody in one of my dreams. What does that mean? It means you're a
+
+494
+01:20:06,489 --> 01:20:14,359
+furry. Well, if I was a furry, wouldn't I be one of the tigers? Like, wouldn't I have the POV of
+
+495
+01:20:14,359 --> 01:20:30,409
+watching the people in the car drive around the neighborhood while I'm just baking in the sun?
+
+496
+01:20:30,409 --> 01:20:49,000
+Whoa. All right. Well, how do I, I need a staff. Where do I get a staff? Wait, somebody has it?
+
+497
+01:20:51,770 --> 01:20:56,409
+Somebody have the actual, wait, wait, wait. See one of the big cats in your dream represents
+
+498
+01:20:56,970 --> 01:21:02,569
+the feminine aspect of which you have neglected or overlooked. You may also be looking for
+
+499
+01:21:02,569 --> 01:21:08,420
+excitement in your social sphere or in your life. The dream of a large pride of mixed cats
+
+500
+01:21:08,420 --> 01:21:14,500
+symbolizes that you have not allowed your true self to shine through. I feel like that's not real.
+
+501
+01:21:17,539 --> 01:21:24,260
+No, but hold on a minute. This is where it's different. It's not just me seeing a bunch of
+
+502
+01:21:24,260 --> 01:21:29,659
+tigers. It's the fact that they were like terrorizing a neighborhood. Does that change
+
+503
+01:21:29,659 --> 01:21:37,739
+things? I didn't just drive by and see a tiger. These tigers were literally mauling people.
+
+504
+01:21:37,739 --> 01:21:42,920
+There's a ton of them. All right. I just freaked out for a second. I looked over at the preview
+
+505
+01:21:42,920 --> 01:21:49,239
+on OBS. I thought this was my desktop. I was like, what the fuck happened? What's this one say?
+
+506
+01:21:49,800 --> 01:21:55,130
+The dream meaning of a ferocious tiger means you don't act according to your expectations.
+
+507
+01:21:55,689 --> 01:21:59,130
+Some people who live around you might be afraid of the way you work with them
+
+508
+01:21:59,130 --> 01:22:03,210
+and you hurt their feelings. Be more careful with your actions. The way you talk to others,
+
+509
+01:22:03,210 --> 01:22:09,689
+be careful not to act on impulse. That's what the fuck are you talking about? That's not even,
+
+510
+01:22:09,689 --> 01:22:15,720
+give me another one. Your ego is telling you that you're hurting the people around you, but your
+
+511
+01:22:15,720 --> 01:22:22,359
+ID is telling you to stop seeing patterns where there are none. That sentence doesn't make any
+
+512
+01:22:22,359 --> 01:22:37,380
+sense. The tiger in dream is an embodiment of freedom, power, intuitive understanding, strength,
+
+513
+01:22:37,380 --> 01:22:42,500
+courage, optimism, free spirit, and protection. This mighty animal also reflects your subtle
+
+514
+01:22:42,500 --> 01:22:49,289
+emotions and feeling of being restrained. Okay, but this person says, I actually study psychology.
+
+515
+01:22:49,289 --> 01:22:54,010
+Tigers attacking others in dreams normally means that you have many obstacles going on right now
+
+516
+01:22:54,010 --> 01:23:08,899
+and aren't fully paying attention to them. Also, the blue is wheezer blue. What blue? Seeing
+
+517
+01:23:08,899 --> 01:23:14,340
+feline animals, particularly violent ones, is an embodiment of imminent danger, more so danger of
+
+518
+01:23:14,340 --> 01:23:29,909
+you pooping your pants. He he ha ha ha. Good. Somebody said, it means you've got to collab with
+
+519
+01:23:29,909 --> 01:23:37,819
+neanners. All right, I'm reading one more of these and that's it. They indicate raw power and
+
+520
+01:23:37,819 --> 01:23:45,239
+emotions. They're also a symbol of sexuality. Tigers are also a sign of vitality and good health.
+
+521
+01:23:46,170 --> 01:23:51,529
+They also indicate unpredictable and aggressive behavior and uncontrollable urges. This dream
+
+522
+01:23:51,529 --> 01:23:57,289
+might reveal having some vices and bad habits you can't control or get rid of. A tiger is a
+
+523
+01:23:57,289 --> 01:24:03,829
+symbol of persistence as well. It warns you now it's not the time for change and about the need
+
+524
+01:24:03,829 --> 01:24:21,210
+to have patience in order to achieve your goals. Hmm. Tigers apparently mean everything, yeah.
+
+525
+01:24:21,210 --> 01:24:25,850
+No joke, I had a dream where I invited Jerma to DJ my cousin's kindergarten graduation and he
+
+526
+01:24:25,850 --> 01:24:32,020
+kept making unfunny jokes and people were staring at me angry because I brought him. That's pretty
+
+527
+01:24:32,020 --> 01:24:44,170
+good. All right, one more. The tiger represents something you can't control in your life and it's
+
+528
+01:24:44,170 --> 01:24:48,250
+giving you anxiety. At least that's what I think based on how you've reacted in your dream.
+
+529
+01:24:49,460 --> 01:24:58,020
+Okay, I understand that one. If you dream of being attacked by tigers, which I wasn't, I like,
+
+530
+01:24:58,899 --> 01:25:04,020
+I was the catalyst to somebody else getting attacked, right? Like I held the horn down
+
+531
+01:25:04,020 --> 01:25:09,140
+trying to warn people of the imminent danger and I actually killed them because of it, right?
+
+532
+01:25:09,140 --> 01:25:21,100
+There's got to be something there. Okay, here we go. Last one. This is really interesting though.
+
+533
+01:25:21,100 --> 01:25:25,180
+Dreaming of ferocious animals and animal attacks means that there is an aspect of yourself you're
+
+534
+01:25:25,180 --> 01:25:29,989
+not letting show. It can also be a sign that you are repressing your inner catboy maid.
+
+535
+01:25:29,989 --> 01:25:39,979
+Oh, okay, thank you. It means that there are many things in your life that you think are hurting or
+
+536
+01:25:39,979 --> 01:25:46,039
+affecting you in a bad way and the tiger represents the feeling of fighting back these things.
+
+537
+01:25:46,039 --> 01:25:50,840
+It also could mean five billion dollars has been added to the debt, you fucking sleazy gambling
+
+538
+01:25:50,840 --> 01:26:13,939
+piece of shit. Roar for chat. Oh my god. Sleazy. All right, let's go. But that was a crazy dream,
+
+539
+01:26:13,939 --> 01:26:29,750
+wasn't it? I'm not gonna do the roar. Lady, oh god. So I need, let's log out. I need to hire
+
+540
+01:26:29,750 --> 01:26:42,819
+somebody. I have to have a staff. Oh, here we go. No, no, I want to see this. Article stats,
+
+541
+01:26:42,819 --> 01:26:50,390
+quality, fashion, luxuries. People want quality right now. That's what that means, right? So
+
+542
+01:26:50,390 --> 01:27:02,310
+people are looking for quality and luxury right now. Video Vivi just gave 20 immunity subs. How
+
+543
+01:27:02,310 --> 01:27:16,710
+do I hire staff? Minimum storage, summary. Where do I get staff? Oh, here we go. Applications.
+
+544
+01:27:17,350 --> 01:27:27,800
+There's nobody, nobody's applied to the job. Okay, daily news, price hunters. All right,
+
+545
+01:27:27,800 --> 01:27:37,430
+we're gonna do price hunters. It's gonna be a huge ad for our shirts. Place category,
+
+546
+01:27:37,430 --> 01:27:44,539
+at place customer. All right, Matt, it's gonna be for two days for our shirts. Create the
+
+547
+01:27:44,539 --> 01:28:20,100
+advertisement. What am I doing? How do I, I don't get it. It's too big. Oh shit, okay. 50, I'm not
+
+548
+01:28:20,100 --> 01:28:55,689
+doing 50% off. What an awful ad. How do I shrink this? This is just like, you get this in the mail
+
+549
+01:28:55,689 --> 01:29:18,579
+when your mother invites like the, like six of you to a birthday party. I can't fit them? Yes, I can.
+
+550
+01:29:18,579 --> 01:29:34,869
+Techies. Oh boy, they just have blue shirts on? Oh shit, wait, wait, wait. Okay, this is the one.
+
+551
+01:29:34,869 --> 01:29:48,470
+This is the shirt I'm trying to sell. They're like a hundred bucks each. All right, get rid of this
+
+552
+01:29:48,470 --> 01:30:13,270
+one. Get rid of these two. Place it. No soup for you. Thank you for the 10 community steps. Place it.
+
+553
+01:30:13,270 --> 01:30:31,050
+Put it down. Why can I not put it down? What the fuck? What's going on? Magazine, price hunters. Oh
+
+554
+01:30:31,050 --> 01:30:42,979
+shit, fashion land. The golden coin. All right, how about fashion land? I can't even move any
+
+555
+01:30:42,979 --> 01:30:51,909
+of this stuff now. All right, well this is the ad now. I, whatever. I don't care. Two days, buy it.
+
+556
+01:30:51,909 --> 01:31:09,689
+Okay, so that's going. Anything going on? No. All right, let me get back in the store. Let's go.
+
+557
+01:31:09,689 --> 01:31:36,550
+I didn't find any money on the ground. Does this game have gamba? Gambling? All right. How's the
+
+558
+01:31:36,550 --> 01:31:43,109
+inventory look? I need to fill this up with shoes. With new shoes. What do I got? Didn't I get some
+
+559
+01:31:43,109 --> 01:32:01,739
+new stuff? I did. All right, these are expensive. Okay, do I have enough? I need a sign for these.
+
+560
+01:32:01,739 --> 01:32:14,119
+Give me a sign. Design, a sign. On the wall. Right here. Thank you, Germafans69 for the 10
+
+561
+01:32:14,119 --> 01:32:23,220
+community subs. We've got a lot of subs. You guys are subbing it up. Change. Oh, okay, here we go.
+
+562
+01:32:23,220 --> 01:32:31,050
+Current type. You're assigned to select. Oh, shit. All right, all right, all right. Now I make it.
+
+563
+01:32:31,050 --> 01:32:49,560
+I don't have money. What? Holy shit, I only have $215. What? When did that happen? Okay, now I need
+
+564
+01:32:49,560 --> 01:32:59,159
+to editor. Oh, shit. Type. It's a fashion. What is it? Oh, fuck. Hold on. Wait, wait, wait, wait, wait,
+
+565
+01:32:59,159 --> 01:33:09,739
+wait, wait. Um, do I draw on this? Load poster? Quality? How do I do this? Click background?
+
+566
+01:33:10,460 --> 01:33:18,949
+There are people. Why are there people in the store? The store's not even open. What?
+
+567
+01:33:21,479 --> 01:33:31,189
+Why is the store open? I'm not sure what to get. That. Looks promising. Go get it. Yes, yes, yes,
+
+568
+01:33:31,189 --> 01:33:36,470
+yes, yes, yes, yes. Go, go, go, go, go, go, go. Great. Cool. Cool. Cool. I need. Okay, leave. Oh,
+
+569
+01:33:36,470 --> 01:33:47,140
+my fucking God. Customer needs. Improve impact of conversation. Article hype. Hype up the article.
+
+570
+01:33:47,140 --> 01:33:56,090
+Improve the impact. Refill the patience. Go for it. Thank you. Okay, that was such a pain. That's
+
+571
+01:33:56,090 --> 01:34:03,340
+too much work. Hire help. I need. I don't. I need to hire somebody. I thought that lady wanted a
+
+572
+01:34:03,340 --> 01:34:27,449
+pizza. All right, come on. Go buy the expensive stuff. Import an image of your face. Uh, somebody
+
+573
+01:34:27,449 --> 01:34:36,229
+give me one. Make sure it's something easy like a PNG. Wait, I mean, somebody give me one. The
+
+574
+01:34:36,229 --> 01:34:43,859
+links are dead. Do I have one? How do I pause the game? Hold on. Do I have a picture of my face,
+
+575
+01:34:43,859 --> 01:35:03,270
+like on my desktop somewhere? Do the sus guy? No. Sus face. Fine. Fine. Just I'll take sus face.
+
+576
+01:35:03,270 --> 01:35:10,619
+Give me the sus face. I'll take it. It's got to be one of the mods that does it because the links
+
+577
+01:35:10,619 --> 01:35:32,149
+have been nuked. Uh, that, but that's not the sus face though. That's the regular face. I hate
+
+578
+01:35:32,149 --> 01:35:36,869
+this image. I almost just set this as my desktop background. That would have scared the shit out
+
+579
+01:35:36,869 --> 01:36:00,550
+of me later. All right. Let me drag it in here. All right. Let's see if this is easy. Let's see
+
+580
+01:36:00,550 --> 01:36:07,350
+how easy this is. It's just as simple as they're just dragging it into this folder. Let me see.
+
+581
+01:36:07,909 --> 01:36:27,640
+What's it called? All right. Uh, it's, it's in there. I wonder if it worked. Let's find out.
+
+582
+01:36:28,279 --> 01:36:42,199
+Pause the game. Oh shit. What happened? There we go. I'm like in windowed mode now. What the
+
+583
+01:36:42,199 --> 01:36:50,310
+hell happened? What happened to my screen? All right. Well, I wish I could just fucking tell
+
+584
+01:36:50,310 --> 01:36:59,819
+everybody to leave. Tell about your shirts. Just fucking buy something or don't. Buy something or
+
+585
+01:36:59,819 --> 01:37:07,510
+don't. Leave. Oh my God. I need somebody to talk to her. Okay. Whatever. I need to hire somebody.
+
+586
+01:37:20,020 --> 01:37:34,060
+Load important new image. What the fuck? Uh, this is not, hold on. That is not what I thought that
+
+587
+01:37:34,060 --> 01:37:47,960
+was going to look like. Okay. What if I do that? I, I, this is, I have no idea what this means.
+
+588
+01:37:53,350 --> 01:37:57,829
+I don't have that many guys. I don't have that many drives. I have one drive. I don't have 20,
+
+589
+01:37:57,829 --> 01:38:10,920
+I don't have 26 hard drives. It would be fucking insane. It's in the game files.
+
+590
+01:38:12,180 --> 01:38:25,770
+I dragged it into the folder. See? I don't think that's going to work. Hold on. By the way,
+
+591
+01:38:25,770 --> 01:38:29,770
+you know what? Just a fucking, I don't, I don't, I got to fix the screen too. Why do I cut? The
+
+592
+01:38:29,770 --> 01:38:37,340
+screen got cut off. Hold on a second. I got to stay. Oh fuck. I'm losing customers. Just stand
+
+593
+01:38:37,340 --> 01:38:46,329
+at this thing. Whatever. I just sold that to nobody. I think I just took that guy's money.
+
+594
+01:38:46,970 --> 01:38:53,029
+All right. This is okay. Here's my biggest problem with games that have like an import image feature.
+
+595
+01:38:54,039 --> 01:39:11,510
+It's always seems to be so like difficult to use. Like this should be simple. Okay. Editor,
+
+596
+01:39:12,760 --> 01:39:20,439
+load an image. Oh my Lord. Yeah. This is like every one of my drives, but I don't even have
+
+597
+01:39:20,439 --> 01:39:25,180
+any of these program files. Yeah. I'm not, I don't want you guys to see what kind of programs I have.
+
+598
+01:39:28,539 --> 01:39:37,720
+What, where is, where is steam? Steam, steam apps. Common. Yeah. I don't want that. This is like,
+
+599
+01:39:37,720 --> 01:39:44,359
+this is spoilers for the games I'm going to play like next week. King of retail,
+
+600
+01:39:44,359 --> 01:39:51,989
+king of retail logos. Germa sus fatal error. The game has crashed. What the fuck?
+
+601
+01:39:51,989 --> 01:40:19,380
+Okay. I hope it's saved. What the fuck? Yeah. That showed every steam game I have installed.
+
+602
+01:40:19,380 --> 01:40:22,899
+I don't want you guys to see the games. I'm coming up like in, I'd like it to be a surprise.
+
+603
+01:40:23,539 --> 01:40:54,260
+It was a virus. I don't think so. Oh, where was I? I kind of chose to make my own store. Yeah. I
+
+604
+01:40:54,260 --> 01:41:04,260
+want to, okay. This is cool and everything, but I don't really want to, I want to make my own store.
+
+605
+01:41:04,260 --> 01:41:07,779
+Yeah. This is all right. This is much, this is what I'm talking about. All right. Population size.
+
+606
+01:41:07,779 --> 01:41:26,279
+There's 667,000 people here. Should be huge. How about a small, a city or a million people?
+
+607
+01:41:26,279 --> 01:41:32,069
+This one. Okay. Yeah. All right. Yeah. Yeah. Yeah. Yeah. Yeah. It don't matter. Whatever.
+
+608
+01:41:32,069 --> 01:41:43,140
+City's wealth. They have a lot of money or are they, is it lower? How much is the middle of the
+
+609
+01:41:43,140 --> 01:41:58,149
+road here? Ashen cents. Um, I don't know. Maybe like here. That looks good. Okay. New store.
+
+610
+01:41:58,149 --> 01:42:13,479
+Select, select categories. Food, food and computers, food and beverages and computers.
+
+611
+01:42:13,479 --> 01:42:24,409
+No, just food. I was gonna, it's just gonna make a restaurant. Food and drinks. No, just food.
+
+612
+01:42:24,409 --> 01:42:53,350
+Select a logo. I can't, I can't. That's it. Oh, okay. Joe custom. I can't, where am I? I tried
+
+613
+01:42:53,350 --> 01:43:13,640
+to upload it. Where is it? Oh no. Is there a burger one? I didn't see the burger. Where is it?
+
+614
+01:43:13,640 --> 01:43:36,920
+Mayo burgers. I'm probably the one with the apple. Get stuffed. It'd be different blue like this.
+
+615
+01:43:36,920 --> 01:43:51,590
+No, that looks too like tech. This looks too tech. Orange. There we go. It looks good. Stuffed with
+
+616
+01:43:51,590 --> 01:44:00,149
+mayo. Okay. That's fine. Whatever. Can I make the logo a different color? Whatever. Main colors.
+
+617
+01:44:03,960 --> 01:44:24,260
+Orange and um, I don't know, like something like, like a, like orange and green, like a harvest.
+
+618
+01:44:24,260 --> 01:44:38,840
+That looks good. What's wrong with that? Nickelodeon. Yeah. They close Nickelodeon
+
+619
+01:44:38,840 --> 01:44:49,130
+studios, by the way. What? What's all that about? I can't, you know what? They close Nickelodeon
+
+620
+01:44:49,130 --> 01:44:56,340
+studios in Universal in Orlando, right? To make room for what? The fucking minions ride? That's,
+
+621
+01:45:03,270 --> 01:45:09,220
+all right. I have four. I thought it was four million. I can't look at this. This has to change
+
+622
+01:45:09,220 --> 01:45:22,710
+immediately. All right. So what do I want for the floor? Why is everything orange? Like I have to
+
+623
+01:45:22,710 --> 01:45:30,739
+fit the theme of the store. All right. Should I have as you will close? Ooh, I kind of like that.
+
+624
+01:45:30,739 --> 01:46:00,090
+Actually don't like it anymore. I kind of feel like I'm in a pizza oven. Tiger. Um, this is ugly,
+
+625
+01:46:00,090 --> 01:46:29,109
+but I already bought it. All right. Walls. Fortnite. This is Fortnite. It is. No, ugly.
+
+626
+01:46:29,109 --> 01:46:45,770
+All right. Should I make every bonus level in Mario Sunshine? Okay. I hate this, but whatever.
+
+627
+01:46:45,770 --> 01:47:02,170
+And the ceiling. It's a Mario pipe store. Yeah. Oh dude, I should sell fucking pipes,
+
+628
+01:47:02,170 --> 01:47:13,819
+bongs and shit. That was ugly. All right. So what do I want to sell here? What do I have to,
+
+629
+01:47:13,819 --> 01:47:24,739
+options to buy? Groceries? Refrigerated. Does it have a bunch of these?
+
+630
+01:47:27,050 --> 01:47:51,140
+I'm just going to be selling deli meat. What? Or like almond milk. How much money do I have?
+
+631
+01:47:51,140 --> 01:48:18,869
+All right. What can I put in here? Groceries. Food. Refrigerated. Is bacon. Onion rings.
+
+632
+01:48:18,869 --> 01:48:34,659
+Fried chicken. French fries. Hummus. Diamond standard. Is this pepperoni? Onion rings. Okay.
+
+633
+01:48:34,659 --> 01:48:44,550
+Well, let's put, let's get onion rings. How many can fit in each one? Onion rings and French fries.
+
+634
+01:48:44,550 --> 01:49:04,229
+And then definitely pizzas. Pepperoni pizzas. Um, is this a fish filet? Shrimps? Oh, fish sticks.
+
+635
+01:49:04,229 --> 01:49:16,869
+Organic veggie bacon. Plant-based, just a shitload of plant-based meat. Sausages. Chicken breast.
+
+636
+01:49:16,869 --> 01:49:31,100
+All right. I need a bunch of chicken breast. Steak. How much money do I have? Okay. Um,
+
+637
+01:49:31,100 --> 01:49:56,090
+what about fruits? How about a fucking pumpkins? Corn and onions. I don't, I don't know. What do
+
+638
+01:49:56,090 --> 01:50:16,260
+I do? What else should I sell here? Can I make something else besides food? How do I edit my store?
+
+639
+01:50:16,260 --> 01:50:27,859
+I chose only food. Well, can I just go back? Oh shit. I need to, I need to storage. I know,
+
+640
+01:50:27,859 --> 01:50:46,310
+I know, I know, I know, I know, I know. I'm going. There you go. Finally. Storage. A big one. All
+
+641
+01:50:46,310 --> 01:50:58,789
+right. Come on in. Deliver it. All delivered. Come on. Let's go. You need to start a new store
+
+642
+01:50:58,789 --> 01:51:13,939
+to change and add categories. Are you serious? What? God damn it. All right. Well, I'll come
+
+643
+01:51:13,939 --> 01:51:32,779
+back to this one. All right. It might be all right. Unpack everything. Why didn't you sell,
+
+644
+01:51:32,779 --> 01:51:38,039
+why did you, what store doesn't sell beverages and only food? I don't know. In my brain,
+
+645
+01:51:38,039 --> 01:51:41,720
+I thought this was a restaurant or something and I was gonna be cooking dinner. I don't know why
+
+646
+01:51:41,720 --> 01:51:56,310
+I thought that. Restaurants have drinks too. I don't know. Why would they even let me do that?
+
+647
+01:51:56,310 --> 01:52:06,060
+It has to be idiot proof. There's no more room for this stuff. Well, now I get it. I get it. I get
+
+648
+01:52:06,060 --> 01:52:24,890
+it now. I'm out of room already. Kind of money. What? It's more than 700 bucks for this? 800?
+
+649
+01:52:25,449 --> 01:52:57,510
+How much shit did I buy? Groceries. Food. Refrigerated. Add a shelf. Let's do meat over
+
+650
+01:52:57,510 --> 01:53:23,779
+here. Add, drop a single spot. Drop to add shelf. Fill shelf. This is a very confusing UI,
+
+651
+01:53:23,779 --> 01:53:36,390
+I just say. Drop, add single spot, fill shelf. That's what I want. Fill the shelf. Okay. There
+
+652
+01:53:36,390 --> 01:53:58,250
+we go. Why is there still a menu for it? I only have two things. Okay. That's meat. We're going
+
+653
+01:53:58,250 --> 01:54:19,109
+to do meat first. Steak. We'll go in here. Why is it only single? Why is it only singles?
+
+654
+01:54:24,460 --> 01:54:47,960
+Okay. Meat, steak. This place sucks. I'm sorry. Pizzas. Why would anyone shop here? I don't know
+
+655
+01:54:47,960 --> 01:54:56,659
+if we get to get a quick steak, to get a quick pizza, frozen pizza on the way home. All right.
+
+656
+01:54:56,659 --> 01:55:10,899
+French fries. Fill it up. And then we'll do two French fries. This place is fucking terrible.
+
+657
+01:55:14,710 --> 01:55:18,819
+Oh shit. I didn't have enough. It's all right. It looks like people shop here.
+
+658
+01:55:24,039 --> 01:56:01,270
+Onion rings. Okay. And then the fruits. Groceries, food, fruit, corn. Okay. Then it was
+
+659
+01:56:01,270 --> 01:56:11,000
+pumpkins. All right. This is the, my kid dressed themselves for the day of creating a grocery
+
+660
+01:56:11,000 --> 01:56:29,220
+store. Like my three-year-old dressed themself today. I might make some, look, I'll just make
+
+661
+01:56:29,220 --> 01:56:35,750
+everything really expensive. Fruits. Okay. What are they? What are these? These apples?
+
+662
+01:56:35,750 --> 01:56:40,949
+I have no idea what these even are. I don't, I actually don't know what these are. They're
+
+663
+01:56:40,949 --> 01:56:52,810
+onions? Apples? Potatoes? I don't know. Is it garlic? No, it's not. And this is going to
+
+664
+01:56:52,810 --> 01:57:23,829
+be the miscellaneous shelf. Okay. All right. That's fine. Now I need a, what do I need?
+
+665
+01:57:23,829 --> 01:57:31,989
+Oh shit. I need a register. Do I have enough? Yeah. I have enough for the, I have enough for
+
+666
+01:57:31,989 --> 01:57:48,500
+the good register. The big one. All right. Let's go. You only sell yellow food. This is bizarre.
+
+667
+01:57:48,500 --> 01:58:03,029
+What do you mean? Whoa. Why did I do that? That's weird. That's really fucking weird.
+
+668
+01:58:03,029 --> 01:58:12,229
+Why did my brain do that? I mean, this is not yellow, but everything else is.
+
+669
+01:58:21,109 --> 01:58:31,100
+High displays. Update your store. Oh, the store windows. Right, right, right. Okay.
+
+670
+01:58:31,100 --> 01:58:39,020
+You eat too much McDonald's. This is not the only game we're playing, by the way. We're playing
+
+671
+01:58:39,020 --> 01:59:04,140
+something else in a little bit. A chicken and steak is in the window. All right. Well, this
+
+672
+01:59:04,140 --> 01:59:11,720
+place sucks. I know. It's awful. I'm not good at this, but it's all right. You're putting steak
+
+673
+01:59:11,720 --> 01:59:15,800
+directly into the sun. It's in a refrigerated unit with a tinted window on it. We're fine.
+
+674
+01:59:16,279 --> 01:59:43,220
+Next day. Wait, what if I run out of money? Oh, like there's no such thing as like being tired
+
+675
+01:59:44,279 --> 01:59:48,600
+in this game. I'm just going to do everything. So I might as well just stay open until everyone
+
+676
+01:59:49,399 --> 02:00:01,210
+just stay open. Unread emails. Trying today. Organics is offering discounts on selected
+
+677
+02:00:01,210 --> 02:00:13,270
+articles for our suppliers. Well, like I have refund. All right, let's go. Let's do it. All
+
+678
+02:00:13,270 --> 02:00:19,960
+right. So I'm going to give you guys a choice of the next game. Here are your options. 2020
+
+679
+02:00:19,960 --> 02:00:39,029
+Olympic Games or wait, maybe a mystery. I have to make sure it runs. It's an FMV game. An old FMV
+
+680
+02:00:39,029 --> 02:01:00,760
+game. I don't even know if it runs. I feel like we have to play the 2020 Olympic one. The Olympics.
+
+681
+02:01:00,760 --> 02:01:07,430
+And this Olympic Games, this new game is just crazy. I'm trying to figure out what the goal
+
+682
+02:01:07,430 --> 02:01:22,779
+here with this game is. You'll see what I mean when we play it. I'm open. Hi. I'm open. The store
+
+683
+02:01:22,779 --> 02:01:29,739
+is open. I should have been open already. Is it Sonic and Mario? It is not Sonic and Mario,
+
+684
+02:01:29,739 --> 02:01:36,739
+but weirdly enough, Sonic is in the game. You can just be Sonic the Hedgehog in the Olympics,
+
+685
+02:01:36,739 --> 02:01:40,840
+like the real Olympics. It's not like a cartoon world. I don't know. It makes no sense.
+
+686
+02:01:41,479 --> 02:01:52,340
+It's supposed to be a 2020 Olympic Games simulation, but one of the people you can play as
+
+687
+02:01:52,340 --> 02:01:58,939
+is it's not even Sonic the Hedgehog, the cartoon Sonic the Hedgehog. It's a guy in a Sonic the
+
+688
+02:01:58,939 --> 02:02:15,670
+Hedgehog costume. Nobody's buying anything. This one guy is going to buy an order of onion rings.
+
+689
+02:02:25,109 --> 02:02:58,600
+Eleven dollars. Minus 22. Shit. God damn it. It's a store with seven refrigerators. Yeah,
+
+690
+02:02:58,600 --> 02:03:15,130
+I'm just getting started. I'm an aspiring food business. Fast forward time. I can do that.
+
+691
+02:03:15,130 --> 02:03:32,659
+You're right. I still have negative one dollar. What do you guys want? Come in here. Hello? This
+
+692
+02:03:32,659 --> 02:03:45,939
+game sucks and it's even worse if you're bad at it, man. Jesus. I'm sorry. You know, the best part
+
+693
+02:03:45,939 --> 02:03:50,550
+about that comment is the man at the end. You know what I mean? It wasn't just like, oh, this
+
+694
+02:03:50,550 --> 02:03:54,550
+game sucks, especially if you're like not any good at it. No, it was like, yeah, this game sucks,
+
+695
+02:03:54,550 --> 02:04:11,020
+especially if you're not good at it, man. That stings. That's like the stinger. All right. What
+
+696
+02:04:11,020 --> 02:04:31,859
+do people want? 2020 Olympic Games. All right. I think I need a controller. Nobody's stealing.
+
+697
+02:04:31,859 --> 02:04:39,609
+What are you talking about? Remember, this game is good. I played it on Roblox. This game is pretty
+
+698
+02:04:39,609 --> 02:04:46,100
+good. I can't decide between the corn and the corn. I'm not quite sure if I want a pumpkin or
+
+699
+02:04:46,100 --> 02:04:55,159
+not. Can you sound me on this? Sure. Uh, what month is it? Uh, it's January. Don't buy a pumpkin.
+
+700
+02:04:55,159 --> 02:05:13,670
+Oh, okay. Why? No, I think I'll take it anyways. Somebody stole pizza. Nobody stole pizza. You
+
+701
+02:05:13,670 --> 02:05:30,180
+can't steal in this game. Hungry? What the hell? I just ran so fast. I stole the pumpkin. Nobody
+
+702
+02:05:30,180 --> 02:06:06,619
+stole anything. What if I just leave the store? Excuse me. Did you pay for that? Oh, steal from
+
+703
+02:06:06,619 --> 02:06:14,550
+your competitor's stores. Yeah. That'd be funny if you could do that. Somebody said, imagine if you
+
+704
+02:06:14,550 --> 02:06:19,239
+walked into a small store and there was just nobody in there. That's kind of like the equivalent of
+
+705
+02:06:19,239 --> 02:06:26,899
+when you go to class and the teacher's not there and you know that the substitute's coming soon.
+
+706
+02:06:27,539 --> 02:06:35,899
+It's like, oh shit, what do we do? There's always that one kid that gets up and starts drawing on
+
+707
+02:06:35,899 --> 02:06:43,659
+the board. Teacher comes in, substitute comes in. Eventually everyone's sitting down after like
+
+708
+02:06:44,539 --> 02:06:56,420
+everyone's written a bunch of bullshit up on the board. They just ignore it. They just erase it
+
+709
+02:06:56,420 --> 02:07:03,369
+and start talking. All right. I'm going to play 2020 Olympics. Let's go. This game was fun. I like
+
+710
+02:07:03,369 --> 02:07:09,449
+it, but I just, I'm not, I'm not very good at this and it's all right. It was fun. I had a good time.
+
+711
+02:07:09,449 --> 02:07:13,289
+I told you about my dream. Uh, I told you about a bunch of things that happened. We're going to
+
+712
+02:07:13,289 --> 02:07:26,140
+play Sonic and Hedgehog at the Olympics. The 15 minute rule never existed here. Well, I told you
+
+713
+02:07:26,699 --> 02:07:32,949
+this was not going to be a short stream. We have a few things to play. This was the number one. Who
+
+714
+02:07:32,949 --> 02:07:43,340
+knows Sonic? Uh, it's not Sonic at the Olympic games. It's just the Olympic games. All right.
+
+715
+02:07:43,340 --> 02:07:47,260
+Let's take a quick break. I'll come right back in about two, three minutes and we'll play, uh,
+
+716
+02:07:48,550 --> 02:07:53,989
+no, I keep saying Sonic. We're going to play the Olympic 2020 Olympic games video game. All right.
+
+717
+02:07:53,989 --> 02:07:54,710
+See you in a minute.

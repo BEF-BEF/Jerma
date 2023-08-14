@@ -1,0 +1,1847 @@
+1
+00:00:00,500 --> 00:00:09,369
+Good afternoon. I'm getting this crazy, crazy revelation right now. I'm using,
+
+2
+00:00:09,369 --> 00:00:21,929
+for the first time, I'm using Streamlabs OBS. This is 500,000 times better than just using standard
+
+3
+00:00:22,489 --> 00:00:30,519
+OBS. I didn't even know this stuff was going to happen until I pressed live. Let me just go
+
+4
+00:00:30,519 --> 00:00:38,020
+over it. Let me paint you a picture here. So the chat is here in the program. The live monitor is
+
+5
+00:00:38,020 --> 00:00:47,560
+here in the program. The recent events, Streamlabs bits and subs and everything's over here. I used
+
+6
+00:00:47,560 --> 00:00:57,990
+to have like 12 windows out on my monitors. This shit's all in one program? That's unbelievable.
+
+7
+00:01:01,159 --> 00:01:09,319
+Anyways, hi. How are you? I'm Jeremy. Do I sound louder too? I played around with some audio
+
+8
+00:01:09,319 --> 00:01:20,950
+settings. This is post carnival germa. I'm all about the production value now. I may have screwed
+
+9
+00:01:20,950 --> 00:01:35,540
+up a few settings, but I'm all about making productions like this one. Where's the loud
+
+10
+00:01:35,540 --> 00:01:43,819
+wind? Not across the country anymore. I'm back in Vegas. Not only am I back in Vegas,
+
+11
+00:01:44,540 --> 00:01:53,180
+I have to get ready. I have to get ready to go to San Diego like tomorrow. Hey, I'm back. Hey,
+
+12
+00:01:53,180 --> 00:02:05,189
+back after the carnival. Bye. Going to TwitchCon. Post carnival, pre TwitchCon. September was a
+
+13
+00:02:05,189 --> 00:02:12,949
+busy fucking month. Can I just tell you? Anyways, we can go over a few things here.
+
+14
+00:02:13,509 --> 00:02:22,860
+We're gonna hang out for a little bit. Just enough time to go over stuff that I couldn't really do
+
+15
+00:02:22,860 --> 00:02:28,680
+at the end of that other stream because we had to tear that whole thing down. Had to leave. I had
+
+16
+00:02:28,680 --> 00:02:38,870
+a birthday to celebrate too. This is the exact game I was hoping you would play. I'm gonna try
+
+17
+00:02:38,870 --> 00:02:47,590
+it. I got a lot of requests to play this. So what's the game? Like two, three hours long or something?
+
+18
+00:02:48,569 --> 00:02:59,259
+Easy. But if you didn't know, I just saw this the other day. Let me put a link for you.
+
+19
+00:03:00,310 --> 00:03:07,689
+The goats, the Andy Mark goats. I didn't even know they were gonna do this. They are on sale
+
+20
+00:03:07,689 --> 00:03:13,719
+right now. The ones that were in the machine. You can buy a goat that was apparently on camera.
+
+21
+00:03:14,710 --> 00:03:23,060
+I don't know how many of these they have. They might have very few amount of these. I don't know
+
+22
+00:03:23,060 --> 00:03:39,780
+how many. Copy and paste. There you go. If you read and see these. The goats were special invited
+
+23
+00:03:39,780 --> 00:03:44,259
+guests to the recent Twitch carnival in partnership with German 95. Together we put on this the first
+
+24
+00:03:44,259 --> 00:03:48,180
+robotic carnival where viewers at home banded together to control the robots playing games.
+
+25
+00:03:48,659 --> 00:03:51,699
+You've been asking when there'll be available purchases today is that they each goat in our
+
+26
+00:03:51,699 --> 00:03:58,340
+inventory was on stream in the claw machine when they're gone they're gone. I don't know how many
+
+27
+00:03:58,340 --> 00:04:07,639
+were in there. I don't know if this is one per customer. Hopefully, hopefully if you want one
+
+28
+00:04:07,639 --> 00:04:16,360
+you can get one. Do just chatting. We need to catch up. That's what I plan on doing. We're not
+
+29
+00:04:16,360 --> 00:04:23,189
+just gonna jump right into goose game. I have to remember how to stream. It's been a while. Hold on.
+
+30
+00:04:23,189 --> 00:04:30,060
+Speaking of speaking of forgetting how to live stream like from a desk plus I of course I did
+
+31
+00:04:30,060 --> 00:04:37,350
+the first one. I'm like let me let me set up stream labs OBS. I'll give you one sec. I didn't
+
+32
+00:04:37,350 --> 00:05:29,529
+even tweet this either. Hold on. Every single one of my USB slots is taken up now. That's not good.
+
+33
+00:05:29,529 --> 00:05:40,139
+I gotta figure out what the hell is even plugged in down here. How do I have? I have like 15 slots.
+
+34
+00:05:40,860 --> 00:05:46,980
+That makes no sense. All right. Let me figure out how to add my camera now.
+
+35
+00:05:47,779 --> 00:05:57,180
+Uh oh. Oh shit. This is harder than I thought. Wait a minute. Hold on. Add. There we go. I think
+
+36
+00:05:59,110 --> 00:06:11,860
+add a camera. No. This one here. Yeah. Okay. This one looks all right. Is it working? Can you guys
+
+37
+00:06:11,860 --> 00:06:30,019
+see me? No. Why does it look like this? Why does it look like this? Why does it look like this?
+
+38
+00:06:33,100 --> 00:06:41,750
+Is this a? Did I fuck this up? Oh from the left. From the last stream. That's right. Hold on.
+
+39
+00:06:42,310 --> 00:06:54,279
+Hold on. Let me fix my peasant hair. I'm not going to fix my peasant hair. It's not going to happen.
+
+40
+00:06:54,279 --> 00:06:58,040
+I got a haircut for TwitchCon and I ended up making myself look like a dickhead.
+
+41
+00:06:58,600 --> 00:07:02,490
+So it looks like we're going with a hat this time. How do I fix this?
+
+42
+00:07:14,220 --> 00:07:26,120
+Why does this still look wrong? Is it doing anything? I gotta really I gotta learn how to
+
+43
+00:07:26,120 --> 00:07:34,040
+use this program. That's gonna take a little while. Anyways let me uh kill the audio here.
+
+44
+00:07:34,040 --> 00:07:37,639
+How do I crop in Streamlabs? Everybody know how to crop in Streamlabs? What do you do?
+
+45
+00:07:39,560 --> 00:07:46,470
+It's not alt. It should be alt. I've never used it before. How do you crop in Streamlabs?
+
+46
+00:07:49,209 --> 00:07:55,189
+Show Werelord. Show Werelord. I gotta I got a story for you about Werelord. Okay. Werelord
+
+47
+00:07:56,279 --> 00:08:04,550
+was a huge pain in the ass to take home. Uh hold on. I let me just hold on. Let me tweet this. I'll
+
+48
+00:08:04,550 --> 00:09:42,309
+be right back. Okay. Yeah I've got I've got a story to tell you about this guy.
+
+49
+00:09:43,190 --> 00:09:52,899
+It's not even really a story. It's just a series of annoyances. Even right now. Even now. Even now
+
+50
+00:09:52,899 --> 00:10:01,720
+he's a pain in the ass. Okay look. I there's no way he can go. He's such an awkward like big sausage
+
+51
+00:10:01,720 --> 00:10:10,919
+hot dog shape. Uh this was my personal item on the plane. I took a carry-on obviously and this
+
+52
+00:10:10,919 --> 00:10:16,440
+was my personal item. But there's nowhere for him to go. There's no I was gonna put backpack
+
+53
+00:10:16,440 --> 00:10:24,019
+straps on this thing. But listen do you know how hard it is to carry this around like this
+
+54
+00:10:24,019 --> 00:10:29,860
+in an airport? Just like dragging around. I felt like um who's the Charlie Brown character that
+
+55
+00:10:29,860 --> 00:10:34,659
+has the blanket? I was like dragging him on the ground trying to go to the bathroom with this
+
+56
+00:10:34,659 --> 00:10:41,220
+thing too. I went into the bathroom and I balanced him stuck him through the the handle of the
+
+57
+00:10:41,220 --> 00:10:47,399
+suitcase trying to drag him and balance him and we got it. I had to go into a stall. I couldn't
+
+58
+00:10:47,720 --> 00:10:51,850
+am I gonna hold him like this and piss? People would think I was a fucking weirdo.
+
+59
+00:10:52,860 --> 00:10:58,220
+I had to go into a stall and slowly like this like balance him on the top of my suitcase
+
+60
+00:10:59,019 --> 00:11:07,350
+and he like fell on the public bathroom ground like three times. People were commenting on it too.
+
+61
+00:11:07,990 --> 00:11:15,779
+I told you he was gonna be here. I know that you know where he was. He was in the laundry room
+
+62
+00:11:15,779 --> 00:11:20,539
+because he needed to be cleaned. He was disgusting and I just put my hands all over him again.
+
+63
+00:11:22,570 --> 00:11:29,960
+Ah but it was hard to take take it around and there was actually a few times you know when
+
+64
+00:11:29,960 --> 00:11:36,200
+you're walking by um you're in the airport and you see those big fucking trash cans.
+
+65
+00:11:37,240 --> 00:11:43,399
+Man after trying to finagle him for like 30-40 straight minutes it got real close for me just
+
+66
+00:11:43,399 --> 00:11:55,100
+like dropping him in the trash. It was really close. It was so frustrating or I was gonna just be I
+
+67
+00:11:55,100 --> 00:12:01,029
+was gonna be like find somebody and be like here do you want like this toy? But then I was like
+
+68
+00:12:01,029 --> 00:12:08,019
+that's fucked up too. That's kind of that's it's weird. Hey hey do you want this toy? And then I
+
+69
+00:12:08,019 --> 00:12:12,279
+thought they were gonna like cut it open because I'm trying to bring like drugs. That was another
+
+70
+00:12:12,279 --> 00:12:18,120
+thing that was going racing through my mind. Oh yeah just me with this uh yeah Wailord's my favorite
+
+71
+00:12:18,120 --> 00:12:24,200
+Pokemon. Don't worry he's just a perfectly perfectly large enough to store like eight
+
+72
+00:12:24,200 --> 00:12:30,340
+pounds of cocaine. Let me just I'm just taking him with me. Don't worry it's kids toy. That was
+
+73
+00:12:30,340 --> 00:12:46,419
+a fucking whole lord deal. Drug Wailord. Wail Drug Lord. Anyways I'm back. Uh I had a birthday too.
+
+74
+00:12:46,980 --> 00:12:50,899
+I saw a lot of wonderful things. I'm not even I'm not in the wrong I'm in the wrong category.
+
+75
+00:12:51,460 --> 00:12:56,100
+Let me change this to just chatting because that's where I'm supposed to be.
+
+76
+00:12:57,799 --> 00:13:10,500
+Why is my intro still playing? Get out of here. There we go. No not jump. Jump ultimate stars.
+
+77
+00:13:10,500 --> 00:13:26,679
+Just chatting. Okay how do I make this bigger? It's just gonna look like this. I'm sorry. You
+
+78
+00:13:26,679 --> 00:13:33,379
+guys just have to deal with how stupid this looks. No not that. This is fine. It's fine. I don't care.
+
+79
+00:13:34,179 --> 00:13:42,440
+Anyways uh bits bits just came in. Did they? Hold on. Let me change my streamlabs thing.
+
+80
+00:13:44,500 --> 00:13:58,120
+Is it like am I too wide? Is that right? What came in? Where? Huge bits. I don't see huge bits.
+
+81
+00:13:59,860 --> 00:14:07,690
+Where do you see them? Wider. Oh we got them. We debated them. Now let's talk about this.
+
+82
+00:14:08,809 --> 00:14:13,529
+By the way again if you want Andy Mark Goat there's good luck because you probably they're
+
+83
+00:14:13,529 --> 00:14:20,679
+gonna sell out in probably 15 minutes. Or they have or there's more that was in there that I
+
+84
+00:14:20,679 --> 00:14:29,559
+didn't know of. They're already gone. Are they actually already gone? No they're not are they?
+
+85
+00:14:29,559 --> 00:14:49,019
+I think they're still there. He ignored 500 bucks. There's not 500 dollars here. Did you
+
+86
+00:14:49,019 --> 00:14:54,659
+donate that of the money to charity? No not yet. I have not been home for more than a day or two so
+
+87
+00:14:56,779 --> 00:15:02,700
+and I had to celebrate my birthday. This is the first day of like existing that you guys are
+
+88
+00:15:02,700 --> 00:15:20,870
+seeing. You just got paid for the drugs that you smuggled. Birthday money. Did somebody say I
+
+89
+00:15:20,870 --> 00:15:35,500
+ignored Joel earlier? Is Joel here? Did I did I miss Joel? Well what's up? No it was it was a
+
+90
+00:15:35,500 --> 00:15:40,519
+great time and it was an immense success I think. There was a couple of hiccups. The robot you
+
+91
+00:15:40,519 --> 00:15:45,590
+actually guys you actually really did break the robot like twice. You can always tell when the
+
+92
+00:15:45,590 --> 00:15:51,750
+robot got broken when they would just hand me a microphone and say hey the robot's uh fucked up
+
+93
+00:15:51,750 --> 00:15:58,389
+like you gotta kill time and I'm just like sitting there like okay so uh nice we've got uh something
+
+94
+00:15:58,389 --> 00:16:04,389
+else coming up here uh I was doing a lot of lip licking too because it was so windy I watched like
+
+95
+00:16:04,389 --> 00:16:10,950
+two or three clips right and I'm just going like what am I doing with my mouth this shit was so
+
+96
+00:16:10,950 --> 00:16:16,460
+fucking windy it was like blowing into my mouth and I should I should have brought like chapstick
+
+97
+00:16:16,460 --> 00:16:25,080
+because it's like wind wind okay so uh I was like a fucking old man no more money we talking about
+
+98
+00:16:25,080 --> 00:16:37,190
+look at the top donator wait wait what where what's it what's going on here check the bits
+
+99
+00:16:37,190 --> 00:16:43,940
+I'm looking at them right now is this is this inaccurate do I have an inaccurate pulling of
+
+100
+00:16:43,940 --> 00:16:58,100
+the bits uh-oh stream labs obs I thought you were the best program ever what are you guys talking
+
+101
+00:16:58,100 --> 00:17:17,670
+about you missed 500 dollars are you fucking serious what are you guys talking about let me
+
+102
+00:17:17,670 --> 00:17:26,339
+let me let me open up this page I'm looking at it right now all right wait why did this not come
+
+103
+00:17:26,339 --> 00:17:32,660
+through then all right what the hell is going on here okay so no seriously seriously this is none
+
+104
+00:17:32,660 --> 00:17:37,619
+of this is over here I okay none of this is on my stream labs right now that's not that's kind of
+
+105
+00:17:37,619 --> 00:17:53,460
+concerning why uh okay uh but yeah uh phylactery lich gave five hundred dollars holy shit that's
+
+106
+00:17:53,460 --> 00:17:59,690
+not on here the last thing I have hold on let me see if I what way this is doing this for I have
+
+107
+00:17:59,690 --> 00:18:09,289
+the one ender for 60 cents I have mega milk for a dollar deva kitty's message is not on after that
+
+108
+00:18:09,289 --> 00:18:17,660
+is zake for 250 how far down is that what the fuck is going on here quick somebody give another 500
+
+109
+00:18:17,660 --> 00:18:23,109
+no don't do I'm kidding don't do that uh no uh they say hey jeremy missed the carnival so you missed
+
+110
+00:18:23,109 --> 00:18:28,539
+the carnival stream but caught the vaude right after easily one of one of if not your best streams
+
+111
+00:18:28,539 --> 00:18:34,650
+ever I just bought my germa goat you better keep that werelord forever I'm going to um
+
+112
+00:18:36,009 --> 00:18:44,339
+that's a shitload of money that's you are racking up okay you're at the hotel and you asked the hotel
+
+113
+00:18:44,900 --> 00:18:50,900
+to bring in seven or eight extra TVs and they wheeled them all in you plugged them all in and
+
+114
+00:18:50,900 --> 00:18:57,240
+you bought like 40 pawns on every single one of those TVs and just played them well you weren't
+
+115
+00:18:57,240 --> 00:19:08,490
+even in the room you just left you're like they're just playing in the room hey wait by the way
+
+116
+00:19:10,069 --> 00:19:22,940
+what do you think I got this t-shirt from does it say you're just streaming pornography to your
+
+117
+00:19:22,940 --> 00:19:31,180
+hotel room and you got the bill at the end it was like 4800 bucks by the way that by the way
+
+118
+00:19:32,140 --> 00:19:41,480
+that is the actual size of the pancake that hash house ago go at the link um the strip in las
+
+119
+00:19:41,480 --> 00:19:51,130
+vacas that's the actual pancake uh but phylactery that I think that's the that's only happened like
+
+120
+00:19:51,130 --> 00:20:02,410
+once or twice I think ever that somebody's ever actually given it five 50 000 bits that's insane
+
+121
+00:20:02,410 --> 00:20:11,930
+and and trident jacks gave 50 dollars much love thank thank you all for the werelord but we
+
+122
+00:20:13,529 --> 00:20:18,089
+not to completely jump past that that's a shitload of money but we brought the wind
+
+123
+00:20:18,089 --> 00:20:21,849
+brought by my like lip licking because the wind was just we really thought we were going to have
+
+124
+00:20:21,849 --> 00:20:27,369
+to cancel the event it was so like 10 20 minutes before 30 minutes before that the stream started
+
+125
+00:20:27,369 --> 00:20:34,009
+we were getting these huge ass gusts and we were just sitting around going oh no no this is not
+
+126
+00:20:34,009 --> 00:20:37,769
+this is very bad we would have rather had brain because we would have pulled everything
+
+127
+00:20:37,769 --> 00:20:43,900
+towards uh inside because there was a place inside we could do it wherever I was the most
+
+128
+00:20:43,900 --> 00:20:48,059
+nervous concerning there's a knot in my stomach is the wind going to knock all these games over
+
+129
+00:20:48,059 --> 00:20:52,859
+and ruin the whole day it was that was a last second call because there were a couple times
+
+130
+00:20:52,859 --> 00:20:55,740
+during that stream when I really thought the whole booth was going to blow over
+
+131
+00:20:56,619 --> 00:21:01,430
+wind is like hitting me in the face it was all over the place uh ignored joel hold on wait a
+
+132
+00:21:01,430 --> 00:21:12,250
+minute wait a second joel 15 dollars from joel why are you giving me 15 bucks yo germa you're
+
+133
+00:21:12,250 --> 00:21:21,960
+going to poppin gamer this year we'd love to see you there popping gamer what's popping gamer
+
+134
+00:21:24,569 --> 00:21:31,160
+oh this was are you going to twitchcon if you're gonna i'll definitely i'll be there for a couple
+
+135
+00:21:31,160 --> 00:21:41,220
+days are you what do you look like i can imagine just like walking around and all of a sudden just
+
+136
+00:21:41,220 --> 00:21:51,559
+like hey it's me joel oh hey wait are you are you actually not going am i is this a joke are you
+
+137
+00:21:51,559 --> 00:21:59,559
+gonna get my hopes up like this that i could meet a fellow fucking video game streamer he doesn't
+
+138
+00:21:59,640 --> 00:22:07,900
+know he doesn't know how to what do you mean i don't know he actually said what am i going to
+
+139
+00:22:07,900 --> 00:22:15,450
+go to popping gamer this year what what's so what's wrong with that so joel you're not going to you're
+
+140
+00:22:15,450 --> 00:22:40,380
+not going to twitchcon it's up dog just in a different way what's popping gamer okay well if
+
+141
+00:22:40,380 --> 00:22:48,890
+you actually are going to twitchcon maybe i'll uh maybe i'll see you there nice dishwater coffee
+
+142
+00:22:49,529 --> 00:22:59,559
+it's not a dishwater coffee it is a a pineapple juice that i dumped in a starbucks container
+
+143
+00:22:59,559 --> 00:23:03,799
+and then filled it with water so it's a pineapple juice concentrate that i turned into a hydrating
+
+144
+00:23:03,799 --> 00:23:17,099
+liquid it was not dish water soap uh anyways that was some of the most fun i think i've ever had
+
+145
+00:23:17,099 --> 00:23:23,339
+especially even like on stream that once we got going and after like 45 minutes or so and it was
+
+146
+00:23:23,339 --> 00:23:29,450
+very clear that the wind wasn't going to destroy everything that was so much fun and something
+
+147
+00:23:29,450 --> 00:23:38,920
+else that you guys really need to know uh this this ain't ending here we are already already
+
+148
+00:23:38,920 --> 00:23:45,819
+talking about the next one so that's not oh that was the carnival that was really cool uh
+
+149
+00:23:46,839 --> 00:23:53,289
+we'll never see anything like that again no you sooner than you think this shit ain't going to
+
+150
+00:23:53,289 --> 00:23:59,539
+have anything to do with the carnival either we're stepping on the gas here guys i'm just holding
+
+151
+00:23:59,539 --> 00:24:08,440
+it down and i'm gonna hold the gas pedal down until the car is out of gas and then i'm walking
+
+152
+00:24:08,440 --> 00:24:15,990
+too and then when i'm done walking when my legs give up from the fucking dehydration i'm gonna
+
+153
+00:24:15,990 --> 00:24:36,759
+crawl you understand and then when i'm done crawling when i'm out of complete energy and i
+
+154
+00:24:36,759 --> 00:24:54,200
+am not of dessert anymore as a fucking ghost keep going and no i we're gonna we're going
+
+155
+00:24:54,839 --> 00:25:00,809
+there's way more to see if you think that's it that's not even close
+
+156
+00:25:00,809 --> 00:25:14,009
+that was a test and i and i think i passed i think i passed the test i only almost got hurt four
+
+157
+00:25:14,009 --> 00:25:25,930
+times that's not a big deal it's okay we've got more robotic streams that we've been thinking of
+
+158
+00:25:25,930 --> 00:25:33,420
+just going back and forth just it was the whole team just clicked all the all the people at
+
+159
+00:25:34,059 --> 00:25:41,019
+were so awesome they were super super nice had a bunch of great ideas themselves that all that
+
+160
+00:25:41,019 --> 00:25:46,380
+that wasn't just all me guys like they had to come up with most of that shit because they were the
+
+161
+00:25:46,380 --> 00:25:53,799
+ones that had to make the fucking robot so i was extreme overlord this is what i want this is how
+
+162
+00:25:53,799 --> 00:25:57,640
+i want it to work this is the joke that i want to do i want this joke i want that to happen i want
+
+163
+00:25:57,640 --> 00:26:02,200
+that to happen and these guys just absolutely fucking killed it like it was it was unbelievable
+
+164
+00:26:02,200 --> 00:26:08,599
+i couldn't have asked for a better team so there was a lot of people that worked on that stuff and
+
+165
+00:26:08,599 --> 00:26:14,279
+there they were very very very adamant and excited to work together again in the future
+
+166
+00:26:14,279 --> 00:26:22,809
+so i could not have gotten a better group of people can you share anything that did not make
+
+167
+00:26:22,809 --> 00:26:35,000
+the stream um i'm trying to think there's anything that that didn't get in there every all like the
+
+168
+00:26:35,000 --> 00:26:39,720
+weird fucked up shit that i wanted to do got in the stream but that we made sure this but we just
+
+169
+00:26:39,720 --> 00:26:48,359
+like three or four months in the making so we had lots of time to prepare for it and lots of time
+
+170
+00:26:48,359 --> 00:27:01,299
+to care about it the feet cam the feet cam was scripted it was not in fact a lot of the things
+
+171
+00:27:01,299 --> 00:27:06,259
+that i think you guys think were scripted were not at all me getting hit in the face by the frog
+
+172
+00:27:07,579 --> 00:27:15,500
+that was i could i actually couldn't i could not believe you did i said it hit me in the face and
+
+173
+00:27:15,500 --> 00:27:20,779
+you guys hit me in the face and it was not just i didn't move to like get hit by it it wasn't like
+
+174
+00:27:20,779 --> 00:27:25,579
+oh there it is i'm gonna like okay uh three two i can see the timer okay get in the way and like
+
+175
+00:27:25,579 --> 00:27:31,480
+get hit by it no no i didn't move you guys hit me right in the fucking nose i stood completely
+
+176
+00:27:31,480 --> 00:27:42,680
+still when you fired that thing it hit me directly in the face uh what are some moments there were
+
+177
+00:27:42,680 --> 00:27:47,930
+some moments that felt scripted well the clowns were scripted because they they had to be and
+
+178
+00:27:47,930 --> 00:27:59,769
+they were awesome too oh those those clowns were unbelievable bring them back that's gonna be tough
+
+179
+00:28:01,289 --> 00:28:10,500
+because they're across the country procedurally generated clown content we gave them an idea of
+
+180
+00:28:10,500 --> 00:28:16,869
+what we wanted and then they just they just kind of hit the ground running and did whatever they
+
+181
+00:28:16,869 --> 00:28:32,259
+fucking felt like and it was great those clowns was the clowns were scary move in with the clowns
+
+182
+00:28:33,059 --> 00:28:39,779
+what would you guys do if i just went come on in and they both just came in and i got up walked
+
+183
+00:28:39,779 --> 00:28:47,019
+out of the room and they just did a fucking two-hour routine it was i felt uncomfortable
+
+184
+00:28:54,700 --> 00:29:07,049
+yeah well i'm sorry i'm sorry but it was great give us our prizes uh you got the the workloads
+
+185
+00:29:07,049 --> 00:29:19,029
+right here but twitchcon is this weekend i know at least a few of the people that were that were
+
+186
+00:29:19,029 --> 00:29:25,180
+part of the event are going to be there we're going to brainstorm some more stuff we were talking
+
+187
+00:29:25,180 --> 00:29:35,109
+about and i don't want to give away any spoilers in fact i won't but i want i want the next one
+
+188
+00:29:36,859 --> 00:29:46,089
+to be somewhere either in january or february of 2020 the next stream like that you will see
+
+189
+00:29:46,089 --> 00:29:53,539
+it in somewhere i'm hoping between december and february faster i can get done the better
+
+190
+00:29:56,859 --> 00:30:02,410
+early yeah i want to do this every few months every three or four months i want to do something
+
+191
+00:30:02,410 --> 00:30:09,779
+like that because that's fun to me that's it just i just that's that's what i care about at this
+
+192
+00:30:09,779 --> 00:30:18,470
+point and now the team exists there they are ready and they are willing and they were just like
+
+193
+00:30:19,349 --> 00:30:26,920
+whatever you come up with let's fucking go it's like dude i have i have i have fucking nightmares
+
+194
+00:30:26,920 --> 00:30:37,029
+and dreams every single night with new scenarios so we're not gonna run out of those but it was
+
+195
+00:30:37,109 --> 00:30:42,500
+something that was cut nope i wrote up everything you see on that stream i've
+
+196
+00:30:42,500 --> 00:30:50,099
+written down on a piece of paper you know series of napkins i was at it was at chili's and just
+
+197
+00:30:50,099 --> 00:30:54,900
+wrote like an crayon a series of things that i wanted to do and you know every bullet point
+
+198
+00:30:54,900 --> 00:31:01,140
+every piece everything that i wanted and sent it off to the producer producer said can we make
+
+199
+00:31:01,140 --> 00:31:15,509
+this happen the rest is uh history too many napkins ordered off the kids menu no ordering
+
+200
+00:31:15,509 --> 00:31:24,759
+off the kids menu at a chili's you honestly may as well just go to the grocery store and just get a
+
+201
+00:31:24,759 --> 00:31:34,170
+loaf of white bread and just eat it out of the bag this the same nutritional value so that way
+
+202
+00:31:34,170 --> 00:31:38,250
+we're still sub september isn't like chilies right like we're not gonna do like sub october and it's
+
+203
+00:31:38,250 --> 00:31:51,269
+chilies right am i gonna get i'm not i gotta stop talking shit about stuff mr luxury streamer
+
+204
+00:31:53,700 --> 00:32:03,019
+hold on a minute here i am not a luxury streamer i just don't like chilies you can be
+
+205
+00:32:03,019 --> 00:32:15,700
+non-luxury and not like chilies i don't think that's a very controversial opinion i mean
+
+206
+00:32:16,420 --> 00:32:22,839
+that being said the southwestern egg rolls are some of the finest they actually are pretty good
+
+207
+00:32:22,839 --> 00:32:33,430
+he's backtracking oh i gotta test my new my my audio compressor does it work you tell me ready
+
+208
+00:32:34,569 --> 00:32:39,769
+you should this should not get louder than like it too loud to listen to i'm gonna peek the mic
+
+209
+00:32:39,769 --> 00:32:43,769
+right now but it's not gonna peak this is a test i couldn't test before the stream started here we
+
+210
+00:32:43,769 --> 00:32:57,930
+go ah right that was okay that was that was fine right it didn't know it could there's no way it
+
+211
+00:32:57,930 --> 00:33:07,140
+could peak i have a limiter on now yeah is it distorting when i get this close when i go louder
+
+212
+00:33:07,140 --> 00:33:14,700
+than that does it distort that's what i need to know somebody just gave that was disgusting
+
+213
+00:33:14,700 --> 00:33:23,859
+somebody gave five it was uh durnu uh kaiser gave five community subs it did peak it's not possible
+
+214
+00:33:23,859 --> 00:33:34,069
+for it to peak i have a limiter set up right now let me prove it to you where's my audio where's
+
+215
+00:33:34,069 --> 00:33:40,119
+my audio monitoring device there it is all right hold on a second here so you tell me that you
+
+216
+00:33:40,119 --> 00:33:50,680
+said it's still it's still peaking your career is peaking okay see you in december and tell me
+
+217
+00:33:50,680 --> 00:34:06,890
+the same thing hey see it see in like december or january i want that guy to come back okay so
+
+218
+00:34:06,890 --> 00:34:24,139
+this is your career peaked at spi no that i there's no it did not oh mega lull true like true true
+
+219
+00:34:24,139 --> 00:34:33,800
+true just because that's your favorite thing doesn't mean that's where i peaked there is no
+
+220
+00:34:33,800 --> 00:34:38,599
+there is no peak i already told you i'm fucking i'm going on the gas until i have to walk at that
+
+221
+00:34:38,599 --> 00:34:43,639
+point the car would be when you peaked because then walking is much slower than driving and
+
+222
+00:34:43,639 --> 00:34:49,849
+crawling is slower than walking and when and when and when you're a ghost you don't have leg you
+
+223
+00:34:49,849 --> 00:35:00,730
+can't walk oh fuck this is not good what was i supposed to be doing oh right and i was testing
+
+224
+00:35:00,730 --> 00:35:13,909
+the limiter here all right i'm i can i can monitor this okay so uh hello i want to monitor this
+
+225
+00:35:14,789 --> 00:35:22,099
+is it working why is it not working is my computer fucked hello hello
+
+226
+00:35:22,900 --> 00:35:37,059
+hello hello hello hello hello i can't hear anything why i have lost audio on my computer
+
+227
+00:35:49,030 --> 00:35:59,429
+hello there we go this one shit's breaking okay uh no i can't peek i'm looking at it right now and
+
+228
+00:35:59,429 --> 00:36:16,579
+hear it oh no i can't okay not important so let's let's move on that's that was not important i
+
+229
+00:36:16,579 --> 00:36:22,139
+could have done that without being on camera so all right anyways what are you guys looking
+
+230
+00:36:22,139 --> 00:36:39,320
+you guys got a picture you want me to look at what is it oh like this what this is some kind
+
+231
+00:36:39,320 --> 00:36:48,710
+of surprise i guys guys i'm in this photo i i know this picture exists somebody didn't just
+
+232
+00:36:48,710 --> 00:36:53,110
+like sprint over to me and like make me stand next to that and then take a photo and run away
+
+233
+00:36:58,179 --> 00:37:09,590
+that's whatever how do i explain that i i mean what do you want me to explain that five six is
+
+234
+00:37:09,590 --> 00:37:18,489
+is like six six six eight look at the bars up top look that is bigger than a ceiling
+
+235
+00:37:19,050 --> 00:37:27,780
+or you think someone's who are those bars made for then all right if that's five six who are
+
+236
+00:37:27,780 --> 00:37:48,070
+the bars made for for children okay so you you think that what children like three feet tall
+
+237
+00:37:48,070 --> 00:38:02,869
+like how big are the people that are on that five six bars at five six doesn't know how tall kids
+
+238
+00:38:02,869 --> 00:38:11,159
+are yes i do the sign was incorrect and i was looking at it and then somebody took a picture
+
+239
+00:38:11,159 --> 00:38:16,730
+of it and they were laughing hysterically like their face was bright red laughing like wheezing
+
+240
+00:38:17,369 --> 00:38:20,889
+and i just kept going like i don't understand why i don't understand they got the picture and
+
+241
+00:38:20,889 --> 00:38:25,690
+they put they posted it they said could i just please post that picture and i was like yeah
+
+242
+00:38:30,739 --> 00:38:42,420
+four four six is like this tall that's like six i think that's like either six six
+
+243
+00:38:43,380 --> 00:38:52,099
+or that's like over that's almost seven feet tall look at the tree in the background is that tree
+
+244
+00:38:52,099 --> 00:39:01,739
+six feet tall i know that's a that's perspective i can't that's i can't prove it that way what does
+
+245
+00:39:01,739 --> 00:39:11,380
+it say stand up and hold a ruler no then i'll break the illusion that i'm some fucking goblin
+
+246
+00:39:12,789 --> 00:39:18,070
+that hunches over and carries like a backpack of gold around and i don't i don't want to break that
+
+247
+00:39:18,070 --> 00:39:28,139
+illusion that should have been pretty sick though if you had go that much gold everybody talk shit
+
+248
+00:39:28,139 --> 00:39:32,300
+about the goblet oh that yeah there goes the goblin with the goldenness in the knapsack
+
+249
+00:39:32,860 --> 00:39:36,460
+uh yeah that's worth like six or seven hundred million dollars like is that
+
+250
+00:39:38,469 --> 00:39:45,159
+you want to like talk down to the goblin with the fucking gigantic sack of gold they are they go
+
+251
+00:39:45,159 --> 00:39:52,760
+into their house like oh they slam it down and then they process it through like bank of america
+
+252
+00:39:53,559 --> 00:39:59,530
+and they get in their suit and their tie and then they go to fucking dinner the nicest restaurant
+
+253
+00:39:59,530 --> 00:40:15,860
+in the entire fucking city now he's projecting now he's projecting if you guys think i i you think i
+
+254
+00:40:15,860 --> 00:40:25,349
+own a suit no i don't you saw me with the only suit jacket i own on december 31st and it was too
+
+255
+00:40:25,349 --> 00:40:30,070
+small remember my arms were coming out of it i had that i've had that suit jacket since i was like
+
+256
+00:40:30,070 --> 00:40:40,789
+fucking i don't know 17 or something the new year stream yeah that's the only i know i think i don't
+
+257
+00:40:40,789 --> 00:40:45,510
+think i'm gonna have that anymore am i gonna play anything yeah yeah we're gonna play um
+
+258
+00:40:46,630 --> 00:40:52,300
+i'm just people wanted to hang out and talk for a little bit go over the the weekend and then
+
+259
+00:40:52,300 --> 00:41:00,389
+we're gonna play untitled goose game how do they make contact with andy mark it was a long process
+
+260
+00:41:01,690 --> 00:41:06,650
+those of you that don't know that stream i wanted to do that stream for about two years
+
+261
+00:41:08,550 --> 00:41:15,269
+it was so hard to try to find anybody that knew anything about robotics to that extent
+
+262
+00:41:17,849 --> 00:41:24,650
+because there's been plenty of you know twitch controls stuff on this site before obviously
+
+263
+00:41:24,650 --> 00:41:27,769
+twitch plays pokemon right that was the big one that was the first one wow this is crazy
+
+264
+00:41:28,329 --> 00:41:36,409
+the twitch controls this thing twitch moves that thing but never twitch can control a robot to that
+
+265
+00:41:36,409 --> 00:41:42,730
+size and that weight and that kind of device shooting like a ball out of it a real softball
+
+266
+00:41:42,730 --> 00:41:50,329
+not just like a little laser or a little um like action figure thing so anybody that
+
+267
+00:41:51,590 --> 00:41:55,670
+people at twitch i brought it up to people at twitch i had a partner manager at the time
+
+268
+00:41:56,230 --> 00:41:59,750
+and it was just like hey this is what i want to do i want to do like a little twitch dunk tank i'm
+
+269
+00:41:59,750 --> 00:42:04,469
+gonna do a carnival maybe and have like clowns and do some jokes and bring in some games and
+
+270
+00:42:04,469 --> 00:42:08,869
+some rides and stuff and they were like oh that sounds really cool and it was just a process of
+
+271
+00:42:08,869 --> 00:42:15,510
+trying to find the right person to connect to somebody that knew somebody who then could say
+
+272
+00:42:16,309 --> 00:42:23,659
+oh that sounds like a great idea and yes i work for a robotics company it was just tricky but
+
+273
+00:42:24,300 --> 00:42:31,400
+just through bouncing from person to person to person to person it went from my new partner
+
+274
+00:42:31,400 --> 00:42:36,119
+manager who without uh without my new partner manager this seriously this stream does not happen
+
+275
+00:42:37,130 --> 00:42:43,929
+they connected me to the first person necessary to be able to start the whole thing so without
+
+276
+00:42:43,929 --> 00:42:58,630
+that person it does not exist me no not me not you no um it really was a one guy scenario
+
+277
+00:42:59,500 --> 00:43:08,440
+and then i got linked up with um jk productions which was a production company that knew the
+
+278
+00:43:08,440 --> 00:43:13,880
+people at andy mark and through um various events and stuff and just somebody that knows
+
+279
+00:43:13,880 --> 00:43:20,760
+somebody that knows somebody that knows that person uh led to uh andy mark making these robots
+
+280
+00:43:21,480 --> 00:43:26,519
+and doing this whole thing the stream did the stream did cost a lot of money it did like i'm
+
+281
+00:43:26,519 --> 00:43:30,840
+i people have been wanting to know and i i'm not going to tell you a number because i don't think
+
+282
+00:43:30,840 --> 00:43:41,110
+it's necessary i don't think so but it it was some cash it was some it was some money because
+
+283
+00:43:41,110 --> 00:43:44,710
+there's no way that somebody could make those kind of things without trying to dish out a
+
+284
+00:43:44,710 --> 00:43:48,949
+little bit of money but i've said this before i said it a thousand times it was at least a dollar
+
+285
+00:43:48,949 --> 00:44:00,059
+yes it was 500 000 i said it on stream it was like 600 million no um i don't need to i don't
+
+286
+00:44:00,059 --> 00:44:06,500
+want to give a number because once once you start giving numbers then i don't know you start i don't
+
+287
+00:44:06,500 --> 00:44:12,739
+want anyone to feel like in this community holy shit oh they gave stuff but we gotta like refill
+
+288
+00:44:12,739 --> 00:44:18,150
+that i don't want that i don't want to come across like i'm saying oh you guys that was a lot of
+
+289
+00:44:18,150 --> 00:44:27,699
+money like oh that was a lot of you know i'm saying that was a lot of cash for me um it's
+
+290
+00:44:27,699 --> 00:44:38,070
+not necessary and i don't want any people it's it's easy to concern people right like hold on how
+
+291
+00:44:38,070 --> 00:44:41,750
+much money did you spend dude don't fucking do that anymore you don't have to do that don't do
+
+292
+00:44:41,750 --> 00:44:46,199
+what i actually when i told star star is one of the people that knows how much money this cost
+
+293
+00:44:46,840 --> 00:44:55,420
+and he he was like what the fuck are you doing he was like you are fucking crazy and i was like no
+
+294
+00:44:55,420 --> 00:45:05,300
+just don't like to know no i'm fine um remember the time when i muted everyone was like why did
+
+295
+00:45:05,300 --> 00:45:18,230
+you mute what did you guys talk about it was that but again this channel sees so much money
+
+296
+00:45:18,230 --> 00:45:24,280
+it does what you want to like pretend like it doesn't like i i don't i want to be completely
+
+297
+00:45:24,280 --> 00:45:28,579
+fucking see-through you know what i mean i don't want anyone to think you guys give a ton of
+
+298
+00:45:28,579 --> 00:45:37,099
+fucking money to the stream way more than i think some of you guys think so if i am going to i want
+
+299
+00:45:37,099 --> 00:45:43,179
+to do this i want to take whatever you guys give to this channel obviously i'm gonna i'm not going
+
+300
+00:45:43,179 --> 00:45:48,940
+to be like a total you know everything's for the stream obviously i want to try to have like a decent
+
+301
+00:45:49,659 --> 00:45:55,260
+living and have money for bills and money to put away and to save money and you guys
+
+302
+00:45:55,260 --> 00:46:00,099
+are doing that shit like you are that's where this comes from but that doesn't fucking matter
+
+303
+00:46:00,099 --> 00:46:06,179
+if i can take a large portion of this money and have a twitch controlled fucking carnival
+
+304
+00:46:07,139 --> 00:46:12,199
+that's what's going to happen every single fucking time if i'm able to do it
+
+305
+00:46:12,199 --> 00:46:21,619
+it's gonna happen every time he's obsessed with spending money stop talking about it you're gonna
+
+306
+00:46:21,619 --> 00:46:29,590
+regret it no there's no way how could i regret something like that it's not gonna happen
+
+307
+00:46:31,719 --> 00:46:42,469
+it was everything i wanted it to be so i just i just i can't i have no regrets and speaking of
+
+308
+00:46:42,469 --> 00:46:55,980
+money rvm thanks for the 5000 bits no yeah no i saw the card we talked i was in the pre-stream
+
+309
+00:46:55,980 --> 00:47:15,340
+we talked about it oh wait maybe did i didn't know i saw this one didn't i yeah i know that
+
+310
+00:47:15,340 --> 00:47:19,820
+yeah all the everyone contributing all the artwork and all the wonderful fucking sayings and messages
+
+311
+00:47:19,820 --> 00:47:34,650
+and everything for my birthday yeah yeah it's it's unfucking believable i i cannot words cannot
+
+312
+00:47:34,650 --> 00:47:45,690
+describe the feeling that you get when something like that comes in you know i'm saying every
+
+313
+00:47:45,690 --> 00:47:52,889
+message every piece of artwork it's made it's i'm 34 it's you know i didn't really do too much from
+
+314
+00:47:52,889 --> 00:47:58,170
+i mean i went out and uh and you know had a couple of drinks and stuff and just kind of chilled
+
+315
+00:47:58,730 --> 00:48:06,179
+it was a great time but when you get to be over 30 birthdays start to kind of become it's not like oh
+
+316
+00:48:06,179 --> 00:48:15,940
+i'm 18 i'm 21 i'm 25 i'm 30 it's kind of at this point that the ticker is just continuing to roll
+
+317
+00:48:16,579 --> 00:48:25,619
+so uh that's an incredibly special feeling to see something like this monkey ass what
+
+318
+00:48:27,530 --> 00:48:31,050
+what what are you talking about that's just the way it is how long am i i gotta cut these before
+
+319
+00:48:31,050 --> 00:48:36,059
+twitchcon remind me before the stream ends yeah look at these things these things gotta go
+
+320
+00:48:37,480 --> 00:48:41,719
+these are that these are kind of how long your nails are these are accidentally scratch your face
+
+321
+00:48:41,719 --> 00:49:03,320
+long nails but seriously so many people was like signed on this too this was a what i believe from
+
+322
+00:49:03,320 --> 00:49:06,760
+looking at the reddit thread about it and all the people that were posting stuff i mean this is a
+
+323
+00:49:06,760 --> 00:49:14,389
+multi-week thing to do so thank you everybody in the community that anything to do with this
+
+324
+00:49:17,460 --> 00:49:24,789
+it's good shit thank you but going back to what he's having a midlife crisis not till i'm 45
+
+325
+00:49:25,349 --> 00:49:31,639
+you know as long as i still look like this i mean i might i might get a little droopy i've already
+
+326
+00:49:31,639 --> 00:49:38,860
+started here if you go back this is interesting if you go back um go back like five or six years to
+
+327
+00:49:38,860 --> 00:49:46,230
+the youtube channel and go to a facecam video i don't have this it was like that i'm getting
+
+328
+00:49:46,230 --> 00:50:00,389
+a little droopy around the mouth here so you know it happens quick what did quick what he's turning
+
+329
+00:50:00,389 --> 00:50:10,820
+into bugleberry slowly grow a beard i can't grow a beard this is this is the extent of what i can
+
+330
+00:50:10,820 --> 00:50:15,849
+grow for a facial hair before i have to shave it before it looks embarrassing okay tell me if i'm
+
+331
+00:50:15,849 --> 00:50:21,769
+a weirdo am i weird let me explain let me explain this my i like the way that i look the most
+
+332
+00:50:22,630 --> 00:50:30,739
+when i've had two to three days of not shaving a fresh close shave i don't like the way that
+
+333
+00:50:30,739 --> 00:50:39,340
+i look right after it so during events for instance like twitchcon coming up i'm timing
+
+334
+00:50:39,340 --> 00:50:44,699
+every time about twitchcon the carnival stream oh i'm i've got a big party that i want to go to
+
+335
+00:50:44,699 --> 00:50:51,099
+oh i have this event that i have planned it oh and it's in it's in three days i time it so i shave
+
+336
+00:50:51,659 --> 00:50:57,639
+so then within two to three days i'm gonna show up to the twitchcon party and it's gonna be like
+
+337
+00:50:57,639 --> 00:51:05,059
+it's been two and a half full days exactly timed timed stubble and i'll be like hey what's up it's
+
+338
+00:51:05,059 --> 00:51:10,469
+me germa95 you know me everyone's gonna go i don't know no who the fuck are you and i'm gonna go
+
+339
+00:51:10,469 --> 00:51:15,820
+goodbye you know see what i got here i got like time stubble and they're gonna go i don't know
+
+340
+00:51:15,820 --> 00:51:34,360
+get away from me is that weird to time your stubble no a little a little and then i get really pissed
+
+341
+00:51:34,360 --> 00:51:40,599
+off and i miss time it by a little bit because it's three days it is like two and a half to the
+
+342
+00:51:40,599 --> 00:51:48,250
+third day if i miss time it and a fourth day goes by and then i go to the event no no we're all
+
+343
+00:51:48,250 --> 00:51:53,989
+fucked up now and it looks like shit and then i have to have the awkward conversation with myself
+
+344
+00:51:53,989 --> 00:51:59,639
+do you want to look a little dirty or do you want to look clean shave in the way that you don't like
+
+345
+00:51:59,639 --> 00:52:05,780
+oh it's hard okay how do i look right now it's like kind of scraggly i look a little dirty and
+
+346
+00:52:05,780 --> 00:52:15,750
+shit but i it's still all right just trim it no because i i've tried i have tried to trim when
+
+347
+00:52:15,750 --> 00:52:22,699
+you trim you end up doing this fuck you end up doing like patchy grass it's like mowing a lawn
+
+348
+00:52:22,699 --> 00:52:27,659
+you end up missing spaces and you have like scraggly hair and random spots i remember one
+
+349
+00:52:27,659 --> 00:52:33,449
+time it was so embarrassing i got an electric razor that had the trimmer on it and i was i was
+
+350
+00:52:33,449 --> 00:52:38,809
+at like five days no i gotta get this down to three so trying to get it down to three days
+
+351
+00:52:38,809 --> 00:52:46,949
+and it looked okay i got rolling on oh that looks all right right i get to where i was going
+
+352
+00:52:46,949 --> 00:52:52,090
+and nobody said anything i didn't know there was no hey whoa what the fuck's going on with your
+
+353
+00:52:52,090 --> 00:52:57,260
+neck no nobody said a damn thing i went to the bathroom and i was checking myself i'll just
+
+354
+00:52:57,260 --> 00:53:00,860
+making sure everything's going all right you know i've been there for an hour or two and then i went
+
+355
+00:53:00,860 --> 00:53:11,780
+like this and went like because i had these just spikes just black spikes sticking out of
+
+356
+00:53:11,860 --> 00:53:18,170
+random places in my neck because i didn't get them all the way it wasn't a beard it was just these
+
+357
+00:53:18,170 --> 00:53:24,329
+weird gross like hairs that were just poking out of a million different places so for the rest of
+
+358
+00:53:24,329 --> 00:53:32,489
+the night i was kind of like looking down like this i'm not at not extreme like that but you know
+
+359
+00:53:32,489 --> 00:53:36,809
+what i mean you end up just thinking and then you get the idea you go all right can i pluck all
+
+360
+00:53:36,809 --> 00:53:41,820
+these out in the mirror there was probably like 45 of them and i'm just like can i sit here and
+
+361
+00:53:41,820 --> 00:53:48,519
+pretend i'm taking a dump and just pluck all 45 of these with my bare hands you got i got like
+
+362
+00:53:48,519 --> 00:53:56,949
+two or three in and i was like that's not going to happen so i i don't do the trimmers anymore
+
+363
+00:53:56,949 --> 00:54:04,309
+try to take a five day down to a three no i just time it perfectly for instance this is like
+
+364
+00:54:04,309 --> 00:54:14,730
+embarrassing uh the twitch party is on saturday night so what am i going to do on wednesday night
+
+365
+00:54:14,730 --> 00:54:25,460
+thursday night friday night saturday night notice how i still haven't shaved see in like
+
+366
+00:54:26,099 --> 00:54:38,840
+four or five hours when i shave my fucking beard remember you need to chill out with this shit
+
+367
+00:54:38,840 --> 00:54:57,139
+all right well you you and my mother agree that's good no i i shaven's okay shave on stream
+
+368
+00:54:57,139 --> 00:55:01,159
+i won't i'll never do that i will never shave on stream you know how scary that is to do
+
+369
+00:55:02,119 --> 00:55:08,940
+i know guys i have i you know i also wouldn't stand outside on stream in a
+
+370
+00:55:09,820 --> 00:55:15,579
+field during a thunderstorm i'm not going to get struck by lightning it's not going to happen
+
+371
+00:55:15,579 --> 00:55:19,900
+it's raining out and this thunder and lightning outside i'm just going to stand outside like in
+
+372
+00:55:19,900 --> 00:55:27,530
+grass could i get struck by lightning make sure is there like a one zero point one point one percent
+
+373
+00:55:27,530 --> 00:55:32,539
+chance that it'll happen yeah i don't want to get struck by lightning on stream i don't want to be
+
+374
+00:55:32,539 --> 00:55:39,059
+shaving on stream and the zero point zero zero one percent chance that the blade is something
+
+375
+00:55:39,059 --> 00:55:45,940
+wrong with it or it's too dull or i i turn the wrong way and like i get a bad cut on my face like
+
+376
+00:55:45,940 --> 00:55:51,860
+on stream shaving because i shave with a safety razor i don't shave with like a Gillette like
+
+377
+00:55:51,860 --> 00:55:58,969
+just no i have i have a real blade i shave with a real blade i ain't gonna get struck by lightning
+
+378
+00:55:58,969 --> 00:56:08,489
+on stream stop having such a chad jawline it actually sucks because when you look at this
+
+379
+00:56:08,489 --> 00:56:16,570
+thing look at that's all bone like you can't shave over that look at this bone that's bone
+
+380
+00:56:16,570 --> 00:56:34,420
+that's bone so when i have a razor i have to i have to i have to like go around this big ass bone
+
+381
+00:56:34,420 --> 00:56:38,739
+and then you end up having like you your eyes you have to cross your eyes those of you that have like
+
+382
+00:56:38,739 --> 00:56:46,420
+big ass bones here right i have to go like this let's say you're the mirror i have to go like this
+
+383
+00:56:47,559 --> 00:56:54,679
+into the mirror i can't fucking see what i can't see i can barely fucking see what's happening
+
+384
+00:56:54,679 --> 00:57:05,510
+right now i'm just telling you i'm just telling you how it is Jeremy you look real old today
+
+385
+00:57:05,510 --> 00:57:17,539
+is it a birthday gag thanks but it's true it's true uh but i i used to shave and the reason why
+
+386
+00:57:17,539 --> 00:57:22,420
+i switched and i'm very careful like i'm not gonna fucking around when i tell you that uh i switched
+
+387
+00:57:22,420 --> 00:57:28,920
+from the guy to say don't listen to this bullshit all right this is more this is more like shit
+
+388
+00:57:28,920 --> 00:57:33,400
+talking of companies that will never sponsor me okay we don't do sponsors on this channel anyways
+
+389
+00:57:34,039 --> 00:57:43,050
+you don't it's time for the the six or seven blades in one day one two three four five six
+
+390
+00:57:43,050 --> 00:57:48,250
+seven eight nine all right you when you shave your face you shave with the first blade it gets the
+
+391
+00:57:48,250 --> 00:57:54,579
+big hairs the second blade gets the tiny hairs the third blade gets you don't need five fucking
+
+392
+00:57:54,579 --> 00:58:01,460
+blades you don't need like eight blades in one of those like and then they have like gel on them
+
+393
+00:58:01,460 --> 00:58:12,500
+what is this thing what happened to the goose game it's still happening we're still gonna do it
+
+394
+00:58:12,500 --> 00:58:20,579
+the blades get clogged up yeah you go down once and then you just got this like fucking mess in
+
+395
+00:58:20,579 --> 00:58:28,699
+there that you have to like dunk and like blow on it and like swish it around in water and they're
+
+396
+00:58:28,699 --> 00:58:36,389
+expensive do you know how cheap a razor blade is and you know how expensive would you go to cvs
+
+397
+00:58:36,389 --> 00:58:44,789
+and buy one of those fucking 16 blades with like the like the fucking sea salt gel that's all over
+
+398
+00:58:44,789 --> 00:58:49,269
+it and the fucking powder on the bottom you know how much money that is and you have to buy a new
+
+399
+00:58:49,269 --> 00:59:04,219
+one like every month it's really expensive i switched to just a safety razor so just raise it
+
+400
+00:59:04,219 --> 00:59:08,940
+the thing with the head you screw it on it's just a razor blade it's got two sides it's a one blade
+
+401
+00:59:08,940 --> 00:59:14,760
+two edges and as long as you're careful and you train yourself and you get tutorials on how to do
+
+402
+00:59:14,760 --> 00:59:26,119
+it i just kind of started doing it i am actually afraid to use the barber one you know it's what
+
+403
+00:59:26,119 --> 00:59:32,550
+i'm talking about the one that's like a switchblade it's like no no no i that to me that's like going
+
+404
+00:59:32,550 --> 00:59:40,230
+into the kitchen and grabbing a knife out of the drunk straight razors i can't do safety razor i
+
+405
+00:59:40,230 --> 00:59:47,239
+can't it's it's actually it's scary it is and i look i know there's a lot of people that use
+
+406
+00:59:47,239 --> 00:59:53,909
+straight razors and yeah you know i shave with a straight razor you know i do it's much cleaner
+
+407
+00:59:53,909 --> 01:00:00,199
+it's much better for you that person is terrified every time they use it internally they can tell
+
+408
+01:00:00,199 --> 01:00:04,119
+anybody that they use a straight razor they'll be in the mirror just going hope this ain't the
+
+409
+01:00:04,119 --> 01:00:19,579
+fucking day hope this ain't the day it's funny because even when i use a safety razor i say the
+
+410
+01:00:19,579 --> 01:00:27,159
+same thing i this is fine this is fine here here no this is very easy once i get down here
+
+411
+01:00:28,039 --> 01:00:35,849
+hope this ain't what hope this ain't the day okay it's not are you being a stand-up comedian
+
+412
+01:00:36,570 --> 01:00:45,159
+now is this an irl stream wax it off i actually thought about that before but that shit's
+
+413
+01:00:45,159 --> 01:00:56,460
+fucked that shit is worse talk more about beards i shaved the wrong way what are you talking about
+
+414
+01:00:58,599 --> 01:01:08,340
+you you don't shave upside down like this you what you go down wait hold on you go you want
+
+415
+01:01:08,340 --> 01:01:18,250
+me to go upside down with a safety razor this way what are you talking about you want to turn
+
+416
+01:01:18,250 --> 01:01:31,099
+the blade upside down and go up my face this way nobody fucking pay attention to the people in the
+
+417
+01:01:31,099 --> 01:01:50,010
+chat right now that be careful when you use any sharp objects near your face that goes for
+
+418
+01:01:51,210 --> 01:01:58,889
+that goes for shaving razors that goes for toothpicks those of you that chew on toothpicks
+
+419
+01:01:58,889 --> 01:02:02,329
+this goes for you too and i know one of you right now has one in there and you're like what fucking
+
+420
+01:02:02,329 --> 01:02:07,449
+me what what would i do wrong be careful because that you can get stabbed now i've been stabbed in
+
+421
+01:02:07,449 --> 01:02:13,219
+the mouth by a toothpick before it was like oh i felt like went through the cheek so be careful
+
+422
+01:02:13,219 --> 01:02:19,539
+i used to be one of those people i used to love the mint coated oh i want one of these right now
+
+423
+01:02:19,539 --> 01:02:27,159
+if i had one right now i would do it the mint coated toothpicks you just kind of spin them around
+
+424
+01:02:27,159 --> 01:02:32,679
+like this i always need something to do with my mouth i have the adhd i gotta have something in
+
+425
+01:02:32,679 --> 01:02:37,820
+my hands i've got to have something in my mouth chewing gum hurts i don't want to you know when
+
+426
+01:02:37,820 --> 01:02:48,010
+you chew gum oh just chew gum no it's like no go like this 500 000 times every day your jaw hurts
+
+427
+01:02:49,079 --> 01:02:53,159
+um i need a toothpick i'm you know maybe i'll be like maybe i'll be the guy
+
+428
+01:02:54,599 --> 01:02:59,239
+maybe i'll be the guy with the toothpick at twitchcon you know what i mean just like sitting back with
+
+429
+01:02:59,239 --> 01:03:08,179
+like my grape juice my like fucking fruit punch whatever with toothpick but that way i would look
+
+430
+01:03:08,179 --> 01:03:13,780
+cool right is that still cool it was cool like 50 years ago is it cool to still have a toothpick
+
+431
+01:03:18,199 --> 01:03:29,460
+no it could be though i'm gonna do it i'm gonna get like a mint toothpick and i'm gonna walk around
+
+432
+01:03:29,460 --> 01:03:36,550
+with it and be like the toothpick dickhead guess what because then everybody that you come across
+
+433
+01:03:37,110 --> 01:03:41,190
+hey what's your name hey general nice to meet you toothpick guy's gonna fucking put the toothpick
+
+434
+01:03:41,190 --> 01:03:46,019
+toothpick in his mouth there's gonna be eight people in an uber on the ride back to the hotel
+
+435
+01:03:46,019 --> 01:03:51,219
+going do you guys see the guy with the toothpick toothpick yeah i remember toothpick guy yeah he
+
+436
+01:03:51,219 --> 01:03:55,619
+was fucking cool yeah i like shook his hand he gave me his business card we were gonna talk about
+
+437
+01:03:55,619 --> 01:03:59,860
+like fucking collaborating yeah the guy with the toothpick he's the only guy with the toothpick
+
+438
+01:03:59,860 --> 01:04:15,369
+at the whole party and then i have to it has to be a thing if i ever like do irl and like hey oh we
+
+439
+01:04:15,369 --> 01:04:18,730
+were gonna do like we were gonna be like streaming as a group tomorrow you want to come toothpick
+
+440
+01:04:18,730 --> 01:04:24,659
+guy that's you toothpick guy then i have to be toothpick guy on their stream and i'm just like
+
+441
+01:04:24,659 --> 01:04:35,980
+typecasting myself as the toothpick guy and i don't want that to happen there's not somebody
+
+442
+01:04:35,980 --> 01:04:41,019
+named toothpick guy in chat right now if there is give me that i want that give me that username
+
+443
+01:04:41,019 --> 01:04:54,780
+it's mine you are a top 500 streamer they just become toothpick guys toothpick guy nine eight
+
+444
+01:04:54,780 --> 01:05:02,519
+five sometimes twitch is like hey do you want headshots taken of your stream and stuff it's
+
+445
+01:05:02,519 --> 01:05:09,610
+like yeah i'm gonna do it next time with the fucking toothpick you guys don't understand i
+
+446
+01:05:09,610 --> 01:05:18,519
+don't care i'm running with this i am gonna have somebody bring me up as the toothpick guy from the
+
+447
+01:05:18,599 --> 01:05:26,599
+party i don't care if it's here i don't care if it's somebody randomly just like says on their
+
+448
+01:05:26,599 --> 01:05:31,320
+stream one day and you happen to be watching yeah yeah i remember like somebody bought us all around
+
+449
+01:05:31,320 --> 01:05:36,440
+and it was really fun and what was i was a guy with the toothpick then just know that was me
+
+450
+01:05:39,849 --> 01:05:44,329
+except don't no that's actually a bad idea because like yeah this guy the toothpick was walking
+
+451
+01:05:44,329 --> 01:05:49,610
+around he was a shithead and it's somebody else like now making me look bad because of all that
+
+452
+01:05:49,610 --> 01:05:56,570
+is is just putting a toothpick in your mouth yeah some guy with a toothpick in his mouth got
+
+453
+01:05:56,570 --> 01:06:18,039
+thrown out it wasn't me i swear to god i was just doing it to look cool anyways i'm not gonna say
+
+454
+01:06:18,039 --> 01:06:28,389
+the word i'm not gonna say the toothpick word anymore we're gonna move on tooth tooth prick
+
+455
+01:06:31,780 --> 01:06:37,219
+okay right i need to write that down because that's seriously that's seriously like a that's a
+
+456
+01:06:37,219 --> 01:06:44,260
+that's a that's a rumble character it has to be well what are you guys linking here all right
+
+457
+01:06:44,260 --> 01:06:47,849
+all right we're gonna play we're gonna play a game there's a game i want to play we've been
+
+458
+01:06:47,849 --> 01:06:56,630
+hanging out for like an hour just wanted to kind of chill over the first time getting back hope
+
+459
+01:06:56,630 --> 01:07:04,820
+you enjoyed that stream it was a ton of fun expect to see more stuff like that in the future now let
+
+460
+01:07:04,820 --> 01:07:12,969
+me open up this goose game wait isn't my stream title barking at people uh that's not really
+
+461
+01:07:12,969 --> 01:07:24,380
+accurate at the moment it will be very soon though uh how do i turn off the camera this is a new
+
+462
+01:07:24,380 --> 01:07:36,840
+program i don't know how to work it you don't oh there we go hey there we go

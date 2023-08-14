@@ -1,0 +1,88 @@
+[0.31s -> 15.13s]  Hey, what is going on, everybody? Jerma here with the Triad Pack for Team Fortress 2.
+[15.13s -> 21.63s]  Now, this was a surprise indeed. We just got the Pyromania update, less than a month ago,
+[21.63s -> 26.63s]  and they're gonna throw four new weapons and items at us, and a bunch of new miscellaneous hats and stuff like that.
+[26.63s -> 32.87s]  So, this is a total unexpected surprise to me. I actually woke up yesterday, I took a nap,
+[32.87s -> 38.11s]  and apparently this all updated during my nap time, and when I woke up, I got over to my computer,
+[38.11s -> 43.29s]  saw that Team Fortress was updating, and I thought it was, like, localization files or something like that.
+[43.29s -> 48.29s]  I didn't think it was some crazy update, and then I saw the main page, and gasped.
+[48.29s -> 54.29s]  So, there's a bunch of new stuff, a bunch of cool new items. A couple of them are actually really, really good,
+[54.29s -> 60.72s]  and really, really fun, and the other two are sort of gimmick items, and they're not really that useful,
+[60.72s -> 64.90s]  but it's still interesting to get them in an update. So, let's start with the Scout first of all,
+[64.90s -> 70.90s]  because he is first in line, of course, and he got a new secondary, the Flying Guillotine, or Guillotine,
+[70.90s -> 76.90s]  however you want to say it. Throw at your enemies to make them bleed. Long, distant hits cause mini-crits,
+[76.90s -> 83.90s]  and 100% criticals versus stunned players. No random critical hits. This thing is amazing.
+[83.90s -> 90.90s]  This thing is so much fun to use. Using this in conjunction with the Sandman is a massive 1-2 punch.
+[90.90s -> 96.07s]  It does 150 damage when it crits somebody. So, if you can stun somebody with the Sandman,
+[96.07s -> 102.31s]  whip over to this thing, and throw it at them, you are guaranteed to kill half of the classes in this game.
+[102.31s -> 107.31s]  It is incredibly powerful, and one thing I will say, I haven't been able to make it mini-crit.
+[107.31s -> 110.31s]  I don't know what the range on it is, I don't know how far away you have to be,
+[110.31s -> 115.31s]  but it seems like you've got to be really far away for it to actually mini-crit somebody from distance.
+[115.31s -> 120.55s]  One more thing to say about this item before I move on to the next one is, this and the Wrap Assassin
+[120.55s -> 124.55s]  could actually be pretty cool, you know, two different bleeds going on at the same time.
+[124.55s -> 131.55s]  I don't know if one will negate the other, but if they don't, then you could potentially do some pretty goofy stuff with that setup.
+[131.55s -> 138.05s]  So, moving on now, let's go to the Pyro. He got one item, the Neon Annihilator.
+[138.05s -> 143.05s]  It is a melee unlockable for the Pyro. Very, very cool looking, has a really interesting sound,
+[143.05s -> 147.05s]  and it does the Grord Bort's laser death effect when you kill somebody with it.
+[147.05s -> 154.29s]  100% criticals versus wet players, minus 20% slower firing speed, which I believe is actually incorrect,
+[154.29s -> 159.85s]  I think it's 20% less damage, and no random critical hits.
+[159.85s -> 164.85s]  Now, this item might be one of, if not the most situational item in this entire game.
+[164.85s -> 170.22s]  Specifically speaking, you have to play on the right map for it to even function,
+[170.22s -> 174.22s]  and I know it does crit people that are covered in Mad Milk or Jurati,
+[174.22s -> 178.22s]  but that's a very counterintuitive way to look at it, only because, and I'll say one reason,
+[178.22s -> 182.22s]  think of the Sun on a stick. When that came out, everyone was like, oh, this is sort of weird,
+[182.22s -> 187.22s]  it takes the Scout out of his element and makes him try to do something, relies on another class,
+[187.22s -> 193.22s]  and that's sort of what this does as well. I mean, unless you're playing on Lakeside or Two Fort, like you're seeing here,
+[193.22s -> 198.22s]  or something like Well, this weapon is totally reliant on another class to do something for you,
+[198.22s -> 201.22s]  and that's very, like I said, counterintuitive.
+[201.22s -> 208.52s]  Unless Valve comes up with some type of spray can for the Pyro or something, then this falls very, very flat.
+[208.52s -> 215.02s]  Next up on the list is the Heavy. He got a brand new minigun, the Hulong Heatmaker.
+[215.02s -> 220.02s]  I don't know what it is with Valve and the word Heatmaker, because this is the second update in a row where they've used this name,
+[220.02s -> 225.02s]  but it's a brand new minigun, like I said, sustains a ring of flames while deployed,
+[225.02s -> 230.02s]  and it costs six ammo per second while it is down, spinning down, deployed.
+[230.02s -> 235.45s]  I can explain this weapon in less than 30 seconds or so. It is an anti-spy weapon, of course,
+[235.45s -> 240.45s]  and the problem I have with this weapon is not the fact that it's overpowered or anything like that,
+[240.45s -> 246.69s]  but the problem I have is when you get backstabbed by a spy, it is their right to get away.
+[246.69s -> 249.69s]  If you get backstabbed, you got backstabbed. That's kind of the way it is,
+[249.69s -> 254.69s]  unless you have the Razor back on or something like that, but with this item, what this essentially is going to do
+[254.69s -> 260.69s]  is any time you backstab a Heavy, you are just going to light on fire and just get instantly killed.
+[260.69s -> 267.69s]  I don't like that as a balanced decision, and it makes the Heavy, instead of an easier target to kill as the spy,
+[267.69s -> 271.69s]  it makes him almost impossible to kill, because think about it like this.
+[271.69s -> 277.69s]  If you're a spy and you know a Heavy has that item, are you even going to try to go near him and backstab him?
+[277.69s -> 283.69s]  Probably not, which makes the Heavy that much more invulnerable, because that was a huge downside for the Heavy.
+[283.69s -> 288.69s]  You were very, very slow, very vulnerable to spies, and now it's almost totally negated that,
+[288.69s -> 293.69s]  and it's not going to completely negate it. Sure, there's going to be spies that are still going to go for the backstab
+[293.69s -> 300.69s]  and then get themselves killed, but in the long run, it's going to make spy a ton more difficult to play,
+[300.69s -> 305.69s]  especially because the aura is actually pretty large. It's not just a small cone behind the Heavy.
+[305.69s -> 310.69s]  It's a fairly large circle encompassing the entire Heavy that's using it,
+[310.69s -> 315.69s]  and there can be multiple Heavies with this item, just spamming this fire ring of death.
+[315.69s -> 321.25s]  The downside, though, of course, the chewing the ammo, going through the ammo very fast, it's not that big of a deal,
+[321.25s -> 327.25s]  especially because there are so many places to get ammo in this game, running over weapons or picking up ammo crates, dispensers,
+[327.25s -> 335.42s]  so that's not that big of a concern, especially considering that this has the exact same damage and shot stats as the default minigun.
+[335.42s -> 340.42s]  I think how you fix this, though, I think the way you fix this and make it so it's not better than the default,
+[340.42s -> 344.42s]  instead of 200 maximum ammo, bring that down to 150 with this equipped.
+[344.42s -> 350.79s]  I think that kind of balances it out and fixes that little problem there, but we could talk about that for hours on end.
+[350.79s -> 356.79s]  Let's move on to the Spy. The Spy finally got a new Sapper. When I saw this, I literally threw up.
+[356.79s -> 360.79s]  Well, I didn't really throw up, but you know, it's figure of speech.
+[360.79s -> 364.79s]  So, when I saw this, we've been waiting so long for a new Sapper, we finally got one,
+[364.79s -> 369.97s]  and now it is very, very evident as to why we didn't get one for so long.
+[369.97s -> 374.97s]  This is a weird friggin' item. This thing is weird, okay?
+[384.14s -> 387.14s]  Okay, let's talk about what this thing actually really does. This thing is very, very weird.
+[392.14s -> 395.14s]  So, if you put this on a level 3 Sentry, it's going to go...
+[396.14s -> 401.14s]  ...and rewind back down to a level 2, and then back down to a level 1.
+[401.14s -> 404.14s]  The same can be said for a Teleporter or a Dispenser.
+[404.14s -> 409.14s]  This thing will probably never kill any of the buildings you put this on, because it's just so slow.
+[409.14s -> 416.14s]  What this does do is just really, really annoy Engineers, and as Engineer being my main in this game,
+[416.14s -> 419.14s]  this scares the absolute crap out of me, because if you're seeing this gameplay right here,
+[419.14s -> 424.14s]  you're going to see me put this on a level 3, and it instantly goes down to a level 2.
+[424.14s -> 430.14s]  That's like, oh my god, that is so horrible. I can't imagine being that Engineer that gets that happen to him.
+[430.14s -> 434.14s]  Let's say you go pick up the medal, somebody goes, oh Spy, I sapping my Sentry.
+[434.14s -> 441.32s]  Oh, now it's a level 1. Like, what? That's crazy, but if you really back up and you look at the big picture,
+[441.32s -> 448.32s]  a Spy's role is to take out Engineer's Sentry guns, take out key targets like Medics, Heavies, stuff like that.
+[448.32s -> 454.62s]  He's very much a support role, so if he's not going to be destroying your Sentry gun, that's a good thing.
+[454.62s -> 461.80s]  All this item effectively does is make it so it takes twice as long for your buildings as an Engineer to go down with a Sapper on them.
+[461.80s -> 469.80s]  So, what does this really do for a Spy? Is this just to troll Engineers, or what is the actual meaning of this item?
+[469.80s -> 474.80s]  Because if you have a default Sapper, you're going to destroy the buildings in twice as much time.
+[474.80s -> 480.80s]  I guess we'll have to wait and see after a couple months where this item stands, if it stands anywhere really at all.
+[480.80s -> 486.62s]  So, that is going to wrap up the video, guys. Thank you all so much for watching, I really do appreciate it.
+[486.62s -> 491.62s]  And go have fun with these new items. They're weird, they're interesting, but that's what we love about Team Fortress, isn't it?
+[491.62s -> 495.62s]  So, I'll see you guys all soon, and of course, take care, everybody.

@@ -1,0 +1,363 @@
+1
+00:00:00,310 --> 00:00:18,260
+Hey, what is going on, everybody? Jerma here with a Team Fortress 2 gameplay commentary, and tonight I'm gonna be playing as the Scout.
+
+2
+00:00:18,260 --> 00:00:23,260
+So what I want to talk about in this video is about the new update. Yes, if you don't know, we just got a new update.
+
+3
+00:00:23,260 --> 00:00:28,260
+If you've been living underneath a rock like Patrick Stewart Star, then you won't know this.
+
+4
+00:00:28,260 --> 00:00:33,259
+But we got a major update to TF2, a lot of new Man vs. Machine stuff, and a few balance changes to weapons.
+
+5
+00:00:33,259 --> 00:00:36,259
+But I'm not going to really cover all the content in the update.
+
+6
+00:00:36,259 --> 00:00:41,259
+I'm going to cover what I think this update means for us as a Team Fortress community.
+
+7
+00:00:41,259 --> 00:00:46,259
+And right off the bat, the first thing that we need to talk about here is this.
+
+8
+00:00:46,259 --> 00:00:51,689
+This is the second content update that we've received to this game in the last two months.
+
+9
+00:00:51,689 --> 00:00:58,990
+When was the last time they did anything like this? When was the last time we got two content updates sort of back to back in a row?
+
+10
+00:00:58,990 --> 00:01:02,990
+That has not happened in probably like two years.
+
+11
+00:01:02,990 --> 00:01:07,299
+And just around the corner, guys, are the holidays.
+
+12
+00:01:07,299 --> 00:01:12,540
+There has always been a TF2 update to coincide with the holiday season.
+
+13
+00:01:12,540 --> 00:01:16,540
+Now this could be the update that we're looking at right here, but I don't think so.
+
+14
+00:01:16,540 --> 00:01:22,540
+There's always been something there a week before Christmas, usually at the week of the 20th to 21st.
+
+15
+00:01:22,540 --> 00:01:27,540
+That's when they add a holiday-themed update, and it's happened every year without fail.
+
+16
+00:01:27,540 --> 00:01:33,780
+That means we're potentially going to have three updates in three months to Team Fortress 2.
+
+17
+00:01:33,780 --> 00:01:36,209
+Nobody could have ever believed that was ever going to happen.
+
+18
+00:01:36,209 --> 00:01:39,209
+We all thought, oh, wow, we're not getting any updates. What's going on here?
+
+19
+00:01:39,209 --> 00:01:43,209
+It's been like a year since we've seen anything really new to the game.
+
+20
+00:01:43,209 --> 00:01:47,209
+I would have believed you more if you were sitting in a room with me across and sitting on the couch.
+
+21
+00:01:47,209 --> 00:01:52,209
+If you told me, hey, there's going to be a TF2 update, three of them in a row in three months.
+
+22
+00:01:52,209 --> 00:01:59,209
+And also, aliens are going to land tomorrow, and they're going to take your whole family and turn them into fucking loaves of bread.
+
+23
+00:01:59,209 --> 00:02:02,209
+I probably would have been more inclined to believe the second statement.
+
+24
+00:02:02,209 --> 00:02:07,700
+But regardless of that, it's awesome to see that Valve is spending time in this game.
+
+25
+00:02:07,700 --> 00:02:16,699
+Because for the longest while now, the TF2 community has felt like an old, raggedy, broke down toy that Valve didn't want to play with anymore.
+
+26
+00:02:16,699 --> 00:02:18,699
+Think about when you were a kid. Think about when you were younger.
+
+27
+00:02:18,699 --> 00:02:21,699
+Think about when you were younger. You had that one toy that you really liked.
+
+28
+00:02:21,699 --> 00:02:25,699
+Teddy Ruxpin was the coolest stuffed animal you could have had.
+
+29
+00:02:25,699 --> 00:02:29,699
+You were the only guy on your street with a goddamn Teddy Ruxpin for crying out loud.
+
+30
+00:02:29,699 --> 00:02:33,699
+And then Dota 2 comes around. The Matchbox cars.
+
+31
+00:02:33,699 --> 00:02:38,699
+You used to remember Matchbox, power wheels. That was so cool.
+
+32
+00:02:38,699 --> 00:02:40,699
+And you loved it. And you played with that.
+
+33
+00:02:40,699 --> 00:02:43,699
+And Teddy Ruxpin just sat in the corner and kind of just cried for a while.
+
+34
+00:02:43,699 --> 00:02:47,699
+And then eventually, eventually you went back to that toy.
+
+35
+00:02:47,699 --> 00:02:51,879
+And eventually you picked up the Teddy Ruxpin and you said, holy hell, I remember this thing.
+
+36
+00:02:51,879 --> 00:02:55,879
+This thing was awesome. It used to say like four different phrases. That's amazing.
+
+37
+00:02:55,879 --> 00:02:59,500
+And that's kind of what the Valve team is doing right now.
+
+38
+00:02:59,500 --> 00:03:04,500
+They spent a bunch of time on the Steam box, a bunch of time in Dota 2 and all these new projects.
+
+39
+00:03:04,500 --> 00:03:08,500
+And then they just... Toy Story. I'm explaining the plot of Toy Story.
+
+40
+00:03:08,500 --> 00:03:14,500
+Valve is Andy from Toy Story and we're fucking Woody. That's what's going on here.
+
+41
+00:03:14,500 --> 00:03:21,740
+And at the end, at the very end of Toy Story, Andy finds out he can not only have fun with Buzz Lightyear,
+
+42
+00:03:21,740 --> 00:03:24,740
+Dota 2 and the Steam box, but he can also have fun with Woody too.
+
+43
+00:03:24,740 --> 00:03:26,740
+And it's a big happy family and the credits roll.
+
+44
+00:03:26,740 --> 00:03:32,740
+And then there's like three more movies that explain much more weird shit that who even cared about in the first place.
+
+45
+00:03:32,740 --> 00:03:36,740
+Didn't Toy Story 4 come out and Andy went to college and flunked out?
+
+46
+00:03:36,740 --> 00:03:38,740
+I don't even know what happened to that. I didn't see the movie.
+
+47
+00:03:38,740 --> 00:03:42,180
+All right, let's get back on track here now.
+
+48
+00:03:42,180 --> 00:03:44,659
+So, what these updates mean?
+
+49
+00:03:44,659 --> 00:03:48,830
+Think of the last three or four updates we've got to Team Fortress 2.
+
+50
+00:03:48,830 --> 00:03:51,830
+No, they haven't added any new weapons to the game.
+
+51
+00:03:51,830 --> 00:03:53,830
+And I know I've complained about this before.
+
+52
+00:03:53,830 --> 00:04:00,069
+I have complained very outspokenly about how we haven't had anything really new added to the game in a long time.
+
+53
+00:04:00,069 --> 00:04:05,069
+And I had this realization the other day, or well, today and yesterday, because that's when the update came out,
+
+54
+00:04:05,069 --> 00:04:11,379
+that Valve is taking a different approach to how they're patching and content updating this game.
+
+55
+00:04:11,379 --> 00:04:12,379
+It goes like this.
+
+56
+00:04:12,379 --> 00:04:19,860
+They have added so many items to this game, so many weapons to this game that just go unused, right?
+
+57
+00:04:19,860 --> 00:04:25,860
+And they do a bunch of these patches where they make balance changes to these items to make people actually want to use them.
+
+58
+00:04:25,860 --> 00:04:28,860
+And that's what they did with the Baby Faces Blaster, this patch.
+
+59
+00:04:28,860 --> 00:04:36,860
+They're taking this approach where, sure, we could add a new weapon that's plus 20% more fire damage and you piss rainbows.
+
+60
+00:04:36,860 --> 00:04:39,860
+But who's going to use that item in the next two weeks?
+
+61
+00:04:39,860 --> 00:04:42,860
+People will equip it. You'll see a couple of videos on it.
+
+62
+00:04:42,860 --> 00:04:45,860
+But would I actually use that item in a game?
+
+63
+00:04:45,860 --> 00:04:49,860
+And usually, most of the time, the answer to that question is no.
+
+64
+00:04:49,860 --> 00:04:55,100
+So what they're doing is they're going back and they're trying to make all these items that they've added
+
+65
+00:04:55,100 --> 00:05:00,100
+that not very many people really use and try to make them actual items that people will want to use.
+
+66
+00:05:00,100 --> 00:05:03,100
+And the Baby Faces Blaster, as you're watching this video right now,
+
+67
+00:05:03,100 --> 00:05:07,100
+has been changed into an item that I would see myself using from time to time.
+
+68
+00:05:07,100 --> 00:05:10,100
+Switch out from the stock, switch out from some of the other scatter guns.
+
+69
+00:05:10,100 --> 00:05:16,100
+It's an actual usable, good scatter gun now, when before it was kind of just a gimmick item
+
+70
+00:05:16,100 --> 00:05:18,100
+that you would equip for a laugh every now and then.
+
+71
+00:05:18,100 --> 00:05:22,589
+Now, people did play with these before, before the big palance, the palance.
+
+72
+00:05:22,589 --> 00:05:25,589
+Before going to, like, the palace show when Valve went to the palace,
+
+73
+00:05:25,589 --> 00:05:28,589
+before they did all these balance changes, people still used these items.
+
+74
+00:05:28,589 --> 00:05:31,589
+People still ran around with the Baby Faces Blaster.
+
+75
+00:05:31,589 --> 00:05:35,589
+I've seen people with Hale's own Baby Faces Blasters before this update.
+
+76
+00:05:35,589 --> 00:05:38,589
+I'm not saying that those people, oh, yeah, fuck you.
+
+77
+00:05:38,589 --> 00:05:44,149
+What I'm saying is, these last few patches have been housekeeping patches,
+
+78
+00:05:44,149 --> 00:05:48,149
+trying to get the game up to a standard where everything is kind of usable,
+
+79
+00:05:48,149 --> 00:05:52,149
+everything works, everything makes sense, and there's no, like, gimmicks anymore.
+
+80
+00:05:52,149 --> 00:05:56,149
+There still will be, there always will be, but just not as many.
+
+81
+00:05:56,149 --> 00:05:58,709
+And that's going to wrap up this video.
+
+82
+00:05:58,709 --> 00:06:01,709
+I will do Man vs. Machine, you'll probably see that in the next few days with a couple of friends.
+
+83
+00:06:01,709 --> 00:06:03,709
+I don't know, we'll see how that goes.
+
+84
+00:06:03,709 --> 00:06:05,709
+But those are my thoughts on this update.
+
+85
+00:06:05,709 --> 00:06:07,709
+And let me know what you think, guys. What do you think of the update?
+
+86
+00:06:07,709 --> 00:06:08,709
+What do you think of this stuff?
+
+87
+00:06:08,709 --> 00:06:11,709
+What do you think of, like, the recoloring of weapons that's coming soon?
+
+88
+00:06:11,709 --> 00:06:12,709
+There's a lot to talk about.
+
+89
+00:06:12,709 --> 00:06:15,709
+I just wanted to get this part of it off my chest for the time being.
+
+90
+00:06:15,709 --> 00:06:16,709
+And I'll see you guys all next time.
+
+91
+00:06:16,709 --> 00:06:19,949
+And, of course, take care, everybody.

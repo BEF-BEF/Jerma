@@ -7,7 +7,7 @@ import datetime
 from faster_whisper import WhisperModel
 import subprocess
 import logging
-
+from utils import recursive_clean
     # Download Audio from URLs: The script utilizes the yt_dlp library to download the best audio version of content from specified URLs. These URLs are read from a file named "remainingURLS5.txt".
 
     # Check Processed URLs: Before downloading or processing a URL, the script checks a CSV file to see if the URL has already been processed. This is to avoid redundant work and save time.
@@ -114,7 +114,7 @@ def process_urls():
                             trimmedFile = os.path.join(CONFIG["audio_folder"], f"trimmed_{video_title}.m4a")
                             trim_audio(latest_file, trimmedFile)
                             latest_file=trimmedFile
-                        whisper_output_dir.replace("/"," ").replace(","," ")
+                        whisper_output_dir = recursive_clean(whisper_output_dir)
                         # Start timing for Whisper transcription
                         whisper_start_time = datetime.datetime.now()
                         # Use the Faster Whisper model

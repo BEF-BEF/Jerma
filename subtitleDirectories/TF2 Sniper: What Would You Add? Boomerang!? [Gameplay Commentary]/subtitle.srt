@@ -1,0 +1,379 @@
+1
+00:00:00,310 --> 00:00:13,759
+Hey, what is going on, everybody? Jerma here with a Team Fortress 2 gameplay commentary.
+
+2
+00:00:13,759 --> 00:00:19,760
+And tonight, gonna be playing as the Sniper with the... no, no, that was... I almost said the Machina.
+
+3
+00:00:19,760 --> 00:00:25,760
+With the Heatmaker, the... Darwin's Danger Shield? I god damn it, I just don't remember.
+
+4
+00:00:25,760 --> 00:00:29,760
+I think... I actually think it's the Razorback because there are a lot of spies on the other team.
+
+5
+00:00:29,760 --> 00:00:31,760
+And the Tribalman Shiv.
+
+6
+00:00:31,760 --> 00:00:38,939
+So this video, we're gonna talk about... I started this sort of little mini-series a while ago, and I never really followed up on it.
+
+7
+00:00:38,939 --> 00:00:43,939
+So today, we're gonna follow up on it. It is, what would I add into Team Fortress 2?
+
+8
+00:00:43,939 --> 00:00:47,939
+And we're gonna be covering the Sniper today, because I'm playing as the Sniper.
+
+9
+00:00:47,939 --> 00:00:52,939
+And of course, I wanna get your guys' opinions on all this stuff. Last time, when I talked about the Engineer,
+
+10
+00:00:52,939 --> 00:00:56,939
+we had a really, really good discussion going in the comments section, so do that again.
+
+11
+00:00:56,939 --> 00:01:00,939
+Whatever you'd like to see added for the Sniper, or what you think would be cool for the Sniper.
+
+12
+00:01:00,939 --> 00:01:06,939
+Whether it's a melee secondary or a new primary, please put it in the comments section. Let's keep that going.
+
+13
+00:01:06,939 --> 00:01:12,939
+So, talking about the Sniper, of course, he has his primary, which is the Sniper Rifle.
+
+14
+00:01:12,939 --> 00:01:18,939
+And they didn't really deviate that much, except for the Huntsman. The Huntsman is a huge deviation from his typical primary.
+
+15
+00:01:18,939 --> 00:01:21,939
+And that's kind of where I wanna go here.
+
+16
+00:01:21,939 --> 00:01:27,939
+And it's something that a lot of people have actually talked about, and I think there is a Steam Workshop item of this.
+
+17
+00:01:27,939 --> 00:01:32,939
+And I think it is an incredible idea, and they really should think about implementing this.
+
+18
+00:01:32,939 --> 00:01:37,939
+It is a Boomerang primary. Not a secondary, a Boomerang primary.
+
+19
+00:01:37,939 --> 00:01:45,370
+And after sitting here for about 45 minutes or so, just thinking about it and talking about what I'm gonna do with this commentary to myself,
+
+20
+00:01:45,370 --> 00:01:48,370
+I've come up with this. And let me know what you guys think about this.
+
+21
+00:01:48,370 --> 00:01:53,370
+I'm not sure if this is 100% the best thing that could possibly be for this item, but it's what I think would be cool.
+
+22
+00:01:53,370 --> 00:01:59,370
+So, you cock it back. Let's say you have it in your left hand. You come out of spawn, and there's a Demoman 50 yards in front of you on the enemy team.
+
+23
+00:01:59,370 --> 00:02:02,370
+You cock it back, and there's a bar in the lower right that fills up.
+
+24
+00:02:02,370 --> 00:02:09,610
+Once that thing's filled up, it's gonna go max distance, and maybe it would mini-crit if you filled that bar up all the way.
+
+25
+00:02:09,610 --> 00:02:15,610
+And the bar wouldn't be just one second. I would think it would be something around two or three full seconds before you got a mini-crit.
+
+26
+00:02:15,610 --> 00:02:20,610
+Therefore, making it not just an easy weapon, just a bang, bang, bang, just get mini-crits over and over again with this thing.
+
+27
+00:02:21,610 --> 00:02:25,610
+So picture this. A Demoman is coming at you, and he's spamming his stickies at you.
+
+28
+00:02:25,610 --> 00:02:30,610
+He's shooting his grenade launcher at you. You fall back, you're charging this thing up, you whip around, you throw it,
+
+29
+00:02:30,610 --> 00:02:35,610
+and maybe you're taking it off to the side a little bit to try and compensate for the curve that would be happening.
+
+30
+00:02:35,610 --> 00:02:43,610
+Because how I picture this is the weapon comes out straight, and then kind of takes a curve and swings over to the right-hand side,
+
+31
+00:02:43,610 --> 00:02:46,610
+making skill shots available for you to do.
+
+32
+00:02:46,610 --> 00:02:54,099
+And to keep discussing this skill shot idea, maybe instead of, throw away the mini-crit idea I just came up with,
+
+33
+00:02:54,099 --> 00:02:57,099
+what if instead of holding the button down gave you crits?
+
+34
+00:02:57,099 --> 00:03:05,099
+Think of that bar filling up, that's the arc. The more you hold it down, the more insane arc you are going to get,
+
+35
+00:03:05,099 --> 00:03:09,099
+and maybe it could go through people rather than just hitting one.
+
+36
+00:03:09,099 --> 00:03:13,469
+And TF2 really does need more stuff like this in the game.
+
+37
+00:03:13,469 --> 00:03:18,469
+I know they're harder to balance because if you have five rocket launchers with a soldier,
+
+38
+00:03:18,469 --> 00:03:24,469
+and then you come up with a soldier rifle, you're redesigning the whole class from the ground up, essentially.
+
+39
+00:03:24,469 --> 00:03:29,469
+But they are so cool, and it gives a much more variety-based gameplay.
+
+40
+00:03:29,469 --> 00:03:32,469
+You can make a bunch of different combinations rather than having,
+
+41
+00:03:32,469 --> 00:03:40,469
+oh, I'm going to use this sniper rifle and the Jirardi, or this sniper rifle and the Jirardi, or this sniper rifle and the Jirardi.
+
+42
+00:03:41,469 --> 00:03:47,780
+You have a lot of different options. When you come up with different core class mechanics that get changed,
+
+43
+00:03:47,780 --> 00:03:49,780
+you can go nuts, you can have so many different options.
+
+44
+00:03:49,780 --> 00:03:53,780
+I think I would love to see more stuff like this involved in Team Fortress 2,
+
+45
+00:03:53,780 --> 00:03:58,780
+because I think it would breathe a lot more air up the butt of TF2.
+
+46
+00:03:58,780 --> 00:04:05,780
+That's a really bad way to say that, but it would breathe more air and breathe life into this game again.
+
+47
+00:04:05,780 --> 00:04:12,270
+Now, TF2 does not necessarily need a burst of fresh air underneath it to make it have people play it,
+
+48
+00:04:12,270 --> 00:04:15,270
+because there, of course, is a community behind Team Fortress 2.
+
+49
+00:04:15,270 --> 00:04:18,269
+There are still active players. It's still a really active game.
+
+50
+00:04:18,269 --> 00:04:25,269
+But at least for me, seeing these new things implemented, these new core gameplay class mechanics put in the game,
+
+51
+00:04:25,269 --> 00:04:31,269
+I get so excited. When the Heatmaker came out, I was like, oh, well, cool, the Heatmaker.
+
+52
+00:04:31,269 --> 00:04:34,269
+It's another sniper rifle. Sweet.
+
+53
+00:04:34,269 --> 00:04:39,269
+When the Huntsman came out, I was like, holy shit, what the hell is this thing?
+
+54
+00:04:39,269 --> 00:04:43,269
+The same thing. Is this a boomerang? There's a boomerang in the game right now?
+
+55
+00:04:43,269 --> 00:04:46,269
+I've got to go play this game. Holy shit, cancel all my appointments.
+
+56
+00:04:46,269 --> 00:04:51,769
+Seriously, we get excited for new things. That's the nature of human beings.
+
+57
+00:04:51,769 --> 00:04:54,769
+We look forward to things. We want to see things.
+
+58
+00:04:54,769 --> 00:05:00,769
+I'm not going to say that I'm getting sick of the same sniper rifle with different stats,
+
+59
+00:05:00,769 --> 00:05:04,769
+or the same grenade launcher or sticky bomb launcher.
+
+60
+00:05:04,769 --> 00:05:07,769
+What I'm getting is kind of not... I'm just going to say it.
+
+61
+00:05:07,769 --> 00:05:13,769
+I think I feel this way because Valve has spoiled us for so many years with free content
+
+62
+00:05:13,769 --> 00:05:18,769
+that they're just like, well, damn, we don't know what else to give you.
+
+63
+00:05:18,769 --> 00:05:25,069
+Here's another shotgun. They're spending a lot more development time in other games.
+
+64
+00:05:25,069 --> 00:05:27,069
+And I'll reiterate it one more time.
+
+65
+00:05:27,069 --> 00:05:32,069
+Balancing these items, these brand new items, can be impossible.
+
+66
+00:05:32,069 --> 00:05:35,069
+And sometimes they can break the entire game.
+
+67
+00:05:35,069 --> 00:05:37,069
+We all saw what happened with the Mini-Century.
+
+68
+00:05:37,069 --> 00:05:41,069
+When the Mini-Century first came out, people weren't really that concerned about it.
+
+69
+00:05:41,069 --> 00:05:45,069
+But the Mini-Century has really changed everything about the engineer.
+
+70
+00:05:45,069 --> 00:05:49,069
+And a lot of people do not like that and hate that item.
+
+71
+00:05:49,069 --> 00:05:52,069
+So let's say the boomerang comes out and they try to balance it.
+
+72
+00:05:52,069 --> 00:05:56,069
+They put some development time behind it, and the thing is just broken.
+
+73
+00:05:56,069 --> 00:05:58,069
+And it's really powerful. It's just unbelievable.
+
+74
+00:05:58,069 --> 00:06:01,069
+And there's no reason to ever equip the sniper rifles.
+
+75
+00:06:01,069 --> 00:06:03,069
+That stinks. That sucks.
+
+76
+00:06:03,069 --> 00:06:05,069
+But where do you balance it?
+
+77
+00:06:05,069 --> 00:06:10,069
+Where do you draw the line into what you want and what you're willing to live with?
+
+78
+00:06:10,069 --> 00:06:15,379
+Because this game was originally balanced and designed around all the stock items.
+
+79
+00:06:15,379 --> 00:06:19,379
+If you just play on a stock server, the game is supposed to be completely balanced.
+
+80
+00:06:19,379 --> 00:06:20,379
+They spent a lot of time doing that.
+
+81
+00:06:20,379 --> 00:06:24,379
+But ever since they've been implementing these items, things have changed a lot.
+
+82
+00:06:24,379 --> 00:06:32,620
+And that's something we all have to remember and realize that almost 80% of the items in this game are not release items.
+
+83
+00:06:32,620 --> 00:06:35,620
+They have been added in the last seven years.
+
+84
+00:06:35,620 --> 00:06:40,980
+But I will get off of that tangent now and wrap up the video, guys.
+
+85
+00:06:40,980 --> 00:06:42,980
+So thank you all so much for watching. I really do appreciate it.
+
+86
+00:06:42,980 --> 00:06:44,980
+And let me know what you think.
+
+87
+00:06:44,980 --> 00:06:45,980
+Throw some stuff in the comments section.
+
+88
+00:06:45,980 --> 00:06:47,980
+What would you like to see added as the sniper?
+
+89
+00:06:47,980 --> 00:06:53,980
+Whether it's, like I said in the beginning, if it's a primary, secondary, melee, whatever you guys think would be cool.
+
+90
+00:06:53,980 --> 00:06:54,980
+And maybe try to balance it.
+
+91
+00:06:54,980 --> 00:06:58,980
+Maybe talk about the balance issue I brought up in this conversation as well.
+
+92
+00:06:58,980 --> 00:07:00,980
+So yeah, guys, thank you so much for watching.
+
+93
+00:07:00,980 --> 00:07:01,980
+That's my time.
+
+94
+00:07:01,980 --> 00:07:02,980
+And I'll see you all next time.
+
+95
+00:07:02,980 --> 00:07:05,980
+And of course, take care, everybody.

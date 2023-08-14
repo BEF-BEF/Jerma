@@ -1,0 +1,111 @@
+[0.31s -> 14.89s]  Hey, what is going on, everybody? Jerma here with a Team Fortress 2 gameplay commentary.
+[14.89s -> 20.89s]  And tonight, gonna be playing as the sniper using the...what sniper rifle is this?
+[20.89s -> 22.89s]  Oh, it's the heat machine bedmaker.
+[22.89s -> 28.89s]  Alright, got the heat machine bedmaker on the...Darwin's? No, the Cozy Camper for the first half of this video.
+[28.89s -> 31.89s]  And then I take it off for...because there were a lot of spies on the other team.
+[31.89s -> 35.89s]  I think I put on the Razorback, actually. And the ham. The genuine ham.
+[35.89s -> 42.89s]  So today, or tonight, whenever you happen to be watching this video, I want to talk about sniping.
+[42.89s -> 49.06s]  Not necessarily the mechanics of sniping, not necessarily the, you know, how to snipe,
+[49.06s -> 53.06s]  but an important role that you kind of sometimes have to play.
+[53.06s -> 57.69s]  And I've never really talked about this topic before. I've touched upon sniping.
+[57.69s -> 63.69s]  I've gave, like, advice and tips on how to be a better sniper, like, almost years ago, it seems.
+[63.69s -> 66.69s]  But this video's gonna focus on counter-sniping.
+[66.69s -> 71.69s]  And why, when you counter-snipe, you actually do so much good for your team,
+[71.69s -> 74.69s]  even if you are getting friggin' destroyed.
+[74.69s -> 79.69s]  Even if the other snipers on the team are using you for target practice,
+[79.69s -> 83.69s]  you still add a good layer of protection to the rest of your team.
+[83.69s -> 87.69s]  We're gonna go over why, and we're gonna go...yes.
+[87.69s -> 91.69s]  So, counter-sniping, the first thing you wanna know, the first thing we're gonna talk about is,
+[91.69s -> 93.69s]  when should you do it?
+[93.69s -> 96.86s]  When should you be the guy that finally says,
+[96.86s -> 100.86s]  okay, I'm gonna cave, and I'm gonna play sniper right now to try to counter-snipe?
+[100.86s -> 102.86s]  So the situations are as follows.
+[102.86s -> 106.86s]  Number one, if there are more than one or two snipers on the enemy team,
+[106.86s -> 111.86s]  if there's even more than one sniper on the enemy team with a scope,
+[111.86s -> 113.86s]  I'm not talking about Huntsman here,
+[113.86s -> 118.86s]  because Huntsman is a sort of medium-range class that can be dealt with by other classes,
+[118.86s -> 121.86s]  but if there is more than one scope sniper on the other team,
+[121.86s -> 126.10s]  you gotta hold down Tab and see if you are matching that.
+[126.10s -> 130.10s]  If you are not matching the same amount of snipers the other team has,
+[130.10s -> 132.10s]  scope, again, we're talking about scope here,
+[132.10s -> 134.10s]  then somebody has to do it.
+[134.10s -> 136.10s]  And the reason why I say this,
+[136.10s -> 138.10s]  and there are gonna be people that probably disagree with this theory,
+[138.10s -> 144.10s]  but when there is an imbalance of snipers against snipers on various maps,
+[144.10s -> 146.28s]  it can cause a lot of problems.
+[146.28s -> 152.28s]  If there are, like, four snipers on the enemy team just destroying everyone at long range,
+[152.28s -> 156.28s]  and there's maybe one on your side trying to deal with it,
+[156.28s -> 158.28s]  it can be a real chaotic environment,
+[158.28s -> 164.28s]  because there's no way, there's no other really class that can deal with snipers that have scopes
+[164.28s -> 166.28s]  unless you are a spy.
+[166.28s -> 171.28s]  It's very hard to deal with unless you have a very good spy or another couple very good snipers.
+[171.28s -> 174.84s]  Now, there are a lot of exceptions to this guideline.
+[174.84s -> 177.84s]  I'm not gonna call it a rule, because it is technically a guideline.
+[177.84s -> 180.84s]  But point number two, a follow-up to point number one,
+[180.84s -> 185.84s]  when you have matching snipers, they become targets for each other,
+[185.84s -> 189.84s]  rather than just going rampant on the other people on the team.
+[189.84s -> 193.84s]  When there's another sniper that you know is shooting at you, you're standing still.
+[193.84s -> 197.84s]  You know he can kill you in one shot, so you are always shooting at each other.
+[197.84s -> 202.02s]  And I think in this gameplay, I only die from another sniper.
+[202.02s -> 205.02s]  It's the same sniper that kills me every single time.
+[205.02s -> 209.58s]  So having that ample threat on either side,
+[209.58s -> 213.58s]  I'm not gonna be trying to shoot at the heavies that are coming around the corner as slugs.
+[213.58s -> 217.58s]  I'm not gonna do that, because I know the guy back behind the fucking rock over there
+[217.58s -> 219.58s]  has his laser beam on my head.
+[219.58s -> 224.58s]  So it's this parallel between the two sides that causes counter sniping to be very effective,
+[224.58s -> 229.58s]  because then you allow your team to do the things that they are supposed to do,
+[229.58s -> 232.58s]  rather than walking around corners and instantly dying.
+[232.58s -> 237.01s]  And the third point I want to make about counter sniping and how to kind of effectively do it,
+[237.01s -> 239.01s]  is you need to know the maps.
+[239.01s -> 244.01s]  You need to know where all the sniping posts are, at least the most typical ones.
+[244.01s -> 249.01s]  Because you're gonna be watching, I scan all the sniper areas over and over again,
+[249.01s -> 252.01s]  looking for these guys to show up as they are doing to me.
+[252.01s -> 256.01s]  So if you don't know where all the really default snipers,
+[257.01s -> 260.01s]  if you don't know where the default sniper posts are,
+[260.01s -> 263.01s]  it's gonna be hard for you to really counter snipe effectively,
+[263.01s -> 265.01s]  because you always have to be scanning those areas.
+[265.01s -> 267.44s]  And like I said in the beginning of this video,
+[267.44s -> 271.44s]  even if you are a bullet sponge sniper,
+[271.44s -> 275.44s]  even if you just turn the corner scope in and you get shot instantly,
+[275.44s -> 280.44s]  like at least you're doing that, at least you're having to give that good sniper something else to do,
+[280.44s -> 285.44s]  rather than hold his scope down on the cart completely uncontested
+[285.44s -> 288.94s]  while he gets like 90 kills in one life.
+[288.94s -> 290.94s]  And before the video wraps up, I do want to talk about this,
+[290.94s -> 294.94s]  because it is a pretty major change to Team Fortress 2.
+[294.94s -> 297.94s]  It has nothing to do with the previous large update that happened,
+[297.94s -> 299.94s]  but it is about idling.
+[299.94s -> 304.94s]  Apparently you can no longer idle anymore in this game,
+[304.94s -> 306.94s]  unless you are physically in the game.
+[306.94s -> 312.94s]  Like you can't load up a text idler, you have to be like actively in quotes playing the game.
+[312.94s -> 315.30s]  And I'm gonna give you a reason why.
+[315.30s -> 319.30s]  This could be a very, very, very good change to this game.
+[319.30s -> 321.30s]  And it's a very big if.
+[321.30s -> 328.66s]  If Valve introduces a way to get more drops for being in the game longer,
+[328.66s -> 332.66s]  if they're gonna introduce higher drop rates or change the drop system a little bit,
+[332.66s -> 334.66s]  I know the blog hinted at this.
+[334.66s -> 340.66s]  The blog post on TF2.com sort of hinted that they are going to be tweaking the item system.
+[340.66s -> 345.66s]  So if they go in the direction where, hey, if you're actively playing the game,
+[345.66s -> 347.66s]  we want to reward you for playing.
+[347.66s -> 349.66s]  So maybe we're gonna give you more drops.
+[349.66s -> 351.66s]  Maybe we'll give you a higher percentage to get certain things.
+[351.66s -> 353.66s]  Maybe we'll give you a different recipe.
+[353.66s -> 356.66s]  Anything like that could be really awesome.
+[356.66s -> 361.22s]  And I think Valve is starting to do a process here,
+[361.22s -> 364.22s]  where they want to move people completely away from idling,
+[364.22s -> 368.22s]  because with all these new updates and with all this work that Valve has put into this game,
+[368.22s -> 370.22s]  they want you to actually play.
+[370.22s -> 375.22s]  And I would really like to know what the percentage of people that are concurrently playing TF2,
+[375.22s -> 378.22s]  how many of them are actually idling?
+[378.22s -> 382.22s]  How many of them are actually in a game playing on like upward or something?
+[382.22s -> 386.22s]  I bet you the percentage difference is astonishing.
+[386.22s -> 392.22s]  I would be shocked if it were like, oh, no, there's only like 1% of the people that play TF2 are idling right now.
+[392.22s -> 395.22s]  No way. I bet you it's way higher than that.
+[395.22s -> 399.22s]  But if somebody has that statistic, then please go ahead and share it in the comments.
+[399.22s -> 403.22s]  And speaking of comments, if you want to add to the discussion, please, by all means,
+[403.22s -> 407.22s]  leave what you think about this idle change in the comment section,
+[407.22s -> 410.22s]  or about counter sniping in general, or about sniping,
+[410.22s -> 414.39s]  or about how your grandmother's doing, is she how's she doing, how like your family's doing,
+[414.39s -> 417.39s]  did you go to a picnic this weekend? I want to hear about it.
+[417.39s -> 420.39s]  But just put something in the comment section, guys, and that's going to wrap up the video.
+[420.39s -> 422.39s]  And I'll see you guys all next time.
+[422.39s -> 426.39s]  And of course, take care, everybody.

@@ -1,0 +1,2159 @@
+1
+00:00:01,399 --> 00:00:07,740
+Hey, what's up? Uh, dropping some frames here right in the beginning.
+
+2
+00:00:09,589 --> 00:00:23,239
+That's not a good sign. Stable now, I guess. Uh-oh. No, how you guys doing? What are we doing? Today,
+
+3
+00:00:23,239 --> 00:00:28,839
+we're gonna be doing something that's not the Nintendo vibe. I'm sorry. The vibe has not come
+
+4
+00:00:28,839 --> 00:00:39,560
+in completely yet. It'll all be here tomorrow, according to amazon.org, because I bought some
+
+5
+00:00:39,560 --> 00:00:48,380
+extra stuff. Uh, my room is not really... I can't just have the default vibe set up.
+
+6
+00:00:49,020 --> 00:00:57,179
+I had to get... fuck, we're dropping frames again. I had to get those stands, because
+
+7
+00:00:57,179 --> 00:01:00,219
+this room is not really... I can't really mount those things anywhere,
+
+8
+00:01:01,179 --> 00:01:12,790
+so I'm gonna have two stands that are in the corners pointing down, and they're not here.
+
+9
+00:01:14,980 --> 00:01:20,519
+On the ceiling? No, no. They're two, like, tripod stands that I have to screw those... um,
+
+10
+00:01:20,519 --> 00:01:25,129
+what are they called? The trackers? Not the trackers. They're like the little squares.
+
+11
+00:01:25,129 --> 00:01:34,150
+They're like boxes. I don't know what HTC calls them. Lighthouses, okay. Yeah.
+
+12
+00:01:34,870 --> 00:01:42,650
+But I'm excited. I'm excited to, like, VR my room for real, because the PSVR was fun,
+
+13
+00:01:42,650 --> 00:01:47,079
+but it was very... it was very limited. I had to, like, be sitting down. I had,
+
+14
+00:01:47,079 --> 00:01:55,030
+like, that small cord. I did have a lot of fun with PSVR, but I'm excited to kind of graduate
+
+15
+00:01:55,750 --> 00:02:02,659
+to the big boy machine, like, the vibe. The vibe looks better, it's more comfortable,
+
+16
+00:02:02,659 --> 00:02:09,539
+and it's more versatile, so I'm looking forward to it. So here's the plan. I got a new
+
+17
+00:02:09,539 --> 00:02:16,340
+schedule here for you. If we can stream today... I don't know why I'm dropping so many frames.
+
+18
+00:02:16,979 --> 00:02:28,780
+Let me make sure, like, nothing weird is going on here. I'm like, I got nothing going on.
+
+19
+00:02:28,780 --> 00:02:36,539
+Just kind of happens. But the plan is today... remember that species evolution game I was
+
+20
+00:02:36,539 --> 00:02:41,860
+talking about, like, a few days ago? Where you have to, like, make spore creatures, and they
+
+21
+00:02:42,419 --> 00:02:49,979
+eat each other, and mates, and they evolve? It looks really fun. It's called Species
+
+22
+00:02:50,939 --> 00:03:06,680
+Artificial Intelligence Real Evolution, I think. Oh, the second channel finally got to the
+
+23
+00:03:06,680 --> 00:03:26,870
+Boston to Vegas arc. Yes, it did. They're on a different timeline. Is this the game with the
+
+24
+00:03:26,870 --> 00:03:31,189
+annoying stock splash sound effect? No, no, no, no, no. This is not a... this is a PC game.
+
+25
+00:03:31,189 --> 00:03:39,960
+It's on Steam. There's just no... it's not a category on Twitch, so I can't... I can't even
+
+26
+00:03:39,960 --> 00:03:53,099
+change the category, because it's not on, like, the Twitch's directory or whatever. But we have a
+
+27
+00:03:53,099 --> 00:04:00,520
+kind of a different problem here, and that is... I guess it's one of those days where I'm going
+
+28
+00:04:00,520 --> 00:04:05,830
+to drop 10% of every frame. It's been, what, five minutes? That's why I'm kind of just sitting
+
+29
+00:04:05,830 --> 00:04:15,740
+here. I'm, like, waiting to see if this corrects itself. But... so I... let me get...
+
+30
+00:04:15,900 --> 00:04:22,379
+I gotta give you some information here. So the Vive did not come completely yet. I'm still
+
+31
+00:04:22,379 --> 00:04:32,899
+waiting on it. I am going to do the Vive stuff on Valentine's Day. So from Valentine's Day,
+
+32
+00:04:32,899 --> 00:04:39,339
+which is Thursday. So today is Tuesday. Yeah, so Thursday, Friday, Saturday is going to be the
+
+33
+00:04:39,339 --> 00:04:48,009
+Vive stuff, because tomorrow is my anniversary with Kim for two years. So we're going to go
+
+34
+00:04:48,569 --> 00:04:53,529
+have some fun. We're going to go do something. And so Valentine's Day, we're kind of doing,
+
+35
+00:04:53,529 --> 00:04:58,620
+like, a dual Valentine's Day thing here, where it's anniversary and Valentine's Day,
+
+36
+00:04:58,620 --> 00:05:05,379
+but it's not... not yet. That's where I'm going to be tomorrow. And I'm trying to
+
+37
+00:05:05,379 --> 00:05:09,459
+just swallow my anger right now. Like, as deeply into my stomach as I can.
+
+38
+00:05:09,459 --> 00:05:21,639
+I am, like, eating this anger. I am eating it. It's like it's a monster that keeps coming
+
+39
+00:05:21,639 --> 00:05:28,810
+out of my mouth and I keep chewing and swallowing back down. He's getting really angry at his
+
+40
+00:05:28,810 --> 00:05:45,579
+fucking anniversary. No. Just let it all out. No, it's not worth turning the stream off.
+
+41
+00:05:46,379 --> 00:05:59,370
+Try getting two ISPs at once. Somebody, like, pissed on the box or something, wherever it is.
+
+42
+00:06:00,170 --> 00:06:06,779
+How do you beat orphan across? There's a point where he goes
+
+43
+00:06:09,829 --> 00:06:12,550
+and you have to run away because he's going to make the whole place electricity.
+
+44
+00:06:13,350 --> 00:06:20,660
+Don't attack him when he does that. A lot of people just go in for the kill when he does
+
+45
+00:06:20,660 --> 00:06:24,180
+that and the whole place becomes electrified. You don't want to do that. That's how you get
+
+46
+00:06:24,180 --> 00:06:40,089
+yourself killed. All right, I'm going to attempt. I'm going to attempt here to open up the game.
+
+47
+00:06:43,610 --> 00:06:51,029
+But yes. Hey, look, there it is. Nothing tomorrow. Anniversary with my girlfriend.
+
+48
+00:06:51,829 --> 00:06:55,110
+And then we're going to do Thursday, Friday, Saturday with the Vive.
+
+49
+00:06:56,069 --> 00:07:03,019
+And then next week, I've got a PS3 game that I'm incredibly excited for.
+
+50
+00:07:03,910 --> 00:07:07,990
+It's a Safari game where you take pictures of animals. That's the whole game. It's not
+
+51
+00:07:07,990 --> 00:07:20,660
+Pokemon Snap. It's a PS3. It's called Africa with a K. I'm excited for it. But this game,
+
+52
+00:07:20,660 --> 00:07:26,259
+in particular, this is called Species Artificial Life Real Filler for Vive.
+
+53
+00:07:27,220 --> 00:07:33,850
+Is it what this one's called? No, no, no. I kid. This is going to be fun. This is going
+
+54
+00:07:33,850 --> 00:07:42,389
+to be cool. So how this works, I've kind of done a very basic look at this game.
+
+55
+00:07:43,110 --> 00:07:49,220
+You get a randomly generated seed, randomly generated world, and you have to essentially
+
+56
+00:07:49,220 --> 00:07:58,540
+watch and take care of and watch over slugs. These slugs then evolve over the course of
+
+57
+00:07:58,540 --> 00:08:02,939
+the game into anything. They mate with each other, they eat each other, and they can turn
+
+58
+00:08:02,939 --> 00:08:08,100
+into fucking anything. If you've seen the trailer of this game, I recommend you do,
+
+59
+00:08:08,740 --> 00:08:18,360
+because it looks wild. Yeah, that's how I feel right now. Yeah, that is the germ of Pluto
+
+60
+00:08:18,360 --> 00:08:25,180
+right there. That's how I feel right now with the internet being a piece of shit. That
+
+61
+00:08:25,180 --> 00:08:32,730
+actually does look like it. They could smell how they could just, I'm telling you, the
+
+62
+00:08:32,730 --> 00:08:39,740
+computers can hear this shit. But world style, we're going to just kind of do whatever
+
+63
+00:08:39,740 --> 00:08:48,539
+the defaults are for now. We might go a little deeper, but it's kind of been on the radar for
+
+64
+00:08:48,539 --> 00:08:52,059
+a little while since it came. It's an early access game, which I don't really like to play
+
+65
+00:08:52,940 --> 00:08:58,500
+early access games, especially on stream, because they could be void of content. There
+
+66
+00:08:58,500 --> 00:09:01,929
+could be like nothing here. That's why I don't really like to do them, but it looked
+
+67
+00:09:01,929 --> 00:09:07,929
+interesting enough where we could have a little bit of fun and it's freaking out.
+
+68
+00:09:07,929 --> 00:09:18,389
+It is, it is, it is. Why does my screen look like it's melting? It shouldn't. So I'm
+
+69
+00:09:18,389 --> 00:09:27,620
+going to have to save frequently. We're going to save frequently and get this gone.
+
+70
+00:09:27,620 --> 00:09:35,740
+Fucking internet, man. This is just like Happy Gilmore situation where like Bob Barker,
+
+71
+00:09:35,740 --> 00:09:48,470
+I'm just like, oh, why is the screen all red? Is it? Oh, actually I got to make a text
+
+72
+00:09:48,470 --> 00:09:53,429
+here. Hold on. Let me just text. I got to, let me text. I got to text somebody.
+
+73
+00:09:53,429 --> 00:10:16,789
+I'm going to give somebody a warning here. Texting in 2019. Now I'm, I'm giving,
+
+74
+00:10:16,789 --> 00:10:21,350
+I'm giving italics a warning because I think he was potentially starting his stream
+
+75
+00:10:21,350 --> 00:10:24,309
+in like a little bit here and it's like, well, I don't know. Be careful with that.
+
+76
+00:10:27,590 --> 00:10:32,120
+Texting and streaming. Yep. Sometimes. But all right, let's go. Let's just try. I can't sit
+
+77
+00:10:32,120 --> 00:10:37,879
+here and cry over spilt. Uh, I almost just said something that I would have regretted.
+
+78
+00:10:39,399 --> 00:10:42,440
+Uh, you could probably fill that in. I'm good. I think I'm getting better at that.
+
+79
+00:10:43,240 --> 00:10:50,840
+I'm getting better at that. Don't cry over spilled milk. Right. But I was going to say
+
+80
+00:10:50,840 --> 00:10:55,860
+cocks. Don't I've been, I've been getting very good at that. Just has to happen enough
+
+81
+00:10:55,860 --> 00:11:13,350
+times. All right. All right. So far I like it. Pretty good default. Oh God. This is a
+
+82
+00:11:13,350 --> 00:11:25,740
+little too loud. Didn't I turn the music down? I can't adjust it now. All right. So there we
+
+83
+00:11:25,740 --> 00:11:45,450
+go. There we go. So it starts out like this. We've got, all right. Okay. That's, that's
+
+84
+00:11:45,450 --> 00:11:56,809
+manageable. So new world. It's the same one we were just on. To me, this is not evolution
+
+85
+00:11:56,809 --> 00:12:08,539
+music. I'll be honest. This is like going down the tunnel in a third person driving crime game.
+
+86
+00:12:09,620 --> 00:12:21,620
+That is not Grand Theft Auto. All right. So I got controls to get time acceleration,
+
+87
+00:12:21,620 --> 00:12:26,230
+which is one, two, three. This is what I got to work with here. So everything starts off as
+
+88
+00:12:26,230 --> 00:12:31,690
+a slug. As you can see that everybody has like a Sims meter. So this is health,
+
+89
+00:12:32,409 --> 00:12:38,169
+this is food and this is stamina. Let's take a look and see where we want to go.
+
+90
+00:12:40,950 --> 00:12:46,470
+I think everybody starts off with the same thing and I get to choose kind of who mates with who.
+
+91
+00:12:49,539 --> 00:12:54,340
+The music just kind of abruptly stopped. That was a little odd, but okay. I think we're good.
+
+92
+00:12:55,059 --> 00:13:05,860
+That was really jarring. All right. So take a look. We got species. I can do, I think I can
+
+93
+00:13:05,860 --> 00:13:14,539
+like look at, there we go. Number of creatures, survival, not, I don't know. Age 60. How are they
+
+94
+00:13:14,539 --> 00:13:21,509
+aging this fast? I have it on like the, okay, there we go. Health capacity. Age out of 90. Why
+
+95
+00:13:21,509 --> 00:13:27,990
+do, how long do they live? It's cold blooded. 28 optimal temperature. What temperature is it
+
+96
+00:13:27,990 --> 00:13:35,700
+outside right now? Gluttony. Angry. He's about to die. Feed him quick. This is, I can feed
+
+97
+00:13:35,700 --> 00:13:44,019
+him. Food. All right. So food's going good. No, don't kill. When, when do they mate?
+
+98
+00:13:44,740 --> 00:13:53,750
+All right. Get these tutorials off the screen. There they are. What happens at 90? Do they
+
+99
+00:13:53,750 --> 00:14:02,649
+all just die? Physiology. Okay. This is just a few of the values defining physical structure.
+
+100
+00:14:02,649 --> 00:14:07,850
+So this shows how long the creature is before it dies. How tall it is, the volume, the mass,
+
+101
+00:14:07,850 --> 00:14:16,500
+the head scale. Good. We got a save point. Let's see overview. 62. They're very sleepy.
+
+102
+00:14:17,059 --> 00:14:24,009
+Anybody else like alive over here? I don't want to play with those guys. They're going to
+
+103
+00:14:24,009 --> 00:14:33,269
+die. What about these ones? Starving. Oh God. Okay. These are, these are,
+
+104
+00:14:33,269 --> 00:14:45,500
+I got to feed them. There we go. All right. So we're going to deal with these over here.
+
+105
+00:14:45,500 --> 00:14:51,190
+How do I make like food bins? Oh, you just can do it. How many times can I do this? How,
+
+106
+00:14:52,230 --> 00:14:59,960
+how many times can I do this? Okay. Cause this is their hunger meter and they know this is
+
+107
+00:14:59,960 --> 00:15:07,100
+stamina meter. Uh, 10 community subs just came in from whiff, whiff, sigh. Thank you.
+
+108
+00:15:07,100 --> 00:15:12,279
+Whiff, whiff, sigh. 10 community subs. Oh, whoa, this one's got bigger. This one got
+
+109
+00:15:12,279 --> 00:15:21,419
+bigger. What? How did this one get bigger? Oh, they, look, we have, okay, okay, okay.
+
+110
+00:15:21,419 --> 00:15:25,110
+But this is good. This is good. Forget about everybody else in the whole planet.
+
+111
+00:15:25,110 --> 00:15:33,929
+Sniff. Oh, hold on. They're multiplying. Omnivore. They eat grass. So what happens
+
+112
+00:15:33,929 --> 00:15:48,230
+when they run out of grass? Potato slugs. All right. Wait, wait, wait. I think we have,
+
+113
+00:15:48,230 --> 00:15:56,379
+no, they're just multiplying. Energy. Okay. So stamina, draining its stamina somehow.
+
+114
+00:15:56,379 --> 00:16:01,100
+I think they're just impregnating themselves. Yeah. They're like a single celled organism.
+
+115
+00:16:02,330 --> 00:16:07,049
+Genetics. A, C, G, T, T, T, G, T, T, T, G, G, G, G, G, T, T, T, T, T. I don't know what that
+
+116
+00:16:07,049 --> 00:16:15,100
+means. Uh, that's a placeholder. Okay. Okay. A more thorough explanation of the genetic
+
+117
+00:16:15,100 --> 00:16:19,370
+system will be implemented later today. It's a placeholder. Creature energy, health,
+
+118
+00:16:19,370 --> 00:16:29,029
+food, stamina. That sounds good. It's just a hash. It's everybody's password.
+
+119
+00:16:31,080 --> 00:16:35,139
+What happens when they come over to this species over here? Wait, they're all, they're
+
+120
+00:16:35,139 --> 00:16:40,889
+all the same species, right? This one dying. We have to focus on like just the big ones,
+
+121
+00:16:40,889 --> 00:16:52,570
+I think. All right. Hold on. Genetic engineering. Oops. Uh, well, I killed that one.
+
+122
+00:16:52,570 --> 00:17:05,430
+Why would you have feed next to kill? Genetic engineering, draw bones, animation, skin type,
+
+123
+00:17:05,430 --> 00:17:12,980
+secondary saturation. All right, hold on. What about like a brain? This one's going
+
+124
+00:17:12,980 --> 00:17:20,460
+to have a brain. Gluttony. Oh, I can change how they, how they feel. Aggression.
+
+125
+00:17:22,740 --> 00:17:35,910
+Hold on. Head, neck length, neck, neck length. Oh no. All right. Let's not get too carried
+
+126
+00:17:35,910 --> 00:17:47,319
+away yet. We need to have, this has to be natural. No, I can't make them like a tether
+
+127
+00:17:47,319 --> 00:18:06,779
+ball. Not yet. Um, just five. That's fine. It's got to be natural. Head scale. You can
+
+128
+00:18:06,779 --> 00:18:10,859
+do anything you want, huh? But I need them to evolve into each other. So head type.
+
+129
+00:18:10,859 --> 00:18:14,460
+Ooh, I can add. All right. Definitely have to have the underbite. That's pretty,
+
+130
+00:18:14,460 --> 00:18:28,420
+I like the underbite. Yeah. Underbite. No, that, that doesn't look right. We have to
+
+131
+00:18:28,420 --> 00:18:35,559
+start easy. I don't want it just to go crazy. Okay. Number of features. Number of facial
+
+132
+00:18:35,559 --> 00:18:51,059
+features. Face. Uh-oh. Uh, what about, what if I drop this back down to where it was?
+
+133
+00:18:53,980 --> 00:19:08,680
+All right. Face. Feature type one. A horn. Texture. Size. Okay. We're gonna, there'll
+
+134
+00:19:08,680 --> 00:19:14,660
+be a horn. All right. The next thing I'm gonna, I'm gonna make Spider-Man, I think.
+
+135
+00:19:14,660 --> 00:19:18,339
+No, stop. Just do it normal. Do it regular. Not yet. It's been like 20 minutes.
+
+136
+00:19:19,220 --> 00:19:30,069
+There they go. He's got eyes. Just keep, we're going to do slug and slug. Okay.
+
+137
+00:19:31,740 --> 00:19:39,380
+Tail. Um, give him a tail too. Give him like a little, like sausage casing for a tail.
+
+138
+00:19:45,029 --> 00:19:48,329
+That's all right. It's like a little snake thing. I'm gonna make the neck a little
+
+139
+00:19:48,329 --> 00:19:59,670
+thicker too. Size. Maybe a little bigger. Okay. Limbs. No, no, no, no, no, no, no, no.
+
+140
+00:19:59,670 --> 00:20:02,869
+We have to, we're going to go make another person over here and we're going to give them
+
+141
+00:20:02,869 --> 00:20:17,779
+arms. Uh, this is going to be called, gonna think of a good initial creature name. It's like
+
+142
+00:20:17,779 --> 00:20:31,690
+Slagonius, uh, Slagonius hornopolis. Whatever. Who gives a shit? This is our first creature.
+
+143
+00:20:32,650 --> 00:20:33,369
+The game crashed.
+
+144
+00:20:35,769 --> 00:20:47,240
+God damn it. When did it save? I had a creature made too. That sucks.
+
+145
+00:20:49,140 --> 00:20:58,549
+Where was it? It was too OP. No, it was this guy right here. All right, I can do it again.
+
+146
+00:21:00,230 --> 00:21:18,250
+Did it save it? There it is. Right there. We're good. Crashed again. Shit. God damn it.
+
+147
+00:21:18,250 --> 00:21:33,049
+Really? Is it too cursed? No, it can't be. Try it on somebody else. Export creature.
+
+148
+00:21:33,049 --> 00:21:45,819
+Slagonius hornopolis. Generate. Did it work? Is this, did it turn in? I don't see this. No,
+
+149
+00:21:45,819 --> 00:21:52,519
+this is, this is not it. That's not it, right? Are you going to evolve into that?
+
+150
+00:21:59,240 --> 00:22:16,380
+I don't, so I over writ. All right, hold on a second. Let's fucking do this one more time.
+
+151
+00:22:16,380 --> 00:22:31,559
+I overwrote it. All right. Well, let's, let's try this again. This has so much potential
+
+152
+00:22:31,559 --> 00:22:36,569
+if it worked. You understand? This is like, there's so many options. There's so much to do.
+
+153
+00:22:39,079 --> 00:22:47,720
+If I didn't crash the game five times in 10 minutes. All right, let's go with that. Let's
+
+154
+00:22:47,720 --> 00:23:06,440
+see if I can get it to work. That looks good. I'll give it a tail too. And a long tail. There
+
+155
+00:23:06,440 --> 00:23:13,319
+we go. All right. Generate. Slagonius hornopolis. It doesn't matter if it doesn't have a horn.
+
+156
+00:23:13,960 --> 00:23:37,900
+How about this one? Crashed again. Fuck. Hold on. Let me try something else here.
+
+157
+00:23:38,539 --> 00:23:56,470
+I'm going to like go to like a different version. I had like the new like update
+
+158
+00:23:56,470 --> 00:24:06,220
+and I'm going to just try to do it without that update. Let's try it again. Just do something
+
+159
+00:24:06,220 --> 00:24:18,220
+easy. Just make it like a fucking tube sock for all I care. Generate. Shlomo char. Who cares?
+
+160
+00:24:19,180 --> 00:24:27,559
+All right. It worked, right? Which one was it? It was this one right here, right?
+
+161
+00:24:32,980 --> 00:24:40,390
+I can't tell. Did it do anything? Oxygen. Needing, it needs oxygen. Are there too
+
+162
+00:24:40,390 --> 00:24:49,589
+many people? There's too many bugs. Speed up the time. All right, which one was it? It was
+
+163
+00:24:49,589 --> 00:25:01,779
+this one right here, right? Let me look at the genetics. Overview. Swim stamina. Why is it dying?
+
+164
+00:25:01,779 --> 00:25:07,319
+Why is this thing dying? What the fuck was that? Why did that just happen? Did you just kill it?
+
+165
+00:25:09,559 --> 00:25:22,890
+They were eating each other. You just killed my creation. When you got a creature selected,
+
+166
+00:25:22,890 --> 00:25:32,650
+you can see their state over there. People are just dying. What?
+
+167
+00:25:32,650 --> 00:25:45,670
+What? Genetics. Physiology. This is just like how hard and long it is. Energy. This is how
+
+168
+00:25:45,670 --> 00:26:00,180
+hungry it is. Species of a creature. Energy. I read these already. Creature genetics. This
+
+169
+00:26:00,180 --> 00:26:06,519
+is a base for it. Premium specimen is like the original list one here.
+
+170
+00:26:07,559 --> 00:26:11,000
+Gene editor. Design creatures by specifying their genetic values.
+
+171
+00:26:12,170 --> 00:26:15,930
+Synthetic genomes can be exported and used as target genomes in the nursery.
+
+172
+00:26:16,809 --> 00:26:25,140
+Okay, hold on. Where's the nursery? Nursery, nursery, nursery, nursery. All right. Welcome
+
+173
+00:26:25,140 --> 00:26:29,539
+to the nursery. Here you can experiment with artificial selection pressures. Drop in a creature
+
+174
+00:26:29,539 --> 00:26:35,140
+or two and then design or import a target genome with the gene editor. The nursery will
+
+175
+00:26:35,140 --> 00:26:38,819
+encourage creatures similar to the target to breed while humanely killing off the rest.
+
+176
+00:26:39,619 --> 00:26:47,339
+Drag a creature in here. Capture a creature with a move tool. Okay. Why are they on fire?
+
+177
+00:26:49,190 --> 00:26:54,759
+Why are they all burning? What? That's not the music you should be playing.
+
+178
+00:27:02,950 --> 00:27:06,950
+There are too many of them. We have to just find the one that's going to survive.
+
+179
+00:27:06,950 --> 00:27:16,220
+All right. It's definitely not these ones. Is everybody dead? No. There's a whole thriving
+
+180
+00:27:16,220 --> 00:27:28,140
+colony over here of burning insects. Drop the temperature? Cool it down. Why are they just
+
+181
+00:27:28,140 --> 00:27:39,130
+burning? Delicious meat. They've been burnt apparently. All right. I need to at least make
+
+182
+00:27:39,130 --> 00:27:47,299
+one monster. So here's the nursery. So, okay. Wait, wait, wait, wait. Where's the healthiest
+
+183
+00:27:47,299 --> 00:27:56,839
+one? All right. You look pretty healthy. Come here. Get over here. Welcome to the nursery.
+
+184
+00:27:56,839 --> 00:27:59,720
+Here you can experiment with the artificial light. Yeah, I know. I'm trying to grab
+
+185
+00:27:59,720 --> 00:28:08,329
+somebody. Okay. No, I don't want, I want the one underneath you. The one that's on fire.
+
+186
+00:28:11,220 --> 00:28:18,279
+It's too hot. All right. You look good. Come here. In nursery. All right. We'll get a drone
+
+187
+00:28:18,279 --> 00:28:23,420
+coming over here. I need another one. How are you doing? You're almost dead, but we'll,
+
+188
+00:28:23,420 --> 00:28:28,339
+we'll keep you alive a little longer. No, no. Stop breeding in the nursery.
+
+189
+00:28:29,430 --> 00:28:34,170
+Wait a minute. Where the fuck did you come from? How did you get that mouth?
+
+190
+00:28:35,910 --> 00:28:41,420
+What the fuck? Why? Why are they exploding? Why can they not live in here?
+
+191
+00:28:42,140 --> 00:28:57,269
+What? It's too hot. I made that mouth. Oh my God. Okay. Nursery. Applied radiation.
+
+192
+00:29:01,589 --> 00:29:09,480
+Edit target. Okay. Let's just go for, let's go for a long neck again.
+
+193
+00:29:11,769 --> 00:29:17,190
+I can't even see what it looks like, but whatever. Generate it. Everyone exploded.
+
+194
+00:29:17,190 --> 00:29:29,750
+And there's no sounds of the drones smashing into everybody. Is it still too hot?
+
+195
+00:29:30,630 --> 00:29:41,880
+Why do you want it at negative two? Now it's too cold and now it's too hot. I need land fertility.
+
+196
+00:29:44,940 --> 00:29:47,980
+Increase the fertility of the land. They need more. They've been eating too much.
+
+197
+00:29:54,859 --> 00:30:03,990
+We need oxygen. I told you we're looking into the petri dish. So we need more fertile land.
+
+198
+00:30:05,609 --> 00:30:10,599
+Increase water fertility. Look, we're just going to raise the water level. No, no, no,
+
+199
+00:30:10,599 --> 00:30:16,950
+lower the water level. That'll kill everybody. Okay. We'll, we'll do more land fertility.
+
+200
+00:30:16,950 --> 00:30:29,849
+They eat it as soon as it gets here. It's just overpopulation. I, I don't have any more.
+
+201
+00:30:29,849 --> 00:30:35,480
+All right. How do I get it? How do I do like a plague? They're breeding too fast.
+
+202
+00:30:35,480 --> 00:30:41,099
+And this is just one section of the island. All right. What about these? Look at these guys.
+
+203
+00:30:41,099 --> 00:30:48,089
+These guys look okay. Let's manually feed these guys. I'm going to get this. I'm going to
+
+204
+00:30:48,089 --> 00:30:56,950
+figure this out. Chode diagram. Rover. Allow you to drive rovers. Okay. Rovers. Add a rover.
+
+205
+00:30:58,099 --> 00:31:06,089
+All right. This is the fucking what I'm looking for here. Feed. Feed creatures with high stats
+
+206
+00:31:06,890 --> 00:31:23,799
+and big size. The fuck is this? Oh, no, no, no, no. High stats. Size. Drive. Go.
+
+207
+00:31:26,019 --> 00:31:33,059
+Okay. Let's make like fucking four of them. No. Kill population when there's a, when total
+
+208
+00:31:33,059 --> 00:31:50,940
+creatures are higher than 200. We got to start to mitigate some of this statistic. Okay. When
+
+209
+00:31:50,940 --> 00:32:03,430
+there's two, drive that around. Go. Feed the creatures with low hunger. Right. So somebody's
+
+210
+00:32:03,430 --> 00:32:07,880
+feeding them to keep them alive. And one of them is killing them when there's too many.
+
+211
+00:32:07,880 --> 00:32:20,549
+This is very counterproductive, I think. Feed for stomach high, stomach low. Stamina diet.
+
+212
+00:32:22,900 --> 00:32:30,250
+Reach mass. Armor. Insulation. HP. Energy. Energy low. Right. That's what we're looking
+
+213
+00:32:30,250 --> 00:32:39,210
+for. I got the wrong game listed because this game is not on Twitch.
+
+214
+00:32:40,309 --> 00:32:46,230
+I cannot make this game a selectable game in the, in the directory. So it's diagonal with closest
+
+215
+00:32:46,230 --> 00:32:58,359
+damn thing I could. All right. Low energy. Go. What the fuck? Hold on. I have to drive this
+
+216
+00:32:58,359 --> 00:33:08,859
+thing? It's already dead. How do you feed? I have to, why wouldn't I just use my mouse?
+
+217
+00:33:18,390 --> 00:33:20,950
+Don't damage them. They're very expensive. All right. Well, get me out of this.
+
+218
+00:33:21,509 --> 00:33:29,859
+Let them do it on their own. Okay. So we've got a lot of issues. Okay. Yeah, they don't
+
+219
+00:33:29,859 --> 00:33:33,700
+have to do it. They're good. They're good. They're good. They're good. See the killing and
+
+220
+00:33:33,700 --> 00:33:46,009
+come on. I need to see that from a different angle. Details and stats. How do I get out of
+
+221
+00:33:46,009 --> 00:34:00,680
+the fucking rover? I got to get out of the rover. Diagram nursery rovers ecosystem mode.
+
+222
+00:34:00,680 --> 00:34:14,699
+Okay. There we go. Species selection mode. Creature selection mode. How do I get the
+
+223
+00:34:14,699 --> 00:34:21,690
+fuck out of the rover? Toggle indirect. Okay. Toggle camera mode. What the fuck?
+
+224
+00:34:22,869 --> 00:34:31,989
+All right. We're good. Showing thoughts. All right. So now I got a rover blasting around,
+
+225
+00:34:31,989 --> 00:34:41,050
+feeding and killing. How are we doing over here? This, this thing is murdering everybody.
+
+226
+00:34:45,320 --> 00:34:52,219
+This doesn't seem correct. Maybe I should just put this one on. No. Okay. I need to put this
+
+227
+00:34:52,219 --> 00:34:56,139
+one on feed because this one is killing them before they even have a chance. No. Stop that.
+
+228
+00:34:56,139 --> 00:35:03,659
+Stop, stop, stop, stop, stop, stop, stop. How do I control you? Stop. Which one is killing?
+
+229
+00:35:03,659 --> 00:35:14,329
+No. Feed. When creature count. No, no, no, no. Feed trees with low energy. Feed trees.
+
+230
+00:35:15,579 --> 00:35:21,179
+Do it. All right. They're not going to be killing them anymore. I need to, I want to make
+
+231
+00:35:21,179 --> 00:35:27,449
+something. How are you doing? This one looks healthy. What about in the nursery? Well,
+
+232
+00:35:27,449 --> 00:35:34,949
+wait a minute. We got, we got a mutation here. This one's bigger. This one's really big.
+
+233
+00:35:35,590 --> 00:35:47,050
+Why the fuck did it just die? Keep this one alive. How's it doing? Fatigue needs sleep.
+
+234
+00:35:47,050 --> 00:36:03,099
+How you doing on temperature? Build a fence. Place a climate control. This can be used to heat,
+
+235
+00:36:03,099 --> 00:36:25,369
+cool. All right. Fuck this. What's wrong with that fence? I need to keep one person alive.
+
+236
+00:36:30,019 --> 00:36:40,199
+Okay. And a climate control device. Temperature. Target value of zero. In here. Create it.
+
+237
+00:36:41,780 --> 00:36:50,570
+All right. Now, fertility. Target value of, um, I don't know. That's fine. Does
+
+238
+00:36:50,570 --> 00:36:55,769
+a guy get an ecosystem in here? Now it's time for a germ or rumble. No, it's time for like a,
+
+239
+00:36:55,769 --> 00:37:02,579
+I need one person to live so I can turn them into, how are we ever going to make Spider-Man?
+
+240
+00:37:02,579 --> 00:37:11,780
+That's never going to happen. This much pollution. Uh, three fertility. They're both
+
+241
+00:37:11,780 --> 00:37:23,670
+fertility. Do I have to like change that? Are they both fertility now? Look at all this
+
+242
+00:37:23,670 --> 00:37:26,550
+fucking pollution. Look. Okay. This. Look at it. Look at it. We got like a, we got
+
+243
+00:37:26,550 --> 00:37:29,989
+like a cookie monster here. All right. Feed them. Feed them. How do I feed? Get off. Out.
+
+244
+00:37:29,989 --> 00:37:42,889
+Out. Come here. All right. You're, you're in the fence. Good. We have two cookie monsters.
+
+245
+00:37:42,889 --> 00:37:48,119
+Why are you dead? Why did you just eat him? The baby just ate the adult. The baby just ate
+
+246
+00:37:48,119 --> 00:37:58,980
+the fucking adult. And now I got to keep these guys alive. More fertility. Why are you eating
+
+247
+00:37:58,980 --> 00:38:05,639
+each other? I don't understand. Okay. Now let's go to genetic engineering. You eat him
+
+248
+00:38:05,639 --> 00:38:08,980
+and I'm fucking going to throw you in the river. Don't even look at me like that. Did
+
+249
+00:38:08,980 --> 00:38:15,769
+you just look? Do you know what you were doing? Needs oxygen. How do I increase the
+
+250
+00:38:15,769 --> 00:38:23,670
+oxygen? Artificially inseminate the selected creature with save DNA from another creature.
+
+251
+00:38:23,670 --> 00:38:35,530
+You got it. Don't crash. We're going with long neck? No, the one with the legs.
+
+252
+00:38:35,530 --> 00:38:57,829
+Target number to import. Ready? Did it work? I don't think it worked. Let's do times two
+
+253
+00:38:57,829 --> 00:39:08,869
+speed. It's got legs. A species has split into two species. This happens naturally. Wait.
+
+254
+00:39:08,869 --> 00:39:13,960
+Oh, wait, wait, wait, wait, wait. A species has split into two species. This happens
+
+255
+00:39:13,960 --> 00:39:17,719
+naturally when there are no longer any members of either population that can breed with
+
+256
+00:39:17,719 --> 00:39:27,960
+members of the other. One of your wild species encompasses a lot of biodiversity. Being part
+
+257
+00:39:27,960 --> 00:39:31,800
+of the same species doesn't necessarily mean two creatures are capable of breeding.
+
+258
+00:39:31,800 --> 00:39:37,400
+Rather, it means that they are connected by a chain creature that can. When creatures at
+
+259
+00:39:37,400 --> 00:39:40,840
+either end of the chain are genetically incompatible, the species is known as a
+
+260
+00:39:40,840 --> 00:39:50,139
+ring species. Okay. Well, I didn't do that though. I gave him legs and I gave him a
+
+261
+00:39:50,139 --> 00:40:02,500
+tail instead. I need to increase the fertility here. The dying target value of. Oh my God.
+
+262
+00:40:02,500 --> 00:40:16,789
+We used to. Why are you doing this? Uh, 10. What? No. What? Temperature? No. Of 10. Fertility.
+
+263
+00:40:16,789 --> 00:40:25,780
+That's good. Whatever. What? I'm so confused. Let him out. Let him out. Okay. Okay. We got
+
+264
+00:40:25,780 --> 00:40:36,630
+a first mutation. Well, what's going on over here? No one has evolved. They just got green.
+
+265
+00:40:37,349 --> 00:40:42,630
+That's all that happened. It's because they've been eating too much grass.
+
+266
+00:40:43,739 --> 00:40:50,920
+What a mutation. This is the equivalent of when you eat too many carrots.
+
+267
+00:40:51,559 --> 00:40:57,179
+It's just a bunch of fucking mouse turds. All right. How do I go from mouse turd to Spider-Man?
+
+268
+00:41:01,000 --> 00:41:10,889
+No. Okay. I'm going to release them. You ready? They're free. Go. Keep an eye on this one.
+
+269
+00:41:15,980 --> 00:41:22,869
+This one's got legs. This one's got legs. Feed this one. He's cold. They're cold. They're
+
+270
+00:41:22,869 --> 00:41:30,969
+cold. They're a little cold. I'm going to sneeze. I fucking couldn't get it. Whatever.
+
+271
+00:41:30,969 --> 00:41:35,610
+Where is he? Where is he? Where is he? Oh, this one's got a neck. Okay. We're starting
+
+272
+00:41:35,610 --> 00:41:45,460
+to get necks. A species has lost. A species has been lost forever. Extinction is a fact of
+
+273
+00:41:45,460 --> 00:41:49,619
+life. In the long term, only a very small percentage of species will survive. Even for
+
+274
+00:41:49,619 --> 00:41:56,179
+those lucky few, survival is often a phyric victory. The chances that their descendants will
+
+275
+00:41:56,179 --> 00:42:05,849
+even resemble them are slim at best. What species was eradicated?
+
+276
+00:42:08,900 --> 00:42:12,679
+We need to keep the ones alive that are... Not the... Okay. The ones that are eating each
+
+277
+00:42:12,679 --> 00:42:20,570
+other. Here's a good leg curve with the frog right here. Damn it. That's why you need to
+
+278
+00:42:20,570 --> 00:42:27,429
+keep them in a pen because you can't control what's going on. I need an overview here. Hold
+
+279
+00:42:27,429 --> 00:42:42,440
+on. Give me like a... Give me like a fucking... That's a chart. Head scale. Genetics. No.
+
+280
+00:42:42,440 --> 00:42:53,750
+Species. What about over here? Yeah, these are all part of the same species. What are
+
+281
+00:42:53,750 --> 00:42:58,309
+they doing over here? Are they developing into something else? No. Because I haven't been
+
+282
+00:42:58,309 --> 00:43:06,789
+fucking with them over there. All right. Where the hell? Where am I? I have no idea.
+
+283
+00:43:07,349 --> 00:43:21,059
+What the fuck was I? Can I like a quick go to this person? Here it is. All right.
+
+284
+00:43:21,059 --> 00:43:25,219
+What about the nursery? I need to have like fucking... What we got? We got a new color
+
+285
+00:43:25,219 --> 00:43:33,219
+scheme here? Oh, all right. All right. Genetic engineering. Let's... I need to make something.
+
+286
+00:43:39,400 --> 00:43:50,409
+We got the watermelon creature. Let's go with... Let's go with torso. Hold on. Torso.
+
+287
+00:43:54,179 --> 00:44:06,940
+Chest height. I need to start making people with legs. Otherwise, they're going to keep
+
+288
+00:44:06,940 --> 00:44:25,739
+going like this forever. Okay. The head has to be higher. Where do we go? We're going to
+
+289
+00:44:25,739 --> 00:44:40,389
+make like a praying mantis. The head needs to change. Give it a neck. Hold on. Let's get
+
+290
+00:44:40,389 --> 00:44:51,159
+the claws, stingers. Limb step size. That's how big it is. Limb 11. Okay. Limb type. Let's see.
+
+291
+00:44:54,460 --> 00:45:01,909
+Oh, shit. Okay. Hold on. Here we go. There we go. I'm going to name this one the boxer.
+
+292
+00:45:07,940 --> 00:45:26,489
+Length. No, no, no. Wrong, wrong, wrong. It's this one. Too much. Too much. Too much.
+
+293
+00:45:27,130 --> 00:45:44,679
+I'm making a silent hill monster. We need some like shoes. I don't know which one this is.
+
+294
+00:45:48,039 --> 00:46:08,380
+Oh, God. Okay. Limb tip. Here we go. It needs to have shoes. Barbecue shoes? Limb tip. I need
+
+295
+00:46:08,380 --> 00:46:22,039
+to make a different... Limb tip. Oops. Oh, yeah. For sure. I got to get rid of the...
+
+296
+00:46:22,039 --> 00:46:33,579
+This looks awful. Limb... What's it? Limb 21? Limb 21's got to go. That's better. All
+
+297
+00:46:33,579 --> 00:46:38,420
+right. So this is going to be called... We just need to... We got to throw some weird shit in
+
+298
+00:46:38,420 --> 00:47:01,219
+here. We got to get this going. Generate. This one's going to be called... Okay. Where
+
+299
+00:47:01,219 --> 00:47:08,409
+is my shoes of rocket? Right here, right? So we're in the nursery. So let's go to the nursery.
+
+300
+00:47:09,769 --> 00:47:23,769
+And we're going to apply this. Select target. Target is shoes of rocket. Import. Okay. There
+
+301
+00:47:23,769 --> 00:47:29,929
+it is. Let's see if it happens. Apply radiation. Apply like fucking three times radiation.
+
+302
+00:47:31,940 --> 00:47:47,130
+Okay. That's good. Is it dead? Is that one dead? That one's dead. Is it? Are these... Okay. Why
+
+303
+00:47:47,130 --> 00:48:01,690
+are they just exploding? Where's my Sims meter? They're suffocating. Get some oxygen in here.
+
+304
+00:48:02,329 --> 00:48:07,989
+How do I get oxygen inside of here? What the fuck are the rovers even doing?
+
+305
+00:48:08,630 --> 00:48:17,349
+Where's my rovers? Feed creatures with high size. Feed... It's all feed. They're feeding them.
+
+306
+00:48:17,909 --> 00:48:39,289
+They're not killing them. Not supposed to be. Feed the trees. How do I get more trees? Wait
+
+307
+00:48:39,289 --> 00:48:43,269
+a minute. Okay. Okay. Okay. Okay. Okay. Wait. Wait. Wait. Wait. Wait. Stop. Stop. Stop. Stop.
+
+308
+00:48:43,269 --> 00:48:50,920
+Freeze time. Nursery. Got it. Right there. Get the radiation down. Target is selected.
+
+309
+00:48:51,659 --> 00:49:03,750
+Go for it. You need to survive. This one's coming out. Come on. What the fuck? What is happening?
+
+310
+00:49:03,750 --> 00:49:10,980
+Why do you keep blowing up into... They come out and explode. I didn't give them explosion. Okay.
+
+311
+00:49:10,980 --> 00:49:20,250
+They got feet though. They do have feet. Need oxygen. How the fuck do I get oxygen in here?
+
+312
+00:49:20,250 --> 00:49:32,539
+How do I get more trees in here? All right. I'm getting you out of here. Need more
+
+313
+00:49:32,539 --> 00:49:51,849
+fertility. You guys all right? Everybody like... No, he's just dying.
+
+314
+00:49:54,309 --> 00:50:06,199
+They keep coming out and they keep fucking instantly dying. Cold bask in sun. Walk to
+
+315
+00:50:06,199 --> 00:50:18,280
+location. Feed the trees. Look at all these trees have maximum energy. There's like plenty
+
+316
+00:50:18,280 --> 00:50:34,710
+of trees in here. Look at all the energy they have. Max energy. Max energy. Max energy. All
+
+317
+00:50:34,710 --> 00:50:43,110
+right. I'm getting you out of here. Time to get to the real world. Oxygen. Oxygen. We need more
+
+318
+00:50:43,110 --> 00:50:55,340
+fertility. It's too cold. He's drowning himself in water. No. Stop drowning. Why are you
+
+319
+00:50:55,340 --> 00:51:05,019
+drowning yourself? Get out of there. No. Why? What are you doing? Why are you doing that?
+
+320
+00:51:05,579 --> 00:51:21,239
+He wants out of the simulation. I took him out. Instantly just instantly goes into the water
+
+321
+00:51:21,239 --> 00:51:30,860
+to die. Oxygen. Seeking oxygen. What am I missing here? Hold on. Genetics. Energy.
+
+322
+00:51:32,519 --> 00:51:45,239
+Excess pregnancy. Okay. Diet is an omnivore. Luke warm blooded. Optimal temperature
+
+323
+00:51:45,960 --> 00:51:59,610
+is 24. It's aerobic. Okay. I've yet to have a meaningful evolution except for I just
+
+324
+00:51:59,610 --> 00:52:08,650
+they're just that's why they explode when they have babies. Is that what it is? Are they
+
+325
+00:52:08,650 --> 00:52:32,139
+having are they getting too pregnant? I'm just gonna ultra fast forward. Uh oh. Sorry about
+
+326
+00:52:32,139 --> 00:52:43,739
+that lag. It's apologizing for the lag. It's very CPU intensive. Do we have anybody else
+
+327
+00:52:43,739 --> 00:52:52,630
+that's like mutating correctly? I need to put a species cap. I think it was his own
+
+328
+00:52:52,630 --> 00:52:56,070
+the default. Like okay should I make like a new world and all right here's what we're
+
+329
+00:52:56,070 --> 00:53:05,719
+gonna do. This is gonna take like 40 in-game days to get what I want. There are just
+
+330
+00:53:05,719 --> 00:53:10,940
+two yeah there are too many rabid shits. This thing doesn't even have a head. Oh yeah
+
+331
+00:53:10,940 --> 00:53:21,449
+it does. Set okay hold on somebody's gotta set all the mutation settings in the world
+
+332
+00:53:21,449 --> 00:53:28,039
+creation menu to maximum if you want actual results. Oh okay. Well that was a fun interesting
+
+333
+00:53:28,039 --> 00:53:36,809
+like how does this game work. Let's try it again. Number of creatures. Uh let's go with like a
+
+334
+00:53:36,809 --> 00:53:51,059
+a hundred? Fifty. What's the maximum that I should have? Fifty? Okay mutation rate. What is
+
+335
+00:53:51,059 --> 00:53:54,900
+the maximum? This mutation rate is high enough to completely obscure the effects of natural
+
+336
+00:53:54,900 --> 00:54:06,340
+selection. Offspring may not resemble the parents at all. Three. God damn it. It's like
+
+337
+00:54:06,340 --> 00:54:18,420
+being at the gas station. A high mutation result in a lot of genetic drift. Okay breeding
+
+338
+00:54:18,420 --> 00:54:24,280
+range. The maximum genetic distance a creature can be from another creature while still allowing
+
+339
+00:54:24,280 --> 00:54:39,500
+them to mate. Put this a little higher then right? Like 40? 50? Automatic population control is on.
+
+340
+00:54:40,380 --> 00:54:53,530
+Okay anyone can just mate with anyone right? Tree growth rate. Yeah we want I want more of
+
+341
+00:54:53,530 --> 00:55:02,260
+these fucking things. Forest density. A little bit more density. Temperature sensitivity. Fertility
+
+342
+00:55:02,260 --> 00:55:10,920
+sensitivity. Speed multiplier. This is fine. Damaging rate is one. Temperature loss.
+
+343
+00:55:11,639 --> 00:55:20,250
+I think these are fine. So we got much better temperature noise map. Temperature average.
+
+344
+00:55:23,059 --> 00:55:31,380
+Fertility average. Should I make this higher? Yeah I got like way more vegetation and shit.
+
+345
+00:55:35,559 --> 00:55:44,739
+Lower the creature cap even more to what like 20? 25? What if they die?
+
+346
+00:55:45,380 --> 00:56:05,719
+You're making an ice world? Max efficiency. I think this is okay. Oh okay wait wait wait wait wait
+
+347
+00:56:05,719 --> 00:56:18,869
+wait I see what you're saying. Creature cap is at 3200. Yeah that's a lot. How about like 100?
+
+348
+00:56:19,510 --> 00:56:29,619
+200? 3200. How many starting creatures are on the map? Let's go with like 10
+
+349
+00:56:33,639 --> 00:56:40,760
+and let's have like 500 are allowed. World size that's fine. Get 10 starting creatures.
+
+350
+00:56:40,760 --> 00:56:48,920
+I'm ready to get my shit together. This looks good all right. Turn off the tutorial messages.
+
+351
+00:56:48,920 --> 00:57:06,329
+I don't think I need them anymore. Max fertility. 350. Starting creatures.
+
+352
+00:57:08,420 --> 00:57:19,110
+We have a choice here. Predator and prey. Aquatic. Random. Or blank. So is it going to be
+
+353
+00:57:19,110 --> 00:57:36,489
+random shit? Oh my god. I mean do I really want to work with random? Not yet. Not yet.
+
+354
+00:57:36,969 --> 00:57:43,260
+Let me just try doing it with like me really trying. That's gonna make fucking all kinds
+
+355
+00:57:43,260 --> 00:57:52,409
+of fucked up characters. We'll do that later. I need to try to make my own creature. So what
+
+356
+00:57:52,409 --> 00:58:03,019
+was the last thing? Breeding range. Lower it a little bit to like what 20? God damn it.
+
+357
+00:58:03,019 --> 00:58:06,460
+Whatever. 1999 is what you pay in like the steam store for 80 percent of all the games
+
+358
+00:58:06,460 --> 00:58:12,969
+anyways. All right let's go. You ready? Higher mutation. We'll get there gradually.
+
+359
+00:58:13,960 --> 00:58:27,539
+Here we go. So where are this 10? Here they are. Already they're like already already
+
+360
+00:58:27,539 --> 00:58:40,260
+dying in the ocean. I got three. Where are the other ones? Did they spawn in a random place?
+
+361
+00:58:40,260 --> 00:58:45,420
+Fuck them. Who cares? We're gonna these we'll have here we go. Seeking oxygen.
+
+362
+00:58:46,730 --> 00:58:56,980
+Well get out of the fucking water then. You can feed them all like that. Where are the
+
+363
+00:58:56,980 --> 00:59:16,360
+other ones? Is there? All right found one. Get over here. Okay we got sleeping. It's a little
+
+364
+00:59:16,360 --> 00:59:21,769
+too hot. Wants to go swimming. Wants to go swimming. Oh they're getting bigger. What
+
+365
+00:59:21,769 --> 00:59:26,090
+about the ones over here? All of you get like in the same spot. There's too many of you already.
+
+366
+00:59:29,989 --> 00:59:47,000
+They're already breeding in extreme levels. Temperature up a little. Where are they going?
+
+367
+00:59:47,000 --> 00:59:58,980
+All right so let's try. Let's get some of you. That's because the fertility rate.
+
+368
+01:00:00,099 --> 01:00:02,900
+They're just going to overpopulate this immediately.
+
+369
+01:00:03,300 --> 01:00:16,389
+Okay just let them do whatever they're gonna do. Seeking oxygen. Seeking oxygen. Seeking oxygen.
+
+370
+01:00:16,389 --> 01:00:26,329
+They've already ruined the earth here. It's just a virus. All right get in here.
+
+371
+01:00:28,619 --> 01:00:32,809
+Let's make some stuff happen in here. At least the truth. All right no no this is
+
+372
+01:00:32,809 --> 01:00:39,030
+just ridiculous. Hold on. I gotta do this one more time. New world. Fertility rate. Oh my
+
+373
+01:00:39,030 --> 01:00:57,860
+god. I picked that slug up. Put it in the den and 15 babies came out. Wait this is fertility of the
+
+374
+01:00:58,500 --> 01:01:14,380
+the land isn't it? Variation. Let's keep it at one. This is vegetation. Breeding range.
+
+375
+01:01:15,610 --> 01:01:27,699
+Ecosystem modifiers. World size. Creature detail. 0.05 will not work. Mutation rate
+
+376
+01:01:27,699 --> 01:01:35,769
+up. Oh they can make it so they have to be sexual to reproduce. So they're reproducing
+
+377
+01:01:35,769 --> 01:01:55,510
+just on their own. Okay so they're self reproducing. So now we have 10. They have to mate
+
+378
+01:01:56,309 --> 01:02:04,440
+to do anything at all. This is going to keep the numbers low. We brought the fertility down.
+
+379
+01:02:05,960 --> 01:02:19,019
+Tree efficiency can stay on. Mutation rate is good. All right let's try it again. Good luck.
+
+380
+01:02:19,579 --> 01:02:33,750
+They have to have sex. I'm looking for one. I have 10 here. I should just have two. Where are
+
+381
+01:02:33,750 --> 01:02:45,989
+they? Okay they're... this one's eating. All right that's good. What are they? What's wrong
+
+382
+01:02:45,989 --> 01:02:55,849
+with you? Armornus? Armornus. What does armornus mean? Cold basking in the sun.
+
+383
+01:02:57,369 --> 01:03:14,969
+Okay the tropical rainforest. Looking for others. There are others but where are they?
+
+384
+01:03:15,130 --> 01:03:33,210
+Okay. How are you guys doing over here? Okay. Somebody already had sex. No don't do that.
+
+385
+01:03:35,210 --> 01:03:38,250
+Okay so you exploded and out came. No no don't just...
+
+386
+01:03:43,719 --> 01:03:55,289
+Well you are having a lot of children over here. Much more than over here.
+
+387
+01:03:57,849 --> 01:04:01,210
+All right let's try to make something happen. We could just watch.
+
+388
+01:04:06,949 --> 01:04:13,820
+No let's get somebody. Come here. You. Get inside of the nursery. Wherever the hell it is.
+
+389
+01:04:14,380 --> 01:04:27,940
+Come here. Get over here. You. Genetic engineering. I'm gonna make something. We're
+
+390
+01:04:27,940 --> 01:04:43,940
+gonna have to be a target. Make it bigger. Like maybe like a three. Five maybe. Let's make
+
+391
+01:04:43,940 --> 01:04:51,289
+it a different color. That didn't really work. Okay what about? No that's not doing anything.
+
+392
+01:04:53,929 --> 01:04:58,170
+Whoa. Okay we're gonna have like a caterpillar. Caterpillar fuzz. That looks good.
+
+393
+01:05:06,969 --> 01:05:20,360
+Optimal temperature. Just like fucking one. Torso. Chest height. All right now I'm gonna get...
+
+394
+01:05:20,360 --> 01:05:44,940
+I'm gonna make something. I'm gonna make stingray. Or a broom. No I'm not...
+
+395
+01:05:46,219 --> 01:05:52,570
+That doesn't look right. Stomach. I gotta make it wider. It's disgusting. Well it's not done.
+
+396
+01:05:58,019 --> 01:06:04,179
+It's grotesque. Well it's part of the evolutionary process. Length of pregnancy.
+
+397
+01:06:04,179 --> 01:06:13,210
+That's fine. Litter size. That's fine. Positive values are carnivores. It's gonna eat things.
+
+398
+01:06:13,929 --> 01:06:23,190
+Torso rotation. Oh yeah that's what I'm talking about. Okay hip height. Stomach width. Limbs.
+
+399
+01:06:24,070 --> 01:06:47,750
+All right I gotta change those. Looks good. Limb ending type. What's the thing from Half
+
+400
+01:06:47,829 --> 01:06:55,590
+Life? I'm gonna make those things from the greetings to you and what the guys that do
+
+401
+01:06:55,590 --> 01:07:08,460
+magic powers. The Vortigaunts. Yeah I'm gonna make the Half Life to like magic power monsters.
+
+402
+01:07:09,260 --> 01:07:20,219
+Okay this would be a little thicker. Triceps are a little bigger. Biceps are a little bigger.
+
+403
+01:07:21,019 --> 01:07:26,309
+All right Lim 11. Let's go. Why is Lim 11? It's a weird name for it.
+
+404
+01:07:27,030 --> 01:07:54,150
+I changed my mind. I'm gonna make General Grievous now. Which one was more grievous?
+
+405
+01:08:00,219 --> 01:08:08,179
+28. No. That looks no. It's like an elephant. The first one I had was pretty grievous.
+
+406
+01:08:10,949 --> 01:08:26,649
+That's kind of grievous. Make it a little longer. Okay it's gonna be more upright though.
+
+407
+01:08:28,970 --> 01:08:40,920
+Rotation. Where's the rotation there? Torso right. Torso rotation. Oops okay.
+
+408
+01:08:42,789 --> 01:08:53,689
+Uh that's this is the legs now. Yeah this is the forest giant boss.
+
+409
+01:08:54,329 --> 01:09:30,779
+Check this out. Watch this. Oh no never mind. Shit. How do I get back to? I need to rotate
+
+410
+01:09:30,779 --> 01:09:59,340
+these. I need to rotate these. Please stop. Burn the computer. Just wait. Hold on. Holy fuck
+
+411
+01:09:59,340 --> 01:10:16,180
+that looks horrible. Oh all right I like that. That's not bad. Neck. Has a neck. Neck length.
+
+412
+01:10:16,180 --> 01:10:36,500
+Where's this neck? You guys see a neck here? Uh oh this is the limbs. Oh it's fucking with me.
+
+413
+01:10:39,989 --> 01:10:56,300
+I clicked on neck. Neck. Okay there we go. Neck length has neck. I think it's just one. Yeah
+
+414
+01:10:56,300 --> 01:11:03,619
+okay I need to make the thickness of the neck bigger. Stop making it do that.
+
+415
+01:11:03,619 --> 01:11:20,579
+Okay neck slope. Are you guys gonna hate this? It's just one of those snakes. The
+
+416
+01:11:20,579 --> 01:11:38,409
+fireworks snakes. All right bring it down. Even more. Even more. Even more. Okay so it's
+
+417
+01:11:38,409 --> 01:12:01,130
+like that. Good. It uses his neck as another limb. Looks good. Head. Head scale. You can just make
+
+418
+01:12:01,130 --> 01:12:10,420
+a giant ball. Head type. I feel like there are actual bugs and shit in the world that look like
+
+419
+01:12:10,420 --> 01:12:21,909
+this. That one's horrifying. Look at the eyes. That's eyes and mouth. Yep. Pretty great dead
+
+420
+01:12:21,909 --> 01:12:33,979
+space character you got here. Brain. Uh let's see. Sex drive. Climate sensitivity. No you find
+
+421
+01:12:33,979 --> 01:12:41,770
+empathy. Reduces the chance. Yeah like give it some empathy here. Risk taking. High risk,
+
+422
+01:12:41,770 --> 01:12:51,590
+high reward food sources. Okay laziness. Aggression. No it's not a coward. It's not
+
+423
+01:12:51,590 --> 01:12:57,960
+that aggressive. It's not that lazy. It's not that gluttonous. Okay number of features. Facial
+
+424
+01:12:57,960 --> 01:13:07,770
+features. We got a couple here right? Let's go two. Feature one. Which one is it though?
+
+425
+01:13:12,090 --> 01:13:17,220
+Feature. What is it looking at here? Feature size. Feature type two. I think it's just not
+
+426
+01:13:17,220 --> 01:13:30,579
+big enough. Holy shit. Okay it's got a giant hat on. Okay well it's wearing a shell on its head.
+
+427
+01:13:31,300 --> 01:13:50,149
+Make it very aggressive and very lazy. Why is it all these weird shells? It's got a birthday
+
+428
+01:13:50,149 --> 01:14:04,420
+hat on. All right it's gonna wear a birthday hat. Okay. Face. That's good. I think this
+
+429
+01:14:04,420 --> 01:14:23,590
+is a good a good start. It'll mutate into something else. Generate. Did it work? I can't
+
+430
+01:14:23,590 --> 01:14:49,060
+tell. That's never gonna successfully exist. Did it not do anything? I don't get it. We're in the
+
+431
+01:14:49,060 --> 01:14:55,380
+nursery right? There it is. Okay so it's going from here. It's trying. It's looking like it's
+
+432
+01:14:55,380 --> 01:15:07,529
+trying. It's gonna make this like weird crab birthday monster. Okay go back. So the question
+
+433
+01:15:07,529 --> 01:15:15,029
+is. I need to. No get out of here. Can I like feed? All right hold on we got another
+
+434
+01:15:15,029 --> 01:15:25,699
+mutation going on. The drones are killing the ones that are not genetically similar.
+
+435
+01:15:25,699 --> 01:15:33,739
+That seems kind of unfair. I just want the crab birthday monster to come up. All right.
+
+436
+01:15:34,619 --> 01:15:53,260
+No. It's just killing them if it's not correct. It's just browsing. All right I'm gonna
+
+437
+01:15:53,899 --> 01:16:06,119
+turn off the royalty-free YouTube tutorial music. I don't. That's not my decision.
+
+438
+01:16:07,340 --> 01:16:13,140
+Like come on. Somebody grow. All right well you keep doing that. Well I go check out the
+
+439
+01:16:13,140 --> 01:16:28,199
+other people in the wild here. How are they doing? Is anybody even alive? Okay. How are we
+
+440
+01:16:28,199 --> 01:16:40,229
+doing? We have a couple of changes it looks like. They've started to change color and
+
+441
+01:16:40,229 --> 01:16:51,670
+have little tails and little legs. The population's getting too high. All right.
+
+442
+01:16:51,670 --> 01:17:06,359
+Can I please get like a mutation going? Nuke the island. Come on. Somebody evolve.
+
+443
+01:17:07,000 --> 01:17:21,750
+Sleep. Seeking oxygen. Eating. Corpse. Premium species has gone extinct.
+
+444
+01:17:21,750 --> 01:17:27,109
+Has gone extinct. Have they gone extinct? Premium egesium has gone extinct.
+
+445
+01:17:28,489 --> 01:17:41,220
+Lucarius specimen has mutated. Oh the drone's killing the ones that are mutating. Let me
+
+446
+01:17:41,220 --> 01:17:45,800
+just take that. I don't have any. I don't think they are. I think they're like controlling
+
+447
+01:17:45,800 --> 01:18:17,430
+the population. Evolve. Dammit. Evolve. One of you will evolve. I have a better idea.
+
+448
+01:18:32,310 --> 01:19:12,260
+Evolve. Rude. What do you mean rude? What the fuck? Web of life. Where the fuck are these people?
+
+449
+01:19:12,260 --> 01:19:24,149
+What? How did you guys do all this without me? Hold on a minute. These they're like progressing.
+
+450
+01:19:24,149 --> 01:19:35,829
+They got hands. They got mouths. They have weird little eyes. Feed them. Feed them all.
+
+451
+01:19:36,970 --> 01:19:45,029
+So hold on. So I can see where it's gonna go. What about these weird ones? What's this one?
+
+452
+01:19:45,750 --> 01:20:02,250
+Oh shit. They are. They're just like skating around. Oh no. It wants to go swimming. It's
+
+453
+01:20:02,250 --> 01:20:13,859
+gonna die. Well it's extinct. Don't feed them. So where does that web end up? Go down here.
+
+454
+01:20:13,859 --> 01:20:21,539
+We've got major species partially player owned. Minor species. All right. You're still going.
+
+455
+01:20:22,789 --> 01:20:34,489
+My controlled environment's not doing well. Cold. All right. Let's kick up the temperature.
+
+456
+01:20:34,489 --> 01:20:45,930
+That's so cool though. What the fuck is that? Where is that? All right. Right there.
+
+457
+01:20:49,670 --> 01:21:00,890
+It's rapidly exhausted. It's a hairy arm. Let's think from all real monsters.
+
+458
+01:21:02,470 --> 01:21:15,819
+Apply radiation. Oh god. Okay. What the hell? All right. I'm gonna do radiation. Times like
+
+459
+01:21:15,819 --> 01:21:31,770
+2.3. This is dopey fuck. Look at how much fun this one's having. They swim upside down.
+
+460
+01:21:31,770 --> 01:21:47,399
+I love this one. I hope this one never dies. Where are you going? It wants to walk to location
+
+461
+01:21:47,399 --> 01:21:58,390
+over here. To like hang out by the tree. And now it wants to go swimming again. Looks like a
+
+462
+01:21:58,390 --> 01:22:03,060
+tongue. Yeah it does. All right. Hold on. We got more species shit going on. Look. Look at
+
+463
+01:22:03,060 --> 01:22:08,869
+this one. Look at this one. You just gotta let it happen. Right? Oh god. This is extinct.
+
+464
+01:22:09,430 --> 01:22:13,510
+This is. Okay. Like the brown rabbit turd is now extinct. So that's kind of good.
+
+465
+01:22:14,229 --> 01:22:29,479
+Here we are. Any others? Yep. We got plenty over here. Well that one's coming up. So how
+
+466
+01:22:29,479 --> 01:22:39,899
+am I going to introduce mine into the world? My stupid tripod monster. Have you still not
+
+467
+01:22:39,899 --> 01:22:52,869
+evolved yet? You asshole. Hurry up and evolve. All right. We need to make it a little warmer.
+
+468
+01:22:59,899 --> 01:23:03,420
+Turn off the drones. I can't. I don't have any like that are here.
+
+469
+01:23:04,300 --> 01:23:07,819
+Unless I can like turn them off in the nursery. I think they just do their thing, right?
+
+470
+01:23:14,819 --> 01:23:21,819
+Increase radiation. These ones are not. Why? Come on. How come they get like cool ones and I
+
+471
+01:23:21,819 --> 01:23:26,039
+don't get cool ones. Oh shit. They're burning. They're burning. They're burning. They're burning.
+
+472
+01:23:26,039 --> 01:23:30,649
+They're burning. They're burning. Oh fuck. The whole place is burning. This one just evolved.
+
+473
+01:23:31,289 --> 01:23:41,260
+This is involved into like a like a crusty booger. It's. Turn it down. Temperature down.
+
+474
+01:23:41,260 --> 01:23:55,670
+Down. Down. No. Stop it. Down. Oh for the love of god. I'm fucking torching everybody.
+
+475
+01:24:01,100 --> 01:24:11,350
+It was fine. Well this stupid dumb ones in the nursery were like it's cold. So I literally
+
+476
+01:24:11,350 --> 01:24:18,939
+started killing everyone on earth to appease like six people in the nursery. All right. We're
+
+477
+01:24:18,939 --> 01:24:27,909
+down to 20. Everyone's fine now. 40 degrees Celsius. 104 degrees Fahrenheit. Yeah. I know.
+
+478
+01:24:27,909 --> 01:24:32,710
+But I was appeasing. You know what? Why don't I just fucking put you in here? Here. Give me
+
+479
+01:24:32,710 --> 01:25:00,300
+the cow. God damn it. Speed this up. Go on. No. What the fuck are you doing? I hate this
+
+480
+01:25:00,300 --> 01:25:10,949
+thing. And now it's extinct. And we still haven't evolved at all. This control group
+
+481
+01:25:10,949 --> 01:25:21,850
+doesn't have any water. How? Should I like put a fertility box in here? Or like an oxygen box?
+
+482
+01:25:22,569 --> 01:25:30,949
+These guys haven't done anything. They're killing the ones that are not mutations.
+
+483
+01:25:36,060 --> 01:25:44,279
+Get a drone to kill the drones. I have to raise the radiation in the nursery again.
+
+484
+01:25:45,000 --> 01:26:02,100
+Oh god. Is that going to be bad? Come on. Give me the fun music.
+
+485
+01:26:02,100 --> 01:26:07,750
+Get them out of the nursery. All right. I'm gonna take like I'm gonna take this one
+
+486
+01:26:08,470 --> 01:26:12,060
+and put it out of the nursery. This is the control group over here.
+
+487
+01:26:17,380 --> 01:26:24,939
+Right here. Come on out. All right. This is the control group. It's been radiated.
+
+488
+01:26:30,409 --> 01:26:41,000
+This is like patient zero right here. Uh oh. Are we gonna infect everybody? No. You just
+
+489
+01:26:41,000 --> 01:26:48,180
+died in the water. Well a couple of kids just went out into the open. Oh boy. Here it
+
+490
+01:26:48,180 --> 01:27:04,489
+begins. They they come they're gonna infect everybody now. There they are. How many more
+
+491
+01:27:04,489 --> 01:27:11,779
+generations need to pass? There's so many texts. Yeah somebody's blowing my phone up right now.
+
+492
+01:27:17,529 --> 01:27:21,289
+We got some weird looking motherfuckers right now because look it. That's what the target was
+
+493
+01:27:21,289 --> 01:27:26,439
+right? With the long uh arms in the front. What about over here? How's the nursery doing?
+
+494
+01:27:29,939 --> 01:27:42,390
+You still haven't got it. Not ready yet. I wonder if they're gonna start walking upright.
+
+495
+01:27:42,390 --> 01:27:54,949
+That's what I'm waiting for. The nursery is killing all mutations. Wait why is it doing
+
+496
+01:27:54,949 --> 01:28:20,020
+that? Fuck it. Let's introduce more. Get in there. Good luck. The nursery preserves a species.
+
+497
+01:28:21,189 --> 01:28:26,760
+All right well okay but if isn't this what it's supposed to be making?
+
+498
+01:28:28,600 --> 01:28:32,039
+Ten creatures in nursery. Edit the target right? The target is this.
+
+499
+01:28:33,500 --> 01:28:46,659
+Isn't that the point? It's the purity zone. Nursery. This is not the nursery here.
+
+500
+01:28:49,720 --> 01:29:09,289
+It will only spare the mutations. Just blast them. Well I brought I dropped some over here.
+
+501
+01:29:09,289 --> 01:29:14,899
+I think we're gonna start to see some interesting things now. They're starting to get legs.
+
+502
+01:29:15,699 --> 01:29:22,699
+Do they fight? They're starting to turn to crabs.
+
+503
+01:29:27,619 --> 01:29:44,600
+This one's doing like the stand like a handstand. Nice hand standing dog. Well
+
+504
+01:29:44,600 --> 01:29:58,500
+there we go. We're gonna follow this one. Herbivore starving. Holy shit what's going on
+
+505
+01:29:58,500 --> 01:30:17,079
+over here? Is that where I am? Are these are they have friends? Yeah it's an unpeeled
+
+506
+01:30:17,079 --> 01:30:33,770
+potato. Hunger. Browsing. It's just browsing around. This one's fucked up too. Hot desert.
+
+507
+01:30:33,770 --> 01:30:40,300
+How you doing? How much oxygen? Well stop doing that. Get out of there. What's wrong with you?
+
+508
+01:30:41,100 --> 01:30:46,569
+Why would you bury your head in the water for no reason? I need oxygen. I might as well put
+
+509
+01:30:46,569 --> 01:30:56,630
+my head in the water. I want to see what comes out of this one. It's just basking in the
+
+510
+01:30:56,630 --> 01:31:07,430
+sun. Oh hold on. I don't know if he peed on him or if this is him basking in the sun.
+
+511
+01:31:07,909 --> 01:31:22,090
+I'm not entirely sure. Look at this guy. Hunger. Scanning. He's gonna eat this one.
+
+512
+01:31:22,090 --> 01:31:35,380
+They're gonna get so fucked up. I do. This is my favorite. What's this one called? Primarius
+
+513
+01:31:35,380 --> 01:31:50,409
+anemurk. Oh no not as interesting as this guy. They're eating from the same tree. I'm gonna
+
+514
+01:31:50,409 --> 01:31:57,819
+pull out here in a second. Bring him to a new island so he can take it over. Yeah that's a
+
+515
+01:31:57,819 --> 01:32:03,979
+good idea. All right uh but how do you produce? Pause it here. I need to see this.
+
+516
+01:32:04,699 --> 01:32:14,600
+This is primarius anemurk. Statistics. Physiology. Hold on. Averages. It's an herbivore.
+
+517
+01:32:15,319 --> 01:32:27,189
+Does it need to have sex to survive though? Well I think we got we already got that.
+
+518
+01:32:27,189 --> 01:32:30,630
+We got all right. These two. No we're gonna get it. We have to bring two together.
+
+519
+01:32:33,340 --> 01:32:40,359
+Age 2000 out of 70. Okay well it's a capable warm-blooded optimal temperature.
+
+520
+01:32:40,359 --> 01:32:46,060
+Optimal internal temperature. Hairy. It's a decent it's a decent animal.
+
+521
+01:32:47,579 --> 01:32:52,020
+Okay let's go. Litter size one. We're gonna get you to a secluded place.
+
+522
+01:32:53,819 --> 01:32:57,899
+You can just you can keep living your life for a minute but who do we combine them with?
+
+523
+01:32:57,899 --> 01:33:05,609
+I need to be the okay you need to I need to be able to pay attention to you. Come with me.
+
+524
+01:33:06,409 --> 01:33:12,659
+I need to secure the secluded part. This is pretty secluded.
+
+525
+01:33:14,899 --> 01:33:21,609
+Down here. Make sure you're fed. Just bask in the sun for a little bit. All right you're
+
+526
+01:33:21,609 --> 01:33:34,680
+down there. Now who the hell do we combine you with? They're all binding of Isaac faces.
+
+527
+01:33:35,239 --> 01:33:44,090
+It's like I just walked into the secret room. This one's kind of cool.
+
+528
+01:33:44,090 --> 01:33:53,859
+I wish I could get a good look. Are you that green? Look at how green this is.
+
+529
+01:33:54,500 --> 01:34:19,420
+Is this the mate? I think it's green. Yeah green boy. Come with me. Where the
+
+530
+01:34:19,420 --> 01:34:32,060
+fuck did I put him? Over here right? Right here. All right you two you ready? Now play nice.
+
+531
+01:34:32,779 --> 01:35:02,869
+You're doing good. A little bit uncomfortable but it's okay. Now you go over here. Stop
+
+532
+01:35:02,869 --> 01:35:11,270
+resting. Come here. Come over and like enjoy this person that's on the island with you.
+
+533
+01:35:11,270 --> 01:35:19,270
+They'll figure it out. It's not the same species so it's too cold for them.
+
+534
+01:35:21,270 --> 01:35:31,560
+All right come on. Scanning. This is eating. They aren't the same species. They won't reproduce.
+
+535
+01:35:32,979 --> 01:35:46,039
+Well fuck. What about one of these weirdos? Okay so this is Primarius
+
+536
+01:35:46,600 --> 01:36:00,550
+Anemic. This is an Anemic. Taurorus Anemic. I need to okay so that was that was that was a
+
+537
+01:36:00,550 --> 01:36:11,689
+Primaurus. So this one could can can be blended. So I need a Primaurus. This one's fucked up.
+
+538
+01:36:11,689 --> 01:36:22,619
+All right what about you? Content. Basking in the sun. Don't breathe this. What do you mean
+
+539
+01:36:22,619 --> 01:36:33,140
+don't breathe this? Come here. Okay you guys are the same species and you should be good
+
+540
+01:36:33,140 --> 01:36:38,789
+friends. Going to take a swim in the water.

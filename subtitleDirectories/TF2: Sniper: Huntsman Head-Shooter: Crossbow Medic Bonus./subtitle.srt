@@ -1,0 +1,467 @@
+1
+00:00:00,000 --> 00:00:12,470
+Hey, what is going on everybody? Jerma here with a Team Fortress 2 gameplay commentary.
+
+2
+00:00:12,470 --> 00:00:19,030
+This is gonna be a Huntsman sniper and a bonus clip at the very end of a Crusader's crossbow medic.
+
+3
+00:00:19,030 --> 00:00:23,589
+I got a lot of requests to do that after I mentioned it in my previous video,
+
+4
+00:00:23,589 --> 00:00:26,429
+so there will be a little bonus clip at the end here.
+
+5
+00:00:26,429 --> 00:00:31,329
+And it has to be mentioned that this is all being recorded on my laptop right now.
+
+6
+00:00:31,329 --> 00:00:32,950
+I brought a pretty nice microphone with me.
+
+7
+00:00:33,350 --> 00:00:39,429
+I'll give you the quick story. If you were not at my live stream, my fail stream last night.
+
+8
+00:00:39,429 --> 00:00:45,429
+So what happened was I had to drive nine and a half hours from Boston to North Carolina
+
+9
+00:00:45,429 --> 00:00:47,829
+because I had to bring my sister's dogs home.
+
+10
+00:00:47,829 --> 00:00:52,829
+My sister has two dogs, two fairly large dogs, not huge or anything by anybody's standards,
+
+11
+00:00:52,829 --> 00:00:54,729
+but they're pretty big, pretty wild.
+
+12
+00:00:54,729 --> 00:00:58,829
+So we had to drive them. Me and my mother had to drive them down to North Carolina
+
+13
+00:00:58,829 --> 00:01:01,329
+because you can't really put a dog on a plane anymore.
+
+14
+00:01:01,329 --> 00:01:03,810
+It's not like considered a good thing to do.
+
+15
+00:01:03,810 --> 00:01:09,010
+So we just drove them and I ended up being like 25 minutes late from my own live stream.
+
+16
+00:01:09,010 --> 00:01:13,439
+And if you did come to that live stream, I'm sorry.
+
+17
+00:01:13,439 --> 00:01:15,739
+I'm sorry that it really turned out pretty poorly.
+
+18
+00:01:15,739 --> 00:01:20,040
+I didn't really realize this laptop wasn't powerful enough to do anything.
+
+19
+00:01:20,040 --> 00:01:22,540
+We ended up playing Super Meat Boy for a little while.
+
+20
+00:01:22,540 --> 00:01:25,709
+So at least that's good. At least we played Meat Boy, right?
+
+21
+00:01:25,709 --> 00:01:29,650
+Couldn't play Team Fortress at all. It was like two frames a second.
+
+22
+00:01:29,650 --> 00:01:33,950
+But don't worry though. The good news out of this is I'm leaving here in like two days.
+
+23
+00:01:33,950 --> 00:01:37,250
+Good to see your family though. Good to visit my sister and her husband.
+
+24
+00:01:37,250 --> 00:01:40,450
+They have a really nice place in North Carolina. Really beautiful down here.
+
+25
+00:01:40,450 --> 00:01:44,650
+So it's all good. This video should go up today. I hope it does.
+
+26
+00:01:44,650 --> 00:01:47,870
+We'll see if the crap laptop can handle it or not.
+
+27
+00:01:47,870 --> 00:01:50,969
+So playing as the huntsman right now on King of the Hill Badlands,
+
+28
+00:01:50,969 --> 00:01:55,569
+I chose this gameplay because, well, as you can see, I get quite a few headshots in a row.
+
+29
+00:01:55,569 --> 00:01:58,870
+I only get like two or three body shots in the entire gameplay
+
+30
+00:01:58,870 --> 00:02:03,469
+and I kill like 16 or 17 people. I jumped into this session late.
+
+31
+00:02:03,469 --> 00:02:07,469
+I think there was like two minutes left on the other team or something like that or two minutes on our side.
+
+32
+00:02:07,469 --> 00:02:10,280
+So it's a fairly short gameplay, but it's very good.
+
+33
+00:02:10,280 --> 00:02:12,580
+So talking about the huntsman for just a second here,
+
+34
+00:02:12,580 --> 00:02:17,379
+I've been trying to get a good huntsman gameplay for at least like a week or two.
+
+35
+00:02:17,379 --> 00:02:20,580
+And I feel like the huntsman is very, very hit or miss sometimes.
+
+36
+00:02:20,580 --> 00:02:24,180
+Sometimes you'll jump in a game and you'll destroy with it.
+
+37
+00:02:24,180 --> 00:02:27,080
+And other times you'll jump in and you won't be able to hit the broad side of a bond.
+
+38
+00:02:27,080 --> 00:02:29,259
+It's a really, really interesting weapon.
+
+39
+00:02:29,259 --> 00:02:33,860
+But if you can really bear down and get in the zone, turn on the zen,
+
+40
+00:02:33,860 --> 00:02:38,460
+you can do a lot of damage with this thing because the hitboxes are very, very large.
+
+41
+00:02:38,460 --> 00:02:41,960
+Some people don't know this, but the hitboxes for the huntsman,
+
+42
+00:02:41,960 --> 00:02:44,860
+it's a giant square around your enemy target.
+
+43
+00:02:44,860 --> 00:02:48,860
+So if you shoot and hit somebody like a foot to the left of their leg,
+
+44
+00:02:48,860 --> 00:02:50,159
+you're going to hit them in the leg.
+
+45
+00:02:50,159 --> 00:02:53,960
+The boxes are enormous, especially for the head.
+
+46
+00:02:53,960 --> 00:02:55,860
+If you shoot somebody in the head with this item
+
+47
+00:02:55,860 --> 00:02:59,759
+and you happen to go maybe like four or five inches off of their ear
+
+48
+00:02:59,759 --> 00:03:02,259
+or four or five inches above their forehead,
+
+49
+00:03:02,259 --> 00:03:04,960
+you are going to headshot when you should have missed.
+
+50
+00:03:04,960 --> 00:03:07,560
+But I can totally understand why this is implemented,
+
+51
+00:03:07,560 --> 00:03:12,159
+because if it was not implemented, if it was totally 100% accurate,
+
+52
+00:03:12,159 --> 00:03:15,930
+this weapon would probably be impossible to use.
+
+53
+00:03:15,930 --> 00:03:19,530
+I also have on the Darwin's Danger Shield and not on the Jurati.
+
+54
+00:03:19,530 --> 00:03:23,530
+That is because specifically I want to be able to fight people one-on-one a little bit better
+
+55
+00:03:23,530 --> 00:03:27,629
+because King of the Hill is very chaotic and that extra health helps a lot as well.
+
+56
+00:03:27,629 --> 00:03:29,129
+Because look at my health right now.
+
+57
+00:03:29,129 --> 00:03:30,629
+I should be dead right now.
+
+58
+00:03:30,629 --> 00:03:31,629
+I should not be alive.
+
+59
+00:03:31,629 --> 00:03:33,639
+If I had 22 health, I would have been dead.
+
+60
+00:03:33,639 --> 00:03:36,039
+But so anyways, that's going to be the end of this particular gameplay.
+
+61
+00:03:36,039 --> 00:03:39,340
+Very, very nice little run as the Huntsman sniper.
+
+62
+00:03:39,340 --> 00:03:40,539
+So we're going to transition now.
+
+63
+00:03:40,539 --> 00:03:42,139
+I got a lot of requests to do this,
+
+64
+00:03:42,139 --> 00:03:44,740
+and this is an interesting gameplay coming up here.
+
+65
+00:03:44,740 --> 00:03:47,340
+I figured because I'm using the Crusader's Crossbow,
+
+66
+00:03:47,340 --> 00:03:50,740
+it makes complete sense to put it in a Huntsman gameplay.
+
+67
+00:03:50,740 --> 00:03:54,240
+I'm not really sure if I'll do a full round like this, but I might.
+
+68
+00:03:54,240 --> 00:03:55,340
+Who knows?
+
+69
+00:03:55,340 --> 00:03:57,939
+So this is a stipulation match.
+
+70
+00:03:57,939 --> 00:03:59,539
+I could turn this into a new series.
+
+71
+00:03:59,539 --> 00:04:03,680
+I actually may do that, but stipulation match, what does that mean?
+
+72
+00:04:03,680 --> 00:04:08,479
+It means I'm only allowed to use the Crusader's Crossbow and the Amputator.
+
+73
+00:04:08,479 --> 00:04:11,680
+I am not allowed to use that Kritzkrieg,
+
+74
+00:04:11,680 --> 00:04:15,479
+so I have to heal everybody and do any damage
+
+75
+00:04:15,479 --> 00:04:17,279
+only with the Crossbow and the Amputator.
+
+76
+00:04:17,279 --> 00:04:19,779
+And it actually turns out pretty well.
+
+77
+00:04:19,779 --> 00:04:21,579
+If you are unfamiliar with this item,
+
+78
+00:04:21,579 --> 00:04:23,480
+I'll give you a little bit of backstory on it.
+
+79
+00:04:23,480 --> 00:04:27,959
+I guess this item can be really described as the Team Fortress Classic item.
+
+80
+00:04:27,959 --> 00:04:30,060
+If none of you guys played Team Fortress Classic,
+
+81
+00:04:30,060 --> 00:04:35,600
+this is the only Medic item that really kind of comes from Team Fortress Classic.
+
+82
+00:04:35,600 --> 00:04:37,600
+So what you could do as a Medic in the original game
+
+83
+00:04:37,600 --> 00:04:40,000
+is you could go around and heal people
+
+84
+00:04:40,000 --> 00:04:43,000
+and you could damage your enemies with the same item.
+
+85
+00:04:43,000 --> 00:04:46,600
+Those mechanics from Team Fortress Classic came through over to this weapon
+
+86
+00:04:46,600 --> 00:04:51,779
+and I've got to say this is one of the worst loadout options for the Medic
+
+87
+00:04:51,779 --> 00:04:54,379
+and it can be okay though.
+
+88
+00:04:54,379 --> 00:04:56,480
+I will tell you why it's okay to equip this
+
+89
+00:04:56,480 --> 00:04:59,480
+because if you put the Amputator on as well,
+
+90
+00:04:59,579 --> 00:05:03,079
+you are going to see a plus one bonus to your health regeneration,
+
+91
+00:05:03,079 --> 00:05:04,980
+which can really help sometimes.
+
+92
+00:05:04,980 --> 00:05:07,980
+I've been in a lot of situations where I have the Blutsauger on
+
+93
+00:05:07,980 --> 00:05:10,980
+and I'm losing minus two health every second
+
+94
+00:05:10,980 --> 00:05:13,779
+and a lot of people don't even realize that's happening.
+
+95
+00:05:13,779 --> 00:05:15,279
+But it can be a pretty big deal.
+
+96
+00:05:15,279 --> 00:05:17,680
+If you just want to play straight up healing Medic,
+
+97
+00:05:17,680 --> 00:05:19,579
+I would say put these two things on.
+
+98
+00:05:19,579 --> 00:05:22,579
+If you're not the type of person that's going to run around with the Blutsauger out
+
+99
+00:05:22,579 --> 00:05:25,879
+or try and smash people in the face with the Ubersaw,
+
+100
+00:05:25,879 --> 00:05:27,579
+definitely put these two things on.
+
+101
+00:05:27,579 --> 00:05:30,149
+It will help you a lot when it comes to healing.
+
+102
+00:05:30,149 --> 00:05:32,250
+So talking about the gameplay for just a second here,
+
+103
+00:05:32,250 --> 00:05:35,350
+I get this Soldier killed because I couldn't get him with an arrow.
+
+104
+00:05:35,350 --> 00:05:37,050
+He was probably really mad about that
+
+105
+00:05:37,050 --> 00:05:39,949
+and if that was you, I am sorry, I do apologize for that,
+
+106
+00:05:39,949 --> 00:05:42,850
+but I get a crit right in that Scout's face
+
+107
+00:05:42,850 --> 00:05:43,949
+and this is kind of weird right here.
+
+108
+00:05:43,949 --> 00:05:45,649
+This Pyro gets on the point.
+
+109
+00:05:45,649 --> 00:05:47,449
+This is the end of the gameplay by the way
+
+110
+00:05:47,449 --> 00:05:51,149
+and a Pyro gets on here and I think he HL2.exe crashes
+
+111
+00:05:51,149 --> 00:05:52,829
+because look at him, he's just standing here.
+
+112
+00:05:52,829 --> 00:05:54,629
+I guarantee you something happened.
+
+113
+00:05:54,629 --> 00:05:57,230
+Either he lagged out or his mum was calling him for dinner or something.
+
+114
+00:05:57,230 --> 00:06:01,339
+I have no idea, but that's going to wrap it up.
+
+115
+00:06:01,339 --> 00:06:03,740
+Like I said, thank you guys so much for watching.
+
+116
+00:06:03,740 --> 00:06:06,839
+I really do appreciate it and I will see you all next time.
+
+117
+00:06:06,839 --> 00:06:09,240
+So take care everybody.

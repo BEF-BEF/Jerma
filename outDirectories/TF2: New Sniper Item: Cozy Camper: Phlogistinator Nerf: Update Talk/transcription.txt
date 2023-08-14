@@ -1,0 +1,74 @@
+[0.31s -> 13.61s]  Hey, what is going on everybody? Jerma here with a Team Fortress 2 gameplay commentary.
+[13.61s -> 16.61s]  And tonight, we got a couple of things to discuss tonight.
+[16.61s -> 21.61s]  Well, first of all, there's a new update. And the new update brought a new sniper item.
+[21.61s -> 27.61s]  Kind of weird in my opinion. Why did they do this? Why not just release a bunch of stuff?
+[27.61s -> 31.61s]  Why release one item? Just, oh, here's an item for the sniper, there you go.
+[31.61s -> 34.61s]  I don't know, I don't really agree with the item release schedule.
+[34.61s -> 40.85s]  But, regardless of all that, we did get a new item, the Cozy Camper.
+[40.85s -> 45.85s]  And this is a backpack. This is not like a miscellaneous item, this is not like a hat or something.
+[45.85s -> 49.85s]  This goes right on your back, where the razor back, where the Darwin's Danger Shield goes.
+[49.85s -> 52.85s]  It's an unlockable, and it is craftable.
+[52.85s -> 56.85s]  So the blueprint's gonna be on the screen right now. It actually doesn't take very much.
+[56.85s -> 59.85s]  So you can probably craft this right now if you have the materials.
+[59.85s -> 64.85s]  But anyways, no flinching when aiming, and knockback reduced by 20% when aiming.
+[64.85s -> 69.85s]  So what this means is when you are zoomed in, you are not gonna take flinching fire damage.
+[69.85s -> 72.85s]  Because all we all know, when you get lit on fire, I'll show you in a second here.
+[72.85s -> 78.85s]  When you get lit on fire, that tick tick tick tick, it makes your mouse cursor move up and down really annoyingly.
+[78.85s -> 86.09s]  And when you get hit by anything, if you get hit by a rocket, if you get hit by spam, you're not gonna move at all.
+[86.09s -> 89.09s]  Which brings me to the bad part of this weapon.
+[89.09s -> 92.09s]  60% slower movement speed when you're aiming.
+[92.09s -> 96.09s]  So essentially when you have this thing zoomed in, you're a slug.
+[96.09s -> 102.09s]  And you cannot move really at all, and it really, really, really is very annoying.
+[102.09s -> 108.09s]  Especially, especially if there is another sniper on the enemy team.
+[108.09s -> 113.26s]  Because when you're zoomed in with this thing, you almost stand completely still.
+[113.26s -> 119.26s]  Any sniper that's paying attention will be able to kill you so easily with this on.
+[119.26s -> 122.26s]  Not to mention spies. Oh my god.
+[122.26s -> 125.26s]  You are just a spy magnet with this thing on.
+[125.26s -> 129.26s]  Because it doesn't block anything. This does not block a backstab, this does not block anything.
+[129.26s -> 134.26s]  It just gives you the ability to not flinch when you're taking damage.
+[134.26s -> 138.70s]  Alright, so now that we got the bad out of the way, let's talk about the good.
+[139.87s -> 144.87s]  So what this thing does, this allows you to be a more aggressive sniper.
+[144.87s -> 147.87s]  You don't have to run away from fights anymore, you don't have to back up.
+[147.87s -> 151.87s]  Oh he's getting too close, I gotta run away. You don't have to do that anymore.
+[151.87s -> 158.87s]  Now you can just stand where you are and plant shots on people regardless of if they are shooting you or not.
+[158.87s -> 165.11s]  Because back in the day, and when I say back in the day I mean yesterday before this update came out,
+[165.11s -> 168.11s]  you had to be really, really conscious of who was shooting you.
+[168.11s -> 170.11s]  Because obviously it screwed up your aim.
+[170.11s -> 173.11s]  I can't tell you how many times I would be aiming as a sniper.
+[173.11s -> 178.11s]  And I would lose my aim because a scout 500 feet away was shooting me with a pistol or something.
+[178.11s -> 181.42s]  That is eliminated with this setup.
+[181.42s -> 184.42s]  And I suggest you try, it doesn't take a whole lot to craft like I said, so give it a go.
+[184.42s -> 189.98s]  So anyways, the next part of this video is going to talk about the Flogistinator.
+[189.98s -> 191.98s]  And the nerf it just received.
+[191.98s -> 194.98s]  And really, I don't agree with this nerf.
+[194.98s -> 199.98s]  And it's not because I don't think this weapon needs to be changed, because it really does.
+[199.98s -> 204.98s]  I just don't think you can slap minus 10% damage on something and go, okay that's fixed.
+[204.98s -> 208.15s]  No, this thing needs to be totally redesigned.
+[208.15s -> 214.33s]  I think if you remove the taunt invincibility and change the crit mechanic a little bit,
+[214.33s -> 219.33s]  make it so it was 8 seconds rather than 12 or 10, because right now the nerf, I didn't even tell you the nerf,
+[220.33s -> 225.33s]  the nerf is minus 10% damage and 10 seconds of crit rather than 12 seconds of crit.
+[225.33s -> 228.50s]  Now that's great, but again, I said it's sort of a band-aid fix.
+[228.50s -> 233.50s]  They need to redo this weapon, change it completely, give it a compression blast,
+[233.50s -> 236.50s]  because I don't think the no compression blast works on any of the flamethrowers.
+[236.50s -> 240.50s]  It didn't work out well on the back burner, and they got rid of it.
+[240.50s -> 241.68s]  So we'll see what they do.
+[241.68s -> 244.68s]  Hopefully they continue to tweak things, because they always do that anyway,
+[244.68s -> 247.68s]  so I'm confident in their tweaking abilities.
+[247.68s -> 255.18s]  So now before this video is over, I want to go over my TF2 modeling adventure I've kind of gone off on,
+[255.18s -> 256.18s]  because I have got a couple of PMs.
+[256.18s -> 260.18s]  People are wondering, Jerma, what's the story with your Steam Workshop stuff?
+[260.18s -> 261.18s]  Are you still doing that?
+[261.18s -> 262.18s]  The answer is yes I am.
+[262.18s -> 265.18s]  I'm currently talking to a pretty talented guy.
+[265.18s -> 266.18s]  He's a nice dude.
+[266.18s -> 268.18s]  He already has a couple of things on the workshop already.
+[268.18s -> 275.18s]  I'll get into that at a later date, because I don't want to give away any of the potential information that we're working on.
+[275.18s -> 279.18s]  So yes, I have been in contact with a modeler, and I'll give you one hint.
+[279.18s -> 282.18s]  I'm going to give you guys one hint on what we're working on.
+[282.18s -> 286.35s]  It is not a weapon, and it is for the heavy.
+[286.35s -> 287.59s]  So there you go.
+[287.59s -> 291.96s]  Let the speculation run wild as to what I'm working on right now.
+[291.96s -> 293.96s]  So this is going to be the end of the video, guys.
+[293.96s -> 295.96s]  Thank you all so much for watching.
+[295.96s -> 298.96s]  I really do appreciate it, and I will see you guys all next time.
+[298.96s -> 302.14s]  So take care, everybody.

@@ -1,0 +1,491 @@
+1
+00:00:01,020 --> 00:00:12,730
+If I can get to it, that would be great. That was my time at Porsche. And it was pretty fun.
+
+2
+00:00:12,730 --> 00:00:15,900
+It was actually really fun. This game is a chill game. We're not gonna play for too long,
+
+3
+00:00:15,900 --> 00:00:36,200
+but it's supposed to be a chill game. We'll find out, right? Our game uses Unity analytics through
+
+4
+00:00:36,200 --> 00:00:39,719
+this certain personal data is collected for detailed information on the type of data collected,
+
+5
+00:00:39,719 --> 00:00:44,520
+its purpose, and transfer, as well as your rights. Please refer to the privacy policy on our website.
+
+6
+00:00:44,520 --> 00:00:47,479
+In addition, Unity also uses this data for other purposes of its own. Information about
+
+7
+00:00:47,479 --> 00:01:07,609
+Unity is used to be found here. I can just decline it? What? Okay, I didn't think that was
+
+8
+00:01:07,609 --> 00:01:14,659
+good. I thought I was going to close the game. All right, click and drag left mouse button to
+
+9
+00:01:14,659 --> 00:01:22,730
+move the camera. W A S D. All right. Drag the right mouse button to rotate the camera.
+
+10
+00:01:22,730 --> 00:01:28,180
+Okay, or Q and E. Okay, makes sense. While hovering over the background with your mouse,
+
+11
+00:01:28,180 --> 00:01:35,430
+scroll the wheel to zoom. Oh, do this zoom. Endorph romantic. You build landscapes out of
+
+12
+00:01:35,430 --> 00:01:40,890
+the hexagonal tiles. Click on one of the empty tiles around you with the left mouse button to
+
+13
+00:01:40,890 --> 00:01:54,709
+place your tile. Oh, so I can I get it. You can form groups of elements like forests or villages,
+
+14
+00:01:54,709 --> 00:01:58,069
+place tiles next to each other and connect their colored edges to form a forest spinning at least
+
+15
+00:01:58,069 --> 00:02:24,699
+five tiles. Oh, there it is. All right, cool. The tile count on the bottom right shows you the
+
+16
+00:02:24,699 --> 00:02:29,419
+amount of tiles in your stack. Once it reaches zero, the session ends, place three tiles to
+
+17
+00:02:29,419 --> 00:02:44,120
+continue. You gain tiles by fulfilling quests. This place looks like a fucking awful indicated
+
+18
+00:02:44,120 --> 00:02:48,840
+by the speech bubbles to complete this quest at least six additional houses to the colored edges.
+
+19
+00:02:49,719 --> 00:03:09,750
+Connect exactly two fields to the quest tile. The symbol in the corner of the speech bubble
+
+20
+00:03:09,750 --> 00:03:24,360
+hints to a follow up task. Connect exactly two fields. What's a field look like?
+
+21
+00:03:25,000 --> 00:03:39,050
+What do you have a field? I don't know what it means by field. Like an open space? Connect two
+
+22
+00:03:39,050 --> 00:03:53,539
+fields to the quest tile. Okay. How do I do that? What does it mean by fields? Oh, okay. I thought
+
+23
+00:03:53,539 --> 00:03:58,419
+I okay. All right. All right. I thought that field was a different tile type. I didn't know that
+
+24
+00:03:58,419 --> 00:04:06,360
+field was this yellow shit. I'm thinking of like a green field. All right, so let's go.
+
+25
+00:04:07,319 --> 00:04:31,189
+How is that wrong? I don't get it. There can only be two fields on it.
+
+26
+00:04:31,990 --> 00:04:36,100
+I have no idea what the fuck just happened. Exactly two. All right.
+
+27
+00:04:40,759 --> 00:04:49,269
+Okay, I'll get it. Just wait. Okay, a flag just spawned, which indicates its group can be closed
+
+28
+00:04:49,269 --> 00:04:55,079
+to gain extra points and tiles. This field group is closed when it cannot be expanded anymore.
+
+29
+00:04:55,800 --> 00:04:59,269
+Hover over a flag to hide the remaining open edges and place the tiles there.
+
+30
+00:05:00,410 --> 00:05:15,060
+So close the edges here. So just go around it and close it. Does it matter what I use?
+
+31
+00:05:15,860 --> 00:05:46,660
+Do I just have to close this out? I do? What's happening? Oh, I made way. Oh, I made way too
+
+32
+00:05:46,660 --> 00:06:02,540
+many. Okay, I get it. I made way too many. Okay, man. I'm just made way too many. I didn't. Okay,
+
+33
+00:06:02,540 --> 00:06:09,990
+listen. I did not know that a field was that. What the fuck is that? I didn't know that that's
+
+34
+00:06:09,990 --> 00:06:25,560
+what they want when meant by field. Okay, that looks to me like, like a haystack. Okay, I thought
+
+35
+00:06:25,560 --> 00:06:39,129
+it was like a haystack. Train tracks and river tiles have placement restrictions. Their ends
+
+36
+00:06:39,129 --> 00:06:45,779
+cannot lead into different types of tiles. Okay, so we'll put some train tracks on.
+
+37
+00:07:08,699 --> 00:07:15,379
+I feel like, I feel like somebody hit me in the head with a hammer before I started this.
+
+38
+00:07:16,180 --> 00:07:21,670
+I just got dinged in the back of the head with a frying pan before I turned this on.
+
+39
+00:07:22,230 --> 00:07:54,680
+Okay, all right. I just need to start over. Collect 100 points. You got it. Oh, fuck off. Okay.
+
+40
+00:07:54,680 --> 00:07:58,759
+If all six edges of a tile match its neighbors, it counts as a perfect placement. Ooh.
+
+41
+00:08:05,180 --> 00:08:10,149
+Let's go. Be honest. You don't like this? No, I actually really do like this. Quiet.
+
+42
+00:08:10,149 --> 00:08:15,000
+All right, let's go. This is where we start. Everybody relax. I've had my two donuts.
+
+43
+00:08:15,639 --> 00:08:34,950
+Let's do it. I want to have the village be this way. And this can the fields can be over here.
+
+44
+00:08:35,509 --> 00:08:51,899
+Yeah, a nice big village town here. I don't like that. Maybe one over here.
+
+45
+00:08:54,039 --> 00:09:39,179
+I don't like that. Sorry. That's not terrible. That's kind of near the trees. Pog. All right,
+
+46
+00:09:39,179 --> 00:10:04,580
+we got a river here. Oh, yes. River's gonna go right through town. This can work here.
+
+47
+00:10:04,580 --> 00:10:26,169
+Kind of not really though. I'll make a little small town over here. Shit. That's all right.
+
+48
+00:10:26,809 --> 00:11:16,710
+That's okay. That's fine. Hey, wake up. Wake up. Wake up. Water tile coming in. Windmill. All right.
+
+49
+00:11:16,710 --> 00:11:42,710
+Not bad. Not bad. All right. I'm gonna put that one in here. What? Oh, perfect. Look at this
+
+50
+00:11:42,710 --> 00:12:09,720
+placement here. Check that out. This is cute. This is cute. Good placement there. Little lake.
+
+51
+00:12:10,279 --> 00:12:27,700
+Little lake that goes over here. Cute. Ignore them. Oh, I'm ignoring them. They're being hard
+
+52
+00:12:27,700 --> 00:12:47,419
+ignored. Oh, wait. Okay, we need to finish this up. Can I connect them all? I can. That connects
+
+53
+00:12:47,419 --> 00:13:04,019
+everybody, right? This is beautiful. This game is really cool. Perfect placement there. That's it.
+
+54
+00:13:04,019 --> 00:13:23,129
+Right for the flag. What's missing? Right there. Quest fulfilled. How much further do I have to go?
+
+55
+00:13:29,779 --> 00:13:41,429
+Uh-uh. It doesn't like that. I don't know if I'm gonna be doing- I can't do much with the train
+
+56
+00:13:41,429 --> 00:13:56,460
+track shit here. Oh, yeah, I can. Look at that. Um, I'm in trouble here, but it's fine. Can I put this
+
+57
+00:13:56,460 --> 00:14:06,779
+anywhere? Shit. I think I screwed it up. It's okay. It can be right here. It's not gonna be pretty,
+
+58
+00:14:06,779 --> 00:14:40,779
+but it'd be fine. It's good enough. Yeah, this single house over here. I gotta connect it.
+
+59
+00:14:40,779 --> 00:14:56,580
+This one person surrounded by water? It's all right. Another windmill. I wish I could put it
+
+60
+00:14:56,580 --> 00:15:37,059
+right there. I can put it here. That works. Wish I put this one. That's not fast enough. I could
+
+61
+00:15:37,059 --> 00:16:07,659
+give it like a cabin over here. I'm still going. This is still just rolling. It looks kind of like
+
+62
+00:16:07,659 --> 00:17:06,730
+shit over here, though. Um, that's gonna go up this way, I think. Yep. I did it. I'm just- I'm
+
+63
+00:17:06,730 --> 00:17:19,559
+rolling here. Zoom out. I'm okay. I gotta stay zoomed in. I think I'm screwing it up, though,
+
+64
+00:17:19,559 --> 00:18:09,930
+over here. This is fucking strange. There's a goal? Oh, well, let's head that way. I did it. Wait,
+
+65
+00:18:09,930 --> 00:18:33,369
+was I not supposed to? Oh, I was just trying to get to the tile. Oops. I fucked it up for the
+
+66
+00:18:33,369 --> 00:18:42,759
+goal in the top right. Form a body- body of water with at least 15 water segments. This is getting
+
+67
+00:18:42,759 --> 00:18:50,410
+there. Place down 100 tiles in total, okay? Finish five sessions with a score of at least 5,000.
+
+68
+00:18:56,859 --> 00:19:00,859
+I thought that was gonna be the end of the level or something. That's why I did all that.
+
+69
+00:19:02,950 --> 00:19:15,210
+I think it's salvageable. It's salvageable. It's fine. Where's this last segment?
+
+70
+00:19:19,720 --> 00:19:47,190
+Highlighted edges? Where? Right here? Shit. It'll end if you have ti- oh.
+
+71
+00:20:08,220 --> 00:20:21,259
+All right. We're good. I'm fine. Yeah, this is my first time playing. I get it, but I don't get it.
+
+72
+00:20:21,819 --> 00:20:32,680
+I'll get it eventually. Oh, fuck. Uh-oh. No, I'm all right. I have to close these edges.
+
+73
+00:20:38,700 --> 00:20:47,559
+Like, close it. I wish the highlight was a little more strong. I can't even see what I'm looking at.
+
+74
+00:20:48,200 --> 00:21:02,680
+Where is this highlighting? Is it- can you see anything? Oh, it's right there. It's hard to see
+
+75
+00:21:02,680 --> 00:21:15,259
+that. There we go. I fucked up. This is all fucked up. I- I think I understand it, though.
+
+76
+00:21:16,859 --> 00:21:23,190
+I'm probably gonna have to turn the stream off soon. I think I'm evolving.
+
+77
+00:21:23,990 --> 00:21:49,259
+I can't place this here. Oh, for those of you that have no idea what I'm talking about,
+
+78
+00:21:50,380 --> 00:21:57,819
+Holly has COVID, and I probably do, too. So, uh, I've been testing negative the last
+
+79
+00:21:57,819 --> 00:22:06,869
+two days or so. A little more than that. And I took a PCR yesterday, so I'm kind of, uh,
+
+80
+00:22:08,549 --> 00:22:15,700
+possibly about to be in it. But I feel- she's got a mild case. I feel fine. I'm fine. Don't worry.
+
+81
+00:22:15,700 --> 00:22:29,180
+Have a good- I almost have the water one done. Biome lavender? So, does this just keep going
+
+82
+00:22:29,180 --> 00:22:37,079
+till I place all the tiles? See, I- I screwed it all up. I was fine here, but then when I was like,
+
+83
+00:22:37,079 --> 00:22:40,440
+oh, that's the goal. I just have to get to the goal. I thought it was going to end the level.
+
+84
+00:22:41,859 --> 00:22:48,809
+That's my own fault. That's fine. I don't know where I can put this now.
+
+85
+00:22:49,450 --> 00:23:04,490
+Let's be over here. Okay, I got a boat from a train route with at least 10 tracks.
+
+86
+00:23:21,619 --> 00:23:40,410
+I have to close this. The level ends when I get 100 points. I need some- I need water. That
+
+87
+00:23:40,410 --> 00:23:59,589
+actually might do it right there. Shit. Damn it. Not quite. That doesn't close that out. I need
+
+88
+00:23:59,589 --> 00:24:21,690
+houses. Uh, whatever. I don't care. I need to end that anyways. Did I do the quest? What's the music?
+
+89
+00:24:21,690 --> 00:24:34,140
+Uh, yeah, it's whatever the same music is. I can come out that way. That's fine. All right,
+
+90
+00:24:34,140 --> 00:25:15,400
+38 more tiles. That's all right. That's okay. I don't know where the hell this is supposed to
+
+91
+00:25:15,400 --> 00:25:45,450
+be going. I'm just trying to get the achievement. I have to connect this or stop it or something.
+
+92
+00:25:46,250 --> 00:26:28,460
+Like, I just keep making it bigger. Ah, oh, come on. What happened here?
+
+93
+00:26:31,690 --> 00:26:48,440
+Train. Nothing says one million followers like a crisp Cuban cigar. I love that comment. That's
+
+94
+00:26:48,440 --> 00:27:17,880
+funny. Crisp Cuban cigar. Try to complete this over here if I can.
+
+95
+00:27:25,750 --> 00:27:34,569
+Screw that up. Wait, can I- I can close this now. Uh, this is like a little kid's train.
+
+96
+00:27:34,569 --> 00:27:38,569
+There's a little park here. There's a carousel. There's a little train that goes in a circle.
+
+97
+00:27:39,450 --> 00:27:47,000
+And then there's like a petting zoo and stuff. That's not a real train track. That's fine.
+
+98
+00:27:47,000 --> 00:28:10,250
+At exactly two houses. At at least 42 houses. Um, dude, how am I supposed to do that?
+
+99
+00:28:11,369 --> 00:28:45,079
+Does that not count? That's not- uh, it's three. Shit! There's two right here. No!
+
+100
+00:28:46,359 --> 00:29:37,369
+Yes! Perfect. Hell yeah. Oh, fuck it. I can't. This is a map of Disney World.
+
+101
+00:29:39,269 --> 00:29:47,190
+Did I lose? Oh, it's just a session. Okay. That's fun. That's actually pretty cool.
+
+102
+00:29:49,880 --> 00:30:00,789
+I'm only 251,000 in the world. All right, that's it. I should probably go. That was Dwarf Mantic.
+
+103
+00:30:00,789 --> 00:30:03,670
+I might actually play this off stream. Just hang out. That's actually really cool.
+
+104
+00:30:04,390 --> 00:30:14,059
+There are other modes. I probably- is this on iPad? Because I really kind of want it.
+
+105
+00:30:15,500 --> 00:30:18,539
+Yeah, I was only going to stream for like three hours, but here we are.
+
+106
+00:30:19,180 --> 00:30:21,500
+Now, very important. Incredibly important before I go.
+
+107
+00:30:22,140 --> 00:30:28,119
+Green screen submissions are due tonight. You've only got about three or four more hours
+
+108
+00:30:28,119 --> 00:30:32,039
+from right this very moment to get a submission in. Go to the Discord. Go check it out. Go read
+
+109
+00:30:32,039 --> 00:30:44,950
+the rules. Also, we are playing multiverses on Tuesday. It's going to be sponsored. It's
+
+110
+00:30:44,950 --> 00:30:50,069
+going to be lit. I'm going to have a ton of fun. I would be there if I were you to watch some fucking
+
+111
+00:30:50,069 --> 00:30:57,109
+skilled Bugs Bunny gameplay. You know I'm the- you know I'm the guy. I would be there. So,
+
+112
+00:30:57,750 --> 00:31:06,119
+that was cool. July- that's July 19th. Green screen movie night will be probably only a few days
+
+113
+00:31:06,119 --> 00:31:12,490
+after that. So, probably on Thursday or Friday, potentially, depending on how fast we- all right.
+
+114
+00:31:12,490 --> 00:31:29,500
+Okay. Okay. I will see you guys later. I'm not going to say very much anymore. Take care. See
+
+115
+00:31:29,500 --> 00:31:35,339
+you. Thanks for watching. I'll talk to you guys on Tuesday. I hope I'm not fucked up on Tuesday.
+
+116
+00:31:35,339 --> 00:31:45,779
+I hope I'm not fucked up on Tuesday. Okay. All right. I'll see you later. Good night. I'm going
+
+117
+00:31:45,779 --> 00:31:57,589
+to- I'm going to sleep all day tomorrow. I promise. Across a million- a million subs.
+
+118
+00:31:58,309 --> 00:32:05,029
+That would be crazy. Yeah, the last like half- 45 minutes or so, it really started to hit me.
+
+119
+00:32:05,029 --> 00:32:12,250
+What time on Tuesday? To be determined, but probably around the same time in the afternoon.
+
+120
+00:32:13,720 --> 00:32:19,380
+I'm good. No, thanks for a million followers, guys. Seriously, it's insane.
+
+121
+00:32:19,380 --> 00:32:30,119
+I'll see you guys on Tuesday. I'm crying. No, seriously. That means a lot. I- thank you.
+
+122
+00:32:32,470 --> 00:32:37,349
+I'm going to go. This is not going to be much of an outro. Good night. See you Tuesday.
+
+123
+00:32:37,349 --> 00:34:18,619
+Multi versus I'm excited. Let's go. Let's go. Let's go. See you soon. Good night.

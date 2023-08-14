@@ -1,0 +1,72 @@
+[0.31s -> 13.70s]  Hey, what is going on everybody? Jiruma here with a Team Fortress 2 gameplay commentary.
+[13.70s -> 23.70s]  And tonight, gonna be playing as the Pyro with the default flamethrower, the reserve shooter of all things, and the extinguisher.
+[23.70s -> 29.70s]  And tonight, gonna do just a casual commentary, sitting back relaxing, gonna talk about a couple things that happened on the screen,
+[29.70s -> 36.70s]  And, most importantly, we're gonna talk about the super snowstorm that's on its way here tomorrow afternoon.
+[36.70s -> 39.70s]  If you're from the northeast of the United States, you probably already know this.
+[39.70s -> 44.70s]  We're gonna get hammered tomorrow with snow. We're probably gonna get like two feet of snow in Boston.
+[44.70s -> 50.70s]  So I assume my front door is not gonna be able to open. It's gonna be completely blocked from the outside with snow.
+[50.70s -> 55.70s]  And, you know, whatever. I might actually do a stream during this whole thing, like a snowed-in stream.
+[55.70s -> 59.70s]  We'll see if that happens or not. I don't know. I might lose power, too.
+[59.70s -> 64.70s]  So if you don't see a video here in the next couple days, it's because my house is under snow and we can't get out.
+[64.70s -> 68.13s]  And please send help! It actually kind of reminds me.
+[68.13s -> 71.13s]  Back when I was younger, I know a lot of you guys are pretty young.
+[71.13s -> 74.13s]  Some of you guys are even under the age of 16, 15 years old.
+[74.13s -> 77.13s]  So you'll be able to relate to this when I talk about this.
+[77.13s -> 84.13s]  But snow days, back when I was a younger kid, snow days were like the best thing on planet Earth.
+[84.13s -> 88.13s]  I would pray to all the gods that existed to get a snow day.
+[88.13s -> 93.13s]  I remember me, my brother, and my sister just huddling around the TV at our local news station,
+[93.13s -> 97.13s]  waiting to see our school's name pop up and have it say, closed.
+[97.13s -> 104.13s]  Because by God, if it said two-hour delay or one-hour delay, a vase would go across the room and smash into the wall.
+[104.13s -> 109.13s]  That's the worst possible outcome of having snow come down, because you still have to go to school.
+[109.13s -> 113.13s]  It's just a tease. It's almost like the board of directors at the school was like,
+[113.13s -> 115.13s]  you know, how can we screw with these kids?
+[115.13s -> 119.13s]  I know. How about a two-hour delay?
+[121.13s -> 125.43s]  That's what I picture when I think of the board of directors of a school system.
+[125.43s -> 131.43s]  But the point still stands. It's a tease. Maybe you get an extra 45 minutes of sleep.
+[131.43s -> 135.43s]  Oh, cool. You still got to get up and go to math class. It sucks.
+[135.43s -> 139.43s]  And the town next over, the town next over maybe doesn't even have school, so it's even worse.
+[139.43s -> 141.43s]  That's happened to me so many times.
+[141.43s -> 147.61s]  When I see my list, my school come up with a one-hour delay, and the next town over, they don't have school.
+[147.61s -> 150.61s]  And they can do whatever they want. They can throw snowballs at old man Whitless' house,
+[150.61s -> 153.61s]  have him come out and yell at him, everybody laughs and runs away.
+[153.61s -> 157.61s]  I don't get to experience that on that day, and it sucks, because I want to do that too.
+[157.61s -> 161.91s]  But that's going to wrap up talking about the snow storm coming in.
+[161.91s -> 164.91s]  Again, I might try to livestream tomorrow night or tomorrow evening,
+[164.91s -> 168.91s]  and maybe I can get like a webcam to show outside how much snow is actually on the ground.
+[168.91s -> 171.91s]  I don't know, maybe I'll do something like that. The stream might not even turn on.
+[171.91s -> 176.91s]  I'm not going to guarantee I'm going to do this tomorrow, because like I said, I might be out of power.
+[176.91s -> 180.09s]  But anyways, we're going to move on now and talk about some stuff in the gameplay.
+[180.09s -> 184.09s]  Most notably, the fact that I'm using the reserve shooter for the first time in a long time,
+[184.09s -> 187.09s]  and I've been having way more luck with this thing.
+[187.09s -> 192.09s]  I can't seem to use the flare gun like I used to anymore, trying to time those crits, trying to time those hits.
+[192.09s -> 198.09s]  It's way easier to just blow somebody in the air and get that guaranteed hit scan shot right on their body.
+[198.09s -> 201.09s]  I've been able to do that a lot more frequently than I used to.
+[201.09s -> 205.39s]  Also, for the new subscribers that have never seen me use the reserve shooter before,
+[205.39s -> 213.39s]  the reason why I'm not using the degreaser with this thing is I feel like the 15% that you get with the reserve shooter is enough.
+[213.39s -> 217.39s]  I feel like it's just about enough to land at least one good shot on somebody.
+[217.39s -> 222.39s]  And with the degreaser equipped, it's such an instant switch that it really screws up my head,
+[222.39s -> 227.39s]  and I cannot get the plants that I want to plant, and I just shoot around wildly, it seems.
+[227.39s -> 230.39s]  I miss every single shot, because I'm too focused on the switch.
+[230.39s -> 232.39s]  The switch happens, and I'm almost not ready for it.
+[232.39s -> 235.39s]  It's almost like I'm sitting there, and we're like, okay, time to switch the gun.
+[235.39s -> 237.39s]  And the animation doesn't even happen.
+[237.39s -> 241.39s]  When you have the degreaser and the reserve shooter, there's no animation.
+[241.39s -> 244.39s]  It almost looks like the game glitches out, because it switches so damn fast.
+[244.39s -> 247.39s]  But that's the reason why I don't use the degreaser with this thing.
+[247.39s -> 250.39s]  I always have the default on with the reserve shooter.
+[250.39s -> 257.02s]  One tip I will give you with the reserve shooter, and I've actually gone against this tip multiple times in this gameplay already,
+[257.02s -> 262.02s]  but it's when you blow somebody in the air, try not to shoot them more than once or twice,
+[262.02s -> 268.02s]  because you only have three rounds or three shots in this thing, so you have to reload it very, very frequently.
+[268.02s -> 271.02s]  And if you miss one or two times, you are screwed.
+[271.02s -> 273.02s]  You do not have any more bullets in your secondary.
+[273.02s -> 278.02s]  All you can really do is light them on fire or hope you can load more shots in before they kill you.
+[278.02s -> 284.02s]  So make sure when you blow somebody in the air again, try to land just one shot before they come down again,
+[284.02s -> 286.02s]  because again, you can blow them in the air again.
+[286.02s -> 289.02s]  Once they land, blow them in the air again, shoot the second shot.
+[289.02s -> 291.02s]  That's pretty much how you should be using this weapon.
+[291.02s -> 293.51s]  But that is going to wrap up the video, guys.
+[293.51s -> 296.51s]  Thank you all so much for watching. I really do appreciate it.
+[296.51s -> 298.51s]  And I'll see you guys all next time.
+[298.51s -> 301.51s]  Again, maybe look for a live stream tomorrow afternoon.
+[301.51s -> 303.51s]  Weather permitting, I guess.
+[303.51s -> 307.51s]  So I'll see you guys all next time, and of course, take care, everybody.

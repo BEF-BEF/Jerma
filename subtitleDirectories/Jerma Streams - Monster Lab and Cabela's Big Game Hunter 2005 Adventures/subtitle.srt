@@ -1,0 +1,1943 @@
+1
+00:00:11,320 --> 00:01:13,349
+Oops. Okay, hi, hi. There, I'm here now. I gave, there was a spoiler there, but it's okay.
+
+2
+00:01:14,310 --> 00:01:22,650
+That happens when you have the wrong scene selected when you start your live stream. But hi guys,
+
+3
+00:01:22,650 --> 00:01:32,069
+how are you? Welcome back. We're gonna go back to the Wii today. We're gonna play a game called
+
+4
+00:01:32,069 --> 00:01:40,310
+Monster Lab. Will you create the ultimate monster? Perform outrageous experiments. Build your very
+
+5
+00:01:40,310 --> 00:01:46,069
+own mad monsters. Face creepy quests and challenges in the eerie, uncanny valley.
+
+6
+00:01:46,709 --> 00:01:51,670
+And pitch your ultimate creations in fierce combat against the super evil Baron and his
+
+7
+00:01:51,670 --> 00:02:04,060
+grotesque army of monsters. To the back of the box says, he's finally playing Spore.
+
+8
+00:02:05,620 --> 00:02:15,050
+Oh, this is kind of like Spore, but probably really, really, really dumbed down. The voice
+
+9
+00:02:15,689 --> 00:02:28,939
+today? What the? I didn't do it. I didn't, whatever. Wait, it's because I, are you, wait,
+
+10
+00:02:28,939 --> 00:02:34,460
+do you think that this is normal? Hey, the voice is normal today. This is why, this is how I talk
+
+11
+00:02:34,460 --> 00:02:44,870
+for real. Wait, the fake voice is the real voice. Confused. Just confused the shit out of me.
+
+12
+00:02:45,509 --> 00:02:58,099
+It's a podcast voice. Podcast voice, tuber voice. You call it whatever you want. It is what it is.
+
+13
+00:02:58,099 --> 00:03:10,569
+It is. Podcast. How has nobody done that yet? How is it possible that no one on Twitch
+
+14
+00:03:11,990 --> 00:03:22,680
+has done a podcast? Why, it's so easy. Somebody has done that. Oh, welcome to the podcast?
+
+15
+00:03:22,680 --> 00:03:25,719
+Like, how the fuck is that not like one of the most popular podcasts on Twitch?
+
+16
+00:03:27,560 --> 00:03:39,400
+Oh, it does exist. It does exist. All right. Well, whatever. Anyways, let's go. Hope you're
+
+17
+00:03:39,400 --> 00:03:46,919
+having a good Saturday afternoon. I know I am. This is Monster Lab for the Nintendo
+
+18
+00:03:46,919 --> 00:03:57,659
+Wiimote. Monster Lab. Hurry up. Hurry up and go. We have to go. Where do you have to go right now?
+
+19
+00:03:58,300 --> 00:04:10,259
+Where are you going? Hurry up. Go, go. I have to go. Where are you going? All right, here we go.
+
+20
+00:04:10,259 --> 00:04:14,580
+This game is like, look at the title of the stream. It's like Battling Mr. Potato Heads.
+
+21
+00:04:15,379 --> 00:04:20,180
+This was a requested video game from the Discord channel. The requested,
+
+22
+00:04:20,180 --> 00:04:25,129
+recommended Discord channel. I recommend if you have anything that you'd like to see.
+
+23
+00:04:25,930 --> 00:04:30,490
+I always give it a look. TM. And if it's something that I think would be fun,
+
+24
+00:04:30,490 --> 00:04:36,149
+I play it on stream to cure the strap. No, I don't need this. I don't have a strap.
+
+25
+00:04:36,149 --> 00:04:50,810
+This doesn't have a strap. Nunchuck. One of the only games ever that needs it that I've played.
+
+26
+00:04:50,810 --> 00:05:12,730
+All right, plug it in. Sick. Oh, I thought it was a real place. Who made this game?
+
+27
+00:05:15,100 --> 00:07:10,740
+What company? Who made this fucking game? Eidos. Hello? What the fuck happened? All right.
+
+28
+00:07:10,740 --> 00:07:27,610
+That was weird. I, uh, I just went to zero for no reason. Hooray. I'll give this one second to make
+
+29
+00:07:27,610 --> 00:07:40,149
+sure it's actually going to work. Reset stream for VOD chat, please. I just did. I just turned off the
+
+30
+00:07:40,149 --> 00:07:47,689
+stream and I turned it back on. So this is, this is technically a new stream. Technically, this is
+
+31
+00:07:47,689 --> 00:07:52,410
+a, I, this is a new live stream to make sure it doesn't fuck everything up to the bottom.
+
+32
+00:07:53,300 --> 00:07:59,100
+All right, let's go. Uh, welcome to the stream. Hey, what's going on? This is, uh, Professor
+
+33
+00:07:59,100 --> 00:08:07,019
+Fuseless. This is, uh, the Wii. Playing the Wii. Welcome to the VOD, everybody. Hi. This is the
+
+34
+00:08:07,019 --> 00:08:13,899
+monster Wii game. Take control of my monster Gorbok and go help the mayor. There are two streams in
+
+35
+00:08:13,899 --> 00:08:18,860
+one fucking day. All right. We got to take, this is a monster fighting game. You make your own
+
+36
+00:08:18,860 --> 00:08:28,360
+fucking monster. You missed the intro. Okay. I'll give you the intro. Uh, think of every
+
+37
+00:08:28,360 --> 00:08:38,950
+Saturday morning cartoon from 1988 to 1992. That's not very much time. 1988 to like 2010.
+
+38
+00:08:39,509 --> 00:08:43,590
+That's not very much time. That was like three years. Actually, you know what? That's probably
+
+39
+00:08:43,590 --> 00:08:56,629
+accurate. This guy's face looks like one of the many photo shops you guys make every fucking
+
+40
+00:08:56,629 --> 00:09:03,590
+stream of my face. In fact, I'm, I'm, I may in fact believe that somebody made this out. This is me.
+
+41
+00:09:04,629 --> 00:09:08,809
+This is what you guys do. You like drag my nose up and like pull my mouth down every stream.
+
+42
+00:09:09,289 --> 00:09:19,059
+Oh, did you send you, I'm glad you're here. Yeah, here it comes. I know. I know. I know.
+
+43
+00:09:21,049 --> 00:09:26,789
+They are blocking my path to reelection. All right, let's go. I can't wait to make my own fucking
+
+44
+00:09:26,789 --> 00:09:32,309
+monster. This is the tutorial. Defeat the monsters, blocking the path. You got it.
+
+45
+00:09:33,110 --> 00:09:38,360
+I'm using somebody else's monster. This is like Mario party, right?
+
+46
+00:09:38,360 --> 00:09:47,929
+All right. Is this knack? No, this is not knack. This is monster lab.
+
+47
+00:09:51,740 --> 00:09:57,639
+Warbark versus Mongor. How do you play?
+
+48
+00:10:06,919 --> 00:10:10,840
+Okay. Yep.
+
+49
+00:10:11,000 --> 00:10:18,600
+The monster icon in the top left corner displays the health of monster parts. They have parts. Okay.
+
+50
+00:10:22,149 --> 00:10:26,470
+Okay. All right. All your limbs can get knocked off.
+
+51
+00:10:32,950 --> 00:10:36,039
+Okay. Why are the robots monsters? That's, is that accurate?
+
+52
+00:10:36,360 --> 00:10:49,580
+Oh shit. This is just the surge. It's the surge too. If you want a torso is do not move the stick.
+
+53
+00:10:49,580 --> 00:11:02,919
+Okay. So, uh, select an action. Okay. I want to make my own monster. I want to make,
+
+54
+00:11:02,919 --> 00:11:05,480
+I'm going to have like a lizard head. I'm going to have fucking pirate legs.
+
+55
+00:11:05,480 --> 00:11:17,559
+Why would I skip the tutorial? I have no idea how to play. I'm not skipping the fucking tutorial.
+
+56
+00:11:18,279 --> 00:11:23,370
+And battery number tells you how much energy your monster needs to perform an action.
+
+57
+00:11:23,370 --> 00:11:31,129
+Okay. That's, that's your mana. Oh, you actually have to point at shit with the
+
+58
+00:11:31,129 --> 00:11:43,690
+Wii mode. This is their motion control. Okay. It's like an attack action. All right. So
+
+59
+00:11:43,769 --> 00:11:50,090
+low squeeze hook hunt. Oh, I'm selecting the arm. Okay. The head I can do chomp or roar
+
+60
+00:11:51,320 --> 00:11:59,370
+left arm is auto fire legs. We're going with leg sweep. All right. This is pretty cool.
+
+61
+00:12:03,990 --> 00:12:09,669
+He looks like your opponent has a strong face. Why don't you, why don't you face him?
+
+62
+00:12:11,029 --> 00:12:17,029
+Why? You don't need to face him. When you select an action, the parts it targets on the opponent
+
+63
+00:12:17,029 --> 00:12:28,139
+are highlighted. Okay. Find an action that targets the right arm. So this is low squeeze.
+
+64
+00:12:28,139 --> 00:12:33,419
+It's just going for his legs. I squeeze his legs. That's not what I want. Don't wait his right arm.
+
+65
+00:12:34,059 --> 00:12:41,159
+So that means his right, right? His right arm. Oh, auto fire. It does. Can I bite his arm?
+
+66
+00:12:47,289 --> 00:12:57,419
+Face cam or his left arm. I was going to bite him. All right. I'm going to bite him. I'm going to
+
+67
+00:12:57,419 --> 00:13:06,470
+bite him. It does everything bite. All right. I just bit his arm off. Good. But you can grow it.
+
+68
+00:13:06,470 --> 00:13:24,149
+Can you grow arms back? It's actually pretty cool. Oh shit. So your legs become useless.
+
+69
+00:13:25,990 --> 00:13:33,830
+You can't run. Face cam. What can face cam for? What fucking reason do you want to face cam?
+
+70
+00:13:33,830 --> 00:13:47,740
+Why does everything have to be face cam? Yeah. You want a face cam? Fine. Everything's got to
+
+71
+00:13:47,740 --> 00:13:57,299
+have a face cam these days. You get it. You get it for like 20 minutes. All right. Let's go.
+
+72
+00:14:00,539 --> 00:14:07,899
+At the back of the delay. To gain more energy, select the dodge or recharge.
+
+73
+00:14:08,940 --> 00:14:12,519
+All right. So you have to, you have to actually, you have to spend a turn recharging. This is just
+
+74
+00:14:12,519 --> 00:14:25,500
+like magic the fucking gatherer. All right. Let me, uh, that is like magic the gatherer.
+
+75
+00:14:25,500 --> 00:14:32,779
+Don't you dare minus two that. If you select dodge, your monster gains. All right. We can avoid
+
+76
+00:14:32,779 --> 00:14:39,179
+attacks and attempts to avoid attacks. If you select recharge, you get all energy, but you
+
+77
+00:14:39,179 --> 00:14:43,500
+don't avoid anything. Ooh. All right. This is pretty deep. Select either dodge or recharge.
+
+78
+00:14:43,500 --> 00:14:51,019
+This shit's deep. Some energy. All right. Let's do, dodge is 33 and you can dodge or read. Just
+
+79
+00:14:51,019 --> 00:15:03,980
+yeah, let's dodge. What was that? We both did it. All right. That's it. Oh wait. Now you just need
+
+80
+00:15:03,980 --> 00:15:18,409
+to know how to win. You're going to destroy the opponent's torso. How's it still delayed? It can't
+
+81
+00:15:18,409 --> 00:15:25,850
+be. You will be victorious. Now defeat the monster. All right. Let's kill it. All right. Here we go.
+
+82
+00:15:25,850 --> 00:15:31,460
+Uh, just going to bite, bite him in his, just bite him. Bite is the best move in the whole game so
+
+83
+00:15:31,460 --> 00:15:38,629
+far. He's got no arms. What are you going to do? Oh shit. He could spit. He can still spit. All
+
+84
+00:15:38,629 --> 00:15:54,789
+right. Just bite him again. Put your face on the monster's face. There's a half second sound delay.
+
+85
+00:15:54,789 --> 00:16:05,269
+It's not even how my mic is being delayed by a thousand milliseconds and my cam is being delayed
+
+86
+00:16:05,269 --> 00:16:17,779
+by a thousand milliseconds. It doesn't make any sense. There isn't. It's not. One guy. Oh,
+
+87
+00:16:18,340 --> 00:16:28,759
+fucking one guy. Of course it's one guy. All right. Let's go. Gorbok wins. They tell it.
+
+88
+00:16:31,289 --> 00:16:37,299
+We got a metal plate. You get currency and money and shit.
+
+89
+00:16:37,299 --> 00:16:44,889
+You're monster has suffered some damage. Use field repair to heal your monster.
+
+90
+00:16:44,889 --> 00:16:50,009
+This is pretty cool. Field repair restores some lost health. And you can restore. Okay. Field
+
+91
+00:16:50,009 --> 00:16:56,649
+repair. This is, this is pretty good. Begin field repair by selecting the wrench icon.
+
+92
+00:16:57,690 --> 00:17:02,649
+All right. Well, I got some, I got some stuff. It is actually delayed. What do you want to do?
+
+93
+00:17:03,610 --> 00:17:31,099
+This guy's an overbite. What are you talking about? What are you talking about? You are freaking me
+
+94
+00:17:31,099 --> 00:17:39,859
+out, man. All right. Select a damaged part with the control stick. Swing the wheel in circles
+
+95
+00:17:39,859 --> 00:17:48,200
+to spin the wheel and repair damage. Of course. Okay. What do I want to, what do I want to repair?
+
+96
+00:17:49,160 --> 00:17:58,900
+Three, two. All right. So nothing. Just the torso, right? And the head. That's going to be so annoying
+
+97
+00:17:58,900 --> 00:18:17,380
+after a while. Why are you wearing a Kevlar vest? I, whatever. Let's keep going. I'm interested.
+
+98
+00:18:22,710 --> 00:18:26,150
+Bingo. I can't wait to make my own monster. What are we going to name it? You guys get to think
+
+99
+00:18:26,150 --> 00:18:32,259
+some good names. You guys get on here. It's a backpack. Yeah. It's a backpack. I'm getting
+
+100
+00:18:32,259 --> 00:18:36,019
+ready for school early. I have to go to school in like 12 hours, but I'm ready. My backpack's
+
+101
+00:18:36,019 --> 00:18:43,140
+fucking ready. I can sleep with this on. All right. Here we go. We got below bog versus gore bog.
+
+102
+00:18:44,099 --> 00:18:50,339
+I'm thinking about that fucking right arm here. Low squeeze. Now let's, let's, let's low squeeze
+
+103
+00:18:50,339 --> 00:19:01,579
+his legs. Good call. He just kicked me in the fucking head. Okay. I got 71. That was a big move
+
+104
+00:19:01,579 --> 00:19:11,940
+from him. All right. Low squeeze again. All right. I broke his legs. I'm all right. Look at his,
+
+105
+00:19:11,940 --> 00:19:28,059
+look at his energy. It's terrible. And then we automatically goes to the torso. Okay. So you
+
+106
+00:19:28,059 --> 00:19:33,480
+don't want to be, you really don't want to do that. Okay. Should I just go for it? Hook punch. Let's
+
+107
+00:19:33,480 --> 00:19:42,059
+hook punch him. Take off that arm. See you later. Do I have a mailbox on my arm? All right. What
+
+108
+00:19:42,059 --> 00:19:51,160
+are you going to do with no legs in one arm? Nothing. I need energy. Why am I getting
+
+109
+00:19:51,160 --> 00:20:04,470
+gears of war vibes from this? Twist him. Yes. You can block. Yeah. Yeah. Yeah. That makes sense.
+
+110
+00:20:05,900 --> 00:20:09,500
+All right. Inward block. I don't want to do that. He looked at me. I got, I already got him.
+
+111
+00:20:11,190 --> 00:20:15,930
+Upward block. Roar. I don't have enough energy. All right. We're going to dodge.
+
+112
+00:20:16,890 --> 00:20:25,059
+Why do we both have the same idea every time? Oh, right. This is like sorcery, like stamina smash,
+
+113
+00:20:25,059 --> 00:20:32,380
+smash, smash. Hold on. All right. We're going to auto fire. This came out of the wiimote.
+
+114
+00:20:32,380 --> 00:20:43,819
+All right. It was done. Uh, I have no energy. All right. We're going to, I can leg sweep,
+
+115
+00:20:43,819 --> 00:20:52,710
+leg sweep him right in the chest. Optical beam. Oh fuck. I'm almost dead. All right. Uh, dodge.
+
+116
+00:20:56,460 --> 00:21:04,740
+You're going to love, he's a low energy streamer. Chomp. Dead. Holy shit. Wait, whatever. Harold
+
+117
+00:21:04,819 --> 00:21:13,930
+Elbertson. Thank you. Harold Elbertson. Nine eight five for the 10 community subs.
+
+118
+00:21:14,900 --> 00:21:21,400
+Fight him. Uh, Harold Elbertson, nine eight five, 10 community subs. Thanks a lot for those subs.
+
+119
+00:21:21,400 --> 00:21:25,960
+Also Kazzy gave five community subs. Thanks both of you for the subs. You guys are fucking awesome.
+
+120
+00:21:25,960 --> 00:21:33,019
+Thank you. That's a fucking 15 sub drop from two people. You guys fucking rock. Thank you.
+
+121
+00:21:33,019 --> 00:21:46,759
+Wake up Harold. Oh, you get items. This game rules. I remember playing it on the Nintendo DS.
+
+122
+00:21:46,759 --> 00:22:29,400
+Thank you. You could call it a hidden gem. That's not funny. That's not funny. Except my thanks.
+
+123
+00:22:29,400 --> 00:22:35,960
+Prefer to return and explore a beautiful village. Oh God. That's disgusting. Oh my God.
+
+124
+00:22:36,519 --> 00:22:50,170
+Return to the castle immediately. No, you're the one laughing because that's insane. Return to the
+
+125
+00:22:50,170 --> 00:23:04,279
+castle. All right, I'm back. Thanks. Your help was most appreciated. I am Professor Fuseless.
+
+126
+00:23:07,750 --> 00:23:19,160
+It's like, it's like segmented. It's like separated. Oh fuck you. It's coffee. I can't even drink it.
+
+127
+00:23:19,160 --> 00:23:45,450
+It's coffee. Relax. Master of mechanical mad science. Stop. Mad scientist. Oh, here we go.
+
+128
+00:23:45,450 --> 00:24:02,380
+What's my name? Oh, this is important. Make it poop wine. No. Oh my God. How old are we? How old
+
+129
+00:24:02,380 --> 00:24:07,819
+are we? How old are you? How old am I? That's more important. Forget about you. Forget about
+
+130
+00:24:07,819 --> 00:24:15,500
+fucking how old you are. How old am I? This is like, this is my stream and a 30 fucking plus
+
+131
+00:24:15,500 --> 00:24:22,779
+year old man is going to make his character name poop wine. Just be clear about this. This is my
+
+132
+00:24:22,779 --> 00:24:46,140
+responsibility. Me showing this. Oh my God. No, I can't. That's like, I'm 30 plus. I'm over 30.
+
+133
+00:24:46,779 --> 00:24:51,019
+You can't make these jokes anymore when you turn 35, but I'm not that yet. I'm 30 plus.
+
+134
+00:24:51,819 --> 00:25:26,890
+Okay. I don't care. Welcome to the mad science alliance apprentice. Poop wine. I was speaking,
+
+135
+00:25:27,690 --> 00:25:43,769
+I was speaking, what's, what's pig Latin? Poop wine pay. Hey, hey. This is a fucking 15,
+
+136
+00:25:43,769 --> 00:25:52,700
+this is like a 13 year old's stream. Seriously. Seriously say, is say, uh ay,
+
+137
+00:25:54,059 --> 00:26:10,279
+13 pay, ear yay, full day, frame say. I know he's not speaking in tongues. It's pig Latin.
+
+138
+00:26:10,279 --> 00:26:14,119
+That's like a 12 year old thing. How many of you guys are 12? You don't know how to speak pig Latin?
+
+139
+00:26:14,759 --> 00:26:27,700
+That was like a 12 year old thing. Remember those ingredients you received in tongues.
+
+140
+00:26:31,990 --> 00:26:38,230
+You can view them in your new Igor. Igor is your own personal data management system.
+
+141
+00:26:38,950 --> 00:27:02,869
+I can't, I can't get over this. You fucked me up for life. You fucked me up for life.
+
+142
+00:27:03,670 --> 00:27:07,589
+Every time I drink a coffee that gets separated like this, but no ice in it,
+
+143
+00:27:08,789 --> 00:27:13,980
+of all I'm going to hear is your, your screaming. You fucked me up for life.
+
+144
+00:27:14,460 --> 00:27:23,109
+Igor tracks your progress as well. Okay. So I got a skull, horn skull,
+
+145
+00:27:23,109 --> 00:27:30,500
+metal platter and thick pipe. Cool. Wait. We can use the ingredients you just saw
+
+146
+00:27:30,500 --> 00:27:37,740
+to make a mechanical part to flatten your opponents. When you want to open Igor,
+
+147
+00:27:37,740 --> 00:27:45,420
+use the minus button. Okay. He drew the workshop. Let me see ingredient received. Thick pipe.
+
+148
+00:27:45,579 --> 00:27:55,289
+Okay. So quest log, go to the workshop. We also got a scientist data, monsters. You have no monsters
+
+149
+00:27:55,289 --> 00:28:00,970
+in your inventory. Parts. No parts. Ingredients though. We can make it like a skull pipe person.
+
+150
+00:28:01,849 --> 00:28:13,099
+All right. This is cool. Let's go to the workshop. Make a royal flush. To save your game,
+
+151
+00:28:13,099 --> 00:28:20,539
+select the cat or saver. Right. Save, save the game. Save the game right now, actually, immediately.
+
+152
+00:28:20,539 --> 00:28:46,420
+Save it. Why am I desync? It's off. The audio is early. Oh, we've got to do something here. Okay.
+
+153
+00:28:47,779 --> 00:29:02,819
+Ready? Hey, one, two, one, two. Hey, hey. So my audio, me saying a is early. It's literally perfect.
+
+154
+00:29:03,779 --> 00:29:18,569
+My audio is early. You fucking with me? It's, this is not one guy. This is like fucking half the chat.
+
+155
+00:29:19,049 --> 00:29:27,029
+It's, this is not one guy. This is like fucking half the chat. This is a lot of one guy. I'm tripping.
+
+156
+00:29:34,569 --> 00:29:51,049
+My audio is early. Do you hear me first? How's this? How does this sound? Are we good to go?
+
+157
+00:29:52,009 --> 00:30:12,490
+How does this sound? Are you seeing this sync up? Okay. Good. Yo, shut the fuck up, chat.
+
+158
+00:30:13,450 --> 00:30:18,180
+You're still ugly.
+
+159
+00:30:21,940 --> 00:30:30,279
+Blame God. Okay. That's not my fault. You may use my equipment to perform experience, but be careful.
+
+160
+00:30:35,880 --> 00:30:39,269
+Oh, you can make it do experiments?
+
+161
+00:30:43,109 --> 00:30:45,109
+Holy shit, I've really seen that tiny arm.
+
+162
+00:30:50,309 --> 00:31:20,519
+Experiment and your ingredients will be destroyed. I got to keep this together. I can't.
+
+163
+00:31:39,980 --> 00:31:47,339
+Okay. Ingredients. Key ingredient. We can do, all right, we're going to do a bedpan
+
+164
+00:31:48,220 --> 00:32:03,380
+and a spool of wire. What do we get? Point the Wii mode and hold the B button to weld.
+
+165
+00:32:03,380 --> 00:32:10,599
+Fill the entire seam for the highest quality. What? A gun, if the gun overheats, you weld
+
+166
+00:32:10,599 --> 00:32:15,660
+outside the seam. A gun overheats if you weld outside the seam. Shake the nunchuck to fix the
+
+167
+00:32:15,660 --> 00:32:54,119
+gun. What am I welding? This is an operation. This shit's tiny. Oh my God. Why do they have
+
+168
+00:32:54,119 --> 00:33:03,779
+to make it like a tracing game? The worst thing you could possibly do for me is make this be a
+
+169
+00:33:03,779 --> 00:33:14,420
+tracing game. You guys know how much I fucking hate this shit. Wait, in here. This is pretty
+
+170
+00:33:14,420 --> 00:33:37,400
+high quality. It's good, right? Is this the game? I don't think so. Wait, we got a buckler shield.
+
+171
+00:33:39,609 --> 00:33:47,430
+I get it. Okay. Slow. It's 100% quality. Hit points. 39. So it's a block. It's a shield.
+
+172
+00:33:48,470 --> 00:33:53,140
+That's not bad. Put that shit on.
+
+173
+00:33:53,220 --> 00:34:29,210
+Hey D ward, thanks for the 10 community subs. How do you attach?
+
+174
+00:34:41,019 --> 00:34:45,579
+In the lightning tower. Okay. So buckler shield. Let's put it on, right?
+
+175
+00:34:46,460 --> 00:34:54,380
+Speak with useless in the lightning tower. The weldatron. There's a lot in this game. This is
+
+176
+00:34:54,380 --> 00:35:15,000
+very, very deep. Lightning tower. You have to make your own monster. No, it's not a pog moment.
+
+177
+00:35:15,000 --> 00:35:16,920
+No, I was thinking about it. It was close.
+
+178
+00:35:25,800 --> 00:35:30,280
+No doubt there are scrap parts around here for you. I can't. This is going to be so good.
+
+179
+00:35:31,400 --> 00:35:38,599
+Let's make a monster. Monster constructor in the middle of the room. All right. Make a new monster.
+
+180
+00:35:43,500 --> 00:35:51,739
+Okay. This is the monster constructor screen. The panel's on the left. Should I make it all wizard?
+
+181
+00:35:56,840 --> 00:36:00,599
+Let's just build a monster. Like different areas of your monster.
+
+182
+00:36:01,320 --> 00:36:08,949
+Just like you do in combat. Okay. Right now. All right. Let's do head and legs. Not bad.
+
+183
+00:36:08,949 --> 00:36:15,590
+Notice how those arrows move when you select a different area. I do. You can use those arrows
+
+184
+00:36:15,590 --> 00:36:21,989
+to choose what parts your monster is using. Make your fursona. Right now your monster isn't using
+
+185
+00:36:21,989 --> 00:36:29,670
+any part. Push up on the control stick. Point the weave remote at an arrow and press the A button.
+
+186
+00:36:29,670 --> 00:36:36,820
+Okay. We only have two choices for head right now? Push up on the control stick. All right.
+
+187
+00:36:36,820 --> 00:36:48,599
+Get out of the way. See you'll make a monster. I don't want that. I only have two options.
+
+188
+00:36:49,400 --> 00:36:56,760
+You can use that arm you just made. As a test I want to choose the rest. All right. What can I do?
+
+189
+00:36:57,719 --> 00:37:13,079
+Plated jaw, leopard skull, or none? I think I only have two so far. All right. Leopard skull,
+
+190
+00:37:13,960 --> 00:37:37,019
+buckler shield, flub arm, stone hacker, ogre arm. Yep. Ogre arm and uh buckler shield. No.
+
+191
+00:37:38,570 --> 00:37:49,260
+And stone hacker. And scale male body.
+
+192
+00:37:50,139 --> 00:38:03,639
+When you are ready, select the jaw. With wooden legs? All right. No. We're gonna do tree legs.
+
+193
+00:38:04,199 --> 00:38:11,159
+Do I want the shield? I mean this is the first tutorial monster.
+
+194
+00:38:13,349 --> 00:38:23,380
+Yeah. All right. This is good. Best thing to do. Monster in name. Every monster needs a good name.
+
+195
+00:38:23,380 --> 00:38:28,619
+Like mongor. I'm not gonna name it mongor. All right. I'm not gonna keep this one.
+
+196
+00:38:29,420 --> 00:38:40,099
+This is this this is this shitty tutorial monster. How do I how do I delete? Oh okay.
+
+197
+00:38:41,400 --> 00:38:50,860
+How about how about um how about Mr. Recycle? Because he's just I'm just gonna recycle him
+
+198
+00:38:50,860 --> 00:39:01,900
+and I'm gonna take all those parts and stuff. Like I'm just gonna recycle him. Mr. Poopster.
+
+199
+00:39:01,900 --> 00:39:06,539
+But he's not getting a poop. Not no. Why would I name everything a poop related thing in this
+
+200
+00:39:06,539 --> 00:39:22,420
+frame? Doesn't even matter. I can name him just like Tim. Or like I don't know like Paul. Or like
+
+201
+00:39:26,630 --> 00:39:53,019
+Tim. Paul. It doesn't none of those matters. None of those matters. How about David? David? Good
+
+202
+00:39:53,019 --> 00:40:11,590
+enough. All right. Let's take our first monster into combat. Open Igor. Yes.
+
+203
+00:40:11,989 --> 00:40:17,829
+You want to go to corner shop and get stuff. Now head down to the command room. Deploy the new
+
+204
+00:40:17,829 --> 00:40:26,659
+creation. This is gonna be pretty fun. I got a saw blade. Let's go look at him. There he is.
+
+205
+00:40:26,659 --> 00:40:31,349
+There's David. Actually pretty intimidating looking. Look at his health, his uh mana,
+
+206
+00:40:31,349 --> 00:40:37,239
+his attack, and his defense. Not bad. It's pretty good for a monster that this is what
+
+207
+00:40:37,239 --> 00:40:51,099
+there's only like five combinations. Let's go. Command room deploy him. Shitty. He's shitty.
+
+208
+00:40:52,460 --> 00:41:00,659
+All right. All right. Command room. I can't wait to make the most boring fucking monster ever.
+
+209
+00:41:00,659 --> 00:41:12,619
+This is the command room. Use the trouble scope to see. Trouble scope? When it's out doing well
+
+210
+00:41:12,619 --> 00:41:24,809
+monster. Other side of the room is the interlab link. You can use the interlab link to challenge
+
+211
+00:41:24,809 --> 00:41:30,010
+other scientists. There was internet on this. You could actually fight over the internet.
+
+212
+00:41:30,650 --> 00:41:34,469
+Well that's too bad that Nintendo shut literally all servers down permanently.
+
+213
+00:41:36,389 --> 00:41:47,829
+That would be fun. Now let's pick a region. We had internet. Yeah it did. Oh my god this is huge.
+
+214
+00:41:47,829 --> 00:41:59,110
+All right. Cobbleshire. Let's go fight in Cobbleshire. We're taking David. Deploy David.
+
+215
+00:41:59,110 --> 00:42:13,239
+I'm not wearing a tactical rig. Just fire him out of a cannon. All right. We're gonna get parts
+
+216
+00:42:13,239 --> 00:42:20,809
+because I want to make another monster. There he is. All right. Cool. Oh can I like collect
+
+217
+00:42:20,809 --> 00:42:26,730
+items or something? What's the actual end goal here? Just explore? It doesn't take resources
+
+218
+00:42:26,730 --> 00:42:40,119
+to walk around right? Tourism. We're getting an interesting new visitor. All right. Northeast.
+
+219
+00:42:45,559 --> 00:42:54,300
+All right. Northeast. Let's move. All right. That was like a loud cat noise. This is a cat?
+
+220
+00:42:55,619 --> 00:42:59,219
+I walked past everything. What am I supposed to just walk into the town?
+
+221
+00:43:00,099 --> 00:43:11,530
+Uh oh. It's David versus the insane. Shit. Okay. All right. What do I have? What do I do? What can
+
+222
+00:43:11,530 --> 00:43:18,949
+my twigs do? It's just Pokemon.
+
+223
+00:43:18,949 --> 00:43:27,590
+Okay.
+
+224
+00:43:32,389 --> 00:43:47,110
+Sure. Cool. So what does he got? What does he what does he got? I got scale male body.
+
+225
+00:43:48,070 --> 00:43:57,690
+All right. Let's do side kick. It hits his his right arm. I could do diagonal chop. This move
+
+226
+00:43:57,690 --> 00:44:08,949
+sucks. Ground pound or block or I could do no optical beam. Optical beam. Well that was that
+
+227
+00:44:08,949 --> 00:44:17,559
+was destruction. Oh fuck. I took it all right. All right. Hammer fists. What should I try to do?
+
+228
+00:44:17,639 --> 00:44:24,760
+So his legs are in trouble. His head's in trouble too. Hold on. Can I bite his head? Optical beam
+
+229
+00:44:24,760 --> 00:44:32,469
+again. I knocked his head off. Now what are you gonna do about that? All right. Now we're gonna
+
+230
+00:44:32,469 --> 00:44:42,860
+dodge. It's only plus two. Dodge. All right. He's going for the legs. I gotta stop this.
+
+231
+00:44:44,280 --> 00:44:57,639
+Uh right in the center of his chest. Diagonal chop. Shit. That's not good. That's not good.
+
+232
+00:44:57,639 --> 00:45:08,949
+Uh I'm not gonna flee. Dodge. Nice. Good work. All right. This is where we end it.
+
+233
+00:45:08,949 --> 00:45:17,530
+Uh bite him. It doesn't matter. He's dead. Fully recharged. Bite him. He's not dead yet.
+
+234
+00:45:17,530 --> 00:45:35,079
+This is arm. Fuck. Okay. Uh run away. Just recharge fully. The new monster rancher sucks.
+
+235
+00:45:35,960 --> 00:45:41,239
+This isn't even monster rancher. All right. Die. Let's see if I can end it with a hammer fist.
+
+236
+00:45:53,159 --> 00:46:00,539
+Wins three. Losses zero. This is the first fight. I got a bent screw. So I skipped the fucking
+
+237
+00:46:00,539 --> 00:46:11,480
+rewards. Whoops. This is the first fight. How do I repair myself? Don't I have to repair?
+
+238
+00:46:15,559 --> 00:46:26,389
+How do I? Where's like the repair shop thing? How do you repair? Go back and get the stuff.
+
+239
+00:46:29,860 --> 00:46:45,159
+What's? How much stuff did I miss? There's nothing even here. I didn't miss anything. This has all
+
+240
+00:46:45,159 --> 00:46:55,610
+the this is a mobile game before it's time. Yeah like the circles. Yeah. Get it. There's nothing
+
+241
+00:46:55,610 --> 00:47:06,739
+there. How do I how do I repair myself? I'm gonna die. What's like the repair? What's that
+
+242
+00:47:06,739 --> 00:47:26,059
+repair mini game? Remember? You missed a tinted rock. There he is. I'm not fighting any of this
+
+243
+00:47:26,059 --> 00:47:36,389
+stuff.
+
+244
+00:47:42,840 --> 00:47:44,360
+You gotta repair the home day so.
+
+245
+00:47:44,840 --> 00:47:50,519
+The ingredients you discover in a challenge will help you to make new and better monster parts.
+
+246
+00:47:51,159 --> 00:47:59,380
+But I can't seem to remember where I put any of them. Okay complete buried treasure challenge.
+
+247
+00:48:00,840 --> 00:48:08,920
+Electro trace challenge. Buried treasure. How the fuck am I supposed to find that?
+
+248
+00:48:09,639 --> 00:48:32,699
+Wait what is that down there? Why is that lit up? Is this it? Oh I got it. I modified the
+
+249
+00:48:32,699 --> 00:48:38,860
+telescope to allow you to see. It allows you to control your monster directly.
+
+250
+00:48:39,980 --> 00:48:43,739
+What? Point at the line. Wait electro trace. Not another fucking trace.
+
+251
+00:48:44,699 --> 00:48:52,659
+Stay as close as you can. Point at the line with the Wii remote and hold down A and B. A or B to
+
+252
+00:48:52,659 --> 00:49:15,699
+trace. Oh no. Why? No! What the fuck? No! They did it. Okay. Fuck why? It's like almost like
+
+253
+00:49:16,500 --> 00:49:23,179
+they're mocking me. Okay. Electro trace. Don't get don't get any fights. I'm gonna die if I do.
+
+254
+00:49:25,400 --> 00:49:38,539
+Buried treasure is the next one? Oh fuck. Leave me alone. He's playing webkinned. Buried treasure.
+
+255
+00:49:38,539 --> 00:50:01,110
+No? Let me repair first. He needs to repair. This game is... I'm not even gonna read what you said.
+
+256
+00:50:02,070 --> 00:50:09,780
+All right it's the workshop right? You barely took any damage. Did I? I thought I did.
+
+257
+00:50:10,659 --> 00:50:21,820
+It's the weldotron right? Wait key ingredient. Saw blade and worn spindle.
+
+258
+00:50:23,699 --> 00:51:26,659
+Let's go. Let's go. Let's make a new arm. I can't. I'm sorry. Why does it have to be a tracing game?
+
+259
+00:51:26,659 --> 00:51:37,989
+I thought I was supposed to make monster parts and shit. It's good enough right? Have you ever
+
+260
+00:51:37,989 --> 00:51:43,429
+welded something before? No I've never welded something before. Why would I have ever welded
+
+261
+00:51:43,429 --> 00:51:54,500
+something? Oh I got a... what is it? A muffler? What is it? It's a circular saw. It's supercharged.
+
+262
+00:51:56,250 --> 00:52:15,340
+Increase energy capacity. That's pretty good. How do I repair? Turbocharged backpack. Where's
+
+263
+00:52:15,340 --> 00:52:36,360
+it repair? Lightning tower? How do I actually do this? You probably don't need to. It's done
+
+264
+00:52:36,360 --> 00:52:42,440
+in the field. Well how can I go and see it? All right we need one more. We need one more treasure.
+
+265
+00:52:45,369 --> 00:52:52,570
+It's the shield and the pause menu. Okay. There goes the rest of the poop wine.
+
+266
+00:52:59,860 --> 00:53:17,320
+Oh I got... I'm good. All right one more uh one more of these quests. This is why I don't have
+
+267
+00:53:17,320 --> 00:53:23,079
+the face game August. Every 15 minutes every like 10 minutes there's gonna be another 20 comments
+
+268
+00:53:23,079 --> 00:53:29,130
+about why is this guy wearing a backpack? Because I'm preventing it from happening.
+
+269
+00:53:29,849 --> 00:53:40,059
+All right what about over here? Secret! Swing the weed mode left and right to dig.
+
+270
+00:53:41,260 --> 00:54:06,010
+Shake the nunchuck to break the skulls. There we go. That's the gig. Got it. I found a flood light.
+
+271
+00:54:07,829 --> 00:54:11,349
+All right I did you... I did your missions now. Give me your resources.
+
+272
+00:54:26,659 --> 00:54:28,980
+Hurry back with what you found. You got it.
+
+273
+00:54:29,699 --> 00:54:44,150
+Uh oh. Battle time. Bubbles versus David. Looks like a mirror.
+
+274
+00:54:46,230 --> 00:54:57,690
+All right. What are we going for? Uh diagonal chop. Side kick. Knock that arm off.
+
+275
+00:54:59,050 --> 00:55:13,340
+Do that again. Foster strap. There goes the arm. Laughing my ass off. What the fuck is this?
+
+276
+00:55:14,300 --> 00:55:42,230
+Do I not bite him? Why is this music from Battlefield? Is it actually from what?
+
+277
+00:55:43,110 --> 00:55:57,579
+You're gonna lose? I'm not gonna lose. I'm gonna optical beam him right in his sternum. Oh my god.
+
+278
+00:55:57,579 --> 00:56:09,320
+I'm gonna lose. I'm actually gonna lose. I'm gonna lose. Uh all right. Here we go. All right we're
+
+279
+00:56:09,320 --> 00:56:16,780
+good. I'm gonna lose to a kids game. This is not even a kids game. This is a fucking rated M.
+
+280
+00:56:16,780 --> 00:56:34,980
+All right here we go. Knock his head off. How did that not do more damage than that?
+
+281
+00:56:35,539 --> 00:56:43,980
+Dodge again. Fuck. He recharged and I didn't. The crickets and dog barking sounds. I know. I don't
+
+282
+00:56:43,980 --> 00:56:50,219
+understand it either. Try block. I'm gonna pull. Okay I gotta go for a block. I'll go for a block.
+
+283
+00:56:51,320 --> 00:56:58,789
+Block it. Yep. That was the right call. Got him. Fucking so smart. All right now we dodge.
+
+284
+00:56:59,829 --> 00:57:06,969
+Dodge it. Dodge. Nice. All right. This is where we end it. Right here. I'm gonna hammer fist him.
+
+285
+00:57:07,610 --> 00:57:22,300
+Fuck. He's still. Dodge again. I'm not gonna lose. If I lose in the tutorial I'm taking the disc out
+
+286
+00:57:22,300 --> 00:57:38,760
+and playing something else. Dodge again. All right now bite him. Look at this. Why is this guy? Is
+
+287
+00:57:38,760 --> 00:57:54,420
+this guy like three levels higher than me? I don't understand. He's taking the shit out of me. Do I
+
+288
+00:57:54,420 --> 00:58:03,480
+beam him? Don't put the bite again. What is he like organic? It's like organic right? Alchemy
+
+289
+00:58:03,480 --> 00:58:09,900
+versus organic. You gotta step it up. I am stepping it up. All right cut his arm off.
+
+290
+00:58:09,900 --> 00:58:22,550
+This is bad. This is actually really bad. Recharge. His chest is alchemical. Is it?
+
+291
+00:58:27,130 --> 00:58:39,420
+All right I win. We're good. It's not over but it will be in a second. All right.
+
+292
+00:58:40,460 --> 00:58:52,570
+Losing to bubbles. Did I? Because I had just won. All right. Metal platter. Horned skull.
+
+293
+00:58:52,730 --> 00:58:59,179
+Mud bucket. All right. We got a mud. I'm thinking mud bucket and horned skull will be all right.
+
+294
+00:58:59,739 --> 00:59:11,690
+Prepare now. Poop bucket. All right. So where is this? Are you saying it's in the menu?
+
+295
+00:59:11,690 --> 00:59:29,530
+Isn't like the field menu? Field repair kit. I don't see it anywhere. Is it the victory screen? Oh.
+
+296
+00:59:30,570 --> 00:59:40,809
+Well we have to go back and deposit this anyways. So I'm playing this shitty game.
+
+297
+00:59:41,769 --> 00:59:56,010
+It's looked interesting. This game is pretty fun actually. You don't know until you try. I don't
+
+298
+00:59:56,969 --> 01:00:04,309
+know how many how many games that were shitty games have we played that turned out to be
+
+299
+01:00:04,309 --> 01:00:08,789
+fucking phenomenal. We gotta give him a chance. You can't just write him off immediately.
+
+300
+01:00:10,489 --> 01:00:26,550
+You can't just write him off. At least one. You gotta give it like at least 45 minutes
+
+301
+01:00:26,550 --> 01:00:33,590
+till it's been an hour. Okay. You gotta give it at least like you gotta give it at least like an
+
+302
+01:00:33,590 --> 01:00:41,690
+hour and a half before I put in elebits. All right. Will I talk to this guy? You'll want to learn how
+
+303
+01:00:41,690 --> 01:00:52,969
+to make a new monster part. Yes. Go on. I'll meet you in my workshop. You have one life until I have
+
+304
+01:00:52,969 --> 01:01:04,119
+to change games. That's not fair. At least say something funny. I'm not a fucking woody doll.
+
+305
+01:01:04,760 --> 01:01:07,429
+You don't pull the back of the string and expect it.
+
+306
+01:01:07,590 --> 01:01:11,820
+Uh
+
+307
+01:01:17,659 --> 01:01:29,699
+Let's see how this fucking works. There's a string on the back of me. That was terrifying.
+
+308
+01:01:32,659 --> 01:01:39,539
+That was scary. Good. Why does he have that pro? It's just an easy button to press.
+
+309
+01:01:45,539 --> 01:01:48,659
+I'm going to the workshop and I'm gonna make a new fucking robot part. All right.
+
+310
+01:01:49,380 --> 01:02:01,829
+We can make the reverb. The reverb was so high on that. The difficulty level of experiments
+
+311
+01:02:01,829 --> 01:02:12,139
+depends on the ingredient. That was all almost all the way. That was very very very insane. I
+
+312
+01:02:12,139 --> 01:02:19,400
+didn't even know. Oh well. All right. So don't get ahead of yourself. All right. Here we go.
+
+313
+01:02:19,559 --> 01:02:38,840
+Fortunately. We are aware. All right. Let's do head end and scrap. No no no no no no.
+
+314
+01:02:38,840 --> 01:02:46,780
+Oh you can evolve? This really is a fucking mobile game. Shit. Floodlight and bent screw.
+
+315
+01:02:49,929 --> 01:02:55,780
+This is bumped you. Sorry. Shit. This is a fucking mobile game. It's like robots with the control
+
+316
+01:02:55,780 --> 01:03:05,820
+stick swing the remote to smash. Smash all the robots that show the wrong symbol. Complete as
+
+317
+01:03:05,820 --> 01:03:21,670
+many rounds as possible to earn quality. Give me the wrong symbol. Move over. Why can I not move
+
+318
+01:03:21,670 --> 01:03:32,329
+it? No. Move. I moved to the left. I'm trying to. The guys are the wrong symbols. Okay. I gotta. I
+
+319
+01:03:32,329 --> 01:03:39,320
+gotta smash this guy and the guy over there and the guy over there. How do I move it? Why can I
+
+320
+01:03:39,320 --> 01:03:55,289
+move it? How do I move the fucking thing? You're killing them. I'm trying to fucking use the stick.
+
+321
+01:03:57,059 --> 01:04:20,360
+I'm pressing everything. Okay here we go. Oops. I'm gonna kill you. This thing's gonna be very low
+
+322
+01:04:20,360 --> 01:04:54,869
+quality. Woody doll. Oh sick. A new helmet. Watch the clip. Hold on. Let me see what the
+
+323
+01:04:54,869 --> 01:05:04,440
+fuck this looks like. Never welded before. Hold on. Look at a lot of new materials.
+
+324
+01:05:09,639 --> 01:05:15,900
+It's fucked up. Is it that fucked up? Hold on. Let me see how fucking bad this sounds.
+
+325
+01:05:15,980 --> 01:05:27,940
+What a fucking woody doll. You don't pull the back of the string and expect.
+
+326
+01:05:45,860 --> 01:05:48,500
+That's pretty accurate to what they actually sound like. So
+
+327
+01:05:49,219 --> 01:06:07,739
+they're not that cursed. Yes they are. Hey butt sniffing George. Thanks to the $50 butt sniffing
+
+328
+01:06:07,739 --> 01:06:14,699
+George. It's 5,000 bits for Mr. Butt Sniffing Gorge. It's my 21st birthday today. Could you
+
+329
+01:06:14,699 --> 01:06:19,820
+please get me in contact with Bugleberry so I can ask him to wish. So I can ask him to wish
+
+330
+01:06:19,820 --> 01:06:52,139
+a happy birthday to George. There he was. He just ran in here. All right do I want to continue
+
+331
+01:06:52,139 --> 01:06:58,519
+playing this or I want to put in like elements or like raving rabbits. You gotta give these games
+
+332
+01:06:58,519 --> 01:07:14,260
+a chance. You can't just fucking. We're going raving rabbits. All right I'm pulling the plug.
+
+333
+01:07:15,380 --> 01:07:29,559
+I'm selling it. All right I'll pull the plug on it. It's fun. It's fun. I like it. I don't hate it
+
+334
+01:07:30,360 --> 01:07:34,630
+but it's a little too slow. I thought we were going to be able to make a robot. It's a little
+
+335
+01:07:34,630 --> 01:07:40,099
+too slow. It's going to take us probably six hours to get to the point where it's like the
+
+336
+01:07:40,099 --> 01:07:44,420
+things that I want to do. We're going to pivot. We're going to play raving rabbits because that's
+
+337
+01:07:44,420 --> 01:07:59,369
+going to be a pog experience. Give me one sec. I don't even own it. I don't even own that game.
+
+338
+01:08:00,170 --> 01:08:12,199
+Don't own raving rabbits. Fuck. No no I just I just I just I just own the raving rabbits fucking
+
+339
+01:08:12,199 --> 01:08:59,319
+ultimate party collection which is every single video game they made. Come on. What. That's not
+
+340
+01:08:59,319 --> 01:09:08,149
+even. That's not even remotely accurate. This is for a different system. It doesn't even fit in the
+
+341
+01:09:08,229 --> 01:09:16,680
+same tray. Why did you fuck this up? How did you fuck that up? How did you fuck this up?
+
+342
+01:09:16,680 --> 01:09:19,960
+It's impossible. It's not even the same size of the right fucking tray.
+
+343
+01:09:43,140 --> 01:09:50,229
+Big game hunter 2005. Oh fucking god damn it. Put it in. Let's I want to see what I want to see
+
+344
+01:09:50,229 --> 01:10:21,130
+this game's all about. What is this fucking game? Put it in. Put this shit in. Let's have a look.
+
+345
+01:10:22,149 --> 01:10:26,630
+Un-fucking-believable. I can't even believe it. That's like that's impossible to make that mistake.
+
+346
+01:10:32,439 --> 01:10:42,939
+2004. Oh my god. It wasn't a mistake. It was deliberate. They deliberately put that fucking
+
+347
+01:10:42,939 --> 01:10:50,390
+game in there. Like what I'm not going to know. It's not even close. I can understand. Okay maybe
+
+348
+01:10:50,390 --> 01:10:56,710
+if it was like if that was loud if it was like raving rabbits the first one or something right
+
+349
+01:10:56,710 --> 01:11:02,069
+or like raving rabbits two you think okay like you fucked up it's a game cube game for a fucking
+
+350
+01:11:02,949 --> 01:11:10,699
+big game hunter 2005 oh this i don't even want i'm gonna play this game for fucking 10 minutes
+
+351
+01:11:10,699 --> 01:11:30,010
+not even this is gonna be this game's gonna suck oh my god male 18 male 30
+
+352
+01:11:31,369 --> 01:11:41,819
+60 wait why do you have to be this is our presets these are ages i was gonna say why did we skip
+
+353
+01:11:41,819 --> 01:12:05,210
+like 30 pre male 60 i'm so fucking angry right now even no idea this is tony hawk
+
+354
+01:12:05,210 --> 01:12:15,560
+accuracy strength accuracy strength stealth resilient you fire a gun at something
+
+355
+01:12:16,359 --> 01:12:30,819
+i don't i don't understand strength this makes sense and this should it should be one stat in
+
+356
+01:12:30,819 --> 01:12:43,880
+this game it should be accuracy and stealth resilience what resilience for what how many
+
+357
+01:12:43,880 --> 01:12:56,220
+like cans of soup you're gonna eat while you wait for the deer i don't understand this all right
+
+358
+01:12:56,220 --> 01:13:02,920
+we're just gonna go we're gonna go all strength we're going fucking hunter all fuck accuracy who
+
+359
+01:13:03,000 --> 01:13:13,140
+cares we're going strength only strength and and and resilience unarmed i'm gonna be
+
+360
+01:13:13,140 --> 01:13:21,939
+fist fighting like a bear all right i can't take these down anymore i can't believe this okay edit
+
+361
+01:13:21,939 --> 01:14:27,460
+the name no no no no no no backspace no no i don't want an s there you go scam sean sean the
+
+362
+01:14:27,460 --> 01:14:48,020
+scammer yeah it is kind of doing that you're right scam sam we keep getting fucking scammed
+
+363
+01:14:48,020 --> 01:15:08,810
+with these games is this actually like fist fighting cares you still have 10 points i don't
+
+364
+01:15:08,810 --> 01:15:40,979
+give a shit play on easy trust me wait uh is this uh play on easy why do you know this start a new
+
+365
+01:15:40,979 --> 01:15:51,130
+career when i when i was a young boy my dad pete took me along as he embarked on a great quest
+
+366
+01:15:51,130 --> 01:15:58,729
+that he had dreamed of all his life to qualify for the hunter's hall of fame and hang their plaque
+
+367
+01:15:58,729 --> 01:16:07,909
+on his wall it is an admirable accomplishment that you have completed crossing all the land types of
+
+368
+01:16:07,909 --> 01:16:14,310
+this great country braving a range of weather taking one for each animal waking one of each
+
+369
+01:16:14,310 --> 01:16:18,869
+animal in all regions 65 and always took me through with forests and grasslands mountains and deserts
+
+370
+01:16:18,869 --> 01:16:23,189
+as he cracked the great trophy animals of north of bertha he came so close to completing his goal
+
+371
+01:16:23,189 --> 01:16:26,390
+he was just three animals short when he slipped down an icy hill and broke his leg
+
+372
+01:16:27,189 --> 01:16:34,520
+fortunately we weren't far from the lodge and the warden called a rescue helicopter for us
+
+373
+01:16:34,520 --> 01:16:39,960
+my dad always said we would finish one day and get that plaque but he'd never can you slow down
+
+374
+01:16:39,960 --> 01:16:44,760
+the teleprompter please he did now and i follow his footsteps on the quest for my place in that
+
+375
+01:16:44,760 --> 01:16:49,720
+hunter's hall of fame and a plaque that i will give to my dad in honor of all the memories he gave
+
+376
+01:16:49,720 --> 01:17:07,000
+to me i gotta change the fucking name of this stream this is not even accurate this is this
+
+377
+01:17:07,000 --> 01:17:15,899
+game's not even gonna be on twitch this is such a strange cabela's hunt 2004 i don't even know
+
+378
+01:17:16,619 --> 01:17:27,529
+what its first person oh wait hold on do i just run around and f first person all right where's
+
+379
+01:17:27,529 --> 01:17:52,010
+her bear do i even have any supplies or anything how do you shoot okay why is it like a shotgun
+
+380
+01:18:13,529 --> 01:18:32,380
+all right pretty good okay good don't run you're gonna scare animals so just like walk
+
+381
+01:18:33,100 --> 01:19:05,979
+don't have like supplies do i have food oh there it is okay um why do i why don't feel like i'm
+
+382
+01:19:05,979 --> 01:19:14,619
+playing the thing you won't find any animals on hard is that true i have to go to the lodge
+
+383
+01:19:19,350 --> 01:19:28,539
+case already in there let's see if i get it go back on restart put it on easy pick easy please
+
+384
+01:19:28,539 --> 01:19:37,289
+okay all right all right all right go back and do easy easy okay we'll do i was just gonna do easy
+
+385
+01:19:37,289 --> 01:19:41,979
+because like people said like this could be fucking impossible i can't believe i'm playing this right
+
+386
+01:19:41,979 --> 01:20:00,220
+now i'm i'm so let's do a quick hunt in the in the the desert uh the in the raspy gulch easy
+
+387
+01:20:00,220 --> 01:20:06,970
+what are your control pad to navigate inventory all right i want to uh spray hydration blood is
+
+388
+01:20:06,970 --> 01:20:15,060
+like are you like pee in this hydration bladder like pee in this and then drink it all right
+
+389
+01:20:15,060 --> 01:20:20,659
+okay this is fine yeah this is not how do i put it on easy is it just on what difficult what
+
+390
+01:20:20,659 --> 01:20:35,750
+difficulty is on bella 2005 the title is not even accurate all right so what what what what
+
+391
+01:20:37,430 --> 01:20:52,729
+gameplay didn't give me an option this time wait is there all right here we go how do i pick up the
+
+392
+01:20:52,729 --> 01:21:14,329
+binoculars okay binoculars this is fucking ridiculous on easy mode you can see every
+
+393
+01:21:14,329 --> 01:21:29,029
+animal on the map something over here something over here put it on easy steven put it on easy
+
+394
+01:21:30,649 --> 01:21:35,449
+uh i don't have to make a new profile i have to make a new fucking profile all right i don't care
+
+395
+01:21:35,449 --> 01:21:41,430
+about the guy's name i just want to see one animal before i take this out and never play it again and
+
+396
+01:21:41,430 --> 01:21:45,909
+just throw i i'm gonna throw it away i'm gonna throw this away right like i'm gonna throw this
+
+397
+01:21:45,909 --> 01:21:54,970
+disc away i'm gonna recycle the disc all right career no don't continue my career career no no
+
+398
+01:21:55,050 --> 01:22:04,260
+career options quit tournament how do i make it quit career great profile oh it doesn't matter
+
+399
+01:22:09,159 --> 01:22:34,869
+48 points um hold on so loud there you go fixed it okay let's go easy save all right i'm ready
+
+400
+01:22:34,869 --> 01:22:40,760
+now it's too quiet don't worry it'll be it'll be very loud very soon battling mr potato heads
+
+401
+01:22:40,760 --> 01:22:58,329
+make any fucking sense i'm just gonna title it i got scammed no i i have no idea whatever how
+
+402
+01:22:58,329 --> 01:23:03,020
+much was this i don't know because this is not the game that i purchased all right go to the lodge
+
+403
+01:23:03,739 --> 01:23:24,970
+go and talk to region warden um oh plus one letter grade that's a full letter grade
+
+404
+01:23:25,689 --> 01:23:44,359
+that's from an f to a d did i just buy this all right fuck i just i gotta see one animal
+
+405
+01:23:45,000 --> 01:24:04,140
+this thing have gas all right where's the warden okay warden is the warden here go talk to the
+
+406
+01:24:04,140 --> 01:24:14,300
+region warden oh there he is you know you look vaguely familiar can't put my finger on it though
+
+407
+01:24:15,100 --> 01:24:20,460
+hello there and welcome to my land well it's not technically my land but it is my job to look after
+
+408
+01:24:20,460 --> 01:24:26,380
+it name's tom hallock i'm a patrol lieutenant and the warden in this region if you intend to
+
+409
+01:24:26,380 --> 01:24:31,420
+hunt i'll be while you're out in the field you may also be hearing from my boss patrol captain
+
+410
+01:24:31,420 --> 01:24:38,140
+connor he's a nice guy but he takes his job very seriously so try not to break any of our hunting
+
+411
+01:24:38,140 --> 01:24:43,500
+regulation i won't why don't you visit my office in the lodge later hunting tags the region for
+
+412
+01:24:43,500 --> 01:25:01,399
+this region all right visit the warden in the lounge for tags and hunting regulations store
+
+413
+01:25:01,479 --> 01:25:09,220
+warden you have received the following tags bobcat wolverine bombie and blacktail deer
+
+414
+01:25:10,260 --> 01:25:21,060
+okay hunting advice when you violate a hunting law you are assessed a penalty okay regulations
+
+415
+01:25:21,060 --> 01:25:24,819
+you're not allowed to chase injure or kill wildlife with your vehicle you may never use
+
+416
+01:25:24,819 --> 01:25:28,819
+your vehicle to harm another person you have reason to believe another person might have been
+
+417
+01:25:28,819 --> 01:25:32,659
+injured you have the duty to render aid up to including notifying the warden you may never
+
+418
+01:25:32,659 --> 01:25:36,899
+discharge your firearm or bow with the intention of causing bodily harm to another person you may
+
+419
+01:25:36,899 --> 01:25:42,260
+not discharge your firearm or bow before 8 a.m you may not start firing or bow after 6 p.m you may
+
+420
+01:25:42,260 --> 01:25:46,180
+not discharge your firearm or bow from within 50 yards of any inhabited building you must have a
+
+421
+01:25:46,180 --> 01:25:50,340
+tag for any game animal you take or it will not be considered a legal game you may not never take
+
+422
+01:25:50,340 --> 01:25:54,500
+non-game wildlife you may never leave a wounded animal in the field you may not hunt the with
+
+423
+01:25:54,500 --> 01:25:57,539
+unclaimed trophies in the field all down game animals must be claimed before continuing to
+
+424
+01:25:57,539 --> 01:26:14,680
+hunt proper attire must be always warm when hunting 13 14 15 16 okay here we go this is
+
+425
+01:26:14,680 --> 01:26:39,859
+a 100 game you are the scammer what's this game called it's cabela's big game hunter 2005
+
+426
+01:26:46,170 --> 01:27:20,090
+um for the game cube it's 106 new uh unfortunately it is uh it's like
+
+427
+01:27:21,050 --> 01:27:32,380
+it's five dollars and 89 cents used i i think i paid more for the rabid's game i got yeah i got
+
+428
+01:27:32,380 --> 01:27:44,550
+scammed how much is that rabid's game rabid's uh party pack for the we how much was this rabid's
+
+429
+01:27:44,550 --> 01:27:55,899
+party like we yeah we're we're at a net loss we're at a net loss of three dollars and 12 cents
+
+430
+01:27:59,640 --> 01:28:04,279
+it's eight dollars and 52 cents used and five dollars and 89 cents for this
+
+431
+01:28:05,239 --> 01:28:14,600
+scammed out of three dollars no scammed out of what i wanted to i just can't even fucking understand
+
+432
+01:28:14,600 --> 01:28:18,439
+to cite your fire stand at the deciding booth and follow the instructions citing booths marked on
+
+433
+01:28:18,439 --> 01:28:28,420
+your pda all right let's go how is it marked on my pda where's my car how do i get to my pda
+
+434
+01:28:35,060 --> 01:28:48,170
+okay target range sighting booth we're gonna go to w let's go all right where are we going
+
+435
+01:28:48,170 --> 01:29:07,319
+we're gonna go we're gonna turn around and go this way okay straight ahead play super paper
+
+436
+01:29:07,319 --> 01:29:17,510
+mario i don't have that i have to find one animal i have to get my fucking five dollars and 89 cents
+
+437
+01:29:17,510 --> 01:29:36,970
+worth go back to the monster lab game wait what the this map is tiny this map is like this is like a
+
+438
+01:29:36,970 --> 01:29:57,289
+parking lot what okay it's okay visit right here okay what press a to enter sighting mode firearms
+
+439
+01:29:57,289 --> 01:30:12,090
+are most accurate if they have been cited use the control stick to cite your firearm is this
+
+440
+01:30:12,090 --> 01:30:54,100
+isn't this like a shotgun reload shoot something already what i'm trying got it all right did it
+
+441
+01:31:08,920 --> 01:31:32,390
+read motherfucker i'm i'm adjusting it to hit this thing got it okay good game sucks place open up
+
+442
+01:31:34,810 --> 01:31:45,880
+i was directed all right that was fun let's go oh you missed i just hit directly in the middle
+
+443
+01:31:46,520 --> 01:31:57,350
+just go back and play binding of isaac all right let's go find let's go find an animal
+
+444
+01:31:57,989 --> 01:32:05,180
+so i have to track an animal let's go let's just get out into the wilderness all right we're going
+
+445
+01:32:05,180 --> 01:32:11,159
+i have to go back to the lodge why do i have to go back to the lodge no i already got it i got it
+
+446
+01:32:11,159 --> 01:32:44,329
+i got everything let's go this is an invisible wall all right what's this lodge no i don't want
+
+447
+01:32:44,329 --> 01:33:00,680
+to go to the lodge it's a tree all right i got the tag so now what do i go there's an animal no
+
+448
+01:33:00,680 --> 01:33:07,350
+that's i thought that was like a bear on all fours that's my car fuck give me the car i gotta go to
+
+449
+01:33:07,350 --> 01:33:25,189
+needle leaf needle leaf all right i know where to go where is it all right i'm gonna need a leaf and
+
+450
+01:33:25,189 --> 01:33:32,409
+i'm gonna find an animal and then i'm gonna rip the disc out of the fucking tray straight down
+
+451
+01:33:32,409 --> 01:33:45,539
+it's supposed to be fucking braving rabbits all right which way needle leaf is down here
+
+452
+01:33:46,100 --> 01:34:07,140
+right down here here we go time to actually play the game i can't wait for the third pivot
+
+453
+01:34:07,140 --> 01:34:13,380
+to elevates that's gonna be great wait open the elevates disc and fucking make sure it's in there
+
+454
+01:34:15,350 --> 01:34:52,229
+all right take a we need to find a wolverine okay shoot why is it bullet cam how do i go into
+
+455
+01:34:52,229 --> 01:35:49,850
+sight mode it's isn't it a that it's nice stormtrooper training that's like fucking
+
+456
+01:35:49,850 --> 01:35:58,340
+mile away just catch your breath for a little bit fucking dark souls meter huge bits are you
+
+457
+01:35:58,340 --> 01:36:06,920
+serious holy shit freddy dread came in with 250 fucking dollars all right claim the trophy
+
+458
+01:36:07,880 --> 01:36:14,359
+you just value is 300 dollars oh cool that record makes high scores list
+
+459
+01:36:23,859 --> 01:37:26,949
+i don't give a shit about my mail it's way too fucking much fuck god damn it reload been
+
+460
+01:37:26,949 --> 01:37:31,109
+area for several days looking for columbian black-tailed deer and when he tried to take
+
+461
+01:37:31,109 --> 01:37:46,020
+down the trophy he wounded the animal and it escaped what's going on what what
+
+462
+01:37:49,180 --> 01:38:05,619
+freddy dread gave 250 dollars freddy thanks for the fucking 250 god damn dollars a lot of
+
+463
+01:38:05,619 --> 01:38:43,180
+money that's a shit load of fucking money 25 000 fucking bits there we go there we go go go go go
+
+464
+01:38:43,180 --> 01:38:45,739
+go right now now now now now now now now now right there right there right there
+
+465
+01:38:52,470 --> 01:38:55,859
+all right i gotta take this disc out i'm done i'm done i'm playing elevates
+
+466
+01:38:56,659 --> 01:39:36,260
+oh this is like hitting a golf ball i am at the driving range hitting golf balls at these
+
+467
+01:39:36,260 --> 01:40:15,289
+fucking poor animals i don't want to do this anymore oh look at these fucking things this is
+
+468
+01:40:15,289 --> 01:40:24,260
+so stupid i have to turn this off i have to turn this shit off i can't keep doing this just tear
+
+469
+01:40:24,260 --> 01:40:47,800
+it out now hold on one more all right i said uh no matter what one more after that fighting
+
+470
+01:40:47,880 --> 01:40:56,439
+where's my car my car is so far away hold on wait wait just wait a minute you have to have some
+
+471
+01:40:56,439 --> 01:41:04,539
+self-restraint get closer i know i know i just i can't believe i got one get i know i'm gonna i
+
+472
+01:41:04,539 --> 01:41:08,460
+gotta get the fucking car and get closer we're gonna don't i promise we're gonna play elevates
+
+473
+01:41:08,460 --> 01:41:26,630
+i swear play we don't have we sport sometimes it's gonna turn into shoot where's the all right
+
+474
+01:41:26,630 --> 01:41:34,260
+it's up here how do i not have that i don't know i know look there i know there are more copies of
+
+475
+01:41:34,260 --> 01:41:38,500
+we sports out in the wild and there are ants i know but why i didn't want one
+
+476
+01:41:59,420 --> 01:42:13,880
+all right car two hundred dollars uh yeah i've wasted like fucking five grand of ammo
+
+477
+01:42:14,680 --> 01:42:27,529
+this is the same one all right i'm gonna get close can i shoot while on horseback
+
+478
+01:42:28,170 --> 01:42:43,779
+not hit wildlife with your vehicle these are giant raccoons these are giant raccoons
+
+479
+01:42:44,739 --> 01:42:56,569
+all right i won't i won't i won't i won't i won't i won't
+
+480
+01:43:17,800 --> 01:43:41,699
+hundred dollars for a new copy yeah what this is what what hunting this is we use atvs
+
+481
+01:43:41,699 --> 01:43:50,649
+and long scope rifles and like armor piercing fucking ammo no you get out there with two
+
+482
+01:43:50,649 --> 01:43:58,920
+fucking oven mitts on and well let's see what happens two oven mitts and a stick
+
+483
+01:43:59,640 --> 01:44:23,289
+oh look at all this technology we're using this isn't an mmo all right i'm done i'm done i'm done
+
+484
+01:44:23,289 --> 01:44:29,880
+i'm done i'm done danger be more careful in the future this is your second violation
+
+485
+01:44:30,600 --> 01:45:06,250
+is it all right how do i like it oh my god i stick aiming is so hard to use
+
+486
+01:45:06,250 --> 01:45:09,930
+no no i'm done get it out get it out of the car i'm not doing it

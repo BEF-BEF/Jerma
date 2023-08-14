@@ -1,0 +1,125 @@
+[0.31s -> 14.76s]  Hey, what is going on everybody? Jerma here with a Team Fortress 2 gameplay commentary.
+[14.76s -> 28.94s]  And tonight we got the update to discuss. This brand new update, this huge freaking update that, frankly, it's going to be very hard to talk about because there are so many changes that Valve has made to this game.
+[28.94s -> 39.94s]  So for the purposes of not confusing people and rambling on and on, I'm just going to cover, in this video at least, the new item changes, the new stat changes on all the items.
+[39.94s -> 44.94s]  Because there were a lot of them, and I'm going to try to go through them as fast as I can in a small condensed video.
+[44.94s -> 51.94s]  So, without further ado, we're going to get started here. We're going to start with the scout. We're going to go over the weapon changes that got for him. So let's go baby, speed!
+[51.94s -> 60.56s]  So first up on the list is the Criticola. And this item's change was actually given to a couple other items as well in this update.
+[60.56s -> 76.56s]  And what it is, is you no longer take mini crits while it is active. You just take a static 25% extra damage. And how this can be explained, I guess, mini crits is 35% damage, or 35% extra damage on top of what you normally would do.
+[76.56s -> 86.56s]  So this is really just a 10% buff to this item. You just take 10% less than a mini crit, if that makes any sense, because obviously 25 is 10% less than 35.
+[86.56s -> 95.86s]  And the second thing that they changed is the shortstop. This actually got a very weird change, and I really don't understand why this is, because it kind of like broke the game a little bit. Well, let's go over it.
+[95.86s -> 106.36s]  While it's active, you get 20% more healing from all sources. That includes Medi beams, that includes going over health kits, that includes anything that heals you, you get a 20% bonus too.
+[106.36s -> 121.60s]  But they added an 80% push vulnerability, which is very, very odd. Essentially what happens here is when you get shot by a force in nature now, or when you get hit by a sentry shooting you back, or a soldier launching you in the air, you go friggin' flying.
+[121.60s -> 131.60s]  It is outrageous how far you go, and I'm sure a lot of you guys have seen the GIF on the TF2 Reddit of the scout getting shot from behind by the force of nature, and he goes across the whole map in bad water.
+[131.60s -> 145.60s]  So I don't know why this was added to this, I have no explanation for this, it's just crazy. So that's there now, and enjoy flying across maps as Superman as the scout now. So that's a thing, go have fun doing it.
+[145.60s -> 152.60s]  Now, we're gonna talk about the winger, which is the last thing that they did. Well, not the last thing, but the last static item thing that they changed.
+[152.60s -> 165.60s]  And what they added, the winger now gives you a 25% jump height increase. So that means you jump 25% higher when it's active. It's showing on the screen right now, you can see the difference between having it and not having it.
+[165.60s -> 180.84s]  I really like this. It makes this weapon not completely and almost totally useless like it was before. Because now, if you equip this, the atomizer, and the force of nature, you're gonna be probably finding some pretty cool jump routes that were not available before.
+[180.84s -> 186.84s]  So a lot of you great scouts out there, go have fun with this and go show me some fuckin' cool stuff, dude. Alright, let's move on to the next one.
+[188.27s -> 197.27s]  So the soldier got a couple of new changes. He got some pretty good changes, and those go as follows. The battalion's backup and the conqueror are now really, really good and useful.
+[197.27s -> 211.27s]  And I'll go over the battalion's backup first. So what they did is made it charge on damage only. You do not have to take damage anymore, because that was so difficult to have that happen unless you had a medic on the team or a good engineer with a dispenser right next to you.
+[211.27s -> 224.27s]  It's now damage only just like the buff banner, and they added an additional 15% sentry damage resistance to all teammates around you. So it blocks a bunch of damage and it blocks a lot of sentry damage now. It's actually really good.
+[224.27s -> 239.27s]  The conqueror is now one of my favorite items in the game. I can safely say I love this item. I'm probably gonna keep this on rather than the buff banner, because same deal, it generates from damage dealt, not from being damage taken.
+[239.27s -> 252.27s]  And when this thing is active, your entire team that is around you, they have to be around you in a radius, is going to run incredibly fast. It's as if you hit them with the disciplinary action, and it's amazing.
+[252.27s -> 264.27s]  I love this new change in this item. I think it makes it so much more useful. Pushing points now and blocking people back. You're watching on the screen. Everybody is running so fast out to their sort of spawn area that they can't even keep up.
+[264.27s -> 275.45s]  It's just overwhelming, having heavies, demomens, all like the slower classes, soldiers, all running at the same time, and getting healed. They did not remove the heal that you give to you and your teammates.
+[275.45s -> 286.20s]  So this thing is amazing now. I highly recommend you put this on, because it's so hard to deal with. The escape plan got a change as well. It's pretty small, it's pretty minor.
+[286.20s -> 295.20s]  All it really does is make it so you should take it off, because you shouldn't wear it anymore, and that's really it. It makes it so you're marked for death while it's active.
+[295.20s -> 307.44s]  And as a lot of you guys know, when you pull the escape plan out, you're trying to escape, because you don't have very much health. And being marked for death when you do that means you're just going to die in one second.
+[307.44s -> 319.44s]  So I think Valve wanted to say, hey, take the escape plan off and do some of the other melees, because it's so overused by everybody that I like this change. It makes it so you can't use it anymore.
+[319.44s -> 331.19s]  And so moving on to the rocket launcher changes. I love the Kalmangler. Can we talk about the Kalmangler real quick? Oh my god, I love this thing now. They completely changed everything you know about the Kalmangler.
+[331.19s -> 343.19s]  Not really, but sort of. It's now an actual rocket launcher. Rocket launcher. It's now an actual rocket launcher, which means it actually looks like a rocket now. It actually looks like you're shooting rockets, not like laser penises.
+[343.19s -> 353.19s]  Like, I'm so happy about this. It looks much better, it sounds much better. And they took the five rockets down to four, they removed the damage penalty, and they removed the reload penalty.
+[353.19s -> 363.19s]  So all they really did is say, hey, here's the default rocket launcher that you don't ever have to reload and does a lot less damage to buildings. And you can still do the right click. That thing still exists.
+[363.19s -> 373.50s]  I love it. I'm so happy. I'm glad it's there. I'm glad it's in the game. I'm glad they made it worth equipping now, which sadly I cannot really say that about the Liberty launcher.
+[373.50s -> 390.50s]  The Liberty launcher got a massive change. They took away the three rockets. It now has four rockets, but they added a 25% damage penalty to it. So it kind of sucks. It's not that good at all, because why wouldn't you just put on the default at this point?
+[390.50s -> 399.50s]  I know the rockets travel faster, but just because the rockets travel faster, if you want to shoot faster rockets, I would put on the direct hit and try to shoot people in the face and do way more damage.
+[399.50s -> 413.80s]  This thing does like no damage now. You're going to have to shoot a heavy like four times at point blank range to kill him if he has full health. And that really sucks because with the default, it's only like two and a half to three of a heavy near full health.
+[413.80s -> 422.80s]  So that I don't know if I would ever want to put this on. I think the 25% is a little too much. I think they should tweak it in a different way or change it altogether. I don't think this really works that well.
+[422.80s -> 436.42s]  And now we're going to talk about the Pyro, who really only got one stat change on his items. Of course, they removed the gas jockey, so that doesn't exist anymore. They fixed a bug with the flog istinator, so it doesn't reset when you go to a resupply cabinet.
+[436.42s -> 450.42s]  But the major change is the power jack. The power jack now gives you 15% increased movement speed while you have it out, but you also take 20% more damage from all sources just for having the thing on.
+[450.42s -> 463.22s]  That's a little ridiculous, if you ask me, because the gas jockey set was 10% damage vulnerability only on bullets. I don't like the, the just let's add 20% damage vulnerability.
+[463.22s -> 475.22s]  They did it to a few items, and I don't really agree with it because it kind of makes this item not really worth it. I mean, I would much rather have on the extinguisher or even the home wrecker at this point.
+[475.22s -> 484.40s]  I mean, that's just too much. 20% damage just to be able to run 15% faster when you have it out. I don't know if I agree with that, but it's there. It's changed. Let me know what you guys think about it.
+[484.40s -> 491.40s]  Let me know what you guys think about all these changes as we're going along here. And let's now move on. That's all for the Pyro. Let's talk about the Demoman.
+[491.40s -> 503.22s]  The major change to the Demoman comes to the loose cannon, which is a little bit redesigned. The cannon balls don't last very long. They used to last like three seconds and then they would explode.
+[503.22s -> 515.22s]  But what it does now is it in two seconds, those little balls are going to explode and they added a mechanic, which was very confusing at first. And it took me a little while to actually understand what was happening.
+[515.22s -> 526.39s]  But it's called the double dunk. So when you hit somebody directly with a loose cannon and they get hit with the explosion afterwards, you're going to do a mini crit with that explosion.
+[526.39s -> 536.39s]  It has to happen a half second after you directly hit somebody and it does not stun them. A lot of people probably thought that like I did when I first saw it. I was like, what, bonk? Donk? No.
+[536.39s -> 543.39s]  All it means is that the blast did mini crit damage. That's all it means. Doesn't mean anything else.
+[543.39s -> 554.02s]  So the second and final thing that was added to the Demoman or changed on the Demoman is the charge and charge. They added a afterburn immunity to the charge and charge.
+[554.02s -> 564.02s]  If a Pyro lights you on fire, it's as if you were another Pyro. You just do not light on fire at all. You just take the flame damage if he's holding it on you.
+[564.02s -> 573.19s]  So with this thing on, you are like immune to Pyros. It's pretty ridiculous because you already have the reduction in damage from flames anyways.
+[573.19s -> 580.19s]  So for a Pyro to be able to really successfully kill you is air blasting them away and shooting them over and over again with a shotgun.
+[580.19s -> 586.19s]  That's really the only thing I can think of because you can't crit them anymore with the flare guns because they don't light on fire.
+[586.19s -> 594.88s]  All right, now it's time to talk about Heavy. So what happened to Heavy is he got a couple of changes specifically to his food.
+[594.88s -> 600.88s]  Nothing was changed on the sandwich, but the Buffalo Steak Sandwich got a little interesting change.
+[600.88s -> 607.88s]  Just like the Criticola, they took away the mini crits that you take and made it a 25% static damage taken.
+[607.88s -> 615.88s]  So again, it's just like a 10% reduction in damage because mini crits are 35%. Now it's 25%, pretty self-explanatory.
+[615.88s -> 625.06s]  And the Dalakos Bar got a change as well, and it's really not that great. All they did is they made it heal 10 more per bite.
+[625.06s -> 632.06s]  So instead of 15 per bite, it's now 25 health per bite, but you still have to eat like three of these if you get to the bottom of your health pool there.
+[632.06s -> 637.06s]  If you have like 20 or 30 health as a Heavy, you're going to have to eat a bunch of these to even get close to full health.
+[637.06s -> 646.06s]  And it really sucks because I honestly thought that this was going to be, not only does it heal you a little more, but maybe you would add to your over-heal.
+[646.06s -> 654.06s]  And that is not the case. It's still capped out at 350. Too bad that it didn't get to something like 400 because that would be pretty awesome.
+[654.06s -> 657.94s]  But no, it's still not the greatest item in the world.
+[657.94s -> 668.11s]  And the Engineer got a bunch of changes, but the changes to the Engineer are really, they're hard to talk about because they're very, very minor changes.
+[668.11s -> 674.11s]  For instance, the Gunslinger, the Mini Sentry got a nerf, but it wasn't really even a nerf. It was just a bug removal.
+[674.11s -> 679.11s]  They made it so it couldn't heal when it was being constructed. Now that's great. That's a good thing.
+[679.11s -> 686.11s]  It's good that they're removing like bugs like that. But stuff like the Rescue Ranger, the Rescue Ranger got changed, a very minor increase in the damage per bolt.
+[686.11s -> 695.11s]  They made it so it heals the building a little bit by 25 more per bolt. It's very small things, but the Short Circuit got a pretty interesting change.
+[695.11s -> 704.42s]  Now, what the Short Circuit does, the tooltip is kind of incorrect. The tooltip says 18 ammo per shot, but that's not really the case.
+[704.42s -> 712.42s]  It's still 36 per shot, but if you successfully remove a projectile with it, then it is 18.
+[712.42s -> 719.42s]  So they reduced the amount of metal it takes to use this thing if you actually get a projectile removed.
+[719.42s -> 723.42s]  So the tooltip can be a little confusing because it just says 18, but that's not the case.
+[723.42s -> 732.42s]  And they also changed the Wrangler. They made it so it's a little less accurate when you're manually controlling it and how the shield now fades after one second after you die.
+[732.42s -> 736.42s]  Very, very minor changes, but we'll move on from that. We'll talk about the Medic changes.
+[736.42s -> 742.42s]  We'll talk about the big, huge Medic change, which is really awesome, dude, so stay tuned in like one second.
+[742.42s -> 755.34s]  The big Medic change is the change to the Quick Fix. The Quick Fix can now overheal. It's a 50% overheal, which everybody has kind of been asking for for a long time.
+[755.34s -> 765.34s]  The Quick Fix was a little underwhelming. It was still a lot of fun. I loved using the Quick Fix, but without the overheal, it really just fell short in a lot of places.
+[765.34s -> 773.34s]  And now it actually has a small overheal, and when you ubercharge, if nobody's around, you can heal yourself at 400%. It's really, really great.
+[773.34s -> 780.08s]  I'm so glad that they added that to now make this Medigun on par sort of with the other ones.
+[780.08s -> 788.08s]  So besides that, the Crusader's crossbow got a change. Well, not really even a change. It's just they changed the effects on it. They made it look a little better.
+[788.08s -> 791.08s]  They fixed a little bug on it, but not really anything to really talk about, really.
+[791.08s -> 804.08s]  But the Vaccinator. The Vaccinator got a pretty interesting buff, because now when you ubercharge somebody with the Vaccinator, not only does it give the 75% reduction to that, whatever you have selected for your resistance type,
+[804.08s -> 810.08s]  but whatever you have selected for the resistance type, you are now immune to crits from that type.
+[810.08s -> 816.08s]  So now you can counter critscreegs with this weapon, which is something that was very, very necessary.
+[816.08s -> 823.08s]  I know a lot of people are still going to say, well, who cares? You can counter a critscreeg with an ubercharge as well, which is true.
+[823.08s -> 831.08s]  But you also don't build the ubercharge nearly as fast as you can build one of those little squares on the Vaccinator.
+[831.08s -> 836.08s]  So think of it like that. It's a little mini ubercharge that you can actually protect people from crits now.
+[836.08s -> 842.77s]  The Sniper got a few changes. We'll talk about them. Mainly the Cozy Camper and the Darwin's Danger Shield.
+[842.77s -> 852.77s]  I would talk about the Bizarre Bargain, but it's such a minor change that all they did with the Bizarre Bargain is they made the starting charge rate 40% instead of 20%,
+[852.77s -> 857.77s]  and they capped the max charge rate at 200%. Pretty self-explanatory.
+[857.77s -> 864.77s]  But the Cozy Camper got a change, and the Darwin's Danger Shield, like I said, the Cozy Camper now does not have a movement penalty.
+[864.77s -> 869.77s]  You do not turn into a brass beast heavy when you scope in anymore. That does not happen.
+[869.77s -> 876.77s]  What they did add to this, though, is a 20% damage vulnerability from all sources.
+[876.77s -> 883.33s]  And the Darwin's Danger Shield also got a change. Pretty significant one, actually, if you think about it.
+[883.33s -> 894.33s]  What they did is, on top of the 25 health that you get by equipping it, you just get to 150, they also added a 15% resistance to all bullet damage.
+[894.33s -> 903.33s]  Now, what that means is if you get headshot by a sniper that is quickscoping you, let's say he zooms in, doesn't get a charge, and he headshots you,
+[903.33s -> 909.33s]  it's not going to kill you. It's only going to do 143 damage to you and leave you with 7.
+[909.33s -> 916.50s]  So it kind of took the Crocostyle Kit, and they turned the set bonus into the Darwin's Danger Shield.
+[916.50s -> 923.50s]  They nerfed it a little bit, they tweaked it, and the Darwin's Danger Shield is now the Crocostyle Kit, because that Crocostyle Kit set bonus does not exist.
+[923.50s -> 933.50s]  No sets exist anymore. I like it, I think it's cool, but it has, could you guess, a 20% damage vulnerability to explosions.
+[933.50s -> 939.87s]  But that's it for the sniper. We are going to move on to the final class, the spy, who got really one item change.
+[939.87s -> 945.18s]  And, well, two item changes, because the Dead Ringer got changed as well as the Letrange.
+[945.18s -> 951.18s]  But the way that they did it, they're trying to change the spy meta a little bit, and we'll talk about that,
+[951.18s -> 960.18s]  because what the Letrange does now is adds 40% cloak duration to you as well as the cloak per shot.
+[960.18s -> 967.18s]  So as you're watching on the screen right now, you can walk around with the default invisibility watch for ages.
+[967.18s -> 974.42s]  It lasts so long, I feel like I'm using the cloak and dagger and standing still at some points, because it's so insanely long.
+[974.42s -> 981.72s]  And this is effectively going to make a lot more people take off their ambassadors and hopefully put on this,
+[981.72s -> 986.72s]  because there's so many people using the ambassador now, it's almost like the default for a lot of people.
+[986.72s -> 992.72s]  But the Dead Ringer nerf, the big thing to the Dead Ringer now, guys, is if you feign death with it,
+[992.72s -> 998.72s]  it is no longer going to protect you for like six years while you are feigned.
+[998.72s -> 1006.72s]  If a pyro is chasing you, if like three or four people are chasing you, shooting you, every time you get hit by something, it drains your cloak.
+[1006.72s -> 1011.72s]  So you can't just live forever as a Dead Ringer spy anymore, which is a huge welcome change,
+[1011.72s -> 1016.90s]  because now you'll see a lot more people running around with the default invisibility watch.
+[1016.90s -> 1019.90s]  So I'm very happy about this. I'll be using the default a lot more.
+[1019.90s -> 1028.90s]  It seemed forever now, since like 2009, that it was like 70-30% for people using the Dead Ringer to people using anything else.
+[1028.90s -> 1032.90s]  So it's a great change. All these changes are pretty good, except, like I said,
+[1032.90s -> 1037.90s]  I don't really like the like just straight up 20% damage penalty on a lot of these items, but it's cool.
+[1037.90s -> 1043.90s]  They're balancing things, they're trying to get back into making the game a lot more balanced around the items now.
+[1043.90s -> 1045.90s]  And that's where I'm going to wrap up the video, guys.
+[1045.90s -> 1050.90s]  Wanted to get this done in like 15 to 20 minutes. I hope I was successful, I think I was.
+[1050.90s -> 1052.90s]  We're less than 20, I believe. We are right now.
+[1052.90s -> 1055.90s]  So before this video hits 20 minutes, I'm going to say my goodbyes, guys.
+[1055.90s -> 1059.90s]  Tell me what you think. Let me know in the comments section what you think about all these changes, all these crazy things.
+[1059.90s -> 1062.90s]  And maybe I will do another video, I'm not sure if I'm going to do another one.
+[1062.90s -> 1065.90s]  But it's 20 minutes, I gotta go, so take care, everybody have a good time. Bye.

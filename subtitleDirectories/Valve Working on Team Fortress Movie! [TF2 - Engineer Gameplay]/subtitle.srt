@@ -1,0 +1,459 @@
+1
+00:00:00,310 --> 00:00:10,160
+Hey, what is going on, everybody?
+
+2
+00:00:10,160 --> 00:00:13,960
+Jirba here with a Team Fortress 2 gameplay commentary.
+
+3
+00:00:13,960 --> 00:00:18,359
+And tonight, gonna be playing as the Engineer with the Southern Hospitality,
+
+4
+00:00:18,359 --> 00:00:21,940
+the Frontier Justice, and the Short Circuit. So,
+
+5
+00:00:21,940 --> 00:00:25,039
+what do I want to talk about in this video? You probably saw the title already.
+
+6
+00:00:25,039 --> 00:00:27,739
+You probably are wondering what the hell that means.
+
+7
+00:00:27,739 --> 00:00:30,839
+The TF2 movie, Valve working on a TF2 movie.
+
+8
+00:00:30,839 --> 00:00:34,439
+Let's back up for a second here, because this is some incredibly exciting news
+
+9
+00:00:34,840 --> 00:00:37,640
+that I got tipped off on a couple of days ago.
+
+10
+00:00:37,640 --> 00:00:40,039
+Somebody actually sent me a message saying this,
+
+11
+00:00:40,039 --> 00:00:42,439
+and I was like, really? Is this really gonna happen?
+
+12
+00:00:42,439 --> 00:00:45,439
+So, let me back up for a second. According to Valve,
+
+13
+00:00:45,439 --> 00:00:49,740
+according to Gabe Newell himself, he actually was on a podcast
+
+14
+00:00:49,740 --> 00:00:52,740
+no more than two or three days ago talking about this.
+
+15
+00:00:52,740 --> 00:00:57,409
+He said they are currently working on a Team Fortress 2 movie.
+
+16
+00:00:57,409 --> 00:01:03,210
+And he said that it initially started as a 90-minute feature-length film,
+
+17
+00:01:03,210 --> 00:01:06,810
+but they decided to scrap all that. They said that was a little too much work for them.
+
+18
+00:01:06,810 --> 00:01:11,780
+But my goodness gracious, guys, we are getting a TF2 movie.
+
+19
+00:01:11,780 --> 00:01:15,180
+Now, there is not many details about this, really, at all.
+
+20
+00:01:15,180 --> 00:01:18,879
+And a lot of us were wondering, back when they did the Adult Swim promos,
+
+21
+00:01:18,879 --> 00:01:21,780
+and when they started working with Adult Swim and Cartoon Network,
+
+22
+00:01:21,780 --> 00:01:26,280
+a lot of us were thinking, my God, are they gonna start working on a TF2 show
+
+23
+00:01:26,280 --> 00:01:28,980
+for Adult Swim or a TF2 show for Cartoon Network?
+
+24
+00:01:28,980 --> 00:01:31,980
+That's what was going through the cogs in the brains of a lot of us fans
+
+25
+00:01:32,079 --> 00:01:34,579
+and a lot of us enthusiasts of this game.
+
+26
+00:01:34,579 --> 00:01:37,780
+But nothing really ever came out. Nothing really came to fruition with that.
+
+27
+00:01:37,780 --> 00:01:40,680
+And I don't want to say that they might be working with Adult Swim,
+
+28
+00:01:40,680 --> 00:01:44,180
+because I don't know. I'm pretty sure, according to Gabe Newell,
+
+29
+00:01:44,180 --> 00:01:45,980
+that it's going to be in source filmmaker.
+
+30
+00:01:45,980 --> 00:01:49,280
+It's not going to be like a cartoon, an animated cartoon,
+
+31
+00:01:49,280 --> 00:01:50,879
+like an animated feature or something like that.
+
+32
+00:01:50,879 --> 00:01:53,180
+It's going to be in source filmmaker.
+
+33
+00:01:53,180 --> 00:01:57,379
+And it's going to be at least 15 minutes long, according to Gabe Newell.
+
+34
+00:01:57,379 --> 00:02:00,579
+So this could... I don't know what route they're going to take with this.
+
+35
+00:02:00,579 --> 00:02:04,750
+Are they going to set up a system where we could have potential sequels,
+
+36
+00:02:04,750 --> 00:02:08,250
+where this could be a monthly or a bimonthly, yearly?
+
+37
+00:02:08,250 --> 00:02:09,449
+Nobody knows at this point.
+
+38
+00:02:09,449 --> 00:02:13,550
+But all we know for certain is they are currently working on this.
+
+39
+00:02:13,550 --> 00:02:16,849
+And I want to get your guys' opinion on this, because this is huge news.
+
+40
+00:02:16,849 --> 00:02:22,050
+I'm actually pretty surprised that not very many people are talking about this right now.
+
+41
+00:02:22,050 --> 00:02:24,650
+This is massive news. This is not just a little thing like,
+
+42
+00:02:24,650 --> 00:02:28,250
+oh, you know, Meet the Pyros are going to be coming out at some point, like in the...
+
+43
+00:02:28,250 --> 00:02:30,949
+No, no, this is going to be an entire story.
+
+44
+00:02:30,949 --> 00:02:33,849
+It's going to be a beginning, middle, and an end.
+
+45
+00:02:33,849 --> 00:02:37,650
+A 15 to 20, 30 minute. Who knows how long they're going to make this.
+
+46
+00:02:37,650 --> 00:02:40,349
+But this is big deal. This is a big deal.
+
+47
+00:02:40,349 --> 00:02:41,949
+I don't know where they're going to go with it, though.
+
+48
+00:02:41,949 --> 00:02:44,849
+If you guys have any idea what they could potentially do,
+
+49
+00:02:44,849 --> 00:02:47,750
+are we going to start over with the Meet the Team videos?
+
+50
+00:02:47,750 --> 00:02:50,349
+Are they going to come out with like Meet the Engineer again,
+
+51
+00:02:50,349 --> 00:02:52,050
+but have it be 15 minutes long?
+
+52
+00:02:52,050 --> 00:02:54,550
+Are we going to get like new Meet the Team videos?
+
+53
+00:02:54,550 --> 00:02:58,789
+Or is it going to be, here's the team, you already met the team,
+
+54
+00:02:58,789 --> 00:03:00,689
+now here's what they do on a daily basis.
+
+55
+00:03:00,689 --> 00:03:05,060
+Like, oh, here's the engineer going and buying like a ham at the grocery store.
+
+56
+00:03:05,060 --> 00:03:07,659
+And there he is. He's checking out right now. $22.99.
+
+57
+00:03:07,659 --> 00:03:09,960
+Is that how much a ham costs? I don't know. Probably not.
+
+58
+00:03:09,960 --> 00:03:11,960
+It's probably more expensive. I don't know. I have no idea.
+
+59
+00:03:11,960 --> 00:03:14,259
+But anyways, where are they going to go with this?
+
+60
+00:03:14,259 --> 00:03:23,030
+I'm so excited because this means that not only is Team Fortress going to be as a series, a game,
+
+61
+00:03:23,129 --> 00:03:26,229
+but now it's going to be seen as an entirely new media.
+
+62
+00:03:26,229 --> 00:03:33,030
+It's going to be seen as a movie, as a television show, as a complete full force media front.
+
+63
+00:03:33,030 --> 00:03:35,810
+Team Fortress is not a game anymore.
+
+64
+00:03:35,810 --> 00:03:37,409
+It's a piece of freaking art.
+
+65
+00:03:37,409 --> 00:03:42,409
+And that's why I love this so much. Games are becoming not just video games anymore.
+
+66
+00:03:42,409 --> 00:03:47,810
+This is becoming whole series, whole entirely new ideas, new fronts, new media.
+
+67
+00:03:47,810 --> 00:03:51,710
+It's, it's, this is so exciting, guys, to see this because think about it.
+
+68
+00:03:51,710 --> 00:03:53,710
+Really think about this for a second.
+
+69
+00:03:53,710 --> 00:03:56,210
+This is probably going to be one of the first.
+
+70
+00:03:56,210 --> 00:04:01,909
+Well, actually, I guess you could say red versus blue and a couple others in the machinima category.
+
+71
+00:04:01,909 --> 00:04:03,909
+Because remember, not machinima the company.
+
+72
+00:04:03,909 --> 00:04:08,610
+I'm talking about the machinima, the term machinima, where you take a game engine
+
+73
+00:04:08,610 --> 00:04:14,050
+and you create some type of media with it, like a short film or a movie or a show.
+
+74
+00:04:14,050 --> 00:04:15,650
+That's what I'm talking about here.
+
+75
+00:04:15,650 --> 00:04:19,750
+And with something like this, when a company like Valve puts together these machinimas,
+
+76
+00:04:19,750 --> 00:04:22,250
+because essentially that's what it is, it's the source filmmaker.
+
+77
+00:04:22,250 --> 00:04:25,149
+They take their in-game engine and they make a movie from it.
+
+78
+00:04:25,149 --> 00:04:28,850
+If this takes off, if they for some reason blow out some deal
+
+79
+00:04:28,850 --> 00:04:33,750
+where they have like a 15-minute movie or like a 30-minute movie and it goes on Adult Swim,
+
+80
+00:04:33,750 --> 00:04:36,949
+or even if it doesn't, it doesn't even have to go on some major TV network.
+
+81
+00:04:36,949 --> 00:04:38,550
+It might just be on YouTube.
+
+82
+00:04:38,550 --> 00:04:39,949
+Nobody knows at this point.
+
+83
+00:04:39,949 --> 00:04:41,750
+But let's just say something like that happened.
+
+84
+00:04:41,750 --> 00:04:46,350
+Let's just say you see you turn on your TV in like a few months or six months or whatever.
+
+85
+00:04:46,350 --> 00:04:48,949
+Whenever they finish this damn thing, who knows when they're going to do that.
+
+86
+00:04:48,949 --> 00:04:54,649
+But let's say you turn your TV on and you see, oh, Team Fortress like 8 p.m., 7 p.m. Central Time.
+
+87
+00:04:54,649 --> 00:04:56,949
+Like make sure you tune in on NBC.
+
+88
+00:04:56,949 --> 00:05:02,750
+That is going to change the world because so many people that have never had any idea
+
+89
+00:05:02,750 --> 00:05:09,149
+what this series was or what this franchise was or what machinima is and what gaming videos are.
+
+90
+00:05:09,149 --> 00:05:13,930
+This could change the world, guys, when it comes to gaming content as art.
+
+91
+00:05:13,930 --> 00:05:15,430
+And we have been making strides.
+
+92
+00:05:15,430 --> 00:05:19,529
+I actually talked about this in a video before about video games.
+
+93
+00:05:19,529 --> 00:05:21,329
+They're not video games anymore.
+
+94
+00:05:21,329 --> 00:05:24,430
+We are not playing a video game anymore.
+
+95
+00:05:24,430 --> 00:05:30,829
+What this is, this is turning into a whole new form of expression, a whole new form of media.
+
+96
+00:05:30,829 --> 00:05:33,129
+And it is incredibly exciting to see that.
+
+97
+00:05:33,129 --> 00:05:37,129
+No longer is it just, oh, what's little Billy doing over there?
+
+98
+00:05:37,129 --> 00:05:40,230
+Oh, well, he's just playing that Super Mario, brother.
+
+99
+00:05:40,230 --> 00:05:41,930
+It's like, no, that's not what he's doing.
+
+100
+00:05:41,930 --> 00:05:43,029
+That's not it anymore.
+
+101
+00:05:43,029 --> 00:05:45,730
+It's not just pick it up for 15 seconds.
+
+102
+00:05:45,730 --> 00:05:47,829
+And did you beat the level?
+
+103
+00:05:47,829 --> 00:05:49,629
+Yes, you beat level two.
+
+104
+00:05:49,629 --> 00:05:52,430
+These are completely, this is completely changing the world.
+
+105
+00:05:52,430 --> 00:05:54,629
+And I'm so happy to see this, guys.
+
+106
+00:05:54,629 --> 00:05:56,029
+And that's my time.
+
+107
+00:05:56,029 --> 00:05:59,430
+I think I'm over talking now, but thank you so much for watching everybody.
+
+108
+00:05:59,430 --> 00:06:01,029
+This is exciting news.
+
+109
+00:06:01,029 --> 00:06:03,730
+If you knew about this beforehand, then awesome.
+
+110
+00:06:03,730 --> 00:06:07,629
+But I did not know about this till at least like three or four days ago.
+
+111
+00:06:07,629 --> 00:06:12,329
+So it's interesting to know that they're working on this and we're going to get a TF2 freaking movie.
+
+112
+00:06:12,329 --> 00:06:15,199
+It's actually going to be a thing, guys.
+
+113
+00:06:15,199 --> 00:06:17,300
+But yeah, I'll see you guys all next time.
+
+114
+00:06:17,300 --> 00:06:20,399
+And of course, thank you so much for watching and I'll see you all soon.
+
+115
+00:06:20,399 --> 00:06:21,699
+Take care, everybody.

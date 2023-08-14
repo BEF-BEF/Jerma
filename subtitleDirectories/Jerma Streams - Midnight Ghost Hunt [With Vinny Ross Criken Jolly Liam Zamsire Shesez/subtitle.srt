@@ -1,0 +1,5455 @@
+1
+00:00:01,270 --> 00:00:11,240
+Oh hello, how are you? Alright, currently in the middle of a game. We've got a big thing going
+
+2
+00:00:11,240 --> 00:00:21,030
+on here today, but real quick before we get started. Really quickly. Hold on, I'm hearing
+
+3
+00:00:21,030 --> 00:00:27,030
+two things in my ear at the same time. We're doing Midnight Ghost Hunt with a huge group.
+
+4
+00:00:27,589 --> 00:00:32,979
+Let me go over and do this real quick though. I know Shito is supposed to be on camera. Let's
+
+5
+00:00:32,979 --> 00:00:53,100
+go ahead and do that real quick. One sec. Okay, so here you go. Here we go. You guys ready?
+
+6
+00:01:07,799 --> 00:01:17,299
+It doesn't have batteries.
+
+7
+00:01:22,439 --> 00:01:26,760
+Alright, I ate it. Alright, we're gonna play it again. I don't know why there's no batteries
+
+8
+00:01:26,760 --> 00:01:32,500
+every time. Alright, I gotta get into the game. Welcome everybody. We're playing. There's no facecam
+
+9
+00:01:32,500 --> 00:01:47,829
+today. Turn it off. Alright, here we go. I'm currently live right now. I just want to let
+
+10
+00:01:47,829 --> 00:02:02,010
+everybody know that there is a live audience watching you right now. Hi. Okay, so we...
+
+11
+00:02:02,010 --> 00:02:07,379
+What's the... Oh, I'm not talking to them. Why am I doing zero damage? I have to hold the button
+
+12
+00:02:07,379 --> 00:02:15,159
+down. What? I will kill you. Can somebody give like a quick 15 second like how this game works?
+
+13
+00:02:17,259 --> 00:02:25,449
+Oh, wait, wait, wait, wait, wait. This proximity, I can hear you. I have to find out where you are.
+
+14
+00:02:25,449 --> 00:02:37,659
+Where are you? Stunning. I have no idea what's going on. Oh, I tabbed out and I died, I think.
+
+15
+00:02:38,460 --> 00:02:50,969
+What do you mean no audio? There's audio. You can hear that. How do you guys not hear that? Turn it up.
+
+16
+00:02:50,969 --> 00:03:02,759
+I gotta hit you, dude. What was that? You can hear that just fine. Can you hear me right now?
+
+17
+00:03:03,479 --> 00:03:08,520
+I can hear you, yeah. Okay, okay, cool. I think I died. You guys can resuscitate me if you guys
+
+18
+00:03:08,520 --> 00:03:13,240
+get the defibrillator thing. Sorry, yeah, I got distracted by several ghosts running around.
+
+19
+00:03:13,240 --> 00:03:20,919
+Yeah, I alt tab to start capture and... You got murdered? I got murdered. Okay, I got you.
+
+20
+00:03:20,919 --> 00:03:28,310
+This game is fun. Yeah, I'm liking it so far. All right. Oh, you're all screwed. Killer plant behind
+
+21
+00:03:28,310 --> 00:03:38,969
+you. Holy shit. Oh, I'm back. I got guy behind, guy behind. I don't know what I'm doing. I'm knocked
+
+22
+00:03:38,969 --> 00:03:44,169
+out. Neither do I. Am I shooting teammates? What's happening?
+
+23
+00:04:03,509 --> 00:04:07,270
+I don't have time, Ross. I'm sorry. No, you're all good, man. Okay, are we good?
+
+24
+00:04:07,669 --> 00:04:17,430
+Yeah. Good try. That's better. Okay, all right. That was a cool little warmup.
+
+25
+00:04:17,430 --> 00:04:23,060
+It's all right. Yeah. Now I understand how the game works. All right, so we got Vinny,
+
+26
+00:04:23,060 --> 00:04:28,339
+we got Criken, we got Ross, we got other people. I'm gonna end this lobby, hop back into the call,
+
+27
+00:04:28,339 --> 00:04:35,769
+we'll get started, and then we'll hop into a new one. Sounds good. Okay, sounds good. All right,
+
+28
+00:04:35,769 --> 00:04:39,370
+so that was the warmup. We're just gonna be doing a little introduction here. This is not Elden Ring.
+
+29
+00:04:39,370 --> 00:04:51,019
+No, it's not. Okay, so we had to jump into a little lobby. Remember, you're streaming. Oh,
+
+30
+00:04:51,019 --> 00:04:57,050
+yeah. Oh, I want to go over quickly. Really quickly. Uh, quick before I have to get in the
+
+31
+00:04:57,050 --> 00:05:05,110
+server. Oh, right. So tomorrow, the idea was I was gonna do DOS games tomorrow. We're changing that.
+
+32
+00:05:06,550 --> 00:05:12,600
+Wrestling Empire got a huge update, and we're gonna play it. I want a little bit more time
+
+33
+00:05:12,600 --> 00:05:19,529
+to curate the DOS stuff. We'll do DOS this weekend. Wrestling Empire tomorrow. There apparently was
+
+34
+00:05:19,529 --> 00:05:24,329
+an unbelievably hilarious update. I have to play it, so that's what we're doing tomorrow.
+
+35
+00:05:24,329 --> 00:05:33,129
+Are we using the same, uh, let me just confirm. Same code? So this game is kind of like Prop Hunt,
+
+36
+00:05:33,129 --> 00:05:40,170
+but it's like Left 4 Dead and Prop Hunt combined. Seems like fun. I did the tutorial. We're just
+
+37
+00:05:40,170 --> 00:05:49,750
+trying to do audio testing to make sure it works. This game sucks. I have eight minutes in the game.
+
+38
+00:05:49,750 --> 00:05:55,370
+Can we relax for a second, please? Can we just relax for a moment, please?
+
+39
+00:05:55,370 --> 00:05:58,490
+And you've seen, you've seen like us audio testing.
+
+40
+00:06:05,899 --> 00:06:18,519
+Okay, let me check. Is this the same code? I think we're doing a different code.
+
+41
+00:06:18,519 --> 00:06:26,389
+Why are you so tense? I'm good. This game is worse than Elden Ring. Well, not every game can be Elden
+
+42
+00:06:26,389 --> 00:06:37,910
+Ring. I'm sorry. Got a new code. Yeah, I, this is, I was gonna just wait to stream tomorrow,
+
+43
+00:06:39,879 --> 00:06:45,800
+but yeah, we're here. Good to see, uh, this group again. Vinny, Kraikin, these guys. It's been a
+
+44
+00:06:45,800 --> 00:06:51,910
+long time since I played with Kraikin. Or Vinny. Or Ross. It's been a while. All right, here we go.
+
+45
+00:06:57,779 --> 00:07:02,300
+I like how the game actually has like a lobby system though. So we don't have to have like
+
+46
+00:07:02,300 --> 00:07:11,860
+10 people at each other on Steam, which can always kind of be a pain in the ass.
+
+47
+00:07:11,860 --> 00:07:21,129
+Did that work? It worked. Okay. All right. You guys ready? How come you're so tense?
+
+48
+00:07:21,209 --> 00:07:30,279
+I'm a tense person. I went in for a massage like the other day and the person could not need.
+
+49
+00:07:30,279 --> 00:07:35,189
+They couldn't. It was like a brick. They were like, all right, that's like funny. Take off
+
+50
+00:07:35,189 --> 00:07:39,509
+like the cement jacket. And I was like, what are you talking about? My mic is off? What?
+
+51
+00:07:39,509 --> 00:07:46,839
+No, we're good. I just want to make sure that the lobby code's not here. It's not. All right. I can,
+
+52
+00:07:46,839 --> 00:07:54,199
+I can put it up. Can you hear me? I feel like that's been the whole stream so far for like the
+
+53
+00:07:54,199 --> 00:08:01,209
+first 10 minutes. It's like, Hey dude, can you hear me? Can you hear me? All right. So I'm on
+
+54
+00:08:01,209 --> 00:08:05,610
+the hunter team. The, our goal is to hunt the ghosts, just like prop hunt. People can hide in
+
+55
+00:08:05,610 --> 00:08:19,740
+chairs and, and curtains and all that shit. He's too tense. No, I'm, I'm, I'm a very tense person.
+
+56
+00:08:19,740 --> 00:08:33,929
+You're my favorite. Thank you. This seems fun. It does seem fun. Let's try it. I'm waiting for
+
+57
+00:08:33,929 --> 00:08:42,259
+players. So it looks like this, what do we got on this team? Vinnie, Liam, she says, I'm sorry.
+
+58
+00:08:42,259 --> 00:08:49,529
+Cricut. All right. So we're all right. This is a good team. This is a good team. Let's just start
+
+59
+00:08:49,529 --> 00:08:56,710
+doing yoga. No, yo yoga freaks me out because I get, I get even more tense in yoga because I
+
+60
+00:08:56,710 --> 00:09:06,919
+know I can't do the moves and I, it's embarrassing. It's like, Oh, put your leg over here and put your
+
+61
+00:09:06,919 --> 00:09:10,279
+head over this way and like raise your arm and leg up. And I can't do it. And I just ended up sitting
+
+62
+00:09:10,279 --> 00:09:19,899
+on the, on the pad like this until the next move. I just like, I don't want to do it. I can do the
+
+63
+00:09:19,899 --> 00:09:27,960
+really easy ones. Why would I even pay to do yoga with like a yoga instructor? If there's three moves
+
+64
+00:09:27,960 --> 00:09:35,210
+that I can do, I could just do those here and save whatever X amount of dollars it is to go
+
+65
+00:09:35,210 --> 00:09:45,289
+to yoga. You're inflexible. Well, yeah. The last like two or three years, you know, spamming
+
+66
+00:09:45,289 --> 00:09:55,879
+resident sleepers. Yeah. Yeah. Yeah. Yeah. Yeah. Okay. All right. So I want to use, I don't have
+
+67
+00:09:55,879 --> 00:10:03,720
+any money, so it doesn't matter. Vacuum. Once a ghost is dead, you suck them up. I'll just start.
+
+68
+00:10:03,720 --> 00:10:07,909
+I'm just going to go with whatever I need. All right. Let's do it. All right. What do you say?
+
+69
+00:10:08,470 --> 00:10:15,299
+We say guys, there's nobody here. Oh, hello. Ready to catch some ghost. Hi team. We're,
+
+70
+00:10:15,299 --> 00:10:24,490
+I think we're only doing C. Sorry. This is Q. Yeah. Oh, you too. You can do load out and then
+
+71
+00:10:24,490 --> 00:10:36,059
+you come in. Yeah. Is that DMCA? I'm scared. Oh, was that? No, no, no. I don't think this is
+
+72
+00:10:36,059 --> 00:10:41,750
+DMCA. I'm sure it's fine. No, yes, it is. Yes, it is. Yes, it is. Okay. Audio jungle. It is?
+
+73
+00:10:42,789 --> 00:10:53,940
+No, I'm just messing around. This reminds me of the DMC five van. What is going on? Yeah. Then
+
+74
+00:10:53,940 --> 00:11:00,019
+where is the beeping? Uh, no, not. Oh, so drama. Do you remember the beeping when we last hunted
+
+75
+00:11:00,019 --> 00:11:06,740
+ghosts? I do. What did you figure out what it was? Yeah, it was a, it's a faulty headset that I ended
+
+76
+00:11:06,740 --> 00:11:14,059
+up EQing out. It's a long story, but it is, but you actually had a broken headset. My VR headset
+
+77
+00:11:14,059 --> 00:11:19,419
+was broken and came with bleeps. That was, that's weird that it did. You would, you're echoing now.
+
+78
+00:11:19,419 --> 00:11:26,970
+That was weird. In proximity. We're all like, I think it's ambiance. Every time you turn your
+
+79
+00:11:26,970 --> 00:11:31,850
+head, I stopped being able to hear you well. Like it's just, that's, we have to face each other
+
+80
+00:11:31,850 --> 00:11:38,169
+when we talk. Yeah, we have to face each other. Look at me in the eye. Does anyone of you spin
+
+81
+00:11:38,169 --> 00:11:45,639
+while holding down a note? We have to make eye contact. All right, let's do this. Let, let us,
+
+82
+00:11:45,639 --> 00:11:53,190
+let us hunt well. We have to be so close. Let us hunt fiercely. Yeah. All right. It's the rep.
+
+83
+00:11:53,190 --> 00:12:03,590
+Use, uh, remember your buddy system. It's the Tyrannosaurus. It's the deer. So wait, is there a,
+
+84
+00:12:03,590 --> 00:12:08,629
+should we not shoot anything? Should we, is there a downfall to do that? There doesn't seem to be a
+
+85
+00:12:08,629 --> 00:12:13,909
+penalty to, you know, we can, we can hit whatever we want. Like I'm going to hit Jupiter right now
+
+86
+00:12:13,909 --> 00:12:25,669
+because fuck Jupiter. There might be a planet. Is there a ghost in here? There's definitely a ghost.
+
+87
+00:12:25,669 --> 00:12:34,179
+If you are a ghost, say hi. Uh, guys, I don't think they're fucking in here. I was doing,
+
+88
+00:12:34,179 --> 00:12:48,840
+I was doing global. We agreed. We're going to do only global to start. And if it sucks,
+
+89
+00:12:48,840 --> 00:12:52,759
+we don't do it anymore. Oh, okay. I get you. I've been doing proximity the whole time.
+
+90
+00:12:54,379 --> 00:12:58,620
+Okay. Let's, yeah. Well, I'm sorry. Yes. Proximity we'll be doing. Yes. I think it's more fun.
+
+91
+00:12:58,620 --> 00:13:06,259
+That's in a weird space. That's in a weird place right there. Oh, where'd he go? Where'd he go?
+
+92
+00:13:06,580 --> 00:13:12,899
+What was it? What was it? I don't know, but it was, it was this thing. He's gone.
+
+93
+00:13:13,700 --> 00:13:18,179
+There's another duck. Yo, I just like duck. No. Whoa. Whoa. Did I not have shot the duck?
+
+94
+00:13:18,820 --> 00:13:29,340
+What happened? Was that, was it a ghost? I think that's a glitch, but okay. That's a video game
+
+95
+00:13:29,340 --> 00:13:42,460
+ghost technically. Yeah. This, I can't wait to be the ghost. Oh shit. Uh, uh, I'm going to go down a
+
+96
+00:13:42,460 --> 00:13:51,590
+ground floor. Oh, I think Vinny. Where are they? I think they're reading in this room.
+
+97
+00:13:52,149 --> 00:13:57,299
+Oh, that's right. We have a, uh, a reader. I forgot about that. How do you pull up the reader?
+
+98
+00:13:59,399 --> 00:14:03,720
+Uh, you gotta have it in your inventory and it's pressing number two on the, oh shit. Okay.
+
+99
+00:14:06,659 --> 00:14:11,940
+Oh, I thought that was just a bug. Oh, what was it? Oh, there's somebody right here. It was,
+
+100
+00:14:12,019 --> 00:14:20,820
+it was fucking Ross. Ross ghost. What? What? Why is he standing still? I got a vacuum here.
+
+101
+00:14:21,620 --> 00:14:31,500
+Okay. Great. Nice. Why would you just stand in there? Did he DC? I think he's, he didn't know.
+
+102
+00:14:31,500 --> 00:14:38,070
+I heard him though. See, since we're all doing, uh, proximity, Oh God. Yeah. Proximity is global.
+
+103
+00:14:38,070 --> 00:14:43,590
+So if, since we're all present, we give each other's positions away. Oh, it's kind of fun though.
+
+104
+00:14:44,710 --> 00:14:45,909
+Yeah. You guys see any,
+
+105
+00:14:47,990 --> 00:14:56,440
+Whoa, any ghosts around? I'm just friendly space, man.
+
+106
+00:15:00,059 --> 00:15:05,500
+That's a personal jelly. I was so focused on the reader that I didn't know you guys
+
+107
+00:15:05,500 --> 00:15:08,299
+were shooting a space, man. It's literally one minute to midnight. What's that mean?
+
+108
+00:15:09,019 --> 00:15:14,840
+What's that mean? Uh, at midnight? They can kill us at midnight. All right.
+
+109
+00:15:16,399 --> 00:15:23,139
+Into a vacuum can come back and still kill us, but they're weakened. I got a defib so I can oh well
+
+110
+00:15:23,139 --> 00:15:25,139
+I shouldn't have said that because then they'll single me out
+
+111
+00:15:25,740 --> 00:15:27,860
+Does anyone need help? I have a health kit. I
+
+112
+00:15:29,080 --> 00:15:40,200
+Think I think we're pretty good. There's only what two more. I'm going up. Oh, yeah. Oh you're one of these pots, okay?
+
+113
+00:15:43,559 --> 00:15:45,559
+That's what I would do
+
+114
+00:15:45,600 --> 00:15:54,990
+Really? I would have gone to one of those pots. So in 17 seconds, they're gonna attack us
+
+115
+00:15:55,509 --> 00:16:01,710
+Don't they build up a negative attribute if they stay still?
+
+116
+00:16:04,379 --> 00:16:11,139
+Yeah, Jerma, they build up ectoplasm and then they become more
+
+117
+00:16:12,259 --> 00:16:14,700
+Easily discoverable. All right, they still yeah
+
+118
+00:16:15,179 --> 00:16:20,740
+We we should probably stick actually maybe not stick together because then they'll kill us easier in group. Oh, yeah, we should
+
+119
+00:16:21,740 --> 00:16:25,320
+Oh my god, that was fast
+
+120
+00:16:26,669 --> 00:16:29,710
+Why is this what is the mammoth? Oh
+
+121
+00:16:31,690 --> 00:16:36,360
+My god
+
+122
+00:16:36,399 --> 00:16:39,539
+Nice good
+
+123
+00:16:40,860 --> 00:16:43,220
+There is
+
+124
+00:16:45,779 --> 00:16:48,080
+Jolly
+
+125
+00:16:48,080 --> 00:17:02,740
+God damn it plant. I can't we kill this I
+
+126
+00:17:05,400 --> 00:17:15,559
+Got him we do it. Yeah, it's just one. It's one left criken now one one. Yes, right
+
+127
+00:17:16,200 --> 00:17:18,200
+Right here plant plant plant
+
+128
+00:17:18,400 --> 00:17:23,069
+photo synthesize this oh
+
+129
+00:17:25,269 --> 00:17:26,630
+Yeah
+
+130
+00:17:26,630 --> 00:17:34,519
+Sorry, I'm good. I just got a way too excited. I'm so I'm out my parts beating. Oh look at us. So cool
+
+131
+00:17:35,319 --> 00:17:37,680
+Yeah, why oh man that's we look like
+
+132
+00:17:38,319 --> 00:17:39,759
+bootleg pyro
+
+133
+00:17:39,759 --> 00:17:44,859
+Like it's like a flash mob. Imagine being that excited
+
+134
+00:17:45,460 --> 00:17:51,059
+That excited over like the totally care about in this cheap pop ripoff. I leveled up
+
+135
+00:17:51,619 --> 00:17:54,119
+You suck is the first game relax
+
+136
+00:17:54,460 --> 00:17:59,569
+All right. Um, let's keep this team one more time and then we'll find out how to shuffle
+
+137
+00:18:00,369 --> 00:18:04,190
+Sure. Also remember when you're a ghost if you need to leave
+
+138
+00:18:04,710 --> 00:18:15,990
+That was very important info that we did not just get that was sounded important. All right, what do we got phantom?
+
+139
+00:18:17,200 --> 00:18:20,359
+Spirit I think I like this one this one
+
+140
+00:18:21,079 --> 00:18:22,880
+chill
+
+141
+00:18:22,880 --> 00:18:24,880
+See hunters through walls, sir
+
+142
+00:18:24,920 --> 00:18:29,259
+Okay, cool. What should I go? What should I go in?
+
+143
+00:18:29,819 --> 00:18:39,289
+Rock it out. Yep. I guess for this one probably shouldn't use the
+
+144
+00:18:40,089 --> 00:18:54,380
+What's the place where this wouldn't be? I have to build a scene. Yeah, I got to build a scene
+
+145
+00:18:54,380 --> 00:18:57,650
+How do I get out? How do I get out of here?
+
+146
+00:19:18,660 --> 00:19:24,400
+The proximity chat is so fucking low. I can barely hear you dude. It's it's yeah, it's very far
+
+147
+00:19:24,920 --> 00:19:31,200
+Like it's like impossible to hear you. So but yeah, I'm gonna I'm using that too
+
+148
+00:19:31,279 --> 00:19:39,109
+We all just gonna be the animals over here wait, I shouldn't say that out loud fuck no
+
+149
+00:19:39,109 --> 00:19:44,240
+I think you're okay cuz you're using the team speak. Am I I'm holding Q. Yeah, Q is team speak
+
+150
+00:19:45,599 --> 00:19:53,839
+All right. Listen, I'm gonna corrupt these pigs. Oh my god. I'm so stupid. I walked right into their base
+
+151
+00:19:53,900 --> 00:19:57,420
+Should we both be sitting here at the same time Liam? Maybe I should move should I move?
+
+152
+00:19:58,380 --> 00:20:04,180
+No, maybe I should move. I don't know. I'm smaller. I'm smaller. I'm smaller. I don't know, but you're a bigger talk
+
+153
+00:20:04,299 --> 00:20:10,119
+I'll move I'll move common courtesy. Okay, be careful. Be careful. I'm so concerned
+
+154
+00:20:11,750 --> 00:20:17,269
+All right. I've corrupted the pigs. So now if the hunters like attack them, they'll get like damaged
+
+155
+00:20:17,269 --> 00:20:26,470
+I don't belong where I'm building up. Okay. Oh, what's the deal with the generator? Do we do anything with that?
+
+156
+00:20:26,710 --> 00:20:30,769
+That's where the hunters resupply
+
+157
+00:20:33,200 --> 00:20:37,289
+Okay shit
+
+158
+00:20:37,450 --> 00:20:49,609
+Down I
+
+159
+00:20:49,609 --> 00:20:55,220
+Wish I could fucking say anything hold R. Yeah, I know you can or you can orient yourself, right?
+
+160
+00:20:55,460 --> 00:21:01,680
+But I need to move don't I when do they come out? Oh
+
+161
+00:21:06,359 --> 00:21:09,250
+Here we go. I gotta clear the
+
+162
+00:21:09,849 --> 00:21:16,039
+When do they come out? When do they actually start to come out? They they're they've been out. They just haven't been anywhere around here
+
+163
+00:21:16,039 --> 00:21:20,849
+Yeah, Oh
+
+164
+00:21:20,849 --> 00:21:23,630
+Scared this shit out of me. Just just role-playing
+
+165
+00:21:24,170 --> 00:21:41,140
+That scared the shit out of me too. Why am I so jumpy right now? Are they I don't like this
+
+166
+00:21:41,619 --> 00:21:52,000
+Should I go on the plant? I feel like I could hide that. Why am I a gigantic target?
+
+167
+00:21:52,480 --> 00:22:01,380
+Hey, oh that oh, okay. Good. Just make sure that was you. Yeah, I'm just
+
+168
+00:22:02,140 --> 00:22:07,569
+Role-playing as a duck right now. What happens if you get to red ectoplasm? Oh
+
+169
+00:22:10,609 --> 00:22:15,329
+Red ectoplasm means that their instruments can detect you very easily. So you got to like
+
+170
+00:22:15,849 --> 00:22:20,130
+Jump out of like jump around or jump out into different crops
+
+171
+00:22:32,920 --> 00:22:36,400
+Oh, that's a ghost that's a ghost right here right here
+
+172
+00:22:43,440 --> 00:22:44,599
+I
+
+173
+00:22:44,599 --> 00:22:50,130
+Don't get it. I don't I don't know what happened back. I don't get it
+
+174
+00:22:50,130 --> 00:22:54,450
+I don't know the head spectral or I don't know the spectrum. Are you bullshit? Did you get sucked up?
+
+175
+00:22:54,450 --> 00:22:58,730
+I got sucked up. No, you got sucked up. I had the ectoplasm. Okay
+
+176
+00:22:58,730 --> 00:23:05,180
+All right, if you survive, you can come back if we survived. All right, cool. Cool. Cool. I
+
+177
+00:23:05,819 --> 00:23:13,150
+Didn't understand the ectoplasm. Oh my god. My corruption is detonated. I would have stayed put
+
+178
+00:23:14,150 --> 00:23:18,349
+And I'd they're all downstairs wait you wait
+
+179
+00:23:23,539 --> 00:23:29,500
+Like blocking their way crash I was on the but I was at the bottom of the staircase Oh long way
+
+180
+00:23:29,500 --> 00:23:31,500
+Well, I'm walking their exit
+
+181
+00:23:31,740 --> 00:23:35,940
+Chasing me, but I'm back now. I freaked out cuz it was had a red ectoplasm. Whatever
+
+182
+00:23:37,019 --> 00:23:42,539
+If they come upstairs, let me know I can like just jump downstairs. This is kind of fun, though
+
+183
+00:23:42,700 --> 00:23:48,200
+I'm just trying to clear my ectoplasm, but I don't see them near you
+
+184
+00:23:48,640 --> 00:23:54,349
+She says I walked into him. I'm an idiot
+
+185
+00:23:55,809 --> 00:23:58,369
+Germa is in the same room as you but yeah, they they don't yeah
+
+186
+00:23:58,609 --> 00:24:03,690
+So what I can go look that is that cheating you you can you can cut fuck with them a little bit right now
+
+187
+00:24:03,690 --> 00:24:08,809
+Germa you're dead, but you have an ability. I think you can freeze them a little they're coming up to you any coal
+
+188
+00:24:09,450 --> 00:24:13,500
+Yeah, you'll never they'll never know if you want. I'll never know. I'll never know
+
+189
+00:24:13,500 --> 00:24:16,220
+She's got him
+
+190
+00:24:19,019 --> 00:24:26,809
+Children is it really down to me again? Oh jeez not yet. Oh my god
+
+191
+00:24:31,279 --> 00:24:34,680
+Don't worry guys, they're not gonna kill me in nine minutes. Oh, we good
+
+192
+00:24:35,279 --> 00:24:40,170
+Now we come back and we gotta kill her. I will be dead in three seconds
+
+193
+00:24:40,930 --> 00:24:42,930
+Suck him harder
+
+194
+00:25:14,259 --> 00:25:17,900
+All right nice job mammoth tusk wins
+
+195
+00:25:22,539 --> 00:25:28,500
+Three ghosts destroyed three hunters knocked out. Well nice work. I'm starting to get it
+
+196
+00:25:32,839 --> 00:25:35,039
+Okay, cool. All right, great. Yeah. No, yeah
+
+197
+00:25:37,480 --> 00:25:42,119
+Hopefully I think we get a new map now and I think maybe it'll scramble the teams if not we can do a
+
+198
+00:25:42,680 --> 00:25:44,990
+You will scramble. Yeah, whatever
+
+199
+00:25:45,069 --> 00:25:49,849
+Whatever works true true after whatever you got absolutely carried
+
+200
+00:25:50,369 --> 00:25:55,190
+Stop rocking back and forth. You look old. I'm rocking. Wait, what do you mean like this?
+
+201
+00:25:55,849 --> 00:25:57,849
+That's it. I don't know. It's just fun to do
+
+202
+00:25:57,890 --> 00:26:04,569
+All right, let me see this other stuff here. I have 1600 credit
+
+203
+00:26:07,720 --> 00:26:18,150
+All it replaces that I think I'll try it I want to try this thing and
+
+204
+00:26:19,869 --> 00:26:21,869
+Giving us the same team teams
+
+205
+00:26:21,950 --> 00:26:26,480
+Well, you want you want to do like three or four matches in a row at the same teams and then three or four
+
+206
+00:26:26,480 --> 00:26:28,480
+You know, I'm saying change it back to three or four or something
+
+207
+00:26:28,640 --> 00:26:30,640
+Okay. Yeah, that sounds good
+
+208
+00:26:30,839 --> 00:26:33,839
+I'm down for whatever this one
+
+209
+00:26:33,880 --> 00:26:42,519
+German, what's your chin exercise routine? Look up at the sky like this and you want to put your
+
+210
+00:26:43,279 --> 00:26:47,000
+like this and one two three
+
+211
+00:26:49,440 --> 00:26:51,440
+I'm gonna assume this is a DMCA
+
+212
+00:26:53,599 --> 00:26:55,559
+You go up with your job
+
+213
+00:26:55,559 --> 00:26:58,359
+No, also another one. Another good one is
+
+214
+00:26:59,400 --> 00:27:05,200
+Is that even real though? It probably sounds close enough to another song to get DMC aid
+
+215
+00:27:05,799 --> 00:27:10,269
+So that can happen. I mean I have like
+
+216
+00:27:10,630 --> 00:27:16,869
+6,000 or so videos on my full sauce channel and every day something new is getting claimed that that makes zero sense
+
+217
+00:27:17,589 --> 00:27:19,960
+Yeah, it's it's it's kind of crazy
+
+218
+00:27:20,640 --> 00:27:23,849
+Dude, I had crickets. I played the sound effect of crickets
+
+219
+00:27:23,849 --> 00:27:28,849
+Not like because I made a bad joke and the crickets got claimed. It's the funny face guy
+
+220
+00:27:30,049 --> 00:27:41,160
+That's unreal. Yeah. All right. So now that we who dared to claim that probably cricket
+
+221
+00:27:45,569 --> 00:27:47,769
+It was criken on behalf of crickets
+
+222
+00:27:49,250 --> 00:27:53,369
+All right, the ghost meter is actually pretty I would say like required
+
+223
+00:27:53,930 --> 00:27:59,400
+Yeah, I would yeah as long as what does anybody have a
+
+224
+00:28:00,160 --> 00:28:04,799
+Vacuum, I think we need at least one person with a vacuum, right? Oh, okay. I've defected
+
+225
+00:28:06,319 --> 00:28:10,079
+Just just look at all with your exercise. How hard are you doing that?
+
+226
+00:28:10,079 --> 00:28:13,359
+I got a ghost over here guys just warm up on me if you want to kill it
+
+227
+00:28:13,359 --> 00:28:18,720
+I'm making like a just don't don't let on that. You know, the ghost is there. Okay, never mind. What are you talking about? I
+
+228
+00:28:19,519 --> 00:28:24,220
+Didn't say yeah one into your room to the other while you like put your chin out
+
+229
+00:28:24,220 --> 00:28:38,400
+I said literally go like this. So technically the game is on right now and then we are like looking for them right now
+
+230
+00:28:38,400 --> 00:28:43,440
+It's not like a like a minute. Yeah. Yeah, this is as soon as the hunters join in it's on. Okay, cool
+
+231
+00:28:43,440 --> 00:28:52,109
+I'm on Ross's tail right now. He's a box. Oh, where'd he go was?
+
+232
+00:28:53,299 --> 00:29:01,559
+Now I see I'm so close picked up something over here over here picked up something over here. Okay, I have my ghost rail
+
+233
+00:29:01,559 --> 00:29:06,279
+Oh, yeah, there's there we got some activity in this room. Yeah, there is activity. There is activity. Oh
+
+234
+00:29:15,109 --> 00:29:18,299
+No idea what I'm doing. Hey ghosts
+
+235
+00:29:21,039 --> 00:29:37,339
+A little bit of activity over here. Wait, there's somebody in this room. Never mind up, dude
+
+236
+00:29:38,019 --> 00:29:47,029
+Got him in the room. He's a box. He's a studio stereo equipment box on it. Okay
+
+237
+00:29:51,230 --> 00:29:55,549
+Wait, what where do you go? What do you go? He's too quickly. What happened? Where'd he go?
+
+238
+00:29:58,039 --> 00:30:13,079
+Where did he go? Where'd he go? I don't know where he is, but he's here
+
+239
+00:30:13,680 --> 00:30:15,680
+This thing is so slow to shoot
+
+240
+00:30:15,920 --> 00:30:23,299
+Yeah, I thought I'd like the machine gun thing, but I don't
+
+241
+00:30:23,819 --> 00:30:31,450
+Well, I gotta go to resupply. Hold on. This thing is poop. Can I go up the ladder?
+
+242
+00:30:31,970 --> 00:30:41,940
+There's somebody literally right here the lantern
+
+243
+00:30:58,039 --> 00:31:04,099
+I'm not getting any readings. No, I think we got we just absolutely we got been had we got played big-time
+
+244
+00:31:08,440 --> 00:31:16,680
+Here I
+
+245
+00:31:17,279 --> 00:31:20,640
+Think I think he escaped
+
+246
+00:31:20,680 --> 00:31:24,519
+Damn it. Oh, he's right here. He's like he's literally in this room
+
+247
+00:31:24,519 --> 00:31:29,839
+He has to be the rate of the mark. The market is nothing market. It's not like a stock. It's going wild right now
+
+248
+00:31:31,519 --> 00:31:53,700
+What oh god right here somebody right here right here has to be right here
+
+249
+00:31:57,509 --> 00:31:59,509
+Good call good call
+
+250
+00:32:03,029 --> 00:32:07,269
+Jolly jolly, do we all have the melee weapon? Does anybody have a gun?
+
+251
+00:32:10,230 --> 00:32:12,230
+Damage
+
+252
+00:32:13,920 --> 00:32:15,920
+Shotgun I've ever charged
+
+253
+00:32:16,240 --> 00:32:17,769
+Gotcha
+
+254
+00:32:17,769 --> 00:32:27,079
+There's a fake me running around is that I it's dead now. Oh, it's midnight. Well, here we go right here
+
+255
+00:32:28,200 --> 00:32:30,920
+Criken is a pot our father who art in heaven
+
+256
+00:32:31,920 --> 00:32:33,759
+hallowed be thy name
+
+257
+00:32:33,759 --> 00:32:35,759
+Thy kingdom come will be done
+
+258
+00:32:36,599 --> 00:32:39,160
+heaven oh
+
+259
+00:32:40,940 --> 00:32:42,940
+God god
+
+260
+00:32:43,500 --> 00:32:46,460
+Dude, I'd love to revive you guys, but uh
+
+261
+00:32:47,700 --> 00:32:53,619
+Okay, this is in Christ. We have failed that melee weapon sucks
+
+262
+00:32:54,339 --> 00:32:56,660
+Yeah, yeah, I'm not using that anymore
+
+263
+00:32:57,339 --> 00:33:00,259
+So many of these weapons are like kind of
+
+264
+00:33:00,859 --> 00:33:02,220
+truce
+
+265
+00:33:02,220 --> 00:33:06,210
+Half of us are using the the little like a light stick
+
+266
+00:33:06,809 --> 00:33:21,480
+Need to level up arcane. I feel like yeah, it's like the combine weapon from half-life to it kind of is you know
+
+267
+00:33:21,920 --> 00:33:34,319
+Who's still alive? I am I'm just booking it. I'm just trying to like outlast. I guess I don't know what to do
+
+268
+00:33:34,319 --> 00:33:38,400
+I'm literally watching me when I asked that question for some reason. I thought that you were
+
+269
+00:33:39,039 --> 00:33:48,200
+Don't know why I thought it was a ghost. I thought we were ghosts for one second. Oh my god. Oh my god
+
+270
+00:33:49,000 --> 00:33:54,279
+Is this working out? They're just chasing you. I think I mean it's working, but there's
+
+271
+00:33:54,799 --> 00:33:56,000
+Yeah
+
+272
+00:33:56,000 --> 00:33:59,549
+I'm gonna play the wrestling game tomorrow. Should I just take the L?
+
+273
+00:34:00,589 --> 00:34:04,589
+You can do whatever you think is correct my brother and Geist
+
+274
+00:34:05,680 --> 00:34:07,920
+Perform an accelerated back off through the theater
+
+275
+00:34:08,440 --> 00:34:12,159
+Book it to the next QPU
+
+276
+00:34:12,199 --> 00:34:18,699
+Yeah, I will but what is that? This is what you see in Mario said in Mario 64
+
+277
+00:34:19,659 --> 00:34:24,820
+QPUs are positional universes fucking so that we need to talk about parallel universes
+
+278
+00:34:25,659 --> 00:34:31,150
+Why can they not get you does anybody do they have them a move? They're just running behind
+
+279
+00:34:32,269 --> 00:34:35,400
+Yeah, all right ghost moves, right?
+
+280
+00:34:41,539 --> 00:34:48,320
+Yeah, go team chair
+
+281
+00:34:49,679 --> 00:34:56,599
+The chair when oh my god ghost after this next round when the next map is about to happen
+
+282
+00:34:56,599 --> 00:35:00,519
+I'm gonna exit and we can all join a new lobby and we'll go into new teams
+
+283
+00:35:01,079 --> 00:35:10,469
+All right, I get it. I like I want to hide more now that I understand how it works. Nice straw. Sorry. I'm a very loud
+
+284
+00:35:10,989 --> 00:35:17,269
+No, but you're okay. No, you're good. It's a straw. Is there a problem with straws?
+
+285
+00:35:17,909 --> 00:35:28,099
+Buddy, why is your steam profile picture alone in the dark? I don't know. I haven't changed it since like
+
+286
+00:35:28,900 --> 00:35:33,019
+2013 or something. I don't know. Okay. This is important
+
+287
+00:35:34,730 --> 00:35:42,860
+Remotely charge up objects looks like a ghost charging up. I'm gonna try that. Are we playing this game?
+
+288
+00:35:42,860 --> 00:35:50,599
+Are we backing out? Yeah, we're doing this one. Yeah when it changes to the next map all ghosts
+
+289
+00:35:50,599 --> 00:35:58,280
+But then I'll make a new server random sound I found the ability that lets you create false radar readings. That'll be good
+
+290
+00:35:58,679 --> 00:36:00,920
+That's probably what was happening with us that whole time
+
+291
+00:36:01,480 --> 00:36:02,800
+Yeah
+
+292
+00:36:02,800 --> 00:36:04,800
+Apparently you can throw your voice
+
+293
+00:36:04,800 --> 00:36:09,179
+All you have to do is aim hold left shift and press C and talk
+
+294
+00:36:09,179 --> 00:36:15,329
+So like somebody's throw my voice like she says tell me if you can hear me in proximity
+
+295
+00:36:15,889 --> 00:36:21,119
+Okay, I did
+
+296
+00:36:22,440 --> 00:36:28,960
+Something really small. Yeah, I'm really far away from you. I just threw my voice to you. Yes. Oh, that's cool
+
+297
+00:36:28,960 --> 00:36:33,750
+I think I'm gonna go sit. I think I'm gonna go sit in one of those chairs
+
+298
+00:36:34,269 --> 00:36:47,340
+You do that. They'll never know if we find more buckets we can put them in chairs. This is too obvious
+
+299
+00:36:47,340 --> 00:36:53,280
+I don't think they're gonna look over here. Who's the piano? Can you just jump?
+
+300
+00:36:54,940 --> 00:37:10,599
+Yeah, you can fuck do your piano the Mario 64 piano I need to lean forward like the other ones are
+
+301
+00:37:10,800 --> 00:37:19,280
+That was probably a terrible idea. I don't know. I did that scan occasion. I didn't get it. I got the defense
+
+302
+00:37:19,280 --> 00:37:23,099
+Oh, no, did not about the scanner. No
+
+303
+00:37:24,460 --> 00:37:26,460
+They didn't get the scanner
+
+304
+00:37:40,860 --> 00:37:42,860
+They're far away I'm gonna go this way
+
+305
+00:37:42,860 --> 00:37:47,719
+I mean ghost hunters. I'm a ghost, of course. I'm gonna go this way
+
+306
+00:37:48,599 --> 00:37:57,179
+Something so humorous about German Tokyo drifting through the door there
+
+307
+00:37:59,260 --> 00:38:28,280
+Chair, oh man, okay. I get I can fake them out
+
+308
+00:38:28,840 --> 00:38:43,340
+Stop moving. I have to look at the ectoplasm buildup. I have to move I can revive
+
+309
+00:38:45,059 --> 00:38:54,590
+They're teabagging my shards
+
+310
+00:38:54,829 --> 00:39:06,829
+They're all in the first floor. Nope. There's one up top basically. Oh, yeah one just walked by Vinny
+
+311
+00:39:07,110 --> 00:39:11,590
+Oh
+
+312
+00:39:15,079 --> 00:39:17,079
+I'm watching this from up here
+
+313
+00:39:17,199 --> 00:39:38,820
+I'm trying to clear the buildup. Wow. Wow. I cannot believe that just happened. What happened? Oh, I just missed it
+
+314
+00:39:39,219 --> 00:39:44,219
+Why would there be a ladder here? It was already looking for Vinny and Vinny just kind of booked it over the balcony
+
+315
+00:39:44,219 --> 00:39:50,019
+Oh great. Okay. Yeah. Yeah, I had like a gamer moment. I can't believe it. Well, not that kind of one
+
+316
+00:39:50,019 --> 00:39:53,059
+But I'm gonna save that for you so you can get a third-person perspective
+
+317
+00:39:53,659 --> 00:39:59,989
+Do you guys remember Iced for GameCube I do remember Geist that's what this is multiplayer Geist
+
+318
+00:40:02,039 --> 00:40:04,880
+It was on what happened recently Geist. Oh
+
+319
+00:40:07,610 --> 00:40:17,300
+Great show and yeah, I haven't been able to forget about it since playing this. Yeah. Oh man that game was okay
+
+320
+00:40:19,460 --> 00:40:21,460
+The very okay is game
+
+321
+00:40:31,409 --> 00:40:33,409
+I'm like a trampoline
+
+322
+00:40:34,849 --> 00:40:39,650
+I don't understand. It's too stressful. It's too stressful
+
+323
+00:41:03,679 --> 00:41:09,679
+I can't do it. I can't fucking do this. That's too stressful. This is too stressful. It's I'll I can't it's too stressed
+
+324
+00:41:09,679 --> 00:41:13,760
+I'm gonna lose it. Nice, you know, I don't I don't get it. I don't it's like I freak out
+
+325
+00:41:13,760 --> 00:41:23,019
+I think they can see me at all fucking sides. I think it's like too stressful
+
+326
+00:41:23,739 --> 00:41:29,980
+Yes, Vinny keep distracting. Oh, I don't know. I feel like they can see me
+
+327
+00:41:30,420 --> 00:41:38,659
+I'm just gonna keep jumping as a cat. Are you lying bagging my ghost corpse?
+
+328
+00:41:38,659 --> 00:41:51,889
+I think they'll laugh. So I think they lagged out now. Are they lagging or just tea bagging aggressively?
+
+329
+00:41:56,650 --> 00:41:58,650
+It's time
+
+330
+00:42:07,500 --> 00:42:18,500
+I'm a couch. It's time for you to pay
+
+331
+00:42:19,019 --> 00:42:23,110
+Yeah, I probably I should I shouldn't like
+
+332
+00:42:23,590 --> 00:42:29,949
+Yeeted myself down the stairs, but I don't know. I love to play these games. I don't know what like what it looks like
+
+333
+00:42:39,780 --> 00:42:56,340
+Fuck no
+
+334
+00:42:56,340 --> 00:42:58,340
+I'm trying I'm trying to hit him
+
+335
+00:42:59,019 --> 00:43:01,420
+We can if you yeah. Yeah, there you go
+
+336
+00:43:02,480 --> 00:43:26,460
+Good just various objects. Yeah like that. Good job. Oh
+
+337
+00:43:34,199 --> 00:43:51,849
+Come here
+
+338
+00:43:52,489 --> 00:43:55,820
+I
+
+339
+00:43:56,739 --> 00:43:59,690
+Almost got it. I'm trying
+
+340
+00:44:02,639 --> 00:44:09,039
+Ghosts if you want more speed you have to possess an object and right-click hold it and then you can like start
+
+341
+00:44:09,400 --> 00:44:11,119
+What are you doing?
+
+342
+00:44:11,119 --> 00:44:15,280
+Did you just like suck the ectoplasm out of that corpse? Yes
+
+343
+00:44:16,219 --> 00:44:22,280
+That's normal
+
+344
+00:44:22,400 --> 00:44:27,539
+Got it. I wish I would have seen that kill. Yeah
+
+345
+00:44:27,940 --> 00:44:32,289
+Yeah
+
+346
+00:44:32,889 --> 00:44:34,889
+Team chair, all right
+
+347
+00:44:35,809 --> 00:44:42,010
+Let's see how well you do teams with 12 minutes in a game in a genre that you've never played before
+
+348
+00:44:42,250 --> 00:44:48,570
+In a space that you've never been in before in a area that you've never seen before
+
+349
+00:44:49,329 --> 00:44:55,269
+You understand that I'm trying. Okay, relax. Relax. Everything's fine
+
+350
+00:44:55,710 --> 00:45:15,599
+Use a fee. No, I'm just kidding. I don't know. I never played prop on ever
+
+351
+00:45:15,599 --> 00:45:21,210
+I know this has been around for like alright, this is like I've never played a game
+
+352
+00:45:21,210 --> 00:45:34,420
+This is like never playing a game of Call of Duty in your whole life. Hey, I just I just solidified that game right there
+
+353
+00:45:34,420 --> 00:45:44,710
+I got the last kill. I think I did pretty good
+
+354
+00:45:45,269 --> 00:45:52,179
+Never played TF2 pro. No, I was always like a super contrarian and
+
+355
+00:45:52,659 --> 00:45:57,059
+Didn't want to play prop on because it was so popular that I was like, nah, it's not me. I'm not playing that
+
+356
+00:45:57,500 --> 00:46:13,119
+It's a popular thing I got a new code I was very much aware of his existence
+
+357
+00:46:13,960 --> 00:46:20,579
+You're a hipster. Yeah, you say that that's fine
+
+358
+00:46:20,980 --> 00:46:31,949
+You're in your right to say that is the guy who played Elden Ring 15 times in a row
+
+359
+00:46:31,949 --> 00:46:40,960
+What does that have to do with anything? Wait, I think maybe I did I play you a video of TF2 prop hunt. I'm pretty sure
+
+360
+00:46:43,829 --> 00:46:51,900
+Yeah, but like I don't it was like that was like eight years ago. I played it once I
+
+361
+00:46:53,690 --> 00:47:00,010
+Yeah, sorry, I forgot that I played TF2 prop hunt like nine years ago one time
+
+362
+00:47:02,269 --> 00:47:04,070
+What do you say?
+
+363
+00:47:04,070 --> 00:47:06,469
+How am I supposed? I don't know. I don't remember
+
+364
+00:47:07,230 --> 00:47:17,539
+You tell me what you had for breakfast two weeks ago. I bet you would you ever okay?
+
+365
+00:47:17,539 --> 00:47:19,539
+What did you have for breakfast on?
+
+366
+00:47:20,139 --> 00:47:22,139
+April 2nd
+
+367
+00:47:22,980 --> 00:47:29,619
+2022 what did you eat for breakfast? Do you fucking even know? No, you can
+
+368
+00:47:30,019 --> 00:47:37,599
+Dude, it was nine like eight or nine years ago, and I probably dude. It was I probably forgot it immediately after it happened
+
+369
+00:47:38,440 --> 00:47:45,980
+That's so funny, but what's a different game? This is completely different
+
+370
+00:47:46,579 --> 00:47:48,949
+Who knew how team can you hear me?
+
+371
+00:47:49,230 --> 00:47:53,460
+Are we on the same piece?
+
+372
+00:47:53,460 --> 00:47:59,059
+Yeah, it looks like only one person difference. We just we have Jolly now. We traded for Jolly
+
+373
+00:48:00,320 --> 00:48:02,889
+No, it's really not
+
+374
+00:48:02,889 --> 00:48:08,170
+It's weird because seriously, I can't find a way to randomize or change teams
+
+375
+00:48:08,489 --> 00:48:11,010
+Between people it seems like that just isn't an option
+
+376
+00:48:14,050 --> 00:48:22,989
+Hey, what did you guys have for breakfast nine years ago nine years ago to the day bacon egg and cheese almost guaranteed guaranteed
+
+377
+00:48:24,130 --> 00:48:26,780
+almost
+
+378
+00:48:26,780 --> 00:48:29,380
+Currently going back and forth with chat about a few things
+
+379
+00:48:31,619 --> 00:48:33,619
+Okay, sorry that took me off guard
+
+380
+00:48:36,469 --> 00:48:49,199
+Probably honey nut Cheerios, I mean lately this not that this is in any way relevant to the question that Jerma had asked
+
+381
+00:48:49,360 --> 00:48:51,789
+but lately
+
+382
+00:48:51,789 --> 00:48:57,389
+It's been bagel Vinny just shot Jerma's bit to bits. Did I ruin your bit Jerma? No ever?
+
+383
+00:48:57,389 --> 00:49:02,429
+Okay, so everyone's everyone's yelling at me over here because they're like, how do you not know how to play prop hunt?
+
+384
+00:49:02,429 --> 00:49:08,110
+And I was like, dude, I've never played prop on right somebody pulled out. We watch somebody pulled out an old video from like
+
+385
+00:49:08,869 --> 00:49:10,969
+2013 I was gonna say
+
+386
+00:49:11,469 --> 00:49:15,730
+Yeah, I don't know. I don't think they did laying. I don't remember playing prop hunt
+
+387
+00:49:15,730 --> 00:49:18,210
+So I'm like, what'd you have for breakfast two weeks ago on April 2nd?
+
+388
+00:49:18,969 --> 00:49:24,400
+Also crying bit if you play game
+
+389
+00:49:30,619 --> 00:49:34,380
+Wait the match already started he saw it he saw it
+
+390
+00:49:35,579 --> 00:49:39,039
+Does anyone have a vacuum? Yeah
+
+391
+00:49:42,360 --> 00:49:46,940
+So all me I just randomly shot a duck, okay guys
+
+392
+00:49:46,940 --> 00:49:53,539
+I just randomly shot that duck because I thought it would be funny and it was cracking dude shoot fucking everything
+
+393
+00:49:53,780 --> 00:49:57,340
+There's no downside wrecking. Absolutely. Yeah. Yeah, there isn't
+
+394
+00:49:58,139 --> 00:50:04,400
+Which makes no sense because usually there's like a risk reward
+
+395
+00:50:05,320 --> 00:50:07,320
+Yeah
+
+396
+00:50:07,679 --> 00:50:12,400
+Breakfast nine years ago and suddenly criken is dead. I feel a chill
+
+397
+00:50:12,980 --> 00:50:14,699
+We've got a ghost here where I am
+
+398
+00:50:14,699 --> 00:50:19,059
+What do you guys have you guys played like a game like that? You don't remember playing from like ten years ago
+
+399
+00:50:19,780 --> 00:50:22,150
+Do you know what I played last night?
+
+400
+00:50:23,349 --> 00:50:25,510
+Thank you. Wait, what do you found him?
+
+401
+00:50:26,230 --> 00:50:28,230
+Treasure chest
+
+402
+00:50:28,230 --> 00:50:34,449
+Like that you don't remember playing ten years ago, but you have played it. Yeah, we're saying oh
+
+403
+00:50:36,489 --> 00:50:39,630
+Probably any Call of Duty game from then you know how many steam games
+
+404
+00:50:39,630 --> 00:50:43,630
+I probably have downloaded that that I've played like maybe 30 minutes of and went well
+
+405
+00:50:43,630 --> 00:50:50,690
+I don't this game sucks and then never played it again and forgot. I ever bought it guys criken is haunting me
+
+406
+00:50:51,329 --> 00:50:54,800
+Hmm. It's probably because you shot a duck
+
+407
+00:50:55,420 --> 00:51:01,510
+Sorry, criken. I thought it would be funny to shoot the duck. I'm sorry. How is this happening?
+
+408
+00:51:02,389 --> 00:51:06,409
+And this is well, because I'm just looking for objects that are slightly out of place
+
+409
+00:51:06,769 --> 00:51:12,059
+I'm playing the video game, you know in a reading
+
+410
+00:51:12,579 --> 00:51:15,840
+That's a lot. I didn't mean that to sound so sassy. I apologize
+
+411
+00:51:16,480 --> 00:51:23,099
+Dare you not talk about breakfast that you ate something right here. Look man. All I'm saying is
+
+412
+00:51:23,699 --> 00:51:25,590
+Well Germans getting a lot of shit for this
+
+413
+00:51:25,590 --> 00:51:31,949
+I literally have played mods that I've got that I played like two months. I feel like them again
+
+414
+00:51:32,949 --> 00:51:39,619
+I don't know that doesn't make your shit inexcusable jammer. Come on. I mean, I've played a mod of
+
+415
+00:51:40,380 --> 00:51:44,900
+I played prop hunt nine years ago, and I don't remember playing it
+
+416
+00:51:45,179 --> 00:51:52,780
+How do you but do you not remember the craze on YouTube where oh, yeah, really? Everybody played it. Oh, absolutely
+
+417
+00:51:52,780 --> 00:51:54,780
+I just don't remember being a part of the craze
+
+418
+00:51:55,139 --> 00:52:00,139
+But like surely, you know a bit of this from osmosis like absolutely
+
+419
+00:52:00,619 --> 00:52:08,610
+To be fair though this this is this is a lot a little more prop hunty than usual prop hunt
+
+420
+00:52:09,050 --> 00:52:16,039
+It's actually not not to correct you but it's less prop hunt than prop hunt. Okay
+
+421
+00:52:19,000 --> 00:52:32,289
+There's nothing in the boat, okay, there's nothing I just I love that he's literally being a pirate in the boat
+
+422
+00:52:32,769 --> 00:52:34,769
+He was taunting me before
+
+423
+00:52:34,929 --> 00:52:40,280
+Now are there skeleton ghosts? Are we doing squid ghosts? What do we got?
+
+424
+00:52:41,639 --> 00:52:44,659
+I just watched what's the Caribbean?
+
+425
+00:52:45,659 --> 00:52:48,090
+squid ghosts
+
+426
+00:52:49,210 --> 00:52:59,039
+Watch the first two why can't squids have ghosts Charlie? What is this? Well, I mean they can but I don't think they'd be particularly cerebral I
+
+427
+00:52:59,679 --> 00:53:05,929
+Don't think there's much going on in a squid bat brain other than eat food eat food shit eat food eat
+
+428
+00:53:05,929 --> 00:53:10,530
+They're very smart. They're very smart animals cephalopods man mental. I
+
+429
+00:53:11,090 --> 00:53:14,070
+Thought that was octopuses. I don't know any better
+
+430
+00:53:14,469 --> 00:53:21,510
+Don't make me feel guilty for eating squid. I love just making stuff up it. Yep. So am I but
+
+431
+00:53:22,269 --> 00:53:29,619
+You know, he's chilling any readings at all down here somebody something down here. I found him. I found a piece of box. Oh
+
+432
+00:53:30,139 --> 00:53:32,139
+shit, okay, oh
+
+433
+00:53:32,260 --> 00:53:34,500
+Yeah, he's something else. He's literally in this room
+
+434
+00:53:35,219 --> 00:53:40,860
+The salt water is corroding your suit
+
+435
+00:53:41,500 --> 00:53:42,619
+What?
+
+436
+00:53:42,619 --> 00:53:44,619
+Where the fuck is he?
+
+437
+00:53:44,739 --> 00:53:48,400
+He's has to be right here somewhere like literally right here
+
+438
+00:53:48,960 --> 00:53:57,500
+Yeah, we got strong readings down here. All right, we're about to get fucked. So stick together run
+
+439
+00:53:58,739 --> 00:54:13,230
+He just fucking murdered him. Oh my god. Oh, he's so low. I'm knocked out
+
+440
+00:54:18,710 --> 00:54:22,829
+Squids are able to count solve problems recognize patterns and communicate
+
+441
+00:54:23,510 --> 00:54:26,639
+Dude squids can play video games
+
+442
+00:54:27,280 --> 00:54:35,969
+You think squids got kind of fell out of an alien spaceship driving across the earth and fell in the ocean
+
+443
+00:54:35,969 --> 00:54:37,849
+Just kind of kept going. I
+
+444
+00:54:37,849 --> 00:54:41,940
+Mean that that sounds like a good enough theory for me
+
+445
+00:54:42,780 --> 00:54:44,260
+being
+
+446
+00:54:44,260 --> 00:54:46,260
+non biology
+
+447
+00:54:48,500 --> 00:54:50,900
+Fuck oh, that's all of my health. I have six
+
+448
+00:54:51,460 --> 00:54:59,820
+You're so low, but I have faith you got this dude. I believe in you. No, just just just yeah, buddy
+
+449
+00:54:59,820 --> 00:55:02,820
+So how was Pirates of the Caribbean one in two?
+
+450
+00:55:03,820 --> 00:55:06,780
+Very good, and I will tell you this to comfort you as you die
+
+451
+00:55:06,780 --> 00:55:09,860
+But I will say that I like to maybe a little bit better than one
+
+452
+00:55:10,820 --> 00:55:17,539
+Really? Maybe a little bit just because I like the squids. They were pretty cool incredibly incredibly relevant point
+
+453
+00:55:17,539 --> 00:55:20,539
+I've seen all the Pirates of the Caribbean movies. I don't remember any of them
+
+454
+00:55:24,619 --> 00:55:28,750
+Okay, I'm cursed the black pearl is kind of a classic to me, but I
+
+455
+00:55:29,389 --> 00:55:33,349
+Thought dead man's chest was a little too long for its own good. I
+
+456
+00:55:34,469 --> 00:55:39,469
+Just got called out for having shit taste for liking the sequel like a little bit better than the first one
+
+457
+00:55:39,789 --> 00:55:45,269
+You I mean you could look at it like that. I mean, I mean you could Vinnie, but you're wrong. I
+
+458
+00:55:46,510 --> 00:55:49,829
+You know incorrect opinions are basically what I live for
+
+459
+00:55:50,670 --> 00:55:56,750
+There are four parts of the Caribbean movies, right? Oh shit. I'm about to fire like seven
+
+460
+00:56:00,800 --> 00:56:06,239
+That range was so all over the place. Oh, no, there are seven. No, there are five there are four
+
+461
+00:56:06,840 --> 00:56:09,210
+That feels like there are seven
+
+462
+00:56:12,289 --> 00:56:14,289
+Attention off to the third
+
+463
+00:56:14,329 --> 00:56:20,519
+That's what I'm gonna stop. I'm gonna watch the third one. I'm just gonna stop
+
+464
+00:56:21,000 --> 00:56:23,059
+Yeah, that was the last one that for Binsky
+
+465
+00:56:23,639 --> 00:56:29,599
+Directed then he went to do a Rango if you haven't seen that as a great movie. I've heard about that one. It's animated movie
+
+466
+00:56:29,960 --> 00:56:37,079
+Yeah, I didn't I think I've only seen two. I don't actually won the Oscar. There's so much fucking media nowadays like this so much
+
+467
+00:56:37,079 --> 00:56:42,260
+There's not there's only so much as one thing in our brains to be able to remember all this fucking media
+
+468
+00:56:42,300 --> 00:56:45,940
+Think of all the video games all the movies all the breakfasts you've had
+
+469
+00:56:46,539 --> 00:56:54,840
+Gemma, I just want to say I'm going from agreeing with you to maybe he has early onset Alzheimer's really real quick here
+
+470
+00:56:56,699 --> 00:56:58,699
+That's usually me
+
+471
+00:56:59,750 --> 00:57:04,909
+Like who remembers what they ate for breakfast who remembers what they did yesterday. I don't remember what I was playing yesterday
+
+472
+00:57:05,590 --> 00:57:07,789
+Who remembers movie? I don't remember movies
+
+473
+00:57:08,630 --> 00:57:14,309
+Yeah, but I mean, okay. I remember what I did yesterday, but not like eight years ago
+
+474
+00:57:16,429 --> 00:57:19,630
+Surviving their cheese. I was so I was one minute away
+
+475
+00:57:20,630 --> 00:57:24,110
+I've played so much Eldon ring in the past like I
+
+476
+00:57:25,780 --> 00:57:33,780
+Wanted to hear his take I wanted to hear the Eldon ring take you're getting I'm getting eviscerated, right?
+
+477
+00:57:34,539 --> 00:57:41,110
+Okay, I want to try it that good again
+
+478
+00:57:41,110 --> 00:57:47,780
+Yeah, I'm gonna try that point again is I've been playing so much Eldon ring that there's a good chance in a year
+
+479
+00:57:47,780 --> 00:57:51,659
+I'm not gonna remember more than the fact there were some dudes that look like foreskin
+
+480
+00:57:52,059 --> 00:57:59,670
+I've got that it's it's it's a huge game. There's so much to see it's just so much. There's just too much I
+
+481
+00:58:00,190 --> 00:58:05,190
+Can't wait for like two years from now when everybody decides to replay it at the exact same time
+
+482
+00:58:05,789 --> 00:58:08,639
+Yeah, what DLC you mean?
+
+483
+00:58:09,159 --> 00:58:21,789
+Yeah, pretty much so even though we're not playing Eldon ring right now, but any what are your builds? What's everybody's builds?
+
+484
+00:58:21,789 --> 00:58:25,690
+What did they run through the game? I've been doing a bunch of different things
+
+485
+00:58:25,690 --> 00:58:29,969
+But I do a little bit of int magic and mostly decks and like so I'm using
+
+486
+00:58:30,010 --> 00:58:31,130
+I
+
+487
+00:58:31,130 --> 00:58:38,719
+Do play blades based but bested this guy's bested for his build
+
+488
+00:58:39,000 --> 00:58:46,690
+All right, we just we're just gonna try all sitting in the exact same spot, huh? Oh, we're all here
+
+489
+00:58:46,690 --> 00:58:52,599
+Oh, yeah work good plan. No, I'm not over here. Yeah, I got a good spot. It's actually really good
+
+490
+00:58:53,079 --> 00:58:56,659
+Cuz I'm gonna corrupt these these crates
+
+491
+00:58:57,860 --> 00:59:11,929
+What does that do? I mean it crops them. I guess I got a really good plan here. So I'm just shaking off the ectoplasm
+
+492
+00:59:12,809 --> 00:59:33,179
+The good call I forgot about that you can press B to ding apparently the ding you can yeah, you can I think we I
+
+493
+00:59:33,460 --> 00:59:50,519
+Wonder if the enemy team can hear that and it like stops ectoplasm build up. Oh, that's cool. Yes
+
+494
+00:59:52,659 --> 00:59:57,619
+Remember to throw your voice that shift and then
+
+495
+01:00:00,559 --> 01:00:04,210
+Yeah
+
+496
+01:00:05,769 --> 01:00:10,630
+By the way, they can totally hear you going
+
+497
+01:00:11,550 --> 01:00:13,550
+As you're jumping up and down. Oh
+
+498
+01:00:14,510 --> 01:00:22,329
+Aided that does make noise. I will just have to be light-footed then. I mean, I'm a I'm a treasure chest, but
+
+499
+01:00:22,849 --> 01:00:31,199
+It'll work. Just ding ring the bell smash the link
+
+500
+01:00:31,880 --> 01:00:35,079
+subscribe
+
+501
+01:00:53,519 --> 01:00:57,960
+If you do 25 taunts in one game you get an achievement right here right here
+
+502
+01:00:58,599 --> 01:01:03,980
+My team I see him. Oh, yeah
+
+503
+01:01:04,420 --> 01:01:06,420
+Bouncing a crate. Oh, I can't go that way
+
+504
+01:01:07,139 --> 01:01:10,880
+Run German German was the one that ended up getting chased first
+
+505
+01:01:11,519 --> 01:01:14,420
+Yeah, and we're being complete assholes and dingy
+
+506
+01:01:18,780 --> 01:01:21,380
+Good harpoon. Yeah, now we got him
+
+507
+01:01:29,820 --> 01:01:32,900
+lads here the oh
+
+508
+01:01:36,440 --> 01:01:39,420
+Yeah, what button is that?
+
+509
+01:01:39,420 --> 01:01:48,829
+What would you would you press? I left my mark and so did Kurt Cobain
+
+510
+01:01:48,989 --> 01:01:52,150
+I wish I could how do I I don't want to certainly did
+
+511
+01:01:53,969 --> 01:02:01,230
+Here's I lost him by the way. Oh nice. Here's the problem with putting your spray paint paint down is that
+
+512
+01:02:01,670 --> 01:02:10,590
+It's not it's not prop. It's not prop what it's not proper because it's not like work
+
+513
+01:02:10,829 --> 01:02:15,260
+You know, we're giving away that we're props. You know what? Yes. Yes
+
+514
+01:02:16,139 --> 01:02:22,570
+Dinging in the jumping before which was totally inconspicuous. I think yeah, I think that was alright
+
+515
+01:02:22,969 --> 01:02:25,659
+I'm back. I just had to place my spray over there
+
+516
+01:02:26,219 --> 01:02:33,420
+Let me spray on the wall walk in the fucking door. By the way, hold on big brain move. Oh, no little brain move
+
+517
+01:02:34,139 --> 01:03:08,960
+spot
+
+518
+01:03:08,960 --> 01:03:20,449
+Why am I still alive?
+
+519
+01:03:20,449 --> 01:03:23,300
+You've been digging
+
+520
+01:03:23,300 --> 01:03:29,070
+Very well. Did you like my dings? It's a good round good round
+
+521
+01:03:29,070 --> 01:03:38,500
+I don't know how to respond to that. This is a really good round so far. Yeah
+
+522
+01:03:40,340 --> 01:03:42,340
+surprisingly good like I
+
+523
+01:03:45,369 --> 01:03:52,010
+Want to say it's not us it's them because I'm currently dinging repeatedly and the spray is right behind my head
+
+524
+01:03:52,090 --> 01:03:54,090
+They just don't seem to care nice
+
+525
+01:03:56,030 --> 01:03:59,469
+There they did there if they die, they probably had it coming
+
+526
+01:04:00,150 --> 01:04:08,880
+Kind of heartless, but correct. Why am I dying? What's going on?
+
+527
+01:04:10,500 --> 01:04:16,010
+already dead the
+
+528
+01:04:17,409 --> 01:04:24,000
+The seeing the hunters through the walls perk is fucking broke as shit. Where are they? I
+
+529
+01:04:24,639 --> 01:04:32,829
+Didn't know that was a perk. I thought that was a passive for everybody. Yeah, that that perk is in a book
+
+530
+01:04:34,619 --> 01:04:41,610
+We got a location on them. They're all hiding behind the at the back of the ship here the this part
+
+531
+01:04:45,610 --> 01:04:47,050
+Third
+
+532
+01:04:47,050 --> 01:04:49,050
+That also the I killed one
+
+533
+01:04:49,570 --> 01:04:59,340
+nice job
+
+534
+01:05:00,019 --> 01:05:04,260
+Salt damages ghosts. Yeah, that's some
+
+535
+01:05:04,900 --> 01:05:09,380
+Some I guess the boat phasmophobia. I
+
+536
+01:05:11,409 --> 01:05:33,420
+Don't see anyone in the boat, but on me back me the boat. We need a pence of them. Yep. Found one found one
+
+537
+01:05:34,039 --> 01:05:39,949
+Go to a gas can German German gas can get him. Oh damn German
+
+538
+01:05:40,550 --> 01:05:50,010
+Hold on damn dude. That was next round savage brain that consume its work
+
+539
+01:05:53,599 --> 01:05:55,889
+Only one left
+
+540
+01:05:55,889 --> 01:06:03,920
+So it just kind of becomes reverse hide-and-seek at the ends it kind of does yeah
+
+541
+01:06:11,599 --> 01:06:13,880
+Who's left is a crank? Yeah
+
+542
+01:06:15,750 --> 01:06:16,969
+criken
+
+543
+01:06:16,969 --> 01:06:18,590
+Where are you?
+
+544
+01:06:18,590 --> 01:06:30,150
+Probably like crouching behind something over here. I'm definitely getting that perk. Let's see through all as one
+
+545
+01:06:30,650 --> 01:06:33,909
+It's very he's on the top of the ship everybody
+
+546
+01:06:34,670 --> 01:06:38,969
+He's like I'm one of the masts. Oh my god. If I just looked up I would have seen him fucking hell
+
+547
+01:06:38,969 --> 01:06:46,980
+I'm an idiot. I almost made it demand your blood
+
+548
+01:06:49,760 --> 01:06:55,809
+Ouch still up top. Nope right here
+
+549
+01:06:58,769 --> 01:07:06,260
+Nice job. Good. Good. Good. Good game. This is souped-up prop on kind of is yeah
+
+550
+01:07:06,960 --> 01:07:12,489
+Box do you want to change up teams ready? We're gonna keep going
+
+551
+01:07:13,210 --> 01:07:16,030
+What do you think? I don't know. It's up to you guys
+
+552
+01:07:20,050 --> 01:07:24,369
+You want to shuffle again, I think it's it depends on who gets in first is the
+
+553
+01:07:25,570 --> 01:07:27,250
+First team I think
+
+554
+01:07:27,250 --> 01:07:30,099
+Okay, so let's shuffle. I'll exit this
+
+555
+01:07:30,980 --> 01:07:41,090
+Okay, that's fun. That's cool. That was your best game yet. Yeah, I mean I'm starting to figure it out
+
+556
+01:07:41,090 --> 01:07:48,969
+I definitely want that see people through Wallace thing cuz that's ridiculous. I'll put it on
+
+557
+01:07:48,969 --> 01:08:02,610
+I like to smash it into people you can throw your voice with shift plus C
+
+558
+01:08:03,010 --> 01:08:09,510
+Is that a perk or can I just can I just do that? It looks sweaty. I don't think so
+
+559
+01:08:09,929 --> 01:08:20,949
+I'm a little flush for some reason. I don't know why let's get in I
+
+560
+01:08:21,670 --> 01:08:34,699
+Want to take a good look at those perks kind of like the huntsman it kind of is yeah
+
+561
+01:08:35,340 --> 01:08:39,750
+Alright, let's do some loadout stuff
+
+562
+01:08:39,789 --> 01:08:44,649
+Alright ghost loadout this one here
+
+563
+01:08:45,250 --> 01:08:49,899
+See hunters through walls. Okay, I can I can unlock it. I definitely want that
+
+564
+01:08:50,500 --> 01:08:55,350
+Even before midnight that seems like why would you pick anything else?
+
+565
+01:08:58,090 --> 01:09:04,090
+Telekinesis is so good. I was able to live through that whole thing. I tricked the whole team for like a full minute
+
+566
+01:09:07,100 --> 01:09:08,439
+deadly
+
+567
+01:09:08,439 --> 01:09:11,850
+ghostly mist
+
+568
+01:09:11,850 --> 01:09:17,100
+Corruptor that's not bad either
+
+569
+01:09:17,579 --> 01:09:33,750
+Someone's a fake ghost. Oh shit. I didn't get to look. I don't know about these though
+
+570
+01:09:34,470 --> 01:09:39,229
+Flamethrower I mean hi Kraken. We're finally on the same team, which is nice
+
+571
+01:09:39,229 --> 01:09:45,380
+Oh, I don't know. I wish it was easier to like customize the teams. But
+
+572
+01:09:46,060 --> 01:09:51,319
+anyway, sorry about the duck incident incident
+
+573
+01:09:53,189 --> 01:09:55,430
+Apologize to me man. I would have done the same. I
+
+574
+01:09:56,430 --> 01:10:00,189
+Saw a duck I got excited man. I don't know. I just sometimes I
+
+575
+01:10:00,989 --> 01:10:04,909
+That was where the duck spawned though. Like I didn't even move it. I was like, this is perfect
+
+576
+01:10:04,909 --> 01:10:07,350
+He just fucking shot me immediately just went right in
+
+577
+01:10:08,029 --> 01:10:15,520
+Is the sniper any good? I probably not. Oh
+
+578
+01:10:17,090 --> 01:10:23,970
+You know, you know snipe a fucking box, man. That's true. They like make new songs for
+
+579
+01:10:24,810 --> 01:10:27,289
+like this game
+
+580
+01:10:27,289 --> 01:10:31,640
+Or did they like go to?
+
+581
+01:10:31,800 --> 01:10:37,939
+Yeah, is it is it new songs zero this might be a new song. Yeah, I haven't heard this one before must be new
+
+582
+01:10:38,979 --> 01:10:48,779
+This is a good one. Do you like it? It's our solo is fantastic
+
+583
+01:10:49,779 --> 01:11:00,119
+It's very very generic David Gilmore Pink Floyd waterlands music. It seems like adequate small talk on the way to a haunted mansion
+
+584
+01:11:01,659 --> 01:11:08,329
+We've been to this one yet. No. Oh, yeah. We have I think we you know what we did a practice
+
+585
+01:11:09,729 --> 01:11:12,529
+What?
+
+586
+01:11:13,489 --> 01:11:15,789
+What happened
+
+587
+01:11:16,390 --> 01:11:19,210
+sensitivity is way too high
+
+588
+01:11:21,090 --> 01:11:37,470
+Ghosts just hanging out in this it's better if you guys see a ghost, you know, I got a ghost
+
+589
+01:11:37,470 --> 01:11:42,869
+Where did I move that with my body? It's probably a glizzy. Yeah. Okay. All right. Hear me. I
+
+590
+01:11:43,510 --> 01:11:47,670
+Hate the word glizzy, but I can't stop saying it someone glizzy someone just dinged
+
+591
+01:11:48,829 --> 01:11:51,050
+What's the definition of the glizzy? Hello? It's Ross
+
+592
+01:11:51,949 --> 01:11:57,289
+A glizzy is apparently slang for a hot dog and I have no idea why this happened
+
+593
+01:11:57,770 --> 01:11:59,770
+Is that a New York thing or I
+
+594
+01:12:01,720 --> 01:12:05,520
+Think it was in I've explained this and this has come up on my stream like five days in a row
+
+595
+01:12:05,680 --> 01:12:11,880
+Like five streams in a row, but it apparently started as slang for a Glock in prison in like Florida
+
+596
+01:12:11,880 --> 01:12:13,880
+And then somehow it became slang for a hot dog
+
+597
+01:12:14,239 --> 01:12:20,930
+Really?
+
+598
+01:12:20,930 --> 01:12:23,289
+Down in the dining room. I'm getting some activity
+
+599
+01:12:25,760 --> 01:12:38,250
+Yeah, yeah table it's I lost it I'll check it up check this chair
+
+600
+01:12:42,479 --> 01:12:44,479
+My god, I got a chair
+
+601
+01:12:45,000 --> 01:12:47,000
+It was the chair. I
+
+602
+01:12:47,039 --> 01:12:49,039
+3c4
+
+603
+01:12:50,439 --> 01:13:00,029
+Nice why we were all at the boards because I got soft one. Oh really? Oh man. Oh, that's not
+
+604
+01:13:06,600 --> 01:13:16,649
+I thought you guys were just hanging out there. We were trying to get somebody's dingin in here redo or
+
+605
+01:13:20,050 --> 01:13:22,050
+That other ability
+
+606
+01:13:24,250 --> 01:13:34,329
+Does the ding mean all right, can they be painting the ghost of Hector Salamanca is haunting us. Where are you Hector?
+
+607
+01:13:35,489 --> 01:13:47,050
+Yeah, that ding was literally in my head
+
+608
+01:14:01,760 --> 01:14:04,439
+No, they're not upstairs. They're not upstairs. They're not upstairs
+
+609
+01:14:13,630 --> 01:14:27,720
+No, they're not they're not downstairs. They're not downstairs. Okay, I swear to God somebody is in this room
+
+610
+01:14:27,720 --> 01:14:31,439
+You know if you can be door
+
+611
+01:14:31,880 --> 01:14:34,920
+We're gonna look real foolish once we figure out where this person is
+
+612
+01:14:35,560 --> 01:14:47,189
+In the fire. I didn't bring my ghost detecting instrument. I should get that. I think something was just in front of me
+
+613
+01:14:47,710 --> 01:15:03,680
+Did I miss it? It's just where the fuck is this person?
+
+614
+01:15:04,319 --> 01:15:11,619
+I'm getting a candle. There's a candle on the table. There's a candle
+
+615
+01:15:18,500 --> 01:15:26,229
+Candles it was a candle on the table. Oh, I don't know where they went. I know I don't know. I have no idea. I don't
+
+616
+01:15:29,840 --> 01:15:31,840
+Oh
+
+617
+01:15:45,989 --> 01:15:55,590
+Just spray everywhere
+
+618
+01:15:57,069 --> 01:16:00,289
+Where was he he had several things
+
+619
+01:16:01,489 --> 01:16:06,970
+He was a candle on the dining room table. I was sitting on the table. It turned it
+
+620
+01:16:07,569 --> 01:16:13,239
+He was like table with sheet on it. Yeah, I was on the table
+
+621
+01:16:14,239 --> 01:16:19,439
+Myself yeah two seconds and then I realized yeah, two of those kills were just because you're in the lobby stuck
+
+622
+01:16:19,439 --> 01:16:21,439
+I don't know. How do we not?
+
+623
+01:16:21,720 --> 01:16:28,420
+Randomly spray you or hit you when you were on the table. It was hilarious. Honestly, I was watching you just walk over him
+
+624
+01:16:28,939 --> 01:16:30,500
+That's crazy
+
+625
+01:16:30,500 --> 01:16:36,260
+All right leveled up. I want to unlock new skin. So I don't look like
+
+626
+01:16:38,890 --> 01:16:41,250
+Candle was body blocking you
+
+627
+01:16:41,770 --> 01:16:47,149
+Have you seen arcane? What are your thoughts on the show? I think it's on the first episode
+
+628
+01:16:47,829 --> 01:16:53,369
+The only thing I remember from arcane was oh
+
+629
+01:16:55,029 --> 01:16:56,949
+the misery
+
+630
+01:16:56,949 --> 01:16:58,949
+Every single person is my enemy
+
+631
+01:16:59,630 --> 01:17:02,600
+That's all it's the only thing I know. I don't know anything else
+
+632
+01:17:06,880 --> 01:17:12,710
+And the song goes oh
+
+633
+01:17:15,329 --> 01:17:18,170
+Imagine dragons that they they have that formula down. They have that
+
+634
+01:17:18,770 --> 01:17:25,680
+Salt circle blocks your pet. Oh
+
+635
+01:17:25,920 --> 01:17:26,899
+That's good
+
+636
+01:17:26,899 --> 01:17:37,250
+And dude, by the way when that song comes on when I saw that intro like a warmth raises over my body
+
+637
+01:17:37,250 --> 01:17:40,810
+Like I'm like, it's like it's not chills, but it's like a yes. Here we go. I
+
+638
+01:17:42,359 --> 01:17:58,369
+Don't like this spot at all. By the way, I can what are you? You're the door
+
+639
+01:18:13,319 --> 01:18:34,220
+I've even moved the thing. Oh what I even moved. Ah, whatever skill issue. I was too busy like doing like
+
+640
+01:18:38,420 --> 01:18:49,060
+My enemies I'm
+
+641
+01:18:49,779 --> 01:18:51,300
+Radioactive
+
+642
+01:18:51,300 --> 01:18:54,539
+Radioactive every single person is my enemy
+
+643
+01:18:55,220 --> 01:19:14,250
+What's that stop? I have imagined dragons on right now
+
+644
+01:19:17,699 --> 01:19:23,539
+Well, I don't care. I'm not one of those banned elitist, right? I'm not gonna be like well, I
+
+645
+01:19:24,140 --> 01:19:29,729
+Have this indie band that I listen to that's better. I don't I don't care if you enjoy music good
+
+646
+01:19:29,729 --> 01:19:34,760
+I hope you do. I don't I don't listen to music. I don't really listen to it too much
+
+647
+01:19:34,800 --> 01:19:40,640
+I listen to like the guerrillas albums on repeat the Lost Odyssey soundtrack on repeat
+
+648
+01:19:42,260 --> 01:19:46,270
+Full metal alchemist intro and outro brotherhood
+
+649
+01:19:47,210 --> 01:19:49,010
+Maybe like a dozen times a week
+
+650
+01:19:49,010 --> 01:19:57,500
+I used to be able to recite the entire attack on Titan season 2 intro until I was like I probably should stop doing this
+
+651
+01:19:57,500 --> 01:20:20,279
+Cuz the YouTube algorithms gonna like I think I'm like a fucking weirdo. What was that sound? I cannot hear him
+
+652
+01:20:22,680 --> 01:20:29,100
+Are you making fun of imagine dragons? I just told you I didn't I'm just saying like that. Those are the two songs
+
+653
+01:20:29,100 --> 01:20:36,590
+I know I thought I didn't make I just said that music if you have different music tastes. There's nothing wrong with it
+
+654
+01:20:36,590 --> 01:20:43,960
+I don't care. Okay, I feel to say people used to give me shit about liking the Venom movie. Okay, look
+
+655
+01:20:43,960 --> 01:20:47,489
+I you know, I do let me tell you something about why the Venom movie
+
+656
+01:20:47,489 --> 01:20:50,930
+I don't I don't care if you don't like the Venom it's working cracking. I thought it was funny
+
+657
+01:20:50,930 --> 01:20:55,130
+I thought it was just like absurd. It was awful, but it was great at the same time. Who cares
+
+658
+01:20:55,289 --> 01:21:11,430
+Who doesn't matter?
+
+659
+01:21:11,430 --> 01:21:16,630
+Nowhere in that whole thing. Did I say I hate him? We're gonna avoid the clip
+
+660
+01:21:17,560 --> 01:21:20,880
+Nowhere during that entire segment. Did I say the words?
+
+661
+01:21:20,880 --> 01:21:31,460
+I never said this hate never said this imagine dragons never said it. All I said was I just I didn't say anything
+
+662
+01:21:31,460 --> 01:21:32,739
+I just went oh
+
+663
+01:21:32,739 --> 01:21:34,739
+I'm not gonna say it again
+
+664
+01:21:34,739 --> 01:21:44,279
+Oh
+
+665
+01:21:50,850 --> 01:21:54,729
+I'm not kidding man. I really thought something's wrong with my computer. I thought something was wrong
+
+666
+01:22:10,949 --> 01:22:15,310
+I thought there's something in this drink. I was like what happened? What did I just take?
+
+667
+01:22:15,789 --> 01:22:22,279
+It's like why the drugs in my drink what's going on I was like what the fuck
+
+668
+01:22:23,000 --> 01:22:27,600
+Feels like the screen is wavy too. I'm just like, what's it the macho?
+
+669
+01:22:33,479 --> 01:22:41,560
+All right, that is the most annoying fucking too much matcha powder I
+
+670
+01:22:42,680 --> 01:22:44,680
+Really think I'm gonna select it next time
+
+671
+01:22:45,840 --> 01:22:48,079
+It's like this side of it mother matcha powder
+
+672
+01:22:48,720 --> 01:22:57,199
+you know
+
+673
+01:22:57,239 --> 01:23:03,039
+The ghost hunt was really about the friends we made I died it wasn't so much about the actual ghost hunting
+
+674
+01:23:03,039 --> 01:23:07,970
+I was I was gone on the first probably five seconds
+
+675
+01:23:33,319 --> 01:23:56,310
+This thing's too big I'd like to dub this genre of game prop hunt with consequences. Oh
+
+676
+01:23:57,149 --> 01:24:28,720
+Shit I just bumped into you shit. Oh fuck. I was hoping Tony and physics would win out. I just kept missing
+
+677
+01:24:29,399 --> 01:24:32,680
+How do you even die in this we can get killed in the ghost?
+
+678
+01:24:32,680 --> 01:24:37,840
+Oh, I was bumping into stuff on that room was a bad place to do that should have left and on that map of all maps
+
+679
+01:24:38,319 --> 01:24:46,340
+We got consequenced. Yeah, I feel you guys should have had a real advantage to that true life consequences. I
+
+680
+01:24:48,750 --> 01:24:52,010
+Slammed into so yeah to ghosts. We smashed into it. It was too
+
+681
+01:24:52,489 --> 01:24:57,289
+Hey, I'm like these spooky ghost perk. That's just there to fuck with the other team. I
+
+682
+01:24:57,890 --> 01:25:00,430
+Just was trying to be annoying. I hope it worked
+
+683
+01:25:01,010 --> 01:25:05,250
+It oh trust me it worked. I it was soothing. I went to I went to
+
+684
+01:25:06,250 --> 01:25:08,250
+policing the attack on Titan intro
+
+685
+01:25:08,569 --> 01:25:14,239
+Now you're really gonna get like are you kidding me? I?
+
+686
+01:25:18,250 --> 01:25:19,939
+know
+
+687
+01:25:19,939 --> 01:25:21,930
+No way
+
+688
+01:25:21,930 --> 01:25:24,909
+No way not a chance in hell. No way
+
+689
+01:25:25,430 --> 01:25:34,359
+Hey, you like my outfit. Oh, it's a new that's how much does it cost?
+
+690
+01:25:36,470 --> 01:25:40,989
+1500 it costs you your soul because you have to cook meth and albuquerque to get it. Oh
+
+691
+01:25:41,510 --> 01:25:46,189
+That is a that is a Jesse out for you, right a little bit
+
+692
+01:25:46,710 --> 01:25:54,829
+And then just that's that's two references breaking bad tonight. It's just Jesse Jesse. Oh, yeah, it is a woman
+
+693
+01:25:54,829 --> 01:25:57,710
+I didn't realize that definitely a bit a bit of curves
+
+694
+01:25:57,869 --> 01:26:04,390
+I was play here. We got it. We want to strategize a little bit. We do two and two
+
+695
+01:26:05,149 --> 01:26:09,140
+Two and two and I think the high road
+
+696
+01:26:11,439 --> 01:26:18,520
+Okay, I'll take the the criken road because I want to atone for my killing of the duck
+
+697
+01:26:21,640 --> 01:26:24,680
+It looks like I'm the only one with a vacuum so I
+
+698
+01:26:25,279 --> 01:26:27,460
+Got it. I got a I have the radar
+
+699
+01:26:28,449 --> 01:26:30,609
+remember you can switch mid-round at the
+
+700
+01:26:30,970 --> 01:26:39,880
+Desk room have you considered singing as a career? You have a zoomer potential a meth cookie one
+
+701
+01:26:40,920 --> 01:26:45,680
+What does that mean? I saw you see that he was fucking running around upstairs. He's going up. He's going up top
+
+702
+01:26:56,029 --> 01:27:03,310
+I'll cover the down
+
+703
+01:27:03,670 --> 01:27:06,039
+Handle
+
+704
+01:27:06,039 --> 01:27:16,500
+Somewhere oh ding. I'm not getting I'm not getting a reading. Yeah, they bailed they booked it
+
+705
+01:27:17,560 --> 01:27:19,119
+Oh
+
+706
+01:27:19,119 --> 01:27:24,989
+There was something here in this room there he goes here, please make yourself known
+
+707
+01:27:25,670 --> 01:27:32,659
+Stone duck I see that you found your spirit animal
+
+708
+01:27:32,659 --> 01:27:46,449
+I mean notice I find the duck in whatever map we're in Adam right here on me. He's a barrel with candles
+
+709
+01:27:46,449 --> 01:27:51,750
+Oh, he checked he changed he changed he switched. I don't know. I don't know. I don't know. I don't know
+
+710
+01:27:51,750 --> 01:27:56,960
+I don't candle but candle. It's that she thinks she says
+
+711
+01:27:57,720 --> 01:28:03,560
+Up top up top up top another barrel candles coming down all candles
+
+712
+01:28:04,039 --> 01:28:20,800
+Going to the under crop I'm down. There's all this shit in the way down down down down
+
+713
+01:28:22,210 --> 01:28:24,510
+Down his candles his candle
+
+714
+01:28:25,170 --> 01:28:46,760
+That was a headshot what they won't gonna back nice work somebody else down here at least it looked like it
+
+715
+01:28:51,199 --> 01:28:58,199
+Really
+
+716
+01:28:58,199 --> 01:29:26,680
+Maybe they went up. I heard I'd be up. Yeah, I think they might be up
+
+717
+01:29:26,680 --> 01:29:33,460
+Oh, this is just misery the thing is that they're the enemy though, so we gotta make sure we take them out
+
+718
+01:29:33,779 --> 01:29:49,609
+I think anybody can fucking hear me. I'm too far away. No more ding. I don't this had been on the roof
+
+719
+01:29:52,699 --> 01:30:00,000
+To left I'll check the Crips. It's just don't duck move
+
+720
+01:30:12,470 --> 01:30:18,729
+We still have activity in this read pretty bumped into me and yeah, there's a thing on the lantern over here
+
+721
+01:30:18,729 --> 01:30:20,909
+I don't know. I don't know something
+
+722
+01:30:21,970 --> 01:30:30,250
+Fuck somebody threw that at me. No way. Yeah, somebody somebody threw that at me
+
+723
+01:30:30,329 --> 01:30:34,739
+And it's pissing me off. Yeah, we we've got activity here and
+
+724
+01:30:36,539 --> 01:30:42,750
+Ding ding once if you're alive thing once
+
+725
+01:30:47,590 --> 01:30:57,199
+Yeah, I'm getting this activity and they be up on this lip is not the real she says gas can't help wait shoot this
+
+726
+01:31:04,149 --> 01:31:09,090
+Yeah, nice work on left
+
+727
+01:31:14,039 --> 01:31:21,250
+Crap 30 seconds if you're a ghost with the most just communicate appears press the V button
+
+728
+01:31:21,970 --> 01:31:24,510
+Ghost press the V button and that'll help you
+
+729
+01:31:25,130 --> 01:31:39,340
+This is this level is really good for for ghosts. There's a lot of room. Fuck. I don't know in life
+
+730
+01:31:39,340 --> 01:31:40,979
+Were you an animator?
+
+731
+01:31:40,979 --> 01:31:47,020
+Good night. I'm gonna stay perched
+
+732
+01:31:47,539 --> 01:32:05,279
+Fuck. Oh my god. We lost what? Wow. What? Oh
+
+733
+01:32:06,479 --> 01:32:10,529
+I was a statue in the basement that you guys walked
+
+734
+01:32:11,170 --> 01:32:17,670
+I knew it. I knew it. I knew is in the basement. It's good. Yeah, you were in on that. This is dog
+
+735
+01:32:19,050 --> 01:32:24,130
+I love the egg dog so much dog shit. Thank you fucking weapon is absolute dog shit
+
+736
+01:32:24,970 --> 01:32:26,970
+Seven damage that how do you do?
+
+737
+01:32:27,489 --> 01:32:31,529
+The tag I saw on the ground weapons dog shit. I'm just you great
+
+738
+01:32:32,529 --> 01:32:39,359
+Okay, and it just is your twitch avatar right thing. I'm a twitch. I hear your steam
+
+739
+01:32:39,520 --> 01:32:46,590
+Yeah, yes a bad craftsman blames the tools a bad craftsman blames a seven damage sniper
+
+740
+01:32:47,069 --> 01:32:57,319
+when the exploding splash damage the five per clip bomb weapon does like 30 all of them
+
+741
+01:33:01,859 --> 01:33:17,699
+Isary I won't do this. I think fly cuz you can fly that's yeah under that. All right. That was that was a good round
+
+742
+01:33:17,699 --> 01:33:33,130
+But let's go for it. There's some really good ghost skins like they're expensive as fuck, but there's some really fun ones
+
+743
+01:33:33,130 --> 01:33:35,229
+I gotta look at them. I like the
+
+744
+01:33:36,670 --> 01:33:44,399
+Grim Reaper one. I think I'm gonna be that one's cool. I just like the classic ghost with sheet America statue
+
+745
+01:33:44,720 --> 01:33:47,989
+Should I do door again? Or is that uh?
+
+746
+01:33:48,590 --> 01:33:55,079
+No way. It works twice. I think it will work again. Yeah, it's just
+
+747
+01:33:56,000 --> 01:34:03,810
+When the right mind would be a door for five minutes the person who likes the most fun gameplay
+
+748
+01:34:05,310 --> 01:34:06,510
+I like my spot
+
+749
+01:34:06,510 --> 01:34:13,279
+Also criken I saw you streaming something the other day where like chat was
+
+750
+01:34:14,279 --> 01:34:18,239
+Participating and they were like little avat like avatars and stuff. Yeah, what was that?
+
+751
+01:34:19,260 --> 01:34:29,090
+Cuckaroo was it good. Yeah, it's pretty fun. It's like it only uses your chat for interaction
+
+752
+01:34:29,090 --> 01:34:35,050
+So it kind of spams up the whole thing, but oh, they're gonna run Vinny. Oh, no. Oh, no. Oh, no
+
+753
+01:34:44,520 --> 01:34:46,199
+Vinny's doing the duck
+
+754
+01:34:47,000 --> 01:35:04,930
+Self-report self-report. I'm beginning to I'm beginning to think I'm bad at this game. Can I talk or were they hear me?
+
+755
+01:35:05,770 --> 01:35:12,529
+You're good. If you press Q. Yeah, I
+
+756
+01:35:13,130 --> 01:35:22,979
+Do you do you see my 100 million IQ spot here? I'm gonna take a look guys
+
+757
+01:35:22,979 --> 01:35:25,340
+I accidentally sprayed my spray and right next to my door
+
+758
+01:35:26,300 --> 01:35:31,739
+Very that's cool. If they see it, it's a very clear giveaway
+
+759
+01:35:32,060 --> 01:35:34,020
+I'm the door
+
+760
+01:35:34,020 --> 01:35:40,850
+Just the door. I literally okay that put my own face on the door. That's a good spot
+
+761
+01:35:40,850 --> 01:35:55,279
+That's a good spot and it's stretched criken like a cross. It's really cool
+
+762
+01:35:55,279 --> 01:36:03,619
+Look, he sees it. There's no way they find me. Is he gonna this is riveting gameplay?
+
+763
+01:36:03,619 --> 01:36:09,020
+This is called winning gameplay because there's no fucking way anyone's gonna come over here. Like why would you come over here?
+
+764
+01:36:16,220 --> 01:36:22,590
+They really not you know, they didn't they just went okay the door I really hope none of them try to call my god
+
+765
+01:36:23,229 --> 01:36:30,310
+Good up to do that. Let's all right. We're good. Long time fan want to tell you that your title sucks
+
+766
+01:36:30,310 --> 01:36:43,539
+I don't know what the title is
+
+767
+01:36:43,579 --> 01:36:45,579
+I'm dangin
+
+768
+01:36:51,939 --> 01:36:55,699
+Here you do well you should have
+
+769
+01:36:57,619 --> 01:37:02,739
+They're never gonna find me no way
+
+770
+01:37:02,979 --> 01:37:20,739
+No fucking way. This is the best spot of the whole day. I think I can move a little
+
+771
+01:37:21,340 --> 01:37:23,140
+Clear the build up
+
+772
+01:37:23,140 --> 01:37:29,539
+my fucking god there
+
+773
+01:37:29,779 --> 01:38:10,829
+There's no way. No, this is no fucking way. They're gonna come over. I am in the clear. I am never going to be found
+
+774
+01:38:11,710 --> 01:38:27,300
+But wait, that means I have to kill everybody throw your voice. It was shift C should hold shift and press C
+
+775
+01:38:37,420 --> 01:38:45,600
+That work
+
+776
+01:39:10,560 --> 01:39:12,560
+Oh
+
+777
+01:39:17,220 --> 01:39:41,510
+Is that all right, all right, all right, all right, all right up I oh I fucked up I fucked up
+
+778
+01:39:41,630 --> 01:40:15,930
+This reminds me of bugs life when the ants stand up to the grasshoppers. It's like we're not as big a threat as they thought
+
+779
+01:40:17,270 --> 01:40:25,470
+Haven't thought of that in a very long time. The shotguns insane. We're still hiding from them down
+
+780
+01:40:26,270 --> 01:40:31,699
+Go gas can gas can you got this?
+
+781
+01:40:32,500 --> 01:40:44,829
+No, what?
+
+782
+01:40:44,829 --> 01:40:47,460
+No
+
+783
+01:40:48,140 --> 01:40:50,140
+How the heck is he flying like that?
+
+784
+01:40:56,020 --> 01:41:03,449
+My god. Holy shit. What a magnificent last stand. Yeah, I was trying to I
+
+785
+01:41:04,609 --> 01:41:09,710
+Was holding the button down. I felt kind of bad for him. I I was holding right click
+
+786
+01:41:09,710 --> 01:41:13,229
+I know you could throw your body at him hit him the fucking head. I do I couldn't hit him the fucking head though
+
+787
+01:41:13,670 --> 01:41:19,380
+No, you can like slash it people if you didn't know. Oh, it kills almost instantly
+
+788
+01:41:20,220 --> 01:41:24,689
+Does it really
+
+789
+01:41:24,689 --> 01:41:30,250
+I was trying that too, and I was not doing enough damage. I did 98 damage to me in one hit
+
+790
+01:41:35,119 --> 01:41:38,840
+I'm trying to hit him in the fucking head. I know you can fucking hit him in the fucking head
+
+791
+01:41:39,319 --> 01:42:00,140
+All right. Now that I know okay now that I know that I could do it. Give me this goddamn thing
+
+792
+01:42:00,699 --> 01:42:05,319
+So guys, how are you doing that?
+
+793
+01:42:06,039 --> 01:42:09,899
+local training
+
+794
+01:42:09,899 --> 01:42:14,109
+That's just what I could do that by a fucking sledgehammer
+
+795
+01:42:15,210 --> 01:42:23,810
+Secret vocal technique, I guess we'll do these teams
+
+796
+01:42:25,010 --> 01:42:26,489
+I'm sorry
+
+797
+01:42:26,489 --> 01:42:29,229
+Someone on my chat. Just said Vinnie annoys his friends all night
+
+798
+01:42:30,050 --> 01:42:34,060
+I don't think it's annoying. I think it's cool. I think you're great, man. I
+
+799
+01:42:34,579 --> 01:42:37,399
+Do frostbite this I?
+
+800
+01:42:38,609 --> 01:42:41,569
+Think that's great, too. You know, in fact, we're going to prom right now
+
+801
+01:42:42,130 --> 01:42:45,260
+That's pretty touching
+
+802
+01:42:45,420 --> 01:42:47,539
+Yeah, I think we're all each other's dates
+
+803
+01:42:48,180 --> 01:42:52,220
+All right, cool. Very excited. I'm gonna cook some meth at the prom
+
+804
+01:42:52,579 --> 01:42:57,880
+You guys can like place on fire. Yeah, you should spike the fruit punch with meth
+
+805
+01:43:00,220 --> 01:43:04,050
+Well, I don't know mr. White, come on Jesse
+
+806
+01:43:11,039 --> 01:43:18,180
+I'm happy I got Jerma to hear I got to hear Jerma do a Walter White impression
+
+807
+01:43:25,380 --> 01:43:29,859
+It's really easy just do Harrison Ford but say Jesse
+
+808
+01:43:32,399 --> 01:43:35,340
+Chewy, I mean Jesse
+
+809
+01:43:36,579 --> 01:43:43,050
+You got it. That was perfect
+
+810
+01:43:46,090 --> 01:43:49,100
+Think once for yes and none for no
+
+811
+01:43:52,180 --> 01:44:06,239
+Was moving is your name rubber Ross? All right, never mind. It's not Ross
+
+812
+01:44:09,079 --> 01:44:12,649
+Hulk says
+
+813
+01:44:13,329 --> 01:44:15,699
+There's somebody in the ballroom area
+
+814
+01:44:18,220 --> 01:44:20,859
+Okay, what the fuck I don't know
+
+815
+01:44:24,090 --> 01:44:37,579
+Percussion it's like oh like there's someone in the in the dance hall. Oh, he scared me
+
+816
+01:44:52,159 --> 01:44:55,239
+I'm trying to shoot him with the ice pellets. Well, we're all bad at this
+
+817
+01:44:55,399 --> 01:44:57,609
+I
+
+818
+01:44:57,609 --> 01:45:04,340
+Got science lab. There is a weird teleporter in here though. Oh, it's a bouncy pad
+
+819
+01:45:04,939 --> 01:45:26,739
+I'll see him. Yeah, she says your shit. Your shaggy voice is like unreal. Thank you. Here. Let me try one more time
+
+820
+01:45:27,060 --> 01:45:31,289
+Like swing scoop like we're at the prom
+
+821
+01:45:32,149 --> 01:45:34,149
+That's pretty good
+
+822
+01:45:42,739 --> 01:45:45,260
+Scrappy do and get banned. It's probably apologize
+
+823
+01:45:48,779 --> 01:45:53,140
+Yeah, you get banned from the server and which unfortunately it's in their rules now
+
+824
+01:45:53,739 --> 01:45:55,739
+Somebody's in here. Somebody's a chair or something. I
+
+825
+01:46:03,960 --> 01:46:08,029
+Think we have a ghost in the punch bowl. Oh, I hope we do
+
+826
+01:46:08,550 --> 01:46:12,420
+That's not the real cry
+
+827
+01:46:12,460 --> 01:46:15,270
+What what no
+
+828
+01:46:15,670 --> 01:46:24,640
+That was fake Kraken. I got to the first layer. Hold on
+
+829
+01:46:31,819 --> 01:46:38,310
+Thankfully, it's right. Oh, no a bomb in the lasagna. I am 100% being a toilet
+
+830
+01:46:38,310 --> 01:46:44,560
+Yeah, that wasn't Kraken that was Kraken. There's no way I'm not gonna be a toilet next room
+
+831
+01:46:44,720 --> 01:46:51,930
+There's no activity here at all zero zero Roger Roger
+
+832
+01:46:51,930 --> 01:47:11,020
+I mean my icon is Nirvana. So there's a song from Nirvana called school. Anyone know that song? Yeah. Yeah
+
+833
+01:47:11,220 --> 01:47:14,130
+That's this right now. So true
+
+834
+01:47:15,010 --> 01:47:26,369
+Interesting and I get some friends to come out of the stage, please. Oh, no, I couldn't find me squid game. Look an idiot
+
+835
+01:47:26,930 --> 01:47:34,649
+He's gonna be an idiot in squid game. He's a guitar guitar guitar guitar if you're
+
+836
+01:47:40,180 --> 01:47:49,859
+All we're gonna die. Have we tried in here?
+
+837
+01:47:50,460 --> 01:47:53,380
+Dude, I am such a okay. I cannot use this next time
+
+838
+01:47:53,380 --> 01:47:56,600
+I'm just staring at the meter and not looking at what it's pointing at
+
+839
+01:48:01,420 --> 01:48:12,579
+We got a ding and I I don't even trash he was trash it was Liam he was trash
+
+840
+01:48:20,380 --> 01:48:31,810
+Oh my god, Lois, I thought you know
+
+841
+01:48:33,170 --> 01:48:35,689
+Was jolly. Yeah, I just got sucks to
+
+842
+01:48:37,090 --> 01:48:40,859
+Damn it. Are there any weapons that are good besides the first one? I
+
+843
+01:48:43,260 --> 01:48:45,260
+Haven't found I haven't found one yet
+
+844
+01:48:45,539 --> 01:48:48,539
+Dang Liam, I thought it was jolly dinging the whole time
+
+845
+01:48:49,859 --> 01:48:56,270
+No, yeah, I was I was a trash can in the hallway. Well, you figured it out. Yeah, he's a shotgun
+
+846
+01:48:56,670 --> 01:49:02,810
+Yeah, I was and then I was a drum kit before then you walked by me a lot. I think also
+
+847
+01:49:03,390 --> 01:49:05,819
+my
+
+848
+01:49:05,819 --> 01:49:09,340
+Lads for tonight. My goal is for us to see every map at least once
+
+849
+01:49:09,340 --> 01:49:15,800
+So I think we I think we only have one more after this to be fit. Okay, this is probably a bad idea
+
+850
+01:49:15,800 --> 01:49:18,039
+But let's see what happens
+
+851
+01:49:18,840 --> 01:49:30,289
+Whatever people think I'm like a cringy annoying loser. Anyways, I'm going for it. This one's better
+
+852
+01:49:30,289 --> 01:49:38,260
+I like this actually way more I put shove hunter. Yeah to be fair someone was saying
+
+853
+01:49:39,020 --> 01:49:42,840
+Probably the other team
+
+854
+01:49:43,199 --> 01:49:46,140
+You guys don't all at the same time do a Peter Griffin impression that the kind of three
+
+855
+01:49:46,640 --> 01:49:51,310
+Yeah, let's do it. I think so. I think it's worth it. What are we saying? I'd love to see
+
+856
+01:49:51,649 --> 01:49:56,090
+Yeah, we're gonna say the same thing too. Yeah the exact same thing. Okay. What is it?
+
+857
+01:49:58,500 --> 01:50:01,260
+This reminds me of the time that I went to the school dance Lois
+
+858
+01:50:01,739 --> 01:50:04,350
+Yeah, you ready?
+
+859
+01:50:04,350 --> 01:50:09,369
+Yeah, and one two three this reminds me
+
+860
+01:50:14,010 --> 01:50:21,100
+Feel like I'm the weak link there guys, I gotta be honest. I couldn't tell because it was just a cacophony of Peters
+
+861
+01:50:22,250 --> 01:50:27,930
+That's like we all we all so badly wanted to make the same joke and we did it at the same time
+
+862
+01:50:27,930 --> 01:50:32,159
+I mean you told us yeah, but like but that's like it
+
+863
+01:50:32,439 --> 01:50:38,079
+Like out of context though like we all so badly wanted to make the Peter Griffin reference at the school dance
+
+864
+01:50:38,479 --> 01:50:41,140
+And all happen to say the same exact line
+
+865
+01:50:41,960 --> 01:50:45,899
+It's a very memorable quote. We could probably get Ross and his
+
+866
+01:50:46,939 --> 01:50:53,619
+To no don't be a guitar. That's so obvious animate it fucked. But yeah, I'm sure he would love to do that
+
+867
+01:50:54,060 --> 01:51:00,460
+Wait, I had not moved. I was too busy focusing on Peter Griffin
+
+868
+01:51:00,460 --> 01:51:05,140
+I'm the mic in the middle of the dance floor. It's not a good place to be
+
+869
+01:51:05,180 --> 01:51:06,180
+I mean
+
+870
+01:51:06,180 --> 01:51:13,659
+But the but you are an important tool of the dance without you. How would we hear the vocals? Yeah, whenever they come close
+
+871
+01:51:13,659 --> 01:51:20,779
+I'm gonna say um, Peter Griffin line. Okay. Remember you can throw your voice
+
+872
+01:51:21,060 --> 01:51:25,300
+I'm gonna throw it right behind them. They're gonna turn around and then I'll run
+
+873
+01:51:25,300 --> 01:51:28,220
+Yeah, how far can you throw it just as far as you can see?
+
+874
+01:51:28,819 --> 01:51:33,079
+Yeah, it's a little pinpoint when you do it. You hold control and see
+
+875
+01:51:33,939 --> 01:51:39,489
+So it's control and see what was that cool noise. It's not like Chewbacca
+
+876
+01:51:41,329 --> 01:51:46,189
+I hate that noise
+
+877
+01:52:00,909 --> 01:52:06,220
+Fucking scary
+
+878
+01:52:15,819 --> 01:52:17,819
+What you think of a bowl of Cheetos
+
+879
+01:52:36,939 --> 01:53:25,229
+Screw damn I'm a big man. Yeah, this is ghost Peter Griffin. Yeah, I'm staying right here you Stewie
+
+880
+01:53:25,550 --> 01:53:43,729
+You're not throwing it shift and see look. I can see it over there. That's what I'm doing the whole time
+
+881
+01:53:43,729 --> 01:53:59,159
+Look, you can see the indicator just see as I'm doing we're doing the whole time. This is now just spooky family guy
+
+882
+01:53:59,260 --> 01:54:05,670
+I'm over here. I'm over here here here. I'm over here here here
+
+883
+01:54:30,659 --> 01:54:54,600
+No, no, no, no, no, no, no, no
+
+884
+01:54:56,850 --> 01:55:00,210
+I feel like I have the best hiding spot. Like I haven't seen anybody come over here
+
+885
+01:55:01,729 --> 01:55:05,569
+They all just like hanging out in the uh, the actual dance hall. No, no, no, no, no
+
+886
+01:55:31,409 --> 01:55:33,489
+Snake have you ever heard of the diaper chief?
+
+887
+01:55:46,850 --> 01:55:48,850
+I need to live I need to live
+
+888
+01:55:51,409 --> 01:56:02,659
+Come on you can't come on you fucking consumerists
+
+889
+01:56:13,010 --> 01:56:14,859
+C4
+
+890
+01:56:14,859 --> 01:56:17,949
+I got insta killed
+
+891
+01:56:17,949 --> 01:56:22,140
+I got one
+
+892
+01:56:22,140 --> 01:56:24,380
+Uh, it's just me. I forgot you can attack fuck
+
+893
+01:56:26,739 --> 01:56:28,739
+Why is it consumerists? I don't know
+
+894
+01:56:31,520 --> 01:56:34,880
+It's crazy to me. You can survive the entire round and then die in one hit
+
+895
+01:56:35,600 --> 01:56:37,600
+Yeah
+
+896
+01:56:39,760 --> 01:56:45,039
+I gotta I gotta remember to actually attack with right click. I've been trying i've been headshotting people with the furniture
+
+897
+01:56:46,479 --> 01:56:48,479
+I got
+
+898
+01:56:49,119 --> 01:56:52,640
+Yeah, and also in some ways less risky because you're going fast
+
+899
+01:56:59,420 --> 01:57:01,600
+Diaper chief stop it
+
+900
+01:57:02,000 --> 01:57:04,859
+How do you get that pose?
+
+901
+01:57:04,859 --> 01:57:07,300
+It's an emote
+
+902
+01:57:07,460 --> 01:57:09,460
+I don't know. It's a it's a victory pose
+
+903
+01:57:09,779 --> 01:57:16,979
+I don't know almost killed me with the sheer forces and launch. That was pretty cool. Yeah, you had 10 health left, right?
+
+904
+01:57:17,859 --> 01:57:22,500
+Let us exit the server and do one more map perhaps with one more change of team
+
+905
+01:57:22,979 --> 01:57:27,699
+All right, should we should we change the join order? Because that seems to be what the uh teams are
+
+906
+01:57:27,699 --> 01:57:30,819
+Yeah, let's try that. We can organize it we can like decide who goes
+
+907
+01:57:30,819 --> 01:57:33,600
+What?
+
+908
+01:57:33,600 --> 01:57:37,340
+consumerist
+
+909
+01:57:37,340 --> 01:57:40,619
+I don't know. We're like in all these objects like basketballs and like
+
+910
+01:57:42,220 --> 01:57:44,619
+Like keyboards and like computers. I don't know
+
+911
+01:57:45,100 --> 01:57:50,079
+I figured it'd be like what the fuck is he talking about? Like they're running around chasing this ghost who is a chair
+
+912
+01:57:50,640 --> 01:57:52,640
+And he's like you fucking consumerist. It's like
+
+913
+01:57:53,199 --> 01:57:56,270
+What are you talking about? What does that have to do with anything?
+
+914
+01:58:06,800 --> 01:58:08,560
+You're an object
+
+915
+01:58:08,560 --> 01:58:10,560
+Yeah, I know i'm like a piano
+
+916
+01:58:10,800 --> 01:58:13,810
+He's so high
+
+917
+01:58:14,050 --> 01:58:27,470
+You keep talking in team chat
+
+918
+01:58:27,470 --> 01:58:30,029
+Oh, that was the time that I played golf
+
+919
+01:58:31,300 --> 01:58:37,060
+This is fun. This is fun
+
+920
+01:58:37,060 --> 01:58:41,060
+Yeah, I was throwing my voice. I was throwing it all I that that was a really good round during the hiding phase
+
+921
+01:58:41,859 --> 01:58:56,689
+I think we're gonna wait till a couple people join so the teams are more scrambled
+
+922
+01:58:57,329 --> 01:59:02,260
+I think he's actually high. I'm I'm not i'm just having a good time
+
+923
+01:59:16,020 --> 01:59:18,020
+Don't ever bet on germa's team. We've won a few
+
+924
+01:59:19,060 --> 01:59:35,149
+All right, i'm gonna join now and joining. Oh that lobby doesn't exist
+
+925
+01:59:35,869 --> 01:59:45,920
+What are the animes that you've watched? I like the kind of mainstream ones attack on titan full metal alchemist
+
+926
+01:59:47,380 --> 01:59:52,720
+um
+
+927
+01:59:52,720 --> 01:59:53,600
+uh
+
+928
+01:59:53,600 --> 01:59:55,199
+Jujutsu kaisen
+
+929
+01:59:55,199 --> 02:00:08,960
+Although I don't think it finished that one. I've not seen jojo. No, that's pretty much it though
+
+930
+02:00:09,920 --> 02:00:13,180
+I've seen berserk a long time ago
+
+931
+02:00:13,180 --> 02:00:15,180
+What about mog? I don't think it's an anime
+
+932
+02:00:17,810 --> 02:00:19,810
+Brother hoodo the original i've seen both
+
+933
+02:00:20,699 --> 02:00:26,420
+One punch man i've seen season one of one punch man and i've been told just pretend that it ends at season one
+
+934
+02:00:30,909 --> 02:00:46,079
+Well mob psycho no cowboy bebop long time ago. Oh, I don't have the code. What about evangelion
+
+935
+02:00:47,020 --> 02:00:53,729
+I've seen the final scene of evangelion. That's it though. Maybe I randomly like on adult swim if it used to play
+
+936
+02:00:54,369 --> 02:00:59,630
+Okay, here we go
+
+937
+02:00:59,630 --> 02:01:04,829
+Please watch mob psycho. I don't have like a plan. I don't really have plan of like watching certain animes or whatever
+
+938
+02:01:08,859 --> 02:01:18,399
+Um, I just kind of catch them if I you know, feel like it one day. What about one piece?
+
+939
+02:01:19,489 --> 02:01:22,050
+Um, I okay this is probably gonna piss a lot of people off
+
+940
+02:01:22,609 --> 02:01:25,090
+We're not gonna piss you off but be like, oh dude, what the fuck are you doing?
+
+941
+02:01:25,729 --> 02:01:29,569
+I watched like the first like season I think of one piece
+
+942
+02:01:30,210 --> 02:01:31,890
+When the intro had
+
+943
+02:01:31,890 --> 02:01:33,890
+Yeah, yo, yeah, yo in it
+
+944
+02:01:34,529 --> 02:01:36,800
+um, so
+
+945
+02:01:36,800 --> 02:01:43,920
+That's all I know
+
+946
+02:01:43,920 --> 02:01:49,619
+the four kids version
+
+947
+02:01:49,619 --> 02:01:51,460
+Yeah, whatever one goes
+
+948
+02:01:51,460 --> 02:01:53,460
+Give it up. Give it up. Give it up. Give it up
+
+949
+02:01:54,829 --> 02:01:58,189
+Here's how the story goes. It's no doubt from the treasure in the grand line
+
+950
+02:01:58,189 --> 02:02:03,630
+It's no doubt. We don't want to be king. I'd be king of the island. He wants to be king. Yeah
+
+951
+02:02:03,630 --> 02:02:05,630
+Yo, yeah, yo
+
+952
+02:02:06,140 --> 02:02:10,859
+Don't give it up. Luffy. Don't give it up. Zolo. Don't give it up
+
+953
+02:02:12,560 --> 02:02:19,779
+Don't give give it up. Give it. I don't I know like most of it. Oh
+
+954
+02:02:20,340 --> 02:02:22,340
+Uh, dude, yeah
+
+955
+02:02:22,739 --> 02:02:24,979
+Whoa, yeah. Yeah. Yeah. Hey, there's a good bite of gum gum
+
+956
+02:02:25,699 --> 02:02:34,369
+And then yeah, yo, yeah, he spins around with his legs. I don't know why I remember this whole thing. I don't understand
+
+957
+02:02:41,069 --> 02:02:46,829
+Why do I know the four kids dub because like 15 years ago it was just on tv randomly sometimes
+
+958
+02:02:55,310 --> 02:03:00,670
+Sub or dub. I mean if it's the four kids version from like almost two decades ago, it's gonna be the dub
+
+959
+02:03:01,310 --> 02:03:07,779
+I keep forgetting you're not 20
+
+960
+02:03:10,189 --> 02:03:12,989
+That means you watched the four kids one in your 20s
+
+961
+02:03:13,710 --> 02:03:18,750
+Listen to me. I did not tell you that I watched i'm just telling you sometimes it was on tv
+
+962
+02:03:19,550 --> 02:03:23,149
+and like I'd catch the intro and be like, oh, okay, this is a show I guess and then like
+
+963
+02:03:23,789 --> 02:03:26,029
+And change the fucking channel
+
+964
+02:03:26,029 --> 02:03:37,260
+I I don't know. I don't know the whole series. Hi. Hello
+
+965
+02:03:38,430 --> 02:03:40,739
+Hello, I was ready to rock and roll
+
+966
+02:03:41,659 --> 02:03:43,979
+Let's do it. Hello. Yeah, you said you watched the first season
+
+967
+02:03:44,300 --> 02:03:50,380
+Hi, I mean, I'm when i'm when i'm in by that is i've seen episodes from like the first season because I got would be
+
+968
+02:03:50,460 --> 02:03:55,260
+Randomly be on television. All right. What's the uh strat? What do you guys want to do?
+
+969
+02:03:57,170 --> 02:03:59,170
+I'm gonna be a door
+
+970
+02:03:59,170 --> 02:04:01,890
+Oh, yeah
+
+971
+02:04:01,890 --> 02:04:03,090
+people
+
+972
+02:04:03,090 --> 02:04:06,130
+I'm 24 and I watched it on tv. Yeah, whatever
+
+973
+02:04:06,850 --> 02:04:09,020
+Because there's all sometimes a ghost
+
+974
+02:04:09,260 --> 02:04:15,310
+Sorry guys. I didn't come across one piece the four kids version when I was like fucking 20 and go
+
+975
+02:04:15,470 --> 02:04:19,949
+It was a fucking busted. No, no, i'm 20. I can't watch this like I just like I don't know
+
+976
+02:04:20,029 --> 02:04:30,529
+It was on fucking tv. My only concern is that I can't jump to reduce the ectoplasm
+
+977
+02:04:30,529 --> 02:04:33,489
+So I don't know what kids is for kids ding you ding
+
+978
+02:04:34,289 --> 02:04:38,130
+Oh, I ding I I guys I don't I don't know what happens in the show
+
+979
+02:04:38,210 --> 02:04:42,770
+I have no idea doesn't shake and the ding is way off in the distance for some reason
+
+980
+02:04:43,409 --> 02:04:46,449
+Oh, this is this is actually like this is evil
+
+981
+02:04:47,010 --> 02:04:50,449
+It's genuinely 24 and I still watch the care bears leave him alone
+
+982
+02:05:00,420 --> 02:05:02,979
+You browse television
+
+983
+02:05:02,979 --> 02:05:08,819
+Sorry, by the way guys, i'm old enough for when like I had to change channels to watch tv shows
+
+984
+02:05:09,789 --> 02:05:12,319
+I had to go like this
+
+985
+02:05:12,319 --> 02:05:14,319
+And see what the fuck was on tv
+
+986
+02:05:15,520 --> 02:05:17,520
+They have a footstep thing. I didn't open an app
+
+987
+02:05:17,920 --> 02:05:22,159
+I didn't open an application and just pick any tv show i've ever wanted to watch and watch it
+
+988
+02:05:22,159 --> 02:05:26,079
+No, we had to we had to scroll we had to scroll through our tv stations. Peter hates it
+
+989
+02:05:26,800 --> 02:05:30,960
+I mean, I guess we did kind of that makes no sense though. We don't even use our feet
+
+990
+02:05:32,479 --> 02:05:38,380
+That's true
+
+991
+02:05:38,380 --> 02:05:42,220
+Yeah, those of you guys that remember going to the tv guide channel
+
+992
+02:05:42,699 --> 02:05:49,739
+And watching the scroll the like one mile per hour scroll go steps go steps waiting to see what the fuck was on cartoon network
+
+993
+02:05:51,260 --> 02:05:53,420
+Ding ding ding ding. It's this guy ding ding ding ding
+
+994
+02:05:55,180 --> 02:05:59,729
+See you fucking later. Oh my god. Why did I what happened?
+
+995
+02:06:04,989 --> 02:06:06,270
+I made it
+
+996
+02:06:06,270 --> 02:06:11,789
+Oh, wow, there's an achievement for taunting 25 times in one game. Yeah, there used to be a channel on tv
+
+997
+02:06:11,789 --> 02:06:12,189
+Yeah
+
+998
+02:06:12,189 --> 02:06:13,630
+Did you guys remember that out very quickly?
+
+999
+02:06:13,630 --> 02:06:18,189
+Do you guys remember the tv guide channel where you had to literally there was the shit scrolled and you had to see what was on tv
+
+1000
+02:06:19,140 --> 02:06:21,859
+No, i'm not 45 years old. Why do you ask? Whoa?
+
+1001
+02:06:22,850 --> 02:06:24,130
+Because that guy
+
+1002
+02:06:24,130 --> 02:06:26,130
+Used to be like that, right? You I apologize
+
+1003
+02:06:28,220 --> 02:06:31,340
+My family had those tv guides like magazines. It was uh
+
+1004
+02:06:32,060 --> 02:06:37,340
+It was a terrible time and you had to look through you had to find what was going to be on tv like on thursday
+
+1005
+02:06:38,220 --> 02:06:46,659
+I don't know why this matters. Um, I who cares but apparently literally all it was was just for me to figure out
+
+1006
+02:06:46,739 --> 02:06:48,739
+When reruns of the simpsons were on
+
+1007
+02:06:49,220 --> 02:06:52,899
+Wow, literally the most interesting conversation i've had all night jama, so don't worry about it
+
+1008
+02:06:55,020 --> 02:07:04,989
+Oh my
+
+1009
+02:07:04,989 --> 02:07:11,460
+possess possess
+
+1010
+02:07:11,460 --> 02:07:16,579
+One day they'll figure out that you can shoot the doors by the way, you can close your door
+
+1011
+02:07:17,460 --> 02:07:19,460
+So just close and open your door all the time
+
+1012
+02:07:20,859 --> 02:07:25,539
+What button is that? Oh fuck. Oh fuck. I'm going this way go back. Oh my god. They're coming up here right click
+
+1013
+02:07:26,420 --> 02:07:28,420
+I need to get the fuck through this door now
+
+1014
+02:07:31,329 --> 02:07:35,010
+This is awesome
+
+1015
+02:07:35,010 --> 02:07:38,770
+Fuck I wanted to be that phone. Remember it doesn't clear your ectoplasm. So you also got a ding
+
+1016
+02:07:40,770 --> 02:07:49,090
+I uh, I lost
+
+1017
+02:07:49,729 --> 02:07:54,479
+Oh
+
+1018
+02:07:54,479 --> 02:07:58,640
+I may have taken there. Oh shit
+
+1019
+02:08:01,920 --> 02:08:13,380
+Oops, can I I have a ability but I can't area talk for some reason. Yeah. Yo, yeah, yo
+
+1020
+02:08:14,100 --> 02:08:16,899
+I'm sorry
+
+1021
+02:08:16,899 --> 02:08:21,949
+Hello hunters. Can you hear me?
+
+1022
+02:08:24,289 --> 02:08:26,369
+Give it up luffy
+
+1023
+02:08:26,449 --> 02:08:32,300
+Give it up solo
+
+1024
+02:08:32,300 --> 02:08:38,529
+Give it up. Give it up. Give it up. Give it up. Here's how the story goes
+
+1025
+02:08:38,529 --> 02:08:57,619
+It's no doubt with the treasure in the grand line. It's no doubt. I'll be king of the pirates. I'm gonna be king
+
+1026
+02:09:02,930 --> 02:09:04,770
+I'm throwing it over there
+
+1027
+02:09:04,770 --> 02:09:10,270
+I gotta get out of here though
+
+1028
+02:09:10,270 --> 02:09:13,310
+Fell for it. You fell for it. You fell for it. You fell for it. You fell for it. You fell for it
+
+1029
+02:09:13,630 --> 02:09:23,789
+I got a good spot
+
+1030
+02:09:23,789 --> 02:09:25,170
+They learned
+
+1031
+02:09:25,170 --> 02:09:27,250
+No, I hit them with a door. I saw that
+
+1032
+02:09:29,300 --> 02:09:34,909
+And then they may have they may have become wise at that point. All right jerma, it's on you
+
+1033
+02:09:35,229 --> 02:09:46,989
+I'll see what I can do. I'm going for it. Oh, never mind. We can all kill them now. Yeah, let's go for a quick kill
+
+1034
+02:09:57,579 --> 02:10:01,260
+Jesus
+
+1035
+02:10:01,260 --> 02:10:02,460
+No
+
+1036
+02:10:02,460 --> 02:10:07,310
+Let's drop. Oh, no
+
+1037
+02:10:07,310 --> 02:10:08,829
+Good game. Good game. Good game
+
+1038
+02:10:08,829 --> 02:10:16,430
+Kraken I watched as a ghost objected you in the back of the skull
+
+1039
+02:10:17,460 --> 02:10:19,539
+It was why did none of you attack the door?
+
+1040
+02:10:20,420 --> 02:10:22,819
+Like I was hitting people with the door
+
+1041
+02:10:24,449 --> 02:10:26,609
+I don't know. Sometimes they're useful
+
+1042
+02:10:27,409 --> 02:10:32,140
+Well, I randomly like I just hit the voice chat button and I ask a stupid question don't let the door hit you
+
+1043
+02:10:33,020 --> 02:10:35,899
+Breakfast let's do a peter griffin impression. It's like i'm like a
+
+1044
+02:10:36,859 --> 02:10:38,380
+on the way out
+
+1045
+02:10:38,380 --> 02:10:40,380
+Yeah, I was gonna say that as well
+
+1046
+02:10:41,420 --> 02:10:46,050
+I'll be king of the pirates. I want to be king
+
+1047
+02:10:48,560 --> 02:10:59,920
+I like that loadout. It's fun. Actually. No, I don't give me this regular weapon. All right, let's do it. Let's take them up
+
+1048
+02:11:02,590 --> 02:11:07,149
+That was a good strategy. Hey, uh, hey jerma watch the floor
+
+1049
+02:11:07,710 --> 02:11:11,760
+What's going on?
+
+1050
+02:11:11,760 --> 02:11:14,159
+I'm spraying the floor. Oh, that's a spray show
+
+1051
+02:11:15,409 --> 02:11:17,819
+Yeah
+
+1052
+02:11:17,819 --> 02:11:19,819
+You use the z key
+
+1053
+02:11:19,819 --> 02:11:24,800
+What is this? Is it spray your steam like avatar?
+
+1054
+02:11:25,760 --> 02:11:26,640
+Yeah
+
+1055
+02:11:26,640 --> 02:11:29,840
+That's what's aiming at the roof. It's just oh, yeah the roof
+
+1056
+02:11:30,560 --> 02:11:32,560
+Oh, that's not bad. Okay
+
+1057
+02:11:35,739 --> 02:11:37,739
+Alone in the dark
+
+1058
+02:11:45,229 --> 02:11:48,909
+This is fun. I like how you had the basic strategy of just kill them fast and we did it
+
+1059
+02:11:49,310 --> 02:11:52,350
+Yeah, just just just swarm. I think the swarm actually makes more sense
+
+1060
+02:11:52,510 --> 02:11:56,829
+Just everybody can come out of their uh furniture and just go right click right click like let's just swarm them
+
+1061
+02:11:59,539 --> 02:12:01,939
+Jerma, we're we're we're hunting the ghosts this round
+
+1062
+02:12:02,880 --> 02:12:04,880
+Oh, yeah, but I mean when we are when we're ghosts
+
+1063
+02:12:05,739 --> 02:12:06,539
+Oh, yeah, okay
+
+1064
+02:12:06,539 --> 02:12:09,739
+But I mean we also die like crazy when people swarm as humans too
+
+1065
+02:12:09,739 --> 02:12:12,779
+It's I think when your ghosts you're supposed to catch them
+
+1066
+02:12:12,859 --> 02:12:16,539
+You're still supposed to catch them by surprise because if you're getting close you just fucking wreck them
+
+1067
+02:12:18,260 --> 02:12:21,140
+Yeah, just like 50 damage a swing. That's kind of insane. Yeah
+
+1068
+02:12:23,949 --> 02:12:30,590
+By the way, uh, if you have c4 use it in the final end like end round and it just eviscerates them it insta kills them
+
+1069
+02:12:31,390 --> 02:12:47,739
+I wish we could throw our voices as the um humans. I think there's something up here
+
+1070
+02:12:49,460 --> 02:12:52,350
+Oh, where are you at upstairs? It's it's like orange
+
+1071
+02:12:53,229 --> 02:12:57,090
+Oh, okay jolly over by you gotcha. I'm coming to you
+
+1072
+02:13:00,619 --> 02:13:02,619
+Got him in somebody back nice
+
+1073
+02:13:06,140 --> 02:13:08,420
+I'll go get one
+
+1074
+02:13:08,420 --> 02:13:10,420
+We only really need one person with a vacuum
+
+1075
+02:13:10,819 --> 02:13:14,500
+And someone's got it. Yeah. Yeah, I got it. I'm like, okay cool luigi right now
+
+1076
+02:13:15,300 --> 02:13:18,100
+All right. We got luigi upstairs seems pretty clear
+
+1077
+02:13:18,819 --> 02:13:26,979
+For the moment for the time being we just did that he's a fan check it
+
+1078
+02:13:33,310 --> 02:13:34,029
+Who was doing that?
+
+1079
+02:13:34,029 --> 02:13:37,710
+It was like who was talking one of the ghost team like you shut the fuck up when you said he was a fan
+
+1080
+02:13:37,869 --> 02:13:39,869
+I thought you were making fun of fans
+
+1081
+02:13:41,949 --> 02:13:47,569
+Well, now he's a wheelchair like I don't want to make fun of wheelchairs and now he's dead do it do it
+
+1082
+02:13:48,369 --> 02:13:50,689
+No longer a fan of yours. No, I don't think I will
+
+1083
+02:13:51,489 --> 02:13:53,729
+Whoever on the ghost team is talking right now. You need to shut the fuck up
+
+1084
+02:14:06,529 --> 02:14:19,539
+Someone someone's up. Somebody's up here. Ah, it's going crazy. You have the radar too jerma. I do. Yeah
+
+1085
+02:14:20,420 --> 02:14:25,819
+All right. I see it too. I guess you just yeah, you're supposed to start shooting stuff. I guess I don't know
+
+1086
+02:14:28,220 --> 02:14:29,819
+I would be the bathtub
+
+1087
+02:14:29,819 --> 02:14:32,560
+It was me
+
+1088
+02:14:41,779 --> 02:14:45,619
+This is like the reverse of that black mace of it there's something in somebody's in here
+
+1089
+02:14:47,060 --> 02:14:49,060
+Oh, I think I found him. Yeah
+
+1090
+02:14:49,380 --> 02:14:50,739
+There we go
+
+1091
+02:14:53,739 --> 02:14:56,770
+I got the vacuum
+
+1092
+02:14:56,770 --> 02:15:03,779
+Okay, I actually don't have the vacuum. I don't have a vacuum either apparently i'll get it. Oh, sorry. I was distracted
+
+1093
+02:15:04,539 --> 02:15:07,199
+Should I guard this here?
+
+1094
+02:15:07,199 --> 02:15:25,300
+Yeah, that'd probably be a good idea. All right, we're good. Awesome. You guys got any activity over there? I'm going back over here
+
+1095
+02:15:31,489 --> 02:15:33,260
+Yeah, yeah
+
+1096
+02:15:33,260 --> 02:15:38,020
+Okay, come on gwen really. Yeah, come on gwen. Where are you?
+
+1097
+02:15:39,520 --> 02:15:43,520
+Okay, find anything jerma. I think there's somebody up here. It's going crazy right here
+
+1098
+02:15:43,920 --> 02:15:51,010
+I tried the doors
+
+1099
+02:15:51,899 --> 02:15:53,579
+Yeah the doors
+
+1100
+02:15:53,579 --> 02:16:06,609
+Could be below. Yeah, I could be below. This is going crazy meat is going crazy. Okay
+
+1101
+02:16:08,000 --> 02:16:12,560
+Oh, there's a whole basement. You should shoot guys a couple more times. No, where's it at?
+
+1102
+02:16:14,159 --> 02:16:15,600
+In the basement
+
+1103
+02:16:15,600 --> 02:16:17,600
+Ah, shoot, I should have known
+
+1104
+02:16:19,390 --> 02:16:21,390
+Sorry, i'm not good with directions
+
+1105
+02:16:26,510 --> 02:16:27,949
+Maybe it is the basement
+
+1106
+02:16:27,949 --> 02:16:37,299
+Whoever's on the ghost team right now like just talking needs to shut the fuck up 49 seconds. He's talking about
+
+1107
+02:16:39,100 --> 02:16:44,930
+Like don't think i'm annoying or anything like that
+
+1108
+02:16:50,139 --> 02:16:56,479
+Imagine being like that pissed. It's like whoever on the ghost team
+
+1109
+02:17:09,520 --> 02:17:14,799
+Where are you? I how can you be so clear but so far away at the same time? I don't understand
+
+1110
+02:17:15,520 --> 02:17:19,680
+I don't understand. How could you be so clear?
+
+1111
+02:17:20,000 --> 02:17:30,260
+Is that a real person? All right, watch out in the hallway bench
+
+1112
+02:17:31,299 --> 02:17:33,299
+Now there's one uh in the hallway, dude
+
+1113
+02:17:34,299 --> 02:17:35,739
+He just went down
+
+1114
+02:17:35,739 --> 02:17:46,780
+He's a little fucking
+
+1115
+02:17:46,780 --> 02:17:48,780
+Damn it. I didn't get out the door in time
+
+1116
+02:17:49,680 --> 02:17:51,680
+Oh, he was a frying pan
+
+1117
+02:17:56,290 --> 02:17:57,889
+He was so small
+
+1118
+02:17:57,889 --> 02:18:08,799
+Hey, what was on the ghost team? Just shut the fuck up right now. Nice duck. Where'd you get a duck?
+
+1119
+02:18:09,680 --> 02:18:11,680
+You got a duck what? That's a great duck there
+
+1120
+02:18:11,760 --> 02:18:14,190
+Yeah, I got to duck him up. He's a fridge
+
+1121
+02:18:14,190 --> 02:18:18,780
+I like the fridge
+
+1122
+02:18:18,780 --> 02:18:20,459
+It didn't do me no good
+
+1123
+02:18:20,459 --> 02:18:22,059
+Well, i'm just imagining
+
+1124
+02:18:22,059 --> 02:18:26,139
+Being on the ghost team and hearing in the distance kind of footsteps and being like, you know
+
+1125
+02:18:26,379 --> 02:18:28,379
+What was on the ghost team doing the fuck up?
+
+1126
+02:18:29,389 --> 02:18:31,729
+It's just like wow
+
+1127
+02:18:31,729 --> 02:18:37,569
+Psycho like real life if you lads would like we can do one more if not, I have no problem with calling it here
+
+1128
+02:18:38,209 --> 02:18:40,690
+I'm down with whatever i'm having fun. I'm having a lot of this is great
+
+1129
+02:18:42,319 --> 02:18:53,899
+Yeah, I can go another
+
+1130
+02:18:59,760 --> 02:19:04,930
+All right, let me this is this is gonna be a good one here. I think I wanted to copy that sounds fun
+
+1131
+02:19:11,729 --> 02:19:13,729
+Oh back at the museum level
+
+1132
+02:19:14,370 --> 02:19:17,729
+I feel like the museum is hard for the ghost because everything's so
+
+1133
+02:19:18,290 --> 02:19:24,479
+in such proximity
+
+1134
+02:19:24,479 --> 02:19:26,479
+Jerm i have an idea follow me i'm behind you
+
+1135
+02:19:26,959 --> 02:19:31,329
+Okay on it. So
+
+1136
+02:19:31,329 --> 02:19:32,770
+These two birds
+
+1137
+02:19:32,770 --> 02:19:34,370
+That's actually perfect
+
+1138
+02:19:34,370 --> 02:19:37,250
+I knocked yours over. I'm sorry
+
+1139
+02:19:37,250 --> 02:19:42,299
+Are we gonna make sure they are perfectly aligned?
+
+1140
+02:19:50,860 --> 02:19:52,940
+Beak somebody said beak to beep
+
+1141
+02:19:53,659 --> 02:19:55,899
+Wait, I shouldn't have said that
+
+1142
+02:19:55,899 --> 02:20:03,149
+Oh, they can't hear us right now. Now if we're too close, it's too it's obvious
+
+1143
+02:20:03,790 --> 02:20:09,120
+So if i'm in here and I do the um
+
+1144
+02:20:09,760 --> 02:20:12,610
+genuinely
+
+1145
+02:20:12,610 --> 02:20:17,649
+That like possess you do the pretend to be another person on their team. Do I have to be out of the
+
+1146
+02:20:18,670 --> 02:20:46,370
+Object to do it. I think you'll automatically leave the object when you hit it. Oh god. Here they come if we could do something wacky
+
+1147
+02:20:50,579 --> 02:20:53,620
+We could hold right click and aim at the same person and try to instantly kill them
+
+1148
+02:20:56,819 --> 02:21:00,639
+Okay, right here. Someone's gonna come investigate in a second
+
+1149
+02:21:25,819 --> 02:21:32,100
+For fuck's sake
+
+1150
+02:21:32,100 --> 02:21:34,100
+Didn't work. I'm sorry. It didn't work
+
+1151
+02:21:35,309 --> 02:21:39,709
+That's okay. It was a solid plan. They moved right at the last second and we couldn't get it
+
+1152
+02:21:40,270 --> 02:21:43,649
+We're still alive though. So that's good
+
+1153
+02:21:43,649 --> 02:21:44,690
+Yeah
+
+1154
+02:21:44,690 --> 02:22:05,090
+Just like walking around
+
+1155
+02:22:21,659 --> 02:22:23,659
+Oh shit we're blocking each other
+
+1156
+02:22:32,979 --> 02:22:35,180
+Do it
+
+1157
+02:22:35,180 --> 02:22:37,180
+Do it do it
+
+1158
+02:22:51,459 --> 02:22:53,459
+Oh, no, please
+
+1159
+02:22:53,700 --> 02:23:47,780
+Oh my god, I forgot that you guys hear that. Holy shit. I'm so sorry. I forgot that you're hearing that on the stream
+
+1160
+02:23:48,399 --> 02:23:51,520
+I'm like just fucking with him like oh, he's definitely not the pig. I don't ever know
+
+1161
+02:23:52,299 --> 02:23:56,379
+I i'm trying to do pig noises over there. So they think like oh he's pretending to be the pig
+
+1162
+02:23:56,540 --> 02:24:02,459
+You know what I mean? Yeah, but you guys will hear it. I don't want to fuck with you guys
+
+1163
+02:24:03,020 --> 02:24:38,909
+You good? Oh
+
+1164
+02:24:40,500 --> 02:24:42,180
+Looks like bugleberry
+
+1165
+02:24:42,180 --> 02:24:47,040
+But we still have up just one two
+
+1166
+02:24:47,709 --> 02:24:57,059
+Two. Yeah, they got all four. All right, it's gonna be tough. I stayed in one spot the entire game. Did you really?
+
+1167
+02:24:58,340 --> 02:25:00,819
+It was a cup of a brontosaurus dead
+
+1168
+02:25:06,430 --> 02:25:14,270
+By the way, the shunt ability after you're dead is really powerful and i'm playing fucking soccer with the sun right now
+
+1169
+02:25:15,229 --> 02:25:17,389
+Oh us pigs love to roll around in mud
+
+1170
+02:25:19,780 --> 02:25:21,780
+Us pigs love rolling around in mud
+
+1171
+02:25:34,110 --> 02:25:42,370
+Back here ow squeeze his hog
+
+1172
+02:25:50,940 --> 02:25:53,420
+Oh, all right, we got it. We got it. We got it. Get him
+
+1173
+02:26:00,590 --> 02:26:02,590
+I'm not gonna squeeze
+
+1174
+02:26:03,309 --> 02:26:04,909
+It's very cramped in here
+
+1175
+02:26:04,909 --> 02:26:10,030
+There's one thing that people hate. It's why I can't believe we lost like pig squealing noises. Nobody likes it
+
+1176
+02:26:10,030 --> 02:26:12,590
+They hate it people. It's like dude. Don't like I hate that sound
+
+1177
+02:26:13,149 --> 02:26:17,569
+That's a good game
+
+1178
+02:26:17,569 --> 02:26:20,290
+Alone and alone in the dark illumination therma
+
+1179
+02:26:21,940 --> 02:26:25,940
+Um, i've had the same profile picture for like at least five years or so
+
+1180
+02:26:27,219 --> 02:26:32,500
+Okay, fair enough mine's probably since 2007 so I get you I kind of have this burned in my brain
+
+1181
+02:26:33,219 --> 02:26:36,260
+Of hiding in team fortress. Oh, they can't hear me anymore
+
+1182
+02:26:37,899 --> 02:26:42,459
+Uh, you'd change your profile picture and my name would be like fucking like inspector gadget
+
+1183
+02:26:42,860 --> 02:26:54,659
+So people wouldn't know it was me. I gotta I could explain that i'm gonna ask you gemma why gas can
+
+1184
+02:26:55,620 --> 02:26:57,620
+Okay, I I can give a really good explanation
+
+1185
+02:26:58,020 --> 02:27:03,120
+so back in the day I used to make team fortress 2 videos, right and
+
+1186
+02:27:03,920 --> 02:27:06,399
+I would if I was if I was germa
+
+1187
+02:27:06,879 --> 02:27:11,520
+Like germa 985 in a team fortress 2 game with like a germa profile picture or something
+
+1188
+02:27:12,159 --> 02:27:18,159
+People would see it and people would stand at the spawn and like high five and the whole game sometimes would get all messed up
+
+1189
+02:27:18,799 --> 02:27:20,559
+So what I started doing
+
+1190
+02:27:20,559 --> 02:27:27,280
+Is just starting making my name something completely different every single day and changing my avatar to something different every single day
+
+1191
+02:27:27,920 --> 02:27:29,920
+So I could just nobody would even know it was me
+
+1192
+02:27:31,520 --> 02:27:37,120
+Gemma i'm gonna be real. I was in the menu like the ready menu for 90% of that conversation
+
+1193
+02:27:37,120 --> 02:27:39,600
+So I joined in until like the last two seconds of it
+
+1194
+02:27:42,020 --> 02:27:43,620
+All right tldr
+
+1195
+02:27:43,620 --> 02:27:44,899
+tldr
+
+1196
+02:27:44,899 --> 02:27:50,100
+Uh back in team fortress 2 I used to hide so people wouldn't know it was me playing so like I could be I could get
+
+1197
+02:27:50,100 --> 02:27:55,540
+Like a real gameplay that wasn't like five pocket medics and like five people outside the spawn trying to high five me
+
+1198
+02:27:57,069 --> 02:27:58,909
+You got right pirate spy
+
+1199
+02:27:58,909 --> 02:28:04,209
+Yeah, I I used to watch you gemma. I still watch you
+
+1200
+02:28:04,690 --> 02:28:06,209
+Oh cool
+
+1201
+02:28:06,209 --> 02:28:07,329
+That's cool
+
+1202
+02:28:07,329 --> 02:28:09,649
+I'm watching you trying to act like a normal person
+
+1203
+02:28:10,430 --> 02:28:13,760
+Fucking hilarious. Hey, I
+
+1204
+02:28:14,700 --> 02:28:19,819
+I wake up in the morning like everybody else. I brush my teeth once a week
+
+1205
+02:28:20,540 --> 02:28:21,579
+I
+
+1206
+02:28:21,579 --> 02:28:23,659
+Wear pants sometimes maybe once a week
+
+1207
+02:28:24,379 --> 02:28:28,940
+I'm a normal person just like okay. At what point do you clean up the blood of your last night's victim?
+
+1208
+02:28:31,889 --> 02:28:33,250
+Yes
+
+1209
+02:28:33,250 --> 02:28:36,209
+All right. Now I know I let you know. I know you watch now
+
+1210
+02:28:36,209 --> 02:28:38,209
+I know you watch the channel speaks volumes
+
+1211
+02:28:40,690 --> 02:28:50,459
+Now i'm good. Now. I know you watch uh, we got a jolly imposter over here, by the way
+
+1212
+02:28:52,670 --> 02:28:55,229
+Hey, come here. Come here. What do you what do you want to go the word?
+
+1213
+02:28:56,059 --> 02:28:58,059
+Do you do you want to go upstairs? What do you think they should be?
+
+1214
+02:28:58,959 --> 02:29:02,239
+Wait, that's the real person. What? Hey, what's the emote button?
+
+1215
+02:29:03,200 --> 02:29:08,000
+Post to fake people. Wait, how is that the real there was two jollies on the screen? Did I follow the wrong one?
+
+1216
+02:29:09,090 --> 02:29:11,010
+It's v
+
+1217
+02:29:11,010 --> 02:29:15,940
+Peace offering
+
+1218
+02:29:15,940 --> 02:29:20,340
+Wait, why are there two me? Okay, somebody's fucking pretending to be me. I followed the wrong one
+
+1219
+02:29:20,340 --> 02:29:22,020
+I thought you were the fake one
+
+1220
+02:29:22,020 --> 02:29:24,020
+Geez, that's not me
+
+1221
+02:29:28,659 --> 02:29:33,299
+Over here
+
+1222
+02:29:33,299 --> 02:29:47,500
+My dick, bro
+
+1223
+02:29:47,500 --> 02:29:53,010
+That's weird
+
+1224
+02:29:53,010 --> 02:29:57,459
+No activity over here
+
+1225
+02:29:57,459 --> 02:29:58,500
+creepy
+
+1226
+02:29:58,500 --> 02:30:17,090
+I'm not getting i'm not getting any activity at all. Here we go. Somebody over here. No, they're moving. They're on the move
+
+1227
+02:30:23,979 --> 02:30:29,739
+um
+
+1228
+02:30:29,739 --> 02:30:31,739
+That's is this somebody here
+
+1229
+02:30:35,219 --> 02:30:36,659
+He was the duck
+
+1230
+02:30:36,659 --> 02:30:38,659
+Of course, he's the fucking duck
+
+1231
+02:30:40,610 --> 02:30:44,850
+That spy is not one of us that heavy is a spy that sniper is a heavy that heavy
+
+1232
+02:30:44,850 --> 02:30:49,809
+He's not one of us that one of us is you I made that joke like 10 years ago. God was it good
+
+1233
+02:30:59,579 --> 02:31:01,579
+Listen, you didn't know I was the duck
+
+1234
+02:31:01,979 --> 02:31:03,979
+You you had no idea
+
+1235
+02:31:06,780 --> 02:31:10,860
+At this point you do the duck so often that like you aren't the duck now, you know what I mean?
+
+1236
+02:31:13,520 --> 02:31:17,440
+I see the strats
+
+1237
+02:31:17,440 --> 02:31:20,479
+Yeah
+
+1238
+02:31:20,479 --> 02:31:21,760
+Uh
+
+1239
+02:31:21,760 --> 02:31:28,670
+Did you find anything?
+
+1240
+02:31:28,670 --> 02:31:32,590
+I am not getting anything
+
+1241
+02:31:32,590 --> 02:31:34,110
+Just keep shooting
+
+1242
+02:31:34,110 --> 02:31:39,500
+There's a little bit up in the run away a little bit in this room, but it keeps going up and down
+
+1243
+02:31:41,219 --> 02:31:45,780
+It'll go down if they're taunting or jumping or moving in any way really?
+
+1244
+02:31:45,780 --> 02:31:48,340
+Okay, so they so they can just move backwards and forwards
+
+1245
+02:31:48,340 --> 02:31:55,229
+There's a ectoplasm meter on your right hand side when you're a ghost. I mean that fills up you become more
+
+1246
+02:31:56,030 --> 02:31:57,870
+aware
+
+1247
+02:31:57,870 --> 02:32:01,950
+Yeah, they can see you easier. So as long as you keep that low, he's totally one of these ducks
+
+1248
+02:32:02,670 --> 02:32:10,590
+Are they all ducks? I could see that as a strap. I wanted to be all spacemen. The spacemen are fucking creepy
+
+1249
+02:32:12,190 --> 02:32:14,190
+It's actually probably a really stupid spots
+
+1250
+02:32:14,510 --> 02:32:17,870
+Just to be all be the same item and just be in the same room and spread out
+
+1251
+02:32:17,950 --> 02:32:20,940
+Be like why would they ever do that?
+
+1252
+02:32:20,940 --> 02:32:26,059
+Also, there's a little orc with the headphones on that nobody's ever been and I feel like that's a missed opportunity
+
+1253
+02:32:27,020 --> 02:32:29,100
+In here in here trash can in here on me
+
+1254
+02:32:31,700 --> 02:32:33,459
+trash can
+
+1255
+02:32:33,459 --> 02:32:34,500
+plant
+
+1256
+02:32:34,500 --> 02:32:43,889
+It's cranking. He's low
+
+1257
+02:32:43,889 --> 02:32:48,069
+Got him. Yep. Oh, there's another one here. There's another one the triceratops
+
+1258
+02:32:55,659 --> 02:32:58,049
+dinosaur
+
+1259
+02:32:58,049 --> 02:33:00,270
+he's over here is a
+
+1260
+02:33:00,270 --> 02:33:01,309
+zebra, oh
+
+1261
+02:33:01,309 --> 02:33:04,100
+Nope, somebody's booted up that game boy
+
+1262
+02:33:08,450 --> 02:33:10,450
+Oh, it's the smile go one
+
+1263
+02:33:11,010 --> 02:33:19,420
+What the fuck rambert kite them don't stand still
+
+1264
+02:33:20,139 --> 02:33:22,139
+I couldn't even fuck I got stuck on the stairs
+
+1265
+02:33:22,780 --> 02:33:26,379
+I had my body was immediately died. Well, yeah. Okay. Good. Cool
+
+1266
+02:33:27,100 --> 02:33:31,899
+I swear to god. I got stuck on the staircase. I couldn't move. I couldn't walk forward. No pressure. No pressure like I was
+
+1267
+02:33:32,940 --> 02:33:34,940
+Pretend you're playing doom eternal
+
+1268
+02:33:35,100 --> 02:33:37,420
+I said it just you call of duty zombies it
+
+1269
+02:33:38,139 --> 02:33:41,229
+Yeah
+
+1270
+02:33:41,229 --> 02:33:43,229
+Yeah, what was that like?
+
+1271
+02:33:47,149 --> 02:33:56,340
+Chili
+
+1272
+02:33:56,340 --> 02:34:04,530
+Somebody said don't come back to boston
+
+1273
+02:34:06,049 --> 02:34:08,370
+I'm not allowed back in my in my hometown
+
+1274
+02:34:09,329 --> 02:34:12,690
+Oh, that was amazing. I don't want don't come back here. I don't want you here
+
+1275
+02:34:17,579 --> 02:34:22,860
+Like i'm gonna make a big announcement like boston i'm coming back i'm here what like i'm but i'm not annoying
+
+1276
+02:34:23,500 --> 02:34:25,500
+Oh god, everyone's after you
+
+1277
+02:34:26,770 --> 02:34:29,250
+You've changed I am the last one left
+
+1278
+02:34:30,129 --> 02:34:32,129
+Would make sense. Yes
+
+1279
+02:34:32,530 --> 02:34:37,170
+You're near the supply center if you can get there and kill yourself. No, that's that's bullshit
+
+1280
+02:34:38,420 --> 02:34:40,260
+that's not a chance, but
+
+1281
+02:34:40,260 --> 02:34:42,260
+Oh, they're they're on you. Oh god
+
+1282
+02:34:45,579 --> 02:34:48,379
+That is so scary. Oh good try
+
+1283
+02:34:49,500 --> 02:34:52,180
+That was scary
+
+1284
+02:34:52,180 --> 02:34:56,690
+Nice. Nice. Nice. That was spooky. I love the bear
+
+1285
+02:34:58,590 --> 02:35:01,920
+bear and astronaut there
+
+1286
+02:35:02,319 --> 02:35:06,530
+All right, i'm gonna head back into discord and unmute and just thank everybody
+
+1287
+02:35:07,329 --> 02:35:09,010
+Cool sounds good
+
+1288
+02:35:09,010 --> 02:35:10,530
+Sounds good. Okay
+
+1289
+02:35:10,530 --> 02:35:18,260
+I've unmuted
+
+1290
+02:35:18,260 --> 02:35:23,219
+You know what that was pretty good for a bootleg prop hunt on tmachel. Yeah, it was fun. No, that was a lot of fun
+
+1291
+02:35:24,799 --> 02:35:26,659
+Yeah
+
+1292
+02:35:26,659 --> 02:35:31,780
+Uh, I think it could use a little bit of work in some spots and the balancing is weird
+
+1293
+02:35:31,860 --> 02:35:35,780
+but and also the positional voice chat's like a little too low, but
+
+1294
+02:35:36,979 --> 02:35:38,979
+Yeah, it was great. I enjoyed it
+
+1295
+02:35:39,549 --> 02:35:43,250
+Yeah, I think that some of the weapons maybe need some uh tuning
+
+1296
+02:35:44,459 --> 02:35:48,059
+But I think it was overall it was overall a solid experience. That's a lot of fun
+
+1297
+02:35:49,200 --> 02:35:52,079
+Jerma, I I use a assault shotgun in real life
+
+1298
+02:35:52,639 --> 02:35:54,639
+To defend against mosquitoes
+
+1299
+02:35:55,280 --> 02:35:58,159
+And and they're expecting me to use that against ghosts
+
+1300
+02:35:59,540 --> 02:36:00,979
+I mean it worked
+
+1301
+02:36:00,979 --> 02:36:04,100
+I had well, I added the extended mag for my shotgun
+
+1302
+02:36:04,180 --> 02:36:07,540
+So it had two barrels with three shots and that was just amusing the whole time
+
+1303
+02:36:08,020 --> 02:36:12,500
+It also killed ghost pretty well too if you remember it's certainly my favorite gun. No, that was that was fun
+
+1304
+02:36:13,899 --> 02:36:20,370
+Cool. Well, I appreciate everybody joining. Um, hey, let's do let's do this again. Let's do this again sometime. Absolutely
+
+1305
+02:36:21,950 --> 02:36:24,909
+Let's let's get let's get a crew for another game whatever man what i'm down for anything
+
+1306
+02:36:24,989 --> 02:36:31,790
+Yeah, i'm down for another game with the crew and also, uh, if you'd ever want to play phasmophobia again jerma
+
+1307
+02:36:32,350 --> 02:36:38,540
+Anyone really here? Yes, i'd be totally down and I no longer weep. Was there a new update or something?
+
+1308
+02:36:39,340 --> 02:36:45,100
+Huge updates. Yeah, many kraken. There's a vr update that has overhauled the vr mechanics of the game
+
+1309
+02:36:45,899 --> 02:36:53,889
+Okay, i'm listening. I like the vr version but yeah, so it seems pretty kind of that's necessary but seems cool
+
+1310
+02:36:55,100 --> 02:36:56,620
+So yeah, um
+
+1311
+02:36:56,620 --> 02:37:01,659
+That was great. Thank you. Let me just give a quick. Thank you on my end to everybody. So it's kraken
+
+1312
+02:37:01,739 --> 02:37:07,260
+We get jerma. We got jolly wancore. We got liam triforce rubber ross. We got she says and zam sire
+
+1313
+02:37:07,579 --> 02:37:12,540
+This was a good group. I really really enjoyed this and I appreciate you joining. Yeah
+
+1314
+02:37:16,540 --> 02:37:20,319
+All right, see you guys
+
+1315
+02:37:24,420 --> 02:37:32,430
+Never fucking talking to a single one of them ever again. No, that'd be fun. Uh, it's been too long
+
+1316
+02:37:32,750 --> 02:37:36,700
+So it'd be really fun. I like shit like this
+
+1317
+02:37:36,780 --> 02:37:39,100
+You know, I know that look it's fun to jump in with like a group
+
+1318
+02:37:39,420 --> 02:37:42,239
+Especially group haven't really hung out with in a long time
+
+1319
+02:37:42,239 --> 02:37:51,659
+So, uh, let's not make it like three years this time check mod chat for the funny peter griffin video
+
+1320
+02:37:51,739 --> 02:38:10,930
+Hold on the funny peter griffin video. Okay funny edit peter griffin. Wait, hold on. I can
+
+1321
+02:38:13,409 --> 02:38:17,090
+What the fuck
+
+1322
+02:38:17,090 --> 02:38:30,270
+I have to download this video. Wait a minute. Give me a second. All right, where's this file?
+
+1323
+02:38:30,909 --> 02:38:36,540
+Did this is actually oh my god
+
+1324
+02:38:38,579 --> 02:38:47,889
+Okay, let me put this up here. You see
+
+1325
+02:38:47,969 --> 02:38:59,809
+We let's me on his team this year. I haven't been part of a team since I was with the four
+
+1326
+02:39:16,000 --> 02:39:18,879
+Why can I not hear this
+
+1327
+02:39:24,350 --> 02:39:26,350
+I
+
+1328
+02:39:27,110 --> 02:39:30,889
+Let's be honest team this year. I haven't been part of a team. I can't hear this
+
+1329
+02:39:38,040 --> 02:39:43,750
+Team this year. I haven't been part of a team. I was with the four peedish. It's for mine
+
+1330
+02:39:47,750 --> 02:39:52,350
+We let's be honest team this year. I haven't been part of a team since I was with the four peedish
+
+1331
+02:39:57,540 --> 02:40:06,329
+Okay, I can hear it I couldn't I don't know why I couldn't hear it before I'm sorry
+
+1332
+02:40:06,329 --> 02:40:11,889
+I'm sorry. I could my OBS is fucking crashed right now. By the way. I can't close it. I
+
+1333
+02:40:16,709 --> 02:40:24,809
+Something's wrong. It happened eight times. I don't know what's going on. I cannot even close over. I cannot close OBS
+
+1334
+02:40:28,090 --> 02:40:33,879
+OBS is frozen. It was very weird. I'm sorry
+
+1335
+02:40:35,219 --> 02:40:40,389
+Anyways, yeah, I couldn't hear it at first. Don't ask me why I have no idea. I don't understand computers
+
+1336
+02:40:41,500 --> 02:40:48,770
+Alright, so here's the deal. Is it still playing? No, it's not right?
+
+1337
+02:40:52,020 --> 02:40:54,500
+So here's the deal
+
+1338
+02:40:54,500 --> 02:41:01,280
+It is. Alright, so here's what we're doing. So tomorrow I got I'm juggling up a schedule a little bit
+
+1339
+02:41:01,280 --> 02:41:02,440
+That was really fun
+
+1340
+02:41:02,440 --> 02:41:08,659
+To see all those guys again. We'll do that. Let's do it again soon. First of all, that's gonna be it for today. I
+
+1341
+02:41:10,459 --> 02:41:13,979
+Wanted to do DOS tomorrow, but I want a little bit more time to curate some more
+
+1342
+02:41:15,860 --> 02:41:20,620
+Because I have like 30 DOS games in Windows 3.1 games
+
+1343
+02:41:20,620 --> 02:41:24,860
+I think I got a maybe get a couple more and shave some down because it's just so many
+
+1344
+02:41:25,559 --> 02:41:34,340
+So we'll do that this weekend. But tomorrow tomorrow, we're gonna play wrestling Empire an update came out
+
+1345
+02:41:34,399 --> 02:41:41,430
+That's apparently a ton of content and I really want to play it. So wrestling Empire tomorrow. We're gonna start not at 6
+
+1346
+02:41:41,430 --> 02:41:46,620
+We're gonna start about 4 o'clock Pacific tomorrow and we'll get back into wrestling Empire
+
+1347
+02:41:46,620 --> 02:41:55,219
+There's a GM mode now where you can just walk around town as the general manager of a league we're doing that, right?
+
+1348
+02:41:55,379 --> 02:42:00,059
+Yeah, I'll be live tomorrow and then we'll be live on like Friday or Saturday as well
+
+1349
+02:42:00,059 --> 02:42:09,280
+And I mean we maybe we'll do wrestling Empire again. We'll see but just a quick stream. I wanted to just go live
+
+1350
+02:42:10,549 --> 02:42:16,290
+As Vinny was like, hey, you want to play this? I'm like, yeah, sure. It sounds fun. So just a quick one today
+
+1351
+02:42:16,290 --> 02:42:25,479
+I'll see you tomorrow as always. Thanks for watching. We'll see you less than 24 hours from now. Good night
+
+1352
+02:42:25,639 --> 02:42:36,319
+Goodbye 4 p.m. Pacific tomorrow. Good. I had a lot of fun. Hope you did too. The game was fun
+
+1353
+02:42:36,319 --> 02:42:46,459
+It's my first experience really with prop hunt. I have to eat a shoe now. I did I I played Shido in the beginning
+
+1354
+02:42:46,459 --> 02:42:59,440
+There's no batteries, but this is what that's what she'd have would have sounded like I pressed the buttons to play
+
+1355
+02:42:59,440 --> 02:43:03,659
+It was just very soft because the Shido is out of batteries, but you can still very soft
+
+1356
+02:43:03,659 --> 02:43:24,420
+You just couldn't hear it daily Shito. Okay, so who's still live from that group?
+
+1357
+02:43:24,540 --> 02:43:28,420
+It's like Vinny or Kraken or Ross anybody still live from that group of people
+
+1358
+02:43:28,500 --> 02:43:44,620
+Was everybody kind of taking off they're all still like let's let's go. Um, it's been it was very let's write Kraken
+
+1359
+02:43:44,620 --> 02:43:49,860
+It's been a while. It's been a while since we have said hello to Kraken, which is cool to play with them
+
+1360
+02:43:50,219 --> 02:44:10,579
+Okay, here we go. I will see you guys later. He's playing some kind of stream game. Oh, really? That'd be interesting
+
+1361
+02:44:10,579 --> 02:44:13,139
+Hopefully I don't like
+
+1362
+02:44:13,540 --> 02:44:19,190
+Ruin it. Is he doing like a stream chat game? Oh god
+
+1363
+02:44:20,139 --> 02:44:32,639
+Be nice be be work well with others or I'm gonna be pissed. Alright, good night guys. See you later. Take care of yourselves
+
+1364
+02:45:28,409 --> 02:45:30,409
+you

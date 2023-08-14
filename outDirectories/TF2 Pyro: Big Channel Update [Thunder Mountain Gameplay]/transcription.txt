@@ -1,0 +1,58 @@
+[0.31s -> 14.44s]  Hey, what is going on everybody? Jerma here with a Team Fortress 2 gameplay commentary.
+[14.44s -> 22.44s]  And tonight, gonna be playing as the Pyro with the default flamethrower, the flare gun, and the axe extinguisher.
+[22.44s -> 27.74s]  None of it's strange, and none of it's vintage. This is a pretty good run, at least in the beginning as the Pyro.
+[27.74s -> 31.74s]  I get a lot of good flare gun shots, kill a lot of people, a lot of people are covered in Jarate.
+[31.74s -> 35.74s]  So thank you to the sniper that kept on throwing that on people, because it got me a lot of kills.
+[35.74s -> 39.74s]  But this is not gonna be about really the gameplay, it's a big update video.
+[39.74s -> 42.74s]  If you saw my Twitter last night, I made this announcement.
+[42.74s -> 46.74s]  Here comes a big update, I got a huge thing to talk about in this next video.
+[46.74s -> 55.98s]  And I do. What I want to talk about is I want to talk about my upload schedule, and how it's going to change dramatically in the next five days.
+[55.98s -> 63.16s]  So if you've been around the channel for a while, you've probably realized I do anywhere from three to five videos a week.
+[63.16s -> 69.16s]  Now that depends, it could be Team Fortress, it could be Grand Theft Auto, Binding of Isaac, I do a lot of different stuff.
+[69.16s -> 74.16s]  But what I'm going to do now is I'm going to do ten videos a week.
+[74.16s -> 80.16s]  And the reason why I decided to do this is not only from you guys, I get a lot of PMs, I get a lot of comments telling me,
+[80.16s -> 86.16s]  Jerma, can we get more videos? Can we get longer videos? This is great, you know, four uploads, three uploads is cool,
+[86.16s -> 89.16s]  but it would be awesome if you could upload every day.
+[89.16s -> 96.16s]  And I do take that to heart, because I do want to upload every day, and I do want to get content out as best as I can, as fast as I can for you guys.
+[96.16s -> 101.59s]  And I'm going to start to do that. It's the summer, I got a lot of free time, I had free time before,
+[101.59s -> 108.59s]  but the days are longer in summer and everyone seems to be around longer, so I'm going to start to do this next week.
+[108.59s -> 111.77s]  And what's going to happen is you're going to see a lot of content.
+[111.77s -> 116.77s]  There'll be one video in the morning or mid-afternoon, somewhere around 12 or noon Eastern Time,
+[116.77s -> 120.77s]  and another one out around 7 or 8 PM Eastern Time.
+[120.77s -> 126.94s]  So I'm going to try and do two uploads a day, at least Monday and Tuesday, because of course I'm going to try and get for ten.
+[126.94s -> 134.94s]  If I did two videos every single day, that would be two, four, six, eight, ten, twelve, fourteen, fourteen videos a week, and that's not what I'm going to do.
+[134.94s -> 141.94s]  Oh, and also the livestream. The livestream is not going anywhere, it's still going to be every week, it's going to be Sundays now.
+[141.94s -> 146.94s]  No longer is it going to be Saturdays, it's going to be Sundays at 1 PM Eastern Time.
+[146.94s -> 150.94s]  So don't worry, it's not like I'm throwing away the livestream, that'll still be there.
+[150.94s -> 157.94s]  And if you were at the last livestream I tried to do, where Team Fortress wouldn't work, I actually can't stream any 3D games right now,
+[157.94s -> 160.94s]  because there's a bug between the 670 and XSplit.
+[160.94s -> 167.94s]  So until they come out with a new driver update, or until I can figure out a solution, I'm going to have to stream lower end games for a couple weeks,
+[167.94s -> 171.94s]  maybe less, I'm not sure when Nvidia is going to do their update, we will see.
+[171.94s -> 178.44s]  So what kind of content can you expect to see in the coming weeks, in the coming future of this channel?
+[178.44s -> 184.62s]  Well, I'll tell you. Pretty much I'm going to start doing a lot more live stuff, so everything that you already see on this channel is going to stay.
+[184.62s -> 187.79s]  There's just going to be a hell of a lot more of it.
+[187.79s -> 194.79s]  You'll get a live com pretty much every night, depending if it's Team Fortress, Binding of Isaac, GTA, there'll always be a live com on the channel.
+[194.79s -> 199.79s]  And of course there'll be my normal post-com stuff as well, I'm not going to change any of that.
+[199.79s -> 209.35s]  So the only thing that's actually changing on the channel is more videos will be uploaded on top of what already is uploaded, if that makes any sense.
+[209.35s -> 215.35s]  So that's the plan of action, that's my schedule I'm going to try and stick to.
+[215.35s -> 219.78s]  So 10 uploads a week, starting this coming Monday.
+[219.78s -> 224.78s]  I've been toying with the idea for a while to do more uploads and longer videos and stuff like that,
+[224.78s -> 229.78s]  but now it seems like I finally have a plan where I can flesh it all out and actually do it.
+[229.78s -> 234.78s]  So look forward to that, starting on Monday, like I said, and we'll see where it goes, right?
+[234.78s -> 245.76s]  So the next thing I want to talk about is the Pyro meet the Dust Lint Goldfish Woodplank thing that's going on in the latest update in Team Fortress.
+[245.76s -> 250.76s]  I don't know what the hell is going on. I read on the forums that if you put on a certain set,
+[250.76s -> 255.76s]  I forget what the name of the set is, but if you put a full set on, you can see some more cryptic text,
+[255.76s -> 258.76s]  or you can look at the images a different way or something like that.
+[258.76s -> 267.00s]  All I know is this, whenever Valve decides to do these in-game puzzle kind of adventure type things,
+[267.00s -> 273.00s]  where you have to figure things out and it's all cryptic and all that, it always means an update is right around the corner.
+[273.00s -> 276.00s]  Do you guys remember the dove situation in Meet the Medic?
+[276.00s -> 279.00s]  Remember all the doves that were flying around and all the weird stuff with that?
+[279.00s -> 283.00s]  And also the rockets, the Groddborz rockets that were landing?
+[283.00s -> 287.00s]  Oh, you go to the skybox and there's this and that, and it's always about an update.
+[287.00s -> 292.00s]  So I'm smelling the update bug. It's inside of my nostrils right now.
+[292.00s -> 295.00s]  That did not sound good or really nice at all.
+[295.00s -> 298.18s]  But anyways, that's going to wrap up this video, guys.
+[298.18s -> 300.18s]  Thank you all so much for watching. I really do appreciate it.
+[300.18s -> 305.18s]  And if you have any more information on this crazy new update, then definitely let us all know.
+[305.18s -> 308.18s]  I'm sure a lot of people in the comments would like to know, and of course I do too.
+[308.18s -> 312.18s]  So yeah, I'll see you guys all next time, and take care everybody.

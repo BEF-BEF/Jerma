@@ -1,0 +1,391 @@
+1
+00:00:00,310 --> 00:00:13,380
+Hey, what is going on, everybody? Jermaw here with a Team Fortress 2 gameplay commentary.
+
+2
+00:00:13,380 --> 00:00:20,379
+And tonight, gonna be playing as the Scout with the Soda Popper, the Mad Milk, and the Candy King.
+
+3
+00:00:20,379 --> 00:00:25,679
+So this video is gonna touch upon a couple of different things. It's always a couple things with me.
+
+4
+00:00:25,679 --> 00:00:28,679
+It's never three, never four, never one, always two.
+
+5
+00:00:28,679 --> 00:00:34,679
+The first thing is gonna be soda popper tips, and how I use this thing, and how I've gotten better with this thing.
+
+6
+00:00:34,679 --> 00:00:38,679
+And pretty much things to avoid when you do use this thing.
+
+7
+00:00:38,679 --> 00:00:41,679
+And the second thing is gonna talk about managing stress.
+
+8
+00:00:41,679 --> 00:00:47,679
+Stress in everyday life, stress in gaming. I really just stress in general in how I manage it.
+
+9
+00:00:47,679 --> 00:00:51,679
+And I guess we will touch on that first, because I'll talk about last night.
+
+10
+00:00:51,679 --> 00:00:54,679
+If you were at the stream last night, you probably know what I'm talking about.
+
+11
+00:00:54,679 --> 00:00:58,679
+I was given some codes to give away on Smite Game.
+
+12
+00:00:58,679 --> 00:01:03,679
+There were 400 gem codes, and I was given 10 of them by the fine people at Hi-Rez.
+
+13
+00:01:03,679 --> 00:01:07,680
+And what happened was I got about maybe a third of the way through the codes.
+
+14
+00:01:07,680 --> 00:01:12,680
+And I accidentally showed them on stream, and it was just bang like that. They were pretty much all gone.
+
+15
+00:01:12,680 --> 00:01:19,920
+So what I ended up saying is I said, look, if I rolled your name, and you tried to put the code in and it didn't work,
+
+16
+00:01:19,920 --> 00:01:23,920
+please let me know, and I will just buy you a gem code with my own money.
+
+17
+00:01:23,920 --> 00:01:27,920
+Because, I mean, before I go any further, I want to make this very clear.
+
+18
+00:01:27,920 --> 00:01:32,920
+When I do stuff like this, guys, I want to make sure that you actually get what I say is gonna happen.
+
+19
+00:01:32,920 --> 00:01:39,920
+It's so important to me that stuff like this does go through, and stuff like this does happen without major hitches.
+
+20
+00:01:39,920 --> 00:01:44,920
+And if it does, and that's the first point I have to make about dealing with stress and managing stress,
+
+21
+00:01:44,920 --> 00:01:47,159
+things are never gonna go according to plan.
+
+22
+00:01:47,159 --> 00:01:54,400
+Even if you have the most concrete plan that you think is never gonna go wrong, chances are it's not gonna go 100%.
+
+23
+00:01:54,400 --> 00:01:56,400
+It's not gonna go completely according to your plan.
+
+24
+00:01:56,400 --> 00:02:02,400
+And that's the first thing you need to realize when you're managing something like a stressful situation or stress in daily life.
+
+25
+00:02:02,400 --> 00:02:05,400
+Always plan for your plan to not work.
+
+26
+00:02:05,400 --> 00:02:10,400
+Now, that's pretty ironic because I just said all plans never really go according to plan,
+
+27
+00:02:10,400 --> 00:02:14,400
+so you planning for your stress to be planned is planning it.
+
+28
+00:02:14,400 --> 00:02:21,400
+It's kind of a weird oxymoron there, but still, you need to be prepared for the worst possible situation.
+
+29
+00:02:21,400 --> 00:02:25,400
+I believe it's called Murphy's Law is the actual term for that.
+
+30
+00:02:25,400 --> 00:02:28,400
+That if a situation can go wrong, it will go wrong.
+
+31
+00:02:28,400 --> 00:02:30,400
+That is Murphy's Law.
+
+32
+00:02:30,400 --> 00:02:36,830
+And when you start applying your everyday life to things like Murphy's Law, stressful situations don't really get to you.
+
+33
+00:02:36,830 --> 00:02:38,830
+They don't really make you overreact.
+
+34
+00:02:38,830 --> 00:02:46,830
+They don't make you freak out or, you know, pull your hair out because you kind of expected something like this could potentially happen.
+
+35
+00:02:46,830 --> 00:02:51,830
+And that's really what I'm getting at here is stressful situations, although they cannot be avoided,
+
+36
+00:02:51,830 --> 00:02:55,830
+they can be managed by staying calm and not freaking out.
+
+37
+00:02:55,830 --> 00:03:00,830
+Last night, if I had freaked out, like, oh, dear God, the codes are out.
+
+38
+00:03:00,830 --> 00:03:03,830
+The codes are out. Everybody get to get into Winnebago.
+
+39
+00:03:03,830 --> 00:03:04,830
+We're going to get to get it.
+
+40
+00:03:04,830 --> 00:03:09,830
+Like if I had done something like that, it would have caused a major, major problem.
+
+41
+00:03:09,830 --> 00:03:12,830
+But instead, I just was like, all right, this happened.
+
+42
+00:03:12,830 --> 00:03:16,830
+How am I going to deal with it? And then you can apply that to everyday life.
+
+43
+00:03:16,830 --> 00:03:19,830
+That's something you have to apply on a daily basis.
+
+44
+00:03:19,830 --> 00:03:21,830
+It doesn't come that easily.
+
+45
+00:03:21,830 --> 00:03:23,830
+You're going to you're going to have some freak out moments.
+
+46
+00:03:23,830 --> 00:03:27,830
+Let me tell you right now, if like if you're like your car is going off a cliff,
+
+47
+00:03:27,830 --> 00:03:30,830
+like if you're like driving down the street and you go off the highway into like a ravine,
+
+48
+00:03:30,830 --> 00:03:34,830
+it's OK to scream because that's a pretty ridiculous situation.
+
+49
+00:03:34,830 --> 00:03:39,069
+You can't just sit there and be like, well, you know, this could have happened.
+
+50
+00:03:39,069 --> 00:03:40,069
+We could have gone off the ravine.
+
+51
+00:03:40,069 --> 00:03:43,250
+Like that's not really what I'm getting at here.
+
+52
+00:03:43,250 --> 00:03:51,250
+What I'm getting at is to keep your levels of stress down by preparing for bad things to actually happen to you.
+
+53
+00:03:51,250 --> 00:03:55,250
+Always be cautious, always be optimistic and always have a backup plan.
+
+54
+00:03:55,250 --> 00:03:57,250
+Those are the three things to manage your stress.
+
+55
+00:03:57,250 --> 00:03:59,250
+At least that's how I do it.
+
+56
+00:03:59,250 --> 00:04:01,250
+And that's going to end that little topic there.
+
+57
+00:04:01,250 --> 00:04:06,250
+Just wanted to bring that up and let you guys know how I deal with situations like the one that happened last night.
+
+58
+00:04:06,250 --> 00:04:07,250
+Now let's move on to the soda popper.
+
+59
+00:04:07,250 --> 00:04:09,250
+I want to talk about this for a couple of minutes.
+
+60
+00:04:09,250 --> 00:04:14,250
+Some various tips on how to not freak out and not get stressed out when you're using this weapon.
+
+61
+00:04:14,250 --> 00:04:19,680
+So the first thing to talk about is the fact that probably the most important thing is it only has two shots.
+
+62
+00:04:19,680 --> 00:04:22,680
+And I would say the same thing about the Force of Nature as well.
+
+63
+00:04:22,680 --> 00:04:25,680
+Never just unload both shots at the same time.
+
+64
+00:04:25,680 --> 00:04:32,680
+Even if you think you're going to hit somebody with this thing, both shots, you know in your head, I'm going to hit this guy with both shots.
+
+65
+00:04:32,680 --> 00:04:35,680
+Do not jump the gun and launch out both at the same time.
+
+66
+00:04:35,680 --> 00:04:41,680
+Because if you happen to miss, if you miss the person with the second shot, you're out of luck because then you got to reload the thing.
+
+67
+00:04:41,680 --> 00:04:46,860
+And even though it reloads quite quickly, you're still not shooting somebody for a couple of seconds.
+
+68
+00:04:46,860 --> 00:04:47,860
+You still have to get back into position.
+
+69
+00:04:47,860 --> 00:04:48,860
+You still have to aim at them.
+
+70
+00:04:48,860 --> 00:04:55,029
+So it's a better idea to wait till you know you have a guaranteed boom, wait, boom.
+
+71
+00:04:55,029 --> 00:04:57,029
+You want to time it accordingly.
+
+72
+00:04:57,029 --> 00:05:04,269
+Because when you jump the gun with this thing, and believe me, I'm guilty of this myself, you end up just shooting erratically.
+
+73
+00:05:04,269 --> 00:05:06,269
+You know, like bang, bang, bang, bang, bang, bang.
+
+74
+00:05:06,269 --> 00:05:08,269
+And you're missing every single shot.
+
+75
+00:05:08,269 --> 00:05:16,579
+And if you just took the time to calm down a little bit and plant one, plant one shot, especially if you have the mini crits activated,
+
+76
+00:05:16,579 --> 00:05:25,939
+that one shot, that two shots that you actually plant on them are going to be way more effective than if you're just spamming at them erratically trying to hit them with a random shot.
+
+77
+00:05:25,939 --> 00:05:32,939
+So the second thing I want to talk about, and I will end on this, is the fact that managing the mini crits doesn't have to be that complicated.
+
+78
+00:05:32,939 --> 00:05:34,939
+You don't have to really, I mean, it's good to store them.
+
+79
+00:05:34,939 --> 00:05:37,939
+It's good to switch over at the last second before the height meter fills up.
+
+80
+00:05:37,939 --> 00:05:39,939
+And wait, maybe get yourself in a better situation.
+
+81
+00:05:39,939 --> 00:05:41,939
+If nobody's around, you probably shouldn't be using the mini crits.
+
+82
+00:05:41,939 --> 00:05:45,939
+But it shouldn't be something that you're just actively thinking about.
+
+83
+00:05:45,939 --> 00:05:46,939
+It should be something that's in the back of your head.
+
+84
+00:05:46,939 --> 00:05:49,939
+Because when you start to go, oh, wait, I don't want to use those crits now.
+
+85
+00:05:49,939 --> 00:05:50,939
+Oh, damn it.
+
+86
+00:05:50,939 --> 00:05:52,939
+Oh, and you switch out and you switch back and you switch out.
+
+87
+00:05:52,939 --> 00:05:59,120
+You're giving your brain something else to do rather than actively pursuing a point or attacking somebody.
+
+88
+00:05:59,120 --> 00:06:04,120
+And most of the time when you're in that situation when there's nobody around, like I said, that's okay.
+
+89
+00:06:04,120 --> 00:06:08,120
+But if there are people around, if there's at least one or two enemies around, just let the crits happen.
+
+90
+00:06:08,120 --> 00:06:09,120
+You don't have to store them.
+
+91
+00:06:09,120 --> 00:06:15,120
+You don't hoard them and think of a time when it would be a better situation for it because the thing is going to pop right back up in no time.
+
+92
+00:06:15,120 --> 00:06:17,120
+The hype meter fills pretty quickly.
+
+93
+00:06:17,120 --> 00:06:22,120
+So don't be afraid to just let the crits roll out as long as there's a couple people around.
+
+94
+00:06:22,120 --> 00:06:25,810
+But that is going to conclude this video, guys.
+
+95
+00:06:25,810 --> 00:06:27,810
+Thank you all so much for watching.
+
+96
+00:06:27,810 --> 00:06:28,810
+I really do appreciate it.
+
+97
+00:06:28,810 --> 00:06:29,810
+And I'll see you guys all soon.
+
+98
+00:06:29,810 --> 00:06:32,810
+And of course, take care, everybody.

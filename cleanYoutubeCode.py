@@ -1,7 +1,8 @@
 import csv
 import re
+import os
 from googleapiclient.discovery import build
-
+from utils import recursive_clean
 def load_secret_from_file(filename):
     with open(filename, "r") as file:
         return file.read().strip()
@@ -50,28 +51,40 @@ def get_channel_videos(youtube, channel_id):
 
     return videos
 
-def recursive_clean(s):
-    """Recursively clean the string."""
-    new_s = s.replace("/", " ").replace(",", " ").replace("  ", " ")
-    if new_s == s:
-        return s
-    return recursive_clean(new_s)
+
+
+def video_exists_in_csv(video_id, output_filename):
+    """Check if a video with the given ID already exists in the CSV."""
+    with open(output_filename, 'r', newline='') as f:
+        reader = csv.reader(f)
+        for row in reader:
+            if video_id in row:
+                return True
+    return False
 
 def write_videos_to_csv(youtube, channel_id, output_filename):
     videos = get_channel_videos(youtube, channel_id)
-    with open(output_filename, "w", newline="") as f:
+    
+    # Check if the file exists, if not create and write headers
+    if not os.path.exists(output_filename):
+        with open(output_filename, "w", newline="") as f:
+            writer = csv.writer(f)
+            writer.writerow(["Title", "URL", "Duration", "Upload Date", "VideoID"])  # Headers
+
+    with open(output_filename, "a", newline="") as f:
         writer = csv.writer(f)
-        writer.writerow(["Title", "URL","Duration", "Upload Date", "VideoID"])  # Headers
 
         for video in videos:
             video_url = f"https://www.youtube.com/watch?v={video['snippet']['resourceId']['videoId']}"
             video_id = extract_video_id(video_url)
-            if video_id:
-                title, duration, upload_date = get_video_details(youtube, video_id)
-                title = recursive_clean(title)
+            if video_id and not video_exists_in_csv(video_id, output_filename):
                 
-                writer.writerow([title, video_url, upload_date, duration, video_id])
-                print("wrote: " + title + " to csv")
+                if "41_aOAviUY8" not in video_id:
+                    title, duration, upload_date = get_video_details(youtube, video_id)
+                    title = recursive_clean(title)
+
+                    writer.writerow([title, video_url, upload_date, duration, video_id])
+                    print("wrote: " + title + " to csv")
 
 if __name__ == "__main__":
     API_KEY = load_secret_from_file("secrets/api_key.txt")

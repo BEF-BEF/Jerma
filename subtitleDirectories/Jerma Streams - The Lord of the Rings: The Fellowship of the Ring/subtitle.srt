@@ -1,0 +1,6251 @@
+1
+00:00:00,760 --> 00:00:10,359
+So I'm sitting here questioning a couple things about the state of media and how, hear me out.
+
+2
+00:00:10,359 --> 00:00:22,170
+So why is it that I can play The Lord of the Rings The Fellowship of the Ring on PlayStation 2
+
+3
+00:00:22,170 --> 00:00:30,260
+with a bunch of cutscenes and all the fucking music, but I can't watch The Fellowship of the
+
+4
+00:00:30,260 --> 00:00:37,130
+Ring on Twitch? Why am I not allowed to do that? Why can I play The Fellowship of the Ring the game,
+
+5
+00:00:37,130 --> 00:00:40,250
+but I can't watch The Fellowship of the Ring the movie? It's, I don't understand.
+
+6
+00:00:41,049 --> 00:00:51,740
+What happened to my fucking, my cord got all fucked up. Aren't they under the same boat? Is it
+
+7
+00:00:51,740 --> 00:00:59,179
+licensing? All right, but okay, but if Shadow of, Shadow of War came out like two years ago,
+
+8
+00:01:03,770 --> 00:01:13,590
+if I listen to The Hobbit's song in Shadow of War, but then I play a clip of The Hobbit's song
+
+9
+00:01:15,459 --> 00:01:26,390
+on YouTube, my channel gets, gets muted. That's weird. Like, is that, I don't understand.
+
+10
+00:01:27,109 --> 00:01:37,530
+Dermot, your audio is sounding nice and crisp today. Ha, well, look at you. We're playing Lord
+
+11
+00:01:37,530 --> 00:01:41,129
+of the Rings The Fellowship of the Ring today because one person guaranteed I wouldn't get
+
+12
+00:01:41,129 --> 00:01:52,310
+past the first level. So, that's what we're doing. I don't know why you would say that because I,
+
+13
+00:01:53,750 --> 00:02:02,500
+weirdly enough, my memory does not remember this one. Yeah, there it is. Lord of the Rings,
+
+14
+00:02:02,500 --> 00:02:05,859
+you won't make it. Here we go. Just for, just for context, for those of you that are curious,
+
+15
+00:02:05,859 --> 00:02:13,020
+here's the context here. You won't get past the first part of Fellowship, I guarantee it.
+
+16
+00:02:14,219 --> 00:02:19,129
+All right, I wouldn't, all right, I wouldn't remember your name because when I get past
+
+17
+00:02:19,129 --> 00:02:24,659
+level one in Fellowship of the Ring, I'm going to fucking scream your name. Right. What was
+
+18
+00:02:24,659 --> 00:02:30,500
+the name? Fake what? Here comes another hype train. Wait, I, I like made, I made this harder
+
+19
+00:02:30,500 --> 00:02:36,020
+to do. I increased it. All right. Well, here we go. Here we go again. When I get, when I'm done.
+
+20
+00:02:37,620 --> 00:02:43,620
+Fake. All right. Fake, fake. Here comes the hype train. When I am done with. Uh,
+
+21
+00:02:45,370 --> 00:02:54,259
+thanks for the hype train, guys. All right. Free, free hype trains in three days. This is like,
+
+22
+00:02:54,259 --> 00:03:00,250
+all right. When you, when you go to, when you, when you ride a ride at Disney World,
+
+23
+00:03:00,969 --> 00:03:05,849
+right? When you get on the hype train and you ride, you ride the fucking new Star Wars ride.
+
+24
+00:03:05,849 --> 00:03:13,110
+And it's like, holy shit, that was hype. That was insane. That was incredible. Oh, oh my God,
+
+25
+00:03:13,110 --> 00:03:18,550
+when Han Solo like flew by, dude, I shit my pants. Let's do it again. And you ride it again.
+
+26
+00:03:19,900 --> 00:03:24,939
+On the third or fourth ride on the hype train, on the hype ride, you look up and you start to see
+
+27
+00:03:24,939 --> 00:03:31,479
+where the fucking mechanical shit is. I, oh, wait. Oh, there's Han Solo. I can see the wire.
+
+28
+00:03:31,479 --> 00:03:42,789
+I can see the wire up there and it's connected to an arm. Oh, hi. Fuck. We're getting, there's
+
+29
+00:03:42,789 --> 00:03:51,370
+too many hype trains. All right. This is fucking ridiculous. Rusty bars. Oh no. Wait, hold on a
+
+30
+00:03:51,370 --> 00:03:57,689
+minute. Is there, is there a scratch on that LCD screen? Yeah. I didn't notice that on the first
+
+31
+00:03:57,689 --> 00:04:07,930
+fucking hype. Ah, Gary, should we have rode this ride 10 times in a row? Where are your kids?
+
+32
+00:04:10,740 --> 00:04:25,720
+Level three complete already. Level three. Here comes level four. Get on the hype train. Never
+
+33
+00:04:25,720 --> 00:04:33,029
+get off. Never get off the hype train. Already level four. You guys are not fucking around today.
+
+34
+00:04:33,029 --> 00:04:39,110
+We're just doing it. But okay. That's my point with this whole thing is I got to tweak some
+
+35
+00:04:39,110 --> 00:04:43,750
+numbers on this because I don't want to ride the Han Solo ride 20 times in a row and every day
+
+36
+00:04:44,310 --> 00:04:50,970
+I'm just sitting there. Get hype for the hype train. There's Han Solo. There he goes. Yeah.
+
+37
+00:04:52,310 --> 00:05:00,379
+Get hype. Oh, fuck. You've given me so much money in four days. I don't want it to be like
+
+38
+00:05:00,379 --> 00:05:04,300
+just going through the motions thing for me. I'm going to tweak the numbers. I'm going to make it
+
+39
+00:05:04,300 --> 00:05:10,009
+harder to do. We'll see. I thought I already did that, but you guys are fucking, you guys are so
+
+40
+00:05:10,009 --> 00:05:16,420
+generous. Like even if I keep making this harder to do, you're probably still going to do it.
+
+41
+00:05:17,829 --> 00:05:32,259
+You're still going to do it. Get hype or else. Oh man. Thanks guys. Seriously. This is fucking
+
+42
+00:05:32,259 --> 00:05:43,100
+too much. There's a lot of the rings. All right. You did it. Hype. You did it. Hype. Hype. Hype.
+
+43
+00:05:43,100 --> 00:05:54,660
+Hype. Hype. Hype. Thank you guys. Seriously. Level four. Oh, dude. There's only five minutes
+
+44
+00:05:54,660 --> 00:06:07,100
+to get this train out of the station. Dude. Four minutes and 30 seconds remain. What the?
+
+45
+00:06:08,899 --> 00:06:32,100
+Let's go. Start it. Do it. 27%, 28%. Come on, man. We can do this. We can do this three days in a
+
+46
+00:06:32,100 --> 00:06:47,769
+row. That's going to get my VOD muted. This is, okay, this is mute the VOD day. We got Lord of
+
+47
+00:06:47,769 --> 00:06:52,009
+the Rings music, Lord of the Rings fellowship of the ring in the background. We've got a hype train
+
+48
+00:06:52,009 --> 00:06:56,250
+getting on the ride again and it's going to complete and it's going to keep going.
+
+49
+00:06:56,250 --> 00:07:01,290
+We like to party. We like to party more. I can't even fucking keep up, man. This is insane.
+
+50
+00:07:03,370 --> 00:07:12,649
+Oh my fucking God. Get out of that hype train. Hey, Eleanor, $50. I like this video game. Thanks
+
+51
+00:07:12,649 --> 00:07:36,250
+for the 5,000 bits. Thanks for completing the hype train. Should I just play the song?
+
+52
+00:07:37,050 --> 00:07:42,569
+Should I just play this song and that's it? And that's what we do. And we just ride the hype
+
+53
+00:07:42,569 --> 00:07:53,110
+train and then we get off. It's too loud. All right. Hold on. Let me just be very, very... Did
+
+54
+00:07:53,110 --> 00:08:03,740
+somebody say that the Venga Boys was too loud? The Venga Boys are only allowed to be played at an
+
+55
+00:08:03,740 --> 00:08:13,189
+audio level of at least seven out of 10. If you play the Venga Boys under a five out of 10 in volume,
+
+56
+00:08:13,189 --> 00:08:25,189
+your computer explodes. It's like Speed, the movie with Keanu Reeves. A hundred dB.
+
+57
+00:08:25,189 --> 00:08:33,000
+Anyways, we did it. You did it again. You did it again. You did it again. You fucking... You blew
+
+58
+00:08:33,000 --> 00:08:39,320
+through another like three, five hundred subs or whatever it was. What is it? Let's just see
+
+59
+00:08:39,320 --> 00:08:48,970
+what it completes. It tells us. Play the song. You're getting the song. Actually, this is kind
+
+60
+00:08:48,970 --> 00:08:57,700
+of the royalty-free version of fellowship of the ring, isn't it? It is. This is not really fellowship
+
+61
+00:08:57,700 --> 00:09:06,659
+of the ring. So now I understand why I can play it. Where's Jon Snow? Wrong franchise. You're
+
+62
+00:09:06,659 --> 00:09:22,600
+thinking of a game of thrones. Where's Jon Snow? Toss a coin to the streamer. Oh my fucking God.
+
+63
+00:09:27,100 --> 00:09:37,850
+Another 5,000 bits from numb legs. They say hype in all capitals. Fucking... I'm making that
+
+64
+00:09:37,850 --> 00:09:47,129
+goddamn movie. I'm making that movie. Here's the part about this though. The projects that
+
+65
+00:09:47,129 --> 00:09:57,080
+are in the pipeline now became... I just fed all of my Pokemon that magic fruit that makes them
+
+66
+00:09:57,080 --> 00:10:02,360
+all stronger. I've got like 10 Pokemon in my Pokedex thing and I just gave them all the magic
+
+67
+00:10:02,360 --> 00:10:06,759
+fruit that makes them like 20% stronger, whatever it is. What's it called? Rare Candy. That's right.
+
+68
+00:10:07,990 --> 00:10:12,309
+You guys just gave Rare Candy to the four projects that are coming up in the next three,
+
+69
+00:10:12,309 --> 00:10:26,360
+four months. There it is. You achieved a hype level of level five. You did it. Let's get the
+
+70
+00:10:26,360 --> 00:10:38,100
+Vanga Boys on here to show just how fucking hype that was. 129 subs, 23,000 bits. Jesus Christ,
+
+71
+00:10:38,100 --> 00:10:49,509
+guys. In the first 10 minutes of the stream. You guys are too much. Thanks for sprinkling
+
+72
+00:10:49,509 --> 00:10:55,350
+Rare Candy all over all my fucking Pokemon videos that are coming out. Or streams, you know.
+
+73
+00:10:59,399 --> 00:11:06,279
+Anyway, let's play Lord of the Rings, Fellowship of the Ring. We'll go over all those at the end
+
+74
+00:11:06,279 --> 00:11:14,779
+of the stream like we always do, but holy shit. Hype is over. Back to sleep. New game. Lord of
+
+75
+00:11:14,779 --> 00:11:25,559
+the Rings. Okay, I was gonna say hopefully it doesn't hang. He's playing a game. Wake me up,
+
+76
+00:11:25,559 --> 00:11:32,200
+but he's not. We're gonna get a cutscene I think here. Is it the actors? Is it the original actors?
+
+77
+00:11:32,759 --> 00:11:56,870
+We'll find out. Hello? It's the old PlayStation 2 buzzing sound. Here we go.
+
+78
+00:11:56,870 --> 00:12:01,480
+That's the Harry Potter memory thing.
+
+79
+00:12:05,860 --> 00:12:12,730
+In the shadows of Morgdor, the Dark Lord Sauron forged the one ring to enslave all elves,
+
+80
+00:12:12,730 --> 00:12:20,230
+dwarves, and men of Middle-earth. The three people of Middle-earth overthrew Sauron,
+
+81
+00:12:20,230 --> 00:12:32,009
+but lost the ring. Now the enemy has returned, and from his dark tower in Morgdor,
+
+82
+00:12:32,009 --> 00:12:38,809
+he seeks his ring. We must find the ring first and destroy it. Who is that supposed to be?
+
+83
+00:12:41,029 --> 00:12:42,950
+Don't- I should know this.
+
+84
+00:12:50,440 --> 00:13:03,210
+Dendril? Dendril? Gabriel? No, not Gabriel. Gala- Gala- Gala-Leo. I don't know that- I don't
+
+85
+00:13:03,210 --> 00:13:09,850
+know. I'm such a fucking shitty fan. I don't know her name. Not Gandalf. Why are there no subtitles?
+
+86
+00:13:15,370 --> 00:13:22,340
+Gala-Dreel. Welcome back, Gandalf. Will we have fireworks, elvish lessons,
+
+87
+00:13:22,340 --> 00:13:26,740
+tales of ancient Numenor? Today, we must talk about a shadow of the past.
+
+88
+00:13:27,460 --> 00:13:31,779
+The ring you inherited may be very dangerous. Is that Ian Kellan? Uncle Bilbo's magic ring?
+
+89
+00:13:32,419 --> 00:13:40,019
+Magic rings, as you call them, were made by elves. But this ring, I think, was made by another.
+
+90
+00:13:40,820 --> 00:13:47,909
+Give me the ring. That looks like the Christian Bible game show host.
+
+91
+00:13:49,450 --> 00:13:53,529
+See, Frodo, it was that easy. You just gotta toss it into some fire.
+
+92
+00:13:54,889 --> 00:14:03,929
+Let me save you 16 hours worth of movie. I see fine lines, lines of fire, in a flowing script.
+
+93
+00:14:04,889 --> 00:14:11,610
+What does it say? One ring to rule them all, one ring to find them, one ring to bring them all,
+
+94
+00:14:12,490 --> 00:14:18,490
+and in the darkness, bind them. This is the one ring to rule them all.
+
+95
+00:14:19,210 --> 00:14:25,769
+The ancient kings of elves, dwarves, and men use the rings of power to rule their lands.
+
+96
+00:14:25,769 --> 00:14:28,009
+See, I don't have to pay attention to this cutscene, because I already, like,
+
+97
+00:14:28,009 --> 00:14:33,289
+know this. Oh, dude, pay attention to the cutscene. Everyone's seen this movie.
+
+98
+00:14:33,289 --> 00:14:38,259
+A strange creature called Gollum found the ring and was corrupted by it.
+
+99
+00:14:38,259 --> 00:14:45,220
+Bilbo won it from Gollum, and now it is yours. But the lord of the rings has returned,
+
+100
+00:14:45,220 --> 00:14:47,779
+and all his thought is bent on finding the ring.
+
+101
+00:14:48,899 --> 00:14:56,019
+Let's destroy it. It can only be destroyed when it was forged, in Mount Doom, the fire mountain in
+
+102
+00:14:56,019 --> 00:15:04,100
+Lorda. Take it there, take it. No, do not tempt me. If I bore the ring, I would become the Dark Lord
+
+103
+00:15:04,100 --> 00:15:08,340
+Gandalf. It's not like a piece of chocolate while you're on a diet.
+
+104
+00:15:13,539 --> 00:15:20,360
+I'm a danger to the Shire. I must leave. I could set out on the road just like Bilbo.
+
+105
+00:15:21,179 --> 00:15:27,820
+My dear Frodo, hobbits really are amazing creatures. But you need not go alone. If there
+
+106
+00:15:27,820 --> 00:15:33,340
+are any you can trust. But take care. The enemy has many spies.
+
+107
+00:15:34,379 --> 00:15:39,110
+Uh-oh. What was in the window? I didn't look in the window. Did you look in the window?
+
+108
+00:15:40,840 --> 00:15:45,559
+What? Well then. Samwise Gamgee, isn't it?
+
+109
+00:15:46,519 --> 00:15:50,169
+Don't hurt me. What are you doing at Bag End?
+
+110
+00:15:51,210 --> 00:15:54,649
+Nothing, sir. Trimming the grass under the window.
+
+111
+00:15:54,649 --> 00:15:58,169
+Oh? The sound of Shire stopped some time ago.
+
+112
+00:15:58,169 --> 00:16:02,330
+Bootleg Lord of the Rings. We're just watching the Lord of the Rings on stream.
+
+113
+00:16:02,330 --> 00:16:05,450
+Finally. I get to live my fucking fantasy.
+
+114
+00:16:06,090 --> 00:16:13,159
+What have you heard? Oh, Frodo, don't let him turn me into anything unnatural.
+
+115
+00:16:13,159 --> 00:16:15,399
+He won't hurt you. Just answer his question.
+
+116
+00:16:16,200 --> 00:16:21,879
+Well, I heard a lot. I didn't understand about lords and rings in the fiery mountain.
+
+117
+00:16:22,440 --> 00:16:26,360
+And elves, sir. I had to listen. I dearly love to see elves.
+
+118
+00:16:28,259 --> 00:16:30,100
+Were they? Keep it a secret, Sam.
+
+119
+00:16:30,580 --> 00:16:32,899
+Or I hope Gandalf turned you into a spotted toad.
+
+120
+00:16:33,460 --> 00:16:34,980
+I've thought of something better.
+
+121
+00:16:34,980 --> 00:16:35,940
+Why don't they shave their feet?
+
+122
+00:16:35,940 --> 00:16:37,779
+You will go away with you, Frodo.
+
+123
+00:16:38,500 --> 00:16:39,779
+Me, sir? I don't understand.
+
+124
+00:16:39,779 --> 00:16:42,659
+Go and see elves and all. Hooray!
+
+125
+00:16:42,659 --> 00:16:43,700
+But where should we go?
+
+126
+00:16:44,580 --> 00:16:47,059
+Towards danger, but not too rashly.
+
+127
+00:16:47,059 --> 00:16:48,980
+Just grab like a wax strip and just-
+
+128
+00:16:50,980 --> 00:16:53,139
+Take time to settle your affairs before you leave.
+
+129
+00:16:53,940 --> 00:16:55,860
+I could leave in autumn, on my birthday.
+
+130
+00:16:56,419 --> 00:16:57,620
+Very well, but no later.
+
+131
+00:16:57,620 --> 00:16:59,779
+How come there wasn't like a 40-year-old virgin
+
+132
+00:17:00,980 --> 00:17:05,859
+part of these movies where Frodo gets like his feet waxed and he's like,
+
+133
+00:17:05,859 --> 00:17:07,779
+Oh, I'm killing Ornstein!
+
+134
+00:17:07,779 --> 00:17:08,819
+Every time they rip it off.
+
+135
+00:17:08,819 --> 00:17:10,099
+I'll have to sell Bag End.
+
+136
+00:17:10,660 --> 00:17:14,099
+The Sackville Bagginses have been trying to take over this place for years.
+
+137
+00:17:14,660 --> 00:17:15,940
+A shame to let them have it.
+
+138
+00:17:17,140 --> 00:17:21,859
+Indeed. And now I must go. I have much to attend to.
+
+139
+00:17:22,579 --> 00:17:23,220
+As do I.
+
+140
+00:17:23,220 --> 00:17:24,660
+That would ruin these fucking movies.
+
+141
+00:17:25,619 --> 00:17:27,220
+That would ruin everything.
+
+142
+00:17:28,180 --> 00:17:31,859
+They would not get nominated for any Academy Awards across the entire three movies.
+
+143
+00:17:31,859 --> 00:17:35,940
+Oh, yes. Not a word from Sam Gamgee, and that's for certain.
+
+144
+00:17:35,940 --> 00:17:38,579
+Once you leave, travel as Mr. Underhill.
+
+145
+00:17:38,579 --> 00:17:41,940
+The name of Baggins is not synced outside the Shire.
+
+146
+00:17:41,940 --> 00:17:48,339
+And do not use the ring, for it can corrupt the most innocent heart.
+
+147
+00:17:48,900 --> 00:17:49,700
+I understand.
+
+148
+00:17:50,259 --> 00:17:51,779
+Gandalf, how do you use a ring?
+
+149
+00:17:51,779 --> 00:17:55,430
+You just paused on it.
+
+150
+00:17:55,430 --> 00:17:56,710
+I'm going to see elves.
+
+151
+00:17:56,710 --> 00:18:00,309
+Farewell, Frodo. I'll return by your birthday.
+
+152
+00:18:01,430 --> 00:18:03,109
+Oh, my birthday?
+
+153
+00:18:03,109 --> 00:18:05,509
+I'm going to get Gandalfs coming to my birthday party.
+
+154
+00:18:05,509 --> 00:18:07,829
+As the nights grew longer, I decided I might have to leave the house.
+
+155
+00:18:07,829 --> 00:18:10,150
+You're not coming to your birthday party.
+
+156
+00:18:10,150 --> 00:18:11,670
+On the morning of my birthday, September 22nd,
+
+157
+00:18:11,670 --> 00:18:14,630
+I set out for one final stroll around the Shire.
+
+158
+00:18:14,630 --> 00:18:21,430
+I had to say farewell to my neighbors and sell my home to the Bees Sackville Baggins.
+
+159
+00:18:21,430 --> 00:18:22,309
+Scroll back up. What?
+
+160
+00:18:23,990 --> 00:18:27,109
+He's coming to my birthday. That's my birthday.
+
+161
+00:18:27,109 --> 00:18:39,619
+Gandalf, just come to my fucking birthday party.
+
+162
+00:18:40,180 --> 00:18:40,740
+Not yours.
+
+163
+00:18:43,269 --> 00:18:49,849
+He could be making it up, though.
+
+164
+00:18:52,069 --> 00:18:52,710
+All right, let's go.
+
+165
+00:18:53,900 --> 00:18:56,619
+Happy birthday. Gandalf's coming to my birthday party.
+
+166
+00:18:57,660 --> 00:18:58,619
+Oh, I have to get ready.
+
+167
+00:18:59,180 --> 00:19:10,420
+You picked a Bag End key. Get the key to Bag End.
+
+168
+00:19:10,420 --> 00:19:12,740
+Press and hold R2 to view Frodo's inventory.
+
+169
+00:19:13,619 --> 00:19:16,339
+Use the left analog stick to scroll through Frodo's inventory.
+
+170
+00:19:17,940 --> 00:19:18,579
+Walking stick.
+
+171
+00:19:19,539 --> 00:19:22,819
+Oh, you can punch and you can hit.
+
+172
+00:19:23,460 --> 00:19:34,259
+All right, so I got the key to Bag End.
+
+173
+00:19:34,819 --> 00:19:35,619
+Anything else I need to do?
+
+174
+00:19:42,390 --> 00:19:44,150
+Stick in Bag End.
+
+175
+00:19:48,250 --> 00:19:48,650
+Shut up.
+
+176
+00:19:50,170 --> 00:19:51,880
+All right, let's go. I got the key.
+
+177
+00:19:52,759 --> 00:19:57,589
+Wait, I don't want to miss any secrets.
+
+178
+00:19:58,390 --> 00:20:03,269
+Hey, by the way, what qualifies as the first part of Lord of the Rings?
+
+179
+00:20:03,990 --> 00:20:04,789
+Fellowship of the Ring.
+
+180
+00:20:08,069 --> 00:20:08,950
+Getting out of the house here.
+
+181
+00:20:08,950 --> 00:20:10,789
+This is the first level is getting out of the house.
+
+182
+00:20:24,200 --> 00:20:26,039
+Find the deed to Bag End before leaving.
+
+183
+00:20:26,039 --> 00:20:26,599
+Oh, shit.
+
+184
+00:20:28,950 --> 00:20:29,589
+Is there a sprint?
+
+185
+00:20:35,450 --> 00:20:36,650
+Fucking ugly ass game.
+
+186
+00:20:47,940 --> 00:20:49,859
+Yes, I know it is PlayStation 2.
+
+187
+00:20:49,859 --> 00:20:50,180
+I know.
+
+188
+00:20:50,980 --> 00:20:52,900
+But it's pretty ugly.
+
+189
+00:20:52,900 --> 00:20:53,700
+He's gonna quit it.
+
+190
+00:20:54,339 --> 00:20:55,819
+He's gonna quit.
+
+191
+00:20:55,819 --> 00:20:56,779
+Oh, no.
+
+192
+00:20:56,779 --> 00:20:58,140
+No, I'm not gonna quit.
+
+193
+00:20:58,140 --> 00:20:58,539
+I can't.
+
+194
+00:20:59,180 --> 00:21:01,130
+Bring us in this chest.
+
+195
+00:21:01,690 --> 00:21:03,289
+I best leave it here until I sell Bag End.
+
+196
+00:21:03,289 --> 00:21:04,410
+He sells his house?
+
+197
+00:21:08,410 --> 00:21:08,970
+I don't...
+
+198
+00:21:08,970 --> 00:21:09,849
+Wait, hold on.
+
+199
+00:21:09,849 --> 00:21:12,890
+Frodo sells his house in Fellowship of the Ring?
+
+200
+00:21:13,690 --> 00:21:16,569
+Where's the deed to the house?
+
+201
+00:21:17,289 --> 00:21:20,009
+You never watched the movie.
+
+202
+00:21:20,009 --> 00:21:20,569
+Yes, I did.
+
+203
+00:21:20,569 --> 00:21:23,289
+I don't remember them being on a house sale.
+
+204
+00:21:24,250 --> 00:21:28,339
+You didn't read the books.
+
+205
+00:21:29,059 --> 00:21:31,319
+No, I didn't read the books.
+
+206
+00:21:32,920 --> 00:21:33,240
+Because...
+
+207
+00:21:33,880 --> 00:21:39,700
+Where's his deed?
+
+208
+00:21:40,339 --> 00:21:46,970
+The movies were so good that I couldn't read the books.
+
+209
+00:21:46,970 --> 00:21:47,529
+Okay?
+
+210
+00:21:47,529 --> 00:21:48,329
+I'll be...
+
+211
+00:21:48,329 --> 00:21:48,890
+I'm gonna be honest.
+
+212
+00:21:49,690 --> 00:21:51,690
+The movies were too good.
+
+213
+00:21:52,650 --> 00:21:54,890
+So I could not read the books.
+
+214
+00:21:55,609 --> 00:22:06,359
+Hold on a second.
+
+215
+00:22:06,359 --> 00:22:07,480
+Let me just do something here.
+
+216
+00:22:12,920 --> 00:22:15,000
+I think I can turn the brightness up a little bit or something.
+
+217
+00:22:15,000 --> 00:22:15,720
+Something's wrong.
+
+218
+00:22:16,680 --> 00:22:19,400
+It looks like shitty, crusty.
+
+219
+00:22:19,400 --> 00:22:20,599
+I think that just might be the game.
+
+220
+00:22:20,599 --> 00:22:21,720
+Let me see if I can tweak this.
+
+221
+00:22:32,970 --> 00:22:33,769
+I'm not cheating.
+
+222
+00:22:35,829 --> 00:22:36,470
+All right, here we go.
+
+223
+00:22:37,109 --> 00:22:41,289
+Is that better or worse?
+
+224
+00:22:41,289 --> 00:22:42,009
+I can't even tell.
+
+225
+00:22:42,009 --> 00:22:42,809
+That's like worse.
+
+226
+00:22:43,529 --> 00:22:45,420
+Wait, oh, there we go.
+
+227
+00:22:45,980 --> 00:22:51,369
+That's a little better.
+
+228
+00:22:51,369 --> 00:23:01,609
+Is it worse?
+
+229
+00:23:01,609 --> 00:23:07,130
+Do we saturate the colors a little more?
+
+230
+00:23:08,460 --> 00:23:09,900
+All right, now we're looking okay.
+
+231
+00:23:12,779 --> 00:23:14,299
+Now it doesn't look like total dog shit.
+
+232
+00:23:14,859 --> 00:23:20,549
+Have you dropped the contrast a little?
+
+233
+00:23:21,190 --> 00:23:23,079
+Put the gamut down.
+
+234
+00:23:25,299 --> 00:23:27,140
+Gamut down, sharpness up, brightness up.
+
+235
+00:23:28,099 --> 00:23:30,940
+I don't have access to those.
+
+236
+00:23:31,500 --> 00:23:34,549
+That looks better.
+
+237
+00:23:34,549 --> 00:23:35,430
+That looks all right right there.
+
+238
+00:23:43,019 --> 00:23:44,059
+Looks like I put the ring on.
+
+239
+00:23:46,440 --> 00:23:48,519
+All right, let me walk around for a second.
+
+240
+00:23:50,099 --> 00:23:52,099
+Oh yeah, that's like a thousand times better.
+
+241
+00:23:52,819 --> 00:23:55,740
+Before it was like I hurt my head.
+
+242
+00:23:56,539 --> 00:23:57,420
+That's so much better.
+
+243
+00:23:57,980 --> 00:24:06,259
+All right, let's close this back down.
+
+244
+00:24:07,380 --> 00:24:09,940
+Am I playing this in a bathtub?
+
+245
+00:24:11,670 --> 00:24:12,170
+Yes.
+
+246
+00:24:12,950 --> 00:24:14,869
+Yes, I'm in a bathtub right now.
+
+247
+00:24:14,950 --> 00:24:16,309
+I'm playing in a bathtub.
+
+248
+00:24:16,309 --> 00:24:17,190
+I bathe and play.
+
+249
+00:24:17,750 --> 00:24:18,630
+That's how I game.
+
+250
+00:24:18,630 --> 00:24:22,309
+That's how you know that I take it dead seriously.
+
+251
+00:24:22,309 --> 00:24:23,670
+Oh, oh, by the question.
+
+252
+00:24:24,970 --> 00:24:27,289
+I was scared to do this and I didn't know.
+
+253
+00:24:28,359 --> 00:24:29,240
+Okay, let me ask.
+
+254
+00:24:29,240 --> 00:24:30,119
+This is a real question.
+
+255
+00:24:30,759 --> 00:24:32,519
+Because how does electricity even work?
+
+256
+00:24:33,319 --> 00:24:37,480
+So if I bring, let's say for instance,
+
+257
+00:24:37,480 --> 00:24:38,680
+if somebody was to hypothetically,
+
+258
+00:24:41,000 --> 00:24:42,920
+if you would like to be in a bathtub, right?
+
+259
+00:24:42,920 --> 00:24:44,759
+Like if you're taking a bath and you want to,
+
+260
+00:24:44,759 --> 00:24:46,839
+oh, I have like my phone with me
+
+261
+00:24:46,839 --> 00:24:48,440
+or my iPad, right?
+
+262
+00:24:50,099 --> 00:24:52,579
+If you have your iPad in the bath,
+
+263
+00:24:52,579 --> 00:24:54,819
+if you drop the iPad into the bathtub,
+
+264
+00:24:55,460 --> 00:24:56,740
+is it going to electrocute you?
+
+265
+00:25:02,089 --> 00:25:02,589
+No, right?
+
+266
+00:25:06,059 --> 00:25:07,980
+No, because there's no current.
+
+267
+00:25:08,619 --> 00:25:14,250
+That's, there has to be a current.
+
+268
+00:25:14,250 --> 00:25:17,980
+Yeah, because there's no like current to let go.
+
+269
+00:25:19,160 --> 00:25:19,640
+Yeah, okay.
+
+270
+00:25:20,200 --> 00:25:20,839
+Oh, that's correct.
+
+271
+00:25:20,839 --> 00:25:25,900
+Yeah, because I was taking a bath and I was like,
+
+272
+00:25:25,900 --> 00:25:26,859
+I want to use my iPad.
+
+273
+00:25:26,859 --> 00:25:29,980
+But if I like slip and drop the iPad into the bath,
+
+274
+00:25:29,980 --> 00:25:32,140
+am I going to get like fucking killed?
+
+275
+00:25:33,019 --> 00:25:33,740
+I was scared.
+
+276
+00:25:38,809 --> 00:25:42,700
+The amperage is too low.
+
+277
+00:25:44,230 --> 00:25:44,710
+I don't know.
+
+278
+00:25:44,710 --> 00:25:46,549
+It's like, okay, what if you dropped it?
+
+279
+00:25:46,549 --> 00:25:50,069
+Listen, what if, okay, an iPad won't do it.
+
+280
+00:25:50,069 --> 00:25:54,789
+But what if you had like a big fucking like Alienware laptop
+
+281
+00:25:54,789 --> 00:25:56,549
+that has like an i7 in it?
+
+282
+00:25:57,190 --> 00:25:58,869
+And it's like a $3,000 laptop.
+
+283
+00:25:58,869 --> 00:26:00,309
+If you dropped it into the bathtub,
+
+284
+00:26:02,170 --> 00:26:03,529
+would that still do it?
+
+285
+00:26:03,529 --> 00:26:04,029
+No.
+
+286
+00:26:15,289 --> 00:26:15,789
+Okay.
+
+287
+00:26:19,380 --> 00:26:21,160
+Where's this deed?
+
+288
+00:26:21,160 --> 00:26:23,319
+Where's this deed so I can tell this person
+
+289
+00:26:23,319 --> 00:26:24,200
+that I beat the first part?
+
+290
+00:26:24,200 --> 00:26:25,799
+All right, I'm going to check every fucking room.
+
+291
+00:26:27,930 --> 00:26:29,289
+We're at the end of the hallway.
+
+292
+00:26:30,470 --> 00:26:30,970
+This way.
+
+293
+00:26:32,180 --> 00:26:33,059
+Okay, is it in here?
+
+294
+00:26:34,200 --> 00:26:35,000
+In the dining room.
+
+295
+00:26:40,309 --> 00:26:41,269
+Not in the dining room.
+
+296
+00:26:41,990 --> 00:26:43,190
+Nothing sparkly to look at.
+
+297
+00:26:53,700 --> 00:26:54,900
+There's nothing in here.
+
+298
+00:26:54,900 --> 00:26:55,400
+Okay.
+
+299
+00:26:56,259 --> 00:26:56,819
+Next room.
+
+300
+00:26:57,779 --> 00:26:58,579
+This one right here.
+
+301
+00:27:00,900 --> 00:27:01,400
+No deed.
+
+302
+00:27:03,660 --> 00:27:04,460
+No deed.
+
+303
+00:27:04,460 --> 00:27:05,339
+Okay, found the deed.
+
+304
+00:27:05,980 --> 00:27:08,980
+Complete.
+
+305
+00:27:08,980 --> 00:27:09,480
+I got it.
+
+306
+00:27:10,970 --> 00:27:13,049
+Hey, hey, fake Grumbo, if you're here.
+
+307
+00:27:13,049 --> 00:27:15,210
+I'm about to fucking yell your name really loud.
+
+308
+00:27:16,009 --> 00:27:28,859
+I actually can't get out of the house.
+
+309
+00:27:35,690 --> 00:27:37,299
+Hey, I beat the first.
+
+310
+00:27:37,299 --> 00:27:38,500
+This is not the first level, never mind.
+
+311
+00:27:43,190 --> 00:27:46,390
+Imagine dropping a whole laptop in the bath.
+
+312
+00:27:46,950 --> 00:27:47,670
+What's with the flame?
+
+313
+00:27:47,670 --> 00:27:49,589
+There's like weird scan lines right now.
+
+314
+00:27:50,150 --> 00:27:50,650
+Do you see that?
+
+315
+00:27:58,279 --> 00:27:59,240
+The Shire.
+
+316
+00:27:59,240 --> 00:28:00,759
+Press triangle to talk to others.
+
+317
+00:28:01,400 --> 00:28:04,279
+Good morning to you, Mr. Frodo.
+
+318
+00:28:04,279 --> 00:28:05,720
+Good morning, Sam.
+
+319
+00:28:05,720 --> 00:28:07,480
+All ready to set out for Buckland?
+
+320
+00:28:07,480 --> 00:28:08,279
+Already?
+
+321
+00:28:08,279 --> 00:28:10,440
+Or will be as soon as I tend to Bag End.
+
+322
+00:28:10,440 --> 00:28:13,240
+Lobelia Sackville Baggins is buying the place.
+
+323
+00:28:13,240 --> 00:28:15,720
+You don't need to weed Bag End ever again.
+
+324
+00:28:15,720 --> 00:28:19,079
+I'd like to weed them Sackville Bagginses out of Bag End.
+
+325
+00:28:19,079 --> 00:28:20,119
+If you get my meaning.
+
+326
+00:28:20,119 --> 00:28:20,619
+What?
+
+327
+00:28:21,240 --> 00:28:24,599
+Bag End has the best garden in the Shire, thanks to your work.
+
+328
+00:28:24,599 --> 00:28:27,640
+Oh, no, I'm sure there are many finer.
+
+329
+00:28:27,640 --> 00:28:29,079
+This game is dated as fuck.
+
+330
+00:28:29,079 --> 00:28:34,920
+Mary Brandybuck said he was meeting Pippin Took at the Green Dragon and invited you to join.
+
+331
+00:28:34,920 --> 00:28:37,480
+They took a long walk out here just for a drink.
+
+332
+00:28:37,480 --> 00:28:39,640
+This game sucks, actually, is what you-
+
+333
+00:28:39,640 --> 00:28:40,920
+Begging your pardon, sir.
+
+334
+00:28:40,920 --> 00:28:43,559
+But there's little mischief to be found in the Green Dragon.
+
+335
+00:28:43,559 --> 00:28:45,000
+The Keeper won't stand for it.
+
+336
+00:28:45,000 --> 00:28:45,640
+We will see.
+
+337
+00:28:46,599 --> 00:28:47,799
+Wait, but hold on a minute.
+
+338
+00:28:47,799 --> 00:28:48,299
+I'm-
+
+339
+00:28:49,160 --> 00:28:53,380
+What a pretty bird.
+
+340
+00:28:56,380 --> 00:28:56,880
+What?
+
+341
+00:28:57,829 --> 00:29:00,470
+The two towers is like one of the best games ever made.
+
+342
+00:29:00,470 --> 00:29:01,029
+What happened?
+
+343
+00:29:01,670 --> 00:29:08,220
+I'll be here when these pumpkins get turned into pies.
+
+344
+00:29:08,779 --> 00:29:09,900
+More's the pity.
+
+345
+00:29:09,900 --> 00:29:10,779
+I hate this camera.
+
+346
+00:29:10,779 --> 00:29:11,579
+It's so stupid.
+
+347
+00:29:12,380 --> 00:29:17,700
+Okay, let's keep going.
+
+348
+00:29:20,579 --> 00:29:24,759
+Number three, Bag Shot Row.
+
+349
+00:29:24,759 --> 00:29:25,880
+Home of the Ganges.
+
+350
+00:29:26,680 --> 00:29:27,960
+We'll send this hit as much-
+
+351
+00:29:27,960 --> 00:29:29,240
+No, I can't.
+
+352
+00:29:29,240 --> 00:29:30,440
+I can't, I can't.
+
+353
+00:29:30,440 --> 00:29:31,240
+I'm not stopping.
+
+354
+00:29:34,440 --> 00:29:34,920
+Mushroom.
+
+355
+00:29:34,920 --> 00:29:37,160
+Frodo can eat mushrooms to restore his health.
+
+356
+00:29:41,450 --> 00:29:44,599
+Okay.
+
+357
+00:29:44,599 --> 00:29:45,160
+Hi, Milo.
+
+358
+00:29:45,160 --> 00:29:46,519
+Hello, Frodo.
+
+359
+00:29:46,519 --> 00:29:48,119
+Seen any elves lately?
+
+360
+00:29:48,119 --> 00:29:50,279
+I'm afraid not, I'm sorry to say.
+
+361
+00:29:50,279 --> 00:29:51,559
+What about trolls?
+
+362
+00:29:51,559 --> 00:29:52,839
+No trolls either.
+
+363
+00:29:52,839 --> 00:29:53,559
+Good.
+
+364
+00:29:53,559 --> 00:29:55,880
+It's about time you found your hobbit sense again.
+
+365
+00:29:56,440 --> 00:29:59,720
+You know, some say you're as mad as your uncle.
+
+366
+00:29:59,720 --> 00:30:00,039
+Carrying on with an old wizard-
+
+367
+00:30:00,039 --> 00:30:01,400
+And to complete the first mission.
+
+368
+00:30:01,400 --> 00:30:02,200
+I know, that's the-
+
+369
+00:30:02,200 --> 00:30:03,079
+I'm gonna-
+
+370
+00:30:03,079 --> 00:30:05,880
+Well, at least they have something interesting to talk about then.
+
+371
+00:30:05,880 --> 00:30:06,359
+Good day.
+
+372
+00:30:07,000 --> 00:30:13,720
+Somebody fucking guaranteed that I wouldn't do the first level.
+
+373
+00:30:13,720 --> 00:30:15,000
+They guaranteed it.
+
+374
+00:30:15,000 --> 00:30:16,359
+I can't let that person win.
+
+375
+00:30:21,299 --> 00:30:21,779
+Where do I go?
+
+376
+00:30:21,779 --> 00:30:23,140
+I gotta go find Marion Pippin.
+
+377
+00:30:23,700 --> 00:30:29,240
+What is it?
+
+378
+00:30:29,240 --> 00:30:30,200
+By the garden or something?
+
+379
+00:30:33,269 --> 00:30:35,109
+Howlfast Hornblower, number six.
+
+380
+00:30:35,910 --> 00:30:43,000
+These people's names are out here?
+
+381
+00:30:49,720 --> 00:30:51,400
+You probably should have let them win.
+
+382
+00:30:53,369 --> 00:30:53,609
+No.
+
+383
+00:30:54,569 --> 00:31:02,460
+Is there a game here?
+
+384
+00:31:03,180 --> 00:31:04,779
+Or do I just have to play as a hobbit?
+
+385
+00:31:05,660 --> 00:31:07,579
+Don't we traverse mountains and shit?
+
+386
+00:31:08,700 --> 00:31:10,539
+Isn't that like big battle sequences?
+
+387
+00:31:10,539 --> 00:31:11,819
+What happened in the first movie?
+
+388
+00:31:12,539 --> 00:31:23,480
+Right, hold on, here we go.
+
+389
+00:31:23,480 --> 00:31:28,730
+Hello, Ted.
+
+390
+00:31:28,730 --> 00:31:30,410
+I wanted to say goodbye before I-
+
+391
+00:31:30,410 --> 00:31:32,170
+Can't you see I'm busy?
+
+392
+00:31:32,170 --> 00:31:32,970
+Actually, no.
+
+393
+00:31:32,970 --> 00:31:34,890
+You seem to be just standing about.
+
+394
+00:31:34,890 --> 00:31:36,890
+Well, if you knew about mills,
+
+395
+00:31:36,890 --> 00:31:39,690
+you'd know I'm trying to locate a very important metal pin
+
+396
+00:31:39,690 --> 00:31:41,609
+that must have fallen out of my mill wheel.
+
+397
+00:31:41,609 --> 00:31:43,130
+Is that why the mill isn't working?
+
+398
+00:31:43,210 --> 00:31:43,529
+I have to-
+
+399
+00:31:43,529 --> 00:31:46,890
+Oh, never you mind about working or not working.
+
+400
+00:31:46,890 --> 00:31:49,609
+I've sent Mugwort to Brie for a replacement.
+
+401
+00:31:49,609 --> 00:31:50,490
+I thought I-
+
+402
+00:31:50,490 --> 00:31:52,970
+Wait, I have to go get-
+
+403
+00:31:52,970 --> 00:31:54,490
+If I haven't found it yet,
+
+404
+00:31:54,490 --> 00:31:56,650
+there's no way you can find it.
+
+405
+00:31:56,650 --> 00:31:58,089
+Metal pin next to the-
+
+406
+00:31:58,089 --> 00:31:59,769
+It looks like a plain metal pin.
+
+407
+00:32:00,569 --> 00:32:01,369
+Now, good day to you.
+
+408
+00:32:06,619 --> 00:32:07,420
+Holy shit.
+
+409
+00:32:11,640 --> 00:32:15,480
+Imagine having a movie that was made with like 150 to what?
+
+410
+00:32:15,480 --> 00:32:16,680
+200 million dollars.
+
+411
+00:32:18,200 --> 00:32:21,799
+And your tie-in video game for one of the most celebrated franchises
+
+412
+00:32:21,799 --> 00:32:25,799
+ever in the history of human cinema and human literature
+
+413
+00:32:26,680 --> 00:32:28,920
+is find the pin to the fucking watermill.
+
+414
+00:32:36,920 --> 00:32:37,799
+All right, where's that mill?
+
+415
+00:32:38,680 --> 00:32:41,960
+This isn't based on the movie.
+
+416
+00:32:42,599 --> 00:32:51,450
+It's not?
+
+417
+00:32:54,730 --> 00:32:55,210
+Yes, it is.
+
+418
+00:32:55,849 --> 00:33:00,089
+Official game based on the literary works of J.R.R. Tolkien.
+
+419
+00:33:00,650 --> 00:33:03,529
+I call bullshit on that because look at the costumes.
+
+420
+00:33:04,819 --> 00:33:05,539
+This is the same-
+
+421
+00:33:05,539 --> 00:33:08,980
+Like, this is Peter Jackson costume design and-
+
+422
+00:33:08,980 --> 00:33:09,299
+What?
+
+423
+00:33:09,940 --> 00:33:16,859
+Like, Peter Jackson designed this cape.
+
+424
+00:33:17,500 --> 00:33:19,289
+What do you mean?
+
+425
+00:33:19,289 --> 00:33:20,009
+No, it's not.
+
+426
+00:33:20,009 --> 00:33:21,769
+That's Ian McKellen's Gandalf.
+
+427
+00:33:29,349 --> 00:33:29,750
+No.
+
+428
+00:33:29,750 --> 00:33:29,990
+What?
+
+429
+00:33:29,990 --> 00:33:31,589
+The costumes are described in the books.
+
+430
+00:33:32,549 --> 00:33:33,430
+No, I'm telling you.
+
+431
+00:33:33,430 --> 00:33:34,069
+We're gonna get-
+
+432
+00:33:34,069 --> 00:33:34,789
+I'm telling you, though.
+
+433
+00:33:34,789 --> 00:33:36,230
+This is based on the fucking movie.
+
+434
+00:33:37,190 --> 00:33:39,779
+This-
+
+435
+00:33:41,579 --> 00:33:42,059
+Bullshit.
+
+436
+00:33:43,799 --> 00:33:46,279
+Fellowship of the Ring.
+
+437
+00:33:46,279 --> 00:33:47,000
+When did it come out?
+
+438
+00:33:48,660 --> 00:33:48,980
+What?
+
+439
+00:33:48,980 --> 00:33:50,819
+You just magically decided to-
+
+440
+00:33:50,819 --> 00:33:56,099
+Oh, you just magically, less than six months later after the movie comes out,
+
+441
+00:33:56,099 --> 00:34:00,420
+you decide we're gonna make a game based on the literary works of the Fellowship of the Ring
+
+442
+00:34:00,420 --> 00:34:02,980
+four and a half months after the fucking movie comes out.
+
+443
+00:34:03,539 --> 00:34:03,940
+Bullshit.
+
+444
+00:34:04,980 --> 00:34:18,099
+You can't develop a game in six months.
+
+445
+00:34:18,099 --> 00:34:19,940
+All right, one guy's not winning.
+
+446
+00:34:20,659 --> 00:34:21,989
+I'm going to do this right now.
+
+447
+00:34:24,250 --> 00:34:26,650
+Peter Jackson based the film on this game.
+
+448
+00:34:31,900 --> 00:34:32,300
+I have to-
+
+449
+00:34:32,300 --> 00:34:33,340
+All right, let's go.
+
+450
+00:34:33,340 --> 00:34:33,980
+Come on.
+
+451
+00:34:33,980 --> 00:34:35,500
+I have to get to the first level.
+
+452
+00:34:35,500 --> 00:34:36,380
+Nope, nope, nope, nope.
+
+453
+00:34:36,380 --> 00:34:36,880
+I refuse.
+
+454
+00:34:38,920 --> 00:34:42,440
+This is why they said it.
+
+455
+00:34:42,440 --> 00:34:44,280
+It had nothing to do with the game being hard.
+
+456
+00:34:46,199 --> 00:34:46,599
+Fuck.
+
+457
+00:34:46,599 --> 00:34:47,480
+I thought it was like,
+
+458
+00:34:47,480 --> 00:34:48,760
+dude, the game's too hard for you.
+
+459
+00:34:48,760 --> 00:34:50,360
+Like, the combo meter, you're gonna fuck it up.
+
+460
+00:34:50,360 --> 00:34:51,880
+Like, that's in the second and third game.
+
+461
+00:34:53,480 --> 00:34:54,199
+I get it now.
+
+462
+00:34:54,199 --> 00:34:55,079
+Now I know why he said that.
+
+463
+00:35:09,880 --> 00:35:11,719
+I just skipped dialogue in the first-
+
+464
+00:35:11,719 --> 00:35:12,920
+All right, let's go.
+
+465
+00:35:12,920 --> 00:35:13,400
+Get high.
+
+466
+00:35:15,719 --> 00:35:18,039
+Ah, yes, my favorite Lord of the Rings character.
+
+467
+00:35:18,039 --> 00:35:18,599
+Minto!
+
+468
+00:35:21,099 --> 00:35:22,059
+Yes, I know.
+
+469
+00:35:22,059 --> 00:35:22,460
+This is-
+
+470
+00:35:23,579 --> 00:35:24,059
+It's okay.
+
+471
+00:35:26,150 --> 00:35:26,710
+You're right.
+
+472
+00:35:26,710 --> 00:35:27,429
+Yeah, Minto.
+
+473
+00:35:27,429 --> 00:35:28,550
+This part's not even in the movie.
+
+474
+00:35:29,349 --> 00:35:29,750
+Got it.
+
+475
+00:35:41,500 --> 00:35:43,289
+Wait.
+
+476
+00:35:43,289 --> 00:35:44,250
+This is my house.
+
+477
+00:35:45,130 --> 00:35:53,210
+Where are you going?
+
+478
+00:35:53,210 --> 00:35:54,570
+I don't know.
+
+479
+00:35:54,570 --> 00:35:56,730
+I have to go find Marion Pippen in the garden.
+
+480
+00:35:57,530 --> 00:35:58,329
+Where's the garden?
+
+481
+00:35:58,969 --> 00:36:05,210
+Fellowship of the fucking Ring.
+
+482
+00:36:05,210 --> 00:36:06,090
+Oh, I found the well.
+
+483
+00:36:07,800 --> 00:36:08,840
+Ladders can be climbed.
+
+484
+00:36:09,880 --> 00:36:12,679
+I wonder how many lucky wishing stones are at the bottom of this well.
+
+485
+00:36:12,679 --> 00:36:15,239
+Oh, I wonder how quickly my legs would break
+
+486
+00:36:15,239 --> 00:36:17,159
+if I would have fucking fall straight down to the bottom.
+
+487
+00:36:19,159 --> 00:36:19,800
+How do I do it?
+
+488
+00:36:20,599 --> 00:36:33,130
+Brodo can grab ledges and hoist himself onto them.
+
+489
+00:36:33,130 --> 00:36:33,929
+Jump to what?
+
+490
+00:36:33,929 --> 00:36:34,329
+There's a-
+
+491
+00:36:35,130 --> 00:36:38,119
+Okay, well, that worked.
+
+492
+00:36:38,840 --> 00:36:40,940
+Got default pig sound.
+
+493
+00:36:40,940 --> 00:36:41,579
+That's pretty hype.
+
+494
+00:36:44,199 --> 00:36:44,760
+Okay, wait.
+
+495
+00:36:44,760 --> 00:36:45,000
+What?
+
+496
+00:36:45,000 --> 00:36:46,599
+There's only a mushroom up here?
+
+497
+00:36:47,239 --> 00:36:51,210
+This is a bootleg copy?
+
+498
+00:36:51,210 --> 00:36:52,090
+No, no.
+
+499
+00:36:52,090 --> 00:36:53,449
+This is a real copy.
+
+500
+00:36:54,940 --> 00:36:56,139
+The game was just not-
+
+501
+00:37:01,369 --> 00:37:02,650
+No fucking way.
+
+502
+00:37:02,650 --> 00:37:03,130
+No.
+
+503
+00:37:03,130 --> 00:37:03,690
+Yes way.
+
+504
+00:37:04,409 --> 00:37:06,489
+What does this have on, like, ratings?
+
+505
+00:37:07,210 --> 00:37:10,760
+All right.
+
+506
+00:37:10,760 --> 00:37:13,639
+If I just splatted and I died and I got a game over screen,
+
+507
+00:37:15,000 --> 00:37:16,760
+that would have been very, very funny.
+
+508
+00:37:17,559 --> 00:37:20,809
+Click the link.
+
+509
+00:37:20,809 --> 00:37:21,449
+Omega low.
+
+510
+00:37:21,449 --> 00:37:22,010
+Click the link.
+
+511
+00:37:22,010 --> 00:37:22,570
+Omega low.
+
+512
+00:37:22,570 --> 00:37:23,050
+Click the link.
+
+513
+00:37:23,050 --> 00:37:24,869
+All right.
+
+514
+00:37:24,869 --> 00:37:25,190
+Hold on.
+
+515
+00:37:25,190 --> 00:37:25,590
+What is it?
+
+516
+00:37:26,150 --> 00:37:29,530
+Hobbit Day.
+
+517
+00:37:29,530 --> 00:37:31,610
+Hobbit Day is the name used for September 20th,
+
+518
+00:37:31,610 --> 00:37:33,130
+a reference to being the birthday of the hobbits.
+
+519
+00:37:33,130 --> 00:37:43,590
+I can't even-
+
+520
+00:37:43,590 --> 00:37:46,469
+How am I supposed to say about this?
+
+521
+00:37:46,469 --> 00:37:48,389
+I can't even combat this.
+
+522
+00:37:48,389 --> 00:37:49,110
+It's not fair.
+
+523
+00:37:49,989 --> 00:37:50,710
+It's not fair.
+
+524
+00:37:51,269 --> 00:37:52,300
+That's not fair.
+
+525
+00:37:52,860 --> 00:37:53,579
+That's not fair.
+
+526
+00:37:57,670 --> 00:37:58,630
+And it's not-
+
+527
+00:37:58,630 --> 00:37:59,510
+That's not fair.
+
+528
+00:38:00,150 --> 00:38:01,110
+Life isn't fair.
+
+529
+00:38:01,110 --> 00:38:01,610
+Okay?
+
+530
+00:38:07,269 --> 00:38:08,309
+Wax you-
+
+531
+00:38:08,309 --> 00:38:09,190
+How hairy are they?
+
+532
+00:38:11,159 --> 00:38:12,440
+They're a little hairy.
+
+533
+00:38:12,440 --> 00:38:13,400
+They're a little hairy.
+
+534
+00:38:27,159 --> 00:38:28,280
+Oh, show, show.
+
+535
+00:38:28,280 --> 00:38:29,320
+You think I'm gonna get baited?
+
+536
+00:38:32,219 --> 00:38:32,380
+What?
+
+537
+00:38:32,380 --> 00:38:33,420
+You think I'm gonna get baited
+
+538
+00:38:34,579 --> 00:38:38,280
+to like be in somebody's permanent folder on their desktop?
+
+539
+00:38:45,639 --> 00:38:46,199
+Oh, dude.
+
+540
+00:38:46,199 --> 00:38:46,920
+Yeah, you should show-
+
+541
+00:38:46,920 --> 00:38:48,440
+Oh, I wonder how hairy they are.
+
+542
+00:38:48,440 --> 00:38:48,840
+Click that.
+
+543
+00:38:48,840 --> 00:38:49,320
+Click that.
+
+544
+00:38:49,320 --> 00:38:49,559
+Yes.
+
+545
+00:38:50,119 --> 00:38:50,840
+Yes, I got it.
+
+546
+00:38:51,719 --> 00:38:52,440
+Oh, yes.
+
+547
+00:38:53,539 --> 00:38:53,780
+Okay.
+
+548
+00:38:53,780 --> 00:38:54,099
+Okay.
+
+549
+00:38:54,099 --> 00:38:54,420
+Hold on.
+
+550
+00:38:54,420 --> 00:38:55,460
+Calm down.
+
+551
+00:38:55,460 --> 00:38:56,739
+Calm down, Frank.
+
+552
+00:38:56,739 --> 00:38:57,380
+Calm down, Frank.
+
+553
+00:38:57,380 --> 00:38:58,099
+You just got it.
+
+554
+00:38:58,739 --> 00:38:59,059
+Okay.
+
+555
+00:38:59,059 --> 00:39:01,940
+Now save permanently to computer.
+
+556
+00:39:02,739 --> 00:39:03,059
+Okay.
+
+557
+00:39:03,059 --> 00:39:03,860
+Save permanently.
+
+558
+00:39:06,070 --> 00:39:07,030
+Make two copies of it.
+
+559
+00:39:07,030 --> 00:39:07,349
+Okay.
+
+560
+00:39:08,389 --> 00:39:09,590
+Oh, yes.
+
+561
+00:39:10,230 --> 00:39:11,510
+I can watch this every-
+
+562
+00:39:11,510 --> 00:39:13,030
+I can watch this every day.
+
+563
+00:39:13,030 --> 00:39:14,469
+I can watch it every single day.
+
+564
+00:39:15,190 --> 00:39:20,760
+Come on, get baited.
+
+565
+00:39:20,760 --> 00:39:24,570
+Sandieman's mill looks a lot more cheerful than Ted Sandieman.
+
+566
+00:39:25,289 --> 00:39:26,010
+Installing.
+
+567
+00:39:26,010 --> 00:39:26,570
+I don't-
+
+568
+00:39:26,570 --> 00:39:27,849
+Okay, where's the garden?
+
+569
+00:39:29,139 --> 00:39:30,659
+I don't care about these little quests.
+
+570
+00:39:30,659 --> 00:39:34,179
+I don't want to just go meet the other people in the movie.
+
+571
+00:39:34,179 --> 00:39:35,139
+In the book, whatever.
+
+572
+00:39:36,019 --> 00:39:42,570
+Oh, Mary and Pippin are in the garden.
+
+573
+00:39:42,570 --> 00:39:42,809
+What?
+
+574
+00:39:42,809 --> 00:39:43,769
+Where's the garden?
+
+575
+00:39:43,769 --> 00:39:44,329
+What garden?
+
+576
+00:39:48,739 --> 00:39:49,539
+And where was this?
+
+577
+00:39:49,539 --> 00:39:51,139
+The metal stick I have to find?
+
+578
+00:39:54,179 --> 00:39:55,539
+I don't even have a map either.
+
+579
+00:40:02,949 --> 00:40:03,429
+This is the-
+
+580
+00:40:03,429 --> 00:40:04,789
+I'm about to grapple.
+
+581
+00:40:05,590 --> 00:40:11,340
+Okay.
+
+582
+00:40:12,380 --> 00:40:14,300
+Why do I keep hearing cat puke noises?
+
+583
+00:40:14,300 --> 00:40:14,699
+I don't know.
+
+584
+00:40:26,650 --> 00:40:28,250
+Guys, I don't think you understand.
+
+585
+00:40:30,090 --> 00:40:31,530
+What's the over-under on like the-
+
+586
+00:40:31,530 --> 00:40:32,489
+Oh, dude, like show-
+
+587
+00:40:32,489 --> 00:40:33,929
+Hey, sweat check.
+
+588
+00:40:33,929 --> 00:40:34,570
+Sweat check.
+
+589
+00:40:34,570 --> 00:40:36,090
+Oh, yeah, let's do a sweat check.
+
+590
+00:40:36,090 --> 00:40:36,889
+Hey, got it.
+
+591
+00:40:38,409 --> 00:40:39,130
+What's the over-under?
+
+592
+00:40:47,369 --> 00:40:47,929
+Do the game.
+
+593
+00:41:07,239 --> 00:41:09,820
+There's a garden right here.
+
+594
+00:41:10,619 --> 00:41:13,940
+Oh, no.
+
+595
+00:41:13,940 --> 00:41:15,670
+Let's go.
+
+596
+00:41:16,389 --> 00:41:19,699
+Why can't I talk?
+
+597
+00:41:22,150 --> 00:41:24,630
+Will we be off to see the elves soon, Frodo?
+
+598
+00:41:24,630 --> 00:41:25,750
+Soon, Sam.
+
+599
+00:41:25,750 --> 00:41:27,670
+I have a few things to take care of first.
+
+600
+00:41:29,110 --> 00:41:30,230
+God damn it.
+
+601
+00:41:30,230 --> 00:41:31,909
+I can't let this person be right.
+
+602
+00:41:34,840 --> 00:41:36,440
+I guarantee.
+
+603
+00:41:37,480 --> 00:41:40,519
+I guarantee you not gonna get to the first-
+
+604
+00:41:40,519 --> 00:41:41,639
+through the first part.
+
+605
+00:41:42,599 --> 00:41:44,440
+A fellowship of the regular PlayStation 2.
+
+606
+00:41:45,079 --> 00:41:46,119
+Guaranteed.
+
+607
+00:41:46,119 --> 00:41:46,920
+Fucking-
+
+608
+00:41:46,920 --> 00:41:48,519
+They can't be right.
+
+609
+00:41:48,519 --> 00:41:49,639
+They can't be right.
+
+610
+00:41:49,639 --> 00:41:50,679
+They can't be right.
+
+611
+00:41:51,320 --> 00:41:52,280
+They can't be right.
+
+612
+00:41:53,239 --> 00:41:55,000
+Oh, there's-
+
+613
+00:41:55,000 --> 00:41:55,960
+They can't be right.
+
+614
+00:41:55,960 --> 00:41:56,519
+I can't.
+
+615
+00:41:57,159 --> 00:41:57,880
+You can't win.
+
+616
+00:41:58,840 --> 00:41:59,480
+I can't win.
+
+617
+00:42:00,280 --> 00:42:01,800
+I have to find a metal stick
+
+618
+00:42:06,809 --> 00:42:08,489
+next to the old water mill.
+
+619
+00:42:09,369 --> 00:42:10,809
+But where is the old water mill?
+
+620
+00:42:10,809 --> 00:42:11,849
+He said, you'll never find it.
+
+621
+00:42:12,650 --> 00:42:15,769
+You're never gonna find the metal pin needed for this.
+
+622
+00:42:15,769 --> 00:42:17,369
+I guarantee it.
+
+623
+00:42:17,369 --> 00:42:19,449
+He looks right in the fucking camera and winks at you guys.
+
+624
+00:42:20,489 --> 00:42:26,070
+Hello there, Hal.
+
+625
+00:42:26,070 --> 00:42:27,829
+Oh, hello, Frodo.
+
+626
+00:42:28,150 --> 00:42:31,750
+You have a beautiful day to begin your trip to Crick Hollow.
+
+627
+00:42:31,750 --> 00:42:32,869
+Yes, indeed.
+
+628
+00:42:32,869 --> 00:42:35,590
+I'm too old for such long walks.
+
+629
+00:42:35,590 --> 00:42:38,710
+I can't even climb high enough to fix my weather vane.
+
+630
+00:42:38,710 --> 00:42:39,110
+No.
+
+631
+00:42:39,110 --> 00:42:40,309
+What's wrong with it?
+
+632
+00:42:40,309 --> 00:42:41,750
+The thing's stuck.
+
+633
+00:42:41,750 --> 00:42:42,949
+Sorry to hear it.
+
+634
+00:42:42,949 --> 00:42:47,190
+That rascal Sancho Proudfoot was throwing sticks at it.
+
+635
+00:42:47,190 --> 00:42:48,789
+Now it won't turn at all.
+
+636
+00:42:48,789 --> 00:42:50,389
+I'll take a look at it before I leave.
+
+637
+00:42:50,389 --> 00:42:51,670
+All right, I just threw up.
+
+638
+00:42:51,670 --> 00:42:52,469
+It's been 45 minutes.
+
+639
+00:42:52,469 --> 00:42:53,269
+I have to fucking do this now.
+
+640
+00:42:53,269 --> 00:42:54,630
+The ladder's right over there.
+
+641
+00:42:55,590 --> 00:42:56,230
+Ladder, let's go.
+
+642
+00:42:57,030 --> 00:43:00,619
+Throw a rock at it.
+
+643
+00:43:00,619 --> 00:43:01,119
+What?
+
+644
+00:43:01,579 --> 00:43:05,769
+Let's go.
+
+645
+00:43:06,389 --> 00:43:13,699
+Enter target mode, press L2, and use the analog stick to aim.
+
+646
+00:43:21,659 --> 00:43:23,659
+I'm not tall enough to aim at this.
+
+647
+00:43:23,659 --> 00:43:24,159
+Wait.
+
+648
+00:43:24,619 --> 00:43:29,530
+How do I throw a rock?
+
+649
+00:43:30,329 --> 00:43:36,519
+I don't have any rocks.
+
+650
+00:43:43,820 --> 00:43:51,849
+Where do I get a rock?
+
+651
+00:43:52,409 --> 00:43:54,869
+I don't have rocks.
+
+652
+00:43:55,429 --> 00:43:57,699
+Is there a rock like right next to it or something?
+
+653
+00:43:58,500 --> 00:44:03,369
+Throw a rock?
+
+654
+00:44:09,659 --> 00:44:10,059
+Did he?
+
+655
+00:44:10,059 --> 00:44:10,539
+Wait a minute.
+
+656
+00:44:11,340 --> 00:44:13,659
+There's just rocks just sitting right next to it or something.
+
+657
+00:44:14,539 --> 00:44:26,869
+There's one where?
+
+658
+00:44:27,510 --> 00:44:30,630
+I have to find a rock and come back here and throw it.
+
+659
+00:44:35,780 --> 00:44:36,739
+Holy shit.
+
+660
+00:44:36,739 --> 00:44:37,539
+Follow the road.
+
+661
+00:44:47,639 --> 00:44:49,559
+Please, for the love of God, go to the next area.
+
+662
+00:44:52,920 --> 00:44:56,519
+Okay, find a rock and find the pin.
+
+663
+00:45:00,329 --> 00:45:03,610
+Can't Gandalf just fucking help me do this?
+
+664
+00:45:05,099 --> 00:45:07,500
+Gandalf is waiting at the end of the road.
+
+665
+00:45:07,500 --> 00:45:09,659
+Who's taking this little shit so long?
+
+666
+00:45:12,440 --> 00:45:14,860
+I've got places to be.
+
+667
+00:45:22,329 --> 00:45:24,409
+Should have left it to a dwarf instead.
+
+668
+00:45:24,409 --> 00:45:25,530
+All right, seriously.
+
+669
+00:45:25,530 --> 00:45:26,090
+Where's the rock?
+
+670
+00:45:26,809 --> 00:45:28,650
+This is...
+
+671
+00:45:28,650 --> 00:45:29,289
+I don't understand.
+
+672
+00:45:36,659 --> 00:45:37,059
+Don't...
+
+673
+00:45:37,059 --> 00:45:38,260
+Stop walking in circles.
+
+674
+00:45:38,260 --> 00:45:39,940
+There is nowhere else to go.
+
+675
+00:45:41,590 --> 00:45:42,090
+Guy!
+
+676
+00:45:43,449 --> 00:45:44,570
+There's nowhere else to go.
+
+677
+00:45:53,269 --> 00:45:54,869
+Minto is a minor character.
+
+678
+00:45:54,869 --> 00:45:55,349
+I don't...
+
+679
+00:45:55,349 --> 00:45:56,150
+I don't care.
+
+680
+00:45:57,110 --> 00:46:03,739
+I need to find a rock and the pin and...
+
+681
+00:46:07,989 --> 00:46:09,110
+This book sucks.
+
+682
+00:46:17,500 --> 00:46:18,860
+This book sucks.
+
+683
+00:46:20,309 --> 00:46:20,710
+Garden...
+
+684
+00:46:23,579 --> 00:46:26,300
+If there's an item on the ground that's able to be picked up, it glows.
+
+685
+00:46:28,179 --> 00:46:29,139
+Stay on the road, Jerma.
+
+686
+00:46:29,139 --> 00:46:29,619
+Stay on the road.
+
+687
+00:46:29,619 --> 00:46:30,260
+Stay on the road.
+
+688
+00:46:30,260 --> 00:46:31,219
+Okay, I'm going to stay on the road.
+
+689
+00:46:31,219 --> 00:46:32,019
+Only on road.
+
+690
+00:46:32,019 --> 00:46:32,420
+Only.
+
+691
+00:46:34,420 --> 00:46:38,710
+Here we are again.
+
+692
+00:47:06,980 --> 00:47:07,480
+Wait.
+
+693
+00:47:09,590 --> 00:47:10,230
+Guys leave?
+
+694
+00:47:24,150 --> 00:47:27,369
+Oh, I thought I had to do the quests.
+
+695
+00:47:28,940 --> 00:47:30,699
+You just walk out.
+
+696
+00:47:30,699 --> 00:47:32,139
+I thought it was like, oh, find my...
+
+697
+00:47:33,659 --> 00:47:37,670
+I just beat the first level.
+
+698
+00:47:37,670 --> 00:47:44,460
+The Shire.
+
+699
+00:47:44,460 --> 00:47:45,019
+By water.
+
+700
+00:47:48,949 --> 00:47:49,750
+Holy fuck.
+
+701
+00:47:49,750 --> 00:47:50,949
+I can't believe I just did that.
+
+702
+00:47:50,949 --> 00:47:52,230
+I thought I had to do all that stuff.
+
+703
+00:47:53,190 --> 00:47:54,469
+Turns out I didn't.
+
+704
+00:47:54,469 --> 00:47:55,670
+Was that all just a joke?
+
+705
+00:47:56,389 --> 00:48:11,539
+I'm going to be realistic with you guys.
+
+706
+00:48:12,340 --> 00:48:18,389
+Do you honestly think a hobbit with a stick is going to do a goddamn thing?
+
+707
+00:48:19,769 --> 00:48:21,130
+Give me a knife or something.
+
+708
+00:48:21,130 --> 00:48:22,489
+Or give me like a gun.
+
+709
+00:48:24,010 --> 00:48:25,449
+Give me something sharp.
+
+710
+00:48:25,449 --> 00:48:26,489
+A hobbit with a stick.
+
+711
+00:48:28,360 --> 00:48:29,400
+That's not going to do anything.
+
+712
+00:48:30,039 --> 00:48:36,119
+Or like a bow.
+
+713
+00:48:36,119 --> 00:48:36,440
+I don't know.
+
+714
+00:48:36,440 --> 00:48:36,840
+Anything.
+
+715
+00:48:47,929 --> 00:48:49,079
+I don't know.
+
+716
+00:48:49,079 --> 00:48:49,559
+Will I?
+
+717
+00:48:49,559 --> 00:48:50,280
+Stay on the road.
+
+718
+00:48:51,079 --> 00:48:52,199
+What about the guy playing chess?
+
+719
+00:48:52,199 --> 00:48:53,719
+Hello, young Baggins.
+
+720
+00:48:53,719 --> 00:48:55,639
+Cheers on your birthday.
+
+721
+00:48:55,639 --> 00:48:57,239
+Thank you kindly, Daddy Two-Foot.
+
+722
+00:48:57,239 --> 00:48:58,440
+I haven't seen your wizard friend about lately.
+
+723
+00:48:58,440 --> 00:49:00,199
+Daddy Two-Foot.
+
+724
+00:49:00,199 --> 00:49:02,440
+I do miss those fireworks.
+
+725
+00:49:02,440 --> 00:49:03,320
+So do I.
+
+726
+00:49:03,320 --> 00:49:07,719
+I remember the day when all those dwarves came to call on Mr. Bilbo.
+
+727
+00:49:08,360 --> 00:49:09,639
+Dwarves and a wizard.
+
+728
+00:49:09,639 --> 00:49:12,280
+I'm sorry.
+
+729
+00:49:12,280 --> 00:49:13,480
+It's automatic.
+
+730
+00:49:13,480 --> 00:49:14,039
+I have to do it.
+
+731
+00:49:14,039 --> 00:49:16,440
+Such strange stories these days.
+
+732
+00:49:16,440 --> 00:49:20,760
+Long dead better whites waking near the old forest.
+
+733
+00:49:20,760 --> 00:49:23,639
+Great armies in the east and south.
+
+734
+00:49:23,639 --> 00:49:25,000
+Dwarves and big.
+
+735
+00:49:25,000 --> 00:49:25,239
+All right.
+
+736
+00:49:25,239 --> 00:49:26,039
+That's enough out of you.
+
+737
+00:49:26,039 --> 00:49:26,440
+Don't care.
+
+738
+00:49:29,480 --> 00:49:29,960
+Ring the bell.
+
+739
+00:49:33,340 --> 00:49:34,460
+What's going on?
+
+740
+00:49:34,460 --> 00:49:36,539
+I don't hold with reckless bell ringing.
+
+741
+00:49:36,539 --> 00:49:40,940
+Oh, if any wolves approach the Shire, the bounders will chase them off.
+
+742
+00:49:40,940 --> 00:49:43,019
+Just as they chase away foxes and such.
+
+743
+00:49:43,019 --> 00:49:45,019
+I'm glad the Shire is well protected.
+
+744
+00:49:45,019 --> 00:49:49,019
+Now, if that's all, I've got a mug to return to in the green dragon.
+
+745
+00:49:49,019 --> 00:49:49,260
+Okay.
+
+746
+00:49:50,300 --> 00:49:50,539
+All right.
+
+747
+00:49:50,539 --> 00:49:50,780
+Bye.
+
+748
+00:49:51,340 --> 00:49:52,059
+Okay, Gandalf.
+
+749
+00:49:52,059 --> 00:49:52,380
+I'm ready.
+
+750
+00:49:55,059 --> 00:49:55,300
+Okay.
+
+751
+00:49:55,300 --> 00:49:56,179
+Hey, Gandalf.
+
+752
+00:49:56,179 --> 00:49:56,659
+I'm ready.
+
+753
+00:49:57,460 --> 00:50:07,239
+This is the way that I came.
+
+754
+00:50:14,139 --> 00:50:14,460
+No.
+
+755
+00:50:14,460 --> 00:50:15,179
+Yes.
+
+756
+00:50:15,179 --> 00:50:16,139
+Is it the way that I came?
+
+757
+00:50:18,809 --> 00:50:19,769
+He's so bad.
+
+758
+00:50:19,769 --> 00:50:21,050
+What a little dick boy.
+
+759
+00:50:23,130 --> 00:50:23,849
+All right, dude.
+
+760
+00:50:24,570 --> 00:50:24,809
+No.
+
+761
+00:50:31,989 --> 00:50:33,030
+Did I come this way?
+
+762
+00:50:34,619 --> 00:50:35,420
+I did.
+
+763
+00:50:35,420 --> 00:50:35,920
+Didn't I?
+
+764
+00:50:38,679 --> 00:50:39,159
+Yeah, I did.
+
+765
+00:50:39,800 --> 00:50:40,900
+No, I didn't.
+
+766
+00:50:42,710 --> 00:50:43,670
+Wait, is this guy again?
+
+767
+00:50:43,670 --> 00:50:44,710
+Hello, Nox.
+
+768
+00:50:44,710 --> 00:50:46,389
+Good to see you up and about again.
+
+769
+00:50:46,389 --> 00:50:47,829
+Hi, thank you.
+
+770
+00:50:47,829 --> 00:50:49,590
+I'm fit as a horse again.
+
+771
+00:50:50,230 --> 00:50:54,309
+Folks will be calling me well-preserved like they do your uncle Bilbo.
+
+772
+00:50:54,309 --> 00:50:56,469
+That does kind of look like the German painting face.
+
+773
+00:50:56,469 --> 00:50:59,110
+Why, it's this new herbal tea I've been drinking.
+
+774
+00:50:59,110 --> 00:50:59,909
+Good.
+
+775
+00:50:59,909 --> 00:51:02,150
+Well, I'm off to my old bones.
+
+776
+00:51:02,150 --> 00:51:03,670
+It's that must be Nox.
+
+777
+00:51:03,670 --> 00:51:04,550
+I had perhaps I.
+
+778
+00:51:06,739 --> 00:51:07,380
+I don't care.
+
+779
+00:51:07,380 --> 00:51:09,619
+Find four healing herbs in Green Hill country.
+
+780
+00:51:10,420 --> 00:51:11,619
+For old Nox.
+
+781
+00:51:11,619 --> 00:51:14,260
+How about we find Gandalf?
+
+782
+00:51:14,260 --> 00:51:15,380
+The guy that I'm supposed to find.
+
+783
+00:51:16,500 --> 00:51:31,989
+You're ignoring side quests.
+
+784
+00:51:34,219 --> 00:51:36,139
+Why would I do the side quests in this game?
+
+785
+00:51:36,699 --> 00:51:47,739
+The Shire.
+
+786
+00:51:47,739 --> 00:51:49,099
+Green Hill country.
+
+787
+00:51:52,460 --> 00:51:53,260
+Okay, what we got?
+
+788
+00:51:53,900 --> 00:51:58,059
+When are we going to get to hear the?
+
+789
+00:51:58,059 --> 00:52:00,619
+Here's one of those packets of herbs Nox spoke on.
+
+790
+00:52:00,619 --> 00:52:01,119
+Great.
+
+791
+00:52:05,780 --> 00:52:06,659
+Hello there.
+
+792
+00:52:06,659 --> 00:52:07,539
+Good day, lad.
+
+793
+00:52:09,079 --> 00:52:10,119
+Thank you.
+
+794
+00:52:10,119 --> 00:52:10,840
+Bilbo.
+
+795
+00:52:10,840 --> 00:52:11,559
+Frodo.
+
+796
+00:52:11,559 --> 00:52:13,239
+Frodo faggans.
+
+797
+00:52:13,239 --> 00:52:15,480
+Living that grand place atop the hill.
+
+798
+00:52:15,480 --> 00:52:15,880
+Frodo.
+
+799
+00:52:15,880 --> 00:52:16,760
+It's me Frodo.
+
+800
+00:52:16,760 --> 00:52:17,719
+Not Bilbo.
+
+801
+00:52:17,719 --> 00:52:18,519
+That's my dad.
+
+802
+00:52:18,519 --> 00:52:18,920
+Where?
+
+803
+00:52:18,920 --> 00:52:19,960
+Not time to chat.
+
+804
+00:52:19,960 --> 00:52:21,159
+I'm off to great.
+
+805
+00:52:21,159 --> 00:52:21,719
+On an Arab.
+
+806
+00:52:21,719 --> 00:52:23,079
+Uncle, uncle.
+
+807
+00:52:23,079 --> 00:52:24,440
+I know it's uncle.
+
+808
+00:52:24,440 --> 00:52:24,940
+Stop.
+
+809
+00:52:25,559 --> 00:52:26,360
+Thanks, Bilbo.
+
+810
+00:52:28,329 --> 00:52:31,530
+We need that meal and Ted says he's too important to go himself.
+
+811
+00:52:32,409 --> 00:52:34,880
+Okay, bye.
+
+812
+00:53:03,690 --> 00:53:04,570
+Good devs.
+
+813
+00:53:04,570 --> 00:53:05,369
+Good devs.
+
+814
+00:53:05,369 --> 00:53:06,090
+Good devs.
+
+815
+00:53:06,090 --> 00:53:06,889
+Nice work, guys.
+
+816
+00:53:07,449 --> 00:53:08,329
+Give it up for devs.
+
+817
+00:53:08,329 --> 00:53:08,829
+Good devs.
+
+818
+00:53:25,269 --> 00:53:26,150
+Devs not in chat.
+
+819
+00:53:27,130 --> 00:53:27,630
+Oh.
+
+820
+00:53:28,250 --> 00:53:29,719
+Oh, shit.
+
+821
+00:53:30,519 --> 00:53:34,599
+Wait, I'm streaming a game and the dev is not here watching me stream.
+
+822
+00:53:42,280 --> 00:53:43,079
+Really?
+
+823
+00:53:43,079 --> 00:53:46,070
+How many viewers do I have?
+
+824
+00:53:47,340 --> 00:53:47,739
+I don't know.
+
+825
+00:53:47,739 --> 00:53:48,380
+I'm just saying.
+
+826
+00:53:48,380 --> 00:53:49,420
+What the fuck?
+
+827
+00:53:49,420 --> 00:53:50,619
+Why they're not here?
+
+828
+00:53:50,619 --> 00:53:51,119
+Okay.
+
+829
+00:53:51,820 --> 00:53:52,489
+Fuck.
+
+830
+00:53:53,030 --> 00:54:00,230
+I'm like, I don't want to be annoyed by that, but I mean like, fuck.
+
+831
+00:54:00,789 --> 00:54:05,960
+Do not let pharma maggot's dog spot you.
+
+832
+00:54:05,960 --> 00:54:07,960
+Use rocks to distract the dog.
+
+833
+00:54:07,960 --> 00:54:09,559
+I'm not gonna throw rocks at a dog.
+
+834
+00:54:09,559 --> 00:54:10,280
+Where's this dog?
+
+835
+00:54:19,210 --> 00:54:19,929
+Woof.
+
+836
+00:54:19,929 --> 00:54:21,130
+What's all this racket?
+
+837
+00:54:22,170 --> 00:54:23,769
+That would be me, sir.
+
+838
+00:54:23,769 --> 00:54:27,530
+Well, well, we have a burglar in the fields.
+
+839
+00:54:27,530 --> 00:54:28,409
+Burglar?
+
+840
+00:54:28,409 --> 00:54:31,050
+All done with your mushroom thieving?
+
+841
+00:54:31,050 --> 00:54:34,250
+Or would you prefer to take it up with the lads?
+
+842
+00:54:34,250 --> 00:54:35,690
+Are there police in this world?
+
+843
+00:54:35,690 --> 00:54:36,570
+Right, you are, sir.
+
+844
+00:54:36,570 --> 00:54:37,289
+Who are the police?
+
+845
+00:54:37,289 --> 00:54:39,610
+Now off with you, or I'll have the lads disperse you.
+
+846
+00:54:39,610 --> 00:54:41,530
+Is the lad supposed to be the police?
+
+847
+00:54:47,659 --> 00:54:48,219
+Okay.
+
+848
+00:54:48,219 --> 00:54:50,219
+Well, I'm stealing your mushrooms.
+
+849
+00:54:51,500 --> 00:54:52,619
+Don't let the dog see you.
+
+850
+00:54:53,179 --> 00:54:55,179
+Okay, I'm not gonna, I'm gonna make sure the dog, there's a sneak.
+
+851
+00:55:00,869 --> 00:55:01,349
+Use rocks.
+
+852
+00:55:01,349 --> 00:55:02,949
+I don't fucking have rocks.
+
+853
+00:55:04,949 --> 00:55:06,550
+Why does this game think I have rocks?
+
+854
+00:55:08,809 --> 00:55:10,090
+I don't have rocks.
+
+855
+00:55:13,480 --> 00:55:14,840
+Put the ring on.
+
+856
+00:55:14,840 --> 00:55:15,639
+Does he turn around?
+
+857
+00:55:30,340 --> 00:55:31,059
+I have rocks.
+
+858
+00:55:31,059 --> 00:55:31,940
+I don't have rocks?
+
+859
+00:55:49,369 --> 00:55:50,090
+Oh my god.
+
+860
+00:55:55,510 --> 00:55:56,150
+There are no rocks.
+
+861
+00:55:57,030 --> 00:55:58,230
+I don't have rocks.
+
+862
+00:55:58,230 --> 00:55:59,110
+They don't exist.
+
+863
+00:55:59,110 --> 00:56:00,309
+I don't have fucking rocks.
+
+864
+00:56:05,739 --> 00:56:06,380
+L2.
+
+865
+00:56:06,860 --> 00:56:07,579
+X.
+
+866
+00:56:07,579 --> 00:56:07,980
+Circle.
+
+867
+00:56:08,539 --> 00:56:08,780
+Y.
+
+868
+00:56:14,329 --> 00:56:15,050
+X.
+
+869
+00:56:15,050 --> 00:56:15,929
+Circle.
+
+870
+00:56:15,929 --> 00:56:16,170
+Y.
+
+871
+00:56:16,170 --> 00:56:16,809
+It's circle.
+
+872
+00:56:26,869 --> 00:56:28,150
+What am I supposed to do with these?
+
+873
+00:56:36,820 --> 00:56:41,960
+Is the dog distracted?
+
+874
+00:56:59,019 --> 00:56:59,500
+Stop.
+
+875
+00:56:59,500 --> 00:57:00,539
+Oh my god.
+
+876
+00:57:20,980 --> 00:57:21,539
+Turn around.
+
+877
+00:57:21,539 --> 00:57:21,780
+What?
+
+878
+00:57:22,579 --> 00:57:24,019
+He turned around for one second.
+
+879
+00:57:24,659 --> 00:57:37,699
+All right, hold on.
+
+880
+00:57:37,699 --> 00:57:38,099
+I'll get it.
+
+881
+00:57:38,900 --> 00:57:56,039
+Oh fuck, was he gone?
+
+882
+00:58:00,889 --> 00:58:01,929
+What the fuck was that?
+
+883
+00:58:01,929 --> 00:58:02,429
+Get it!
+
+884
+00:58:03,719 --> 00:58:04,360
+Healing herb.
+
+885
+00:58:04,920 --> 00:58:05,849
+All right, I did it.
+
+886
+00:58:05,849 --> 00:58:06,570
+Go in the dog house?
+
+887
+00:58:16,900 --> 00:58:17,619
+I got it.
+
+888
+00:58:17,619 --> 00:58:18,980
+That's all I needed.
+
+889
+00:58:18,980 --> 00:58:22,860
+I wonder what broke this fence.
+
+890
+00:58:23,500 --> 00:58:24,460
+What broke this fence?
+
+891
+00:58:37,210 --> 00:58:38,170
+The fence is still fine.
+
+892
+00:58:38,969 --> 00:58:42,260
+How do I get in here?
+
+893
+00:58:42,980 --> 00:58:45,699
+There's a healing herb for grandpa.
+
+894
+00:58:51,139 --> 00:58:51,940
+Crawl.
+
+895
+00:58:51,940 --> 00:58:54,389
+How do you crawl?
+
+896
+00:58:54,949 --> 00:59:01,699
+I don't think you can.
+
+897
+00:59:02,500 --> 00:59:03,000
+What the?
+
+898
+00:59:03,460 --> 00:59:09,369
+You don't have to be zoomed in for this.
+
+899
+00:59:14,500 --> 00:59:15,460
+There is no crawl.
+
+900
+00:59:16,099 --> 00:59:19,960
+Maybe the other side?
+
+901
+00:59:24,119 --> 00:59:25,880
+Why does this look so blurry?
+
+902
+00:59:25,880 --> 00:59:30,280
+Well, because this game is from 20 plus years ago.
+
+903
+00:59:31,639 --> 00:59:37,050
+And it was not developed with any intention to ever have...
+
+904
+00:59:38,010 --> 00:59:40,889
+Gimme, gimme, gimme, gimme, gimme, gimme, gimme, gimme, gimme, gimme, gimme, gimme, gimme, gimme, gimme, gimme.
+
+905
+00:59:40,889 --> 00:59:41,690
+Got it.
+
+906
+00:59:41,690 --> 00:59:42,170
+That's four.
+
+907
+00:59:43,289 --> 01:00:01,980
+Training gummy.
+
+908
+01:00:01,980 --> 01:00:02,300
+I got it.
+
+909
+01:00:02,300 --> 01:00:03,260
+I completed the sequence?
+
+910
+01:00:03,260 --> 01:00:03,760
+Yeah.
+
+911
+01:00:04,219 --> 01:00:06,460
+That's one completed.
+
+912
+01:00:06,460 --> 01:00:10,440
+This is the end of the road though.
+
+913
+01:00:11,239 --> 01:00:12,360
+All right, I got the healing herbs.
+
+914
+01:00:13,000 --> 01:00:14,119
+No, there's still more.
+
+915
+01:00:14,119 --> 01:00:26,780
+wait what's in here is that just mushrooms yeah who cares can i knock that field of view though
+
+916
+01:00:27,420 --> 01:00:37,139
+it's pretty terrible i still have things to attend to before i set out for the old forest
+
+917
+01:00:37,940 --> 01:01:01,219
+all right boys and girls strapped in let's go i have my rocks i gotta find the guy's pin
+
+918
+01:01:02,099 --> 01:01:20,340
+let's go all right where's the look where's the pin he's mentioned a pin at the old water farm
+
+919
+01:01:20,340 --> 01:01:32,500
+at the old water dam at the old water farm where is it at the mill okay i got the healing herbs
+
+920
+01:01:33,380 --> 01:01:39,659
+it's two loading screens back yeah but is there anything else out here that i need to do
+
+921
+01:01:47,429 --> 01:01:53,510
+just check i don't want to have to come back here again for any reason are you enjoying the game
+
+922
+01:01:54,469 --> 01:02:08,900
+absolutely no absolutely not zero one hundred percent zero um i played my sheriff pranks when
+
+923
+01:02:08,900 --> 01:02:16,489
+i was sancho's age but i never took an old man's medicine he can't beat the first level but no but
+
+924
+01:02:16,489 --> 01:02:23,670
+i it might get better cast a lethal arsenal of magic as gandalf fight through hordes of enemies
+
+925
+01:02:23,670 --> 01:02:33,030
+as aragorn use stealth cunning and the one ring as frodo love to see that game i'd love to see
+
+926
+01:02:33,030 --> 01:02:43,659
+that one now where's the old man he actually believes the back of the box this is back when
+
+927
+01:02:43,659 --> 01:02:52,679
+the back of the box was reliable the back of the box in 2001 was more reliable than reviewers today
+
+928
+01:03:00,039 --> 01:03:04,840
+i have found these herbs for you thank you young frodo pagans for bringing me these herbs
+
+929
+01:03:05,400 --> 01:03:17,050
+please take this as a token of my gratitude you are such a basic fuck oh yeah basic huh
+
+930
+01:03:17,050 --> 01:03:31,380
+huh let me show you what you're missing
+
+931
+01:03:34,340 --> 01:03:56,139
+uh rock water water turn thing what's the thing called what's the water turn thing called it's
+
+932
+01:03:56,139 --> 01:04:02,300
+he called it something i just don't know i don't know what it was called a mill market oh this
+
+933
+01:04:02,300 --> 01:04:06,059
+square will be brimming over with the freshest crops is that what it's actually called though
+
+934
+01:04:06,780 --> 01:04:10,860
+what's the what's the divide what's the thing actually called the wheel the water wheel that
+
+935
+01:04:10,860 --> 01:04:22,889
+spins with the platforms on it what's that is that actually called a water mill okay rocks
+
+936
+01:04:22,889 --> 01:04:28,630
+them that got there's nothing back here you're pretending i know i actually don't know i really
+
+937
+01:04:28,630 --> 01:04:32,550
+didn't know that i said water mill i didn't know if it was accurate i don't know if it had like a
+
+938
+01:04:32,550 --> 01:04:47,619
+specific term a liquid wheel no milling is grinding you don't grind water is that true use the wheel
+
+939
+01:04:47,619 --> 01:04:55,989
+turn a shaft that grinds grain oh yeah you're right no you're right that wasn't me that said
+
+940
+01:04:55,989 --> 01:05:07,429
+that that was i was reading somebody in chat i know what a water wheel is i'm pretending for
+
+941
+01:05:07,429 --> 01:05:17,619
+views don't oh i'm a fucking idiot whoa what was it water wheel nope i'm just a fucking dope that
+
+942
+01:05:17,619 --> 01:05:44,789
+don't know view vacuum worst new character new care i don't know how is that a new character
+
+943
+01:05:44,869 --> 01:05:51,400
+what how many times have to hit this
+
+944
+01:05:55,369 --> 01:06:07,719
+all right barber how what's up it's a water powered mill i know guys i know
+
+945
+01:06:12,630 --> 01:06:17,750
+weathervane turns like it's my pleasure you've helped an old if you don't mind i'll just take
+
+946
+01:06:17,750 --> 01:06:22,469
+that metal pin that was jamming the weather oh this is a two-parter oh my god we did it it might
+
+947
+01:06:22,469 --> 01:06:37,079
+help my just trying to help we did it i got the pin so uh oh okay let's go uh where was this guy
+
+948
+01:06:37,079 --> 01:06:49,130
+anybody remember wait now that i can throw rocks that's not that's not like a secret or something
+
+949
+01:06:49,769 --> 01:06:58,519
+why do the hobbits paint illuminati symbols on their houses does that have any story reference
+
+950
+01:06:58,519 --> 01:07:26,699
+or anything all right what was that original guy use your brain jerma click the link quick
+
+951
+01:07:33,019 --> 01:07:59,480
+uh that's disgusting i'm gonna be completely real that is gross that's gross okay i don't
+
+952
+01:07:59,480 --> 01:08:12,539
+remember where this original dude was he was i don't remember it was right around here somewhere
+
+953
+01:08:14,500 --> 01:08:38,060
+next to the bridge where's this guy it's not this guy right no it's the guy by the
+
+954
+01:08:38,060 --> 01:08:51,369
+bridge was it if anyone's in this chat that hasn't seen lord of the rings and you're sitting here
+
+955
+01:08:51,369 --> 01:08:56,890
+thinking hey lord of the rings that's a cool i've heard that's pretty good don't base that off don't
+
+956
+01:08:56,890 --> 01:09:01,210
+base anything off of what you're watching right now the mill wheel spins again the movie is a
+
+957
+01:09:01,850 --> 01:09:08,890
+just read read the book just read the book you've done me a valuable service today someone in this
+
+958
+01:09:08,890 --> 01:09:13,050
+stream right now is going i'm never gonna fucking watch this movie what a shitty movie
+
+959
+01:09:16,760 --> 01:09:23,479
+no the movie's just watch it all right that's it this i don't have any more quests it was
+
+960
+01:09:23,479 --> 01:09:42,359
+nothing else right it's time to leave you forgot about the main quest what do you mean main quest
+
+961
+01:09:48,140 --> 01:09:57,130
+fine i find mary and pippin the ring is still in your house no
+
+962
+01:09:58,489 --> 01:10:19,180
+i do i have to take it uh go to the green dragon inn you're a fake fan i haven't seen lord of the
+
+963
+01:10:19,180 --> 01:10:30,939
+rings since i was like 17 i don't remember every scene i know he takes yes i know he takes the
+
+964
+01:10:30,939 --> 01:10:36,420
+ring but this is not even okay you can't give me a little bit slack frodo baggins doesn't go
+
+965
+01:10:37,220 --> 01:10:44,140
+throw rocks at a guy's weather vane so this is added bonus material in fact
+
+966
+01:10:45,020 --> 01:10:49,500
+i'm sure a lot of you would probably like that if there was a bonus super extended edition
+
+967
+01:10:49,500 --> 01:10:53,819
+the lord of the rings fans would go fucking nuts if there was a two hour long segment
+
+968
+01:10:54,619 --> 01:11:09,300
+of frodo just throwing rocks and stuff and picking up mushrooms the new bonus extended
+
+969
+01:11:09,300 --> 01:11:15,050
+extended edition it's six and a half hours long then it just you put the disc in and starts with
+
+970
+01:11:15,050 --> 01:11:21,880
+this screen where's this in no i've got the inn i gotta go to my i have to go to my house
+
+971
+01:11:22,920 --> 01:11:36,949
+there it is there's the green door there's the green dragon door that sounds like hog to me
+
+972
+01:11:37,670 --> 01:11:54,340
+all right give me my ring you've walked the area in circles for 40 minutes and you don't know the
+
+973
+01:11:54,340 --> 01:11:59,859
+layout oh we talked about this in pre-stream chat i'm gonna bring it up one more time here
+
+974
+01:12:00,979 --> 01:12:08,649
+because it's worth noting um if the game has no this people can think i'm an idiot i'm not
+
+975
+01:12:08,649 --> 01:12:17,079
+gonna say it if you're in pre-stream you know and any any pre-streamers here any pre-stream chatters
+
+976
+01:12:17,079 --> 01:12:35,510
+here if your game has move around dodge attack jump i'm going to destroy it if your game has
+
+977
+01:12:35,510 --> 01:12:40,949
+no minimap i will not be able to play unless it has follows that category it has to have four
+
+978
+01:12:40,949 --> 01:12:55,750
+buttons or less and it has to be constrained to one small area at a time but you give me that
+
+979
+01:12:55,750 --> 01:13:03,000
+scenario you give me four buttons or less put me in an area where i just have to fucking do it
+
+980
+01:13:03,000 --> 01:13:18,180
+i'll do it i'll do it better than anybody where's the it's in one of these you're a literal drone
+
+981
+01:13:27,020 --> 01:13:35,979
+i i am uh just give this thing one specific task to do in one small area and it'll be really good
+
+982
+01:13:35,979 --> 01:13:55,800
+at it oh i'm just a fucking sentry gun where's the ring i even make noises like a sentry gun too
+
+983
+01:13:56,600 --> 01:14:05,989
+okay i and so i'd like look over at chat look back look over chat like i've all right where's
+
+984
+01:14:05,989 --> 01:14:21,369
+the ring it's in here it's risen right here isn't it in here plot twist you already have it no i
+
+985
+01:14:21,369 --> 01:14:27,029
+don't tonight said i have to pick this up and take this that is the chest with the ring in it so
+
+986
+01:14:27,750 --> 01:14:36,260
+you don't need the ring all right
+
+987
+01:14:41,189 --> 01:14:43,189
+you put me in a you put me in a room with four buttons
+
+988
+01:14:47,130 --> 01:14:51,529
+you put me in a room with four buttons in a small room and i will fucking annihilate
+
+989
+01:14:52,090 --> 01:14:57,689
+i will destroy y'all have seen it i don't even i don't have to even tell you this
+
+990
+01:14:58,489 --> 01:15:03,270
+i will i had to prove this by people saying what are you talking about that doesn't make any sense
+
+991
+01:15:03,829 --> 01:15:08,789
+those of you that watched the like two or what was one terrible world of warcraft streams i ever did
+
+992
+01:15:09,670 --> 01:15:17,350
+uh this is real i pressed one through five on my hotbar and clicked everything else
+
+993
+01:15:24,140 --> 01:15:27,819
+i don't that's not me making it up you can go look at that terrible awful fucking body
+
+994
+01:15:30,380 --> 01:15:41,859
+okay now let me focus what was the final task was to find mary and pippin we'll go to the
+
+995
+01:15:41,859 --> 01:15:56,090
+green dragon inn that's the proud feat all right let's go in the garden arcane mage clicker omega
+
+996
+01:15:56,090 --> 01:16:06,359
+lol i was arcane mage before it was cool by the way can i be real with you here i was arcane mage
+
+997
+01:16:07,000 --> 01:16:11,399
+before it was even any good and then it became the best thing in the whole game and i quit world of
+
+998
+01:16:11,399 --> 01:16:17,979
+warcraft that's true that is a real statement arcane mage was dog shit they patched it made
+
+999
+01:16:17,979 --> 01:16:22,220
+it the best thing in the whole game and i quit world of warcraft and have never played since
+
+1000
+01:16:22,220 --> 01:16:31,399
+i also played discipline priest when they didn't have any moves back in vanilla back when discipline
+
+1001
+01:16:31,399 --> 01:16:40,739
+police did rewind delete snip pull complete uh when discipline priests had two spells and you
+
+1002
+01:16:40,739 --> 01:16:57,899
+got kicked out of every party you were in that was me they had power infusion omega lol yeah
+
+1003
+01:17:00,199 --> 01:17:04,199
+that where that's the worst spell in the whole game does that spell still exist that's the worst
+
+1004
+01:17:04,199 --> 01:17:16,060
+spell in the entire game i just found it why did you want to do that because i was different
+
+1005
+01:17:18,229 --> 01:17:21,909
+and i people would say oh do you what dude they'd say spec and a whisper and i'd say
+
+1006
+01:17:21,909 --> 01:17:29,369
+discipline they'd go lol and now we get blocked but i was like i'm fucking cool though i got power
+
+1007
+01:17:29,369 --> 01:17:36,899
+infusion and the one time that we were in pvp and there was a mage and this is this is presence of
+
+1008
+01:17:36,899 --> 01:17:43,500
+mine pyro blast existed power infusion on that mage you could one shot somebody and i was that
+
+1009
+01:17:43,500 --> 01:17:51,510
+guy that let you one shot the guy from across the fucking game fire mages were my best friend
+
+1010
+01:17:53,819 --> 01:18:00,300
+hello frodo have time to enjoy a mug with me hello sherif just saying goodbye off on adventures
+
+1011
+01:18:00,300 --> 01:18:05,340
+it's a made-up story adventures i don't have it played wow you know that's why not all the
+
+1012
+01:18:05,340 --> 01:18:11,420
+great dragons in hiding from the fearsome bagginses don't worry frodo it's just my little
+
+1013
+01:18:11,420 --> 01:18:16,140
+joke everyone knows you're a respectable hobbit i would take a lot to make up to know all those
+
+1014
+01:18:16,220 --> 01:18:28,119
+mechanics of course well goodbye robin where's mary and pippen there they are mary and pippen
+
+1015
+01:18:28,119 --> 01:18:34,380
+hello frodo what took you so long did that sluggard sam gamgee forget to tell you that
+
+1016
+01:18:34,380 --> 01:18:39,899
+we'd be here never mind sam what brings you two scoundrels all the way to bywater breakfast
+
+1017
+01:18:39,899 --> 01:18:44,779
+though oh yeah don't they eat a lot pull up a chair you came all this way just for breakfast
+
+1018
+01:18:44,859 --> 01:18:47,819
+isn't there a line in the movie
+
+1019
+01:18:55,100 --> 01:19:01,500
+why did i say that we thought we'd ever go at his garden again three is company just like old times
+
+1020
+01:19:01,500 --> 01:19:07,180
+remember those mushrooms i remember his ferocious dogs i believe frodo's afraid are you afraid
+
+1021
+01:19:07,180 --> 01:19:13,420
+pippen i'm never afraid mary those dogs are all bark and no bite salt and pork that sounds
+
+1022
+01:19:14,300 --> 01:19:19,500
+only because he caught you well just be careful this time remember the smell of those mushrooms
+
+1023
+01:19:19,500 --> 01:19:27,510
+cooking i do love mushrooms then it's settled who will meet you i go to the farm okay you're gonna
+
+1024
+01:19:27,510 --> 01:19:59,239
+meet me at the farm huh damn it i'm too tall all right i want i need two points it's gonna bounce
+
+1025
+01:19:59,239 --> 01:20:15,050
+off his head and hit him in the head damn it all right fuck it i'm out of here he said more
+
+1026
+01:20:15,050 --> 01:20:26,100
+community subs come in from brineville on top of the fucking 150 thank you rival fill the bar
+
+1027
+01:20:26,100 --> 01:20:33,619
+with rocks no it'll take too long and this game is already dragging out so that's gonna take way
+
+1028
+01:20:33,619 --> 01:20:43,239
+too long dude here comes the hype train no i think i made the cooldown of the hype train
+
+1029
+01:20:45,060 --> 01:20:49,300
+long so it can't happen more than once every like four or five hours i'm actually gonna probably
+
+1030
+01:20:49,300 --> 01:21:06,630
+make it eight hours so it can only happen like once a stream make it once a week i can't even
+
+1031
+01:21:06,630 --> 01:21:31,909
+do that pipe train scam fraud i got in the shower just there i i missed it i have no idea what you
+
+1032
+01:21:31,909 --> 01:21:35,979
+said you said something about taking a shower i don't even know what it was it was something
+
+1033
+01:21:35,979 --> 01:21:46,699
+about taking a shower whatever it was can we please move on i'm trying i'm making every effort
+
+1034
+01:21:46,699 --> 01:22:08,939
+i'm trying to get there still a level one cell bag end to lobelia sackville
+
+1035
+01:22:09,659 --> 01:22:29,579
+how the fuck do i do that what do i mean scroll down there's more no there's not this cell bag end
+
+1036
+01:22:36,789 --> 01:22:51,739
+uh okay like the cell bag end where's that person live just throw rocks at minto
+
+1037
+01:22:53,859 --> 01:23:04,039
+use the map this is a good map yeah use map the land of hobbits west of brandywine river
+
+1038
+01:23:04,760 --> 01:23:15,829
+oh this helps me a great satellite image zoomed way the fuck out this is gonna help
+
+1039
+01:23:16,550 --> 01:23:28,539
+what's with the title of the stream um just link the clip link the clip every time somebody asks
+
+1040
+01:23:28,539 --> 01:23:40,520
+about the title just link the clip aren't we at the farm where are they then they say oh we'll
+
+1041
+01:23:40,520 --> 01:24:06,380
+meet you at the farm well where are they then they say they're gonna meet me here you have to i have
+
+1042
+01:24:06,380 --> 01:24:19,689
+to sell bag end first all right so because nobody's actually linking you the real clip
+
+1043
+01:24:19,689 --> 01:24:24,649
+i'll just tell you in the amount of time that it could have taken somebody just to control c
+
+1044
+01:24:25,529 --> 01:24:32,010
+control v um the right one i'll just i could have just told you uh somebody guaranteed that i would
+
+1045
+01:24:32,010 --> 01:24:38,760
+not get past this first part and i'm proving them wrong that was so easy there was less than a
+
+1046
+01:24:38,760 --> 01:24:53,880
+sentence that's why is that so hard for me to do where's this person uh another huge huge bit
+
+1047
+01:24:53,880 --> 01:25:00,439
+donation just came in from ryanville on top of the community subs ryanville 5 000 bits from ryanville
+
+1048
+01:25:01,239 --> 01:25:12,520
+huge and they say what if the hype train is in bits i think it combines them anyhow i just moved
+
+1049
+01:25:12,520 --> 01:25:16,600
+had your vods on while i put together new furniture and such sitting here doing art
+
+1050
+01:25:16,600 --> 01:25:22,760
+you ever want the greedy grinner to appear in a magic the gathering card let me know yes do it
+
+1051
+01:25:23,380 --> 01:25:39,289
+are you serious oh wait did this the magic all right yeah yeah let's go let's go put put get
+
+1052
+01:25:39,289 --> 01:25:42,569
+all right i don't know what i don't know what it's gonna take get the greedy grinner
+
+1053
+01:25:43,449 --> 01:25:54,250
+into magic the other then i would have to play magic the gathering and show
+
+1054
+01:25:54,250 --> 01:26:10,220
+what you've made and that i mean that's worth it best timeline for greedy grinner all right
+
+1055
+01:26:10,220 --> 01:26:18,340
+where is this person i have to find them in the town that's ryanville again thanks for the 5 000
+
+1056
+01:26:18,340 --> 01:26:34,939
+fucking bits dude ultra rare foil next to the bell thank you and that's one of the reasons why
+
+1057
+01:26:34,939 --> 01:26:43,819
+i love this community helping me out nobody at this bell you fucking liar what's with this
+
+1058
+01:26:43,819 --> 01:26:51,529
+community this community seriously like fucking always like fucking me up and shit getting kind
+
+1059
+01:26:51,529 --> 01:27:01,939
+of sick of it oh there you are hello nobelia where's the sheriff where's that lazy robin small
+
+1060
+01:27:01,939 --> 01:27:10,739
+bro i couldn't say now about bag end never you mind all that sorry i'm sure the sheriff is keeping
+
+1061
+01:27:10,739 --> 01:27:17,779
+everyone safe how could he help ryanville if you're serious go away hit me up in a uh just ring the
+
+1062
+01:27:17,779 --> 01:27:21,140
+warning bell i'm gonna follow you on twitter hit me up in a dm on twitter come running hit me up
+
+1063
+01:27:21,140 --> 01:27:26,420
+on twitter and then i'm gonna follow you and then we'll talk in dms because that's that's
+
+1064
+01:27:26,420 --> 01:27:31,859
+that's funny to me that if it's possible we should we should work on that we should work on that
+
+1065
+01:27:42,810 --> 01:27:49,220
+am i not tall enough to do this anymore i can't just hit my fucking head on this
+
+1066
+01:27:50,020 --> 01:28:09,560
+didn't i already hit this now we can leave now what's going on i don't hold with reckless bell
+
+1067
+01:28:10,039 --> 01:28:13,720
+i rang the bell nobelia wants you to know there are wolves in the shire
+
+1068
+01:28:13,720 --> 01:28:20,920
+oh is that all i've heard that rumor but i reckon no one's seen these wolves not even nobelia oh
+
+1069
+01:28:20,920 --> 01:28:25,960
+if any wolves approach the shire the bounders will chase them off just as they chase away foxes
+
+1070
+01:28:25,960 --> 01:28:31,560
+and such i'm glad the shire is well protected now if that's all i've got a mother return to in the
+
+1071
+01:28:31,560 --> 01:28:32,199
+green dragon
+
+1072
+01:28:36,840 --> 01:28:44,819
+you know how many club remixes of the shire song exist that might be one of the most sampled songs
+
+1073
+01:28:45,779 --> 01:28:53,829
+ever in house music all right show quests sell bag end i can't wait what didn't i just do this
+
+1074
+01:29:09,340 --> 01:29:27,289
+wait where is she i've talked to her again wouldn't she just right here where is she behind me what do
+
+1075
+01:29:27,289 --> 01:29:38,550
+you mean you just ding dong ditched her there she is god damn it man give me a room with four
+
+1076
+01:29:38,550 --> 01:29:43,670
+buttons and i'll fucking destroy it hey how many of you are here how many of you all right how many
+
+1077
+01:29:43,670 --> 01:29:49,590
+of you for under tail and delta rune shit that's box this big on the screen with two buttons
+
+1078
+01:29:49,590 --> 01:29:57,000
+remember jeffel yep well finally came to his senses and rang that bell now we'll have safety
+
+1079
+01:29:57,000 --> 01:30:03,000
+and order in the shire i do hope so now then what did you want to speak to me about make it snappy
+
+1080
+01:30:03,000 --> 01:30:09,159
+i have a lot of things to tend to it's about bag end you said you wanted to buy it what but
+
+1081
+01:30:09,159 --> 01:30:14,039
+i thought you were lying you still bragging about it yeah i believe that's when i have the deed in my
+
+1082
+01:30:14,039 --> 01:30:19,960
+hand did you bring it here's i'm the only person that's done that on twitch i can scarcely believe
+
+1083
+01:30:19,960 --> 01:30:25,720
+it the deed to bag end i should but i can't show my gold medal sometimes i'll leave the bag end key
+
+1084
+01:30:25,720 --> 01:30:32,279
+with master gamgee of number three bag shot row if you don't mind what gamgee that dirty potato
+
+1085
+01:30:32,279 --> 01:30:39,399
+grubber and his son might plunder all of bag end in the dead of night good day lobelia yes yes a
+
+1086
+01:30:39,399 --> 01:30:47,800
+very good day indeed my sweet little lotho will be so happy bag end at last oh why you can sort
+
+1087
+01:30:47,800 --> 01:30:54,760
+with that kind i'll never know frodo having fathers and dwarves and wizards for company
+
+1088
+01:30:54,760 --> 01:31:00,760
+and never inviting your own flesh and blood to tea honestly yeah whatever lady
+
+1089
+01:31:02,970 --> 01:31:07,210
+you look like you're part of a fucking ipad match three gardening game the fuck out of here
+
+1090
+01:31:08,329 --> 01:31:33,340
+we're done get the one remember the first fish i caught here with where we got to get the ring
+
+1091
+01:31:33,340 --> 01:31:40,569
+we're almost done let's give it a leave dude you've walked up and down this road like 10 times
+
+1092
+01:31:40,569 --> 01:31:44,890
+but i i don't i don't i just don't understand how you can continue to not know where you are
+
+1093
+01:31:45,609 --> 01:31:50,970
+i if i know i know i just i don't pay i pay attention to the wrong things adhd and that's
+
+1094
+01:31:50,970 --> 01:31:56,090
+what happens now i know i understand that you have like like attention like deficit issues but
+
+1095
+01:31:56,090 --> 01:32:00,810
+dude like you've done it 10 fucking times just pay attention once i know i know but i like i'm
+
+1096
+01:32:00,810 --> 01:32:26,619
+looking at i'm talking to chat and shit and i'm like talking and i'm i'm walking around he's not
+
+1097
+01:32:26,619 --> 01:32:31,420
+gonna be able to pass the first mission laughing my ass off we're about to beat the first mission
+
+1098
+01:32:32,060 --> 01:32:42,859
+and what was it i was gonna get 200 bits if i did it that's what they said they said germa i
+
+1099
+01:32:42,859 --> 01:32:47,579
+guarantee you won't get to the first pass the first level i will give you 200 bits not even
+
+1100
+01:32:47,579 --> 01:32:55,109
+enough to trigger the end of the stream message reading and i was like fuck dude i'm going let's
+
+1101
+01:32:55,109 --> 01:33:33,930
+go there was a bee next to you i'll horn it don't hurt bees all right it only took an hour and a
+
+1102
+01:33:33,930 --> 01:33:41,289
+half god it took that long no it didn't it didn't take that long i think it's time for me and the
+
+1103
+01:33:41,369 --> 01:33:52,729
+ring to leave hobbiton and begin this journey there we go the one ring take the bag end key to
+
+1104
+01:33:52,729 --> 01:34:03,640
+gaffer take the bag end key to gaffer gamgee at number three bag shot row and take the one ring
+
+1105
+01:34:03,640 --> 01:34:19,909
+to rivendell put it on oh we're gonna get previously on the next episode here we go
+
+1106
+01:34:23,909 --> 01:34:52,250
+what happened shire save game save game save game save game save game save game save game
+
+1107
+01:34:52,250 --> 01:35:00,550
+oh holy shit i okay oh that guarantee just got fucking stuffed into the ground
+
+1108
+01:35:01,350 --> 01:35:09,510
+that if i lost i'll go back to the beginning the very beginning oh man oh man i didn't know that
+
+1109
+01:35:09,510 --> 01:35:16,550
+okay all right that person right now is just sitting there going fuck no why did he see it
+
+1110
+01:35:16,550 --> 01:35:20,310
+oh
+
+1111
+01:35:21,909 --> 01:35:37,210
+no mr baggins has gone away left this morning why is none of my business or yours
+
+1112
+01:35:43,319 --> 01:35:47,079
+there's no secret he's walking to buckleberry or some such place
+
+1113
+01:35:52,810 --> 01:35:57,050
+they don't know this is like weird yes quite a ways down the east road
+
+1114
+01:35:57,050 --> 01:36:00,329
+never been so far why is he acting this is watching like a
+
+1115
+01:36:02,409 --> 01:36:07,819
+this is like a fallout game he's the main character this is like dialogue options
+
+1116
+01:36:07,819 --> 01:36:24,100
+i can't give no message now good night to you evening master gamgee good evening to you fredo
+
+1117
+01:36:24,100 --> 01:36:30,500
+a peculiar ride i came asking after you i don't wish to make his acquaintance nor me sent shivers
+
+1118
+01:36:30,500 --> 01:36:37,460
+up my back just to hear his hollow voice where sam he was waiting for you but that threaded
+
+1119
+01:36:37,460 --> 01:36:42,739
+pippin too came to collect him said they would meet you at maggots farm maggots farm about a
+
+1120
+01:36:42,739 --> 01:36:48,659
+shortcut what are they up to they didn't say but pippin seemed quite pleased with himself
+
+1121
+01:36:48,659 --> 01:36:54,020
+and sam was none too happy about it he'd better not be up to mischief well here's the bag end
+
+1122
+01:36:54,020 --> 01:37:02,250
+key for lobelia i guess i'll meet sam at maggots farm good evening master gamgee he was making it
+
+1123
+01:37:02,250 --> 01:37:08,140
+up in his head the whole time all right let's go avoid being detected by the dark riders you
+
+1124
+01:37:08,140 --> 01:37:14,619
+sneaking to avoid detection press lightly on the left analog stick to sneak wait this is not sneak
+
+1125
+01:37:38,090 --> 01:37:47,850
+i god i guarantee holy shit i can't fucking believe i can't believe it i can't believe i
+
+1126
+01:37:47,850 --> 01:37:57,800
+actually fucking saved the game oh my god that's uh i can't you seriously thank you for the savers
+
+1127
+01:37:58,760 --> 01:38:16,789
+in this chat holy shit who fucking told him who told him wow oh my god oh my god that would have
+
+1128
+01:38:16,789 --> 01:38:32,970
+been so terrible all right no whoa no good evening master gamgee goody i don't know where
+
+1129
+01:38:33,609 --> 01:38:37,529
+they did well i'm telling you that person that person owes me 200 bits
+
+1130
+01:38:38,649 --> 01:38:49,930
+that's unbelievable okay where the fuck am i supposed to go just throw rocks no not back at me
+
+1131
+01:38:49,930 --> 01:39:04,649
+oh great where's he what's that what's that is that a rock i said another rock where these rocks
+
+1132
+01:39:04,649 --> 01:39:10,439
+coming from who's doing that
+
+1133
+01:39:41,880 --> 01:40:18,729
+there's another one over here what the fuck oh my god okay where did a fly fly into your mouth
+
+1134
+01:40:18,729 --> 01:40:33,350
+oh
+
+1135
+01:40:38,460 --> 01:40:43,659
+somebody please take that clip before the stream ends somebody do it i don't know
+
+1136
+01:40:44,779 --> 01:40:48,380
+denominate who does it make a buzz fly buzzing sound and then like a
+
+1137
+01:40:49,020 --> 01:41:05,619
+fly flying into my mouth sound and i have to hear it no oh this sucks evening master i don't even
+
+1138
+01:41:05,619 --> 01:41:09,619
+here's the thing i'm such a stupid idiot i don't even know which way is the right way to go to the
+
+1139
+01:41:09,619 --> 01:41:36,760
+farm it's this way right the way i'm facing guys the map is meaningless god damn it where is he
+
+1140
+01:41:43,699 --> 01:42:01,029
+nobody here i don't even know where he is such such erratic movements too this is not even the
+
+1141
+01:42:01,029 --> 01:42:32,199
+right fucking way use the ring you penis i don't what do you mean use the ring how do i use the
+
+1142
+01:42:32,199 --> 01:43:00,920
+ring is it not on is it on there's a button for it well i've pressed every button the ruling ring
+
+1143
+01:43:00,920 --> 01:43:10,539
+of power forged in the second age by the dark lord sauron in the fires of mount doom select
+
+1144
+01:43:10,539 --> 01:43:18,659
+it's not select start it's not start all right which way do i go all right i have to throw a
+
+1145
+01:43:18,659 --> 01:43:37,880
+rock over here right in the fucking sign l1 and r1 at the same time it's not it is it going look
+
+1146
+01:43:37,880 --> 01:44:03,899
+look over there crazy i know go get it go get it look was i just here was i just here
+
+1147
+01:44:04,539 --> 01:44:14,979
+i i thought it's this way it's this way it's not it's this way all right where is he
+
+1148
+01:44:16,310 --> 01:44:32,600
+right there he's coming up the road fuck he knows i'm over here this is stupid he's not going to
+
+1149
+01:44:32,600 --> 01:45:18,020
+leap where is he okay i thought he already ran by no no no no i heard like the dude dude dude i
+
+1150
+01:45:18,020 --> 01:45:29,770
+thought he ran by already he's not gonna beat it ever yes he is where the hell am i
+
+1151
+01:45:30,170 --> 01:46:03,289
+right no evening master okay this is ridiculous i'm just going will this hide me being over here
+
+1152
+01:46:04,010 --> 01:46:25,850
+i'm not throwing any more rocks he's trying to come over here and he can't because his
+
+1153
+01:46:25,850 --> 01:47:20,420
+path doesn't go this way but i tried fucking god damn it what is it hitting just quit i'm not
+
+1154
+01:47:20,420 --> 01:47:37,819
+quitting no can i save it hold on i can save it wait watch this does it just save your state
+
+1155
+01:47:39,029 --> 01:47:59,159
+evening master it does doesn't it okay avoid detection i'm gonna save it right when i get to
+
+1156
+01:47:59,159 --> 01:48:18,579
+a safe place it controls us so bad so bad for a sneaking game oh yeah yeah don't throw any rocks
+
+1157
+01:48:18,579 --> 01:48:42,859
+he's gonna come over here what do you wait no i fucking had it i was right there i gotta go to
+
+1158
+01:48:42,859 --> 01:48:56,939
+the tree on the left now i gotta go to that tree i gotta get to that tree what if i just do it
+
+1159
+01:48:56,939 --> 01:49:07,609
+immediately right i wonder okay that's the strat right there he's too stupid to run this way
+
+1160
+01:49:08,789 --> 01:49:14,680
+they don't have pathing over here just don't go near a road save it here no don't wait if he
+
+1161
+01:49:14,680 --> 01:49:31,560
+sees me from there oh my god all right does this game does this game have higher than a two on like
+
+1162
+01:49:31,560 --> 01:50:04,739
+metacritic go right and immediate left just follow the path out of town but don't walk on it
+
+1163
+01:50:08,340 --> 01:50:15,560
+it's supposed to sneak but there's nowhere to fucking hide oh and i just it's over i'm just
+
+1164
+01:50:15,560 --> 01:50:49,220
+restarted will the sign protect me you say just sneak the amount of pressure it takes to sneak
+
+1165
+01:50:49,220 --> 01:50:57,159
+is the hardest thing in the whole game you have it's like surgery to sneak it's literal surgery
+
+1166
+01:50:59,500 --> 01:51:05,260
+you have to tilt the analog forward a tenth of a centimeter if you go further than that you're
+
+1167
+01:51:05,260 --> 01:51:31,369
+gonna run don't delete i guarantee i guarantee
+
+1168
+01:51:36,539 --> 01:51:43,420
+he started yeah i know can you imagine if i hadn't saved it imagine getting back here without saving
+
+1169
+01:51:43,420 --> 01:51:51,609
+the game and having to do it over again so it's right and then immediate left is that correct
+
+1170
+01:51:52,170 --> 01:52:18,979
+wait fly video is done is it really yes give it to me this is important i gotta put this on
+
+1171
+01:52:18,979 --> 01:52:35,899
+screen fly flies into jerma's mouth ow okay let's see you can hear it right all right let's get it
+
+1172
+01:52:35,899 --> 01:53:17,399
+on screen that'd be good wouldn't it oh wait hold on jerma hits a grand slam okay hold on
+
+1173
+01:53:18,119 --> 01:53:24,039
+let me go i want to see no i want to see the video again i want to see them why can i hear
+
+1174
+01:53:24,039 --> 01:53:29,479
+myself talking what the fuck is going on stop stop stop i want to see the video again
+
+1175
+01:53:30,359 --> 01:53:39,140
+why can i hear myself talking this is fucked up for as long as what the fuck happened
+
+1176
+01:53:39,779 --> 01:53:56,119
+dude autoplay on youtube sucks what a stupid fucking feature what a dumb ass feature by the
+
+1177
+01:53:56,119 --> 01:54:02,470
+time that you get what you want oh that was a good like 10 second video what how about this one
+
+1178
+01:54:02,470 --> 01:54:06,630
+how about that no no go back you know how about that one it's i go back i just i just and every
+
+1179
+01:54:06,630 --> 01:54:27,369
+time i disable it it's enabled again just give me a clip of the just give me a clip of me watching
+
+1180
+01:54:27,369 --> 01:54:35,270
+that i want to see it no one knows how to turn it off it's because youtube is fucking desperate
+
+1181
+01:54:35,270 --> 01:54:41,579
+to keep people like engaged so these motherfuckers just make you autoplay every single place you go
+
+1182
+01:54:41,579 --> 01:54:55,859
+so it inflates the amount of views on the whole website what if you're not logged in though what
+
+1183
+01:54:55,859 --> 01:55:01,300
+if you're on a different device i've been logged in and it's auto plays turned on give me i give
+
+1184
+01:55:01,300 --> 01:55:05,779
+you the right give me the clip of me watching it i can't my setup i got a fucking i got a shitty
+
+1185
+01:55:05,779 --> 01:55:28,460
+audio setup here's the video all right i'll just watch the video no not the alcs grand slam video
+
+1186
+01:55:29,500 --> 01:55:34,060
+oh my god i even have i haven't copied to my fucking clipboard i'm just gonna watch it i'll
+
+1187
+01:55:34,060 --> 01:55:55,420
+be right back all right that's pretty funny good work hey thank you awakened fear for the five
+
+1188
+01:55:55,420 --> 01:56:05,319
+community subs appreciate it stalling yeah i am because fuck this game i can't some of
+
+1189
+01:56:06,359 --> 01:56:11,270
+i'm gonna get proved someone's there's one person in this chat that's gonna prove it right
+
+1190
+01:56:11,270 --> 01:56:34,220
+and this infuriates me at the moment why won't he walk by where is he doesn't usually come out by
+
+1191
+01:56:34,220 --> 01:56:53,140
+now where the fuck is it what we did you spawn did he spawn in i think the play is um run
+
+1192
+01:56:54,020 --> 01:57:00,680
+let me try this run immediately right behind this tree run stop right here the rock is blocking me
+
+1193
+01:57:00,680 --> 01:57:19,050
+of course it is god i beat this when i was eight i guarantee you didn't i guarantee you did not
+
+1194
+01:57:19,050 --> 01:57:23,050
+beat this when you were eight years old you stopped here and cried and then your mother returned the
+
+1195
+01:57:23,050 --> 01:57:45,899
+game you got you guarantee that guy yeah oh i guarantee it comes up this road i'm gonna use
+
+1196
+01:57:45,899 --> 01:58:13,539
+this rock stop running do you i don't think you understand the amount the amount of movement it
+
+1197
+01:58:13,539 --> 01:58:38,060
+takes to go from sneaking to running is less than a hair on your damn head stupid mechanic what a
+
+1198
+01:58:38,060 --> 01:58:45,180
+dumbass mechanic why have a why have a fps throw mechanic if it there's an invisible wall in front
+
+1199
+01:58:45,180 --> 01:59:10,970
+of me every time he's gonna need a youtube video to beat this one too if you made this game and
+
+1200
+01:59:10,970 --> 01:59:16,010
+you played through this part again like did you like give this to somebody to play and say hey
+
+1201
+01:59:16,010 --> 01:59:20,710
+what do you think about this level is this just is this just like a scenario where like you're
+
+1202
+01:59:20,710 --> 01:59:26,390
+not going to tell your friend that this whole thing sucks hey dude i made this level uh lord
+
+1203
+01:59:26,390 --> 01:59:32,470
+the rings oh the it's like a literally celebrated human franchise uh peter jackson just made a movie
+
+1204
+01:59:32,470 --> 01:59:39,909
+it was like 200 million dollars what do you think about this level oh it's great it's really good
+
+1205
+01:59:40,710 --> 02:00:01,699
+you should print it it's a book series this game came out like less than six months after the
+
+1206
+02:00:01,699 --> 02:00:08,359
+fucking 200 million dollar movie i got an idea i'm gonna i'm gonna get up and throw fucking rocks at
+
+1207
+02:00:08,359 --> 02:00:22,779
+him most one of those celebrated thing human franchises ever and you got a sneaking throw
+
+1208
+02:00:22,779 --> 02:00:29,859
+rock mechanic is it working
+
+1209
+02:00:48,300 --> 02:01:09,300
+go that way that way save it here save the game save the game right here save the game right here
+
+1210
+02:01:16,789 --> 02:01:23,260
+new slot too 8 pm what time is it it's four o'clock in the afternoon what are you talking about
+
+1211
+02:01:23,899 --> 02:01:47,420
+which way do i go this way which way do i go this way right
+
+1212
+02:01:52,229 --> 02:02:12,470
+7 pm boston time don't forget where you came from am i going the right way what if i just stay in the
+
+1213
+02:02:12,470 --> 02:02:51,260
+water oh this is not even a what the fuck are you talking about why is the hippo because it's like
+
+1214
+02:02:51,260 --> 02:02:52,779
+five thousand feet tall
+
+1215
+02:02:52,779 --> 02:03:13,859
+oh
+
+1216
+02:03:16,229 --> 02:03:32,170
+i think right notice joel notice joel joel joel joel joel what's up joel what's up joel lied about
+
+1217
+02:03:32,170 --> 02:03:43,340
+jump king well i don't know what to tell you all right we're good here just keep him don't throw
+
+1218
+02:03:43,340 --> 02:03:49,909
+this it's gonna hit the fucking wall it's not first person mode it's just first person camera
+
+1219
+02:03:49,909 --> 02:03:55,029
+you're actually just sitting in the same spot it's not a first person mode it just moves the
+
+1220
+02:03:55,029 --> 02:04:00,630
+camera in front of your face where's the other one there he is watch this see you later i'm
+
+1221
+02:04:00,630 --> 02:04:05,109
+going i'm going let's go let's go let's go go go go go right now right now go go go go go go go
+
+1222
+02:04:05,109 --> 02:04:10,710
+look over there look over here what's that pay attention to that over there crazy i know look
+
+1223
+02:04:10,710 --> 02:04:15,989
+at those rocks go go go go go go go go go go go go go go go go go look over there what's that no
+
+1224
+02:04:15,989 --> 02:04:22,090
+no look over there look over there behind you what's that over there i did you see that shit
+
+1225
+02:04:33,640 --> 02:04:43,079
+what's over that way what's over there look
+
+1226
+02:04:47,159 --> 02:05:06,060
+and stop no whammies that's 200 yes why would you even look over here i'm
+
+1227
+02:05:07,880 --> 02:05:18,760
+i'm riveting human gameplay you're riveting your quest is over
+
+1228
+02:05:22,170 --> 02:05:30,899
+wow wow wow wow oh that's just ridiculous isn't it okay look it's the guy on the bridge i know what
+
+1229
+02:05:30,899 --> 02:05:49,880
+i have to do what do you think dude hit that tree over there 600 fucking million dollars goes into
+
+1230
+02:05:49,880 --> 02:06:44,119
+this franchise and i can't even throw a rock past the tree go look oh boy i did it did i make it
+
+1231
+02:06:44,119 --> 02:07:23,300
+to the farm insta safe i did it oh fuck yeah no i didn't do it yet oh wolf i'm done for hold on
+
+1232
+02:07:23,300 --> 02:07:48,090
+robin wait wait hold on he's getting fucking ripped up so he still wants to your purity has
+
+1233
+02:07:48,090 --> 02:08:05,539
+increased you all right what's on discord oh joel wants to do uh keep talking to nobody explodes
+
+1234
+02:08:06,539 --> 02:08:10,779
+we can do it tomorrow yeah we'll do it tomorrow keep talking to nobody explodes with joel tomorrow
+
+1235
+02:08:14,869 --> 02:08:20,149
+no not today not today i no no i have to beat that all right what are you doing in the uh hold
+
+1236
+02:08:20,149 --> 02:08:23,930
+on wait wait what are you all right joel what are you doing in like joel what are you doing in like
+
+1237
+02:08:24,489 --> 02:08:27,130
+i i don't know however long it takes me to get to the end of first level
+
+1238
+02:08:27,770 --> 02:08:58,810
+it's typing typing are you in the zone no no no no no no there is no zone the zone is i
+
+1239
+02:08:58,810 --> 02:09:01,850
+one person told me they guaranteed i couldn't get past the first part
+
+1240
+02:09:01,850 --> 02:09:03,930
+once i get past the first part it literally doesn't matter
+
+1241
+02:09:05,859 --> 02:09:12,420
+oh frodo i am in your debt if you hadn't come along i'd be a midnight morsel for that beast
+
+1242
+02:09:12,420 --> 02:09:18,340
+i'm glad you're all right robin we've not seen walls for a hundred years so i hear it's an ill
+
+1243
+02:09:19,300 --> 02:09:25,140
+what could it mean he's not even here anymore i'd better get going what oh write you off rodo and i
+
+1244
+02:09:25,140 --> 02:09:28,899
+should get back on patrol all right let's go meet him but tell the other sheriffs to watch for more
+
+1245
+02:09:28,899 --> 02:09:34,659
+dangers in the shire yes of course everyone just got like an opportunity they're like wait we can
+
+1246
+02:09:34,659 --> 02:09:47,350
+do it now do it right now oh not right now let's let's set it up actually let's set it up for real
+
+1247
+02:09:47,350 --> 02:09:56,149
+but tomorrow we'll do it tomorrow we'll play for a couple hours he's like ah now man if you're in
+
+1248
+02:09:56,149 --> 02:10:09,399
+all right all right all right we'll do it tomorrow we'll do it tomorrow hey come on that'll be five
+
+1249
+02:10:09,399 --> 02:10:24,390
+days in a row of streams we're doing it tomorrow he didn't even say that yes he did on discord
+
+1250
+02:10:25,029 --> 02:10:46,649
+you're a liar leak the dms you're a liar leak the dms the one ring what do you mean the one ring
+
+1251
+02:10:48,010 --> 02:10:55,859
+well what is what's going on why am i beating up why am i being surrounded by dogs
+
+1252
+02:10:56,659 --> 02:11:12,949
+oh this is what's going on what do you want to bring i don't remember this part of the movie
+
+1253
+02:11:14,329 --> 02:11:29,399
+i didn't save it oh no it's right here it's right here it's right here it's right here it's right
+
+1254
+02:11:29,399 --> 02:11:47,000
+here it's right here it's right here don't forget to save dying reset to do the last save i don't
+
+1255
+02:11:47,000 --> 02:11:50,920
+worry i won't i will never forget that ever again i will never forget it again it'll never i will
+
+1256
+02:11:50,920 --> 02:12:08,810
+never forget it again why do we get so close all right i'm gonna get up here and save the game
+
+1257
+02:12:09,449 --> 02:12:16,119
+and then hopefully i get to play as gandalf because i don't i don't want to play
+
+1258
+02:12:17,000 --> 02:12:25,989
+as furoto anymore and furoto's a swell guy but i don't want to play as him anymore joel must
+
+1259
+02:12:25,989 --> 02:12:32,069
+have told him he'd never get well that's what said the dms he said yo man i just want to let
+
+1260
+02:12:32,069 --> 02:12:36,869
+you know i don't think you're ever going to get past the first part so do you want to just keep
+
+1261
+02:12:36,869 --> 02:12:39,670
+doing this or do you want to play the bomb game he's like i don't think you're going to be able
+
+1262
+02:12:39,670 --> 02:12:43,350
+to do this so that's another person now i have to fucking somebody's give a lot of money
+
+1263
+02:12:46,170 --> 02:13:03,500
+wait i didn't save the game uh ishanji gave 10 000 bits thank you ishanji really appreciate it
+
+1264
+02:13:04,779 --> 02:13:07,899
+they say i was going to ask you if you realize you've been baited into playing a game that's
+
+1265
+02:13:07,899 --> 02:13:13,659
+basically just a short joke but then you you confused candy for fruit and asked if dropping
+
+1266
+02:13:13,659 --> 02:13:19,899
+an ipad into the tub would kill you so yeah germa iq here's to my favorite sentry gun
+
+1267
+02:13:21,340 --> 02:13:26,460
+ps i guarantee you aren't pro gamer enough to build the tower of mammoth tusks they can reach
+
+1268
+02:13:26,460 --> 02:13:38,460
+the sun in the ps1 cave land game tale of the sun whatever thanks for the hundred dollars that's a
+
+1269
+02:13:38,460 --> 02:13:49,659
+lot of money new challenge i'll have to remember that you got baited into the giant short joke
+
+1270
+02:13:50,460 --> 02:13:55,020
+that's fine but thanks a lot for the 10 000 bits this one's for you
+
+1271
+02:14:07,880 --> 02:14:18,220
+you can't do it i can't do it but i'm gonna the lord of the rings and the fellowship of the ring
+
+1272
+02:14:22,170 --> 02:14:27,050
+refund the game this game was just 20 fucking years old all right one ring how do i turn how
+
+1273
+02:14:27,050 --> 02:14:49,510
+do i use the one ring hey remember the final load of the rings roto ran from a pack of wolves
+
+1274
+02:15:07,350 --> 02:15:15,050
+does this happen use the run i can't there i can't use the one ring i don't need that
+
+1275
+02:15:15,050 --> 02:15:39,319
+there's no buttons do anything wait did i put it on just run you have to activate it how do
+
+1276
+02:15:39,319 --> 02:16:02,069
+you activate equip it with circle circle circle you threw the green yeah i didn't throw it on the
+
+1277
+02:16:02,069 --> 02:16:37,180
+ground i gotta go i have to run i have to run to where though am i going the right way
+
+1278
+02:16:37,420 --> 02:17:25,129
+i'm fucking great wait this is right this is wrong this is wrong this is wrong oh i know that
+
+1279
+02:17:25,129 --> 02:17:37,379
+sword that is the goblin cleaver the brightest daylight another dark one must stay hidden
+
+1280
+02:17:38,500 --> 02:17:53,690
+it's not the right movie dude this bullet drop use the bullet drop to my advantage
+
+1281
+02:17:54,329 --> 02:18:11,180
+yeah just give him the ring i can't just give him the ring do you understand how much trouble i'd
+
+1282
+02:18:11,180 --> 02:18:23,379
+get in yeah wait i have an idea i can hide behind this big log all right let's get where is he
+
+1283
+02:18:24,100 --> 02:18:37,239
+oh my god get in the log where is he save in the log no i'm gonna softlock myself if i save in here
+
+1284
+02:18:37,239 --> 02:18:43,459
+he stays like still right here does he know i'm in here okay i swear to god there was a winning the
+
+1285
+02:18:43,459 --> 02:19:26,299
+poo episode where this happened what about rock i'm trying to walk right now but it won't activate
+
+1286
+02:19:29,180 --> 02:20:20,069
+fuck i hit the horse in the head no is he coming i did it where are they i did it fuck yeah there
+
+1287
+02:20:20,069 --> 02:20:25,190
+he is the old sluggered what kept you cousin stopped by the green dragon on your way out
+
+1288
+02:20:25,190 --> 02:20:31,989
+never mind why but i can't stay i have to leave right now for cricollo you mean rivendell
+
+1289
+02:20:32,069 --> 02:20:37,510
+and we're coming with you you thought you were so clever but our conspiracy outsmarted you
+
+1290
+02:20:37,510 --> 02:20:43,750
+we know all about the ring and the dark lord so we're going to protect you but do you have sticks
+
+1291
+02:20:43,750 --> 02:20:50,790
+you know how could we not know with you muttering will i ever see that valley again you really have
+
+1292
+02:20:50,790 --> 02:20:56,629
+bring your best stick mary i was i love food on bilbo one day look at how useful i am also calling
+
+1293
+02:20:56,790 --> 02:21:04,469
+him bilbo put on the ring and vanished we kept our eyes open after that we spied on mary
+
+1294
+02:21:04,469 --> 02:21:10,549
+i'm going to eat double the rations from our truth until he got caught and gandalf did say
+
+1295
+02:21:10,549 --> 02:21:15,750
+take those as you can trust it seems i can't trust anyone you can trust us to stick with you to the
+
+1296
+02:21:15,750 --> 02:21:20,309
+bitter end we've kept your secret better than you did but you can't trust us to let you face
+
+1297
+02:21:20,309 --> 02:21:27,110
+danger alone even though we're horribly afraid he's not c3po or following after like
+
+1298
+02:21:27,110 --> 02:21:34,069
+hounds master frodo yes they are hounds please maggots dogs they're coming are you honestly
+
+1299
+02:21:34,069 --> 02:21:38,870
+trying to tell me that mary and pippin are not the c3po of lord of the rings by the sound of it
+
+1300
+02:21:38,870 --> 02:21:47,590
+so much for stealing some mushrooms before oh yeah do you mind what's all this chatter at this
+
+1301
+02:21:47,590 --> 02:21:55,190
+hour of the night speak up good evening mr maggot well if it isn't peregrine took you're
+
+1302
+02:21:55,190 --> 02:22:01,719
+lucky i know you were out to set my dog's loof the most outlandish fellow rode through here
+
+1303
+02:22:01,719 --> 02:22:08,600
+asking strange questions here who's that with you pippin you remember mary aduk brandy buck
+
+1304
+02:22:08,600 --> 02:22:17,719
+allow me to introduce samwise gamgee and fruto baggins uh good to see you again sir baggins
+
+1305
+02:22:17,799 --> 02:22:24,680
+now isn't that strangest of all what do you think that stranger was asked fuck he came riding up on
+
+1306
+02:22:24,680 --> 02:22:31,719
+a black horse in black cloak and hood and he asked for such a fucking weasel that would be a
+
+1307
+02:22:31,719 --> 02:22:38,360
+different baggins i told him all the bagginses are inhabited he says baggins is heading east on
+
+1308
+02:22:38,360 --> 02:22:45,479
+foot and now frodo baggins shows up on my farm the same frodo baggins who was one of the worst
+
+1309
+02:22:45,479 --> 02:22:51,559
+frame roger rabbits seriously i'm just one of the weasels much better behave i have to embrace it
+
+1310
+02:22:51,559 --> 02:22:58,040
+where are you headed to my new home in cricollo i can see you're in trouble frodo you should never
+
+1311
+02:22:58,040 --> 02:23:04,200
+have gotten mixed up with those strange hobbiton folk i wager that outlander has come for the gold
+
+1312
+02:23:04,200 --> 02:23:11,319
+bilbo brought back from foreign parts well i think it's time we were going no he'll be waiting
+
+1313
+02:23:11,399 --> 02:23:16,440
+you will ride out in my wagon hidden from sight thank you sir it's a pity i've been in
+
+1314
+02:23:16,440 --> 02:23:21,639
+terror of your dogs i've missed a good friend then i kill one of his dogs shall we go now
+
+1315
+02:23:21,639 --> 02:23:27,659
+i already the wagon farmer maggots wagon carried us safely away from his farm and into the borders
+
+1316
+02:23:27,659 --> 02:23:32,860
+of buckland but the black rider was still thundering along the east road we decided
+
+1317
+02:23:32,860 --> 02:23:38,059
+to go south and cut through the old forest mary had been in the old forest and knew a little of
+
+1318
+02:23:38,059 --> 02:23:52,100
+its ways it's a dark mysterious place but not as dangerous as a black rider did it i did it i beat
+
+1319
+02:23:52,100 --> 02:24:07,159
+the first i beat the first level in the lord of the rings fellowship of the ring i don't feel
+
+1320
+02:24:07,159 --> 02:24:17,110
+fulfilled at all zero fulfillment i'm gonna get those 200 bits pippin sam where are you oh wait
+
+1321
+02:24:17,110 --> 02:24:23,030
+what happened brodo we're over here what do you mean did i get cutscenes out of the first level
+
+1322
+02:24:24,389 --> 02:24:43,860
+these trees have a mind of their own stay where you are i'll find you um so i didn't do it
+
+1323
+02:24:43,860 --> 02:24:58,360
+i saved the game holy fuck you're right you did this is level two did i fear of you torturing us
+
+1324
+02:24:59,079 --> 02:25:14,950
+what how would you mean it's torture i want to play as gandalf i just want to play one time as
+
+1325
+02:25:14,950 --> 02:25:24,979
+gandalf seriously just play the two towers i know but i just all right play half-life one resident
+
+1326
+02:25:24,979 --> 02:25:33,239
+sleeper you would resident sleeper halfway point i know you would i would get to the first i would
+
+1327
+02:25:33,239 --> 02:25:38,920
+i would be walking around in the first part of half-life one oh god it's good to see you again
+
+1328
+02:25:38,920 --> 02:25:42,440
+and i would just see resident sleepers the the entire chat would be resident sleepers
+
+1329
+02:25:43,479 --> 02:25:55,260
+this forest it's as if it had a mind of its own ah is that the sun oh man i don't like that that
+
+1330
+02:25:55,260 --> 02:26:26,780
+sucks what the fuck that hurt why did i kill it say the line say the line say the line
+
+1331
+02:26:27,420 --> 02:26:54,920
+you did you just die giant spot enemy where are they over here we're over here this way
+
+1332
+02:26:55,799 --> 02:27:16,860
+i found them watch out for the spider smaller oh this one sucks wait you fight with me
+
+1333
+02:27:17,579 --> 02:27:33,799
+i have a party now hold on i guess i have a party that's pretty sick all right get over here sam
+
+1334
+02:27:33,799 --> 02:28:02,600
+see him? fight! busy! kill him! both bangs in his head. can he die? he's getting fucking destroyed
+
+1335
+02:28:09,479 --> 02:28:20,149
+my god he sucks yes he does all right i can't get off the road giant enemy spider
+
+1336
+02:28:20,149 --> 02:28:36,340
+there is the orchestra remix
+
+1337
+02:28:51,100 --> 02:29:01,799
+okay uh what did i find do i just have to keep walking around in this circle
+
+1338
+02:29:03,750 --> 02:29:11,420
+morty big bits big bits big bits we have five thousand fifty dollars from the mean machine
+
+1339
+02:29:11,420 --> 02:29:15,979
+five thousand bits thank you mean machine for your fucking ridiculous amount of money
+
+1340
+02:29:16,780 --> 02:29:30,010
+oh jesus christ uh for the love that all that is holy germa you finished the first level of the
+
+1341
+02:29:30,010 --> 02:29:37,610
+game i am literally paying you 25 times the wager of that bet for you to go play with joe instead of
+
+1342
+02:29:37,610 --> 02:30:04,489
+dragging this out holy shit it's not about the money it's about sending a message well if you
+
+1343
+02:30:04,489 --> 02:30:12,409
+go to something never do it for free i hate this game i do i do you're right i hate this game
+
+1344
+02:30:12,409 --> 02:30:15,209
+i do i hate it but if you're good at something never do it for free
+
+1345
+02:30:25,530 --> 02:30:37,100
+but you're not good at it oh i found pippin all right now who do we need to find he's only
+
+1346
+02:30:37,100 --> 02:30:49,819
+playing games for money no one's good at this game now who do we need we have sam boy sam
+
+1347
+02:30:49,819 --> 02:30:56,219
+mary now we have sam pit but we are we just have to walk around in a circle so we find a
+
+1348
+02:30:57,340 --> 02:31:00,620
+speedrun is it people speed around this game are there actually speed runs of lord of the
+
+1349
+02:31:00,620 --> 02:31:13,670
+rings and the battleship of the ring yeah see that's the real play you find a game
+
+1350
+02:31:14,860 --> 02:31:21,379
+that has nobody playing and even if you like you can have a really you could have a kind of sloppy
+
+1351
+02:31:21,379 --> 02:31:25,940
+pb and it could be the world records and you just like fuck that well who the hell else is
+
+1352
+02:31:25,940 --> 02:31:57,860
+gonna play lord of the rings besides me all right is he over here lost well i mean this is
+
+1353
+02:31:57,860 --> 02:32:04,629
+called the lost forest or something isn't it that's the whole point okay i have to use the sun i
+
+1354
+02:32:04,629 --> 02:32:09,260
+heard somebody scream over here i'm getting close i'm getting close i'm getting close
+
+1355
+02:32:11,479 --> 02:32:19,739
+i'm getting close i'm getting close
+
+1356
+02:32:30,090 --> 02:32:42,950
+my friend did that with the hello kitty game cube game well good good get a world record
+
+1357
+02:32:44,440 --> 02:32:48,200
+all right what do you think is a game that exists that if you just sort of beat it
+
+1358
+02:32:48,200 --> 02:32:54,520
+slightly quickly you would have the world record for the game should we try to figure that out
+
+1359
+02:32:55,159 --> 02:33:00,040
+what if i found a game that nobody cared about and nobody played that i could actually just get be
+
+1360
+02:33:00,040 --> 02:33:05,079
+the world record holder because i beat it slightly faster than normal because i'm the only one that
+
+1361
+02:33:05,079 --> 02:33:27,159
+cared the lord of the rings no i definitely that's not real all right super frog nancy drew
+
+1362
+02:33:28,120 --> 02:33:38,680
+make a route for now i wouldn't i'd screw it up where is this other character before i lose my mind
+
+1363
+02:33:39,639 --> 02:33:44,729
+do superman 64 i wouldn't know that you kidding me that's like one of the most iconic shitty games
+
+1364
+02:33:44,729 --> 02:33:56,180
+ever somebody already beat that and did that like a thousand times use your map map them do anything
+
+1365
+02:33:56,180 --> 02:34:07,670
+the world record for this game is 58 minutes so slightly longer than i playing slightly shorter
+
+1366
+02:34:07,670 --> 02:34:13,270
+than i will whatever dead spiders means you've been there i know i'm trying to find a alive spider
+
+1367
+02:34:16,950 --> 02:34:21,450
+oh two mushrooms this is it could be an indicator that i haven't been here
+
+1368
+02:34:22,950 --> 02:34:35,899
+harry harry there are no nancy drew speedruns i never thought potatoes could smell so good
+
+1369
+02:34:35,899 --> 02:34:41,500
+a good meal will definitely ease my mind about this place but where is this place very close
+
+1370
+02:34:41,500 --> 02:34:46,379
+to the witty window valley but we shouldn't get any closer why not the witty window
+
+1371
+02:34:47,020 --> 02:34:53,899
+holy shit that's so accurate yes is online 5 000 bits oh my god this music is just bootleg
+
+1372
+02:34:53,899 --> 02:34:59,100
+firelink shrine omega lult please stop this madness you already missed the pimp and skip
+
+1373
+02:34:59,100 --> 02:35:03,100
+it's like they're leading us there mary thought he knew his way around this forest
+
+1374
+02:35:03,100 --> 02:35:07,819
+but how can anyone find their way when the forest won't stand still do you know one of those trees
+
+1375
+02:35:07,819 --> 02:35:13,100
+stuck a branch out at me nearly tripped me it did i'm sorry i let us into such a dangerous place
+
+1376
+02:35:13,100 --> 02:35:28,459
+it all is seriously that black rider dude missed pimp and skip what does it say wait wait wait wait
+
+1377
+02:35:28,459 --> 02:35:33,879
+wait wait wait what does it say this is important this says i literally just watched you beat up
+
+1378
+02:35:33,879 --> 02:35:37,719
+several spiders with a stick for the past 30 minutes i'm going to haunt you until you sell
+
+1379
+02:35:37,719 --> 02:36:08,649
+your 30 minutes of life force to me did you get it that was well that's 28 but it's all right
+
+1380
+02:36:08,649 --> 02:36:12,329
+you can the other extra two minutes were on you know on you for clicking on the stream in the
+
+1381
+02:36:12,329 --> 02:36:38,780
+first place i broke the audio oh there we go where are we going i wasn't paying any attention
+
+1382
+02:36:38,780 --> 02:36:47,989
+to the last cutscene i i didn't see one single line can't go on no don't go into the puppies
+
+1383
+02:36:56,120 --> 02:37:05,610
+less flies well that's a real giant enemy spider oh no it's not it's a tree i thought it was a huge
+
+1384
+02:37:05,690 --> 02:37:12,170
+spider i don't like this tree i don't trust it hear it singing about sleep that's not right
+
+1385
+02:37:12,729 --> 02:37:15,610
+it's not right at all giant enemy tree
+
+1386
+02:37:22,180 --> 02:37:25,700
+the sequels never is good the sequels never is good the sequels never is good
+
+1387
+02:37:26,260 --> 02:37:36,469
+is he dead never any people are trapped in old man willow's mouth attacking his trunk may anger
+
+1388
+02:37:36,469 --> 02:37:44,040
+him oh my god i have to save it no he's about to hit me
+
+1389
+02:38:11,059 --> 02:38:26,260
+mary all right not fair not fair that was unfair okay stop playing this game please
+
+1390
+02:38:26,260 --> 02:38:40,340
+i we're at the first boss we're at the first boss i gotta continue bed of chaos
+
+1391
+02:38:40,340 --> 02:38:55,850
+us
+
+1392
+02:38:58,649 --> 02:39:04,379
+why am i who's walking all right go in
+
+1393
+02:39:10,790 --> 02:39:30,090
+he squeezed him what am i just supposed to run around a circle do i have to get him stuck
+
+1394
+02:39:31,940 --> 02:39:36,739
+it's true they're watching your stream because they whatever all right i don't what am i supposed
+
+1395
+02:39:36,739 --> 02:39:51,579
+to do one ring all right these dudes you've got dudes got a magic ring on and i can't walk by this
+
+1396
+02:39:51,579 --> 02:40:27,750
+i had the ring on for too long all right so i'm gonna say throw and then climb up or jump or
+
+1397
+02:40:29,030 --> 02:40:35,500
+then just get double tapped what about sam over there well go wake up sam
+
+1398
+02:40:36,219 --> 02:40:51,100
+who's lying on the ground over here someone's lying on the ground right here
+
+1399
+02:40:53,110 --> 02:40:57,239
+what if i just don't move
+
+1400
+02:41:07,000 --> 02:41:08,840
+uh did i get grabbed
+
+1401
+02:41:11,670 --> 02:41:13,530
+hit him in the hand
+
+1402
+02:41:13,530 --> 02:41:40,329
+man did you see how big that hitbox is okay what the fuck am i supposed to do
+
+1403
+02:41:44,219 --> 02:41:47,659
+he'll squeeze me in too if you don't stop i can't go anywhere
+
+1404
+02:41:50,620 --> 02:42:15,129
+run around him like what do you mean oh there there's all right i hit his hand
+
+1405
+02:42:24,600 --> 02:42:26,440
+he's got me every time man
+
+1406
+02:42:26,440 --> 02:42:47,479
+i wasn't even close that's not even hitting me
+
+1407
+02:43:23,370 --> 02:43:50,329
+i can't even hurt him use gold pine resin i why can't i hurt him should i just put the ring on
+
+1408
+02:43:50,329 --> 02:43:51,610
+and attack him or something
+
+1409
+02:43:54,809 --> 02:44:00,059
+i'm invisible you can't see me all right so you can't see me so grab him
+
+1410
+02:44:01,079 --> 02:44:28,540
+can i get up here take it off take it off take it off um the most celebrated franchise in all
+
+1411
+02:44:28,540 --> 02:44:39,610
+of human history keep hitting the hand i hit the hand like 20 times and not one point of damage
+
+1412
+02:45:03,530 --> 02:45:12,010
+i can't even imagine can you ever even imagine like playing this i would be if i would cry if i
+
+1413
+02:45:12,010 --> 02:45:17,979
+was if i was a kid don't walk on the holes all right i'm gonna i'm gonna do i need to zoom in
+
+1414
+02:45:17,979 --> 02:45:23,610
+and show you this you guys you gotta check your glasses on this one all right don't step on the
+
+1415
+02:45:23,610 --> 02:45:32,600
+hole sure i won't do that oh that's interesting you want me to zoom in should i zoom into that
+
+1416
+02:45:41,500 --> 02:45:45,420
+let's zoom in let's take a look i just have to get lucky and get flown over here
+
+1417
+02:46:06,180 --> 02:46:12,870
+this is the equivalent of dying to pin bill do you need me to zoom in i'll zoom in stay in the
+
+1418
+02:46:12,870 --> 02:46:37,209
+grass and not the dirt i can't go anywhere i'm fucked i think i have duck it see you see what
+
+1419
+02:46:37,209 --> 02:47:02,200
+i have to do i have to trigger that cut scene so i appear in front of him hit the hand do you need
+
+1420
+02:47:02,200 --> 02:47:10,040
+to zoom in do you need me to zoom in let me zoom in on the hand hit the hand look at the hp bar
+
+1421
+02:47:10,040 --> 02:47:45,719
+you need to zoom in for you hp bar look want to zoom in did i get hit i haven't moved
+
+1422
+02:48:16,739 --> 02:48:19,700
+i missed his hand i don't know in the armpit fuck
+
+1423
+02:48:23,479 --> 02:48:28,409
+i was trying to time it so it was instant frame perfect
+
+1424
+02:48:28,409 --> 02:49:06,860
+so
+
+1425
+02:49:21,340 --> 02:49:34,309
+this is why didn't everybody tell me this was so loud why didn't anybody tell me this was this
+
+1426
+02:49:34,309 --> 02:49:40,020
+loud why didn't you tell me it was that loud nobody told me it was that loud this has been
+
+1427
+02:49:40,020 --> 02:49:53,610
+this is extreme loud that was ridiculous that was horrendous this is not working this is not
+
+1428
+02:49:53,610 --> 02:50:28,090
+how you do it this isn't how you do it oh no there's no way this is this is absolutely not
+
+1429
+02:50:28,090 --> 02:51:01,780
+a chance in hell this is the way you do it no it's not no it's not i can't do this anymore
+
+1430
+02:51:01,780 --> 02:51:35,079
+hit the tree while you're invisible thanks appreciate throw a rock at him in order to
+
+1431
+02:51:35,079 --> 02:51:38,440
+get past his roots without getting hurt then avoid his hands which slam in the ground and
+
+1432
+02:51:38,440 --> 02:51:42,120
+hit his hands with your stick as soon as they touch the ground keep doing this while running
+
+1433
+02:51:42,120 --> 02:51:45,959
+back and forth from side to side while getting knocked to the ground after doing this for a time
+
+1434
+02:51:45,959 --> 02:52:09,190
+tom bobaldi appears and puts old man willow to rest that didn't even come fucking close
+
+1435
+02:52:24,389 --> 02:52:34,020
+this game is so bad this game is so bad this game is very bad this game is very bad
+
+1436
+02:52:35,540 --> 02:52:41,780
+oh no somebody fell off down into the lego well get the helicopter to save lego city
+
+1437
+02:52:42,340 --> 02:52:53,860
+wait hold on where is it we need to get the this is lego city helicopter 22441
+
+1438
+02:52:54,819 --> 02:53:00,260
+we need to land a helicopter down and pick up the guy i got funny fucking voices now
+
+1439
+02:53:00,979 --> 02:53:19,299
+i know like a lot of people cried when they watched lord of the rings and when they when
+
+1440
+02:53:19,299 --> 02:53:24,260
+they read lord of the rings imagine crying to the lord of the rings fellowship of the ring the
+
+1441
+02:53:24,260 --> 02:53:30,280
+video game not because the story is touching you because the tree boss is the worst boss you've
+
+1442
+02:53:30,280 --> 02:53:50,840
+ever played in a video game and it makes you sad childhood ruining okay i have to stop i have no i
+
+1443
+02:53:50,840 --> 02:54:11,430
+don't not yet i broke an arm hold on does it work i threw i didn't even mean to oh my goodness
+
+1444
+02:54:11,989 --> 02:54:25,979
+it's okay i'm gonna sneeze nothing i can do about it hurt my back
+
+1445
+02:54:26,299 --> 02:54:44,969
+i got the strategy here's the winning strategy you ready back up back up that was the winning
+
+1446
+02:54:44,969 --> 02:55:26,940
+strategy be fucking damn it come on closer closer closer wait just don't move no i gotta be a first
+
+1447
+02:55:26,940 --> 02:56:18,840
+person so i trigger it first person come on oh he's baiting me didn't even get hit by anything
+
+1448
+02:56:30,200 --> 02:56:35,319
+didn't even get hit by anything this game i can't believe it i can't believe it
+
+1449
+02:57:10,149 --> 02:57:18,219
+oh my god did anyone beat this when they were younger i don't know if i would be able to if
+
+1450
+02:57:18,219 --> 02:57:22,860
+you're like 12 i don't think you even know how to what to do i think you just get killed like
+
+1451
+02:57:22,860 --> 02:57:53,719
+five times and i don't think anybody does i'll send you money equals my student loan debt if
+
+1452
+02:57:53,719 --> 02:58:21,340
+you stop playing this game hey you student loans don't pay me where did you come from
+
+1453
+02:58:22,780 --> 02:58:28,299
+what's the matter then come now tell me what's your trouble my friends are caught in that willow
+
+1454
+02:58:28,299 --> 02:58:36,229
+tree they're being crushed willow i know they'll chat his marrow cold if he don't behave himself
+
+1455
+02:58:36,229 --> 02:58:44,469
+you let them out again old man willow you should not be waking eat earth drink water
+
+1456
+02:58:44,469 --> 02:58:59,829
+go to sleep bombadil is talking tom bobaldi yes thank you very much well my little fellows
+
+1457
+02:58:59,829 --> 02:59:06,940
+you shall come to the house of tom bombadil where tie questions around the supper table come now
+
+1458
+02:59:06,940 --> 02:59:12,860
+and help tom find lilies for fair lady goldberry after that we shall sit down to a table laden with
+
+1459
+02:59:12,860 --> 02:59:20,340
+cream honeycomb and white bread and butter the sooner we find lilies the sooner we can eat
+
+1460
+02:59:24,809 --> 02:59:29,110
+look at that stride find 12 lilies
+
+1461
+02:59:48,899 --> 02:59:55,590
+okay we're i love this comment okay we're now we're done now please okay we're done
+
+1462
+02:59:55,590 --> 03:00:17,930
+what excuse me excuse me okay they're gonna is he people tom tom turn around
+
+1463
+03:00:18,729 --> 03:00:27,129
+tom tom there's a spider behind you tom look behind you quick oh no he has ear pods in he
+
+1464
+03:00:27,129 --> 03:00:49,450
+can't hear us okay where did these all come from what the fuck i have to find 12 lilies oh boy oh
+
+1465
+03:00:49,850 --> 03:00:58,170
+boy i don't know if we'll be doing this one how many others is one here no jesus jesus christ
+
+1466
+03:00:58,729 --> 03:01:15,719
+why is the entire hive coming after us what okay i feel like i'm playing like dragon age
+
+1467
+03:01:16,520 --> 03:01:40,729
+this is just dog shit dragon age with no pause we did it nice job guys you did a great job
+
+1468
+03:01:40,729 --> 03:02:06,700
+quick turn it off turn it off turn it off turn it off um i'll read a bedtime story if you stop
+
+1469
+03:02:07,579 --> 03:02:18,059
+how am i gonna hear it this shouldn't be too hard joe got rejected for this
+
+1470
+03:02:18,860 --> 03:02:39,780
+no we just got we're gonna do it on another day what is that good thing i'm wearing a diaper
+
+1471
+03:02:40,420 --> 03:03:09,930
+i don't know whose clip is this i don't get it well how many do i need come on i need my dragon
+
+1472
+03:03:09,930 --> 03:03:20,680
+age friends or actually you know how this is more accurate you're playing an mmo you're really
+
+1473
+03:03:20,680 --> 03:03:25,079
+desperately trying to play an mmo with three of your friends who just made new characters
+
+1474
+03:03:25,879 --> 03:03:30,819
+and they don't know a goddamn thing about the fucking game and they're just watching you
+
+1475
+03:03:30,819 --> 03:03:40,920
+destroy everything and they are just following you around yeah it's over here did you guys how
+
+1476
+03:03:40,920 --> 03:03:47,799
+many you guys have i have two oh i have all of them already oh i'm not gonna say that though how
+
+1477
+03:03:47,799 --> 03:03:53,799
+many do you have three what about you four okay cool i have all 12 um i think i saw some more
+
+1478
+03:03:53,799 --> 03:04:01,530
+over here yeah i i have six i i'm still i have so hard to find them you know over here come
+
+1479
+03:04:01,530 --> 03:04:14,790
+over this way i think this i'm over here and you got that one friend that just keeps casting the
+
+1480
+03:04:14,790 --> 03:04:23,319
+same buff and they're the healer it's like you've been buffed you had 58 minutes remaining from 60
+
+1481
+03:04:23,319 --> 03:04:30,920
+minutes like oh that's not the heal you're doing the wrong button but i'm not gonna say anything
+
+1482
+03:04:40,090 --> 03:04:47,379
+you get the one friend that dies in every fight every single fight and thank god that you decided
+
+1483
+03:04:47,379 --> 03:04:51,700
+that you were going to play a character with a rez because if you didn't you would not be playing
+
+1484
+03:04:51,700 --> 03:05:03,430
+with these friends without a doubt in your mind if you don't play a character that can take care
+
+1485
+03:05:03,430 --> 03:05:19,510
+of everybody you ain't playing your auto voice and your stupid voice are the same you implying
+
+1486
+03:05:19,510 --> 03:05:36,969
+that auto is stupid no i'm implying that auto is a dog the worst part about playing uh mmos
+
+1487
+03:05:36,969 --> 03:05:44,440
+especially with people that don't really care is a lot of people just don't get it and a lot of
+
+1488
+03:05:44,440 --> 03:05:49,819
+your friends will treat an mmo like they're playing a game of madden all right let's go
+
+1489
+03:05:49,819 --> 03:05:58,069
+let's say let's go on a quest 30 minutes goes by all right that's kind of fun i gotta go though
+
+1490
+03:05:59,639 --> 03:06:07,379
+okay yeah um that's not you can't really play for 30 minute you we just did one quest and
+
+1491
+03:06:08,180 --> 03:06:11,299
+i'm gonna like over level the fuck out of you if you log off right now
+
+1492
+03:06:12,020 --> 03:06:23,940
+what's the i just gotta sell my stuff and then leave fuck when he logs back on i'm gonna be
+
+1493
+03:06:23,940 --> 03:06:29,459
+like 20 fucking levels higher than him so what you do is you make another character you make an alt
+
+1494
+03:06:29,459 --> 03:06:36,409
+for your alt so you can continue to play and then pretend like you didn't play and log on the other
+
+1495
+03:06:36,409 --> 03:06:44,059
+character that your friend was playing with and then eventually that second character you made
+
+1496
+03:06:44,059 --> 03:06:52,500
+becomes your main character and your friend never plays again past level 12 and you knew that was
+
+1497
+03:06:52,500 --> 03:07:10,860
+gonna happen you knew it but you tried anyway animation is so brutal all right how many more
+
+1498
+03:07:10,860 --> 03:07:19,079
+do i need i don't even know how many i have i've okay nine ten eleven twelve three more
+
+1499
+03:07:25,690 --> 03:07:40,889
+two come on damn it did i miss some you had to count to 12 we want bugleberry we want bugleberry
+
+1500
+03:07:40,889 --> 03:07:54,069
+we want bugleberry one person wants bugleberry and they really really want it no one wants that
+
+1501
+03:07:54,790 --> 03:08:02,489
+really that don't matter you're gonna like bugleberries gonna return i'm gonna put
+
+1502
+03:08:02,489 --> 03:08:20,600
+him in as many fucking things as i can all right come on let's go where are you guys get over here
+
+1503
+03:08:20,600 --> 03:08:29,989
+where are they they're gonna get up they're not even gonna get uh they're not gonna be in
+
+1504
+03:08:29,989 --> 03:08:58,090
+range for the kills they're turning their quests in all right here they are three more come on
+
+1505
+03:08:58,090 --> 03:09:12,840
+please dude why'd you go back to town he only finished quest one out of five yeah you can't
+
+1506
+03:09:12,840 --> 03:09:19,479
+you go to this person you go to this person's house this is the best part so you eventually
+
+1507
+03:09:19,479 --> 03:09:26,600
+go to this friend's house and they are on hey i'm playing wow cool i'm playing final fantasy
+
+1508
+03:09:26,600 --> 03:09:33,479
+whatever i'm playing um whatever game and you open up their log their quest log and they have
+
+1509
+03:09:34,459 --> 03:09:44,389
+like 20 or like 18 gray ass quests that they never got rid of and you're sitting there going
+
+1510
+03:09:44,389 --> 03:09:57,829
+oh man he just has no idea they could be level 40 and they have a full log book of shit from
+
+1511
+03:09:58,389 --> 03:10:06,280
+the level 10 zone and you go in there and you delete them you delete them for them don't think
+
+1512
+03:10:06,440 --> 03:10:11,719
+they don't need to know just delete delete stop tracking stop tracking stop tracking
+
+1513
+03:10:11,719 --> 03:10:29,819
+start delete delete delete delete well i found you there is for the fair river let's go to meter
+
+1514
+03:10:29,819 --> 03:10:48,299
+okay i did it they were doing them for the lord no they definitely were not how long is this game
+
+1515
+03:10:48,780 --> 03:10:59,579
+come dear folk laugh and be merry the river here's my gold berry you are still afraid perhaps
+
+1516
+03:11:04,139 --> 03:11:15,379
+hold on this game is only five hours long are you serious it's the only answer for who are
+
+1517
+03:11:15,379 --> 03:11:23,670
+your name but you were young and i'm not gonna beat it i'm just saying that's i thought it was
+
+1518
+03:11:23,670 --> 03:11:32,629
+gonna be longer than that tom remembers the first raindrop to big people he was here before
+
+1519
+03:11:32,629 --> 03:11:38,149
+speaking of world of war crap that is before the elf that is a default and before the seas were
+
+1520
+03:11:38,149 --> 03:11:49,819
+mage like level two green lord that she's wearing actually is i'm sorry i'm on that now it is time
+
+1521
+03:11:49,819 --> 03:11:56,219
+for our stop making wild ref we ate our first good meal in a long time singing songs and telling
+
+1522
+03:11:56,219 --> 03:12:00,459
+tales until late in the night we slept peacefully and were refreshed enough to
+
+1523
+03:12:00,459 --> 03:12:06,459
+continue our journey keep to the green glass it's my brain don't go meddling with all stone
+
+1524
+03:12:06,459 --> 03:12:11,260
+or prying into the houses of all dead barrowites is this kind of hobbit or dwarf or
+
+1525
+03:12:30,649 --> 03:12:34,010
+thank you tom bombadil speed now fair guests
+
+1526
+03:12:34,250 --> 03:12:40,569
+south wind in the left eye and a blessing on your footsteps make haste while the sun shines
+
+1527
+03:12:40,569 --> 03:12:46,250
+farewell friends it was a merry meeting okay can we please play as aragon
+
+1528
+03:12:57,690 --> 03:13:11,659
+take the ring to rivendell okay let's go hi guys rivendell is this the road to rivendell
+
+1529
+03:13:12,219 --> 03:13:17,270
+i don't know save it holy shit you're right i haven't saved it a long ass time
+
+1530
+03:13:18,549 --> 03:13:33,159
+you are absolutely a thousand percent correct you should shred this game no i can't do that i can't
+
+1531
+03:13:33,159 --> 03:13:55,020
+do that don't tell him to save it makes him more invested whoever keeps telling him to save there
+
+1532
+03:13:55,020 --> 03:14:09,850
+is a special place in hell for you god jesus big dog big dog here we go all right the next area
+
+1533
+03:14:09,850 --> 03:14:25,899
+i'm done i promise i beat the first area i get to win i swear to god i promise this next area i'm
+
+1534
+03:14:25,899 --> 03:14:37,379
+done with lord of the rings fellowship of the ring but aragon is next i don't think that's i'm
+
+1535
+03:14:37,379 --> 03:14:53,510
+gonna die you have to beat this no nobody really actually wants me to do that i know it for a fact
+
+1536
+03:14:54,309 --> 03:15:07,379
+i know it for a fact this is a chill game you know somebody just said this it is strangely
+
+1537
+03:15:07,379 --> 03:15:10,899
+intriguing and it is like oddly calming to be playing this and just hanging out
+
+1538
+03:15:12,020 --> 03:15:16,979
+play a good lord of the rings game i have all of them i have two towers i have return of the king
+
+1539
+03:15:21,000 --> 03:15:29,620
+have them both go to get just play two towers now but we don't know the story
+
+1540
+03:15:29,620 --> 03:15:45,690
+i'm as cautious about this place what about the hobbit game no far from the main road by my
+
+1541
+03:15:45,690 --> 03:15:51,690
+reckoning splendid if we keep this pace we'll leave the barrow downs by sunset tomorrow not
+
+1542
+03:15:51,690 --> 03:15:57,450
+soon enough for my liking i don't trust what's hiding in the fog on the barrel downs you don't
+
+1543
+03:15:57,450 --> 03:16:04,809
+believe stories about all dead barrel whites not until today but tom said otherwise tom is the only
+
+1544
+03:16:05,290 --> 03:16:10,250
+was there ever a tv show for lord of the rings he was here i'm surprised the answer is no
+
+1545
+03:16:10,250 --> 03:16:16,729
+from outside outside what i wonder and whatever did he mean by eldest and why didn't he serve a
+
+1546
+03:16:16,729 --> 03:16:23,049
+cartoon i could see a cartoon sausages i don't like spending the night among these burial stones
+
+1547
+03:16:23,049 --> 03:16:27,610
+they look like giant teeth coming up from the ground if half the stories i've heard about
+
+1548
+03:16:27,610 --> 03:16:33,049
+the barrel downs are true we'll need to keep a careful watch enough storytelling let's get to
+
+1549
+03:16:33,049 --> 03:16:47,030
+sleep sam mary pippen no i don't i don't want to go fetch i don't want to go fetch where could they
+
+1550
+03:16:47,030 --> 03:16:54,229
+be we already did this mary anyone you've already done this i've already done this where are you
+
+1551
+03:16:54,229 --> 03:17:05,850
+all right that's it that's it that's it i'm gonna put the game that's it i'm putting the game you
+
+1552
+03:17:05,850 --> 03:17:10,420
+said you were done and then when you got to a new area i know i'm putting the game i'm done i'm done
+
+1553
+03:17:10,420 --> 03:17:18,620
+i'm done i'm done i'm done i'm done i'm done i'm done i'm done i'm done i did it i did it i'm done
+
+1554
+03:17:21,930 --> 03:17:28,629
+i did i'm done i did it i'm already done i'm not even playing right now this is one of those
+
+1555
+03:17:28,629 --> 03:17:31,989
+games where if you don't you stop playing for too long mario just like starts doing weird
+
+1556
+03:17:31,989 --> 03:17:48,379
+animations and shit i'm not doing this um i don't have no idea where i'm going double or nothing
+
+1557
+03:17:48,379 --> 03:17:55,850
+that's no that's not how this works no no no i'm done i'm done i'm done i'm done i'm done
+
+1558
+03:17:55,850 --> 03:18:12,409
+that's it i'm done i'm done i just left him fuck him bye still alive i did what i came to do
+
+1559
+03:18:19,959 --> 03:18:33,319
+what's next just in case i ever decide to come back i might i might decide to come back one day
+
+1560
+03:18:41,420 --> 03:18:48,329
+he did not beat it that's the that was the first part the first part was after the ring uh ring
+
+1561
+03:18:48,329 --> 03:18:57,979
+rates all right that was cool all right what do i want to do for the time being let's quit
+
+1562
+03:18:57,979 --> 03:19:00,940
+let's get this out of here all right give me one i'm gonna you know it's been a few hours let me
+
+1563
+03:19:00,940 --> 03:19:03,899
+go pee i'll be right back we'll figure out what we're gonna do be right back

@@ -1,0 +1,247 @@
+1
+00:00:00,310 --> 00:00:20,760
+Hey, what is going on, everybody? Turma here with a Team Fortress 2 gameplay commentary, and tonight I'm gonna be playing as the Spy with the Ambassador, the Kunai, and the Dead Ringer.
+
+2
+00:00:20,760 --> 00:00:27,059
+My typical Spy setup, a lot of you guys know that. This video is going to discuss the Spy.
+
+3
+00:00:27,059 --> 00:00:33,060
+It's gonna be kind of a casual commentary, I'm gonna sit back and talk about things, relax, drink a few Dr. Peppers, you know, crack one open.
+
+4
+00:00:33,060 --> 00:00:38,060
+If I had one, I would, but I have one already open, so that joke does not exist because I can't make it.
+
+5
+00:00:38,060 --> 00:00:44,429
+But I want to talk about the old Spy. Those of you that will remember, and I don't know why I thought about this.
+
+6
+00:00:44,429 --> 00:00:51,429
+When I was getting this gameplay, I thought about it because there's a couple of instances where my knife comes down really quickly and I was like, you know what?
+
+7
+00:00:51,429 --> 00:01:02,090
+Wasn't there a time when the Spy didn't have that? And there wasn't. For those of you that do not know, the Spy's backstab animation never was like this.
+
+8
+00:01:02,090 --> 00:01:06,090
+It was never this quick a few years ago. Actually, it was probably more than that.
+
+9
+00:01:06,090 --> 00:01:11,090
+But it was when the game came out. When the game came out, and maybe for like six, seven, eight months after the game came out,
+
+10
+00:01:11,090 --> 00:01:18,459
+the backstab animation took almost a full second to complete. You brought the knife up, and then you brought the knife down.
+
+11
+00:01:18,459 --> 00:01:24,459
+It was kind of slow in comparison to what it is right now, where it's almost a quarter of a second when you stab somebody.
+
+12
+00:01:25,459 --> 00:01:33,459
+It was much longer than that. I'm going to put a link in the description here of what it looks like compared to what it looks like now.
+
+13
+00:01:33,459 --> 00:01:42,079
+I'm old. Seriously. I thought about this, and this change happened when I was in college.
+
+14
+00:01:42,079 --> 00:01:47,079
+It's almost four or five years ago now that this change was made.
+
+15
+00:01:47,079 --> 00:01:52,319
+I remember sitting in my college dormitory and being like, oh wow, they changed the backstab animation.
+
+16
+00:01:52,319 --> 00:01:59,989
+I'm young and fun and young and good looking. Fast forward a little bit. I'm an old shithead.
+
+17
+00:01:59,989 --> 00:02:06,989
+I'm just sitting here drinking Dr. Pepper's five years later. I really can't even believe that it's been five years since that change.
+
+18
+00:02:06,989 --> 00:02:13,990
+This is also kind of around the time when they added the compression blast to the Pyro, because the Pyro never had the compression blast.
+
+19
+00:02:13,990 --> 00:02:20,419
+I'm just going through all these changes in my head and thinking to myself, if you were to tell me when I was in college,
+
+20
+00:02:20,419 --> 00:02:24,919
+all this stuff is going to be hats. There's going to be new backstab animations.
+
+21
+00:02:24,919 --> 00:02:27,919
+Pyro's going to have a thing that knocks people away with this compression blast.
+
+22
+00:02:27,919 --> 00:02:31,159
+If you told me all this stuff, I would say, what the hell are you talking about?
+
+23
+00:02:31,159 --> 00:02:36,159
+TF2 is just like a fun multiplayer game that I play online sometimes.
+
+24
+00:02:36,159 --> 00:02:46,159
+I would have never believed that this would have turned into the TF2 Hat Combat Simulation Virtual Reality Burger Boy 2012 Emperor of Earth.
+
+25
+00:02:46,159 --> 00:02:48,159
+I would never have been able to guess that.
+
+26
+00:02:48,159 --> 00:02:53,849
+So what's the point here? Why did I make this video? What's the point of me making this video?
+
+27
+00:02:53,849 --> 00:03:06,129
+The point is, from right now, July 22nd, 2013, where is this game going to be five years from now?
+
+28
+00:03:06,129 --> 00:03:16,610
+In 2018, if TF2 still has an active community, if they're still making updates, or if TF3 comes out, what the hell are they going to do?
+
+29
+00:03:16,610 --> 00:03:20,610
+How are they going to change this game even more than they already have drastically done it?
+
+30
+00:03:20,610 --> 00:03:26,610
+And I don't think anyone will ever be able to foresee it, because nobody could foresee that there was going to be a hat economy.
+
+31
+00:03:26,610 --> 00:03:32,610
+Who the hell knew that was going to happen? Who in their right mind could have ever said that TF2 was going to have a hat economy?
+
+32
+00:03:32,610 --> 00:03:37,039
+What? What are you talking about?
+
+33
+00:03:37,039 --> 00:03:40,039
+And it interests me for a very specific reason.
+
+34
+00:03:40,039 --> 00:03:43,280
+It's because when you get older and you look back at the games that you've been playing,
+
+35
+00:03:43,280 --> 00:03:48,280
+and you look back at the games that have been out for a very long time, that have undergone huge, drastic changes,
+
+36
+00:03:48,280 --> 00:03:52,949
+and you can remember back to when the game was completely different,
+
+37
+00:03:52,949 --> 00:03:56,949
+it's kind of sad and kind of a little depressing, but it's cool at the same time,
+
+38
+00:03:56,949 --> 00:04:01,949
+because you get to see from the beginning of a game's life to where it's currently standing,
+
+39
+00:04:01,949 --> 00:04:06,949
+and you get to see all the changes, all the things that happened, and it sort of reminds me,
+
+40
+00:04:06,949 --> 00:04:10,949
+now we're going a little bit deeper here, but the console generations.
+
+41
+00:04:10,949 --> 00:04:15,949
+I've been alive long enough to see all the console generations,
+
+42
+00:04:15,949 --> 00:04:23,949
+all the way back from the Atari almost, the regular Nintendo, the whole Super Nintendo, N64, PlayStation 1,
+
+43
+00:04:23,949 --> 00:04:27,949
+all those generational changes. I've seen everything.
+
+44
+00:04:27,949 --> 00:04:36,509
+And it's crazy to think about Team Fortress 2 has gone through just about one and a half console generations.
+
+45
+00:04:36,509 --> 00:04:42,509
+I mean, it started during the midst of the Xbox 360 and the PS3, the prime of those two consoles,
+
+46
+00:04:42,509 --> 00:04:46,509
+2006, 2007, everybody had one, everyone was using one,
+
+47
+00:04:46,509 --> 00:04:52,509
+and we're going to go into the Xbox One and the PS4, and TF2 is still here, still actively played.
+
+48
+00:04:52,509 --> 00:04:58,509
+So it's done its own, in quotes, console generational leaps, if that makes any sense.
+
+49
+00:04:58,509 --> 00:05:03,750
+And I truly do wonder if TF2 eventually, if there is no TF3,
+
+50
+00:05:03,750 --> 00:05:10,750
+if they will do some type of source 2.0 port, because I'm sure a lot of you guys know the source engine,
+
+51
+00:05:10,750 --> 00:05:13,750
+the new source engine is currently being worked on.
+
+52
+00:05:13,750 --> 00:05:18,750
+So a world where we would see maybe another generational jump for this game, Team Fortress 2,
+
+53
+00:05:18,750 --> 00:05:23,750
+is a complete graphical reworking or a port to the new source engine.
+
+54
+00:05:23,750 --> 00:05:27,750
+I don't know if that's going to happen. It's obviously just wishful thinking at this point,
+
+55
+00:05:27,750 --> 00:05:29,750
+because who knows what Valve's going to do with this game.
+
+56
+00:05:29,750 --> 00:05:32,750
+Nobody knows, but that's really where I want to take this video.
+
+57
+00:05:32,750 --> 00:05:34,750
+I just want to wrap it up here, guys.
+
+58
+00:05:34,750 --> 00:05:37,750
+A quick little casual commentary about the spy and then transitioning,
+
+59
+00:05:37,750 --> 00:05:42,750
+kind of going off on a tangent about consoles and stuff, but that's going to wrap it up here.
+
+60
+00:05:42,750 --> 00:05:45,750
+I'll see you guys all next time. Thank you all so much for watching.
+
+61
+00:05:45,750 --> 00:05:47,750
+I really do appreciate it, and I'll see you guys all next time.
+
+62
+00:05:47,750 --> 00:05:50,750
+And of course, take care, everybody.

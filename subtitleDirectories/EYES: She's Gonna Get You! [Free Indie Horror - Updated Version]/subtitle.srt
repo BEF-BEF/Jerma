@@ -1,0 +1,823 @@
+1
+00:00:00,310 --> 00:00:12,580
+Hey, what is going on, everybody? Jerma here with Scare Saturdays.
+
+2
+00:00:12,580 --> 00:00:17,780
+Tonight, we're gonna be playing a game called Eyes, which is a pretty intense game.
+
+3
+00:00:17,780 --> 00:00:25,280
+It's one of those games that I can put in the same category as Slender, where you're being constantly pursued by a monster.
+
+4
+00:00:25,280 --> 00:00:29,280
+But you can actually see through the eyes of the monster that is chasing you.
+
+5
+00:00:29,280 --> 00:00:34,479
+It's a feature in the game, and it makes things a lot more ridiculous, as you could say.
+
+6
+00:00:34,579 --> 00:00:37,880
+But anyways, two things, very important things before the video gets started.
+
+7
+00:00:37,880 --> 00:00:42,679
+One, I'm changing Scare Saturdays to every week, to every other week.
+
+8
+00:00:42,679 --> 00:00:47,079
+So you can expect Scare Saturdays not next Saturday, but the Saturday after that.
+
+9
+00:00:47,079 --> 00:00:52,280
+I want to give myself time to prepare these videos and to get some good scary games.
+
+10
+00:00:52,280 --> 00:00:55,579
+Maybe go back and revisit some of the scarier ones I played in the past.
+
+11
+00:00:55,579 --> 00:00:59,880
+But I want to give myself some time to get these videos at the highest quality they could be.
+
+12
+00:00:59,880 --> 00:01:04,379
+And the second thing I want to say is I scream pretty damn loudly in this video.
+
+13
+00:01:04,480 --> 00:01:05,980
+So just be prepared for that.
+
+14
+00:01:05,980 --> 00:01:09,180
+If you have like a heart condition, then this is a warning.
+
+15
+00:01:09,180 --> 00:01:11,950
+Warning! Scary stuff ahead!
+
+16
+00:01:13,150 --> 00:01:17,120
+Let's go ahead and start this, huh?
+
+17
+00:01:17,120 --> 00:01:18,719
+Something that I just noticed.
+
+18
+00:01:18,719 --> 00:01:23,819
+This is actually on the various app stores for iOS and for Android.
+
+19
+00:01:23,819 --> 00:01:29,920
+And I think it's $1, but it's completely free on the PC, or Mac, or Linux, whatever you happen to be using.
+
+20
+00:01:29,920 --> 00:01:35,129
+Just letting you know if you want to scare the hell out of yourself on an iPad, you can do that with this game.
+
+21
+00:01:35,129 --> 00:01:36,859
+So let's do it.
+
+22
+00:01:36,859 --> 00:01:39,599
+Just want to talk about this break-in business.
+
+23
+00:01:39,599 --> 00:01:41,340
+Already checked it for you.
+
+24
+00:01:41,340 --> 00:01:42,640
+You could get at least 20...
+
+25
+00:01:42,640 --> 00:01:45,209
+Who is talking right now?
+
+26
+00:01:45,209 --> 00:01:48,310
+Hold on, what conversation is going on?
+
+27
+00:01:48,310 --> 00:01:53,730
+Oh, okay, the green is not me.
+
+28
+00:01:53,730 --> 00:01:57,230
+All right, so I'm going for a break-in.
+
+29
+00:01:57,230 --> 00:01:57,930
+Level normal.
+
+30
+00:01:57,930 --> 00:02:01,829
+Find at least 20 money bags, then get back to the exit.
+
+31
+00:02:01,829 --> 00:02:05,629
+Hide and or run from threats.
+
+32
+00:02:05,629 --> 00:02:07,230
+Preserve your stamina for dire situations.
+
+33
+00:02:07,230 --> 00:02:11,099
+Use a map and eyes to move safely.
+
+34
+00:02:11,099 --> 00:02:14,849
+Okay, let's do it.
+
+35
+00:02:17,590 --> 00:02:19,090
+Okay, WASD is move.
+
+36
+00:02:19,090 --> 00:02:23,590
+Wow, these are really wonky, awkward controls.
+
+37
+00:02:23,590 --> 00:02:24,789
+All right, let's get the money bags.
+
+38
+00:02:24,789 --> 00:02:27,080
+Let's like find the Monopoly man.
+
+39
+00:02:27,080 --> 00:02:28,280
+Can I turn this TV on?
+
+40
+00:02:28,280 --> 00:02:34,599
+Okay, whatever.
+
+41
+00:02:34,599 --> 00:02:36,669
+Whatever.
+
+42
+00:02:36,669 --> 00:02:40,289
+Let's see, money bag in here.
+
+43
+00:02:40,289 --> 00:02:42,979
+Push the door to open.
+
+44
+00:02:42,979 --> 00:02:44,379
+M is map.
+
+45
+00:02:44,379 --> 00:02:46,180
+That's a pretty crude map.
+
+46
+00:02:46,180 --> 00:02:52,039
+Oh hey, here's like my little kid's drawing of what it looks like.
+
+47
+00:02:52,039 --> 00:02:53,840
+The mouse is kind of weird too.
+
+48
+00:02:53,840 --> 00:02:57,550
+Oh, okay, so that's what the bags of money look like.
+
+49
+00:02:57,550 --> 00:03:00,449
+Don't even tell me this game is like Slender, where the more bags you collect,
+
+50
+00:03:00,449 --> 00:03:02,750
+like she just chases you around the house.
+
+51
+00:03:02,750 --> 00:03:04,250
+Because I know it's a she.
+
+52
+00:03:04,250 --> 00:03:06,300
+That's what I've read.
+
+53
+00:03:06,300 --> 00:03:07,500
+All right, that's the bag from that room.
+
+54
+00:03:07,500 --> 00:03:09,300
+Let's go.
+
+55
+00:03:09,300 --> 00:03:11,840
+Push to open.
+
+56
+00:03:11,840 --> 00:03:15,870
+What, you just like walk into the door?
+
+57
+00:03:15,870 --> 00:03:18,270
+Why is like grandpa on the wall?
+
+58
+00:03:18,270 --> 00:03:19,870
+Yes, I'm very mad today.
+
+59
+00:03:19,870 --> 00:03:21,370
+This is like a bad...
+
+60
+00:03:21,370 --> 00:03:23,969
+I'm pissed at the person that's a photographer.
+
+61
+00:03:23,969 --> 00:03:26,139
+Fuck you.
+
+62
+00:03:26,139 --> 00:03:29,840
+There's even an older guy.
+
+63
+00:03:29,840 --> 00:03:30,539
+This is awesome.
+
+64
+00:03:30,539 --> 00:03:33,699
+Look at these two old-time son of a bitches.
+
+65
+00:03:33,699 --> 00:03:35,139
+Any more pictures?
+
+66
+00:03:35,139 --> 00:03:36,610
+That's like Hitler.
+
+67
+00:03:36,610 --> 00:03:39,199
+It's weird.
+
+68
+00:03:39,199 --> 00:03:41,389
+Let's go.
+
+69
+00:03:41,389 --> 00:03:44,169
+So you just push your face into doors to open them.
+
+70
+00:03:44,169 --> 00:03:51,449
+Okay, sounds about right.
+
+71
+00:03:51,449 --> 00:03:53,620
+I'm so confused.
+
+72
+00:03:53,620 --> 00:03:56,729
+My field of view is so small.
+
+73
+00:03:56,729 --> 00:03:58,520
+Basement key.
+
+74
+00:03:58,520 --> 00:04:00,740
+Any money bags in here?
+
+75
+00:04:00,740 --> 00:04:04,800
+Ah, 220.
+
+76
+00:04:04,800 --> 00:04:06,599
+Ooh, there's two money bags.
+
+77
+00:04:06,599 --> 00:04:07,599
+Ooh, money.
+
+78
+00:04:07,599 --> 00:04:12,569
+That's good.
+
+79
+00:04:12,569 --> 00:04:14,770
+Can I turn my flashlight off and on or does it have a battery
+
+80
+00:04:14,770 --> 00:04:17,600
+or is it just the way it is?
+
+81
+00:04:17,600 --> 00:04:21,069
+Whatever.
+
+82
+00:04:21,069 --> 00:04:22,069
+Don't walk under the ladder.
+
+83
+00:04:22,069 --> 00:04:28,029
+That's like seven years bad luck.
+
+84
+00:04:28,029 --> 00:04:28,529
+I don't want to like...
+
+85
+00:04:28,529 --> 00:04:33,449
+Can I walk in the attic or something?
+
+86
+00:04:33,449 --> 00:04:33,850
+What?
+
+87
+00:04:33,850 --> 00:04:35,449
+I don't understand what's going on.
+
+88
+00:04:35,449 --> 00:04:36,350
+I don't understand what's going...
+
+89
+00:04:36,350 --> 00:04:36,649
+Run!
+
+90
+00:04:36,649 --> 00:04:37,550
+What do you mean run?
+
+91
+00:04:37,550 --> 00:04:39,149
+Where am I running to?
+
+92
+00:04:39,149 --> 00:04:39,649
+Ah!
+
+93
+00:04:39,649 --> 00:04:40,750
+Jesus!
+
+94
+00:04:40,750 --> 00:04:48,769
+Bruised!
+
+95
+00:04:48,769 --> 00:04:53,180
+Oh!
+
+96
+00:04:53,180 --> 00:04:54,180
+I don't even know where I am.
+
+97
+00:04:54,180 --> 00:04:57,769
+What time zone am I in?
+
+98
+00:04:57,769 --> 00:05:04,930
+Holy shit.
+
+99
+00:05:04,930 --> 00:05:09,480
+I don't even know if I want to play this again.
+
+100
+00:05:09,480 --> 00:05:12,480
+I really don't know if I want to play this again.
+
+101
+00:05:12,480 --> 00:05:14,779
+So when it says run, where am I supposed to just run away?
+
+102
+00:05:14,779 --> 00:05:18,100
+There was nowhere for me to go.
+
+103
+00:05:18,100 --> 00:05:23,170
+There was seriously nowhere for me to go right there.
+
+104
+00:05:23,170 --> 00:05:23,870
+Do I...
+
+105
+00:05:23,870 --> 00:05:25,370
+How do I hide?
+
+106
+00:05:26,589 --> 00:05:27,889
+Oh my God!
+
+107
+00:05:27,889 --> 00:05:31,709
+Oh my God, what do I do?
+
+108
+00:05:31,709 --> 00:05:35,500
+What are the controls?
+
+109
+00:05:35,500 --> 00:05:38,920
+Oh my God, this is horrible.
+
+110
+00:05:38,920 --> 00:05:44,230
+Is there a way to turn the flashlight off and just hide?
+
+111
+00:05:44,230 --> 00:05:47,620
+I don't even want to go out this door.
+
+112
+00:05:55,899 --> 00:05:57,100
+I don't even know where I'm going.
+
+113
+00:05:57,100 --> 00:05:59,339
+I only got like one bag of money.
+
+114
+00:05:59,339 --> 00:06:01,240
+You got to get 20 bags.
+
+115
+00:06:01,240 --> 00:06:03,060
+What is this thing?
+
+116
+00:06:03,060 --> 00:06:06,410
+Press Q to see.
+
+117
+00:06:06,410 --> 00:06:06,709
+Hold on.
+
+118
+00:06:06,709 --> 00:06:07,209
+This is the...
+
+119
+00:06:07,209 --> 00:06:08,709
+This is the monster's sight.
+
+120
+00:06:08,709 --> 00:06:11,189
+I can see where the monster...
+
+121
+00:06:11,189 --> 00:06:12,589
+That's one of the most terrifying things ever.
+
+122
+00:06:12,589 --> 00:06:13,589
+I don't even know where that was.
+
+123
+00:06:13,589 --> 00:06:15,730
+I'm so lost.
+
+124
+00:06:15,730 --> 00:06:20,540
+I'm so lost.
+
+125
+00:06:20,540 --> 00:06:21,139
+I haven't found...
+
+126
+00:06:21,139 --> 00:06:23,800
+Have I found like one bag?
+
+127
+00:06:25,300 --> 00:06:26,500
+Where's the money?
+
+128
+00:06:26,500 --> 00:06:27,500
+This is the worst break-in.
+
+129
+00:06:27,500 --> 00:06:30,579
+This is the worst robbery idea ever.
+
+130
+00:06:30,579 --> 00:06:32,750
+One, one, one, one.
+
+131
+00:06:32,750 --> 00:06:33,149
+For the same...
+
+132
+00:06:33,149 --> 00:06:35,750
+That's a pretty easy combination.
+
+133
+00:06:35,750 --> 00:06:36,449
+Give me that bag.
+
+134
+00:06:36,449 --> 00:06:38,860
+All right, I got two bags.
+
+135
+00:06:38,860 --> 00:06:45,220
+Three bags.
+
+136
+00:06:45,220 --> 00:06:46,519
+Everything's starting to shake.
+
+137
+00:06:46,519 --> 00:06:52,649
+That means she's somewhere.
+
+138
+00:06:52,649 --> 00:06:53,550
+Jesus!
+
+139
+00:06:53,550 --> 00:07:01,230
+Mother Mary!
+
+140
+00:07:01,230 --> 00:07:03,029
+I am not doing very much commentary right now
+
+141
+00:07:03,129 --> 00:07:07,129
+because I am genuinely terrified.
+
+142
+00:07:07,129 --> 00:07:11,100
+Okay, that means she's around.
+
+143
+00:07:11,100 --> 00:07:11,699
+I don't even know where to go.
+
+144
+00:07:11,699 --> 00:07:14,899
+Go, just run up this way.
+
+145
+00:07:14,899 --> 00:07:18,189
+Where is she?
+
+146
+00:07:18,189 --> 00:07:21,839
+I don't even know where that is.
+
+147
+00:07:21,839 --> 00:07:23,670
+Money, here it is.
+
+148
+00:07:23,670 --> 00:07:24,769
+Eight out of 20, eight out of 20.
+
+149
+00:07:24,769 --> 00:07:27,269
+Anything else anymore?
+
+150
+00:07:27,269 --> 00:07:28,769
+We got like George R.R. Martin,
+
+151
+00:07:28,769 --> 00:07:38,540
+the guy that wrote Song of Ice and Fire.
+
+152
+00:07:38,540 --> 00:07:39,980
+Don't blow it.
+
+153
+00:07:39,980 --> 00:07:45,290
+Halfway there, halfway there, halfway there.
+
+154
+00:07:45,290 --> 00:08:02,399
+I don't know what direction I should be going in.
+
+155
+00:08:02,399 --> 00:08:03,600
+No, no, no.
+
+156
+00:08:03,600 --> 00:08:04,199
+I don't know where she is.
+
+157
+00:08:04,199 --> 00:08:04,699
+I don't know.
+
+158
+00:08:04,699 --> 00:08:05,199
+I don't know.
+
+159
+00:08:05,199 --> 00:08:05,699
+I don't know.
+
+160
+00:08:05,699 --> 00:08:12,800
+I just don't know.
+
+161
+00:08:12,800 --> 00:08:22,740
+Oh my God.
+
+162
+00:08:22,740 --> 00:08:25,269
+I love how it tells you to run.
+
+163
+00:08:25,269 --> 00:08:26,970
+It tells you to run,
+
+164
+00:08:26,970 --> 00:08:35,639
+but you don't know what direction you should be running in.
+
+165
+00:08:35,639 --> 00:08:37,039
+Third time's a charm.
+
+166
+00:08:37,039 --> 00:08:39,139
+If I don't make it this time,
+
+167
+00:08:39,139 --> 00:08:41,500
+it's over.
+
+168
+00:08:41,500 --> 00:08:46,029
+I did not get a very good look at that.
+
+169
+00:08:46,029 --> 00:08:47,429
+I got a money bag and another thing.
+
+170
+00:08:47,429 --> 00:08:54,500
+You click these things on the wall and then it's Q.
+
+171
+00:08:54,500 --> 00:08:55,200
+Hold on a second.
+
+172
+00:08:55,200 --> 00:08:57,009
+Is she already over here?
+
+173
+00:08:57,009 --> 00:09:07,600
+What if I hide in the corner?
+
+174
+00:09:07,600 --> 00:09:10,110
+Okay, she must be gone.
+
+175
+00:09:10,110 --> 00:09:10,610
+No, she's not.
+
+176
+00:09:10,610 --> 00:09:12,820
+No, she's not gone.
+
+177
+00:09:12,820 --> 00:09:14,399
+God.
+
+178
+00:09:14,399 --> 00:09:16,740
+God damn it.
+
+179
+00:09:16,740 --> 00:09:17,840
+God damn it.
+
+180
+00:09:17,840 --> 00:09:18,840
+God damn it.
+
+181
+00:09:18,840 --> 00:09:19,240
+She can't.
+
+182
+00:09:19,240 --> 00:09:24,549
+She can't.
+
+183
+00:09:24,549 --> 00:09:25,860
+Well, that's it.
+
+184
+00:09:25,860 --> 00:09:26,860
+I'm not going any further.
+
+185
+00:09:26,860 --> 00:09:27,159
+I can't.
+
+186
+00:09:27,159 --> 00:09:29,659
+This is intense and I can't handle it right now.
+
+187
+00:09:29,659 --> 00:09:31,659
+So thank you all so much for watching.
+
+188
+00:09:31,659 --> 00:09:32,360
+I really do appreciate it.
+
+189
+00:09:32,360 --> 00:09:34,860
+This game is again called Eyes.
+
+190
+00:09:34,860 --> 00:09:36,259
+It's on the App Store.
+
+191
+00:09:36,259 --> 00:09:37,159
+It's only a buck.
+
+192
+00:09:37,159 --> 00:09:39,960
+If you want to hand this to one of your friends on like your iPhone,
+
+193
+00:09:39,960 --> 00:09:43,159
+I think it's iPad or actually maybe you can get it on your iPhone.
+
+194
+00:09:43,159 --> 00:09:45,460
+If you want to hand this to one of your friends and say play this game,
+
+195
+00:09:45,460 --> 00:09:46,159
+it's pretty fun.
+
+196
+00:09:46,159 --> 00:09:48,960
+You go and you like collect money.
+
+197
+00:09:48,960 --> 00:09:51,759
+This is one of the first iOS games I've ever heard of that's
+
+198
+00:09:51,860 --> 00:09:54,059
+that actually has been like a true horror game.
+
+199
+00:09:54,059 --> 00:09:58,860
+The only thing I can think of Year Walk was kind of a scary eerie type game.
+
+200
+00:09:58,860 --> 00:09:59,960
+This game is insane.
+
+201
+00:09:59,960 --> 00:10:01,659
+So thank you all so much for watching.
+
+202
+00:10:01,659 --> 00:10:03,360
+That's all I can do.
+
+203
+00:10:03,360 --> 00:10:03,860
+I'm done.
+
+204
+00:10:03,860 --> 00:10:05,259
+Take care everybody.
+
+205
+00:10:05,259 --> 00:10:06,460
+I love you all.
+
+206
+00:10:06,460 --> 00:10:07,460
+Stay safe.

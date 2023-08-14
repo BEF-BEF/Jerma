@@ -1,0 +1,391 @@
+1
+00:00:00,310 --> 00:00:21,059
+Hey, what is going on everybody? Jerma here with a Team Fortress 2 gameplay commentary, and tonight I'm gonna be playing as the Demoman with the half demo night set up with the shield, the surf, and the turf.
+
+2
+00:00:21,059 --> 00:00:26,239
+And this is gonna be a very casual commentary, just gonna bring up a couple of topics like, you know, I do sometimes.
+
+3
+00:00:26,239 --> 00:00:32,240
+And first of all, there's a baby down the hall. My sister and her husband are here for the holiday, so I can't really scream in this video.
+
+4
+00:00:32,240 --> 00:00:39,240
+As much as I want to, you know, I'm in a real screaming mood right now, but I can't do it because there's a baby down the hall, and if I wake it up, then I'm in big trouble.
+
+5
+00:00:39,240 --> 00:00:48,990
+Anyways, the first thing I'm gonna go over, the first thing I'm gonna talk about is the supercomputer that I'm building, the Absolute Beast, the Mammoth, the Monster.
+
+6
+00:00:48,990 --> 00:00:57,729
+I mentioned it like maybe a month or so ago, saying I was gonna build it soon, I was gonna try to get the parts, and that's what I did.
+
+7
+00:00:57,729 --> 00:01:04,730
+I did that this afternoon, this morning, this evening. I don't even know, my brain is scrambled right now, guys, because it's Black Friday.
+
+8
+00:01:04,730 --> 00:01:09,730
+Recording this video, it's like two o'clock in the afternoon, just got back, just bought all this stuff.
+
+9
+00:01:09,730 --> 00:01:15,730
+And if you don't know what Black Friday is, let me just, for all you guys, I'm gonna be in different countries that don't have Black Friday.
+
+10
+00:01:15,730 --> 00:01:24,099
+I think it's starting to spread out even more, but it's an American thing where all the stores, all the major outlet stores, all the electronic stores,
+
+11
+00:01:24,099 --> 00:01:33,099
+pretty much every single store in the United States drops their prices on a bunch of different products by sometimes like 40 to 50% off,
+
+12
+00:01:33,099 --> 00:01:38,099
+and it gets like crazy. There's like fights at the door, there's people screaming at each other,
+
+13
+00:01:38,099 --> 00:01:47,099
+Burger Boy this morning got in like three or four different arguments with people, and it's like, dude, you gotta chill out, there's like 150 people standing around the side here.
+
+14
+00:01:47,099 --> 00:01:52,269
+And it was like really cold, it was like, it was freezing, it was below freezing today in Boston,
+
+15
+00:01:52,269 --> 00:01:56,269
+and we're sitting outside the Micro Center, and there's like hundreds of people lined up at the door.
+
+16
+00:01:56,269 --> 00:02:00,269
+It's just, I don't even know, I don't know why I decided to do my computer shopping today.
+
+17
+00:02:00,269 --> 00:02:06,269
+Well, I do know why, I do know why, because I saved like $1,000 by buying all these parts right now.
+
+18
+00:02:06,269 --> 00:02:12,830
+And it can get kind of nerve wracking, you know, when you're sitting outside the door like that, you always hear these horror stories every year,
+
+19
+00:02:12,830 --> 00:02:22,830
+every single year on Black Friday, like somebody dies, you know, maybe not somebody dies, but something horrible happens to somebody every year.
+
+20
+00:02:22,830 --> 00:02:30,830
+It's like, oh, in Montana, some guy got like run over by a tractor, like this stuff does happen because of how crazy these stores get.
+
+21
+00:02:30,830 --> 00:02:36,139
+But regardless of all of that, I made it out alive, you know, I'm still living.
+
+22
+00:02:36,139 --> 00:02:40,139
+I only got like two computer monitors smashed over my head, so I think I'll survive.
+
+23
+00:02:40,139 --> 00:02:45,310
+No, but the parts that I bought are going to be on the screen right now, if you're curious, if you're wondering what did you get,
+
+24
+00:02:45,310 --> 00:02:50,310
+you know, what graphics card, what motherboard, how much memory, it's all going to be listed right there.
+
+25
+00:02:50,310 --> 00:02:57,310
+So, if I made a mistake, which I probably did, because every time I try to build a computer, I always have to go back and exchange something,
+
+26
+00:02:57,310 --> 00:03:02,310
+because either I didn't like the purchase I made or I messed up some compatibility thing,
+
+27
+00:03:02,310 --> 00:03:06,310
+but I'm pretty sure all these things work together and it should be a pretty beastie PC.
+
+28
+00:03:06,310 --> 00:03:12,310
+And I'm going to show it, I will do a full anatomy of this computer in a vlog or something when I get a chance,
+
+29
+00:03:12,310 --> 00:03:16,310
+so you can see like, oh, like that's the lungs or there's the esophagus, that's the thyroid,
+
+30
+00:03:16,310 --> 00:03:20,939
+like I'll go over all the whole insides of this computer when it's done.
+
+31
+00:03:20,939 --> 00:03:24,939
+So, the second part of this video is going to take a little bit more of a serious tone,
+
+32
+00:03:24,939 --> 00:03:27,939
+going to slow it down a little bit, do sort of a real talk with you guys.
+
+33
+00:03:27,939 --> 00:03:33,939
+It's going to cover Thanksgiving and happy Thanksgiving, by the way, I don't think I've said it yet this whole video.
+
+34
+00:03:33,939 --> 00:03:37,939
+Black Friday obviously is today, so Thanksgiving was yesterday,
+
+35
+00:03:37,939 --> 00:03:45,719
+and what we're going to talk about is what you're thankful for, at least this year, for the 2013 season.
+
+36
+00:03:45,719 --> 00:03:50,280
+What is this, like a baseball team? Oh, the 2013 season of living.
+
+37
+00:03:50,280 --> 00:03:53,280
+No, we're going to get serious though, we're going to get serious now.
+
+38
+00:03:53,280 --> 00:03:59,280
+I'm thankful for, and in the comments section guys, please, if you want to share what you're thankful for this year, please do it,
+
+39
+00:03:59,280 --> 00:04:01,280
+and I will get us started.
+
+40
+00:04:01,280 --> 00:04:06,270
+So, this year I'm definitely thankful for, most importantly, this YouTube channel,
+
+41
+00:04:06,270 --> 00:04:09,270
+and how much I've grown in the last year.
+
+42
+00:04:09,270 --> 00:04:12,580
+Those of you guys that have been part of this channel since its inception,
+
+43
+00:04:12,580 --> 00:04:16,579
+you'll know that I've done a lot of growth in the last year.
+
+44
+00:04:16,579 --> 00:04:22,579
+Since the end of 2012, this channel has more than doubled in size.
+
+45
+00:04:22,579 --> 00:04:25,579
+I was at the same amount of view counts, the same amount of sub counts for a while,
+
+46
+00:04:25,579 --> 00:04:30,579
+and then eventually something happened, and my channel started to really take off,
+
+47
+00:04:30,579 --> 00:04:34,379
+and that's unbelievable.
+
+48
+00:04:34,379 --> 00:04:37,379
+You guys have made me financially independent.
+
+49
+00:04:37,379 --> 00:04:41,379
+I make money off of YouTube, I don't make very much, but I do,
+
+50
+00:04:41,379 --> 00:04:44,620
+and it's enough to keep me financially independent,
+
+51
+00:04:44,620 --> 00:04:47,620
+and that's something I have never been able to say, that's something I've never been able to do,
+
+52
+00:04:47,620 --> 00:04:51,620
+just recently in this last year, have I been able to make enough money,
+
+53
+00:04:51,620 --> 00:04:54,860
+where I'm not like a bum.
+
+54
+00:04:54,860 --> 00:05:00,100
+It feels great, it's a great feeling, and I really got to thank all you guys that are here.
+
+55
+00:05:01,100 --> 00:05:04,100
+That did this for me, that got me here, that supported me,
+
+56
+00:05:04,100 --> 00:05:06,100
+that continued to support me, whether it's something stupid I do,
+
+57
+00:05:06,100 --> 00:05:09,100
+whether it's something funny I do, or something serious like this,
+
+58
+00:05:09,100 --> 00:05:12,529
+then I just got to say thanks. I got to say thank you.
+
+59
+00:05:12,529 --> 00:05:16,529
+I might say it a lot, I might say thanks, I might address you guys a lot in these videos,
+
+60
+00:05:16,529 --> 00:05:19,769
+but it's because I really give a shit, you know what I mean?
+
+61
+00:05:19,769 --> 00:05:21,769
+I care that you guys are here.
+
+62
+00:05:21,769 --> 00:05:24,769
+If you guys weren't here, I'd be making videos to zero people.
+
+63
+00:05:24,769 --> 00:05:28,120
+Think about it, it's a big deal.
+
+64
+00:05:28,120 --> 00:05:33,420
+And especially in this last year, guys, the support has been overwhelming at times.
+
+65
+00:05:33,420 --> 00:05:36,790
+It's just great, I wish there was more I could say,
+
+66
+00:05:36,790 --> 00:05:39,790
+but I'm really thankful this year for that, for you guys, for all this.
+
+67
+00:05:39,790 --> 00:05:43,790
+Let's push on to 2014 so I can thank you again.
+
+68
+00:05:45,790 --> 00:05:49,790
+The second thing I'm thankful for is definitely the thing that's a couple doors down,
+
+69
+00:05:49,790 --> 00:05:51,970
+this new baby in my life.
+
+70
+00:05:51,970 --> 00:05:55,209
+It's hard to even explain this, but there's a thing over there
+
+71
+00:05:55,209 --> 00:05:58,209
+that has blood in its bloodstream that's part of my bloodstream.
+
+72
+00:05:58,209 --> 00:06:01,209
+That's a very odd thing to say, and this is not like fucking aliens.
+
+73
+00:06:01,209 --> 00:06:04,209
+Don't take it like that, it's not like Predator.
+
+74
+00:06:04,209 --> 00:06:07,579
+Baby's not Predator, all right? Confirmed, baby not Predator.
+
+75
+00:06:07,579 --> 00:06:08,579
+But you know what I mean?
+
+76
+00:06:08,579 --> 00:06:11,819
+I'm thankful for my sister having a very healthy baby,
+
+77
+00:06:11,819 --> 00:06:17,500
+and I'm thankful for my brother, who we just recently found out a month or so ago,
+
+78
+00:06:17,500 --> 00:06:21,500
+his wife is pregnant, so there's going to be another kid in this family now
+
+79
+00:06:21,500 --> 00:06:23,500
+that's directly related to me.
+
+80
+00:06:23,500 --> 00:06:26,060
+And I'm thankful for that too.
+
+81
+00:06:26,060 --> 00:06:30,560
+I'm thankful for all this stuff, man, it's great.
+
+82
+00:06:30,560 --> 00:06:34,560
+And just before we go, I want to say a couple of final words here.
+
+83
+00:06:34,560 --> 00:06:37,560
+First of all, happy Thanksgiving, and happy Hanukkah too.
+
+84
+00:06:37,560 --> 00:06:41,560
+Hanukkah has fallen on the same day as Thanksgiving.
+
+85
+00:06:41,560 --> 00:06:43,560
+The day one of Hanukkah is Thanksgiving right now,
+
+86
+00:06:43,560 --> 00:06:46,560
+so that hasn't happened in like thousands of years or something,
+
+87
+00:06:46,560 --> 00:06:47,560
+so that's pretty crazy.
+
+88
+00:06:47,560 --> 00:06:50,800
+And I want to bring up, before the video ends real quick,
+
+89
+00:06:50,800 --> 00:06:54,800
+that there is going to be a Christmas video, there is going to be a holiday German video.
+
+90
+00:06:54,800 --> 00:06:56,980
+It's going to be animated.
+
+91
+00:06:56,980 --> 00:06:58,980
+It's going to be a full animated short.
+
+92
+00:06:58,980 --> 00:07:02,980
+I'm not going to tell you what it is, but I'm spending a bunch of time on it right now
+
+93
+00:07:02,980 --> 00:07:05,980
+with a really talented guy, a really talented animator friend of mine.
+
+94
+00:07:05,980 --> 00:07:07,980
+And keep your eye on that.
+
+95
+00:07:07,980 --> 00:07:09,980
+It's probably going to come out sometime in December.
+
+96
+00:07:09,980 --> 00:07:12,980
+Just starting the hype train now so you know what to look for.
+
+97
+00:07:12,980 --> 00:07:14,980
+So I'll see you guys all next time.
+
+98
+00:07:14,980 --> 00:07:19,149
+Happy Thanksgiving, happy Hanukkah, happy holidays, and take care, everybody.

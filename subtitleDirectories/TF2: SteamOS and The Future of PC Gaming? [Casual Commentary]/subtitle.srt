@@ -1,0 +1,251 @@
+1
+00:00:00,310 --> 00:00:14,759
+Hey, what is going on, everybody? Germa here with a Team Fortress 2 gameplay commentary.
+
+2
+00:00:14,759 --> 00:00:23,760
+And tonight, I'm gonna be playing as the Demoman with the lock and load, the shield that protects you from flames,
+
+3
+00:00:23,760 --> 00:00:28,760
+and the eye-lander and the half-satoichi. I take off the eye-lander like halfway through this video,
+
+4
+00:00:28,760 --> 00:00:33,759
+because it just wasn't helping me at all. It was actually making things worse for me because I was getting killed.
+
+5
+00:00:33,759 --> 00:00:41,759
+Anyways, we've got some stuff to talk about today. We've got something very important, very, very huge announcement from Valve.
+
+6
+00:00:41,759 --> 00:00:46,759
+And it's ongoing. It is concurrently happening. There is three announcements they are doing.
+
+7
+00:00:46,759 --> 00:00:50,759
+And it's all gonna be about this new Steam operating system.
+
+8
+00:00:50,759 --> 00:00:56,000
+Now, this is something that I was talking about with friends for a long time. I really, truly...
+
+9
+00:00:56,000 --> 00:01:02,299
+Well, first of all, before I get into that, Valve has announced that they are making their own operating system,
+
+10
+00:01:02,299 --> 00:01:12,299
+just like Windows and OS X or Macintosh. They're trying to get into the hardware market with their own operating system.
+
+11
+00:01:12,299 --> 00:01:20,540
+And what a lot of people assume is going to be their own console, the Steam console with their Steam operating system based on Linux.
+
+12
+00:01:20,540 --> 00:01:26,540
+That's why they've been pushing the whole Linux thing for a while now. They've ported a lot of their games to Linux.
+
+13
+00:01:26,540 --> 00:01:29,540
+They've been working closely with Linux. It's gonna be their own console.
+
+14
+00:01:30,540 --> 00:01:37,280
+Now, the reason why this is a big deal is mainly because of one very, very important thing.
+
+15
+00:01:37,280 --> 00:01:41,780
+PC gaming is in the minority right now.
+
+16
+00:01:41,780 --> 00:01:51,189
+Not very many people have capable PCs that they can run powerful games on and get 60 frames per second, sick graphics, smooth gameplay.
+
+17
+00:01:51,189 --> 00:01:56,370
+It's an expensive thing, right? But it's the best platform.
+
+18
+00:01:56,370 --> 00:02:02,370
+Like, PC games, if you run your computer and you play a game on PC and then you go and do the same thing on a console,
+
+19
+00:02:02,370 --> 00:02:10,539
+it is drastically different. It is so different sometimes that it hurts your head to go back and play it on a console.
+
+20
+00:02:10,539 --> 00:02:18,539
+Most console games run at like 25 to 30 frames per second, which if you're a PC gamer and you have a high-end machine
+
+21
+00:02:18,539 --> 00:02:23,539
+and you're used to running games at over 60 frames per second, it's a very noticeable difference.
+
+22
+00:02:23,539 --> 00:02:30,539
+It's very noticeable, especially when you're trying to do sharp turns in a car or whip around really fast in an FPS.
+
+23
+00:02:30,539 --> 00:02:34,539
+It's very like blindingly different when you play on the different platforms.
+
+24
+00:02:34,539 --> 00:02:44,780
+So Valve wants to try to get this minority that, oh, if you don't have a $1,500 machine and a giant space on the wall of one of your rooms,
+
+25
+00:02:44,780 --> 00:02:49,780
+you can't play PC games. I think they're trying to get rid of that.
+
+26
+00:02:50,960 --> 00:02:56,960
+I think they're trying to make it so they can build an affordable living room console steam machine
+
+27
+00:02:56,960 --> 00:03:01,960
+to be able to run all these games at the best like settings that they possibly can run at.
+
+28
+00:03:01,960 --> 00:03:10,500
+And on top of that, it's been clearly stated by Valve's different executives, by Gabe Newell, by a lot of people,
+
+29
+00:03:10,500 --> 00:03:17,810
+that they don't like Windows 8. Gabe Newell actually said in an interview a while ago that he thinks Windows 8 is a catastrophe.
+
+30
+00:03:17,810 --> 00:03:21,810
+That's a direct quote. So I can kind of agree with that to an extent.
+
+31
+00:03:21,810 --> 00:03:27,810
+I'm not a big fan of Windows 8. I don't like the tiles, the touchscreen metro system that they're trying to go towards.
+
+32
+00:03:27,810 --> 00:03:36,539
+I'm not a big fan of it. So with that being said, why wouldn't Valve make their own gaming enthusiast centered operating system?
+
+33
+00:03:36,539 --> 00:03:41,539
+If all these operating systems that they're typically used to are kind of going in the wrong directions in their opinion,
+
+34
+00:03:41,539 --> 00:03:49,909
+why wouldn't they do this? And it's a great idea. And I'm so glad to see this because I foresee in the next five to ten years,
+
+35
+00:03:49,909 --> 00:03:54,909
+people won't be playing PC games on Windows 10 like or Windows 11.
+
+36
+00:03:54,909 --> 00:04:00,909
+If Microsoft's going to take their direction that they're going to take and they're going to move towards the tablet-based computer
+
+37
+00:04:00,909 --> 00:04:05,909
+and the touch screens, if they're going to abandon sort of the keyboard and mouse, which I don't think they ever will,
+
+38
+00:04:05,909 --> 00:04:11,219
+but if they ever do decide to do that, Valve's Linux operating system is going to be there.
+
+39
+00:04:11,219 --> 00:04:15,219
+It's going to be there for us to enjoy. It's going to be here for a long time.
+
+40
+00:04:15,219 --> 00:04:21,220
+And this is really just a prototype. This Steam box, you know, Steam OS, bring Steam to your living room.
+
+41
+00:04:21,220 --> 00:04:26,220
+This is very much a beta and they're testing out a lot of things. They're doing a lot of experiments.
+
+42
+00:04:26,220 --> 00:04:32,459
+And it's incredibly exciting to see this because we could be witnessing a change in the paradigm.
+
+43
+00:04:32,459 --> 00:04:38,459
+We could be witnessing, I almost want to say a split in what the personal computer is designed to do.
+
+44
+00:04:38,459 --> 00:04:45,629
+The personal computer back in the day was never designed for all this, was never designed for you to be playing video games on it.
+
+45
+00:04:45,629 --> 00:04:51,629
+It was only until the last decade really, this past millennium, when people started to see it was possible
+
+46
+00:04:51,629 --> 00:04:55,629
+and started to really put a lot of effort into punching into PC gaming.
+
+47
+00:04:55,629 --> 00:05:01,629
+So I think right now you're going to see a split. The PC, the personal computer, is going to split off into two different ways.
+
+48
+00:05:01,629 --> 00:05:08,629
+It used to be one entity. Now it's splitting off like a fucking jellyfish that just got cut in half.
+
+49
+00:05:08,629 --> 00:05:15,629
+You know what I mean? There's going to be the PC gaming technology enthusiast side that I think is going to gravitate towards Steam
+
+50
+00:05:15,629 --> 00:05:20,629
+and towards Linux and towards all that stuff. And then you got the other side, which is gravitating towards the tablets
+
+51
+00:05:20,629 --> 00:05:26,629
+and the touch screens and the Microsoft Word and the personal computer. It's becoming a split.
+
+52
+00:05:26,629 --> 00:05:34,129
+And it makes perfect sense because for the longest time, people were so afraid to get a PC and do PC gaming.
+
+53
+00:05:34,129 --> 00:05:42,129
+The keyboard and mouse, what folder am I installing this in? Where is it? Where's the CD key? I don't know how to turn it on.
+
+54
+00:05:42,129 --> 00:05:49,129
+People were always afraid because it wasn't a box that sat in your living room that you put a disc in and then hit play.
+
+55
+00:05:49,129 --> 00:05:53,129
+It's very easy to play on a console. It's not really that difficult at all.
+
+56
+00:05:54,500 --> 00:05:58,500
+But it's really exciting news nonetheless, and that's really going to wrap up the video, guys.
+
+57
+00:05:58,500 --> 00:06:02,500
+If you don't know what the hell I'm talking about, then just check the link in the description.
+
+58
+00:06:02,500 --> 00:06:05,500
+There's going to be some info there on the Steam OS.
+
+59
+00:06:05,500 --> 00:06:08,500
+Still a couple of announcements. They have still like two announcements to make.
+
+60
+00:06:08,500 --> 00:06:13,500
+I don't know what they're going to be, but they're going to be related to the Steam in your living room quote project.
+
+61
+00:06:13,500 --> 00:06:17,740
+And I'm going to leave it there. So exciting stuff. Let me know what you think in the comments section, guys.
+
+62
+00:06:17,740 --> 00:06:20,740
+And I'll see you guys all next time. Thank you so much for watching. I really do appreciate it.
+
+63
+00:06:20,740 --> 00:06:24,550
+And of course, take care, everybody.

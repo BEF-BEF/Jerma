@@ -1,0 +1,6519 @@
+1
+00:00:00,630 --> 00:00:14,730
+Good afternoon. Welcome back to another edition of ME! Hi guys. It's been 14 minutes since
+
+2
+00:00:14,730 --> 00:00:25,859
+Jerma said 10 minutes. That's not a big deal. An extra four minutes. Sometimes I say 10 minutes
+
+3
+00:00:25,859 --> 00:00:38,310
+and it's 40, so I'll take the four this time. Long minutes. Yeah, you gotta count them slower.
+
+4
+00:00:38,869 --> 00:00:47,500
+That's four minutes of my life I'll never get back. I'm sorry. Anyways, hi. We are going to
+
+5
+00:00:47,500 --> 00:00:57,219
+do, just pick up right where we left off yesterday in Disassembly VR. Maybe just joining us. And you
+
+6
+00:00:57,219 --> 00:01:08,099
+weren't here yesterday. This game's a treat. I like it. I'm having a great time. You take
+
+7
+00:01:08,099 --> 00:01:14,950
+things apart and that's it. That's the whole game. But it's fun. I don't know why. It just
+
+8
+00:01:14,950 --> 00:01:25,510
+like, it just squeezes my brain. It's very relaxing. It's very fun. And today, I've got
+
+9
+00:01:25,510 --> 00:01:35,000
+news for you guys. For the first time ever. Ever. That's right. For the first time ever,
+
+10
+00:01:36,459 --> 00:01:42,409
+I am going to be sitting down in VR because standing up takes too much energy and moving
+
+11
+00:01:42,409 --> 00:01:45,370
+around room scale takes a lot of out of me. And so I could probably stream for more than
+
+12
+00:01:45,370 --> 00:01:56,359
+four hours today. The chair! There it is. Never, I've never done this before. It's,
+
+13
+00:01:57,159 --> 00:02:04,299
+how does it feel? First impressions. The seat's a little springy. I like the color.
+
+14
+00:02:04,939 --> 00:02:21,180
+But here's the, hold on, for all you office friends. How's the spin? I definitely should
+
+15
+00:02:21,180 --> 00:02:32,520
+not have just done that before going into VR. We're going to take a minute here.
+
+16
+00:02:34,580 --> 00:02:45,419
+Just sit here. Spin? Well oiled, I'd say. It's pretty well oiled. Okay. I think I'm good.
+
+17
+00:02:51,349 --> 00:02:59,819
+Try spinning. That's a neat trick. Take apart this chair. No. You're going to be sitting
+
+18
+00:02:59,819 --> 00:03:05,509
+there the whole stream and you have workout clothes on. I'm going to get up. This is just,
+
+19
+00:03:05,509 --> 00:03:10,539
+look, this is my, when I'm sitting at the desk and I got the screwdriver,
+
+20
+00:03:10,539 --> 00:03:18,069
+I don't need to go in like this. Where's that screw? Okay. Where is it? Like I'm like a
+
+21
+00:03:18,069 --> 00:03:29,099
+fucking T-Rex. Like, now don't do that again. I'm not doing that for after part two.
+
+22
+00:03:31,020 --> 00:03:36,139
+God damn it. It's cause I'm too far away. I can't like see what I'm doing. You know,
+
+23
+00:03:36,139 --> 00:03:40,949
+I like, sometimes when I'm this close, I can see what I'm doing over here. I can't see what
+
+24
+00:03:40,949 --> 00:03:44,310
+I'm doing over here. Sometimes I'm just going to do random dumb shit like that, apparently.
+
+25
+00:03:45,110 --> 00:03:52,900
+But where am I? I'm doing Raptor part two. Spin in VR. Are you trying to kill me?
+
+26
+00:03:53,780 --> 00:04:02,860
+You're trying to kill me. I'm not doing that. The, the, the cord's going to get all tangled up.
+
+27
+00:04:04,759 --> 00:04:12,090
+But let me get the audio on. I can't fucking believe I just did like a dinosaur again.
+
+28
+00:04:12,969 --> 00:04:19,129
+And I didn't have the mask on this time. So it's all right. Sometimes you make mistakes.
+
+29
+00:04:19,769 --> 00:04:22,170
+I just happen to make them in front of a thousand fucking people.
+
+30
+00:04:23,740 --> 00:04:30,819
+All right. Disassembly. Are we good in the frame here? I think so. Yeah, this looks fine.
+
+31
+00:04:31,620 --> 00:04:37,379
+You guys can hear it. Uh, I've never done this before. How am I going to do this?
+
+32
+00:04:38,259 --> 00:04:49,079
+Around the back? I don't know if this is a good idea. We'll find out, right?
+
+33
+00:05:02,410 --> 00:05:10,339
+Hey, look at that. Oh, this already feels way better. All right. There you guys are.
+
+34
+00:05:10,339 --> 00:05:17,459
+I can see you. What do you say? What the fuck? Screw it in a little.
+
+35
+00:05:18,180 --> 00:05:30,649
+Is that bad? Did I even scoot in? There we go. Webcam on the floor and sit on the floor. I'm not
+
+36
+00:05:30,649 --> 00:05:38,620
+going to do that. This is not the way it should be. It should be like this. I don't like that.
+
+37
+00:05:38,620 --> 00:05:55,300
+It feels like I have a big piece of hair. All right. When we last left off, this like fucking
+
+38
+00:05:55,300 --> 00:06:03,589
+feels weird. I feel like I shouldn't be sitting. Fuck it. All right. How it's made theme or
+
+39
+00:06:03,589 --> 00:06:07,029
+riot. We did that last night. All right. Where we leave off? We left off here
+
+40
+00:06:09,560 --> 00:06:19,850
+at the missile. Do I, we already did. Do I have to do the missile? Do I got to take
+
+41
+00:06:19,850 --> 00:06:25,879
+up off this whole missile? It's like 5,000 parts. Okay. All right. All right. I'm going to,
+
+42
+00:06:25,879 --> 00:06:39,579
+I'm going to do it. I feel like I have to do, I have to turn, right? That's the only
+
+43
+00:06:39,579 --> 00:06:48,810
+way this is going to work for me in my brain. I have to like, all right, this is fine.
+
+44
+00:06:50,199 --> 00:06:57,079
+So we got, if you don't know how this works, lower the seat. What is the seat too high?
+
+45
+00:06:57,079 --> 00:07:04,949
+Why is the seat too high? I don't know. Yeah, I get that for you guys. I got it.
+
+46
+00:07:05,589 --> 00:07:18,759
+Is this it? I don't know which one it is. I'm afraid to press a button.
+
+47
+00:07:26,379 --> 00:07:31,639
+Oh, I just like flipped a switch. It's the eject button. Wait, it's this one here. I
+
+48
+00:07:31,639 --> 00:07:52,149
+think. Oh, better. Is it fine? All right. All right. Here we go. I'll see you guys later.
+
+49
+00:07:54,439 --> 00:07:57,720
+This is how you work with this game. This game is a game about disassembling things
+
+50
+00:08:00,009 --> 00:08:03,769
+and not, you don't, you guys are over here, right? And not putting them back together.
+
+51
+00:08:04,410 --> 00:08:11,019
+I kind of like this. This is, this is better screwdriver. How many parts are there? A hundred.
+
+52
+00:08:11,019 --> 00:08:13,500
+This is going to take a while. I hope you're ready for the long haul here.
+
+53
+00:08:21,269 --> 00:08:28,339
+Top part comes off. It's going to explode. It's not, we already tested it last night.
+
+54
+00:08:29,139 --> 00:09:08,570
+This thing is a dud. Oh God. I already don't like this. Okay. We're fine. Everything's fine.
+
+55
+00:09:09,450 --> 00:09:17,929
+Stand up. No, I can't. I, my back has been bothering me and like stand up and moving
+
+56
+00:09:17,929 --> 00:09:22,330
+around. I need to sit and work at my desk with my tools. That's the tinkerer. Okay.
+
+57
+00:09:23,289 --> 00:09:35,850
+Isn't that a good title today? All right. That looks fine. Can I get any of these off yet?
+
+58
+00:09:37,580 --> 00:09:46,730
+Oh, one of the fins comes off. Yeah. No cheating. I got to beat all these.
+
+59
+00:09:51,820 --> 00:10:00,019
+Room scale, seated VR. I, I got the wrong settings, but it's okay. I'm improvising.
+
+60
+00:10:00,820 --> 00:10:22,330
+What is holding this on? Is that it? If you're just joining us with, oh,
+
+61
+00:10:22,330 --> 00:10:27,720
+oh, I think I can get this off this plate. No, right here. This will come off in a second.
+
+62
+00:10:32,360 --> 00:10:39,690
+Guy like disassembles a nuclear bomb sitting in his living room. It's not even my living room.
+
+63
+00:10:41,480 --> 00:11:01,340
+It's my office, right guys? All right. Am I going to bloody nose? No. Am I? I can't tell.
+
+64
+00:11:02,059 --> 00:11:15,500
+Well, how do I get this off? There's blood everywhere. If I just didn't know,
+
+65
+00:11:15,500 --> 00:11:25,720
+there's just blood just all over me. That'd be so fucked up. The whole stream,
+
+66
+00:11:25,720 --> 00:11:37,139
+I just have like a faucet coming out of my nose. That would be insane. There's a lot of
+
+67
+00:11:37,220 --> 00:11:47,179
+screws in this thing. How many more screws are there? Someone call the camp. He doesn't know.
+
+68
+00:11:47,179 --> 00:12:00,100
+It's a missile. I don't think it's made to be disassembled. That's true. You're all right.
+
+69
+00:12:00,100 --> 00:12:12,460
+Okay. How many more? Oh my God. I got to get, oh, that was a big juicy one. No.
+
+70
+00:12:16,120 --> 00:12:21,929
+Whoa. Okay. There's the nuclear reactor. That's what it looks like inside guys.
+
+71
+00:12:22,649 --> 00:12:38,899
+First ever image of a black hole. All right. So can I get this out?
+
+72
+00:12:39,539 --> 00:12:46,169
+I don't think I can get this out. Can I pull it? I can pull it. Don't blow up.
+
+73
+00:12:48,250 --> 00:12:53,450
+I got to get a better fucking view than this. I'm sorry guys.
+
+74
+00:12:54,490 --> 00:13:10,549
+That's better. Can this come off? What is holding this on?
+
+75
+00:13:19,639 --> 00:13:29,059
+Don't explode. It's not going to explode. Oh, my rocket contest.
+
+76
+00:13:29,860 --> 00:13:57,240
+Oh, man. I'm going to win first prize. What do I do with this? Can I take this apart too?
+
+77
+00:14:00,950 --> 00:14:19,690
+I think so. The wrench. That one wrench. I don't, I got no idea. Oh, I got no idea.
+
+78
+00:14:22,580 --> 00:14:35,000
+Can I do anything else with this thing? Whoa. Okay. Put this down. This is the engine.
+
+79
+00:14:37,000 --> 00:14:47,659
+Can this come out? Oh, wait a minute. Ah, these are going to look at that.
+
+80
+00:14:48,379 --> 00:15:10,360
+We got extra lazy. No, I think this is done. What do we got left? 57. We're almost halfway there.
+
+81
+00:15:11,000 --> 00:15:13,559
+Can I pull the middle out? Yeah, this is where we're going to be careful.
+
+82
+00:15:14,679 --> 00:15:23,179
+So really slowly. Like a fucking magician. So there's a charcoal filter. The thing that makes
+
+83
+00:15:23,179 --> 00:15:31,750
+it explode. This is the thing to purify the water. That wasn't the thug. It's going to
+
+84
+00:15:31,750 --> 00:15:38,309
+roll. It's going to break the window. Oh, that's unfortunate. That was going to keep
+
+85
+00:15:38,309 --> 00:16:04,409
+rolling. Hold on. Give me that. Fuck. No, here we go. Yeah, I dropped something. Yeah,
+
+86
+00:16:05,049 --> 00:16:17,289
+it's over there. It's rolling towards the window. Oh shit. That's going to cost some money.
+
+87
+00:16:21,399 --> 00:16:27,850
+Those cheap windows made out of candy ribbon. I shouldn't have done the candy ribbon.
+
+88
+00:16:28,570 --> 00:16:52,019
+What's in here? I think that's it for this. Give me another one.
+
+89
+00:16:55,659 --> 00:17:27,420
+Oh, stay here. This is the brain. I got to get the snippers. There it is. I'm trying to roll it.
+
+90
+00:17:27,420 --> 00:18:04,339
+I'm trying to roll it and break the window. Wait a minute. No. I thought it was going to
+
+91
+00:18:04,339 --> 00:18:09,349
+keep rolling. Riveting content. That would have been funny if it fucking broke the window
+
+92
+00:18:09,349 --> 00:18:20,500
+and you know it. He's still covered in blood from his nosebleed. He's losing brain cells.
+
+93
+00:18:23,910 --> 00:18:28,940
+What even makes this thing explode? This is supposed to be true to life.
+
+94
+00:18:28,940 --> 00:19:04,410
+It's reaching there again. All right. I don't even know what to grab. Can I pull this? Okay,
+
+95
+00:19:04,410 --> 00:19:22,410
+I can get the panel off. There it is. There it is, guys. Be careful. What does it say?
+
+96
+00:19:25,299 --> 00:19:32,549
+Explosive Tritonol. S-P-E-O-1-O-2-9-D. Total nine kilograms. So this is explosive.
+
+97
+00:19:33,109 --> 00:19:47,079
+Just sit that there. I don't know whatever that is. What else is in here? How many parts
+
+98
+00:19:47,079 --> 00:19:56,650
+are there? 50 parts? Am I missing something? Where are these other 50 parts? Are they inside
+
+99
+00:19:56,650 --> 00:20:10,259
+this dome? Hold on. Ricochet. That was worth like five points. It's still stuck in there.
+
+100
+00:20:10,819 --> 00:20:22,259
+All right. Give me the little guy here. No. I don't understand. What is holding this in here?
+
+101
+00:20:36,869 --> 00:20:53,609
+How do I get this out of here? There's another panel? I don't see another panel.
+
+102
+00:20:56,200 --> 00:21:20,220
+Whoa. This is dumb. All right. Here we go. We're going to be very careful here. No. Okay.
+
+103
+00:21:20,220 --> 00:21:37,019
+Easy. Don't let me near in nuclear power. It's still being held in.
+
+104
+00:21:43,930 --> 00:22:04,250
+There it is. Look at that. Interesting stuff. There's still 42 parts. It doesn't
+
+105
+00:22:04,250 --> 00:22:09,000
+explode apparently. Okay. So just set it over here. Just put it on the ground. This thing's
+
+106
+00:22:09,000 --> 00:22:54,970
+making me nervous. What is the other like 50 parts? What? Wait a minute. Damn it. Okay. So
+
+107
+00:22:54,970 --> 00:23:07,140
+it's this thing. Oh shit. There's more in here. Oh, this is the computer. This is the other
+
+108
+00:23:07,140 --> 00:23:29,220
+computer. There's two CPUs in here. All right. Let's get this off. Pliers? Jesus. All right.
+
+109
+00:23:29,220 --> 00:23:45,750
+Do I have to take this shit off too? No. What is this? All right. Can I take the top off?
+
+110
+00:23:46,309 --> 00:24:04,250
+Yeah. Okay. Let's hold this on. CPU connector. Can I take this shit off? No. None of these need
+
+111
+00:24:04,250 --> 00:24:12,519
+to be removed. Damn. That's kind of cool. All right. Cool. Now can this be removed? It can.
+
+112
+00:24:15,690 --> 00:24:23,480
+Nothing in there. Last piece. We've got, oh, there's one more internal thing. I got to,
+
+113
+00:24:26,900 --> 00:24:33,450
+no, not the crowbar. This thing. That's not the right tool?
+
+114
+00:24:34,410 --> 00:24:58,039
+And what world are you talking about here? No. Not yet. Where are these other? Oh shit. Okay.
+
+115
+00:24:58,680 --> 00:25:10,180
+Does this, that's it for that? No. One piece there. That's it. This comes off.
+
+116
+00:25:11,460 --> 00:25:15,930
+This comes out. Wow. That's what it looks like in there. Well, this is so cool.
+
+117
+00:25:16,569 --> 00:25:47,339
+All right. I got the lens off. Well, this is where the 50 parts come from. My God. Wait,
+
+118
+00:25:47,579 --> 00:25:52,599
+is that a reflection? Oh, I can't see myself here. All right. This is that.
+
+119
+00:25:53,880 --> 00:26:07,369
+This is just the toy at the doctor's office for the little kids. Is that it? Two more parts.
+
+120
+00:26:07,369 --> 00:26:49,019
+Bring up the beeper. I did it. Excellent. What's next? I unlocked the magnifying glass.
+
+121
+00:26:49,660 --> 00:26:57,930
+Am I talking to you? Yeah, I am. Oh, I hate when it does that. So let me just
+
+122
+00:26:57,930 --> 00:27:07,750
+fix myself here. What's next? I have to take apart a screwdriver, then a rice cooker,
+
+123
+00:27:07,750 --> 00:27:18,299
+and then the Titanic. This is going to be interesting. Take apart the Titanic. This,
+
+124
+00:27:18,299 --> 00:27:21,980
+I take a 30 set. This is going to be easy. All right. Let's see this one quick.
+
+125
+00:27:22,700 --> 00:27:39,910
+Get a good look at it. Turn it off. Turn it off. So I got a magnifying glass. Let me just
+
+126
+00:27:39,910 --> 00:28:01,289
+put it out here. This is cool. That's really cool. It just is. I mean, it just is. All right. I
+
+127
+00:28:01,289 --> 00:28:06,970
+got a magnifying glass in this hand. I really am the tinker. I can't do a hammer yet.
+
+128
+00:28:08,859 --> 00:28:27,990
+How do I pull this apart? Are there screws on the screwdriver? Yes, there are. I'm not very
+
+129
+00:28:27,990 --> 00:29:05,430
+good. Precision is key. Get out of here. Put this down for a minute. What's the last one?
+
+130
+00:29:07,049 --> 00:29:11,930
+Oh, look in there. That's where the batteries go. Anything else over this? No,
+
+131
+00:29:11,930 --> 00:29:25,529
+I think we're done with that. Look at that. That's so cool. I don't know. That's a film
+
+132
+00:29:25,529 --> 00:29:51,859
+canister. Batteries? That's not a screw. I'm almost done with this thing. There's a
+
+133
+00:29:51,859 --> 00:30:00,980
+little power switch. I need the little one. Give me the pliers. Make this easier on myself.
+
+134
+00:30:08,710 --> 00:30:32,259
+That's it. 18 parts left. This little guy? Give me screws? There's such a weird smell
+
+135
+00:30:32,259 --> 00:30:42,490
+in my room. All right. Interesting. So now let's put it in its... There we go.
+
+136
+00:30:43,049 --> 00:30:49,930
+One, two, three. That's it. I have to battery. Take the batteries apart.
+
+137
+00:30:50,650 --> 00:31:23,099
+Oops. I don't know what happened here. That's fucking cursed. What just came...
+
+138
+00:31:23,660 --> 00:31:38,069
+Is it flying around the room? I caught that in the corner of my eye.
+
+139
+00:31:40,150 --> 00:31:42,970
+I can't get this little tab. Come on. Give me this little tab.
+
+140
+00:31:47,059 --> 00:31:57,799
+Final boss. I can't pull these apart. I'm an expert disassembler, guys. Well,
+
+141
+00:31:57,799 --> 00:32:04,869
+this is definitely the next part here. There's the bit. This comes out the back way.
+
+142
+00:32:09,099 --> 00:32:11,579
+Wait, wait, wait, wait. That's where all these parts are coming from. Look at how
+
+143
+00:32:11,579 --> 00:32:25,079
+tiny this shit is. Get it in there with the tool. The middle part? No, that's it.
+
+144
+00:32:26,359 --> 00:32:31,960
+Six more. I believe it's right here. Yes, it is. What do you got in here?
+
+145
+00:32:31,960 --> 00:32:36,299
+There's the actual spinning thing to the drill bit. I don't think I can get it yet.
+
+146
+00:32:36,940 --> 00:32:53,059
+There we go. I think that's it. There's only one more thing in here. What's left? Two parts.
+
+147
+00:32:53,059 --> 00:33:10,650
+What is it? It's the battery, isn't it? Is it the battery? Oh, I got it. No,
+
+148
+00:33:10,650 --> 00:33:26,490
+I didn't. I can't get this. Shit. What is it? Use the gun. No, the gun
+
+149
+00:33:27,049 --> 00:33:31,859
+deletes the whole level. It makes it so you can't do it. What about my neck?
+
+150
+00:33:32,500 --> 00:34:05,609
+All right, hold on. How do I get this open? How do you open this thing? Right here. Got it.
+
+151
+00:34:05,609 --> 00:34:16,679
+Done. Ladies and gentlemen, it's time for the Titanic. I have no idea what this is going to
+
+152
+00:34:16,679 --> 00:34:23,900
+be like. No, don't replay the level. Get out of here. I have to destroy the whole Titanic,
+
+153
+00:34:23,900 --> 00:34:37,159
+I guess. So we're going to go this way. I'm going to stand up for this one. Are you kidding
+
+154
+00:34:40,900 --> 00:34:52,760
+me? I have to take the Titanic apart. In my chair, there's 151 parts. Swab the deck, babies.
+
+155
+00:34:56,619 --> 00:35:05,769
+Out of the ocean. Did we hit an iceberg? Is this like a level that's already pre-determined?
+
+156
+00:35:18,360 --> 00:35:24,599
+I just wanted to put my hand on the railing. I just wanted to put my hand on the railing.
+
+157
+00:35:24,599 --> 00:35:28,360
+I was going to do a captain bit where I've been on the seven seas.
+
+158
+00:35:30,440 --> 00:35:45,050
+Holy shit. I'm not going to be able to find that. Oh, look out. Here comes the iceberg.
+
+159
+00:35:48,489 --> 00:36:03,619
+It's just like a drunk fat guy in a chair. Oh, I got to get over there. Why?
+
+160
+00:36:04,900 --> 00:36:13,659
+Why was that an explosion? Okay, here we go. I need to go fast. I need to go fast.
+
+161
+00:36:14,300 --> 00:36:45,909
+I'm going to be the shittiest like James Bond villain. You thought you could make it out alive,
+
+162
+00:36:45,909 --> 00:37:20,409
+Mr. Bond. Not on my terms. Hey. Stop it happening.
+
+163
+00:37:22,010 --> 00:37:30,809
+The dining room. Not the dining room. Why did it just come out like that?
+
+164
+00:37:35,500 --> 00:37:38,150
+It's sinking. I didn't have to do anything.
+
+165
+00:37:38,150 --> 00:38:27,079
+Okay. Got it. I hit the skybox. No. The skybox is going to shoot back up.
+
+166
+00:38:27,079 --> 00:39:01,289
+It's alive. That's a whale. Oh my goodness. It's back. Oh no. The sentient wall is coming
+
+167
+00:39:01,289 --> 00:39:24,039
+for revenge. I don't think this is historically accurate. Hold on. Hold on. I don't want to do
+
+168
+00:39:24,039 --> 00:39:35,829
+this again. It's hitting the ground under the water. All right. Get me in there. I'm
+
+169
+00:39:35,829 --> 00:39:52,460
+already seated so it's good. Okay. Where's the dining room? Oh my god. This is so huge.
+
+170
+00:39:53,179 --> 00:40:09,820
+Is the dining room down? I don't know where it is. There's no map. I'm just
+
+171
+00:40:09,900 --> 00:40:17,320
+no clipping through floors until I find it. Hold on. Get out of here. Where's the dining room?
+
+172
+00:40:25,159 --> 00:41:06,920
+There it is. Okay. No. No. No. Not yet. Not yet. Stop. Stop. Stop. Stop. Stop. Stop. Stop it.
+
+173
+00:41:06,920 --> 00:41:48,710
+No. Come here. Come here. Come here. He's gone. Sorry for that interruption. What the fuck?
+
+174
+00:41:48,710 --> 00:42:01,769
+I just wanted to put it down. I wanted to put it down. I can't. What? No.
+
+175
+00:42:02,809 --> 00:42:26,199
+I'm just. I'm trying to do a bit here. Why? I just put my hand down and grabbed.
+
+176
+00:42:37,219 --> 00:42:50,889
+Are you good? No. There he goes. You know what? Fuck it. I think we just have to destroy it.
+
+177
+00:42:56,869 --> 00:43:02,840
+All right. This is fine. Welcome to the restaurant. Yeah. We pride ourselves on
+
+178
+00:43:02,840 --> 00:43:09,769
+highest quality food. Do you have a menu I could look at? It's a little cramped in here,
+
+179
+00:43:09,769 --> 00:43:23,050
+don't you think? Yeah. I'll take the swordfish. God. Nothing can destroy the Titanic. I can't even
+
+180
+00:43:23,050 --> 00:43:26,090
+do the bit anymore. I was going to set up like three people and have a discussion about the
+
+181
+00:43:26,090 --> 00:43:40,360
+Titanic. I can't even do that now. Yeah, I can. Yeah, I can. You guys are going to
+
+182
+00:43:40,360 --> 00:43:45,480
+like this one. I. You watch. Just. Hold on. I got to. I got to get in there and make
+
+183
+00:43:45,480 --> 00:43:51,190
+people not flip around. Is that like I put wine bottles anywhere? I don't think so.
+
+184
+00:43:51,909 --> 00:44:09,610
+And can I go? Is there like a captain's chamber? Let me just see what's up here.
+
+185
+00:44:10,409 --> 00:44:21,639
+That's probably like a captain's quarters, right? That has to be.
+
+186
+00:44:23,579 --> 00:44:40,900
+Play the Titanic OST. Yeah, I can't move. I got to let me fix this. This is all tangled
+
+187
+00:44:40,900 --> 00:44:50,820
+up on the chair. Which way is it going? I have no idea. What the fuck is this going?
+
+188
+00:44:53,480 --> 00:45:04,710
+How did I wrap this around like this? I've got to go the other way. Saved. All right. We're
+
+189
+00:45:04,710 --> 00:45:22,039
+good. All right. Let me put on the Titanic. Wait, what was that Celine Dion?
+
+190
+00:45:22,599 --> 00:45:30,360
+Wasn't that one? That's a definite claim of the vaudeville.
+
+191
+00:45:41,349 --> 00:46:10,059
+Bye, vaude. Go, go, go, go, go. Get there. Get there. Get there. Get there. Get there. Get
+
+192
+00:46:10,059 --> 00:46:30,059
+there. Get there. Get there. Get there. Get there. Get there. I got to do the T pose.
+
+193
+00:46:30,059 --> 00:46:47,539
+I can do the T pose up here, right? No, no, no, no, no, no. Like I, you do. Can I
+
+194
+00:46:47,539 --> 00:47:22,550
+move his arms? No, no, dummy. Stand. Sorry. I'll get it. I'll get it. I'll get it.
+
+195
+00:47:23,190 --> 00:47:28,539
+Fucking God damn it.
+
+196
+00:47:35,059 --> 00:47:52,980
+Fuck you. Jack, you already killed two people. Just let me help you. Do it. Is it going to
+
+197
+00:47:52,980 --> 00:48:31,480
+do it? Is this it? Is this the song? I don't think this is the song. Is this even part of
+
+198
+00:48:31,559 --> 00:49:02,070
+the soundtrack? Jack, I don't know if I can... It's not... Look. Do you see the sky in front
+
+199
+00:49:02,070 --> 00:49:12,940
+of you? Yeah, Jack. It's beautiful. It is beautiful. I never watched this whole movie,
+
+200
+00:49:12,940 --> 00:49:36,389
+so I don't know exactly how the scene went down. Oh, it's beautiful, Jack. It sure is.
+
+201
+00:49:37,030 --> 00:49:49,030
+Let me put you down. Oh, it's beautiful. I know. Just watch out. Watch out for the railing.
+
+202
+00:49:59,420 --> 00:50:11,880
+Where'd she go? I don't know where she went. Oh, Julie. Julie. What's her name?
+
+203
+00:50:12,679 --> 00:50:15,380
+The ship is all right. I can go get her.
+
+204
+00:50:27,639 --> 00:50:29,559
+She just got wicked, witch of the western.
+
+205
+00:50:37,139 --> 00:50:41,929
+Jack! Wait. Come with me, remember? This is me.
+
+206
+00:50:54,219 --> 00:50:56,119
+Jack! Jack!
+
+207
+00:50:56,119 --> 00:50:56,199
+Jack!
+
+208
+00:51:05,739 --> 00:51:07,340
+I'll never forget about you.
+
+209
+00:51:15,480 --> 00:52:01,909
+Jack, did you hear that this vessel only costed $29 a dollar?
+
+210
+00:52:01,989 --> 00:52:08,730
+I've never seen the movie, I swear to God. I've never seen Titanic. I don't know what happens.
+
+211
+00:52:08,730 --> 00:52:11,050
+This iceberg, I don't know the history, but I don't know what happens between the
+
+212
+00:52:11,050 --> 00:52:14,949
+wind and the category of it.
+
+213
+00:52:28,889 --> 00:52:55,750
+Jack, look!
+
+214
+00:52:55,750 --> 00:53:30,730
+Oh, my God. Holy shit. I didn't know it was going to be that loud. I'm sorry.
+
+215
+00:53:37,289 --> 00:53:39,530
+Now drive the boat. All right, I'm looking to do a boat one.
+
+216
+00:53:43,369 --> 00:53:47,289
+Can I hear a clip? I need to know how loud that was. I'm so sorry.
+
+217
+00:53:47,289 --> 00:53:54,969
+I had to turn it up for the music. Was it that loud?
+
+218
+00:54:00,650 --> 00:54:37,829
+Oh, my God. Oh, my God. I'm so sorry. Holy shit. Oh, my God.
+
+219
+00:54:45,239 --> 00:54:57,610
+I really did not know that was happening. Holy fuck. I'm so sorry.
+
+220
+00:54:57,610 --> 00:55:01,820
+I've never seen the movie. That's why it was so loud. I had to hear.
+
+221
+00:55:01,820 --> 00:55:04,300
+Holy shit, man. All right, let's turn this shit down.
+
+222
+00:55:15,900 --> 00:56:00,949
+I gotta go pee. I'll be right back. I know you can see me. I'm still processing.
+
+223
+00:56:01,750 --> 00:58:42,730
+Oh, man. All right. We're going to have to reel it in here.
+
+224
+00:58:43,530 --> 00:58:46,570
+We're going to go back and disassemble a toaster or something.
+
+225
+00:58:46,570 --> 00:58:57,079
+We'll go back to the Titanic. Let's open it back up.
+
+226
+00:58:57,079 --> 00:59:00,019
+I'm going to sit back down. Oh, my goodness.
+
+227
+00:59:05,739 --> 00:59:07,420
+We'll do the rice cooker. We'll do the rice cooker.
+
+228
+00:59:08,300 --> 00:59:10,380
+Kim check. Okay. Do you want to know?
+
+229
+00:59:19,769 --> 00:59:32,230
+Nobody in there. I got this.
+
+230
+00:59:34,949 --> 00:59:39,980
+That's pretty much all I need to say. All right.
+
+231
+00:59:42,500 --> 00:59:47,260
+Subs. A lot of subs just come in. I missed them.
+
+232
+00:59:47,260 --> 00:59:49,340
+Oh, there they are. Hans Beats.
+
+233
+00:59:49,980 --> 00:59:52,619
+One, two, three, four, five, six, seven, eight, nine, ten.
+
+234
+00:59:52,619 --> 00:59:59,340
+Thank you for the ten community subs. Ten subs from Hans Beats.
+
+235
+00:59:59,340 --> 01:00:02,219
+Thank you. Much love to you.
+
+236
+01:00:02,860 --> 01:00:07,590
+Congratulations to all those that were blessed by the sub dusting.
+
+237
+01:00:09,110 --> 01:00:11,670
+And let's go. Let's do the rice cooker.
+
+238
+01:00:15,610 --> 01:00:19,929
+I think the volume has been lowered to a nice level.
+
+239
+01:00:19,929 --> 01:00:25,159
+You can tell me if I'm wrong. All right.
+
+240
+01:00:25,719 --> 01:00:31,780
+I don't know what that is. Why is there an assault rifle?
+
+241
+01:00:31,780 --> 01:00:35,179
+Oh, it's okay. All right.
+
+242
+01:00:36,139 --> 01:00:37,980
+Back in. Where are my hands over there?
+
+243
+01:00:40,119 --> 01:00:42,199
+Let's clean this off real quick.
+
+244
+01:00:51,900 --> 01:00:55,019
+Max volume. No, I can't do that to people for a long period of time.
+
+245
+01:00:56,679 --> 01:00:59,000
+Okay. Really loud shit is funny.
+
+246
+01:00:59,639 --> 01:01:01,480
+But imagine if you just clicked on the stream.
+
+247
+01:01:01,480 --> 01:01:04,039
+You just came to the stream for the first time or you just loaded it.
+
+248
+01:01:04,039 --> 01:01:06,519
+You went to like, oh, Twitter or I got a notification.
+
+249
+01:01:06,519 --> 01:01:07,880
+And you're not ready for that.
+
+250
+01:01:10,099 --> 01:01:11,699
+I don't want to do that for a long period of time.
+
+251
+01:01:15,320 --> 01:01:20,500
+All right. Let me get another sip of my coffee.
+
+252
+01:01:26,139 --> 01:01:31,139
+Fresh brew. Let's go.
+
+253
+01:01:31,139 --> 01:01:33,780
+We'll go back to the Titanic and I will do it normally.
+
+254
+01:01:34,579 --> 01:01:37,260
+I don't know what that means. It's left-handed.
+
+255
+01:01:50,380 --> 01:01:53,579
+I just thought of the dining room hitting the skybox.
+
+256
+01:02:04,199 --> 01:02:05,239
+I got to get out of this level.
+
+257
+01:02:09,380 --> 01:02:12,099
+Why am I getting like worms vibes?
+
+258
+01:02:13,269 --> 01:02:14,869
+Look, they're the worms.
+
+259
+01:02:14,869 --> 01:02:16,309
+It's like worms, Armageddon.
+
+260
+01:02:19,099 --> 01:02:22,230
+All right. Let's get the fuck out of here.
+
+261
+01:02:23,320 --> 01:02:31,909
+Why do I have this in my hand?
+
+262
+01:02:31,909 --> 01:02:32,710
+Back to the main menu.
+
+263
+01:02:34,619 --> 01:02:36,139
+Oh, my mind frame. Can you see me?
+
+264
+01:02:36,860 --> 01:02:42,650
+I'm going to turn that down. That's better.
+
+265
+01:02:44,360 --> 01:02:46,519
+All right. Let's take apart a rice cooker.
+
+266
+01:02:52,550 --> 01:02:54,070
+This is so much nicer. Look at that.
+
+267
+01:02:55,769 --> 01:02:56,489
+Am I out of frame?
+
+268
+01:02:57,210 --> 01:02:59,400
+No, no. Let me frame.
+
+269
+01:03:00,039 --> 01:03:07,829
+Can I turn it?
+
+270
+01:03:09,940 --> 01:03:10,980
+It's actually has water in it.
+
+271
+01:03:24,730 --> 01:03:25,610
+Don't need that.
+
+272
+01:03:25,610 --> 01:03:27,960
+It's dirty.
+
+273
+01:03:30,969 --> 01:03:31,849
+Cut that shit out.
+
+274
+01:03:32,489 --> 01:03:38,869
+All right. So we've got the button here.
+
+275
+01:03:38,869 --> 01:03:39,510
+Can I lift it up?
+
+276
+01:03:40,070 --> 01:03:43,539
+The bottom. There's a screw on the bottom.
+
+277
+01:03:44,179 --> 01:03:45,460
+Can I rip this off?
+
+278
+01:03:45,460 --> 01:03:47,719
+I don't think so.
+
+279
+01:03:47,719 --> 01:03:48,679
+How many parts are in this?
+
+280
+01:03:49,320 --> 01:03:50,920
+59. All right. Well, this is a screw.
+
+281
+01:03:56,070 --> 01:03:57,110
+Oh, shit. Okay.
+
+282
+01:03:58,070 --> 01:04:03,050
+Probably more of this.
+
+283
+01:04:03,769 --> 01:04:05,059
+Let me lean forward here.
+
+284
+01:04:05,059 --> 01:04:05,940
+Let me get a good lean.
+
+285
+01:04:06,900 --> 01:04:13,739
+No, no, no.
+
+286
+01:04:14,699 --> 01:04:18,340
+Give me the pliers.
+
+287
+01:04:25,530 --> 01:04:27,050
+That's tiny. Look at this.
+
+288
+01:04:27,050 --> 01:04:28,409
+I can make it. I got to get the microscope.
+
+289
+01:04:29,289 --> 01:04:33,940
+This is next level small.
+
+290
+01:05:05,210 --> 01:05:06,250
+God damn it.
+
+291
+01:05:12,070 --> 01:05:20,219
+Let's pick it up.
+
+292
+01:05:20,219 --> 01:05:26,820
+All right. Now I can.
+
+293
+01:05:26,820 --> 01:05:30,739
+Can I grab these?
+
+294
+01:05:30,739 --> 01:05:31,460
+You can grab this.
+
+295
+01:05:32,099 --> 01:05:33,139
+Stop doing that.
+
+296
+01:05:33,139 --> 01:05:34,420
+All right. I need a little screwdriver.
+
+297
+01:05:37,929 --> 01:05:39,610
+And up. That's a bomb.
+
+298
+01:05:43,000 --> 01:05:47,349
+This one. Really?
+
+299
+01:05:47,349 --> 01:05:49,610
+Look, is it the other one?
+
+300
+01:05:52,809 --> 01:05:56,599
+I can't get that.
+
+301
+01:05:56,599 --> 01:06:00,789
+Shit. Am I crazy here?
+
+302
+01:06:03,130 --> 01:06:04,170
+No, I'm not crazy.
+
+303
+01:06:05,800 --> 01:06:06,840
+I'm not crazy.
+
+304
+01:06:06,840 --> 01:06:10,420
+I told you I wasn't crazy.
+
+305
+01:06:10,420 --> 01:06:11,769
+Is there another one?
+
+306
+01:06:17,559 --> 01:06:18,519
+Now I got to use this.
+
+307
+01:06:21,420 --> 01:06:25,510
+No. What tool?
+
+308
+01:06:32,099 --> 01:06:33,460
+That's a tiny little screw.
+
+309
+01:06:33,460 --> 01:06:34,500
+I didn't think I was going to need this.
+
+310
+01:06:35,059 --> 01:06:40,219
+All right. There's another one here.
+
+311
+01:06:40,219 --> 01:06:41,500
+Oh, okay. That comes off.
+
+312
+01:06:42,519 --> 01:06:43,960
+Beautiful. Then this thing's going to come out.
+
+313
+01:06:50,199 --> 01:06:51,000
+Snip those.
+
+314
+01:06:54,650 --> 01:06:55,369
+All right. Get in there.
+
+315
+01:06:56,570 --> 01:06:57,929
+Snip these with the pliers.
+
+316
+01:07:03,880 --> 01:07:06,599
+That felt fantastic to do that.
+
+317
+01:07:07,750 --> 01:07:08,550
+I'm not even kidding.
+
+318
+01:07:09,349 --> 01:07:10,309
+I'm not even messing around.
+
+319
+01:07:14,059 --> 01:07:14,860
+That felt so...
+
+320
+01:07:14,860 --> 01:07:15,739
+I'm not even kidding.
+
+321
+01:07:19,139 --> 01:07:22,579
+Okay. There goes those.
+
+322
+01:07:23,219 --> 01:07:26,469
+This whole thing.
+
+323
+01:07:27,349 --> 01:07:30,489
+Oh, that's the dirty part.
+
+324
+01:07:34,119 --> 01:07:34,840
+Oh, shit.
+
+325
+01:07:35,480 --> 01:07:40,039
+Okay. I might have to deal with that later.
+
+326
+01:07:45,300 --> 01:07:48,630
+Fuck. 24 parts left.
+
+327
+01:07:51,289 --> 01:07:52,090
+In what world?
+
+328
+01:07:52,730 --> 01:07:54,329
+What has 24 parts in it?
+
+329
+01:07:58,329 --> 01:07:58,730
+Ring.
+
+330
+01:08:03,340 --> 01:08:04,460
+All right. 24.
+
+331
+01:08:10,539 --> 01:08:12,219
+Is this still something I didn't see in here?
+
+332
+01:08:20,779 --> 01:08:21,180
+This whole...
+
+333
+01:08:21,180 --> 01:08:21,979
+Is this going to come out?
+
+334
+01:08:23,420 --> 01:08:24,539
+Oh, look at these screws.
+
+335
+01:08:38,090 --> 01:08:38,890
+Is there more?
+
+336
+01:08:38,890 --> 01:08:40,250
+There's another one.
+
+337
+01:08:40,250 --> 01:08:42,279
+Oh, my God.
+
+338
+01:08:42,279 --> 01:08:42,600
+All right.
+
+339
+01:08:42,600 --> 01:08:44,279
+So I think this one's done.
+
+340
+01:08:45,239 --> 01:08:46,119
+Anything else in here?
+
+341
+01:08:49,609 --> 01:08:50,170
+Yeah, there is.
+
+342
+01:08:50,170 --> 01:08:50,810
+Flip it around.
+
+343
+01:08:59,109 --> 01:09:00,710
+No. Which one?
+
+344
+01:09:00,710 --> 01:09:01,109
+Pliers?
+
+345
+01:09:08,470 --> 01:09:11,189
+Guys, I don't know where the other 20-plus pieces are.
+
+346
+01:09:11,989 --> 01:09:13,560
+Am I missing something?
+
+347
+01:09:24,810 --> 01:09:25,930
+Inside the lid.
+
+348
+01:09:38,199 --> 01:09:39,640
+Really? This is so weird.
+
+349
+01:09:39,640 --> 01:09:46,869
+I don't... What?
+
+350
+01:09:46,869 --> 01:09:48,229
+A wrench?
+
+351
+01:09:48,229 --> 01:09:49,930
+How do I get this out?
+
+352
+01:09:55,460 --> 01:09:56,180
+All right.
+
+353
+01:09:56,180 --> 01:10:02,300
+What the hell's going on?
+
+354
+01:10:04,630 --> 01:10:05,350
+Hey!
+
+355
+01:10:05,350 --> 01:10:12,310
+Hey!
+
+356
+01:10:22,020 --> 01:10:22,340
+Got it.
+
+357
+01:10:23,739 --> 01:10:23,979
+No.
+
+358
+01:10:25,609 --> 01:10:27,369
+Why is it locked shut?
+
+359
+01:10:27,369 --> 01:10:32,420
+Give me my thing.
+
+360
+01:10:32,420 --> 01:10:41,590
+Are there this many things up here?
+
+361
+01:10:42,149 --> 01:10:42,869
+That are...
+
+362
+01:10:42,869 --> 01:10:47,779
+Shit.
+
+363
+01:11:10,060 --> 01:11:11,060
+No?
+
+364
+01:11:11,060 --> 01:11:11,300
+Hey.
+
+365
+01:11:12,279 --> 01:11:13,000
+Hey!
+
+366
+01:11:13,000 --> 01:11:13,560
+Hey!
+
+367
+01:11:13,560 --> 01:11:26,659
+How do I get this off?
+
+368
+01:11:26,659 --> 01:11:35,500
+This lid is locked shut.
+
+369
+01:11:35,500 --> 01:11:38,619
+Six more parts, apparently.
+
+370
+01:11:38,619 --> 01:11:44,699
+Why can I not get in here?
+
+371
+01:11:44,699 --> 01:11:46,220
+Check the hinge inside the lid.
+
+372
+01:11:46,220 --> 01:11:48,300
+Yeah, I'm trying to, like, wedge it in there.
+
+373
+01:11:49,750 --> 01:11:50,789
+You think I would be...
+
+374
+01:11:50,789 --> 01:11:51,670
+I think I fucked it up.
+
+375
+01:11:54,939 --> 01:11:56,939
+This looks like I can move it out, but I can't grab it.
+
+376
+01:11:57,739 --> 01:12:04,600
+Wait, what's going on?
+
+377
+01:12:05,239 --> 01:12:08,069
+What's going on?
+
+378
+01:12:08,069 --> 01:12:11,819
+Where's everybody freaking out?
+
+379
+01:12:13,510 --> 01:12:14,470
+Stick your face in there.
+
+380
+01:12:14,470 --> 01:12:15,270
+I think I may have bugged it.
+
+381
+01:12:15,989 --> 01:12:19,239
+Because this was opening before,
+
+382
+01:12:19,239 --> 01:12:20,199
+and now it's not opening.
+
+383
+01:12:20,199 --> 01:12:21,319
+The hinge is just gone.
+
+384
+01:12:25,850 --> 01:12:26,350
+Ah!
+
+385
+01:12:27,289 --> 01:12:28,890
+It's... Hmm...
+
+386
+01:12:28,890 --> 01:12:30,090
+What the fuck do I do about this?
+
+387
+01:12:31,720 --> 01:12:32,920
+I can't grab this lid.
+
+388
+01:12:32,920 --> 01:12:33,800
+Maybe a crowbar?
+
+389
+01:12:34,520 --> 01:12:41,510
+I gotta pry this thing open.
+
+390
+01:12:42,390 --> 01:12:48,260
+Ah, something ain't right.
+
+391
+01:12:48,260 --> 01:12:48,979
+Something ain't right.
+
+392
+01:12:49,939 --> 01:12:51,460
+Unfortunately, something's not right.
+
+393
+01:12:52,260 --> 01:13:01,670
+It's worth a shot.
+
+394
+01:13:02,390 --> 01:13:05,050
+Damn it!
+
+395
+01:13:05,050 --> 01:13:05,550
+No!
+
+396
+01:13:07,260 --> 01:13:07,979
+Oh, the work!
+
+397
+01:13:14,939 --> 01:13:15,579
+Just shoot it.
+
+398
+01:13:16,760 --> 01:13:17,880
+Turn it off and turn it on.
+
+399
+01:13:17,880 --> 01:13:18,680
+Use another part.
+
+400
+01:13:19,829 --> 01:13:21,109
+Uh, I'm so curious.
+
+401
+01:13:21,109 --> 01:13:22,390
+Is that the only thing that's left?
+
+402
+01:13:23,510 --> 01:13:24,789
+I can't use the hammer right now.
+
+403
+01:13:25,350 --> 01:13:31,609
+Okay, there's apparently something right here.
+
+404
+01:13:34,890 --> 01:13:35,689
+What is right here?
+
+405
+01:13:36,329 --> 01:13:36,810
+This thing?
+
+406
+01:13:37,449 --> 01:13:46,250
+I mean, this looks like it's more than one piece, right?
+
+407
+01:13:47,050 --> 01:13:55,020
+Yeah, it's this thing right here.
+
+408
+01:13:55,899 --> 01:14:05,579
+I can't, like, open this?
+
+409
+01:14:06,300 --> 01:14:09,239
+Or is it this?
+
+410
+01:14:10,789 --> 01:14:11,510
+Oh, shit!
+
+411
+01:14:12,310 --> 01:14:13,029
+It's right there.
+
+412
+01:14:19,960 --> 01:14:21,000
+What do I need?
+
+413
+01:14:21,000 --> 01:14:21,479
+Fires?
+
+414
+01:14:22,119 --> 01:14:26,310
+No, not the wrench.
+
+415
+01:14:28,380 --> 01:14:29,260
+Pliers?
+
+416
+01:14:29,260 --> 01:14:30,699
+What do I, how do I open this fucking thing?
+
+417
+01:14:31,260 --> 01:14:35,289
+I can't just grab that?
+
+418
+01:14:40,789 --> 01:14:41,430
+What?
+
+419
+01:14:41,430 --> 01:14:45,210
+Is something holding it?
+
+420
+01:14:45,210 --> 01:14:46,979
+What is holding this on?
+
+421
+01:14:46,979 --> 01:14:47,699
+Is there a screw?
+
+422
+01:14:57,590 --> 01:14:58,789
+Where's the magnifying glass?
+
+423
+01:14:58,789 --> 01:15:00,229
+Where, what am I missing here?
+
+424
+01:15:00,869 --> 01:15:03,590
+Look, I think there's a,
+
+425
+01:15:03,590 --> 01:15:05,989
+there's a tiny, oh my god.
+
+426
+01:15:07,319 --> 01:15:08,359
+Ah, Jesus.
+
+427
+01:15:08,359 --> 01:15:14,310
+Okay, don't shoot it.
+
+428
+01:15:14,310 --> 01:15:15,270
+Look at this little screw.
+
+429
+01:15:18,659 --> 01:15:20,180
+Hey, hey, blink and you'll miss it.
+
+430
+01:15:20,819 --> 01:15:23,609
+Is that the regular screwdriver?
+
+431
+01:15:23,609 --> 01:15:30,680
+All right, who's that?
+
+432
+01:15:30,680 --> 01:15:31,640
+How many more?
+
+433
+01:15:31,640 --> 01:15:32,760
+Four pieces left.
+
+434
+01:15:33,640 --> 01:15:36,340
+Shit, really?
+
+435
+01:15:37,140 --> 01:15:40,779
+This maybe?
+
+436
+01:15:45,529 --> 01:15:46,819
+All right, let's see.
+
+437
+01:15:47,699 --> 01:15:52,340
+Shit.
+
+438
+01:15:54,739 --> 01:15:55,779
+I might have to shoot this.
+
+439
+01:16:04,329 --> 01:16:04,810
+Damn it!
+
+440
+01:16:05,369 --> 01:16:07,340
+What about, is it, maybe it's behind it?
+
+441
+01:16:11,060 --> 01:16:13,930
+No, come on.
+
+442
+01:16:14,649 --> 01:16:17,210
+I have to ruin the level.
+
+443
+01:16:17,930 --> 01:16:22,340
+Just glitch out with it?
+
+444
+01:16:22,899 --> 01:16:24,220
+Not a bad idea.
+
+445
+01:16:51,000 --> 01:17:16,680
+Open the lid!
+
+446
+01:17:16,680 --> 01:17:19,560
+Fuck!
+
+447
+01:17:19,560 --> 01:17:21,000
+Now the level's ruined.
+
+448
+01:17:21,000 --> 01:17:29,140
+I've disappointed.
+
+449
+01:17:34,869 --> 01:17:36,789
+You don't get a check if you don't do it right.
+
+450
+01:17:36,789 --> 01:17:37,909
+God damn it, really.
+
+451
+01:17:43,720 --> 01:17:45,000
+A phone, a jigsaw.
+
+452
+01:17:45,000 --> 01:17:45,640
+Let's do the car.
+
+453
+01:17:48,810 --> 01:17:49,930
+This is a real car.
+
+454
+01:17:53,930 --> 01:17:54,729
+Okay.
+
+455
+01:17:54,729 --> 01:17:58,819
+How many parts?
+
+456
+01:17:59,640 --> 01:18:02,539
+103.
+
+457
+01:18:02,539 --> 01:18:03,579
+Cool, cool, look at that.
+
+458
+01:18:03,579 --> 01:18:04,460
+Oh, this is a manual.
+
+459
+01:18:05,659 --> 01:18:06,380
+Nice seats.
+
+460
+01:18:06,939 --> 01:18:09,880
+Let's get everybody in here.
+
+461
+01:18:25,399 --> 01:18:25,960
+That's fine.
+
+462
+01:18:26,680 --> 01:18:45,100
+Road trip.
+
+463
+01:18:45,100 --> 01:18:55,430
+There's too many people in the car.
+
+464
+01:18:55,430 --> 01:18:56,630
+It's the clown car.
+
+465
+01:18:57,189 --> 01:19:10,710
+Hey, can you move back a little?
+
+466
+01:19:10,710 --> 01:19:11,510
+He's, all right.
+
+467
+01:19:11,510 --> 01:19:13,430
+Can you at least go out the other window?
+
+468
+01:19:13,430 --> 01:19:16,819
+That's, whatever.
+
+469
+01:19:16,819 --> 01:19:18,260
+All right, I need to get in there and drive it.
+
+470
+01:19:18,579 --> 01:19:30,579
+This is like a subway.
+
+471
+01:19:31,140 --> 01:19:32,340
+Like, oh, Jesus.
+
+472
+01:19:32,340 --> 01:19:35,050
+This, ding, ding, ding.
+
+473
+01:19:35,050 --> 01:19:37,689
+No, you get, oh, don't cough on me.
+
+474
+01:19:37,689 --> 01:19:38,329
+God.
+
+475
+01:19:38,329 --> 01:19:41,579
+All right, that's good.
+
+476
+01:19:41,579 --> 01:19:43,979
+Let's give it a try.
+
+477
+01:19:43,979 --> 01:19:48,409
+Oh, is this some kind of a car engine thing?
+
+478
+01:19:48,409 --> 01:19:52,659
+All right, shut up back there.
+
+479
+01:20:02,390 --> 01:20:14,380
+This is like nobody.
+
+480
+01:20:18,760 --> 01:20:20,760
+Get the fuck, man.
+
+481
+01:20:20,760 --> 01:20:22,840
+Even when I'm sitting down,
+
+482
+01:20:22,840 --> 01:20:25,800
+you're like caught up your ass.
+
+483
+01:20:27,050 --> 01:20:28,170
+All right, here we go.
+
+484
+01:20:28,170 --> 01:20:30,819
+Can I beep?
+
+485
+01:20:30,819 --> 01:20:35,699
+Can I turn on the radio?
+
+486
+01:21:17,750 --> 01:21:18,470
+Where are we?
+
+487
+01:21:25,260 --> 01:21:26,380
+The clowns!
+
+488
+01:21:31,260 --> 01:21:32,539
+Get them out, quick.
+
+489
+01:21:36,340 --> 01:21:50,760
+Out the back.
+
+490
+01:21:50,760 --> 01:21:51,319
+Save them.
+
+491
+01:21:52,039 --> 01:21:55,130
+All right, let me go back.
+
+492
+01:21:55,130 --> 01:22:05,510
+This is cool, though.
+
+493
+01:22:05,510 --> 01:22:11,989
+I like sitting in here.
+
+494
+01:22:11,989 --> 01:22:13,989
+All right, should I load up with clowns
+
+495
+01:22:13,989 --> 01:22:15,430
+and play clown music in the background?
+
+496
+01:22:15,989 --> 01:22:17,590
+And then like just drive them?
+
+497
+01:22:17,590 --> 01:22:25,539
+Maybe like, let's go with 50.
+
+498
+01:22:25,539 --> 01:22:27,720
+And my computer might crash.
+
+499
+01:22:33,289 --> 01:22:34,970
+Stream's probably gonna turn off.
+
+500
+01:22:34,970 --> 01:22:36,489
+I gotta place them perfectly, though.
+
+501
+01:22:39,579 --> 01:22:49,079
+One, two, three, four, five, six, seven.
+
+502
+01:22:50,409 --> 01:22:52,489
+Eight, nine.
+
+503
+01:22:52,489 --> 01:23:11,159
+I feel like I'm hiding in a bunch of stuffed animals.
+
+504
+01:23:12,840 --> 01:23:13,720
+You're not gonna find me.
+
+505
+01:23:14,279 --> 01:23:23,989
+I lost count.
+
+506
+01:23:23,989 --> 01:23:43,079
+I don't even know how many are in here.
+
+507
+01:23:43,079 --> 01:23:46,420
+Is everybody counting?
+
+508
+01:23:46,420 --> 01:23:46,920
+Jesus.
+
+509
+01:23:48,489 --> 01:23:49,689
+My computer, that's it.
+
+510
+01:23:50,170 --> 01:23:50,649
+No, that's it.
+
+511
+01:23:50,649 --> 01:23:50,890
+That's it.
+
+512
+01:23:50,890 --> 01:23:51,770
+My computer's gonna break.
+
+513
+01:23:55,100 --> 01:23:56,140
+Oh, God, that's it.
+
+514
+01:23:56,140 --> 01:23:56,939
+I can feel it already.
+
+515
+01:23:59,289 --> 01:24:00,329
+That's 42.
+
+516
+01:24:00,329 --> 01:24:02,789
+Oh, eight more?
+
+517
+01:24:02,789 --> 01:24:15,449
+I can't do that.
+
+518
+01:24:15,449 --> 01:24:16,649
+We need 50.
+
+519
+01:24:16,649 --> 01:24:24,890
+The stream's going to turn off.
+
+520
+01:24:24,890 --> 01:24:30,649
+Funny clown music loop.
+
+521
+01:24:30,649 --> 01:24:31,449
+That's not a good one.
+
+522
+01:24:36,869 --> 01:24:38,789
+Come on, what's like circus music?
+
+523
+01:24:39,750 --> 01:24:43,770
+Am I gonna like upload one of these?
+
+524
+01:24:43,770 --> 01:24:44,489
+Should I make one?
+
+525
+01:24:54,939 --> 01:24:55,899
+This is circus music.
+
+526
+01:24:57,909 --> 01:25:07,859
+Okay, here we go.
+
+527
+01:25:07,859 --> 01:25:08,359
+Ready?
+
+528
+01:27:22,739 --> 01:27:23,539
+What happened to the music?
+
+529
+01:27:34,020 --> 01:27:36,310
+I'm running over the cord.
+
+530
+01:27:36,310 --> 01:27:43,029
+That was weird.
+
+531
+01:27:43,029 --> 01:27:47,939
+All right, I need to take this apart.
+
+532
+01:27:47,939 --> 01:27:49,140
+I gotta do this for real.
+
+533
+01:27:49,140 --> 01:28:01,380
+Jesus Christ.
+
+534
+01:28:01,380 --> 01:28:04,489
+That's too many mannequins.
+
+535
+01:28:04,489 --> 01:28:23,739
+I wonder what's gonna happen to all this wood.
+
+536
+01:28:23,739 --> 01:28:25,659
+I'll see you guys when I stream next.
+
+537
+01:28:26,939 --> 01:28:28,710
+I didn't do anything.
+
+538
+01:28:28,710 --> 01:28:29,029
+Never mind.
+
+539
+01:28:29,029 --> 01:28:29,529
+Move on.
+
+540
+01:28:29,989 --> 01:28:32,439
+We're good to go.
+
+541
+01:28:33,239 --> 01:28:36,739
+I restart this before my video card dies.
+
+542
+01:28:37,380 --> 01:28:42,180
+All right, let's get it.
+
+543
+01:28:42,180 --> 01:28:42,899
+Let's take it apart.
+
+544
+01:28:47,289 --> 01:28:47,689
+All right.
+
+545
+01:28:49,899 --> 01:28:50,619
+How many parts?
+
+546
+01:28:50,619 --> 01:28:51,659
+103.
+
+547
+01:28:51,659 --> 01:28:55,210
+This should be fun.
+
+548
+01:28:55,210 --> 01:28:55,770
+Nice hair.
+
+549
+01:28:56,489 --> 01:29:00,789
+Does my hair get fucked up?
+
+550
+01:29:08,279 --> 01:29:11,800
+Get in there and stay in there before I get angry.
+
+551
+01:29:11,800 --> 01:29:14,489
+Does the mirror come out?
+
+552
+01:29:14,489 --> 01:29:14,890
+It does.
+
+553
+01:29:18,729 --> 01:29:19,210
+Tires.
+
+554
+01:29:23,449 --> 01:29:25,609
+I don't think you can do that with a car.
+
+555
+01:29:28,090 --> 01:29:36,979
+That's it for the door, right?
+
+556
+01:29:39,880 --> 01:29:41,560
+You can't do that either.
+
+557
+01:29:41,560 --> 01:29:42,680
+That's true.
+
+558
+01:29:42,680 --> 01:29:43,319
+Or this.
+
+559
+01:29:44,439 --> 01:29:59,670
+Are you serious?
+
+560
+01:29:59,670 --> 01:30:00,550
+I can't lift it with this.
+
+561
+01:30:03,699 --> 01:30:04,979
+No one is making my life hard.
+
+562
+01:30:11,579 --> 01:30:13,020
+Physics damage on the car.
+
+563
+01:30:13,020 --> 01:30:13,739
+Impressive.
+
+564
+01:30:21,060 --> 01:30:21,619
+God damn it.
+
+565
+01:30:21,619 --> 01:30:22,100
+I was gonna...
+
+566
+01:30:22,659 --> 01:30:32,439
+This is what a windshield is like, huh?
+
+567
+01:30:32,439 --> 01:30:33,899
+Okay, ready?
+
+568
+01:30:46,100 --> 01:30:47,460
+Whoa, underneath.
+
+569
+01:30:47,460 --> 01:30:50,939
+I was trying...
+
+570
+01:30:50,939 --> 01:30:51,659
+Never mind.
+
+571
+01:30:51,659 --> 01:30:56,890
+Do I need to pull this?
+
+572
+01:30:56,890 --> 01:30:57,449
+That...
+
+573
+01:30:57,449 --> 01:30:58,810
+All right, that doesn't break.
+
+574
+01:30:58,810 --> 01:30:59,779
+Let's get onto the hood.
+
+575
+01:31:06,359 --> 01:31:13,050
+All right, turn it on.
+
+576
+01:31:13,050 --> 01:31:16,539
+Let me see if I can find out what the problem is.
+
+577
+01:31:21,640 --> 01:31:21,960
+Yeah.
+
+578
+01:31:24,069 --> 01:31:31,609
+Let me get a better look.
+
+579
+01:31:31,609 --> 01:31:32,890
+I think it might be the battery.
+
+580
+01:31:37,479 --> 01:31:39,319
+Hot, hot, hot, hot, hot.
+
+581
+01:31:39,319 --> 01:31:41,560
+Oh, hot, hot, hot, hot, hot, hot.
+
+582
+01:31:41,560 --> 01:31:42,439
+Oh, I'm sorry.
+
+583
+01:31:43,000 --> 01:31:43,800
+Give me some juice.
+
+584
+01:31:52,149 --> 01:31:53,430
+Ah, no, it's not the battery.
+
+585
+01:31:53,430 --> 01:31:56,060
+I think it's the radiator.
+
+586
+01:31:56,060 --> 01:31:57,579
+Oh, oh, hot, hot, hot.
+
+587
+01:31:58,619 --> 01:31:59,180
+Okay.
+
+588
+01:31:59,180 --> 01:32:00,300
+No more hot joke.
+
+589
+01:32:04,630 --> 01:32:05,430
+How is this still on?
+
+590
+01:32:05,989 --> 01:32:10,920
+There's no way it's still on.
+
+591
+01:32:19,420 --> 01:32:20,539
+There's no way this is still on.
+
+592
+01:32:31,350 --> 01:32:32,550
+Somebody getting in.
+
+593
+01:32:32,550 --> 01:32:33,670
+Let me get in there and see.
+
+594
+01:32:34,630 --> 01:32:38,149
+Yeah, it looks like there's a couple of issues here with your glue gun.
+
+595
+01:32:39,189 --> 01:32:45,659
+Um, what did I just do?
+
+596
+01:32:46,539 --> 01:32:50,069
+Oh, that's the...
+
+597
+01:32:51,430 --> 01:32:52,869
+Oh, this is where you pilot the car.
+
+598
+01:32:52,869 --> 01:32:53,189
+Right.
+
+599
+01:32:53,989 --> 01:32:54,789
+What the fuck?
+
+600
+01:32:55,750 --> 01:33:04,970
+I think that's it.
+
+601
+01:33:05,529 --> 01:33:06,649
+Did the dash come out?
+
+602
+01:33:07,850 --> 01:33:11,770
+I want to see if the car will still run after all this.
+
+603
+01:33:12,729 --> 01:33:14,250
+Oh, a crystal.
+
+604
+01:33:14,890 --> 01:33:18,300
+Blue crystal.
+
+605
+01:33:19,100 --> 01:33:27,260
+A dragon egg.
+
+606
+01:33:28,140 --> 01:33:40,810
+All right, I'm going to have to get some tools here in a second.
+
+607
+01:33:41,609 --> 01:33:50,939
+Wait.
+
+608
+01:34:05,800 --> 01:34:08,119
+Ah, hold on.
+
+609
+01:34:32,119 --> 01:34:33,319
+Why did that?
+
+610
+01:34:35,000 --> 01:34:35,960
+I can't back it up.
+
+611
+01:34:37,079 --> 01:34:38,840
+This is fucking Nintendo Labo.
+
+612
+01:34:39,560 --> 01:34:42,250
+Oh, broke my headline.
+
+613
+01:34:42,250 --> 01:34:42,649
+Oh, no.
+
+614
+01:34:43,369 --> 01:34:45,659
+Jesus Christ.
+
+615
+01:34:59,430 --> 01:34:59,750
+Get...
+
+616
+01:35:01,270 --> 01:35:06,409
+I need to get a glass.
+
+617
+01:35:06,409 --> 01:35:19,720
+That worked.
+
+618
+01:35:19,720 --> 01:35:22,949
+Get the back fin here.
+
+619
+01:35:22,949 --> 01:35:25,819
+What have we got?
+
+620
+01:35:25,819 --> 01:35:26,939
+72 more parts.
+
+621
+01:35:26,939 --> 01:35:28,460
+Holy God, are you kidding me?
+
+622
+01:35:28,460 --> 01:35:29,340
+Wait, did I fail it?
+
+623
+01:35:30,220 --> 01:35:30,619
+No.
+
+624
+01:35:30,619 --> 01:35:32,699
+Okay, I didn't know if it exploded was a fail.
+
+625
+01:35:38,869 --> 01:35:41,270
+Anything more to the seats besides just the seat?
+
+626
+01:35:42,069 --> 01:35:46,760
+Nice, like, gamer chair.
+
+627
+01:35:47,319 --> 01:35:52,220
+Wait a minute.
+
+628
+01:35:52,220 --> 01:35:55,500
+Is a gamer chair just a car chair?
+
+629
+01:35:59,060 --> 01:35:59,460
+It is.
+
+630
+01:36:00,100 --> 01:36:07,380
+What?
+
+631
+01:36:09,399 --> 01:36:10,279
+It is, isn't it?
+
+632
+01:36:17,460 --> 01:36:18,260
+Okay.
+
+633
+01:36:18,260 --> 01:36:22,460
+All right, down here.
+
+634
+01:36:22,460 --> 01:36:24,619
+All right, I'm going to have to stand up for the next few
+
+635
+01:36:24,619 --> 01:36:27,020
+because I'm actually getting motion sick sitting here doing this.
+
+636
+01:36:27,739 --> 01:36:31,140
+After we're done with the car, I'm going to have to stretch
+
+637
+01:36:31,140 --> 01:36:32,500
+and I'm going to stand up and move the camera
+
+638
+01:36:32,500 --> 01:36:33,699
+because I'm actually going to throw up.
+
+639
+01:36:34,659 --> 01:36:35,380
+It's just like this...
+
+640
+01:36:37,210 --> 01:36:38,729
+Oh, no, I got to get up.
+
+641
+01:36:40,279 --> 01:36:41,479
+I got to get out of this chair.
+
+642
+01:36:45,880 --> 01:36:47,399
+Movement without movement is just...
+
+643
+01:36:48,439 --> 01:36:49,000
+You're going to hurl.
+
+644
+01:36:54,789 --> 01:36:55,829
+And plus, this is like...
+
+645
+01:36:56,869 --> 01:37:00,470
+I'm spinning around and coiling myself up like a snake.
+
+646
+01:37:01,189 --> 01:37:13,619
+Get this out of here.
+
+647
+01:37:14,340 --> 01:37:21,539
+Both mufflers?
+
+648
+01:37:22,630 --> 01:37:23,109
+Goodbye?
+
+649
+01:37:23,829 --> 01:37:28,340
+I think I got to unscrew some shit.
+
+650
+01:37:30,199 --> 01:37:30,840
+I think so.
+
+651
+01:37:31,560 --> 01:37:35,109
+Can I move the car back?
+
+652
+01:37:35,109 --> 01:37:37,640
+All right, no, I got to stand up.
+
+653
+01:37:42,899 --> 01:37:43,460
+Hold on.
+
+654
+01:37:44,100 --> 01:37:44,739
+I'm going to puke.
+
+655
+01:37:45,380 --> 01:37:49,109
+I'm going back to standing.
+
+656
+01:37:49,109 --> 01:37:55,670
+This is a failed experiment.
+
+657
+01:37:56,550 --> 01:37:57,029
+Okay.
+
+658
+01:37:57,029 --> 01:37:57,989
+All right.
+
+659
+01:37:57,989 --> 01:38:18,729
+I'm going to move the camera.
+
+660
+01:38:18,729 --> 01:38:21,939
+Yeah, I got to move around.
+
+661
+01:38:21,939 --> 01:38:27,189
+How are we looking?
+
+662
+01:38:27,189 --> 01:38:27,989
+That's all right.
+
+663
+01:38:27,989 --> 01:38:37,689
+Maybe a little bit lower.
+
+664
+01:38:37,689 --> 01:38:42,489
+Maybe a whole sleeve of Oreos will make you feel better.
+
+665
+01:38:42,489 --> 01:38:44,010
+That's not a bad fucking idea.
+
+666
+01:38:44,489 --> 01:38:45,529
+That's not a bad idea.
+
+667
+01:38:45,529 --> 01:38:48,579
+Like an entire sleeve?
+
+668
+01:38:49,300 --> 01:38:50,739
+A little bit more head room.
+
+669
+01:38:58,119 --> 01:38:59,399
+All right, let's get untangled.
+
+670
+01:38:59,399 --> 01:39:02,710
+This, I feel better already from standing up.
+
+671
+01:39:03,350 --> 01:39:03,510
+Good.
+
+672
+01:39:03,510 --> 01:39:04,149
+Very good.
+
+673
+01:39:04,710 --> 01:39:10,470
+It's a bit?
+
+674
+01:39:10,470 --> 01:39:10,869
+What's a bit?
+
+675
+01:39:10,869 --> 01:39:25,340
+I'm not joking.
+
+676
+01:39:25,340 --> 01:39:27,189
+Do you think I'm joking?
+
+677
+01:39:27,829 --> 01:39:29,029
+No, I'm holding back puke.
+
+678
+01:39:29,750 --> 01:39:31,000
+I'm kidding.
+
+679
+01:39:31,000 --> 01:39:31,560
+I'm kidding.
+
+680
+01:39:31,560 --> 01:39:32,039
+I'm kidding.
+
+681
+01:39:32,039 --> 01:39:39,619
+Ah!
+
+682
+01:39:39,619 --> 01:39:40,579
+All right.
+
+683
+01:39:40,579 --> 01:39:42,500
+Better.
+
+684
+01:39:42,500 --> 01:39:43,779
+Let's keep doing this shit.
+
+685
+01:39:43,779 --> 01:39:44,520
+I feel better now.
+
+686
+01:39:44,520 --> 01:39:45,079
+Already.
+
+687
+01:39:45,079 --> 01:39:46,470
+Better already.
+
+688
+01:39:47,189 --> 01:39:48,470
+I don't even know what I picked up.
+
+689
+01:39:49,510 --> 01:39:57,100
+Let's get this shit out.
+
+690
+01:39:57,100 --> 01:40:09,689
+So this is a, uh, this is a, no, wrench.
+
+691
+01:40:10,250 --> 01:40:14,819
+No, wrench.
+
+692
+01:40:15,899 --> 01:40:16,539
+Wrench, right?
+
+693
+01:40:16,539 --> 01:40:17,180
+Get back here.
+
+694
+01:40:17,979 --> 01:40:20,260
+Flyers or wrench?
+
+695
+01:40:20,260 --> 01:40:20,579
+Wrench.
+
+696
+01:40:21,220 --> 01:40:28,170
+Can I do it with flyers?
+
+697
+01:40:28,170 --> 01:40:28,409
+No.
+
+698
+01:40:32,890 --> 01:40:38,039
+Upcap.
+
+699
+01:40:38,760 --> 01:40:47,289
+I think I need the, uh, yeah, I need the, although sitting down, you don't do that.
+
+700
+01:40:47,850 --> 01:40:51,800
+It's a brake lock.
+
+701
+01:40:53,319 --> 01:40:58,300
+Nice.
+
+702
+01:41:04,869 --> 01:41:07,029
+Give me the, uh, give me the, uh, yeah.
+
+703
+01:41:07,029 --> 01:41:11,689
+Down with you.
+
+704
+01:41:11,689 --> 01:41:12,890
+I think that's it with here.
+
+705
+01:41:14,199 --> 01:41:14,840
+Oh my God.
+
+706
+01:41:14,840 --> 01:41:15,479
+What's going on?
+
+707
+01:41:16,119 --> 01:41:18,569
+People giving community subs?
+
+708
+01:41:20,119 --> 01:41:21,399
+Uh, pixel bike.
+
+709
+01:41:21,399 --> 01:41:22,680
+Thanks for five community subs.
+
+710
+01:41:22,680 --> 01:41:24,039
+There was another one before that I missed.
+
+711
+01:41:26,460 --> 01:41:27,020
+Big subs.
+
+712
+01:41:27,020 --> 01:41:27,739
+Thanks a lot, guys.
+
+713
+01:41:30,279 --> 01:41:33,909
+I missed, uh, probably a couple that came in, but thank you.
+
+714
+01:41:39,689 --> 01:41:40,649
+Oh, Pogchamp.
+
+715
+01:41:41,770 --> 01:41:42,729
+No, thanks a lot, guys.
+
+716
+01:41:44,979 --> 01:41:46,659
+More community subs coming in.
+
+717
+01:41:50,340 --> 01:41:52,409
+That's what I wanted.
+
+718
+01:41:52,409 --> 01:42:03,340
+Throw it off.
+
+719
+01:42:03,340 --> 01:42:06,569
+These can come off now.
+
+720
+01:42:06,569 --> 01:42:09,479
+All right, now we're just down to, like, the meat of the car.
+
+721
+01:42:10,199 --> 01:42:15,670
+Dude, why, why doesn't, like, the gamer chair companies make this?
+
+722
+01:42:16,630 --> 01:42:19,829
+It's a double gamer chair.
+
+723
+01:42:20,390 --> 01:42:23,739
+Do they make this?
+
+724
+01:42:25,850 --> 01:42:27,369
+A gamer couch.
+
+725
+01:42:35,180 --> 01:42:36,460
+A gamer couch.
+
+726
+01:42:40,300 --> 01:42:41,579
+Uh, what else is free?
+
+727
+01:42:41,579 --> 01:42:42,060
+Anything else?
+
+728
+01:42:42,060 --> 01:42:43,020
+I got to just do the tires.
+
+729
+01:42:43,989 --> 01:42:45,430
+Uh, do all four tires.
+
+730
+01:42:45,430 --> 01:42:46,069
+Get it over with.
+
+731
+01:42:55,289 --> 01:42:58,420
+Wink.
+
+732
+01:42:58,420 --> 01:43:02,380
+I use the crowbar.
+
+733
+01:43:03,020 --> 01:43:04,890
+Pull the shit up.
+
+734
+01:43:09,000 --> 01:43:09,560
+Brake pad.
+
+735
+01:43:11,560 --> 01:43:15,100
+Uh, it's a turn device.
+
+736
+01:43:15,100 --> 01:43:15,659
+Whatever it is.
+
+737
+01:43:17,529 --> 01:43:19,609
+Now, how do we get this shit off?
+
+738
+01:43:20,409 --> 01:43:23,829
+A wrench for that one?
+
+739
+01:43:24,550 --> 01:43:27,479
+Is this connected to something?
+
+740
+01:43:27,479 --> 01:43:32,340
+I'm not sure what this is exactly connected to.
+
+741
+01:43:32,340 --> 01:43:33,460
+I think I have to get rid of this first.
+
+742
+01:43:34,260 --> 01:43:36,060
+I think.
+
+743
+01:43:36,699 --> 01:43:38,869
+Let's find out.
+
+744
+01:43:43,430 --> 01:43:43,930
+Hmm.
+
+745
+01:43:46,020 --> 01:43:46,520
+Shit.
+
+746
+01:43:51,289 --> 01:43:52,250
+Is there a screw here?
+
+747
+01:43:53,800 --> 01:43:54,760
+I don't think so.
+
+748
+01:43:54,760 --> 01:43:56,359
+I think it's just wedged in up here.
+
+749
+01:44:02,869 --> 01:44:03,369
+Crowbar?
+
+750
+01:44:04,069 --> 01:44:09,720
+I don't know.
+
+751
+01:44:09,720 --> 01:44:10,220
+Chainsaw.
+
+752
+01:44:15,880 --> 01:44:18,420
+Uh, I'm gonna flip the car upside down.
+
+753
+01:44:21,739 --> 01:44:26,310
+What's that?
+
+754
+01:44:26,310 --> 01:44:27,829
+Why is there, like, why is it leaking?
+
+755
+01:44:28,869 --> 01:44:30,310
+All right, this is connected to here.
+
+756
+01:44:34,359 --> 01:44:34,840
+There we go.
+
+757
+01:44:35,989 --> 01:44:37,109
+Can I pull these off?
+
+758
+01:44:37,109 --> 01:44:37,590
+Yeah, I can.
+
+759
+01:44:44,760 --> 01:44:45,800
+No, I cannot.
+
+760
+01:44:47,260 --> 01:44:48,300
+Said tool required.
+
+761
+01:44:49,020 --> 01:44:53,590
+Maybe not.
+
+762
+01:44:55,770 --> 01:44:57,130
+We'll find out later.
+
+763
+01:44:57,130 --> 01:45:01,380
+I think I can rip this out with the wrench.
+
+764
+01:45:02,489 --> 01:45:03,210
+No.
+
+765
+01:45:03,210 --> 01:45:07,369
+All right, let's go for gold here.
+
+766
+01:45:08,890 --> 01:45:09,390
+Never mind.
+
+767
+01:45:10,010 --> 01:45:19,850
+Will you please just pick it up?
+
+768
+01:45:21,930 --> 01:45:22,970
+I'm about to do it lefty.
+
+769
+01:45:24,229 --> 01:45:26,149
+You ever see somebody hold out javelin like this?
+
+770
+01:45:26,869 --> 01:45:37,750
+Just get away from me, please!
+
+771
+01:45:38,550 --> 01:45:48,710
+All right, tool to rip this off.
+
+772
+01:45:48,710 --> 01:45:49,210
+Got it.
+
+773
+01:45:49,590 --> 01:45:55,449
+I can pull these up now.
+
+774
+01:45:56,090 --> 01:45:56,890
+Very nice.
+
+775
+01:46:00,619 --> 01:46:02,460
+This is bolted somehow.
+
+776
+01:46:02,460 --> 01:46:02,960
+Or is it?
+
+777
+01:46:06,170 --> 01:46:07,930
+Okay, I did think I was gonna be able to do that.
+
+778
+01:46:09,739 --> 01:46:11,619
+All right, now I can flip it back around.
+
+779
+01:46:12,420 --> 01:46:19,220
+What's left?
+
+780
+01:46:19,220 --> 01:46:20,260
+33 pieces.
+
+781
+01:46:20,260 --> 01:46:21,619
+I might have to take the whole engine apart.
+
+782
+01:46:22,260 --> 01:46:35,529
+All right, this is the, this is the orbit.
+
+783
+01:46:35,529 --> 01:46:36,890
+This is the tuba.
+
+784
+01:46:37,850 --> 01:46:40,899
+Okay, don't tell me you didn't blow into the top of that thing.
+
+785
+01:46:40,899 --> 01:46:42,819
+It wouldn't make like four separate weird noises.
+
+786
+01:46:47,779 --> 01:46:53,399
+You can probably harmonize with that thing with one note.
+
+787
+01:46:56,060 --> 01:46:58,359
+All right, engine.
+
+788
+01:46:59,000 --> 01:47:00,119
+Engine is detached.
+
+789
+01:47:00,680 --> 01:47:02,220
+So it's a big staple.
+
+790
+01:47:03,670 --> 01:47:04,550
+Now, here we go.
+
+791
+01:47:05,270 --> 01:47:11,079
+I think there's more to meets the eye here with this thing.
+
+792
+01:47:12,119 --> 01:47:13,689
+Maybe not.
+
+793
+01:47:20,789 --> 01:47:21,289
+Tires.
+
+794
+01:47:21,829 --> 01:47:26,100
+And then we gotta go searching for the next little bit here.
+
+795
+01:47:29,850 --> 01:47:32,659
+In a minute.
+
+796
+01:47:32,659 --> 01:47:39,619
+Oh, I got the turkey leg.
+
+797
+01:47:40,260 --> 01:47:47,130
+That's it.
+
+798
+01:47:48,409 --> 01:47:50,180
+The meowing engine.
+
+799
+01:47:50,819 --> 01:47:51,539
+Is it meowing?
+
+800
+01:47:55,930 --> 01:47:58,010
+All right, only a few more things left, I think.
+
+801
+01:47:58,010 --> 01:47:59,609
+Yeah, we're down to like the last little bit here.
+
+802
+01:48:00,329 --> 01:48:06,149
+It's the two tires.
+
+803
+01:48:09,829 --> 01:48:10,329
+Lovely.
+
+804
+01:48:10,949 --> 01:48:16,149
+You can get that off.
+
+805
+01:48:16,149 --> 01:48:18,390
+Does this have to, does this come apart?
+
+806
+01:48:18,390 --> 01:48:20,869
+Oh shit, it does.
+
+807
+01:48:20,869 --> 01:48:21,750
+I don't even know if this is.
+
+808
+01:48:23,109 --> 01:48:25,350
+How would you go back together?
+
+809
+01:48:28,149 --> 01:48:28,869
+Oh my god.
+
+810
+01:48:29,979 --> 01:48:30,779
+Get out of my way.
+
+811
+01:48:33,300 --> 01:48:41,020
+There's the, there's the rumor.
+
+812
+01:48:41,579 --> 01:48:42,760
+All right, here we go.
+
+813
+01:48:42,760 --> 01:48:43,399
+Yeah, this is it.
+
+814
+01:48:43,399 --> 01:48:44,279
+I got it.
+
+815
+01:48:44,279 --> 01:48:44,779
+Victory.
+
+816
+01:48:47,500 --> 01:48:48,539
+And other tire right here.
+
+817
+01:48:53,689 --> 01:48:56,149
+Finally took long enough.
+
+818
+01:48:59,670 --> 01:49:00,630
+19 minutes.
+
+819
+01:49:06,300 --> 01:49:07,260
+We did it, Reddit.
+
+820
+01:49:09,640 --> 01:49:11,159
+We did it, Reddit.
+
+821
+01:49:11,159 --> 01:49:12,789
+All right, what else we got?
+
+822
+01:49:13,590 --> 01:49:14,550
+It's Titanic.
+
+823
+01:49:15,960 --> 01:49:19,239
+Car, airplane, toaster, coffee grinder.
+
+824
+01:49:20,199 --> 01:49:22,939
+Train, deep tank.
+
+825
+01:49:23,739 --> 01:49:30,039
+I kind of want to, what do you think?
+
+826
+01:49:31,699 --> 01:49:32,979
+Go back to the Titanic.
+
+827
+01:49:33,539 --> 01:49:40,220
+I need to like stretch.
+
+828
+01:49:41,180 --> 01:49:42,619
+My body is so broken.
+
+829
+01:49:44,649 --> 01:49:45,149
+All right.
+
+830
+01:49:46,810 --> 01:49:53,340
+How do I, okay, I'm going to say like we're going to pull the bottom out.
+
+831
+01:49:53,899 --> 01:49:57,340
+I think that's the most reliable.
+
+832
+01:49:57,340 --> 01:49:58,300
+Just rip the bottom out.
+
+833
+01:49:58,300 --> 01:50:01,500
+Just take the napkin from underneath all the shit and it'll all fall down.
+
+834
+01:50:02,140 --> 01:50:04,029
+Watch this.
+
+835
+01:50:12,010 --> 01:50:13,369
+Down, down, down, down, down.
+
+836
+01:50:13,369 --> 01:50:16,970
+And what is in here?
+
+837
+01:50:17,050 --> 01:50:18,250
+Is it like the engine room?
+
+838
+01:50:18,250 --> 01:50:19,369
+All right, I'm going to take the bottom.
+
+839
+01:50:19,369 --> 01:50:20,489
+I'm just going to pull the bottom out.
+
+840
+01:50:21,289 --> 01:50:23,850
+I'm just going to take one piece.
+
+841
+01:50:27,079 --> 01:50:28,039
+Right like down here.
+
+842
+01:50:28,039 --> 01:50:29,079
+I'm just going to rip the whole thing.
+
+843
+01:50:29,880 --> 01:50:30,380
+Ready?
+
+844
+01:50:38,329 --> 01:50:38,829
+Almost.
+
+845
+01:50:46,340 --> 01:50:47,539
+Fucking explosions, man.
+
+846
+01:50:47,539 --> 01:50:48,579
+They're so intense.
+
+847
+01:50:53,340 --> 01:50:54,380
+It's that easy.
+
+848
+01:50:55,100 --> 01:50:58,460
+Or is it?
+
+849
+01:50:59,020 --> 01:51:02,680
+I might have to go to the bottom of the ocean and clean this and rip these apart.
+
+850
+01:51:03,319 --> 01:51:08,840
+Well, that would be a pain in the ass, wouldn't it?
+
+851
+01:51:11,079 --> 01:51:15,750
+God damn it.
+
+852
+01:51:16,710 --> 01:51:21,300
+I got to turn the thing on.
+
+853
+01:51:21,300 --> 01:51:22,260
+That makes me move faster.
+
+854
+01:51:22,739 --> 01:51:27,770
+This bubble's just too big.
+
+855
+01:51:33,510 --> 01:51:34,869
+Damn it, it's like a gunshot.
+
+856
+01:51:35,670 --> 01:51:45,609
+Pick it up.
+
+857
+01:51:45,609 --> 01:51:46,489
+Grab it, grab it, grab it.
+
+858
+01:51:48,489 --> 01:51:50,970
+Now, I don't know if I'm going to be able to...
+
+859
+01:51:50,970 --> 01:51:52,409
+This is going to take so long.
+
+860
+01:51:56,300 --> 01:51:57,020
+How would you not do...
+
+861
+01:51:57,020 --> 01:51:59,500
+How would you do this without like a fucking grenade?
+
+862
+01:52:00,619 --> 01:52:05,850
+Oh, 144 parts.
+
+863
+01:52:05,850 --> 01:52:08,970
+I got to go in and disassemble every stool.
+
+864
+01:52:12,020 --> 01:52:13,479
+Oh, there it goes.
+
+865
+01:52:14,199 --> 01:52:22,729
+143.
+
+866
+01:52:22,729 --> 01:52:23,289
+What's it going to do?
+
+867
+01:52:24,090 --> 01:52:40,039
+I got to go in and take out everything.
+
+868
+01:52:40,039 --> 01:52:49,180
+All right, give me the super speed.
+
+869
+01:52:50,939 --> 01:52:58,970
+This is going to take forever.
+
+870
+01:53:00,010 --> 01:53:03,659
+Because the thing is, if you try to destroy it one little piece at a time, it just explodes.
+
+871
+01:53:03,659 --> 01:53:05,659
+It just goes like, boom!
+
+872
+01:53:08,460 --> 01:53:21,109
+I'm just like an anime character blasting through this.
+
+873
+01:53:22,630 --> 01:53:29,079
+And here we go!
+
+874
+01:53:29,800 --> 01:53:43,699
+I'm just going to go through the middle.
+
+875
+01:53:43,699 --> 01:53:44,500
+Watch this, ready?
+
+876
+01:53:45,539 --> 01:53:46,340
+I think I did it.
+
+877
+01:53:46,340 --> 01:53:55,750
+Kind of.
+
+878
+01:53:55,750 --> 01:53:56,310
+Fuck.
+
+879
+01:53:56,789 --> 01:53:57,670
+Kind of.
+
+880
+01:53:57,670 --> 01:54:00,890
+Fuck.
+
+881
+01:54:00,890 --> 01:54:10,420
+Here we go.
+
+882
+01:54:38,229 --> 01:54:39,189
+Sorry!
+
+883
+01:54:39,189 --> 01:54:41,850
+I can't stop!
+
+884
+01:54:46,890 --> 01:54:47,770
+Oh!
+
+885
+01:54:47,770 --> 01:54:49,380
+Can it be done?
+
+886
+01:55:01,579 --> 01:55:03,979
+Oh my god, I have 109.
+
+887
+01:55:16,550 --> 01:55:18,979
+I'm going to explode.
+
+888
+01:55:19,699 --> 01:55:26,199
+I am never going to be able to do this.
+
+889
+01:55:26,840 --> 01:55:29,800
+Would you touch anything?
+
+890
+01:55:31,300 --> 01:55:32,420
+I'm going to destroy these things.
+
+891
+01:55:35,289 --> 01:55:35,850
+No, I'm not!
+
+892
+01:55:35,850 --> 01:55:38,729
+Oh, it's taking like 20 minutes when I make my way over there.
+
+893
+01:55:55,670 --> 01:56:03,619
+No, just gravity gun.
+
+894
+01:56:09,989 --> 01:56:11,590
+It's just, it's too wedged in.
+
+895
+01:56:12,229 --> 01:56:22,470
+All right, fuck it.
+
+896
+01:56:23,590 --> 01:56:24,470
+I can't do this one.
+
+897
+01:56:24,470 --> 01:56:26,310
+It's going to take like two hours to do this.
+
+898
+01:56:26,949 --> 01:56:28,979
+I'm just going to suck it up.
+
+899
+01:56:44,260 --> 01:57:06,970
+I feel like I'm in the middle of that mission in Half-Life when you first
+
+900
+01:57:06,970 --> 01:57:11,640
+roll the cart into the electromagnetic spectrum thing.
+
+901
+01:57:12,760 --> 01:57:19,850
+This is 70 more times.
+
+902
+01:57:56,579 --> 01:58:11,930
+All right, I can't, I'm done.
+
+903
+01:58:12,569 --> 01:58:16,069
+I'm done.
+
+904
+01:58:16,069 --> 01:58:17,689
+I did it.
+
+905
+01:58:17,689 --> 01:58:18,010
+I'm done.
+
+906
+01:58:26,260 --> 01:58:27,619
+This is going to actually be the same.
+
+907
+01:58:37,140 --> 01:58:39,859
+I have no idea where these other 24 pieces are.
+
+908
+01:58:49,529 --> 01:58:51,689
+I know they could be anywhere.
+
+909
+01:58:51,689 --> 01:58:57,189
+It's 21.
+
+910
+01:58:57,189 --> 01:58:58,069
+I think it could be anywhere.
+
+911
+01:58:58,069 --> 01:58:59,430
+It could be any one of these.
+
+912
+01:58:59,430 --> 01:59:18,380
+It's 21 still!
+
+913
+01:59:22,039 --> 01:59:23,079
+It's not possible.
+
+914
+01:59:31,500 --> 01:59:33,100
+Where is the other piece?
+
+915
+01:59:33,979 --> 01:59:50,250
+Is there any more?
+
+916
+01:59:53,989 --> 01:59:54,630
+Does this count?
+
+917
+02:00:25,619 --> 02:00:30,310
+Okay, that's it.
+
+918
+02:00:30,310 --> 02:00:31,109
+I'm sorry.
+
+919
+02:00:31,109 --> 02:00:31,989
+I don't care.
+
+920
+02:00:32,710 --> 02:00:34,710
+I don't care if I get a heart attack on this one.
+
+921
+02:00:36,659 --> 02:00:38,500
+My like psyche is going to break down.
+
+922
+02:00:58,659 --> 02:01:09,369
+No, no, no, what are you doing?
+
+923
+02:01:09,369 --> 02:01:10,010
+No!
+
+924
+02:01:10,010 --> 02:01:12,659
+That's not what I wanted.
+
+925
+02:01:15,449 --> 02:01:20,949
+Why is this killing me so much?
+
+926
+02:01:21,510 --> 02:01:29,619
+Now give me a headache.
+
+927
+02:01:29,619 --> 02:01:32,180
+Imagine the guy in the inside.
+
+928
+02:01:32,180 --> 02:01:35,590
+I got a headache.
+
+929
+02:01:35,590 --> 02:01:37,779
+Oh, it's like times 10 headache.
+
+930
+02:01:37,779 --> 02:01:47,050
+My friend says you have a long plantain face.
+
+931
+02:01:47,050 --> 02:01:49,260
+Oh, good.
+
+932
+02:01:49,260 --> 02:01:51,020
+Isn't it fucking chiseled?
+
+933
+02:01:51,020 --> 02:01:53,340
+I just chiseled plantain.
+
+934
+02:01:53,340 --> 02:01:57,340
+I don't even know what that means.
+
+935
+02:02:00,250 --> 02:02:03,420
+I can't do mind show right now.
+
+936
+02:02:03,420 --> 02:02:03,819
+I'm going to...
+
+937
+02:02:05,979 --> 02:02:06,619
+Fuck.
+
+938
+02:02:06,619 --> 02:02:11,829
+These VR streams are fucking killing me.
+
+939
+02:02:11,829 --> 02:02:15,590
+It's like every day I lose.
+
+940
+02:02:16,460 --> 02:02:20,460
+Every day I lose a little more energy.
+
+941
+02:02:20,460 --> 02:02:23,909
+Doing it like two or three times in a row.
+
+942
+02:02:23,909 --> 02:02:25,189
+It's so fun though.
+
+943
+02:02:25,189 --> 02:02:27,720
+I think I can do a couple...
+
+944
+02:02:27,720 --> 02:02:28,520
+Hold on.
+
+945
+02:02:28,520 --> 02:02:34,359
+Plantain's a banana.
+
+946
+02:02:34,359 --> 02:02:36,409
+Oh, whatever.
+
+947
+02:02:36,409 --> 02:02:37,449
+I've got like a banana face.
+
+948
+02:02:37,449 --> 02:02:37,850
+That's fine.
+
+949
+02:02:41,739 --> 02:02:43,020
+I want to keep playing that.
+
+950
+02:02:43,579 --> 02:02:48,199
+I thought bringing the chair in was going to help.
+
+951
+02:02:48,760 --> 02:02:50,279
+I'll bring a chair in and sit out
+
+952
+02:02:50,279 --> 02:02:52,619
+and feel like I'm going to throw up.
+
+953
+02:02:52,699 --> 02:02:54,390
+It's all right.
+
+954
+02:02:54,390 --> 02:02:55,430
+I just need a second.
+
+955
+02:02:55,430 --> 02:02:56,069
+We'll go back in.
+
+956
+02:03:00,149 --> 02:03:01,420
+Where's my library?
+
+957
+02:03:05,260 --> 02:03:06,060
+All right.
+
+958
+02:03:06,060 --> 02:03:09,100
+What happened to it?
+
+959
+02:03:09,100 --> 02:03:10,949
+There it is.
+
+960
+02:03:10,949 --> 02:03:11,189
+Okay.
+
+961
+02:03:11,189 --> 02:03:11,590
+Let's go.
+
+962
+02:03:15,770 --> 02:03:27,000
+There comes a puking stream.
+
+963
+02:03:27,000 --> 02:03:29,880
+Nah, it was just zooming in really fast.
+
+964
+02:03:30,520 --> 02:03:31,399
+Sitting down in the chair.
+
+965
+02:03:40,600 --> 02:03:41,960
+Blade and Sorcery got a big update.
+
+966
+02:03:41,960 --> 02:03:42,760
+Maybe we'll check it out.
+
+967
+02:03:47,699 --> 02:03:47,939
+All right.
+
+968
+02:03:47,939 --> 02:03:48,579
+Let me get in here.
+
+969
+02:03:50,020 --> 02:03:50,739
+Let's do the computer.
+
+970
+02:03:50,739 --> 02:03:51,619
+The computer sounds fun.
+
+971
+02:03:58,149 --> 02:03:58,869
+I'm going to be honest.
+
+972
+02:04:00,340 --> 02:04:02,659
+Any next game in VR is going to be like
+
+973
+02:04:03,460 --> 02:04:04,260
+Blade and Sorcery.
+
+974
+02:04:04,260 --> 02:04:06,260
+I have to fucking move around and swing around.
+
+975
+02:04:08,470 --> 02:04:10,550
+I might not be able to do that for very long.
+
+976
+02:04:10,550 --> 02:04:14,420
+I'm getting like that fucking like puke reflex.
+
+977
+02:04:18,550 --> 02:04:20,149
+It's from sitting down.
+
+978
+02:04:20,149 --> 02:04:22,310
+And you know when you like get that after a while,
+
+979
+02:04:22,310 --> 02:04:24,710
+you get that feeling and then like you can't get rid of it.
+
+980
+02:04:28,600 --> 02:04:29,560
+Getting up made it better.
+
+981
+02:04:29,560 --> 02:04:30,119
+And then like there.
+
+982
+02:04:33,720 --> 02:04:34,359
+Oh my God.
+
+983
+02:04:34,359 --> 02:04:35,800
+I was being just attacked.
+
+984
+02:04:36,680 --> 02:04:41,619
+Let's do the computer.
+
+985
+02:04:42,180 --> 02:04:47,159
+Drone, TV, submarine.
+
+986
+02:04:47,159 --> 02:04:48,199
+Some of these are so fun.
+
+987
+02:04:49,779 --> 02:04:50,340
+Microwave.
+
+988
+02:04:59,239 --> 02:05:00,199
+What is happening here?
+
+989
+02:05:06,970 --> 02:05:08,170
+Something is not right.
+
+990
+02:05:11,510 --> 02:05:12,149
+That's odd.
+
+991
+02:05:23,960 --> 02:05:25,079
+Is it like the pizza?
+
+992
+02:05:29,159 --> 02:05:30,600
+Did I fry my GPU?
+
+993
+02:05:31,420 --> 02:05:32,220
+I don't think so.
+
+994
+02:05:32,220 --> 02:05:32,539
+Hold on.
+
+995
+02:05:34,789 --> 02:05:35,350
+Oh no.
+
+996
+02:05:40,819 --> 02:05:41,460
+Oh no.
+
+997
+02:05:42,500 --> 02:05:43,380
+Oh no.
+
+998
+02:05:44,340 --> 02:05:46,340
+Now wait.
+
+999
+02:05:49,739 --> 02:05:50,060
+Fixed.
+
+1000
+02:05:50,779 --> 02:05:51,180
+We're good.
+
+1001
+02:05:54,069 --> 02:05:55,109
+The window wasn't in focus.
+
+1002
+02:05:57,210 --> 02:05:57,850
+Weirdly enough.
+
+1003
+02:05:58,409 --> 02:06:02,659
+All right.
+
+1004
+02:06:02,659 --> 02:06:04,260
+So let's do microwave.
+
+1005
+02:06:04,260 --> 02:06:06,970
+We've got 113 pieces.
+
+1006
+02:06:06,970 --> 02:06:07,289
+Let's see.
+
+1007
+02:06:07,289 --> 02:06:08,489
+Let's cook something.
+
+1008
+02:06:08,489 --> 02:06:34,890
+You're not supposed to put metal in the microwave.
+
+1009
+02:06:41,579 --> 02:06:42,779
+Why is it not doing anything?
+
+1010
+02:06:55,500 --> 02:07:08,739
+We're going to eat good tonight.
+
+1011
+02:07:08,739 --> 02:07:43,270
+I can't put my head in here.
+
+1012
+02:07:43,270 --> 02:07:49,859
+Okay.
+
+1013
+02:07:51,050 --> 02:07:51,609
+Jesus.
+
+1014
+02:07:51,609 --> 02:07:51,850
+All right.
+
+1015
+02:07:51,850 --> 02:07:52,489
+Let's try it again.
+
+1016
+02:08:04,659 --> 02:08:08,100
+Why is everything so fragile in this game?
+
+1017
+02:08:08,100 --> 02:08:08,500
+Seriously.
+
+1018
+02:08:08,500 --> 02:08:08,979
+Look at this.
+
+1019
+02:08:08,979 --> 02:08:09,460
+Ready?
+
+1020
+02:08:09,460 --> 02:08:09,939
+Watch this.
+
+1021
+02:08:12,569 --> 02:08:14,409
+It's just a piece of lettuce.
+
+1022
+02:08:14,409 --> 02:08:15,699
+There's a piece of lettuce.
+
+1023
+02:08:17,140 --> 02:08:18,579
+Well, the plating is very important.
+
+1024
+02:08:18,579 --> 02:08:21,060
+You've got to make sure you put your greens
+
+1025
+02:08:21,060 --> 02:08:22,819
+right gently on the plate.
+
+1026
+02:08:22,819 --> 02:08:23,539
+Oh, whoops.
+
+1027
+02:08:23,539 --> 02:08:24,500
+It fucking broke.
+
+1028
+02:08:44,039 --> 02:08:45,159
+Just restart it.
+
+1029
+02:08:45,159 --> 02:08:47,449
+God damn it.
+
+1030
+02:08:47,449 --> 02:08:49,460
+All right.
+
+1031
+02:08:49,460 --> 02:08:50,260
+Forget about this.
+
+1032
+02:08:50,260 --> 02:08:51,300
+We're going to open it up.
+
+1033
+02:08:51,300 --> 02:08:53,220
+What does the microwave even look like inside?
+
+1034
+02:08:53,939 --> 02:08:55,510
+Probably scary.
+
+1035
+02:08:56,229 --> 02:08:59,289
+How terrifying is a microwave?
+
+1036
+02:09:01,560 --> 02:09:02,439
+Microwave the gun.
+
+1037
+02:09:24,149 --> 02:09:24,630
+I did it.
+
+1038
+02:09:25,750 --> 02:09:27,750
+The door wasn't shut all the way.
+
+1039
+02:09:28,550 --> 02:09:38,500
+Hold on.
+
+1040
+02:09:38,500 --> 02:09:54,970
+Cooking with Jerma.
+
+1041
+02:09:54,970 --> 02:09:55,289
+What?
+
+1042
+02:09:55,850 --> 02:10:02,600
+I guess I'll have a pizza.
+
+1043
+02:10:04,699 --> 02:10:05,659
+Oh, it broke.
+
+1044
+02:10:06,060 --> 02:10:11,460
+What's going on?
+
+1045
+02:10:11,460 --> 02:10:19,369
+All right.
+
+1046
+02:10:19,369 --> 02:10:24,739
+I'm going to do it for real this time.
+
+1047
+02:10:24,739 --> 02:10:26,020
+I broke the pizza.
+
+1048
+02:10:27,829 --> 02:10:28,149
+All right.
+
+1049
+02:10:29,460 --> 02:10:32,489
+Panel, door, back panel.
+
+1050
+02:10:32,489 --> 02:10:37,140
+Can I get this again?
+
+1051
+02:10:37,140 --> 02:10:37,939
+I got screws here.
+
+1052
+02:10:38,899 --> 02:10:42,920
+Oh, I'm going to move way too fast.
+
+1053
+02:10:42,920 --> 02:10:48,949
+There we go.
+
+1054
+02:10:48,949 --> 02:10:51,189
+This little room, you can't go that fast.
+
+1055
+02:10:51,189 --> 02:10:52,550
+So let's open this up.
+
+1056
+02:11:05,029 --> 02:11:05,909
+This one's going to be cool.
+
+1057
+02:11:06,630 --> 02:11:06,949
+All right.
+
+1058
+02:11:07,909 --> 02:11:09,350
+Can I get this back panel off?
+
+1059
+02:11:10,649 --> 02:11:10,810
+No.
+
+1060
+02:11:10,810 --> 02:11:11,689
+How do I get that down?
+
+1061
+02:11:19,109 --> 02:11:19,350
+No.
+
+1062
+02:11:20,550 --> 02:11:20,869
+Hold on.
+
+1063
+02:11:20,869 --> 02:11:21,350
+Uh-oh.
+
+1064
+02:11:21,350 --> 02:11:46,310
+Wait, wait, wait.
+
+1065
+02:11:46,310 --> 02:11:46,949
+Cool.
+
+1066
+02:11:46,949 --> 02:11:47,909
+That's it for the panel.
+
+1067
+02:11:52,779 --> 02:11:53,260
+Holy shit.
+
+1068
+02:11:53,260 --> 02:11:53,899
+That's what it looks like.
+
+1069
+02:11:54,539 --> 02:11:55,590
+What a weird machine.
+
+1070
+02:11:56,229 --> 02:12:03,430
+Can I get that screw?
+
+1071
+02:12:04,149 --> 02:12:06,470
+I can get that screw.
+
+1072
+02:12:07,029 --> 02:12:20,810
+Is this top not going to come off?
+
+1073
+02:12:20,810 --> 02:12:21,609
+I got to cut these.
+
+1074
+02:12:24,649 --> 02:12:25,689
+Get that off here now.
+
+1075
+02:12:27,130 --> 02:12:27,770
+Oh, shit.
+
+1076
+02:12:27,770 --> 02:12:28,250
+Oh, shit.
+
+1077
+02:12:28,250 --> 02:12:29,289
+What did I do?
+
+1078
+02:12:29,289 --> 02:12:30,710
+Oh, my God.
+
+1079
+02:12:30,710 --> 02:12:31,189
+What's happening?
+
+1080
+02:12:35,020 --> 02:12:35,899
+Oh, it was the glass.
+
+1081
+02:12:39,529 --> 02:12:41,770
+All right.
+
+1082
+02:12:42,819 --> 02:12:43,619
+Broke right in half.
+
+1083
+02:12:44,420 --> 02:12:47,029
+Can I get this one out too?
+
+1084
+02:12:47,829 --> 02:12:50,170
+I don't think I have to.
+
+1085
+02:12:50,810 --> 02:12:53,619
+Play it out of there.
+
+1086
+02:13:00,489 --> 02:13:01,529
+Why does it have to load this?
+
+1087
+02:13:02,970 --> 02:13:05,880
+I'm going to just get out of here.
+
+1088
+02:13:06,600 --> 02:13:11,500
+This little thing here.
+
+1089
+02:13:12,220 --> 02:13:14,409
+I think I got to take all these off, don't I?
+
+1090
+02:13:14,409 --> 02:13:14,970
+Yes, I do.
+
+1091
+02:13:22,460 --> 02:13:26,100
+Really?
+
+1092
+02:13:26,100 --> 02:13:26,819
+Come on.
+
+1093
+02:13:26,819 --> 02:13:41,210
+Does this still work?
+
+1094
+02:13:41,210 --> 02:13:42,010
+Does this still turn on?
+
+1095
+02:13:45,239 --> 02:13:46,760
+The door's not on it, so it won't work.
+
+1096
+02:13:52,779 --> 02:13:54,060
+Might need it later.
+
+1097
+02:13:54,060 --> 02:14:01,500
+What the fuck is this?
+
+1098
+02:14:02,060 --> 02:14:02,859
+A bulb?
+
+1099
+02:14:03,739 --> 02:14:04,140
+Oops.
+
+1100
+02:14:04,699 --> 02:14:05,529
+Whatever.
+
+1101
+02:14:05,529 --> 02:14:07,050
+Somebody will clean that up later.
+
+1102
+02:14:10,180 --> 02:14:19,239
+Every time I go like this, I want you to edit a lightning strike.
+
+1103
+02:14:27,260 --> 02:14:27,819
+Hmm.
+
+1104
+02:14:27,819 --> 02:14:33,819
+Screws?
+
+1105
+02:14:36,680 --> 02:14:37,770
+No.
+
+1106
+02:14:37,770 --> 02:14:38,649
+Those screws, right?
+
+1107
+02:14:39,289 --> 02:14:55,369
+Do I got to flip it?
+
+1108
+02:14:55,369 --> 02:14:57,529
+I think those little tiny things are right there.
+
+1109
+02:14:57,529 --> 02:14:59,960
+Shit.
+
+1110
+02:14:59,960 --> 02:15:07,670
+I like the little screwdriver.
+
+1111
+02:15:07,670 --> 02:15:14,789
+It's never used.
+
+1112
+02:15:14,789 --> 02:15:17,270
+Only the boss baby one is used.
+
+1113
+02:15:17,270 --> 02:15:18,710
+I want the little one.
+
+1114
+02:15:18,710 --> 02:15:21,689
+Let's go back to that.
+
+1115
+02:15:23,340 --> 02:15:24,060
+Give me the pliers.
+
+1116
+02:15:24,699 --> 02:15:34,380
+I can't get rid of this shit.
+
+1117
+02:15:34,380 --> 02:15:41,579
+Look at this.
+
+1118
+02:15:41,579 --> 02:15:49,819
+All right.
+
+1119
+02:15:49,819 --> 02:15:50,699
+A little fan came out.
+
+1120
+02:15:51,340 --> 02:15:56,470
+Can I get this off?
+
+1121
+02:16:04,489 --> 02:16:05,289
+What was that holding in?
+
+1122
+02:16:05,930 --> 02:16:07,539
+I was holding this in.
+
+1123
+02:16:08,260 --> 02:16:10,069
+This piece right here, right?
+
+1124
+02:16:10,710 --> 02:16:17,430
+Why can't I get this shit off?
+
+1125
+02:16:17,989 --> 02:16:24,300
+You figured I could get this off with the pliers.
+
+1126
+02:16:31,529 --> 02:16:32,729
+I don't even know what that's connected to.
+
+1127
+02:16:33,770 --> 02:16:41,159
+All right.
+
+1128
+02:16:41,159 --> 02:16:41,959
+Here we go.
+
+1129
+02:16:41,959 --> 02:16:43,940
+I got a bunch of straight wires.
+
+1130
+02:16:44,500 --> 02:16:52,170
+Is there a screw?
+
+1131
+02:16:56,250 --> 02:16:56,569
+Screw?
+
+1132
+02:16:57,209 --> 02:17:02,459
+Crowbar?
+
+1133
+02:17:02,459 --> 02:17:09,129
+I think it's too small to put the crowbar in here.
+
+1134
+02:17:09,129 --> 02:17:10,809
+I'm surprised I can't do these.
+
+1135
+02:17:10,809 --> 02:17:11,930
+That's not a real table.
+
+1136
+02:17:11,930 --> 02:17:23,129
+Look at that.
+
+1137
+02:17:23,129 --> 02:17:23,610
+Oh shit.
+
+1138
+02:17:23,610 --> 02:17:24,489
+Flip it upside down.
+
+1139
+02:17:25,850 --> 02:17:27,209
+This is the problem right here.
+
+1140
+02:17:27,209 --> 02:17:28,010
+Just figuring it out.
+
+1141
+02:17:28,729 --> 02:17:43,059
+Okay.
+
+1142
+02:17:44,229 --> 02:17:45,190
+Now what does that do for me?
+
+1143
+02:17:53,590 --> 02:17:53,829
+What?
+
+1144
+02:17:53,829 --> 02:17:54,149
+I don't know.
+
+1145
+02:17:54,149 --> 02:17:55,110
+It just knocks something off.
+
+1146
+02:18:01,530 --> 02:18:03,979
+I think that's good.
+
+1147
+02:18:06,920 --> 02:18:07,879
+Can't remove this yet.
+
+1148
+02:18:07,879 --> 02:18:08,520
+Is this screwed in?
+
+1149
+02:18:13,989 --> 02:18:14,469
+Nice.
+
+1150
+02:18:15,940 --> 02:18:16,899
+Now, can I get it off?
+
+1151
+02:18:18,340 --> 02:18:23,239
+Oh, dick.
+
+1152
+02:18:23,239 --> 02:18:23,959
+Come on.
+
+1153
+02:18:23,959 --> 02:18:37,750
+This thing can be...
+
+1154
+02:18:39,909 --> 02:18:41,270
+That's scaring the fuck out of me.
+
+1155
+02:18:41,270 --> 02:18:41,829
+Stop doing that.
+
+1156
+02:18:43,690 --> 02:18:44,489
+What is happening?
+
+1157
+02:18:47,379 --> 02:18:49,059
+It doesn't like when I pick this up.
+
+1158
+02:18:53,059 --> 02:18:53,379
+Damn.
+
+1159
+02:18:53,379 --> 02:18:53,620
+All right.
+
+1160
+02:18:53,620 --> 02:18:54,579
+This is the middle of there.
+
+1161
+02:18:55,540 --> 02:18:57,879
+This is where all the radiation comes from?
+
+1162
+02:19:00,569 --> 02:19:00,889
+All right.
+
+1163
+02:19:00,889 --> 02:19:01,290
+Let's go...
+
+1164
+02:19:04,579 --> 02:19:08,819
+I still can't get into there.
+
+1165
+02:19:11,159 --> 02:19:12,840
+It's not a real table.
+
+1166
+02:19:13,639 --> 02:19:23,700
+What is holding this thing?
+
+1167
+02:19:23,700 --> 02:19:25,459
+Electromagnetic radiation.
+
+1168
+02:19:26,100 --> 02:19:33,430
+I still don't get what's holding all this shit in.
+
+1169
+02:19:34,469 --> 02:19:36,889
+I guess they're latched in like that.
+
+1170
+02:19:37,610 --> 02:19:41,989
+Stay there.
+
+1171
+02:19:42,709 --> 02:19:45,850
+Stop breaking my game.
+
+1172
+02:19:48,709 --> 02:19:50,309
+I paid good money for this game.
+
+1173
+02:19:50,309 --> 02:19:50,549
+All right.
+
+1174
+02:19:50,549 --> 02:20:01,399
+I think we're getting close.
+
+1175
+02:20:03,579 --> 02:20:03,899
+Six...
+
+1176
+02:20:03,899 --> 02:20:04,700
+Oh my...
+
+1177
+02:20:04,700 --> 02:20:05,020
+Wow.
+
+1178
+02:20:05,819 --> 02:20:07,579
+Did not fix 61 parts.
+
+1179
+02:20:07,579 --> 02:20:08,700
+This is an intricate one.
+
+1180
+02:20:09,420 --> 02:20:20,200
+Gotta get in there.
+
+1181
+02:20:20,840 --> 02:20:30,090
+Yeah.
+
+1182
+02:20:30,090 --> 02:20:31,610
+After this, we'll play Blade and Sorcery.
+
+1183
+02:20:32,250 --> 02:20:35,850
+Until I puke and then leave.
+
+1184
+02:20:36,729 --> 02:20:43,319
+Get your camera ready because there might be a throw-up on camera.
+
+1185
+02:20:43,959 --> 02:20:48,540
+I think that's good for that.
+
+1186
+02:20:48,540 --> 02:20:57,049
+It's still being held in.
+
+1187
+02:21:01,770 --> 02:21:02,489
+By what?
+
+1188
+02:21:16,389 --> 02:21:17,270
+How do I get rid of this?
+
+1189
+02:21:17,829 --> 02:21:21,209
+Is there a screw?
+
+1190
+02:21:21,209 --> 02:21:22,329
+There is a screw, isn't there?
+
+1191
+02:21:33,190 --> 02:21:33,590
+That it?
+
+1192
+02:21:34,229 --> 02:21:34,549
+Yes.
+
+1193
+02:21:37,819 --> 02:21:38,700
+Easy, easy.
+
+1194
+02:21:39,500 --> 02:21:40,809
+The panel can come off.
+
+1195
+02:21:41,690 --> 02:21:42,010
+Right?
+
+1196
+02:21:43,459 --> 02:21:44,420
+Yes, it can.
+
+1197
+02:21:46,309 --> 02:21:46,870
+Excellent.
+
+1198
+02:21:50,010 --> 02:21:50,889
+Shake out the excess.
+
+1199
+02:21:54,200 --> 02:21:55,959
+These are connected to here.
+
+1200
+02:21:56,920 --> 02:21:57,559
+Ultimately.
+
+1201
+02:21:58,360 --> 02:22:00,420
+So the question is, how...
+
+1202
+02:22:00,420 --> 02:22:01,780
+Why can I not unscrew these?
+
+1203
+02:22:02,659 --> 02:22:21,079
+Fucking hell.
+
+1204
+02:22:21,079 --> 02:22:33,719
+Is there a screw?
+
+1205
+02:22:35,350 --> 02:22:36,069
+Help me out here.
+
+1206
+02:22:39,180 --> 02:22:40,139
+I can't get this.
+
+1207
+02:22:40,780 --> 02:22:42,809
+I can't get that off.
+
+1208
+02:22:42,809 --> 02:22:46,940
+Gonna watch wrestling a bit.
+
+1209
+02:22:46,940 --> 02:22:48,379
+What is going on?
+
+1210
+02:22:48,379 --> 02:22:52,409
+What is this paragraph?
+
+1211
+02:22:55,420 --> 02:22:56,540
+What was all over the...
+
+1212
+02:22:57,260 --> 02:22:58,840
+Wait, what's going on?
+
+1213
+02:22:59,399 --> 02:23:00,280
+Did I miss something?
+
+1214
+02:23:01,159 --> 02:23:03,270
+Oh, that was part four?
+
+1215
+02:23:06,870 --> 02:23:08,389
+There's a nut on the screw.
+
+1216
+02:23:09,430 --> 02:23:09,909
+Give me the...
+
+1217
+02:23:10,790 --> 02:23:14,139
+Let me get a good look at this.
+
+1218
+02:23:41,739 --> 02:23:49,059
+I don't know, man.
+
+1219
+02:23:49,059 --> 02:23:50,020
+I'm kind of confused.
+
+1220
+02:23:56,540 --> 02:23:57,500
+Nerd neck.
+
+1221
+02:23:57,500 --> 02:23:59,180
+I mean, I have to be like this.
+
+1222
+02:24:04,309 --> 02:24:06,149
+You unlock tools by completing levels.
+
+1223
+02:24:09,079 --> 02:24:10,920
+So the more level packs you complete,
+
+1224
+02:24:10,920 --> 02:24:11,879
+the more stuff you get.
+
+1225
+02:24:12,520 --> 02:24:16,649
+I'm kind of stuck here though.
+
+1226
+02:24:19,500 --> 02:24:20,780
+Because these can't...
+
+1227
+02:24:20,780 --> 02:24:21,579
+You can lift these up.
+
+1228
+02:24:24,790 --> 02:24:27,700
+Hold on, wait, wait, wait.
+
+1229
+02:24:27,700 --> 02:24:33,290
+Wait a minute.
+
+1230
+02:24:33,290 --> 02:24:34,010
+Give me the pliers.
+
+1231
+02:24:40,790 --> 02:24:41,190
+Come on.
+
+1232
+02:24:44,819 --> 02:24:45,059
+Fuck.
+
+1233
+02:24:47,879 --> 02:24:48,360
+No.
+
+1234
+02:24:52,090 --> 02:24:53,370
+What the hell is this?
+
+1235
+02:24:53,370 --> 02:25:03,899
+Can I take this off?
+
+1236
+02:25:05,299 --> 02:25:06,020
+Oh, shit.
+
+1237
+02:25:07,219 --> 02:25:11,100
+I think I can pull back panel off.
+
+1238
+02:25:15,239 --> 02:25:15,559
+Come on.
+
+1239
+02:25:15,559 --> 02:25:16,760
+That was a eureka moment.
+
+1240
+02:25:16,760 --> 02:25:17,000
+Why?
+
+1241
+02:25:17,799 --> 02:25:21,540
+Oh, you're kidding me.
+
+1242
+02:25:21,540 --> 02:25:21,780
+What?
+
+1243
+02:25:26,940 --> 02:25:27,260
+Shit.
+
+1244
+02:25:28,139 --> 02:25:32,709
+Is that a screw?
+
+1245
+02:25:35,879 --> 02:25:42,180
+I don't know.
+
+1246
+02:25:42,180 --> 02:25:43,139
+I can't tell if it's a screw.
+
+1247
+02:25:52,860 --> 02:25:53,100
+No.
+
+1248
+02:26:01,430 --> 02:26:14,340
+Ah, babe, I'm stumped.
+
+1249
+02:26:14,340 --> 02:26:15,780
+Because I can't get in here
+
+1250
+02:26:15,780 --> 02:26:16,739
+and undo these.
+
+1251
+02:26:17,299 --> 02:26:26,100
+See what I mean?
+
+1252
+02:26:31,020 --> 02:26:32,299
+Ah, there we go.
+
+1253
+02:26:33,020 --> 02:26:33,819
+I did it.
+
+1254
+02:26:33,819 --> 02:26:40,840
+I figured it out.
+
+1255
+02:26:40,840 --> 02:26:41,319
+Yes.
+
+1256
+02:26:43,030 --> 02:26:43,909
+Lovely.
+
+1257
+02:26:43,909 --> 02:26:45,030
+Yes, yes, yes.
+
+1258
+02:26:45,030 --> 02:26:48,329
+Okay, let's get this out of here now.
+
+1259
+02:26:49,209 --> 02:26:52,469
+Take it all apart.
+
+1260
+02:26:52,469 --> 02:26:54,069
+Fantastic.
+
+1261
+02:26:56,120 --> 02:26:56,440
+Flop.
+
+1262
+02:26:58,100 --> 02:27:00,500
+And this is still connected somehow to something.
+
+1263
+02:27:01,540 --> 02:27:02,979
+What is this connected to?
+
+1264
+02:27:09,219 --> 02:27:10,340
+Nothing's even plugged in here.
+
+1265
+02:27:10,899 --> 02:27:12,729
+These are all just straight wires.
+
+1266
+02:27:18,059 --> 02:27:19,020
+I can't get under there.
+
+1267
+02:27:19,659 --> 02:27:26,440
+Nothing's even attached.
+
+1268
+02:27:27,399 --> 02:27:28,200
+It's just floating.
+
+1269
+02:27:30,010 --> 02:27:32,409
+Do I have to grab it with the pliers?
+
+1270
+02:27:38,569 --> 02:27:40,309
+I'm going to throw it out the window.
+
+1271
+02:27:40,309 --> 02:27:41,110
+Oh, it's been too long.
+
+1272
+02:27:41,110 --> 02:27:41,590
+Don't do that.
+
+1273
+02:27:42,309 --> 02:27:54,760
+All right, this doesn't make any sense
+
+1274
+02:27:54,760 --> 02:27:55,879
+in the laws of physics.
+
+1275
+02:27:56,600 --> 02:28:13,190
+Is that a tiny little screw?
+
+1276
+02:28:15,049 --> 02:28:15,290
+No.
+
+1277
+02:28:23,639 --> 02:28:25,319
+Every connector needs to be disconnected.
+
+1278
+02:28:25,879 --> 02:28:26,280
+They're not?
+
+1279
+02:28:26,920 --> 02:28:43,860
+I mean, what is disconnected on this one?
+
+1280
+02:28:43,860 --> 02:28:44,420
+I can't even tell.
+
+1281
+02:28:52,790 --> 02:28:57,399
+Ah, no.
+
+1282
+02:29:06,889 --> 02:29:07,290
+Oh my god.
+
+1283
+02:29:07,290 --> 02:29:08,489
+There's another one of these fucking things.
+
+1284
+02:29:09,290 --> 02:29:15,879
+Look at this hidden ass screw.
+
+1285
+02:29:15,879 --> 02:29:18,329
+Are you serious?
+
+1286
+02:29:18,329 --> 02:29:19,930
+It was like stuffed in here.
+
+1287
+02:29:19,930 --> 02:29:25,940
+Are there any more like hidden screws?
+
+1288
+02:29:25,940 --> 02:29:27,139
+This still can't come off.
+
+1289
+02:29:28,840 --> 02:29:30,760
+What?
+
+1290
+02:29:30,760 --> 02:29:31,319
+Why?
+
+1291
+02:29:31,319 --> 02:29:32,840
+I'm getting inside of here.
+
+1292
+02:29:32,840 --> 02:29:35,239
+There it is.
+
+1293
+02:29:35,239 --> 02:29:37,290
+Right here.
+
+1294
+02:29:37,290 --> 02:29:38,010
+All right, come on.
+
+1295
+02:29:38,729 --> 02:29:40,090
+Oh, thank god.
+
+1296
+02:29:41,909 --> 02:29:42,389
+Jesus.
+
+1297
+02:29:42,950 --> 02:29:44,870
+That took an eternity.
+
+1298
+02:29:45,829 --> 02:29:46,790
+I'm going to get out of my face.
+
+1299
+02:29:47,510 --> 02:29:50,840
+Now, how do I?
+
+1300
+02:29:50,840 --> 02:30:05,559
+Ah, 38 pieces.
+
+1301
+02:30:06,200 --> 02:30:09,340
+I'm about to shoot it with the gun.
+
+1302
+02:30:09,340 --> 02:30:20,139
+I need to get in here.
+
+1303
+02:30:20,139 --> 02:30:27,110
+The bottom right panel needs to be pulled out.
+
+1304
+02:30:27,110 --> 02:30:30,520
+I mean, is there some magic hidden screw?
+
+1305
+02:30:30,920 --> 02:30:31,799
+That I didn't get?
+
+1306
+02:30:32,440 --> 02:30:35,319
+You know what I'm saying?
+
+1307
+02:30:35,879 --> 02:30:41,209
+There's going to be some one fucking screw
+
+1308
+02:30:42,010 --> 02:30:43,219
+that I didn't get.
+
+1309
+02:30:43,860 --> 02:30:49,100
+Is that it?
+
+1310
+02:30:49,100 --> 02:30:51,430
+I can't even tell.
+
+1311
+02:30:52,790 --> 02:30:57,770
+Screw on the top?
+
+1312
+02:31:20,260 --> 02:31:20,979
+That's not a...
+
+1313
+02:31:20,979 --> 02:31:22,739
+These, they look like phantom screws.
+
+1314
+02:31:23,459 --> 02:31:24,420
+These aren't even real.
+
+1315
+02:31:25,940 --> 02:31:30,250
+You see, that's already been unscrewed.
+
+1316
+02:31:30,250 --> 02:31:31,049
+I think.
+
+1317
+02:31:31,049 --> 02:31:31,610
+I don't know.
+
+1318
+02:31:32,489 --> 02:31:39,510
+Look at the side opposite the wires.
+
+1319
+02:31:40,229 --> 02:31:41,430
+Damn, Jerma.
+
+1320
+02:31:41,430 --> 02:32:25,350
+It's like you've never disassembled a microwave before.
+
+1321
+02:32:26,549 --> 02:32:27,350
+Oh, that hurt.
+
+1322
+02:32:28,069 --> 02:32:29,270
+It's like you've never...
+
+1323
+02:32:29,270 --> 02:32:31,180
+Oh, that was good.
+
+1324
+02:32:31,180 --> 02:32:32,549
+That was a good one.
+
+1325
+02:32:36,250 --> 02:32:37,049
+What the fuck, man?
+
+1326
+02:32:37,770 --> 02:32:38,969
+Oh, this is not it?
+
+1327
+02:32:38,969 --> 02:32:40,739
+I thought that was a screw right here.
+
+1328
+02:32:41,620 --> 02:32:46,260
+Oh my god, you're killing me.
+
+1329
+02:32:46,979 --> 02:32:48,100
+Where is this?
+
+1330
+02:32:48,100 --> 02:32:52,420
+I keep thinking it's here, but it's not, right?
+
+1331
+02:32:59,180 --> 02:32:59,739
+Oh my god.
+
+1332
+02:32:59,739 --> 02:33:00,379
+Oh my god.
+
+1333
+02:33:00,379 --> 02:33:01,979
+I keep thinking it's here, but it's not, right?
+
+1334
+02:33:07,399 --> 02:33:09,239
+I can't like get into here
+
+1335
+02:33:09,239 --> 02:33:11,479
+to like get out of this thing out of here.
+
+1336
+02:33:12,200 --> 02:33:33,860
+There's nothing even in there.
+
+1337
+02:33:35,129 --> 02:33:36,569
+There's nothing even in there.
+
+1338
+02:33:43,260 --> 02:34:03,610
+Screw in the center?
+
+1339
+02:34:04,569 --> 02:34:35,719
+I need a better angle.
+
+1340
+02:34:40,260 --> 02:34:41,139
+Mom walks in.
+
+1341
+02:34:41,780 --> 02:34:44,629
+Jeffrey, what the fuck are you doing?
+
+1342
+02:34:45,559 --> 02:34:46,440
+I'm sorry, mom.
+
+1343
+02:34:55,290 --> 02:34:59,780
+I thought we were going to go to the hospital.
+
+1344
+02:35:01,620 --> 02:35:05,940
+Jeffrey fucking scrapped up his face and got a black eye.
+
+1345
+02:35:05,940 --> 02:35:08,899
+I'm trying to take apart the microwave.
+
+1346
+02:35:15,159 --> 02:35:15,959
+Give it to me.
+
+1347
+02:35:20,709 --> 02:35:30,459
+Press the life alert.
+
+1348
+02:35:40,309 --> 02:36:28,120
+No, that's...
+
+1349
+02:36:28,120 --> 02:36:28,760
+Are you sure?
+
+1350
+02:36:31,559 --> 02:36:41,959
+Where'd it go?
+
+1351
+02:36:41,959 --> 02:36:45,959
+Where did it go?
+
+1352
+02:36:46,600 --> 02:36:47,079
+Where'd it go?
+
+1353
+02:36:47,799 --> 02:36:48,760
+Right there.
+
+1354
+02:36:48,760 --> 02:37:03,100
+That's not it.
+
+1355
+02:37:03,100 --> 02:37:03,739
+I don't know.
+
+1356
+02:37:04,729 --> 02:37:05,610
+I can't do it.
+
+1357
+02:37:05,610 --> 02:37:07,129
+I don't know where the last little...
+
+1358
+02:37:07,129 --> 02:37:09,959
+I gotta pull this apart.
+
+1359
+02:37:09,959 --> 02:37:10,760
+Wait a minute.
+
+1360
+02:37:10,760 --> 02:37:27,139
+Damn it.
+
+1361
+02:37:27,139 --> 02:37:27,700
+I'm stinking.
+
+1362
+02:38:42,500 --> 02:38:43,459
+Micro wheel.
+
+1363
+02:38:44,489 --> 02:38:44,729
+No.
+
+1364
+02:38:45,370 --> 02:38:53,930
+Make sure the connector on the wires is disconnected.
+
+1365
+02:39:09,659 --> 02:39:11,659
+Is it in the north corner?
+
+1366
+02:39:11,659 --> 02:39:19,719
+Please for the love of god try the bottom connectors on the motor.
+
+1367
+02:39:20,280 --> 02:39:21,559
+That's what I'm trying to do.
+
+1368
+02:39:22,280 --> 02:39:23,319
+I can't get them.
+
+1369
+02:39:25,260 --> 02:39:26,700
+I tried like five times.
+
+1370
+02:39:27,500 --> 02:39:37,379
+See like they can only go back this far and I can't do anything with it.
+
+1371
+02:39:38,020 --> 02:39:42,659
+You stupid fucking game.
+
+1372
+02:39:42,659 --> 02:39:43,940
+Are you serious right now?
+
+1373
+02:39:49,799 --> 02:39:51,079
+I did it.
+
+1374
+02:39:51,079 --> 02:39:59,479
+You just gotta get your whole head in here.
+
+1375
+02:39:59,479 --> 02:40:00,200
+I didn't even do it.
+
+1376
+02:40:02,680 --> 02:40:03,559
+That didn't do anything.
+
+1377
+02:40:05,639 --> 02:40:07,399
+No, it didn't do anything.
+
+1378
+02:40:07,399 --> 02:40:25,370
+No, what was that screw for?
+
+1379
+02:40:25,370 --> 02:40:46,299
+What was it for?
+
+1380
+02:40:46,299 --> 02:40:47,500
+Middle inner microwave.
+
+1381
+02:40:48,059 --> 02:41:22,940
+I'm going in.
+
+1382
+02:41:22,940 --> 02:41:23,739
+Other side.
+
+1383
+02:41:26,459 --> 02:41:34,860
+I can't even get the damn panel off.
+
+1384
+02:41:35,579 --> 02:41:38,780
+I think I give up.
+
+1385
+02:41:43,299 --> 02:41:46,020
+I can't like reliably get my fucking hands in here.
+
+1386
+02:42:43,690 --> 02:43:19,059
+No, no, that was it.
+
+1387
+02:43:19,059 --> 02:43:19,860
+That was the end.
+
+1388
+02:43:20,979 --> 02:43:21,620
+That was it.
+
+1389
+02:43:22,620 --> 02:43:23,020
+What happened?
+
+1390
+02:43:23,020 --> 02:43:23,579
+What's wrong?
+
+1391
+02:43:29,049 --> 02:43:29,530
+What happened?
+
+1392
+02:43:29,530 --> 02:43:30,969
+What's wrong here?
+
+1393
+02:43:30,969 --> 02:43:38,819
+Just unscrew the side panel.
+
+1394
+02:43:38,819 --> 02:43:40,420
+What are you talking about?
+
+1395
+02:43:40,420 --> 02:43:42,180
+I've unscrewed every screw.
+
+1396
+02:43:51,299 --> 02:43:54,790
+There's nothing holding this shit.
+
+1397
+02:43:54,790 --> 02:43:56,469
+There's nothing here anymore.
+
+1398
+02:43:56,469 --> 02:44:05,719
+What the?
+
+1399
+02:44:05,719 --> 02:44:06,040
+What?
+
+1400
+02:44:07,620 --> 02:44:08,180
+What?
+
+1401
+02:44:08,260 --> 02:44:09,940
+This is just floating in midair.
+
+1402
+02:44:26,780 --> 02:44:27,899
+Wiggle the connectors.
+
+1403
+02:45:25,420 --> 02:45:40,329
+Pull the connectors down.
+
+1404
+02:45:41,610 --> 02:45:45,370
+Aren't they all down already?
+
+1405
+02:45:45,370 --> 02:45:54,010
+The bottom panel is red.
+
+1406
+02:45:59,690 --> 02:46:00,409
+Bottom panel.
+
+1407
+02:46:00,409 --> 02:46:01,129
+Bottom panel.
+
+1408
+02:46:01,770 --> 02:46:04,729
+Guys, you're talking about right here, right?
+
+1409
+02:46:04,729 --> 02:46:05,770
+This is what you're talking about.
+
+1410
+02:46:05,770 --> 02:46:06,729
+Talking about this panel.
+
+1411
+02:46:09,260 --> 02:46:12,090
+Ladies and gentlemen, this is what you're talking about.
+
+1412
+02:46:12,090 --> 02:46:12,809
+Where's the screw?
+
+1413
+02:46:14,329 --> 02:46:14,889
+Where is it?
+
+1414
+02:46:16,250 --> 02:46:17,049
+That's not a screw.
+
+1415
+02:46:17,850 --> 02:46:18,889
+I can't remove this.
+
+1416
+02:46:19,770 --> 02:46:22,500
+This thing's all fucked up.
+
+1417
+02:46:23,219 --> 02:46:25,590
+There is no way to remove this.
+
+1418
+02:46:44,620 --> 02:46:45,579
+Crowbar.
+
+1419
+02:46:45,579 --> 02:46:47,819
+Don't even tell me it was the crowbar.
+
+1420
+02:46:48,459 --> 02:46:59,559
+Slide it?
+
+1421
+02:46:59,559 --> 02:47:00,200
+It's red.
+
+1422
+02:47:00,200 --> 02:47:01,319
+I can't slide it.
+
+1423
+02:47:02,280 --> 02:47:03,319
+There is no sliding.
+
+1424
+02:47:03,319 --> 02:47:03,879
+It's red.
+
+1425
+02:47:05,079 --> 02:47:07,479
+Something is keeping this here.
+
+1426
+02:47:08,280 --> 02:47:11,190
+But fuck if I know what the hell it is.
+
+1427
+02:47:24,729 --> 02:47:37,450
+That's not a screw.
+
+1428
+02:47:37,450 --> 02:47:40,180
+It's almost like this screw was supposed to be here.
+
+1429
+02:47:40,180 --> 02:47:42,100
+But it's like a JPG.
+
+1430
+02:47:50,540 --> 02:47:52,620
+It might be broken like the rice cooker was.
+
+1431
+02:47:53,930 --> 02:47:54,809
+Hex key?
+
+1432
+02:47:54,809 --> 02:47:56,170
+No, there's no indicator.
+
+1433
+02:47:57,129 --> 02:47:58,409
+There's not even an indicator.
+
+1434
+02:47:59,879 --> 02:48:01,239
+There would be an indicator, watch.
+
+1435
+02:48:02,790 --> 02:48:03,750
+There's no indicator.
+
+1436
+02:48:06,090 --> 02:48:07,290
+This thing just doesn't exist.
+
+1437
+02:48:13,299 --> 02:48:15,780
+Have I really been just scouring this whole thing
+
+1438
+02:48:15,780 --> 02:48:17,860
+and it just glitched out and I can't even do it?
+
+1439
+02:48:38,950 --> 02:48:39,829
+Smart click?
+
+1440
+02:48:39,829 --> 02:48:41,670
+No, there's nothing here to unscrew.
+
+1441
+02:48:42,709 --> 02:48:44,389
+There really isn't anything to unscrew.
+
+1442
+02:48:58,280 --> 02:48:59,639
+Looks like that but there's a hole.
+
+1443
+02:49:01,750 --> 02:49:08,969
+Where's the screw?
+
+1444
+02:49:09,610 --> 02:49:10,250
+Where's the screw?
+
+1445
+02:49:11,270 --> 02:49:11,909
+Didn't exist.
+
+1446
+02:49:12,629 --> 02:49:26,760
+There was no screw.
+
+1447
+02:49:26,760 --> 02:49:36,629
+That was so long.
+
+1448
+02:49:36,629 --> 02:49:49,770
+There was no screw.
+
+1449
+02:49:49,770 --> 02:49:53,450
+I got baited to 45 that it's a microwave prep.
+
+1450
+02:49:54,090 --> 02:49:56,340
+Let's do the computer.
+
+1451
+02:49:56,340 --> 02:50:27,370
+Okay, what we got in here?
+
+1452
+02:50:29,989 --> 02:50:32,360
+DVDs?
+
+1453
+02:50:32,360 --> 02:50:33,159
+Okay, we got...
+
+1454
+02:50:33,879 --> 02:50:34,840
+How is there this many parts?
+
+1455
+02:50:34,840 --> 02:50:36,280
+There's not a hundred parts in a computer.
+
+1456
+02:50:39,930 --> 02:50:40,569
+There's the brain.
+
+1457
+02:50:40,569 --> 02:50:41,530
+We'll see.
+
+1458
+02:50:41,530 --> 02:50:56,780
+Here's the...
+
+1459
+02:50:56,780 --> 02:50:58,219
+Why is the power supply up here?
+
+1460
+02:50:58,940 --> 02:51:00,700
+Shouldn't the power supply be down here?
+
+1461
+02:51:00,700 --> 02:51:02,860
+This person installed this upside down.
+
+1462
+02:51:06,739 --> 02:51:07,940
+It's supposed to look like this.
+
+1463
+02:51:11,559 --> 02:51:18,569
+But, right?
+
+1464
+02:51:18,569 --> 02:51:21,620
+Doesn't the power supply just sit on the bottom and the...
+
+1465
+02:51:22,420 --> 02:51:25,500
+People do a hanging power supply like that?
+
+1466
+02:51:29,079 --> 02:51:31,159
+They're not even fucking computer experts.
+
+1467
+02:51:31,159 --> 02:51:39,559
+Okay, there's the little...
+
+1468
+02:51:39,559 --> 02:51:41,610
+This will all come out sedazy.
+
+1469
+02:51:41,610 --> 02:51:42,329
+I don't know what that was.
+
+1470
+02:51:43,129 --> 02:51:45,219
+The heat sink.
+
+1471
+02:51:45,940 --> 02:51:47,190
+CPU.
+
+1472
+02:51:47,190 --> 02:51:49,110
+All right, let's get our workstation clean.
+
+1473
+02:51:50,229 --> 02:52:08,170
+What is that?
+
+1474
+02:52:08,170 --> 02:52:08,809
+16 gig?
+
+1475
+02:52:09,770 --> 02:52:13,420
+What, you only got 16 gig in here?
+
+1476
+02:52:14,889 --> 02:52:25,100
+SSD?
+
+1477
+02:52:25,739 --> 02:52:26,780
+Nice.
+
+1478
+02:52:26,780 --> 02:52:33,829
+All right, let's get out of here.
+
+1479
+02:52:33,829 --> 02:52:36,870
+Is this tool-less?
+
+1480
+02:52:36,870 --> 02:52:38,950
+Nah, not tool-less, unfortunately.
+
+1481
+02:52:39,510 --> 02:52:56,219
+It doesn't even have tool-less.
+
+1482
+02:52:56,219 --> 02:53:06,420
+It makes a cool noise.
+
+1483
+02:53:08,200 --> 02:53:19,270
+All right, so that graphics card is wedged the fuck in here.
+
+1484
+02:53:19,270 --> 02:53:21,989
+I don't know who installed this, but they did a terrible job.
+
+1485
+02:53:25,159 --> 02:53:26,040
+You know, where's the tab?
+
+1486
+02:53:26,840 --> 02:53:33,899
+I mean, just awful.
+
+1487
+02:53:33,899 --> 02:53:35,100
+Absolutely awful job.
+
+1488
+02:53:35,739 --> 02:53:54,739
+If you take this part too, that'd be cool if you take that apart.
+
+1489
+02:53:56,440 --> 02:53:57,959
+There's the small battery.
+
+1490
+02:54:02,549 --> 02:54:21,530
+All right.
+
+1491
+02:54:22,790 --> 02:54:23,670
+Oh, god damn it.
+
+1492
+02:54:28,219 --> 02:54:29,579
+PC repair shop.
+
+1493
+02:54:31,159 --> 02:54:34,120
+The guy that covers his hands in oil before he touches it.
+
+1494
+02:54:34,120 --> 02:54:38,969
+I've got some screws back here we're going to take care of.
+
+1495
+02:55:21,379 --> 02:55:28,409
+We'll deal with you later.
+
+1496
+02:55:28,409 --> 02:55:30,170
+Oh my god, now look at this little thing.
+
+1497
+02:55:30,170 --> 02:55:31,610
+It's causing this much of a problem.
+
+1498
+02:55:41,899 --> 02:55:42,940
+Artery?
+
+1499
+02:55:42,940 --> 02:56:17,510
+All right, let's pull this thing out.
+
+1500
+02:56:17,510 --> 02:56:26,389
+We're going to take this whole thing apart too.
+
+1501
+02:56:27,930 --> 02:56:28,889
+Oh, joy.
+
+1502
+02:56:29,370 --> 02:56:39,690
+Flyers probably.
+
+1503
+02:56:39,690 --> 02:56:41,209
+We'll deal with you later.
+
+1504
+02:56:41,209 --> 02:56:41,850
+You stay there.
+
+1505
+02:56:42,860 --> 02:56:44,700
+Anything else on the main frame of the computer?
+
+1506
+02:56:45,260 --> 02:56:46,200
+I don't think so.
+
+1507
+02:56:46,840 --> 02:56:49,590
+Well, there is.
+
+1508
+02:56:49,590 --> 02:56:53,100
+Screwed up.
+
+1509
+02:56:53,100 --> 02:57:04,870
+You know, take, I'm going to do the whole skeleton too.
+
+1510
+02:57:07,670 --> 02:57:15,739
+Drop on the wall.
+
+1511
+02:57:26,600 --> 02:57:27,239
+Backplate?
+
+1512
+02:57:28,569 --> 02:57:29,610
+Get this backplate.
+
+1513
+02:57:29,610 --> 02:57:30,170
+Is that it?
+
+1514
+02:57:31,590 --> 02:57:32,389
+That's got to be it.
+
+1515
+02:57:33,270 --> 02:57:34,469
+No, I got this shit too.
+
+1516
+02:57:38,549 --> 02:57:39,030
+Grills?
+
+1517
+02:57:39,899 --> 02:57:42,540
+No, I think that's it.
+
+1518
+02:57:47,930 --> 02:57:48,649
+Now the rubber things.
+
+1519
+02:57:48,649 --> 02:57:49,209
+No, come on.
+
+1520
+02:57:49,930 --> 02:57:50,729
+We'll go up here.
+
+1521
+02:57:51,930 --> 02:57:52,569
+Oh, okay.
+
+1522
+02:57:54,569 --> 02:57:55,690
+I thought that comes off.
+
+1523
+02:57:56,329 --> 02:57:58,459
+I think that's it.
+
+1524
+02:57:59,659 --> 02:58:00,860
+We'll check back on it later.
+
+1525
+02:58:02,500 --> 02:58:04,340
+So we've got some parts left to do.
+
+1526
+02:58:05,299 --> 02:58:12,860
+There's a lot of shit in there.
+
+1527
+02:58:13,659 --> 02:58:17,780
+Can't just pull it out?
+
+1528
+02:58:19,510 --> 02:58:20,149
+Oh, okay.
+
+1529
+02:58:20,149 --> 02:58:21,110
+I'll do it again.
+
+1530
+02:58:23,659 --> 02:58:24,059
+Why not?
+
+1531
+02:58:30,520 --> 02:58:31,000
+Bullshit.
+
+1532
+02:58:31,799 --> 02:58:44,010
+Turn, tilt.
+
+1533
+02:58:45,590 --> 02:58:45,909
+Come on.
+
+1534
+02:58:51,049 --> 02:58:53,819
+This is just fun to do.
+
+1535
+02:58:53,819 --> 02:58:54,379
+It really is.
+
+1536
+02:58:55,100 --> 02:58:59,030
+Oh, my back.
+
+1537
+02:58:59,590 --> 02:59:02,809
+Dude, I swear to God, something's fucking wrong with me.
+
+1538
+02:59:03,610 --> 02:59:09,979
+My spine is so fucked up.
+
+1539
+02:59:18,139 --> 02:59:18,780
+None of these come out?
+
+1540
+02:59:19,340 --> 02:59:21,930
+I'm going to hold mono just in case.
+
+1541
+02:59:21,930 --> 02:59:23,610
+I feel like something's going to come out of there.
+
+1542
+02:59:23,610 --> 02:59:28,219
+No?
+
+1543
+02:59:28,219 --> 02:59:28,860
+Okay.
+
+1544
+02:59:28,860 --> 02:59:29,899
+The video card.
+
+1545
+02:59:29,899 --> 02:59:32,860
+Let's take a look.
+
+1546
+02:59:32,860 --> 02:59:39,399
+Uh-huh.
+
+1547
+02:59:40,120 --> 02:59:50,680
+Is that it?
+
+1548
+02:59:51,239 --> 02:59:53,209
+Can I pull this apart now?
+
+1549
+02:59:53,209 --> 02:59:53,610
+Yep.
+
+1550
+02:59:53,610 --> 02:59:53,930
+Whoa.
+
+1551
+02:59:55,049 --> 03:00:01,959
+There you go.
+
+1552
+03:00:01,959 --> 03:00:02,920
+That's it looking like inside.
+
+1553
+03:00:04,739 --> 03:00:05,700
+Take a look at the teeth.
+
+1554
+03:00:06,340 --> 03:00:09,000
+And I think that's it.
+
+1555
+03:00:10,549 --> 03:00:11,750
+I can't pull this out, can I?
+
+1556
+03:00:12,389 --> 03:00:13,590
+All right.
+
+1557
+03:00:13,590 --> 03:00:14,149
+Yes, I can.
+
+1558
+03:00:14,870 --> 03:00:17,049
+All right.
+
+1559
+03:00:17,049 --> 03:00:17,610
+See you later.
+
+1560
+03:00:19,219 --> 03:00:22,340
+That leaves us with a CPU.
+
+1561
+03:00:23,379 --> 03:00:24,229
+What about that?
+
+1562
+03:00:24,229 --> 03:00:25,350
+I'm going to have to take this apart too.
+
+1563
+03:00:26,889 --> 03:00:27,129
+No?
+
+1564
+03:00:29,610 --> 03:00:30,170
+No?
+
+1565
+03:00:30,170 --> 03:00:30,729
+I guess not.
+
+1566
+03:00:32,520 --> 03:00:33,079
+Hard drive?
+
+1567
+03:00:33,959 --> 03:00:35,860
+I'm going to do all this shit.
+
+1568
+03:00:35,860 --> 03:00:36,500
+Wow.
+
+1569
+03:00:36,500 --> 03:00:37,139
+This is pretty cool.
+
+1570
+03:00:38,020 --> 03:00:41,989
+This is a solid stare, right?
+
+1571
+03:00:54,579 --> 03:00:55,059
+Noises.
+
+1572
+03:00:55,620 --> 03:00:56,020
+Three.
+
+1573
+03:00:56,819 --> 03:01:02,219
+Oops.
+
+1574
+03:01:02,219 --> 03:01:02,459
+Cool.
+
+1575
+03:01:03,100 --> 03:01:04,700
+Anything else to pull off of you?
+
+1576
+03:01:05,579 --> 03:01:06,870
+I don't think so.
+
+1577
+03:01:08,709 --> 03:01:10,309
+I don't think you have anything either.
+
+1578
+03:01:13,420 --> 03:01:15,340
+That leaves us with the final piece.
+
+1579
+03:01:16,299 --> 03:01:18,219
+The motherboard.
+
+1580
+03:01:18,219 --> 03:01:40,629
+Scratch it up real nice.
+
+1581
+03:01:41,190 --> 03:01:50,200
+All right.
+
+1582
+03:01:50,200 --> 03:01:51,239
+Is that it?
+
+1583
+03:01:51,239 --> 03:01:55,059
+Is there something else?
+
+1584
+03:01:55,059 --> 03:01:55,379
+Oh, dude.
+
+1585
+03:01:55,379 --> 03:01:55,780
+What is this?
+
+1586
+03:01:55,780 --> 03:01:56,180
+What is this?
+
+1587
+03:01:56,180 --> 03:01:56,979
+EVGA?
+
+1588
+03:01:56,979 --> 03:02:02,149
+Oh, wait.
+
+1589
+03:02:02,149 --> 03:02:02,709
+GIGABYTE?
+
+1590
+03:02:03,430 --> 03:02:04,309
+What's left?
+
+1591
+03:02:04,309 --> 03:02:22,549
+Something over here.
+
+1592
+03:02:40,520 --> 03:02:41,319
+What about this?
+
+1593
+03:02:41,959 --> 03:02:42,840
+Another piece here?
+
+1594
+03:02:43,399 --> 03:02:45,239
+Does it pop out?
+
+1595
+03:02:45,239 --> 03:02:45,879
+Oh.
+
+1596
+03:02:45,879 --> 03:02:49,319
+Okay.
+
+1597
+03:02:49,879 --> 03:02:59,559
+Oh, the graphics card.
+
+1598
+03:03:00,120 --> 03:03:03,180
+What would it be?
+
+1599
+03:03:03,979 --> 03:03:04,299
+Oh.
+
+1600
+03:03:06,620 --> 03:03:18,299
+There's a bunch of random shit.
+
+1601
+03:03:22,409 --> 03:03:24,950
+There is something else on here.
+
+1602
+03:03:25,590 --> 03:03:27,129
+Or on here.
+
+1603
+03:03:34,260 --> 03:03:34,899
+This piece?
+
+1604
+03:03:38,329 --> 03:03:40,889
+It would look like this little slap right here.
+
+1605
+03:03:51,420 --> 03:03:52,520
+Really?
+
+1606
+03:03:52,520 --> 03:03:53,239
+This little thing?
+
+1607
+03:03:57,930 --> 03:03:59,370
+Six more pieces.
+
+1608
+03:03:59,370 --> 03:04:14,889
+A table?
+
+1609
+03:04:17,690 --> 03:04:18,250
+Apparently.
+
+1610
+03:04:18,889 --> 03:04:19,850
+God, fuck you.
+
+1611
+03:04:23,659 --> 03:04:25,500
+Two, three, four.
+
+1612
+03:04:25,500 --> 03:04:26,459
+Well, that's almost all of it.
+
+1613
+03:04:26,459 --> 03:04:26,940
+Just two more.
+
+1614
+03:04:27,739 --> 03:04:41,129
+The fan?
+
+1615
+03:04:44,389 --> 03:04:44,870
+Dude.
+
+1616
+03:04:44,870 --> 03:04:46,629
+Will you pick the fucking thing up?
+
+1617
+03:04:47,989 --> 03:04:49,190
+You're making me crazy.
+
+1618
+03:04:50,469 --> 03:04:52,389
+That's it.
+
+1619
+03:04:56,299 --> 03:05:27,270
+Computer.
+
+1620
+03:05:27,350 --> 03:05:31,260
+You forgot the seasoning.
+
+1621
+03:05:31,260 --> 03:05:34,819
+All right, let's do Blade and Sorcery.
+
+1622
+03:05:34,819 --> 03:05:38,889
+Let's try the update.
+
+1623
+03:05:38,889 --> 03:05:42,010
+This game is so much fucking fun, but we'll try something else.
+
+1624
+03:05:53,340 --> 03:05:55,579
+We'll do the Blade and Sorcery update.
+
+1625
+03:05:57,049 --> 03:05:58,489
+That was way easier than the microwave.
+
+1626
+03:05:58,489 --> 03:05:59,290
+There was no other screw.
+
+1627
+03:06:00,010 --> 03:06:02,120
+All right, let me go pee.
+
+1628
+03:06:02,120 --> 03:06:03,399
+Let me grab some more water.
+
+1629
+03:06:03,399 --> 03:06:04,600
+And we'll do Blade and Sorcery.
+
+1630
+03:06:04,600 --> 03:06:05,399
+Be right back.

@@ -1,0 +1,579 @@
+1
+00:00:03,450 --> 00:00:14,000
+What is going on guys, Jerma here again with a Team Fortress 2 gameplay commentary.
+
+2
+00:00:14,000 --> 00:00:18,000
+This time I'm continuing the One Life series that I started a while back.
+
+3
+00:00:18,000 --> 00:00:20,000
+Like you know you've seen it before.
+
+4
+00:00:20,000 --> 00:00:24,239
+Gonna be playing as the scout on the first one and a spy on the second one.
+
+5
+00:00:24,239 --> 00:00:27,239
+Two One Life gameplays and somebody asked me, they said,
+
+6
+00:00:27,239 --> 00:00:32,479
+Jerma, if you call it One Life, you probably should only do one class in One Life.
+
+7
+00:00:32,479 --> 00:00:34,479
+A real One Life gameplay.
+
+8
+00:00:34,479 --> 00:00:40,479
+And while that may be true, I don't really like to upload very much content that's less than 3 or 4 minutes.
+
+9
+00:00:40,479 --> 00:00:45,479
+I mean my vlogs and my video logs and stuff like that, those can be under 2 minutes.
+
+10
+00:00:45,479 --> 00:00:51,479
+But a gameplay, a real gameplay like this, I want it to be at least 5 or 6 minutes.
+
+11
+00:00:51,479 --> 00:00:55,479
+I hate uploading 2 minute gameplays unless it's a short or I'm announcing something.
+
+12
+00:00:55,479 --> 00:00:57,479
+But I don't have an announcement for you right now.
+
+13
+00:00:57,479 --> 00:00:59,479
+I just want to talk about the gameplay, talk about some strategies.
+
+14
+00:00:59,479 --> 00:01:01,479
+So let's get right to it.
+
+15
+00:01:01,479 --> 00:01:05,299
+King of the Hill Harvest is the map we're playing on and I gotta tell you something guys.
+
+16
+00:01:05,299 --> 00:01:09,469
+This setup, this shortstop, Mad Milk, and the Candy Cane setup,
+
+17
+00:01:09,469 --> 00:01:13,709
+Oh my god, it's my new favorite scout setup by far.
+
+18
+00:01:13,709 --> 00:01:15,709
+I love this setup.
+
+19
+00:01:15,709 --> 00:01:18,079
+This was the first time I really played with this setup.
+
+20
+00:01:18,079 --> 00:01:24,079
+Sure I've played Mad Milk, Shortstop before, but I've never done Mad Milk, Shortstop, and the Candy Cane.
+
+21
+00:01:24,079 --> 00:01:28,079
+Because the Candy Cane, if you don't know, when you take damage from explosive damage,
+
+22
+00:01:28,079 --> 00:01:34,079
+Well that's kind of redundant, but if you take explosive damage, it hurts you for 25% more.
+
+23
+00:01:34,079 --> 00:01:39,079
+So it's kind of scary. You could potentially get one shot by a rocket or one shot by a grenade.
+
+24
+00:01:39,079 --> 00:01:42,079
+It's very possible when you have the Candy Cane equipped.
+
+25
+00:01:42,079 --> 00:01:47,079
+But the really cool part about the Candy Cane is when you kill somebody, anyone with any of your weapons,
+
+26
+00:01:47,079 --> 00:01:49,079
+you get to pick up a little small health pack.
+
+27
+00:01:49,079 --> 00:01:51,079
+It just drops right onto the ground.
+
+28
+00:01:51,079 --> 00:01:54,079
+But you gotta remember, you're not the only person going after it.
+
+29
+00:01:54,079 --> 00:01:57,079
+Your teammates and your enemies can both pick it up.
+
+30
+00:01:57,079 --> 00:02:02,079
+Which can get kind of annoying, because you'll kill somebody, and one of your teammates will just be waltzing over it
+
+31
+00:02:02,079 --> 00:02:05,079
+and not even see it, and just grab it like,
+
+32
+00:02:05,079 --> 00:02:07,079
+D'uh, sorry, I...
+
+33
+00:02:07,079 --> 00:02:11,580
+And it can be really, really annoying sometimes, because you'll have 10 health,
+
+34
+00:02:11,580 --> 00:02:16,750
+and the person running over it will have 195 as a soldier, and it's just like,
+
+35
+00:02:16,750 --> 00:02:18,750
+Yeah, come on.
+
+36
+00:02:18,750 --> 00:02:21,930
+It's a really good setup though, I suggest you try it out.
+
+37
+00:02:21,930 --> 00:02:23,930
+If you've never tried it before, it's really fun.
+
+38
+00:02:24,930 --> 00:02:27,930
+And also, in this gameplay, I break my kills record.
+
+39
+00:02:27,930 --> 00:02:31,930
+Now, don't get all excited for that, because it's not a really big achievement.
+
+40
+00:02:31,930 --> 00:02:33,930
+Scout is my least...
+
+41
+00:02:33,930 --> 00:02:37,419
+I do the worst with the Scout, let's put it that way.
+
+42
+00:02:37,419 --> 00:02:42,419
+So, my kills record was 13 in one life before this, and now it's 15.
+
+43
+00:02:42,419 --> 00:02:47,860
+So, I guess that's okay, but I see people do a lot better.
+
+44
+00:02:47,860 --> 00:02:52,860
+So this Engineer looks like he was having lag issues, or he ran out of ammo with the Widowmaker.
+
+45
+00:02:52,860 --> 00:02:56,860
+Not really sure, but speaking of ammo, I ran out of mine,
+
+46
+00:02:56,860 --> 00:02:59,860
+so I'm running around with the Candy Cane, swinging around like a jerk,
+
+47
+00:02:59,860 --> 00:03:01,860
+and I got nowhere to go.
+
+48
+00:03:01,860 --> 00:03:06,030
+Come around here, I pick up the ammo, and now let me give you guys some Scout tips.
+
+49
+00:03:06,030 --> 00:03:09,030
+This is a very, very important tip for the Scout.
+
+50
+00:03:09,030 --> 00:03:12,030
+How to effectively double jump, and when to use it, and where to use it.
+
+51
+00:03:12,030 --> 00:03:17,030
+Watch right here, I kind of go this way, and then I double jump, juke over to the right,
+
+52
+00:03:17,030 --> 00:03:18,030
+and shoot the Heavy.
+
+53
+00:03:18,030 --> 00:03:21,030
+He was probably expecting me to be at ground level at that point,
+
+54
+00:03:21,030 --> 00:03:23,030
+so you really, really need to mess around with people,
+
+55
+00:03:23,030 --> 00:03:26,030
+and get them to think that you're going one direction,
+
+56
+00:03:26,030 --> 00:03:28,030
+and then jump a completely opposite direction.
+
+57
+00:03:28,030 --> 00:03:30,030
+It really, really throws people off.
+
+58
+00:03:30,030 --> 00:03:34,030
+You know why I know that? Because it really throws me off.
+
+59
+00:03:34,030 --> 00:03:36,030
+And that's the end of the Scout gameplay right there.
+
+60
+00:03:36,030 --> 00:03:38,030
+One life, 15 kills.
+
+61
+00:03:38,030 --> 00:03:42,210
+Try to practice your double jumping, because it can really screw people around.
+
+62
+00:03:42,210 --> 00:03:45,210
+That's where you get most of your kills, by deception.
+
+63
+00:03:45,210 --> 00:03:48,379
+Moving on now, this is the second one life gameplay.
+
+64
+00:03:48,379 --> 00:03:50,379
+It's the Spy on Gold Rush.
+
+65
+00:03:50,379 --> 00:03:51,620
+It's really interesting.
+
+66
+00:03:51,620 --> 00:03:54,620
+I don't really kill a whole lot of people in this one, guys,
+
+67
+00:03:54,620 --> 00:03:56,620
+but oh my god, do I destroy a lot of buildings.
+
+68
+00:03:56,620 --> 00:04:01,620
+I destroy three full level three sentry guns by myself,
+
+69
+00:04:01,620 --> 00:04:04,860
+and it's within about two and a half minutes.
+
+70
+00:04:04,860 --> 00:04:06,860
+So let's watch and see how this goes down.
+
+71
+00:04:06,860 --> 00:04:10,860
+First one, I believe, was a level two, actually, now that I watch it again.
+
+72
+00:04:10,860 --> 00:04:14,860
+So I get two level threes, and one level two, bang, Engineer goes down,
+
+73
+00:04:14,860 --> 00:04:19,860
+and I just single-handedly took out all their defenses in about 40 seconds.
+
+74
+00:04:19,860 --> 00:04:21,860
+So I thought that was a really, really interesting achievement.
+
+75
+00:04:21,860 --> 00:04:24,860
+I wonder why they don't have anything like that in the game right now.
+
+76
+00:04:24,860 --> 00:04:28,100
+I would really like to have seen a Spy achievement,
+
+77
+00:04:28,100 --> 00:04:31,100
+where if you destroy two or three buildings in a row,
+
+78
+00:04:31,100 --> 00:04:34,100
+or four or five buildings in a row within 30 seconds or something,
+
+79
+00:04:34,100 --> 00:04:36,279
+I think that would be actually pretty cool.
+
+80
+00:04:36,279 --> 00:04:38,519
+Forgot to tell you the loadout for the match.
+
+81
+00:04:38,519 --> 00:04:44,519
+The loadout for this gameplay is the Kunai vs. Kunai, or the Stinga, not E-R-A-H.
+
+82
+00:04:44,519 --> 00:04:46,519
+I renamed it the Stinga.
+
+83
+00:04:46,519 --> 00:04:50,519
+So it's the Stinga, the Ambassador, and the Dead Ringer.
+
+84
+00:04:50,519 --> 00:04:53,699
+I actually wanted to use the Diamond back in this gameplay,
+
+85
+00:04:53,699 --> 00:04:56,699
+but I didn't think there was going to be any Sentries,
+
+86
+00:04:56,699 --> 00:04:59,699
+because the gameplay before this, there wasn't very many Sentries,
+
+87
+00:04:59,699 --> 00:05:01,699
+and I don't even think there was an Engineer on the other team.
+
+88
+00:05:01,699 --> 00:05:03,699
+So look at what happens in this gameplay, though.
+
+89
+00:05:03,699 --> 00:05:07,699
+I destroy a ton of buildings, and there's like four Engineers.
+
+90
+00:05:07,699 --> 00:05:10,699
+So that would happen to me, obviously, right?
+
+91
+00:05:10,699 --> 00:05:12,699
+Refilling my cloak on that Dispenser.
+
+92
+00:05:12,699 --> 00:05:14,699
+A lot of Spies don't know that you can do that.
+
+93
+00:05:14,699 --> 00:05:16,699
+So guys, if you were unaware, if you didn't know,
+
+94
+00:05:16,699 --> 00:05:20,699
+if you stand next to a Dispenser as a Spy,
+
+95
+00:05:20,699 --> 00:05:22,699
+whether it's an enemy one or it's a friendly one,
+
+96
+00:05:22,699 --> 00:05:24,699
+you will refill your cloak.
+
+97
+00:05:24,699 --> 00:05:26,939
+So right here, I just say hello to this Engineer.
+
+98
+00:05:26,939 --> 00:05:28,939
+How's your family? How's your wife and kids?
+
+99
+00:05:28,939 --> 00:05:32,939
+Sentry goes down, and right here, I thought this was the end of the game for me.
+
+100
+00:05:32,939 --> 00:05:35,939
+I kind of crouched to sort of accept my fate,
+
+101
+00:05:35,939 --> 00:05:37,939
+but I ended up getting the shots on that Sniper,
+
+102
+00:05:37,939 --> 00:05:39,939
+and I ended up getting away.
+
+103
+00:05:39,939 --> 00:05:42,180
+So I was really happy about that.
+
+104
+00:05:42,180 --> 00:05:45,670
+So still being alive, I decide to pretend to be on the other team,
+
+105
+00:05:45,670 --> 00:05:49,670
+whip around, see the Medic, and completely miss the Side Stab.
+
+106
+00:05:49,670 --> 00:05:52,670
+I'm not even sure I was going for a Side Stab.
+
+107
+00:05:52,670 --> 00:05:54,670
+I think I was going for a Chaos Stab.
+
+108
+00:05:54,670 --> 00:05:58,040
+I think I'm going to coin that term right now.
+
+109
+00:05:58,040 --> 00:06:02,279
+A Chaos Stab is when absolute nonsense is going on,
+
+110
+00:06:02,279 --> 00:06:04,279
+and you're just swinging around violently,
+
+111
+00:06:04,279 --> 00:06:07,279
+and you happen to get a Back Stab on someone.
+
+112
+00:06:07,279 --> 00:06:09,459
+So that was me trying to go for a Chaos Stab,
+
+113
+00:06:09,459 --> 00:06:11,459
+just stabbing the guy in the face,
+
+114
+00:06:11,459 --> 00:06:14,459
+and hopefully maybe getting some lag compensation or something.
+
+115
+00:06:14,459 --> 00:06:16,459
+So now I just want to give you guys a quick little tip
+
+116
+00:06:16,459 --> 00:06:19,459
+on how to deal with a Dead Ringer spy.
+
+117
+00:06:19,459 --> 00:06:23,459
+As you saw right there, I just got air blasted across the map,
+
+118
+00:06:23,459 --> 00:06:25,459
+and that's something you really don't want to do.
+
+119
+00:06:25,459 --> 00:06:28,459
+You really don't want to air blast Dead Ringer spies,
+
+120
+00:06:28,459 --> 00:06:30,459
+because number one, it's going to make your teammates
+
+121
+00:06:30,459 --> 00:06:33,459
+a lot less accurate when trying to shoot them.
+
+122
+00:06:33,459 --> 00:06:35,459
+Because you know that when you take damage as a Dead Ringer,
+
+123
+00:06:35,459 --> 00:06:39,459
+it's 10% of the normal damage you would normally be taking,
+
+124
+00:06:39,459 --> 00:06:43,459
+so you really want people to be able to focus fire on the Dead Ringer spy.
+
+125
+00:06:43,459 --> 00:06:45,459
+Rather than launching them around all over the place,
+
+126
+00:06:45,459 --> 00:06:48,459
+you really want to be able to have focus on that one target.
+
+127
+00:06:48,459 --> 00:06:51,459
+So don't air blast a Dead Ringer spy.
+
+128
+00:06:51,459 --> 00:06:53,459
+Just try to do as much damage as you possibly can.
+
+129
+00:06:53,459 --> 00:06:55,819
+Coming up the left staircase here,
+
+130
+00:06:55,819 --> 00:06:58,819
+I was going to go for a Jumping Stab on this Heavy.
+
+131
+00:06:58,819 --> 00:07:00,819
+Decide to just go for the Sure Thing,
+
+132
+00:07:00,819 --> 00:07:03,819
+because I am really, really bad when it comes to Stair Stabs
+
+133
+00:07:03,819 --> 00:07:06,819
+and Trick Stabs and Jump Stabs.
+
+134
+00:07:06,819 --> 00:07:07,819
+So I just went for the Sure Thing,
+
+135
+00:07:07,819 --> 00:07:09,819
+got my Dead Ringer to activate.
+
+136
+00:07:09,819 --> 00:07:11,819
+Coming up the same staircase,
+
+137
+00:07:11,819 --> 00:07:14,819
+and I see that there is a Sniper now on the right side.
+
+138
+00:07:14,819 --> 00:07:17,060
+Kind of just wanted to shoot him in his face,
+
+139
+00:07:17,060 --> 00:07:18,060
+and that's what I end up doing.
+
+140
+00:07:18,060 --> 00:07:20,060
+One in the face, one in the body.
+
+141
+00:07:20,060 --> 00:07:22,060
+That is going to be the end of the gameplay, guys.
+
+142
+00:07:22,060 --> 00:07:24,060
+Thank you so much for watching.
+
+143
+00:07:24,060 --> 00:07:26,060
+I really do appreciate it.
+
+144
+00:07:26,060 --> 00:07:27,060
+Take care, everybody.
+
+145
+00:07:27,060 --> 00:07:29,060
+I'll see you all next time.

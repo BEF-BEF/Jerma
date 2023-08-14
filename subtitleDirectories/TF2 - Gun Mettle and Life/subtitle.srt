@@ -1,0 +1,395 @@
+1
+00:00:05,049 --> 00:00:11,449
+Hey, what is going on everybody? Jerma here with a Team Fortress 2 gameplay commentary, and tonight
+
+2
+00:00:11,449 --> 00:00:15,529
+I'm gonna be playing as the Soldier and a couple other things. It's just random clips of TF2 in the
+
+3
+00:00:15,529 --> 00:00:21,050
+background. Playing TF2 again. Yep, it's been a couple months, and then before that it was a
+
+4
+00:00:21,050 --> 00:00:25,769
+couple months, and then before that it was a couple months, but I got back into the game recently
+
+5
+00:00:25,769 --> 00:00:29,850
+because of this most recent update, the Gunmetal update, and that's what we're going to talk about
+
+6
+00:00:29,850 --> 00:00:34,149
+in this video. We're also going to talk about some other stuff too in the end, so this might be a
+
+7
+00:00:34,149 --> 00:00:38,869
+little bit longer of a commentary than I typically do, but let's talk about Gunmetal. It just came
+
+8
+00:00:38,869 --> 00:00:43,020
+out, brand new update yesterday. I think it's really awesome. There's a lot of great things
+
+9
+00:00:43,020 --> 00:00:48,299
+about it. I do have like one or two little reserves. Well, not reserves, but there are
+
+10
+00:00:48,299 --> 00:00:52,840
+just some things I wish they did differently. First of all, four new maps. That is something
+
+11
+00:00:52,840 --> 00:00:59,689
+we are not used to, especially one map that Valve made that's not in a beta. Why is this map not in
+
+12
+00:00:59,689 --> 00:01:05,769
+beta? And why are the other two maps still in beta? You know what I mean? Like the Cactus Canyon
+
+13
+00:01:05,769 --> 00:01:11,000
+still in beta. Who made this? Something's going on there. I don't know. I'm not going to pretend
+
+14
+00:01:11,000 --> 00:01:16,120
+to know the inside and outside of it, but it's a finished done Valve made map. It's called Power
+
+15
+00:01:16,120 --> 00:01:20,439
+House, and it's three control points. The first time they've ever really done that, so that's pretty
+
+16
+00:01:20,439 --> 00:01:26,519
+cool, and also there's a new map for each popular game mode, right? You've got a new King of the
+
+17
+00:01:26,519 --> 00:01:32,280
+Hill map, a new payload map, and a new control point map. Snowplow? They came up with Snowplow
+
+18
+00:01:32,280 --> 00:01:38,120
+too, out of left field. They just decided to release this? That's so odd. Like I thought they
+
+19
+00:01:38,120 --> 00:01:43,079
+didn't want to put Snowplow in this game. There's a lot of questions. There's a lot of questions
+
+20
+00:01:43,079 --> 00:01:49,079
+to ask about this update and why they did certain things, because if Snowplow is now an official
+
+21
+00:01:49,079 --> 00:01:54,280
+supported Valve map, why didn't they just make end of the line the Smithsmas update? Why didn't they
+
+22
+00:01:54,280 --> 00:01:58,439
+make those two coincide? If they were just going to put it in the game anyways, they probably could
+
+23
+00:01:58,439 --> 00:02:03,319
+have saved a lot of face by doing that, and I don't know what the reasoning behind putting it in the
+
+24
+00:02:03,319 --> 00:02:09,319
+game now is. It just seems like, oh, by the way, I guess it's not so complicated after all. You can
+
+25
+00:02:09,319 --> 00:02:16,039
+play it. Okay. Thanks. Whatever, though. It's in the game now, and it's fun. Snowplow is fun.
+
+26
+00:02:16,039 --> 00:02:21,400
+It might be different. It might be totally weird, but it's fun. It's a gigantic map. It's a huge open
+
+27
+00:02:21,400 --> 00:02:25,080
+playing field. Whatever. You might hate it. You might love it. It's in the game now, and it's
+
+28
+00:02:25,080 --> 00:02:29,080
+official. So there we go. We can move on from the maps. We can talk about the items. Well, not the
+
+29
+00:02:29,080 --> 00:02:35,979
+items per se, the item skins and how I feel about the contracts. I really like the contracts. The
+
+30
+00:02:35,979 --> 00:02:39,979
+contracts are probably the coolest part of this entire update. Really. I love the contracts. One
+
+31
+00:02:39,979 --> 00:02:45,539
+problem, though, after you do your two contracts, there's not a whole lot left to do for the update
+
+32
+00:02:45,539 --> 00:02:52,099
+because we only get two contracts a week, and each one of these contracts takes like 25 minutes
+
+33
+00:02:52,099 --> 00:02:56,419
+to do each one. So you end up doing all your contracts. Oh, I can't wait. Gonna play Spy.
+
+34
+00:02:56,419 --> 00:03:03,289
+Contract. Let's let it take. I just did it. It's over. I got my item. Okay. See you in seven days.
+
+35
+00:03:03,289 --> 00:03:10,409
+Now you contrast that to when Man vs. Machine came out. Imagine if Valve only let us do one tour a
+
+36
+00:03:10,409 --> 00:03:15,349
+week. I would have lost my fucking mind because when Man vs. Machine first came out, that's like
+
+37
+00:03:15,349 --> 00:03:20,789
+all I wanted to do. I just wanted to do tour after tour after tour. Good. Valve, take my fucking money.
+
+38
+00:03:20,789 --> 00:03:24,310
+Take my one dollar ticket. I don't give a shit. I want to play. I want to do the update. I want
+
+39
+00:03:24,310 --> 00:03:30,090
+to get involved and I want to do it. You can't really do that in this update. You spend six bucks
+
+40
+00:03:30,090 --> 00:03:35,219
+and it's just dragged out over the next three months, which that's cool. But in my personal
+
+41
+00:03:35,219 --> 00:03:40,969
+opinion, if you're going to have two contracts a week, those contracts should probably take a
+
+42
+00:03:40,969 --> 00:03:45,780
+little bit more time to complete. And even if they don't want you to keep getting items, maybe they
+
+43
+00:03:45,780 --> 00:03:50,740
+want to limit the amount of items people can get, then at least let us still be able to do contracts
+
+44
+00:03:50,740 --> 00:03:56,419
+and level up that coin after we get our first two items. I don't know. We'll see. This is very early.
+
+45
+00:03:56,419 --> 00:04:00,900
+It's a pretty interesting concept. I just really want to see more of it. That's I was starving to
+
+46
+00:04:00,900 --> 00:04:07,449
+do more, not less. And we're going to move on. They did a bunch of balance changes in this update,
+
+47
+00:04:07,449 --> 00:04:11,289
+a ton of them, and they're getting ready for competitive. It's pretty obvious based around
+
+48
+00:04:11,289 --> 00:04:15,129
+some of the changes they have. And there are a bunch, there are a million changes. So I really
+
+49
+00:04:15,129 --> 00:04:18,410
+don't want to go over them all because that would take another like 15 straight minutes for me to
+
+50
+00:04:18,410 --> 00:04:24,009
+talk about it. But I will bring up two things in particular. One, the big earner change. There are
+
+51
+00:04:24,009 --> 00:04:28,170
+now spy scouts that are going to be all over the place. I don't even want to know what some of you
+
+52
+00:04:28,170 --> 00:04:33,290
+comp level guys that play spy are going to do with that item now. And the other thing is what they
+
+53
+00:04:33,290 --> 00:04:39,689
+did to heavy. They made the Natasha and the brass beast have a 20% damage mitigation while you have
+
+54
+00:04:39,689 --> 00:04:46,009
+the gun spun down. So you can no longer insta kill headshot a heavy that's overhealed anymore. You
+
+55
+00:04:46,089 --> 00:04:50,250
+can't, you're gonna have to shoot the dude twice. That's a huge deal that change that I used to
+
+56
+00:04:50,250 --> 00:04:55,689
+hate playing heavy, because you turn the corner and be a fucking sandbag and insta die. Now,
+
+57
+00:04:55,689 --> 00:04:59,930
+as long as you have the overheal, you can at least react when you get that crit in the face,
+
+58
+00:04:59,930 --> 00:05:02,889
+you can try to move or get into cover or something. You're not just going to be
+
+59
+00:05:03,449 --> 00:05:07,819
+target practice for every sniper on the other team. But besides those two things,
+
+60
+00:05:08,459 --> 00:05:13,019
+I mean, everything else is really awesome and cool. I just it's so overwhelming when they do
+
+61
+00:05:13,019 --> 00:05:18,790
+valve likes to do this thing, right? Where instead of giving one or two balance changes every couple
+
+62
+00:05:18,790 --> 00:05:23,110
+weeks or something like that, or every week, they do like a tweak, they give us this giant
+
+63
+00:05:23,110 --> 00:05:30,230
+dump list of fucking like 500 changes. And it's like, all right, here you go. Here's every change
+
+64
+00:05:30,230 --> 00:05:35,269
+we've wanted to make to Team Fortress two over the last like three years. Okay, guys, take it and go
+
+65
+00:05:35,269 --> 00:05:39,990
+tell us what you think. It's a little overwhelming sometimes. So I'm doing it. I'm taking it as much
+
+66
+00:05:39,990 --> 00:05:44,149
+as everybody else is. And I'm trying to get as much information as I can to myself. So when
+
+67
+00:05:44,149 --> 00:05:49,430
+competitive rolls around, maybe I'll start playing competitive matchmaking. Of course I will. I've
+
+68
+00:05:49,430 --> 00:05:54,699
+been looking for reasons to get back into this game. And with competitive looming, and the recent
+
+69
+00:05:54,699 --> 00:06:00,699
+contract stuff, I have reasons to play. That's been the big deal for me in Team Fortress two.
+
+70
+00:06:00,699 --> 00:06:05,560
+I haven't had reasons to want to play. I don't know how they're going to flesh out. We'll just
+
+71
+00:06:05,560 --> 00:06:10,199
+have to wait and see. But that's going to wrap up the update portion of the video and my thoughts
+
+72
+00:06:10,199 --> 00:06:15,800
+and all that jazz. Now we're going to talk about a life update. So the next like two or three minutes
+
+73
+00:06:15,800 --> 00:06:20,970
+is going to be me talking about a life update. How exciting. So what's this big life update?
+
+74
+00:06:20,970 --> 00:06:24,649
+What's happening here? What do you mean? Oh, there's a life update. Would you stub your toe again?
+
+75
+00:06:24,649 --> 00:06:30,470
+No, I bought a place and I'm moving. In the last couple of months, at least the last like two or
+
+76
+00:06:30,470 --> 00:06:36,230
+three months has been extremely hectic. Trying to juggle everything that's going on, getting
+
+77
+00:06:36,230 --> 00:06:42,310
+financing for this place, finding it in the first place, and moving everything in because it's empty.
+
+78
+00:06:42,310 --> 00:06:47,269
+And it's been taking a wreck on my brain. It hasn't been all that smooth of an experience,
+
+79
+00:06:47,269 --> 00:06:53,189
+but it really never is, is it? Anytime you move out of a place, you buy something new. It's just
+
+80
+00:06:53,189 --> 00:06:57,189
+all the shit you have in your old house, all the stuff you have to bring to the new one. Are you
+
+81
+00:06:57,189 --> 00:07:00,790
+going to get new furniture? Are you going to buy a new fridge? Are you tearing up a couple floors?
+
+82
+00:07:00,870 --> 00:07:08,410
+Are you painting walls? Is the place on fire right now? Is the place on fire right now? I don't know.
+
+83
+00:07:08,410 --> 00:07:14,649
+I'm not there. There is no discernible way for me to say or not say the place is or is not on fire
+
+84
+00:07:14,649 --> 00:07:20,870
+right now. These are the things that go through my head when I'm sitting here, not at the place
+
+85
+00:07:20,870 --> 00:07:25,269
+because I obviously haven't moved in yet, but you just stress out over random shit that you don't
+
+86
+00:07:25,269 --> 00:07:29,430
+need to stress out over. You just got to take it slow. Everybody I've talked to said anytime
+
+87
+00:07:29,430 --> 00:07:35,430
+you buy a place, do one thing at a time. You don't got to go bring a cot in and live there
+
+88
+00:07:35,430 --> 00:07:42,500
+immediately. You just get things situated, get ready, and then live, baby. Live. And we transition
+
+89
+00:07:42,500 --> 00:07:49,860
+talking about how I'm moving into the fact that now I want to stream pretty much every single day.
+
+90
+00:07:49,860 --> 00:07:56,600
+Once I actually get all moved in somewhere in the middle of August, I want to stream at least four
+
+91
+00:07:56,600 --> 00:08:01,420
+or five times a week. This is something that I've wanted to do for a long time, but I've never been
+
+92
+00:08:01,420 --> 00:08:06,699
+able to get my ducks in a row in my brain and my body in the right position to be able to do this
+
+93
+00:08:06,699 --> 00:08:11,980
+thing. I love the idea of streaming. I love just hanging out and playing games with whoever shows
+
+94
+00:08:11,980 --> 00:08:15,899
+up, whatever game I happen to be playing. It's something that I really want to do, and I'm going
+
+95
+00:08:15,899 --> 00:08:22,779
+to try it at my fullest ability the second that I moved into this place and everything's ready to go.
+
+96
+00:08:22,779 --> 00:08:28,649
+So this is like update video and hey I'm moving and stream announcement video all in one. So
+
+97
+00:08:28,649 --> 00:08:33,049
+that's going to wrap it up. Take care everybody. See you all soon. Enjoy the new Team Fortress 2
+
+98
+00:08:33,049 --> 00:08:36,409
+update. It's going to be so much fun. I can't wait. Now here this is this is the part of the video
+
+99
+00:08:36,409 --> 00:08:37,450
+where it goes BOO!
