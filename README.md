@@ -1,6 +1,8 @@
 # Quick start tutorial
 install python3: https://www.python.org/downloads/release/python-3114/
+
 make sure git is installed (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+
 open a terminal and run: 
 ```
 pip3 install nltk whoosh
@@ -10,6 +12,7 @@ python3 main.py
 ```
 
 This will index all of the pre-transcribed files which might take a few minutes the first time and then prompt you to input a search term. After the first time it's much faster.
+
 
 # Jerma
 This uses Python3 to automatically transcribe all of the youtube videos posted by the Jerma Stream Archive youtube channel.
