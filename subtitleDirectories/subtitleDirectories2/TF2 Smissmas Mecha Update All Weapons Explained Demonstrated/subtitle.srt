@@ -1,0 +1,623 @@
+1
+00:00:00,310 --> 00:00:15,050
+Hey, what is going on, everybody? Jerma here with the Team Fortress 2 Smithsmas 2012 update.
+
+2
+00:00:15,050 --> 00:00:17,750
+Now, this is not going to cover any of the man versus machine stuff.
+
+3
+00:00:17,750 --> 00:00:22,949
+Just want to talk about the new items, the new weapons that could put into play in Team Fortress 2 with this update.
+
+4
+00:00:22,949 --> 00:00:26,649
+And they are going to start as follows. I'm going to go through three of them. It was only three.
+
+5
+00:00:26,649 --> 00:00:31,750
+I know a lot of us are kind of like, oh, what the hell, man? I want like ten new items.
+
+6
+00:00:32,149 --> 00:00:35,049
+But these items are pretty substantial.
+
+7
+00:00:35,049 --> 00:00:41,250
+These are not just reskins of a weapon or just one little stat that was added to like, you know, a shovel or something like that.
+
+8
+00:00:41,250 --> 00:00:44,149
+These are very substantial, very interesting items in their own.
+
+9
+00:00:44,149 --> 00:00:50,780
+It's going to take a while to explain at least one of them, which is the first one we're going to talk about, and that is the Vaccinator.
+
+10
+00:00:50,780 --> 00:00:56,079
+So without confusing you guys, the text on the screen right now is probably going to be pretty confusing.
+
+11
+00:00:56,079 --> 00:01:02,579
+Now, let me, without reading a ton of the text and trying to, you know, read you the stats and all that, let me just say what this thing does.
+
+12
+00:01:02,579 --> 00:01:06,879
+This is a specific uber-charging medigun.
+
+13
+00:01:06,879 --> 00:01:11,879
+What that means is that it's going to protect people from specific types of damage.
+
+14
+00:01:11,879 --> 00:01:17,780
+So me healing this heavy right now, just without the uber, me and him take 10% less bullet damage.
+
+15
+00:01:17,780 --> 00:01:20,680
+That's stuff like the Scout Scouter Gun. That's the minigun.
+
+16
+00:01:20,680 --> 00:01:25,409
+Stuff that is actually classified as a bullet, we take 10% less of.
+
+17
+00:01:25,409 --> 00:01:33,010
+Now, I can change that. I can change it from bullet damage to blast damage or fire damage with the number 4.
+
+18
+00:01:33,010 --> 00:01:36,909
+I believe it defaults to number 4 is how you switch this.
+
+19
+00:01:36,909 --> 00:01:38,510
+So let's say I hit number 4 right now.
+
+20
+00:01:38,510 --> 00:01:40,209
+I'm going to switch over to blast damage.
+
+21
+00:01:40,209 --> 00:01:43,010
+If I hit 4 again, I'm going to switch over to fire damage.
+
+22
+00:01:43,010 --> 00:01:45,709
+10%, it never changes from 10%.
+
+23
+00:01:45,709 --> 00:01:48,109
+We both just take 10% less damage.
+
+24
+00:01:48,109 --> 00:01:50,609
+Now, let's talk about the uber-charge.
+
+25
+00:01:50,609 --> 00:01:53,310
+This is where it gets a little bit crazy and a little bit weird.
+
+26
+00:01:53,310 --> 00:01:58,010
+If you look in the lower right, there are four squares there, four different quadrants.
+
+27
+00:01:58,010 --> 00:02:01,609
+Each one of those is a two second uber.
+
+28
+00:02:01,609 --> 00:02:03,810
+You don't have to use the whole uber.
+
+29
+00:02:03,810 --> 00:02:05,810
+We've been waiting for something like this for a long time.
+
+30
+00:02:05,810 --> 00:02:10,210
+I remember people talking about in the comments, like a year ago on one of my minigun videos,
+
+31
+00:02:10,210 --> 00:02:14,710
+talking about how cool it would be to have an uber that you could use halfway through.
+
+32
+00:02:14,710 --> 00:02:16,610
+Like, oh, I filled my uber up to 20%.
+
+33
+00:02:16,610 --> 00:02:18,509
+I can use 20% of that uber.
+
+34
+00:02:18,509 --> 00:02:20,610
+They put that in the game now.
+
+35
+00:02:20,610 --> 00:02:22,009
+It's actually a thing.
+
+36
+00:02:22,009 --> 00:02:24,810
+So regardless of how many quadrants you have filled,
+
+37
+00:02:24,810 --> 00:02:28,289
+you can either use one of them, two of them, or all of them.
+
+38
+00:02:28,289 --> 00:02:31,189
+You can use all four by holding down the right click,
+
+39
+00:02:31,189 --> 00:02:34,889
+or you can just right click one time and just suck down one of those quadrants.
+
+40
+00:02:34,889 --> 00:02:36,990
+So here is what the uber-charge actually does.
+
+41
+00:02:36,990 --> 00:02:39,389
+When you uber-charge, you probably have seen it already on the screen.
+
+42
+00:02:39,389 --> 00:02:41,789
+It's going to put somebody in a little bubble.
+
+43
+00:02:41,789 --> 00:02:43,490
+They do not, it's not invincibility.
+
+44
+00:02:43,490 --> 00:02:44,889
+It is not invincibility.
+
+45
+00:02:44,889 --> 00:02:47,389
+What happens is, whatever you have selected,
+
+46
+00:02:47,389 --> 00:02:50,789
+whether that's bullet damage, fire damage, or blast damage,
+
+47
+00:02:50,789 --> 00:02:56,189
+you and that person are going to take 75%, not 10%,
+
+48
+00:02:56,189 --> 00:03:01,889
+75% less damage of that damage type until you're done ubering them
+
+49
+00:03:01,889 --> 00:03:04,189
+or you change to a different target.
+
+50
+00:03:04,189 --> 00:03:07,889
+Also, on top of this, while you are uber-charging somebody,
+
+51
+00:03:07,889 --> 00:03:09,490
+whatever you have selected for the resistance,
+
+52
+00:03:09,490 --> 00:03:11,590
+let's say you have the bullet damage selected.
+
+53
+00:03:11,590 --> 00:03:13,689
+If your target is taking bullet damage,
+
+54
+00:03:13,689 --> 00:03:18,090
+you get healed for 25% of that incoming bullet damage
+
+55
+00:03:18,090 --> 00:03:19,870
+while they are uber-charged.
+
+56
+00:03:19,969 --> 00:03:21,569
+And talking about just pure stats,
+
+57
+00:03:21,569 --> 00:03:24,770
+this thing has a 50% faster uber-charge rate,
+
+58
+00:03:24,770 --> 00:03:26,870
+which means you'll be getting charges more often.
+
+59
+00:03:26,870 --> 00:03:30,270
+But, and this is a pretty big deal because it's not the quick fix.
+
+60
+00:03:30,270 --> 00:03:31,969
+This is not the quick fix.
+
+61
+00:03:31,969 --> 00:03:37,009
+It can do overhealing, but it overheals 66% slower.
+
+62
+00:03:37,009 --> 00:03:38,909
+There's a lot going on with this gun.
+
+63
+00:03:38,909 --> 00:03:40,610
+There's a lot going on with this Medigun.
+
+64
+00:03:40,610 --> 00:03:43,710
+And hopefully, I could break it down a little bit for you there
+
+65
+00:03:43,710 --> 00:03:45,409
+and go play with it, go have fun with it, guys.
+
+66
+00:03:45,409 --> 00:03:47,009
+This thing is crazy.
+
+67
+00:03:47,009 --> 00:03:48,610
+But now, let's move on to the next thing.
+
+68
+00:03:48,610 --> 00:03:52,800
+Let's move on to the Demoman's new grenade launcher, the Loose Cannon.
+
+69
+00:03:52,800 --> 00:03:54,900
+So this thing is a primary slot replacement,
+
+70
+00:03:54,900 --> 00:03:57,699
+and I guess I can describe this in one way.
+
+71
+00:03:57,699 --> 00:04:01,800
+It's the baby of two items that are already in this game.
+
+72
+00:04:01,800 --> 00:04:03,900
+If you know the Detonator from the Pyro
+
+73
+00:04:03,900 --> 00:04:06,099
+and the Beggar's Bazooka from the Soldier,
+
+74
+00:04:06,099 --> 00:04:07,599
+they got together and had a kid.
+
+75
+00:04:07,599 --> 00:04:10,199
+It's this. This is the Beggar's Bazooka Detonator.
+
+76
+00:04:10,199 --> 00:04:13,199
+If that makes any sense at all, let me try to explain.
+
+77
+00:04:13,199 --> 00:04:15,099
+So the thing shoots cannonballs first off the bat.
+
+78
+00:04:15,099 --> 00:04:16,899
+Let's just say that. That's awesome.
+
+79
+00:04:16,899 --> 00:04:18,399
+And they roll around.
+
+80
+00:04:18,399 --> 00:04:20,899
+Now, if a cannonball hits the ground,
+
+81
+00:04:20,899 --> 00:04:25,199
+it's going to do 50% less damage than if it was not on the ground.
+
+82
+00:04:25,199 --> 00:04:27,199
+So anytime you hit a surface or you hit the ground,
+
+83
+00:04:27,199 --> 00:04:28,699
+it's going to do a lot less damage.
+
+84
+00:04:28,699 --> 00:04:32,100
+But if you hit somebody with the cannonball,
+
+85
+00:04:32,100 --> 00:04:33,500
+it can go through people.
+
+86
+00:04:33,500 --> 00:04:36,399
+You can actually hit people with the cannonball,
+
+87
+00:04:36,399 --> 00:04:39,300
+and it'll go through a line of people.
+
+88
+00:04:39,300 --> 00:04:41,100
+It also knocks people around,
+
+89
+00:04:41,100 --> 00:04:43,600
+and you can detonate this thing in the air.
+
+90
+00:04:43,600 --> 00:04:45,899
+That's what I talked about the Detonator and the Beggar's Bazooka.
+
+91
+00:04:45,899 --> 00:04:47,699
+Because you hold the button down,
+
+92
+00:04:47,800 --> 00:04:49,800
+and on the lower right, you're going to see a bar.
+
+93
+00:04:49,800 --> 00:04:54,100
+When that bar gets to be about 50% or 30% of the way you let go,
+
+94
+00:04:54,100 --> 00:04:56,600
+the thing is going to detonate somewhere in the air,
+
+95
+00:04:56,600 --> 00:04:58,699
+depending how long you held it down for.
+
+96
+00:04:58,699 --> 00:05:01,000
+Now, it can blow up in your face.
+
+97
+00:05:01,000 --> 00:05:02,699
+That's where the Beggar's Bazooka comes in.
+
+98
+00:05:02,699 --> 00:05:04,399
+If you hold it down too long,
+
+99
+00:05:04,399 --> 00:05:06,699
+it's just going to blow up in your face and you're going to take damage.
+
+100
+00:05:06,699 --> 00:05:09,899
+But it's very, very fun to try and knock people around with this thing,
+
+101
+00:05:09,899 --> 00:05:12,399
+and shoot this into a hallway with a bunch of people,
+
+102
+00:05:12,399 --> 00:05:14,000
+you're going to knock it into so many people
+
+103
+00:05:14,000 --> 00:05:15,600
+because the cannonball does damage.
+
+104
+00:05:15,600 --> 00:05:18,899
+So, I don't know right now how this weapon is going to, you know,
+
+105
+00:05:18,899 --> 00:05:21,800
+be on the list of are these things worth equipping,
+
+106
+00:05:21,800 --> 00:05:22,699
+but it's pretty fun.
+
+107
+00:05:22,699 --> 00:05:26,089
+I will tell you right now, it's very, very fun just to play around with.
+
+108
+00:05:26,089 --> 00:05:29,389
+So, let's move on to the third and last weapon of this update,
+
+109
+00:05:29,389 --> 00:05:33,089
+and it is the Rescue Ranger, probably my favorite one so far,
+
+110
+00:05:33,089 --> 00:05:37,790
+because it answers the prayers of a lot of big Sentry Engineer users,
+
+111
+00:05:37,790 --> 00:05:41,689
+and that is, I wish I could move away from my Sentry Nest
+
+112
+00:05:41,689 --> 00:05:44,089
+and not have to worry about everything exploding
+
+113
+00:05:44,089 --> 00:05:46,490
+and all my work being thrown down the toilet.
+
+114
+00:05:46,490 --> 00:05:50,089
+What this thing does, it's a ranged Sentry Healer.
+
+115
+00:05:50,089 --> 00:05:54,389
+Not only is it a projectile shotgun, but it's a ranged Sentry Healer.
+
+116
+00:05:54,389 --> 00:05:56,589
+It's going to heal your Sentry from any range,
+
+117
+00:05:56,589 --> 00:05:59,990
+you could be 5,000 feet down the road or right next to it,
+
+118
+00:05:59,990 --> 00:06:01,889
+you shoot it with the shotgun a couple times,
+
+119
+00:06:01,889 --> 00:06:04,389
+bada bing bada boom, your Sentry is healed.
+
+120
+00:06:04,389 --> 00:06:06,990
+Now, it's very, very, very important to say this,
+
+121
+00:06:06,990 --> 00:06:11,689
+this is not going to replenish ammo into your Sentry or rockets,
+
+122
+00:06:11,689 --> 00:06:14,889
+and this will not remove sappers.
+
+123
+00:06:14,889 --> 00:06:15,990
+That's a big deal.
+
+124
+00:06:15,990 --> 00:06:20,689
+So, this thing cannot remove sappers or replace ammo into your gun,
+
+125
+00:06:20,689 --> 00:06:22,689
+it can only heal the Sentry.
+
+126
+00:06:22,689 --> 00:06:25,189
+So, is this thing worth putting on?
+
+127
+00:06:25,189 --> 00:06:28,689
+I'm going to say absolutely yes, because I didn't even talk about the second
+
+128
+00:06:28,689 --> 00:06:32,120
+and probably the best feature of this item.
+
+129
+00:06:32,120 --> 00:06:37,920
+This allows you to pick up your Sentry gun from anywhere on the map,
+
+130
+00:06:37,920 --> 00:06:41,319
+as long as you can see the damn Sentry gun.
+
+131
+00:06:41,319 --> 00:06:44,920
+So, I can be standing all the way across Dust Bowl,
+
+132
+00:06:44,920 --> 00:06:48,420
+and right-click and teleport the Sentry into my hands.
+
+133
+00:06:48,420 --> 00:06:51,420
+Now, when you do that, you are going to be marked for death,
+
+134
+00:06:51,420 --> 00:06:54,019
+but it's a huge upside.
+
+135
+00:06:54,019 --> 00:06:56,720
+That's not even really a downside to me, in my opinion,
+
+136
+00:06:56,720 --> 00:06:59,319
+because you can get your Sentry gun out of so much trouble.
+
+137
+00:06:59,319 --> 00:07:01,120
+If you see somebody coming around the corner,
+
+138
+00:07:01,120 --> 00:07:02,720
+if you know the thing is going to die,
+
+139
+00:07:02,720 --> 00:07:05,319
+you can teleport it to you and run backwards back to the next point
+
+140
+00:07:05,319 --> 00:07:07,720
+or back to the next checkpoint for the payload cart.
+
+141
+00:07:07,720 --> 00:07:09,319
+It is unbelievable.
+
+142
+00:07:09,319 --> 00:07:13,620
+It does take 130 metal to do that, but my goodness gracious,
+
+143
+00:07:13,620 --> 00:07:16,120
+that is one of the coolest things I've ever seen in this game.
+
+144
+00:07:16,120 --> 00:07:19,220
+So, yes, I'm going to say absolutely go try this and go put it on.
+
+145
+00:07:19,220 --> 00:07:22,120
+And the downsides, the real downsides of this item
+
+146
+00:07:22,120 --> 00:07:26,600
+are lower clip size and lower maximum ammo capacity.
+
+147
+00:07:26,600 --> 00:07:27,699
+Like, who cares?
+
+148
+00:07:27,699 --> 00:07:31,180
+Like, this thing is ridiculous. Go put it on.
+
+149
+00:07:31,180 --> 00:07:33,379
+So, that is going to wrap up this video, guys.
+
+150
+00:07:33,379 --> 00:07:35,879
+Thank you all so much for watching. I really do appreciate it.
+
+151
+00:07:35,879 --> 00:07:38,779
+And stay tuned for the Man vs. Machine counterpart
+
+152
+00:07:38,779 --> 00:07:41,980
+of this update little series on Smith's Miss 2012
+
+153
+00:07:41,980 --> 00:07:43,379
+coming in the next couple of days.
+
+154
+00:07:43,379 --> 00:07:44,680
+So, I'll see you guys all soon.
+
+155
+00:07:44,680 --> 00:07:46,680
+And of course, take care everybody.
+
+156
+00:07:46,680 --> 00:07:47,879
+Have fun with the new weapons.

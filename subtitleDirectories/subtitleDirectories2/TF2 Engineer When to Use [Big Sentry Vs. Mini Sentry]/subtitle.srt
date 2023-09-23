@@ -1,0 +1,227 @@
+1
+00:00:00,310 --> 00:00:18,570
+Hey, what is going on everybody? Jirba here with a Team Fortress 2 gameplay commentary, and tonight I'm gonna be playing as the Engineer, the Combat Engineer.
+
+2
+00:00:18,570 --> 00:00:24,570
+And that's really what I want to talk about. I want to talk about the Combat Engineer and the Big Sentry Engineer.
+
+3
+00:00:24,570 --> 00:00:32,570
+This is gonna be kind of a tip video, not a tip video in the sense of place Sentry in A position or place your Sentry in B position.
+
+4
+00:00:32,570 --> 00:00:37,570
+What I want to talk about is when and where you should be choosing the different types of Engineers.
+
+5
+00:00:37,570 --> 00:00:43,570
+Now, you don't have to follow this guide or this tip video in 100% strictness. This is just a guideline.
+
+6
+00:00:43,570 --> 00:00:49,570
+You can play whatever Engineer you feel like playing on any map. It really doesn't matter whether you're playing on Gravel Pit, which I'm playing on right here,
+
+7
+00:00:49,570 --> 00:00:54,570
+or you're gonna play on 2 Fort or Badwater or Nightfall. The map doesn't really matter.
+
+8
+00:00:54,570 --> 00:01:05,870
+What does matter are two, I'd say two very, very simple things that are incredibly important that a lot of people just look over and they don't really take into consideration when they choose Engineer as a class.
+
+9
+00:01:05,870 --> 00:01:14,870
+So we'll get into those. I'll talk about those in a little bit more detail. Let's talk about the loadout first though, using the Widowmaker, the Strange Pistol, and the Gunslinger.
+
+10
+00:01:14,870 --> 00:01:22,109
+I actually want to talk about the Pistol for a second, just a second. So in the comments section, if you could leave me a comment either agreeing with me or disagreeing with me,
+
+11
+00:01:22,109 --> 00:01:30,109
+I don't like the Pistol at all, whether that's with the Scout or the Engineer. I feel like the hit registry on the Pistol is really, really bad.
+
+12
+00:01:30,109 --> 00:01:39,109
+I'll pull the Pistol out and go bang, bang, bang, bang, bang, bang, bang, bang, and nothing will happen, even if my crosshair is right on their body and I know I'm landing my shots.
+
+13
+00:01:39,109 --> 00:01:47,109
+And I feel like it's like that with the SMG too, but I don't know why. I don't know if there's a different algorithm with these two items, but it can be very, very frustrating,
+
+14
+00:01:47,109 --> 00:01:53,109
+especially when you know it takes one or two little Pistol pellets to kill somebody and you're just missing every single shot.
+
+15
+00:01:53,109 --> 00:01:58,109
+So let me know in the comments, let me know if you agree with that or disagree with that, and let's now move on to what I was going to talk about in this video,
+
+16
+00:01:58,109 --> 00:02:02,109
+which is Combat Engineer versus Big Center Engineer on whatever map you're going to be playing on.
+
+17
+00:02:02,109 --> 00:02:12,110
+So the number one thing you need to remember when you're going to pick either Combat or Basic Engineer is when you join the game. That is the number one most important thing.
+
+18
+00:02:13,110 --> 00:02:19,110
+So if you join a game and you look at the Engineer slots and there's nobody playing Engineer, or maybe there's one person playing Engineer,
+
+19
+00:02:19,110 --> 00:02:27,110
+and you go, I kind of feel like playing Engineer right now, so you click it, and then you look at where the cart is or how many control points they have captured, etc.
+
+20
+00:02:27,110 --> 00:02:38,110
+If the enemy team is more than 30 to 40% of the way through the game, that means if there's one or two points capped on Payload or one or two points capped on CP,
+
+21
+00:02:38,110 --> 00:02:45,110
+like you're seeing here on Gravel Pit, it's going to be incredibly difficult for you to build up a level 3 Sentry somewhere,
+
+22
+00:02:45,110 --> 00:02:48,110
+especially if the enemy team is moving swiftly to the next point.
+
+23
+00:02:48,110 --> 00:02:53,110
+So in that situation, you kind of have to tell yourself, I don't have really time to build a Sentry.
+
+24
+00:02:53,110 --> 00:02:59,110
+I'm going to have to go Combat Engie to support the team that way with Dispensers, with Mini Sentries, some Area Denial.
+
+25
+00:02:59,110 --> 00:03:03,110
+And don't get me wrong, I mean, you can still use the Big Sentry in these situations,
+
+26
+00:03:03,110 --> 00:03:10,110
+but it has to fall into point number two I'm about to make, or category number two, is what is your makeup of your team?
+
+27
+00:03:10,110 --> 00:03:13,110
+Is your team doing well? Are they holding the point well?
+
+28
+00:03:13,110 --> 00:03:18,110
+Those are things that have to go through your mind, because then, yes, it's okay for you to pick Big Sentry.
+
+29
+00:03:18,110 --> 00:03:22,110
+So if somebody's coming around the corner, let's say the blue team is capped the first point on Payload,
+
+30
+00:03:22,110 --> 00:03:29,110
+and they're moving very swiftly, and then you see that your team is starting to really push them back, and they're not really going anywhere for a few minutes.
+
+31
+00:03:29,110 --> 00:03:35,110
+That is an ideal situation for you to say, now it's time to switch from Combat Engineer to Big Sentry, or vice versa,
+
+32
+00:03:35,110 --> 00:03:40,669
+because you have plenty of time to build up a Sentry, at least to level two.
+
+33
+00:03:40,669 --> 00:03:44,669
+But it's still very, very important to play it very cautious, because let's say you pick that class, you go to Big Sentry,
+
+34
+00:03:44,669 --> 00:03:49,669
+you say, I got some time, I can do this, and then all of a sudden, they start to move forward very, very fast,
+
+35
+00:03:49,669 --> 00:03:53,849
+and you have a level one, and the thing just gets destroyed, and you get instantly killed.
+
+36
+00:03:53,849 --> 00:03:58,849
+That is a very bad situation to be in, and that's when you really need to pick Combat Engineer.
+
+37
+00:03:58,849 --> 00:04:04,849
+If you are getting rolled, if you are getting absolutely rolled on defense, you have to play Combat Engineer.
+
+38
+00:04:04,849 --> 00:04:10,849
+It's really impossible to play Big Sentry Engineer, because of just the amount of time it takes to build things up to level three.
+
+39
+00:04:10,849 --> 00:04:13,849
+That's not a concern you have to have when you have Mini Sentry.
+
+40
+00:04:13,849 --> 00:04:18,850
+You just place it down and rely on your shots to kill people, and of course, the Sentry kills people too,
+
+41
+00:04:18,850 --> 00:04:24,850
+but not nearly as much as you'll be killing people with your Widowmaker, or your shotguns, or whatever you happen to be using.
+
+42
+00:04:24,850 --> 00:04:31,220
+And talking about offense, the exact same tips here totally translate to playing Offensive Engineer.
+
+43
+00:04:31,220 --> 00:04:36,220
+How is your team doing? Is your team pushing up really, really far? Are you rolling the other team?
+
+44
+00:04:36,220 --> 00:04:41,220
+Then you should be playing Combat Engineer, because you're wasting the time building up a level three Sentry
+
+45
+00:04:41,220 --> 00:04:44,220
+if you are just rolling the other team, and vice versa.
+
+46
+00:04:44,220 --> 00:04:49,220
+If you're getting really pushed back on Blue Team, Big Sentry is a better option for much more area denial
+
+47
+00:04:49,220 --> 00:04:52,220
+for your team to have the confidence to push forward.
+
+48
+00:04:52,220 --> 00:04:55,220
+So it really goes back and forth. It goes both ways.
+
+49
+00:04:55,220 --> 00:05:00,459
+But again, all this is very, very subjective, and it just counts on how you are playing the field,
+
+50
+00:05:00,459 --> 00:05:04,459
+how you are seeing the action, because that's really what the Engineer's main goal is.
+
+51
+00:05:04,459 --> 00:05:07,459
+It's to control the action of the field.
+
+52
+00:05:07,459 --> 00:05:12,459
+So once you get the map knowledge down, you get the areas down, you will find yourself saying,
+
+53
+00:05:12,459 --> 00:05:15,459
+time to play Combat Engineer, I know the situation I'm going to be in,
+
+54
+00:05:15,459 --> 00:05:20,459
+or time to put on the big tools, put on the big Sentry, and I know the situations for here as well.
+
+55
+00:05:20,459 --> 00:05:26,459
+It really just comes down to knowing the maps and knowing the structure and the flow of a particular game.
+
+56
+00:05:26,459 --> 00:05:30,459
+But that's going to wrap it up here, guys. Thank you so much for watching, I really do appreciate it.
+
+57
+00:05:30,459 --> 00:05:34,459
+And I will see you guys all next time, and of course, take care, everybody.

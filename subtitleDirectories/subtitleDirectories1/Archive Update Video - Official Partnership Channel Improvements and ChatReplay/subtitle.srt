@@ -1,0 +1,1151 @@
+1
+00:00:00,890 --> 00:00:05,509
+Hello everyone, my name is Bacon and welcome to the German Stream Archive.
+
+2
+00:00:05,509 --> 00:00:10,070
+Today I have a long overdue update video for you all where we'll be talking about some important
+
+3
+00:00:10,070 --> 00:00:14,980
+things. It's been a long time since the last update video and because of that there's a lot
+
+4
+00:00:14,980 --> 00:00:19,320
+that needs to be talked about. There are timestamps in the description and the comments for each
+
+5
+00:00:19,320 --> 00:00:24,570
+section you might find important. You can also make use of the YouTube chapter feature to skip
+
+6
+00:00:24,570 --> 00:00:29,530
+around to find the info you're looking for. There's this section which is the introduction.
+
+7
+00:00:29,530 --> 00:00:33,530
+Here we'll be talking a little bit about who we are, what we do in the channel, and where we came
+
+8
+00:00:33,530 --> 00:00:38,520
+from. After that we need to talk about the channel being officially partnered with Germa
+
+9
+00:00:38,520 --> 00:00:44,060
+and monetization. Next we'll be talking about changes and improvements to how we archive
+
+10
+00:00:44,060 --> 00:00:50,039
+streams. After that we'll be talking about chat replay which is a new way to watch back chat on
+
+11
+00:00:50,039 --> 00:00:56,009
+our uploads. If that interests you then you don't want to miss that section. Finally I'll be ending
+
+12
+00:00:56,009 --> 00:01:01,500
+with a Q&A answering some questions that we keep getting asked. As I mentioned before it's been a
+
+13
+00:01:01,500 --> 00:01:07,189
+long time since the last update video. Between the last update video and now both Germa and this
+
+14
+00:01:07,189 --> 00:01:13,579
+channel have grown tenfold so I felt it's worth reintroducing Starkiller and I. My name is Bacon.
+
+15
+00:01:13,579 --> 00:01:19,180
+I own and run this channel alongside Starkiller. I started the Sturr Stream Archive more than five
+
+16
+00:01:19,180 --> 00:01:24,939
+years ago around late 2016 and added Germa to the archive shortly after to make it the Sturr
+
+17
+00:01:24,939 --> 00:01:31,640
+slash Germa Stream Archive. In late 2018 we split the channel into two, the Sturr Stream Archive
+
+18
+00:01:31,640 --> 00:01:38,170
+and the Germa Stream Archive. Since then Germa has only grown exponentially in popularity until
+
+19
+00:01:38,170 --> 00:01:43,379
+we get where we are today. My role in this channel is to download the video from Twitch
+
+20
+00:01:43,379 --> 00:01:48,260
+and re-upload them to YouTube. I also handle most of the business management and community
+
+21
+00:01:48,260 --> 00:01:53,140
+affairs of this channel like this update video. Starkiller is my friend who's been helping me
+
+22
+00:01:53,140 --> 00:01:57,480
+run this channel since near the start. Starkiller has his own channel where he used to archive
+
+23
+00:01:57,480 --> 00:02:02,439
+Germa streams until he noticed my channel getting more views and having the official name
+
+24
+00:02:02,439 --> 00:02:08,039
+Sturr slash Germa Stream Archive so he messaged me one day asking if he should stop uploading on
+
+25
+00:02:08,039 --> 00:02:12,280
+his channel. Instead of telling him to stop I actually decided to invite him to work on
+
+26
+00:02:12,280 --> 00:02:17,460
+the archive channel with me and he's been helping me since. His role in the channel is making the
+
+27
+00:02:17,460 --> 00:02:22,419
+thumbnail, putting the title, the description, end cards, and the rest of what makes a video a video.
+
+28
+00:02:22,419 --> 00:02:29,000
+He used to handle the downloading and uploading of VODs as well before I got my fiber internet.
+
+29
+00:02:29,000 --> 00:02:33,879
+If for some reason I can't download a VOD he's usually my backup and he comes in the clutch
+
+30
+00:02:33,879 --> 00:02:38,860
+because of that. Now that you know this a little bit better let's talk more about the partnership
+
+31
+00:02:38,860 --> 00:02:44,379
+and monetization I mentioned before. You guys heard me right, partnership. I've been talking
+
+32
+00:02:44,379 --> 00:02:48,460
+to Community Jake and Germa and they've asked us to come work for them officially and make the
+
+33
+00:02:48,460 --> 00:02:53,020
+channel an official archive channel as well as be a part of Germa's umbrella of channels.
+
+34
+00:02:53,020 --> 00:02:57,259
+For the most part things will be run the same except for a few changes we'll talk about later
+
+35
+00:02:57,259 --> 00:03:02,539
+in this video. It's just that now we're official and we'll be getting paid for it. After the last
+
+36
+00:03:02,539 --> 00:03:07,659
+time I mentioned monetization or donations I've decided to be careful about money on this channel.
+
+37
+00:03:07,659 --> 00:03:11,500
+The last time still giving me nightmares for even daring to mention monetization.
+
+38
+00:03:13,370 --> 00:03:17,849
+Before I felt it wasn't fair to enable ads without Germa's permission or without working
+
+39
+00:03:17,849 --> 00:03:22,680
+something out with him first. Now since we're officially working for Germa we'll be enabling
+
+40
+00:03:22,680 --> 00:03:28,650
+monetization on streams. I know people don't like ads so Community Jake and I decided on a decent
+
+41
+00:03:28,650 --> 00:03:34,330
+spacing of ads that won't be too intrusive for you guys. I really hope you guys don't get too
+
+42
+00:03:34,330 --> 00:03:39,610
+angry at us this time because honestly this opportunity Community Jake and Germa have given
+
+43
+00:03:39,610 --> 00:03:45,419
+us is like a ray of light in the dark for us here at the archive. If you feel this monetization is
+
+44
+00:03:45,419 --> 00:03:49,909
+unfair towards Germa then don't worry. Part of this ad revenue will go straight back to Germa
+
+45
+00:03:49,909 --> 00:03:55,219
+and funding his big shows. As for the money that is coming to us at the archive we will do our
+
+46
+00:03:55,219 --> 00:04:00,840
+best to earn our keep which leads us to the next section I want to talk about upcoming changes
+
+47
+00:04:00,840 --> 00:04:06,250
+and improvements we plan on making to the channel. A while back I made a survey about the volume of
+
+48
+00:04:06,250 --> 00:04:11,159
+Germa streams. In that survey I asked if there were any changes that you wanted to see made to
+
+49
+00:04:11,159 --> 00:04:16,550
+the channel. I wanted to thank everyone who left a suggestion even if you made a suggestion for a
+
+50
+00:04:16,550 --> 00:04:22,149
+change that was denied. I really appreciate all the comments. The suggestions have been read
+
+51
+00:04:22,149 --> 00:04:28,139
+through and considered. Changes that are rejected will be explained as to why afterwards.
+
+52
+00:04:28,139 --> 00:04:32,779
+It's important to understand that we're trying to balance the channel being an archive and the
+
+53
+00:04:32,779 --> 00:04:38,279
+channel being viewer friendly. For example splitting the streams up by game versus not
+
+54
+00:04:38,279 --> 00:04:43,720
+splitting up the streams up at all versus splitting an eight hour stream into shorter sections of four
+
+55
+00:04:43,720 --> 00:04:50,120
+hours each. Inevitably I can't make everyone happy but I can do my best by making a few improvements.
+
+56
+00:04:50,120 --> 00:04:55,500
+With that being said let's first start with changes not to be made. Many of these stem from
+
+57
+00:04:55,500 --> 00:05:01,180
+not having enough time or just not being very feasible. The first thing is having playlists for
+
+58
+00:05:01,180 --> 00:05:05,740
+many different types of streams or even just a playlist for different periods and arcs of
+
+59
+00:05:05,740 --> 00:05:10,420
+Germa's life and the reason I don't want to do this is because having too many playlists makes
+
+60
+00:05:10,420 --> 00:05:16,120
+it hard to sort through and also it's just too many playlists to kind of sort things into so
+
+61
+00:05:16,120 --> 00:05:21,100
+that'll be a little bit too much. The next one is more detailed timestamps and chapters.
+
+62
+00:05:21,100 --> 00:05:26,699
+For example timestamping highlights or skipping to a specific point in the VOD or timestamping
+
+63
+00:05:26,699 --> 00:05:31,980
+the beginning of him playing. For this one I'd say just have a little bit more patience. It takes
+
+64
+00:05:31,980 --> 00:05:36,860
+too much time to timestamp everything. We do like however seeing some people timestamp different
+
+65
+00:05:36,860 --> 00:05:41,339
+bits in the video and we may occasionally heart some of those comments if you timestamp the video
+
+66
+00:05:41,339 --> 00:05:46,629
+so thank you if you do that. The next one is kind of similar in that it's editing out BRB sections
+
+67
+00:05:46,629 --> 00:05:51,800
+and trimming streams down. This one takes a little bit too much work for not much return.
+
+68
+00:05:51,800 --> 00:05:56,199
+If you don't like the BRB sections try watching some long edits of the streams like Skye's
+
+69
+00:05:57,579 --> 00:06:03,220
+long edits or Chelsea's stream recaps or if those are too long watch the second Germa videos which
+
+70
+00:06:03,220 --> 00:06:08,339
+are also very very good with some talented editors. On top of all that we're a stream
+
+71
+00:06:08,339 --> 00:06:13,699
+archive so it doesn't make much sense to edit the streams down. The next one on the list is
+
+72
+00:06:13,699 --> 00:06:18,709
+having the date in the title. Now this one kind of clutches the title too much. In the past we
+
+73
+00:06:18,709 --> 00:06:24,790
+used to put the title in the the date in the title but we decided to take it off. It's nicer and
+
+74
+00:06:24,790 --> 00:06:29,939
+cleaner not having the date and the date is already in the description. This next one is speeding up
+
+75
+00:06:29,939 --> 00:06:35,399
+VOD uploads. This one I kind of don't really understand because usually I like to have the
+
+76
+00:06:35,399 --> 00:06:41,480
+videos uploaded the night of the stream and have it go up the next morning. It takes a little bit
+
+77
+00:06:41,480 --> 00:06:47,079
+of extra time to get all the bits ready especially if it's closer to midnight when he ends the stream
+
+78
+00:06:47,079 --> 00:06:52,680
+or if it's a bigger stream like the latest Elden Ring streams. So if it takes any longer it's
+
+79
+00:06:52,680 --> 00:06:57,079
+usually due to copyright or having to edit the video for some other reason or it's a big stream
+
+80
+00:06:57,079 --> 00:07:03,220
+that I'm waiting for Community Jake to send a copy of the studio recording. If for some reason
+
+81
+00:07:03,220 --> 00:07:09,699
+it takes a little longer than I expect I usually try to announce it in the archive discord so if
+
+82
+00:07:09,699 --> 00:07:13,699
+you want some more news about when a video is going to come out late go ahead and join the
+
+83
+00:07:13,699 --> 00:07:19,180
+archive discord. This next one is kind of similar to what we talked about before splitting the videos
+
+84
+00:07:19,180 --> 00:07:24,860
+up into parts for example splitting Elden Ring part one into two four-hour videos. This one's not
+
+85
+00:07:24,860 --> 00:07:29,579
+really feasible for the same reason as not trimming it down. It takes more time to do for not much
+
+86
+00:07:29,579 --> 00:07:34,540
+return more time to upload and it wouldn't be a very good viewing experience for the majority of
+
+87
+00:07:34,540 --> 00:07:40,629
+people. YouTube does a really good job of saving your place or you can just leave a comment with
+
+88
+00:07:40,629 --> 00:07:46,920
+the timestamp that you left off. I prefer to have one eight-hour video than two four-hour videos
+
+89
+00:07:46,920 --> 00:07:51,399
+and this also means less ads in general. This next one is on the other spectrum of splitting
+
+90
+00:07:51,399 --> 00:07:57,079
+streams and that is not splitting streams that have two games in it. This one we like to do at
+
+91
+00:07:57,079 --> 00:08:02,500
+the archive because it makes it easier for a couple reasons. One if a stream gets blocked or a game
+
+92
+00:08:02,500 --> 00:08:07,779
+gets blocked for whatever reason the audio the music in the game it makes it easier to split the
+
+93
+00:08:07,779 --> 00:08:11,860
+game up so that the other game that he streams doesn't get blocked. Another reason we like doing
+
+94
+00:08:11,860 --> 00:08:16,100
+this is because it helps people find the game they want to see Jerma playing without having
+
+95
+00:08:16,100 --> 00:08:20,730
+them skim through a bunch of different streams to try to find it. It also makes things easier to
+
+96
+00:08:20,730 --> 00:08:25,290
+place them in the playlist for organization's sake and also for people wanting to binge watch
+
+97
+00:08:25,290 --> 00:08:31,000
+a specific game. This next one relates to what we talked about earlier with monetization and that
+
+98
+00:08:31,000 --> 00:08:36,629
+is to reduce the amount of ads in videos. Now I want to make clear that if any video gets any
+
+99
+00:08:36,629 --> 00:08:42,549
+amount of copyright claims more times than not there tends to be an insane amount of ads and we
+
+100
+00:08:42,549 --> 00:08:47,769
+can't do anything about it to reduce the amount of ads. For example the Laugh You Lose video got
+
+101
+00:08:47,769 --> 00:08:53,850
+claimed and has so many ads in such a short amount of time. I've heard reports of about one every 10
+
+102
+00:08:53,850 --> 00:08:59,590
+seconds. For the videos that we can control ads on I do my best to make sure to minimize ads while
+
+103
+00:08:59,590 --> 00:09:04,820
+still keeping him there. When I talked to community Jake about it I told him that I like to keep ads
+
+104
+00:09:04,820 --> 00:09:11,179
+to a relative minimum and he agreed so we agreed on a good ad spacing for us both. This next one
+
+105
+00:09:11,179 --> 00:09:16,059
+asks us to put the hour a stream starts into the description. Now for this one I kind of want to
+
+106
+00:09:16,059 --> 00:09:22,059
+ask why. Also I don't really know how to find that without keeping track of the time he starts
+
+107
+00:09:22,059 --> 00:09:28,299
+because oftentimes he starts at different times and he's just late. This one asks us to announce
+
+108
+00:09:28,299 --> 00:09:33,750
+when VODs will come out. Now for this one as I mentioned before VODs usually come out within
+
+109
+00:09:33,750 --> 00:09:39,029
+the next day or two of the original stream. If it takes any longer I'll announce it in the community
+
+110
+00:09:39,029 --> 00:09:45,220
+tab or I'll announce it in our discord. A few of you have asked us to place VODs into a non-youtube
+
+111
+00:09:45,220 --> 00:09:52,039
+place for example mega, dropbox, google drive, etc. This is something that I've actually kind of
+
+112
+00:09:52,039 --> 00:09:56,600
+wanted to do but I'm not even sure how to do it without an insane additional cost for the amount
+
+113
+00:09:56,600 --> 00:10:01,960
+of streams and data that are going to be archived the extra time it'll take to upload them. It's
+
+114
+00:10:01,960 --> 00:10:06,779
+something I'm interested in but it's just not very feasible at the moment. This next one is one that
+
+115
+00:10:06,779 --> 00:10:12,019
+gets requested fairly often and that is to put the twitch VOD link in the description. After a couple
+
+116
+00:10:12,019 --> 00:10:17,059
+months the original VOD gets deleted meaning the link is only valid for those 60 days that the VOD
+
+117
+00:10:17,059 --> 00:10:22,419
+is available. While I could delete the link after 60 days I'm not really looking to track every VOD
+
+118
+00:10:22,500 --> 00:10:27,620
+for 60 days for the rest of the time German streams so yeah sorry about that. After around
+
+119
+00:10:27,620 --> 00:10:32,659
+germans resident evil village streams this is one that gets requested fairly often and that is to
+
+120
+00:10:32,659 --> 00:10:39,860
+upscale the videos into 1080p uploads instead of letting youtube downscale to 720p. Now there's
+
+121
+00:10:39,860 --> 00:10:45,620
+a little bit of technicality stuff going on here but to kind of put it simply it's a little bit
+
+122
+00:10:45,620 --> 00:10:50,259
+more work to put into 1080p. This is something that I actually kind of want to see and look into
+
+123
+00:10:50,259 --> 00:10:55,220
+and experiment but if it ends up being too hard to do too much overhead we might not end up doing
+
+124
+00:10:55,220 --> 00:11:00,259
+it so there's a chance that we'll do this but don't really count on it too much at the moment.
+
+125
+00:11:00,259 --> 00:11:05,370
+This next one is one that gets requested very often and that is to put chat on screen. The
+
+126
+00:11:05,370 --> 00:11:09,289
+reason I don't want to do this is because I don't want chat to become mandatory for people who
+
+127
+00:11:09,289 --> 00:11:14,730
+dislike chat. I know a good portion actually a majority of people don't like having chat on
+
+128
+00:11:14,730 --> 00:11:20,649
+screen. In the past I did a poll and a majority of the people said that they didn't like chat and
+
+129
+00:11:20,649 --> 00:11:24,970
+didn't want chat on screen so because of this I don't want to make it mandatory for people who
+
+130
+00:11:24,970 --> 00:11:31,879
+don't want it. Now I understand that having chat is what makes a stream well a stream but I can't
+
+131
+00:11:31,879 --> 00:11:35,960
+admit that chat can be distracting at times and sometimes you just want to see a full screen of
+
+132
+00:11:35,960 --> 00:11:42,200
+germa focus on germa. Now this last denied change I want to talk about is anything that relates to
+
+133
+00:11:42,759 --> 00:11:49,080
+changes on germa's side for example putting chat on stream or having more facecam time or doing
+
+134
+00:11:49,159 --> 00:11:55,399
+specific kind of stream because for the simple fact that I am not germa. Well that was a little
+
+135
+00:11:55,399 --> 00:12:00,200
+bit long and I hope you guys weren't getting too bored but now it's time for the exciting part
+
+136
+00:12:00,200 --> 00:12:04,490
+which is talking about the upcoming changes and improvements that I want to implement.
+
+137
+00:12:04,490 --> 00:12:09,289
+Starting off we'll be talking about one change that's on germa's side. The main purpose of the
+
+138
+00:12:09,289 --> 00:12:14,889
+VOD volume survey was to determine if it was a minority a majority of people who were experiencing
+
+139
+00:12:14,889 --> 00:12:20,009
+audio issues with germa streams. I showed the results of the VOD volume survey to Community
+
+140
+00:12:20,009 --> 00:12:24,730
+Jake and both Germa and Community Jake agreed that something needs to be changed so they'll be
+
+141
+00:12:24,730 --> 00:12:29,690
+looking into making some changes soon. Frankly I'm actually really happy that I was able to do
+
+142
+00:12:29,690 --> 00:12:33,610
+something that helps improve the stream for everyone else. Now for the first change that
+
+143
+00:12:33,610 --> 00:12:38,649
+we'll be making on the channel is we'll be starting to mark the start and end of the BRB
+
+144
+00:12:38,649 --> 00:12:44,090
+segments to make it its own BRB segment in the chapters. Additionally we'll also be time stamping
+
+145
+00:12:44,090 --> 00:12:48,870
+where we pull the thumbnail from. Big streams are important for Germa right now so I want to make
+
+146
+00:12:48,870 --> 00:12:54,309
+sure that his archive of that stream is as good a quality as we can get it. So because of that
+
+147
+00:12:54,309 --> 00:12:58,490
+Community Jake will be sending us recordings of those big production streams to upload.
+
+148
+00:12:58,490 --> 00:13:03,610
+If for whatever reason he can't send it then we'll be uploading the twitch version instead.
+
+149
+00:13:03,610 --> 00:13:08,279
+This next one is something that's been requested fairly often and that is having community made
+
+150
+00:13:08,279 --> 00:13:12,600
+subtitles. We'll be looking a little bit into having these community made subtitles. Now
+
+151
+00:13:12,679 --> 00:13:17,720
+obviously this change relies more on the community so it's not for sure if this change will be made
+
+152
+00:13:17,720 --> 00:13:21,720
+for certain but if anybody's interested in helping write eight hour long subtitles for
+
+153
+00:13:21,720 --> 00:13:26,600
+fans of hard hearing please let me know message me on discord my discord will be in the description.
+
+154
+00:13:26,600 --> 00:13:30,840
+At the very least if anybody's interested in helping subtitle some of Germa's bigger streams
+
+155
+00:13:30,840 --> 00:13:35,000
+I'd be very grateful for that. This next change and the change after that are some changes that
+
+156
+00:13:35,000 --> 00:13:39,559
+we've already made to the archive channel. The first change slash improvement being uploading
+
+157
+00:13:39,559 --> 00:13:45,080
+and recovering older lost vods or blocked streams that have been blocked worldwide or for
+
+158
+00:13:45,080 --> 00:13:49,879
+certain people. As some of you keen-eyed viewers may have seen we've already re-uploaded Germa's
+
+159
+00:13:49,879 --> 00:13:56,460
+Jump King part 2 stream which is uploaded with some parts muted while keeping Germa's voice intact.
+
+160
+00:13:56,460 --> 00:14:01,019
+Big thanks to Sky for helping out with the audio for that stream. If you guys haven't already please
+
+161
+00:14:01,019 --> 00:14:05,879
+go to his channel and give him some love. He's been very kind and helpful to me. I wanted to
+
+162
+00:14:05,879 --> 00:14:09,960
+start bringing back more of those long lost blocked streams or even some of the very old
+
+163
+00:14:09,960 --> 00:14:14,539
+streams that were thought to be lost to time if possible. I'll be making a community post in the
+
+164
+00:14:14,539 --> 00:14:19,980
+near future asking for suggestions on what videos you want to see returned next for the next change
+
+165
+00:14:19,980 --> 00:14:24,460
+we've already made. For streams that we have separated by game like a recent stream where he
+
+166
+00:14:24,460 --> 00:14:29,740
+streamed Mario Golf, Picross, Big Brand Academy, and Elden Ring we'll be linking the other games
+
+167
+00:14:29,740 --> 00:14:34,620
+within that same stream but you'll be able to click the link to it in the comments of the video
+
+168
+00:14:34,620 --> 00:14:39,820
+to other parts within that same stream. Getting down to the last couple changes the next one is
+
+169
+00:14:39,820 --> 00:14:44,470
+having detailed thumbnails for example part numbers within the thumbnail. We're going to
+
+170
+00:14:44,470 --> 00:14:49,370
+start trying to put a little bit more detail into the thumbnails mostly just putting part
+
+171
+00:14:49,370 --> 00:14:55,110
+numbers on the thumbnail if applicable but we'll see what else we can do. Finally the last thing
+
+172
+00:14:55,110 --> 00:15:00,179
+I want to talk about is something that has been requested over and over again. In the past I've
+
+173
+00:15:00,179 --> 00:15:04,659
+said I wanted a way to add chat to these VODs while at the same time making them optional for
+
+174
+00:15:04,659 --> 00:15:10,309
+people that don't want them or don't like having the chat alongside the video. I'm pleased to
+
+175
+00:15:10,309 --> 00:15:15,429
+announce that I finally have a solution that's available for you guys. What I have for you guys
+
+176
+00:15:15,429 --> 00:15:22,019
+is a website called Chat Replay. Well what is it you may be asking? This website will allow you to
+
+177
+00:15:22,019 --> 00:15:27,320
+watch archived drama streams with a replay of twitch chat alongside the video. This means you
+
+178
+00:15:27,320 --> 00:15:32,919
+get to see your favorite one guy moments live in chat or see twitch chat say hi to the VOD watchers.
+
+179
+00:15:32,919 --> 00:15:38,759
+That's you guys. Chat Replay will not only let you watch archived drama streams with chat but also
+
+180
+00:15:38,759 --> 00:15:44,389
+many other participating channels. That's not all though. If you prefer to stay on YouTube to watch
+
+181
+00:15:44,389 --> 00:15:49,750
+streams then you can take advantage of the Chat Replay extension to have chat embedded right on
+
+182
+00:15:49,750 --> 00:15:53,990
+the YouTube page right next to the video. The extension will add a button below the YouTube
+
+183
+00:15:53,990 --> 00:15:59,690
+player that will allow you to embed chat into the YouTube page, pop chat out to put wherever you
+
+184
+00:15:59,769 --> 00:16:06,440
+please, or open a twitch-like theater mode for you to view just like you're on Twitch.
+
+185
+00:16:06,440 --> 00:16:11,909
+The extension is available now on Chrome and Firefox. If you're on a browser that doesn't
+
+186
+00:16:11,909 --> 00:16:17,620
+support the extension or you're on mobile, you can still make use of the Chat Replay website.
+
+187
+00:16:17,620 --> 00:16:22,100
+If you guys know a YouTube channel that uploads a copy of Twitch streams to YouTube
+
+188
+00:16:22,100 --> 00:16:29,019
+and you want to see Chat Replay on that channel, ask them to message me or Restorn on Discord.
+
+189
+00:16:29,019 --> 00:16:33,179
+My Discord will be in the description and Restorn's Discord can be found on the top
+
+190
+00:16:33,179 --> 00:16:38,279
+of the Chat Replay website if you click the Join button. I just want to remind you guys that when
+
+191
+00:16:38,279 --> 00:16:44,519
+you're asking your favorite channels to implement Chat Replay, please do so politely. Don't spam them
+
+192
+00:16:44,519 --> 00:16:50,259
+asking them to join your Chat Replay and keep it civilized, please. You can link them to this video
+
+193
+00:16:50,259 --> 00:16:54,659
+with a timestamp to the start of this section or just link them to the Chat Replay website.
+
+194
+00:16:54,659 --> 00:16:59,980
+The link to the website and the download pages for the extension will be in the description.
+
+195
+00:16:59,980 --> 00:17:04,779
+Bringing you guys Chat wouldn't be possible without the help of community member Restorn.
+
+196
+00:17:04,779 --> 00:17:08,779
+He's the one who created and maintains Chat Replay in the background, so please give him
+
+197
+00:17:08,779 --> 00:17:13,740
+some of your guys' thanks. In addition, if you guys run into any problems, please let him know
+
+198
+00:17:13,740 --> 00:17:19,029
+directly. Please don't leave any comments somewhere else and expect a problem to be fixed.
+
+199
+00:17:19,029 --> 00:17:23,910
+If you guys like Chat Replay, please feel free to toss Restorn a couple dollars using the Donate
+
+200
+00:17:23,910 --> 00:17:30,069
+button on the top right of the website. You guys have been asking for Chat for a long time. It's
+
+201
+00:17:30,069 --> 00:17:35,849
+a question that has been asked for years. Can you please add Chat to the videos? So I'm glad to have
+
+202
+00:17:35,849 --> 00:17:40,650
+finally gotten a good solution to that question. There are more things you guys have been asking,
+
+203
+00:17:40,650 --> 00:17:46,390
+so I feel like it's time to move into the Q&A section of this video. These questions are picked
+
+204
+00:17:46,390 --> 00:17:51,319
+out from the Bod Volume Survey, as well as a couple from the community post I made recently.
+
+205
+00:17:51,319 --> 00:17:56,200
+Again, big thank you for your questions, even if I didn't pick yours to be answered. If you have a
+
+206
+00:17:56,200 --> 00:17:59,960
+question that you'd like to have answered but isn't in this section of the video, you can go
+
+207
+00:17:59,960 --> 00:18:04,680
+ahead and ask in the comments and I'll do my best to answer as many as I can. The questions can be
+
+208
+00:18:04,680 --> 00:18:10,519
+about anything like Chat Replay, the partner slash monetization, the channel, or anything else.
+
+209
+00:18:10,519 --> 00:18:15,740
+Just please try to keep the questions somewhat related to Germa or this channel. This section
+
+210
+00:18:15,740 --> 00:18:20,730
+might be fairly long, so I'll try to get through it as quick as possible. But if you're not interested
+
+211
+00:18:20,730 --> 00:18:26,359
+in listening to me answer some questions, feel free to skip to the timestamp on screen. Or you
+
+212
+00:18:26,359 --> 00:18:31,019
+can exit the video now because this is the last section of the update video. If you decide to
+
+213
+00:18:31,019 --> 00:18:35,980
+leave, thanks for stopping by and listening. I hope you had a great day. For those of you still
+
+214
+00:18:35,980 --> 00:18:41,900
+here, let's get into those questions. Question one asks us how much work goes into uploading
+
+215
+00:18:41,900 --> 00:18:47,299
+a video from Twitch to YouTube. Generally, the stream takes about two hours for me to download
+
+216
+00:18:47,299 --> 00:18:52,819
+the VOD, make sure it's ready for upload, and upload it. I'm able to upload it quickly with
+
+217
+00:18:52,819 --> 00:18:58,339
+gigabit fiber internet. While it uploads, I link chat using Chat Replay so it'll be available as
+
+218
+00:18:58,339 --> 00:19:02,819
+soon as it's live. Once it's uploaded and processed, it's in Starkiller's hands where
+
+219
+00:19:02,819 --> 00:19:07,539
+he skims through the video to find a suitable thumbnail, writes the title, description, puts
+
+220
+00:19:07,539 --> 00:19:13,779
+playlists, end cards, and finally sets up the video to go up at 7am PST. On to question two,
+
+221
+00:19:13,779 --> 00:19:18,819
+what's our relationship to Germa and did we have to get special permission to upload VODs?
+
+222
+00:19:18,819 --> 00:19:23,720
+Up until about the time Germa moved to Vegas, we didn't have direct contact with him. I think he
+
+223
+00:19:23,720 --> 00:19:28,440
+was a little cautious of us up until then, but since then he's been talking to us more,
+
+224
+00:19:28,440 --> 00:19:33,000
+and I even got a chance to show him the sunflowers that I was growing while not knowing at all that
+
+225
+00:19:33,000 --> 00:19:38,279
+he was also growing some too. While we didn't have to get special permission, I made sure early on
+
+226
+00:19:38,279 --> 00:19:42,680
+in the channel's life to get explicit permission from both Stirr and Germa before I continued
+
+227
+00:19:42,680 --> 00:19:48,119
+archiving for the public. I still uploaded streams for my personal use though. Question three,
+
+228
+00:19:48,119 --> 00:19:52,500
+how long do you plan on doing this channel? Currently, the plan is to upload as long as
+
+229
+00:19:52,500 --> 00:19:58,180
+Germa is streaming. If for some reason we have to stop uploading, I'll do my absolute best
+
+230
+00:19:58,180 --> 00:20:04,200
+to find a replacement so that the archive stays updated. Question four asks, do we edit any VODs
+
+231
+00:20:04,200 --> 00:20:09,910
+or they re-upload from Twitch? We tend to try to keep the VODs as close to a source as possible.
+
+232
+00:20:09,910 --> 00:20:14,390
+The only edits we do are cutting the empty spaces of not talking at the beginning of the streams,
+
+233
+00:20:14,390 --> 00:20:20,230
+or when we split up the streams by games he plays, or in the rare instances of copyright blocking a
+
+234
+00:20:20,230 --> 00:20:25,829
+stream, we try to edit out any of the copyrighted content. On the topic of copyright content,
+
+235
+00:20:25,829 --> 00:20:31,109
+question five asks, how do you deal with copyright claims that block streams? If he's playing a
+
+236
+00:20:31,109 --> 00:20:37,029
+random, somewhat unimportant game like House Flipper or Fart Simulator 2023, then it's easier to just
+
+237
+00:20:37,029 --> 00:20:42,490
+mute the section that gets claimed. But for big streams like Dollhouse, Game Awards, or other
+
+238
+00:20:42,490 --> 00:20:47,049
+streams where sound is important, we determine if we have a case to file a dispute against that
+
+239
+00:20:47,609 --> 00:20:51,450
+It has to be almost clear that we'll win the dispute, because with too many strikes,
+
+240
+00:20:51,450 --> 00:20:57,049
+the channel will get deleted and that's no good. Question six asks, what would you do if a seagull
+
+241
+00:20:57,049 --> 00:21:04,069
+crashed into your room? Question seven asks, what are your favorite content creators aside from
+
+242
+00:21:04,069 --> 00:21:09,940
+Jerma? At the cost of my pride, I'll reveal some of the people I've been watching lately. I have
+
+243
+00:21:09,940 --> 00:21:14,500
+been watching a lot of VTubers lately, but more specifically, I've been watching some Nijisanji
+
+244
+00:21:14,819 --> 00:21:20,920
+members like Salen, Pomu, or Finana. It's only a few streams here and there from a few members
+
+245
+00:21:20,920 --> 00:21:25,960
+of Nijien, depending on if they play a game I want to watch. Aside from that, I've been
+
+246
+00:21:25,960 --> 00:21:32,039
+enjoying many of True Nerd's Fallout YOLO runs, Ray Navey's Jr. streams, and very occasionally
+
+247
+00:21:32,039 --> 00:21:36,759
+Soviet Womble and Russian Badger whenever they upload. Starkiller, on the other hand, enjoys
+
+248
+00:21:36,759 --> 00:21:44,519
+watching Vinny Vinesauce, Kitboga, SimpleFlips, Many True Nerd as well, Windigoon, and JimmyIsHere.
+
+249
+00:21:44,519 --> 00:21:48,869
+There's a few more that he likes to watch, but those are the ones he's been watching lately.
+
+250
+00:21:48,869 --> 00:21:53,589
+Since I had out myself watching VTubers, I'll hint at Starkiller's favorite VTuber.
+
+251
+00:21:54,950 --> 00:21:59,259
+You'll see it on screen now. Now that I look at it, most of the questions that are left are about us,
+
+252
+00:21:59,259 --> 00:22:03,660
+so if you guys aren't interested in that, then also you can skip to the timestamp. Question eight
+
+253
+00:22:03,660 --> 00:22:09,799
+asks, what is our favorite Jerma stream? Mine is Chibi-Robo because it was my favorite GameCube game,
+
+254
+00:22:09,799 --> 00:22:13,880
+but no one else seems to like it for some reason. Either that or Rhythm Heaven Fever.
+
+255
+00:22:13,880 --> 00:22:18,650
+Starkiller's favorite Jerma stream is either the Long Drive or Talk to Transformers since
+
+256
+00:22:18,650 --> 00:22:24,599
+he's seen the highlights for many times. That or the Sorcery streams. Question nine asks,
+
+257
+00:22:24,599 --> 00:22:30,119
+pineapple on pizza or no? If I have a choice, no, but I'll eat it if that's what gets ordered
+
+258
+00:22:30,119 --> 00:22:36,230
+because I prefer not starving. Still on the topic of foods, what is our favorite food?
+
+259
+00:22:36,230 --> 00:22:42,230
+Quesadillas. I love Quesadillas so much, but mostly only the ones that I make myself. That's mostly
+
+260
+00:22:42,230 --> 00:22:47,210
+because the ones from the fast food chains taste like fake cheese. Starkiller, on the other hand,
+
+261
+00:22:47,210 --> 00:22:53,140
+had a hard time deciding, but settled on pizza and Chinese food. Question 11 asks, how many
+
+262
+00:22:53,140 --> 00:22:59,779
+Burger King burgers have you eaten? Wouldn't you like to know McDonald's spy? Now on to the last
+
+263
+00:22:59,779 --> 00:23:05,539
+question, question 12. Is this channel a labor of love? A lot of time and effort goes into this
+
+264
+00:23:05,539 --> 00:23:10,680
+channel that there's worried of us getting burned out. Years ago when I first started this channel,
+
+265
+00:23:10,680 --> 00:23:15,160
+it started off as a personal storage of VODs that I wanted to watch later that I didn't want to
+
+266
+00:23:15,160 --> 00:23:20,359
+save before Twitch deleted them. As I started to see more people make use of the Archive channel
+
+267
+00:23:20,359 --> 00:23:24,359
+and as I got better internet and storage space, the channel started becoming a better way to
+
+268
+00:23:24,359 --> 00:23:29,319
+serve the community and for me to personally give back to Jerma since at the time I didn't have
+
+269
+00:23:29,319 --> 00:23:34,779
+money to sub or give bits. Nowadays, as Starkiller and I become busy in our personal lives,
+
+270
+00:23:34,779 --> 00:23:39,819
+update the channel each Jerma stream is something we have less time for, but seeing how many people
+
+271
+00:23:39,819 --> 00:23:45,660
+we help just by uploading this funny man makes it all worth it for us. So with that last question,
+
+272
+00:23:45,660 --> 00:23:51,269
+that brings this video to a close. There was a lot that was talked about here with the partnership,
+
+273
+00:23:51,269 --> 00:23:56,099
+upcoming changes, and chat replay, so I hope it wasn't too boring to watch.
+
+274
+00:23:56,099 --> 00:24:00,019
+Like I mentioned at the beginning of the Q&A section, if you have a question about anything
+
+275
+00:24:00,019 --> 00:24:03,940
+I talked about here today, please feel free to leave it at the comment section below and I'll
+
+276
+00:24:03,940 --> 00:24:08,660
+try to answer as many as I can. In addition to that, if you want more news about the Archive,
+
+277
+00:24:08,660 --> 00:24:13,779
+want to stay updated with why Abad might be out later than usual, or just want a place to hang out,
+
+278
+00:24:13,779 --> 00:24:18,920
+come join our Discord. In there, it's always time for some juicy franks.
+
+279
+00:24:18,920 --> 00:24:23,829
+One final thing before I end the video, I wanted to thank you all for your support from the bottom
+
+280
+00:24:23,829 --> 00:24:28,619
+of my heart. If you excuse a quick tangent for me to share a little more about myself,
+
+281
+00:24:28,619 --> 00:24:33,670
+I had always dreamed to be a YouTube star as many kids do. Growing older, I realized I don't exactly
+
+282
+00:24:33,670 --> 00:24:38,710
+have the personality or the voice to make good content. Even while doing this line, I had to
+
+283
+00:24:38,710 --> 00:24:43,670
+retake it several times. However, this channel has allowed me to live vicariously, feeling the
+
+284
+00:24:43,670 --> 00:24:48,710
+support of the community. I know most of you guys' support goes to Jerma, but I read every comment
+
+285
+00:24:48,710 --> 00:24:53,029
+that you guys leave thanking us for the Archive, and it always makes me glad that I get to be a
+
+286
+00:24:53,029 --> 00:24:58,650
+part of something so cool and useful to so many people, including Jerma himself. We here at the
+
+287
+00:24:58,650 --> 00:25:03,130
+Archive want to thank you once again for your support, and we will do our best to keep providing
+
+288
+00:25:03,130 --> 00:25:07,670
+the Jerma content you know and love. Thank you all, and see you next time.

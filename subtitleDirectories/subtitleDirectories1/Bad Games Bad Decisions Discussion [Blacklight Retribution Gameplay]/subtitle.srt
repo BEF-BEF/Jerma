@@ -1,0 +1,403 @@
+1
+00:00:00,310 --> 00:00:13,560
+Hey, what is going on everybody? Jerma here with a gameplay commentary.
+
+2
+00:00:13,560 --> 00:00:19,260
+Don't know exactly what's going to be in the background. This is going to be another one of my podcast-y styled type of videos
+
+3
+00:00:19,260 --> 00:00:23,760
+where there's just something random in the background, something to sit there for you to look at while I talk about some things.
+
+4
+00:00:23,760 --> 00:00:29,559
+And we do have something to talk about today. It's going to cover bad games.
+
+5
+00:00:29,559 --> 00:00:33,759
+And not just bad games, we're also going to cover bad company decisions,
+
+6
+00:00:33,759 --> 00:00:42,259
+whether it be marketing or their infrastructure techniques or release schedules, just bad decisions in general in the gaming world.
+
+7
+00:00:42,259 --> 00:00:48,259
+So let's add a few ground rules here. When I'm talking about bad games, I do not mean your brother or your friend saying,
+
+8
+00:00:48,259 --> 00:00:52,759
+oh you know that game Ice Climbers in like the 80s, I hated that frigging game, that game sucked.
+
+9
+00:00:52,759 --> 00:01:01,259
+I'm talking, no, I'm talking mostly about large quantities of people, large quantities of publications destroying a game,
+
+10
+00:01:01,259 --> 00:01:06,260
+saying that it was a complete atrocity, completely awful game and it was not even worth playing.
+
+11
+00:01:06,260 --> 00:01:10,260
+These are games that get like less than five on the ten point scale rating.
+
+12
+00:01:10,260 --> 00:01:15,689
+So with that kind of set as a ground rule, let's bring up a couple of releases in the last year or two
+
+13
+00:01:15,689 --> 00:01:21,689
+that have been really, really high budget releases, high touted games that got this type of bad rating.
+
+14
+00:01:21,689 --> 00:01:26,689
+I guess the most recent one you can think of, it just actually came out like this month,
+
+15
+00:01:26,689 --> 00:01:30,689
+Aliens Colonial Marines made by Gearbox Software.
+
+16
+00:01:30,689 --> 00:01:35,689
+This game was panned across the board, which is very, very odd because Gearbox,
+
+17
+00:01:35,689 --> 00:01:41,689
+the other guys responsible for Borderlands and Borderlands 2, which are fantastic games, awesome, awesome releases.
+
+18
+00:01:41,689 --> 00:01:44,689
+But I don't know where it went wrong with Colonial Marines.
+
+19
+00:01:44,689 --> 00:01:49,689
+I'm not sure why it turned out to be kind of a bad game and sort of lackluster in all the different regards,
+
+20
+00:01:49,689 --> 00:01:54,859
+but it did happen and one has to really wonder the investors and the sales,
+
+21
+00:01:54,859 --> 00:01:57,859
+that's probably going to be going down from this bad release.
+
+22
+00:01:57,859 --> 00:02:01,859
+What's going to happen to Gearbox now that this has been a thing?
+
+23
+00:02:01,859 --> 00:02:05,859
+And this is where I want to take the discussion forward here and talk about bad games
+
+24
+00:02:05,859 --> 00:02:07,859
+and the future of bad games and the future of companies.
+
+25
+00:02:07,859 --> 00:02:12,860
+Gaming is changing, but you can't make a bad game anymore.
+
+26
+00:02:12,860 --> 00:02:17,860
+You used to be able to make a bad game and it would still sell,
+
+27
+00:02:17,860 --> 00:02:22,860
+but at least in recent years, in the last like five or six years or so, you can't do that anymore.
+
+28
+00:02:22,860 --> 00:02:27,860
+There's so many people like myself and like a lot of other people on YouTube making videos about content.
+
+29
+00:02:27,860 --> 00:02:30,860
+Are they going to tell you don't buy that game? Are they going to tell you buy that game?
+
+30
+00:02:30,860 --> 00:02:34,860
+There's so many reviewing websites that tell you stay away from this game.
+
+31
+00:02:34,860 --> 00:02:39,860
+There's so many places where you can get information now that you can't just sloppily put together a bad game
+
+32
+00:02:39,860 --> 00:02:42,360
+and expect it to do well.
+
+33
+00:02:42,360 --> 00:02:47,360
+On the surface, this is a very good thing because obviously if you spend $60 on a game,
+
+34
+00:02:47,360 --> 00:02:52,360
+which is a lot of money, it's almost $100 to buy a new game now, at least on consoles.
+
+35
+00:02:52,360 --> 00:02:56,360
+So if you're going to spend that kind of money, you would expect to get an experience that,
+
+36
+00:02:56,360 --> 00:02:59,360
+let's face it, is at least not like a piece of absolute crap.
+
+37
+00:02:59,360 --> 00:03:04,659
+Now, don't get me wrong here. I have played and recommended games that have been,
+
+38
+00:03:04,659 --> 00:03:07,659
+let's say, lackluster in the review department.
+
+39
+00:03:07,659 --> 00:03:11,659
+I know a couple games that I've played recently have been very, very low-scoring games,
+
+40
+00:03:11,659 --> 00:03:13,659
+but they're also very cheap too.
+
+41
+00:03:13,659 --> 00:03:17,659
+And I think that correlates, there's a difference there between spending $10 on a game
+
+42
+00:03:17,659 --> 00:03:21,659
+rather than $60 on a game and potentially being disappointed.
+
+43
+00:03:21,659 --> 00:03:26,659
+But regardless of that, these companies that are not going to be making money off of you
+
+44
+00:03:26,659 --> 00:03:29,659
+and they had a $50 million budget or something like that,
+
+45
+00:03:29,659 --> 00:03:32,659
+they're going to lose a lot of money and they may in fact go under.
+
+46
+00:03:32,659 --> 00:03:38,659
+We have seen so many companies recently start to do a complete nosedive
+
+47
+00:03:38,659 --> 00:03:43,659
+because of poor sales, bad marketing decisions, bad gaming decisions,
+
+48
+00:03:43,659 --> 00:03:47,659
+and they end up crashing and burning very, very violently,
+
+49
+00:03:47,659 --> 00:03:51,659
+most notably THQ. Those guys don't even exist anymore.
+
+50
+00:03:51,659 --> 00:03:55,659
+All their IPs are being bought up by other companies and they're gone.
+
+51
+00:03:55,659 --> 00:04:00,659
+THQ was, I used to love that company way back in the day when they made the wrestling games,
+
+52
+00:04:00,659 --> 00:04:05,659
+not the new wrestling games, the ones like WCW Revenge, No Mercy.
+
+53
+00:04:05,659 --> 00:04:07,659
+I was a huge fan of those games in that series.
+
+54
+00:04:07,659 --> 00:04:11,840
+THQ is gone. They are completely gone.
+
+55
+00:04:11,840 --> 00:04:14,840
+And how crazy is that to say, they were a major gaming company,
+
+56
+00:04:14,840 --> 00:04:18,839
+a major huge development studios. It's insane.
+
+57
+00:04:18,839 --> 00:04:21,839
+And to know that that's capable of happening these days,
+
+58
+00:04:21,839 --> 00:04:25,459
+who's going to be left when it's all said and done?
+
+59
+00:04:25,459 --> 00:04:28,459
+All these people making these kind of mediocre type games,
+
+60
+00:04:28,459 --> 00:04:31,459
+these not so good, not so bad, maybe they suck, maybe they don't,
+
+61
+00:04:31,459 --> 00:04:34,459
+but they don't sell well or the decisions were bad when they were released.
+
+62
+00:04:34,459 --> 00:04:39,459
+Is it just going to be like EA and Valve or EA and Blizzard or something that are left?
+
+63
+00:04:39,459 --> 00:04:44,459
+Are they going to gobble up all these studios, all these independent studios, all these major studios?
+
+64
+00:04:44,459 --> 00:04:47,459
+We're going to see like a conglomerate in the future maybe?
+
+65
+00:04:47,459 --> 00:04:49,459
+Take a look at Nintendo.
+
+66
+00:04:49,459 --> 00:04:57,459
+Nintendo is on the brink of a complete sales disaster with the Wii U in January.
+
+67
+00:04:57,459 --> 00:05:01,459
+This is a statistic that is actually very shocking and I could not believe it when I heard it.
+
+68
+00:05:01,459 --> 00:05:06,459
+The Wii U sales in January are worse than any other month
+
+69
+00:05:06,459 --> 00:05:12,459
+in the history of every single Xbox 360 and PS3 month, all of them.
+
+70
+00:05:12,459 --> 00:05:16,459
+And those systems have been out for, oh my God, years.
+
+71
+00:05:16,459 --> 00:05:19,459
+They've been out for like five or six years.
+
+72
+00:05:19,459 --> 00:05:22,459
+I think the 360 even was seven years ago now.
+
+73
+00:05:22,459 --> 00:05:24,459
+Yeah, like 2005 is when it released.
+
+74
+00:05:24,459 --> 00:05:30,459
+The Wii U hasn't even been out for six months and it's already doing that poorly in sales?
+
+75
+00:05:30,459 --> 00:05:33,459
+Nintendo is probably very, very much concerned right now.
+
+76
+00:05:33,459 --> 00:05:37,459
+They're probably trying to think of ways to change things and maybe they, who knows?
+
+77
+00:05:37,459 --> 00:05:39,459
+Maybe this will turn them off from the hardware market.
+
+78
+00:05:39,459 --> 00:05:40,459
+I don't even know.
+
+79
+00:05:40,459 --> 00:05:44,459
+I mean, saying that statement is completely and totally, I have no base to that
+
+80
+00:05:44,459 --> 00:05:50,459
+because obviously Nintendo has like 700 million, trillion, billion dollars in their bank account.
+
+81
+00:05:50,459 --> 00:05:51,459
+So they're not going anywhere.
+
+82
+00:05:51,459 --> 00:05:57,639
+But it's interesting to think about because Sega, think about Sega, the Dreamcast, the last Sega system.
+
+83
+00:05:57,639 --> 00:06:00,939
+That turned out to be a complete and total failure.
+
+84
+00:06:00,939 --> 00:06:05,939
+And Sega went on to just make their games because they had iconic characters.
+
+85
+00:06:05,939 --> 00:06:07,939
+They had iconic franchises.
+
+86
+00:06:07,939 --> 00:06:08,939
+Think about this.
+
+87
+00:06:08,939 --> 00:06:14,939
+Think about Mario being on the PS4 and the Xbox 720 if that's exactly what those names are going to be.
+
+88
+00:06:14,939 --> 00:06:21,310
+But it could happen and it's because of these poor decisions that companies make
+
+89
+00:06:21,310 --> 00:06:23,310
+and that's tying it all back to the bad games.
+
+90
+00:06:23,310 --> 00:06:27,310
+And now the Wii U might have some great games, but there's not very many of them.
+
+91
+00:06:27,310 --> 00:06:33,310
+And poor marketing decisions on Nintendo's part probably has led to this almost, almost flop.
+
+92
+00:06:33,310 --> 00:06:36,310
+I don't want to call it a flop yet because that could be completely untrue.
+
+93
+00:06:36,310 --> 00:06:41,310
+But three or four months into a product's release at the caliber that Nintendo is used to,
+
+94
+00:06:41,310 --> 00:06:44,490
+this is a pretty dire situation right now.
+
+95
+00:06:44,490 --> 00:06:47,920
+But as always, please let me know what you think in the comments section.
+
+96
+00:06:47,920 --> 00:06:49,920
+Let's keep the discussion going.
+
+97
+00:06:49,920 --> 00:06:50,920
+I'm sure a lot of people are going to want to hear.
+
+98
+00:06:50,920 --> 00:06:53,920
+A lot of people are going to have a lot of opinions on this and I'm glad to see them.
+
+99
+00:06:53,920 --> 00:06:55,920
+So thank you so much for watching everybody.
+
+100
+00:06:55,920 --> 00:06:58,920
+That's going to wrap up the video and I'll see you all next time.
+
+101
+00:06:58,920 --> 00:07:01,920
+And of course, take care everybody.

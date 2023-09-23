@@ -1,0 +1,315 @@
+1
+00:00:00,310 --> 00:00:18,129
+Hey, what is going on, everybody? Jerma here with a Team Fortress 2 gameplay commentary, and tonight, not exactly sure what I'm going to be playing as.
+
+2
+00:00:18,129 --> 00:00:24,129
+I'm going to be playing as one of the nine classes, I assume. Maybe even the tenth class, the Indian Chiefmaster.
+
+3
+00:00:24,129 --> 00:00:30,300
+I have no idea. So this video is not going to talk about Team Fortress 2. It's going to be a discussion video.
+
+4
+00:00:30,300 --> 00:00:36,299
+It's going to be something that was brought up last night when I was hanging out in Star's stream.
+
+5
+00:00:36,299 --> 00:00:40,299
+If you were there, then you probably know what this commentary is going to be about.
+
+6
+00:00:40,299 --> 00:00:43,299
+But if you weren't there, let me briefly bring this up.
+
+7
+00:00:43,299 --> 00:00:48,039
+We were playing a game in Alpha, and it's called Cannon Brawl. It's pretty fun.
+
+8
+00:00:48,039 --> 00:00:55,039
+It's a 1v1 type of Worms RTS hybrid base building tower shooting game, and it's great. I suggest you pick it up.
+
+9
+00:00:55,039 --> 00:01:01,280
+It's like less than ten bucks. If you got the money, you and your friend can have at least a few hours of fun.
+
+10
+00:01:01,280 --> 00:01:06,709
+Regardless of any of that, a couple of developers were actually in the stream chat.
+
+11
+00:01:06,709 --> 00:01:09,709
+The guys that made the game were hanging out in Star's stream.
+
+12
+00:01:09,709 --> 00:01:12,709
+We got to talking with them. They were legitimate. They weren't making it up.
+
+13
+00:01:12,709 --> 00:01:16,709
+It wasn't like, oh yeah, I'm the developer. And it just wasn't them. It was actually them.
+
+14
+00:01:16,709 --> 00:01:19,709
+Which was cool in itself. I love talking to developers.
+
+15
+00:01:19,709 --> 00:01:25,709
+I love seeing where they're coming from, seeing their angles, finding out stuff about them, the backstory, etc.
+
+16
+00:01:25,709 --> 00:01:31,950
+And that kind of conversation got into people talking about in the comment section how much they hate certain developers
+
+17
+00:01:31,950 --> 00:01:38,950
+because they don't do certain things, they have bad customer support, and screw them. Like, fuck EA.
+
+18
+00:01:38,950 --> 00:01:44,950
+And that's the topic of this discussion. That's the topic of this video. That's where I want to go with this.
+
+19
+00:01:44,950 --> 00:01:54,609
+Because when you say something like, in quotes, fuck EA, end quotes, what you're effectively saying is this.
+
+20
+00:01:54,609 --> 00:01:58,609
+At least, for the most part, this is what people mean when they utter this phrase.
+
+21
+00:01:58,609 --> 00:02:02,609
+What they're really talking about is the consumer-company relationship.
+
+22
+00:02:02,609 --> 00:02:05,780
+And the consumer-company relationship can mean a million different things.
+
+23
+00:02:05,780 --> 00:02:08,780
+It can mean the amount of money you have to spend on something.
+
+24
+00:02:08,780 --> 00:02:14,780
+It can mean who's in charge that's making broad spectrum company decisions.
+
+25
+00:02:14,780 --> 00:02:21,219
+It could mean how the company reacts to negative criticism or positive criticism.
+
+26
+00:02:21,219 --> 00:02:23,219
+It can mean a bunch of different things.
+
+27
+00:02:23,219 --> 00:02:29,580
+But a lot of people really, really get upset with, and I'm in this category myself, I'm included in this,
+
+28
+00:02:29,580 --> 00:02:34,580
+I get really mad at a company when they blatantly just mishandle the stuff I just said.
+
+29
+00:02:34,580 --> 00:02:39,889
+For instance, when a company charges way too much money for something, it annoys me.
+
+30
+00:02:39,889 --> 00:02:43,889
+When a company doesn't follow through on promises it makes, it annoys me.
+
+31
+00:02:43,889 --> 00:02:49,129
+When a company has a CEO that's like a complete dickwad, that annoys me.
+
+32
+00:02:49,129 --> 00:02:55,300
+But something that we all have to keep in mind is it's not just one guy that makes a video game.
+
+33
+00:02:55,300 --> 00:03:00,300
+It's not just one dude that is making all these decisions for this company.
+
+34
+00:03:00,300 --> 00:03:05,300
+There are thousands and thousands of people that are working for EA.
+
+35
+00:03:05,300 --> 00:03:11,610
+There are artists, there are programmers, there are coders, there are marketing people, there are advertising people,
+
+36
+00:03:11,610 --> 00:03:13,610
+there are people on the board.
+
+37
+00:03:13,610 --> 00:03:18,219
+If it's just one person you don't like, then do you really hate the company?
+
+38
+00:03:18,219 --> 00:03:21,219
+Or do you hate the person that's in charge?
+
+39
+00:03:21,219 --> 00:03:25,219
+Or do you hate this one particular person on the development team?
+
+40
+00:03:25,219 --> 00:03:28,219
+I'm going to give you a real situation of this.
+
+41
+00:03:28,219 --> 00:03:30,219
+For instance, Diablo III.
+
+42
+00:03:30,219 --> 00:03:34,650
+Diablo III was one of my most anticipated games ever.
+
+43
+00:03:34,650 --> 00:03:38,650
+Like, I was waiting so much for that game, I couldn't wait for it to come out.
+
+44
+00:03:38,650 --> 00:03:43,650
+The second it came out, I bought it like midnight release, let's go, I'm going to spend like 30 hours playing this game straight.
+
+45
+00:03:43,650 --> 00:03:47,449
+And I had a little bit of fun in D3.
+
+46
+00:03:47,449 --> 00:03:49,449
+I enjoyed myself.
+
+47
+00:03:49,449 --> 00:03:59,449
+But after a while, it started to really annoy me that the developers took this game such in a far direction away from one of my favorite games of all time, which is Diablo II.
+
+48
+00:03:59,449 --> 00:04:07,449
+I made a review of Diablo III, and I even said, if you're a die-hard Diablo II fan, this game's going to let you down in a lot of places.
+
+49
+00:04:07,449 --> 00:04:14,009
+And it really got me thinking, do I hate Blizzard for making Diablo III the way they did?
+
+50
+00:04:14,009 --> 00:04:20,009
+I guess maybe there'd be a couple of rage moments when I was sitting in a game going, man, like, I hate Blizzard.
+
+51
+00:04:20,009 --> 00:04:22,009
+What the hell, man? Like, what did you do to this game?
+
+52
+00:04:22,009 --> 00:04:24,009
+Like, how could you, Blizzard?
+
+53
+00:04:24,009 --> 00:04:27,009
+In quotes, just like the same EA, how could you?
+
+54
+00:04:27,009 --> 00:04:28,009
+Fuck you, EA.
+
+55
+00:04:28,009 --> 00:04:33,439
+But then you break it down even more and it's like, but who, who was even really responsible for this?
+
+56
+00:04:33,439 --> 00:04:35,439
+It was not Blizzard as a whole.
+
+57
+00:04:35,439 --> 00:04:40,439
+It was only like a few guys in Blizzard that probably made these decisions.
+
+58
+00:04:40,439 --> 00:04:42,439
+The StarCraft guys didn't do it.
+
+59
+00:04:42,439 --> 00:04:45,439
+The friggin' Warcraft team had nothing to do with it.
+
+60
+00:04:45,439 --> 00:04:51,439
+So why would I hate Blizzard as a company when it only was a couple of people that really had the say?
+
+61
+00:04:51,439 --> 00:04:58,050
+And something else to keep in mind is most of the people that work for these companies, guys, are just going to work.
+
+62
+00:04:58,050 --> 00:05:02,050
+They're just going to work and they're doing their thing and they're going home and they're going home to their family.
+
+63
+00:05:02,050 --> 00:05:07,050
+They're working their ass off as a programmer or an artist or a coder or a concept designer.
+
+64
+00:05:07,050 --> 00:05:10,050
+And then they leave and they go home to their families.
+
+65
+00:05:10,050 --> 00:05:15,050
+And they don't read forum posts about how much people hate the company that they work for.
+
+66
+00:05:15,050 --> 00:05:19,050
+Hell, they might not even like the company they work for, but they're doing it anyways.
+
+67
+00:05:19,050 --> 00:05:31,980
+And my whole point here is when you make a generalization about really anything, you include all the people that you really didn't mean to include when you made the generalization.
+
+68
+00:05:31,980 --> 00:05:33,980
+So just keep that in mind.
+
+69
+00:05:33,980 --> 00:05:35,980
+It's something that we were talking about in the stream.
+
+70
+00:05:35,980 --> 00:05:36,980
+And I was like, you know what?
+
+71
+00:05:36,980 --> 00:05:37,980
+I want to make a commentary about this.
+
+72
+00:05:37,980 --> 00:05:40,980
+I want to see what everybody has to say.
+
+73
+00:05:40,980 --> 00:05:43,980
+So please in the comments section below, leave what you think about this.
+
+74
+00:05:43,980 --> 00:05:53,980
+Leave your opinions on this and maybe some generalizations that you've made over the last couple of years, because I know I've done plenty of them when it comes to game companies for sure.
+
+75
+00:05:53,980 --> 00:05:55,410
+But yeah, that's going to wrap it up here, guys.
+
+76
+00:05:55,410 --> 00:05:57,410
+Thank you all so much for watching.
+
+77
+00:05:57,410 --> 00:05:58,410
+I really do appreciate it.
+
+78
+00:05:58,410 --> 00:05:59,410
+And I'll see you guys all next time.
+
+79
+00:05:59,410 --> 00:06:02,410
+And of course, take care, everybody.

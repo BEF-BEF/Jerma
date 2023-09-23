@@ -1,0 +1,251 @@
+1
+00:00:00,310 --> 00:00:14,060
+Hey, what's going on guys? Jerma here with a Team Fortress 2 gameplay commentary.
+
+2
+00:00:14,060 --> 00:00:21,059
+And Otto, my dog, is right here. I'm not talking to you, I'm talking to other people. What are you doing?
+
+3
+00:00:21,059 --> 00:00:25,059
+Anyways, playing as the Pyro tonight with the Reserve Shooter.
+
+4
+00:00:25,059 --> 00:00:30,059
+And we're going to talk about this weapon, we're going to break it down, we're going to discuss why you should use it,
+
+5
+00:00:30,059 --> 00:00:33,060
+the mentality you should be in when you use it.
+
+6
+00:00:33,060 --> 00:00:40,060
+And before we get right into this here, I'm not using the degreaser, I'm using the default flamethrower.
+
+7
+00:00:40,060 --> 00:00:44,060
+And a lot of people right off the bat are going to go, what the hell are you doing?
+
+8
+00:00:44,060 --> 00:00:49,229
+Put on the degreaser, why are you using the regular flamethrower? My god, I'm going to punch you.
+
+9
+00:00:49,229 --> 00:00:56,409
+Well, here's the reason. When I put on the degreaser in the Reserve Shooter, I don't know, leave me a comment if you get this as well,
+
+10
+00:00:56,409 --> 00:01:01,409
+a lot of times I'll try to compression blast somebody and quick switch over to the Reserve Shooter,
+
+11
+00:01:01,409 --> 00:01:06,409
+and I don't compression blast them at all, I just switch right over to the Reserve Shooter and nothing happens.
+
+12
+00:01:06,409 --> 00:01:11,579
+And I feel like I'm glitching out the game or something where I'm trying to do it too fast and it's in my head.
+
+13
+00:01:11,579 --> 00:01:16,579
+So I figured, okay, I'm going to go to the regular flamethrower, take my time with this,
+
+14
+00:01:16,579 --> 00:01:20,579
+just get them in the air and then switch and try and get one shot off.
+
+15
+00:01:20,579 --> 00:01:22,579
+And it seems to be working quite well for me.
+
+16
+00:01:22,579 --> 00:01:29,819
+And something I was thinking about, especially when I started watching this game playback, is why am I lighting people on fire?
+
+17
+00:01:29,819 --> 00:01:37,129
+Is there really a reason for that? Because for the most part, as you'll see, all of my kills come from one or two shots from the Reserve Shooter.
+
+18
+00:01:37,129 --> 00:01:41,299
+So why am I doing that extra light them on fire, blow them up, light them on fire?
+
+19
+00:01:41,299 --> 00:01:44,540
+Because that's really just wasting another compression blast.
+
+20
+00:01:44,540 --> 00:01:52,540
+Now maybe it would be worth looking into to not use your flamethrower at all, and the only reason you ever use it is to right click.
+
+21
+00:01:52,540 --> 00:01:57,540
+Now that may or may not work that well, but I think I want to give it a try the next time I do this.
+
+22
+00:01:57,540 --> 00:02:00,540
+Although you do lose that dot damage, that's kind of bad.
+
+23
+00:02:00,540 --> 00:02:07,540
+But at the same time, you're not going to be needing to scramble around looking for ammo crates or dispensers as much as you used to.
+
+24
+00:02:07,540 --> 00:02:12,539
+Because you'll probably get two or three extra compression blasts if you don't use the flame.
+
+25
+00:02:12,539 --> 00:02:16,979
+All right, so let's get into the most important part of this video, really.
+
+26
+00:02:16,979 --> 00:02:19,979
+The shotgun versus the Reserve Shooter.
+
+27
+00:02:19,979 --> 00:02:24,219
+So guys, right off the bat, both of these are shotguns.
+
+28
+00:02:24,219 --> 00:02:31,219
+They both have the same function times, they both act the same way, except of course they have a little bit different clip size, I'm sure you know.
+
+29
+00:02:31,219 --> 00:02:36,219
+And the quicker switches between different weapons or items with the Reserve Shooter.
+
+30
+00:02:36,219 --> 00:02:41,759
+Now that out of the way, think of the Reserve Shooter as a double-barreled shotgun.
+
+31
+00:02:41,759 --> 00:02:46,500
+And what do I mean by that? Pretty much I'm talking about pellet spread.
+
+32
+00:02:46,500 --> 00:02:49,500
+Now let's really break this down for a second here.
+
+33
+00:02:49,500 --> 00:02:55,500
+If I launch somebody in the air, on average with the Reserve Shooter, I'm probably, depending on where they're standing,
+
+34
+00:02:55,500 --> 00:03:01,860
+I'm probably going to do 40 to 80, maybe 50 to 80 damage if I'm good and close or at medium range.
+
+35
+00:03:01,860 --> 00:03:10,280
+Now if I do the same thing with the shotgun, you're talking maybe 25 to 40 damage from medium range, medium close range.
+
+36
+00:03:10,280 --> 00:03:16,280
+So really it's going to take two shots from your shotgun to equal one of the Reserve Shooter mini crits.
+
+37
+00:03:16,280 --> 00:03:23,280
+So that's why I say it's sort of like a double-barreled shotgun, and that totally, 100% relies on pellet spread.
+
+38
+00:03:23,280 --> 00:03:28,280
+Because on paper, on no bullet spread servers, it's going to be quite different.
+
+39
+00:03:28,280 --> 00:03:33,280
+But because there is spread in this game, you're never going to see the same numbers over and over again.
+
+40
+00:03:33,280 --> 00:03:38,520
+Now this would not be the case at all if they had different pellet spread mechanics.
+
+41
+00:03:38,520 --> 00:03:45,520
+But like I said in the beginning, they're both the exact same shotguns with just a little bit different tweaking here and there.
+
+42
+00:03:45,520 --> 00:03:53,949
+So if you put yourself in the position to think that this is a double-barreled shotgun, in your mind there's really six shots.
+
+43
+00:03:53,949 --> 00:03:58,949
+You only get to shoot three times, but you're shooting six bullets. That's what goes on in my brain.
+
+44
+00:03:58,949 --> 00:04:03,949
+And it really does help you out because instead of just freaking out going, there's only three shots, I can't hit anybody,
+
+45
+00:04:03,949 --> 00:04:11,949
+just slow down a little bit, launch somebody in the air, get that one shot on them, tell yourself in your brain that you just shot two,
+
+46
+00:04:11,949 --> 00:04:15,949
+that's a double-barreled shotgun, of course, I just did double damage, extra damage.
+
+47
+00:04:15,949 --> 00:04:18,949
+And you aren't doing extra damage, you aren't doing double damage.
+
+48
+00:04:18,949 --> 00:04:24,949
+Well technically you are, because what is it, a mini-crit 130% or 30% extra or something like that.
+
+49
+00:04:24,949 --> 00:04:27,949
+But it's the pellet spread that allows you to think like that.
+
+50
+00:04:27,949 --> 00:04:37,379
+Now where this shotgun really, really is not good is if you are missing pellets or you're not a great shot with your shotgun.
+
+51
+00:04:37,379 --> 00:04:44,379
+Because if you miss once or you miss twice, it's like missing four or five times with the normal shotgun.
+
+52
+00:04:44,379 --> 00:04:50,620
+So I would say before equipping the reserve shooter, try and get more confident with your regular shotgun.
+
+53
+00:04:50,620 --> 00:04:58,490
+And can you guys hear that? What are you doing? My dog is just literally digging in my bed, he's not going to go anywhere.
+
+54
+00:04:58,490 --> 00:05:03,490
+You are not going to go anywhere, I hope you know that, you're going to stay here, you can't dig through a bed, maybe you can.
+
+55
+00:05:03,490 --> 00:05:05,490
+I should be careful with that.
+
+56
+00:05:05,490 --> 00:05:12,860
+But anyways you get the idea, the reserve shooter is a little more advanced, a little more difficult to use.
+
+57
+00:05:12,860 --> 00:05:20,860
+So again I would suggest not using it until you're more familiar with the shotgun, you play with the shotgun for a while, then switch to the reserve shooter.
+
+58
+00:05:20,860 --> 00:05:25,860
+And I'll tell you right now, it took me a while to get these couple of little gameplay clips here.
+
+59
+00:05:25,860 --> 00:05:31,860
+I'm not that good with it, I've been trying to get better with it, trying to figure out a couple of different options to use it.
+
+60
+00:05:31,860 --> 00:05:36,860
+But hopefully some of this stuff can give you guys some tips and hopefully improve your reserve shooter game.
+
+61
+00:05:36,860 --> 00:05:39,860
+But that's going to be the end of the video, hopefully you guys enjoyed it.
+
+62
+00:05:39,860 --> 00:05:42,860
+Thank you so much for watching guys, I really do appreciate it.
+
+63
+00:05:42,860 --> 00:05:48,029
+And I will see you all next time, so take care everybody.

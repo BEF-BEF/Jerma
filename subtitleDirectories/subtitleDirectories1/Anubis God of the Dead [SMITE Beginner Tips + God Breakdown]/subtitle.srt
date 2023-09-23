@@ -1,0 +1,427 @@
+1
+00:00:00,310 --> 00:00:12,630
+Hey, what is going on, everybody? Jerma here with Smite Sunday.
+
+2
+00:00:12,630 --> 00:00:18,629
+Welcome to the first Smite Sunday on this channel, where I break down a god, or I show you a good gameplay and talk about it potentially,
+
+3
+00:00:18,629 --> 00:00:26,629
+or I do a live commentary. But today is going to be a god breakdown. I'm going to talk about the god Anubis, the god of the dead.
+
+4
+00:00:26,629 --> 00:00:33,130
+And the reason why I'm picking Anubis first, to do sort of a god breakdown and sort of small tutorial video,
+
+5
+00:00:33,130 --> 00:00:41,130
+is because Anubis is one of those characters in this game that he's not a free god. He's not one of the free gods when you install the game.
+
+6
+00:00:41,130 --> 00:00:47,130
+But he's the one that I feel like everybody unlocks first and then plays him completely incorrectly.
+
+7
+00:00:47,130 --> 00:00:53,130
+I was one of these people that when I first downloaded this game, I said, oh my god, Anubis, the god of the dead.
+
+8
+00:00:53,130 --> 00:00:57,130
+Oh my god, I got to get this guy. I got to play with him. He's so cool. And I would just get trashed on.
+
+9
+00:00:57,130 --> 00:01:05,129
+Because Anubis is one of the most damaging gods in the game, but he also dies incredibly easily and incredibly quickly.
+
+10
+00:01:05,129 --> 00:01:11,299
+So I figured because of my early struggles with Anubis, I figured it would be a good one to start with.
+
+11
+00:01:11,299 --> 00:01:17,299
+Anubis, the god of the dead, the Egyptian lord of destruction. That's not even true, but it's Anubis, the god of the dead.
+
+12
+00:01:17,299 --> 00:01:26,629
+So instead of reading off of the wiki page and telling you all the damage numbers, which are very, very easy to find on the internet,
+
+13
+00:01:26,629 --> 00:01:32,629
+I'm just going to tell you what the moves do and when you should be utilizing them and when you should be not using them in different situations.
+
+14
+00:01:32,629 --> 00:01:37,629
+So we're going to talk about his number one, which is Plague of Locus. It's on the one key skill key number one.
+
+15
+00:01:37,629 --> 00:01:44,629
+And upon activation, Anubis will stand still and launch out a bunch of bugs at people in a cone. Kind of disgusting.
+
+16
+00:01:44,629 --> 00:01:51,629
+It lasts for three seconds and ticks for damage every 0.5 seconds. So when should you use this move?
+
+17
+00:01:51,629 --> 00:01:57,629
+Now, I would typically say that this should be part of your non-ultimate combo. I'll get into that in a few minutes.
+
+18
+00:01:57,629 --> 00:02:03,629
+But besides that, this move, although it does a ton of damage, you won't really be using this early game.
+
+19
+00:02:03,629 --> 00:02:10,629
+And here's why. Anubis does not have any escapes. And if you don't know what an escape is in this game, it's a jump.
+
+20
+00:02:10,629 --> 00:02:16,629
+It's a dash. It's really any way to distance yourself from another god or from another player.
+
+21
+00:02:16,629 --> 00:02:23,629
+So trying to utilize a move like this when you have to stand completely still, you're just going to get destroyed by the other lane.
+
+22
+00:02:23,629 --> 00:02:28,629
+Think of a situation like this. You're level one, level two, whatever, like really, very, very early game.
+
+23
+00:02:28,629 --> 00:02:34,629
+You're up in a lane with a buddy of yours. You're in playing Conquest and you have this move. You go up and you use it on a minion wave.
+
+24
+00:02:34,629 --> 00:02:39,629
+And you're standing still. The other team sees you. They know you're Anubis. They know you cannot get away.
+
+25
+00:02:39,629 --> 00:02:49,629
+So they jump on top of you. You got to play it safe. And standing still up at level two in a minion wave when there's two other guys about to kill you is really not playing safe.
+
+26
+00:02:49,629 --> 00:02:54,629
+You need to use your three early game for Anubis, I would say. But we'll get into that when we get to that.
+
+27
+00:02:54,629 --> 00:03:00,629
+Also, that kind of leads me to another point about some beginner tips for you guys. Standing still is bad. It's very bad.
+
+28
+00:03:00,629 --> 00:03:06,629
+If you stand still in this game because everything is a skill shot, well, most of the things in this game are skill shots.
+
+29
+00:03:06,629 --> 00:03:12,629
+There's so many stuns. There's so many slows. There's so many people that will be able to hit you with all of their moves.
+
+30
+00:03:12,629 --> 00:03:17,629
+You don't want to be standing still. So that's another reason why the number one is not the best choice early.
+
+31
+00:03:17,629 --> 00:03:25,509
+So moving on, let's talk about his two, which is arguably his best move. And that move is called Mummify.
+
+32
+00:03:25,509 --> 00:03:32,509
+And basically, this is just a stun that you can do very, very frequently and it wraps up anybody you hit with it for a maximum of two seconds.
+
+33
+00:03:32,509 --> 00:03:40,509
+This is an offensive and defensive move because if you're trying to run away from somebody, landing one of these can literally save your life.
+
+34
+00:03:40,509 --> 00:03:47,509
+He doesn't have a dash. He doesn't have a jump. But landing a Mummify can really get you away, especially if you use something like Sprint.
+
+35
+00:03:47,509 --> 00:03:52,509
+You can get yourself out of a lot of trouble. And there's not very much else to say about this move just yet.
+
+36
+00:03:52,509 --> 00:03:58,509
+We're going to cover Anubis's three and four and then return to this bad boy and really talk about the best times to use it.
+
+37
+00:04:00,199 --> 00:04:06,199
+So Anubis's three is something called Grasping Hands. It's an AOE ability. It ticks for damage when you put it on the ground.
+
+38
+00:04:06,199 --> 00:04:12,199
+You just place it underneath people, whether it's a minion wave or enemy god for harassment purposes, and it slows them as well.
+
+39
+00:04:12,199 --> 00:04:18,439
+And it lasts for two seconds. Now, this is probably one of the best wave clearing moves in the game.
+
+40
+00:04:18,439 --> 00:04:27,439
+I would say this, Ao Kuang's tornadoes, Ra's number one. There's a lot of gods that have fantastic wave clearing abilities.
+
+41
+00:04:27,439 --> 00:04:33,439
+And this is one of them. It's also one of the reasons why I suggest putting points into this first rather than Locust Swarm,
+
+42
+00:04:33,439 --> 00:04:39,439
+because you can use this on the move and it slows people. You can get a lot more utility out of this.
+
+43
+00:04:39,439 --> 00:04:46,439
+You don't have to stand still to use it. And it's a little bit better in team composition situations where you put your three down on somebody
+
+44
+00:04:46,439 --> 00:04:49,439
+and your teammate can potentially help out because of the slow.
+
+45
+00:04:49,439 --> 00:04:55,620
+So before I go on any further and talk about his number four, his ultimate, we're going to talk about what I said previously.
+
+46
+00:04:55,620 --> 00:05:03,620
+And it is the non-ultimate combo. This is really what you should be trying to accomplish when your ultimate ability is on cooldown.
+
+47
+00:05:03,620 --> 00:05:12,620
+What it entails is pretty much this. You use your two, you wrap up an enemy with your mummify, and you instantly place your grasping hands underneath them.
+
+48
+00:05:12,620 --> 00:05:18,620
+And while they're still wrapped up, getting them in the cone of your Locust Swarm, you do your one instantly as well if you're close enough.
+
+49
+00:05:18,620 --> 00:05:25,620
+That's, I guess, assuming you're close enough. It takes some practice, but late game, you can really instantly kill people with this combo.
+
+50
+00:05:25,620 --> 00:05:29,620
+You don't even need to use your ultimate late game in a lot of situations if you're fed.
+
+51
+00:05:29,620 --> 00:05:34,620
+You can just place your three, mummify, bang, the person is dead. And that's one of the best things to do as a noob.
+
+52
+00:05:34,620 --> 00:05:41,620
+And one of the bad things about this is if you do not kill the person, let's say you do this non-ultimate combo,
+
+53
+00:05:41,620 --> 00:05:45,620
+you wrap the person up, bang, bang, do both those moves, and you don't kill them,
+
+54
+00:05:45,620 --> 00:05:51,790
+there ain't a whole lot left for you to do besides turn around and run away or try to auto-attack them to death.
+
+55
+00:05:51,790 --> 00:05:55,790
+So having a teammate nearby is a very good thing.
+
+56
+00:05:55,790 --> 00:05:58,790
+Because let's just say, for instance, you do this to somebody at level 20.
+
+57
+00:05:58,790 --> 00:06:03,790
+You're both max level, both of you are equally as fed, and you don't kill them.
+
+58
+00:06:03,790 --> 00:06:09,790
+This person knows you don't have any moves left. You did every single move that a noob has had, and your ultimate's on cooldown.
+
+59
+00:06:09,790 --> 00:06:13,790
+They know your ultimate's on cooldown because why wouldn't you have just ultimated them?
+
+60
+00:06:13,790 --> 00:06:18,790
+So they might just come after you and just smoke you with some of their moves because a noob just dies very quickly.
+
+61
+00:06:18,790 --> 00:06:24,790
+So it's gauging these situations and knowing, okay, is there somebody in the jungle? Do I have a teammate nearby?
+
+62
+00:06:24,790 --> 00:06:28,790
+Can I just kill this guy instantly with all three of these moves, or am I going to have to wait for my ultimate?
+
+63
+00:06:28,790 --> 00:06:35,790
+These are things that you have to assess, and it just comes from learning the maps and figuring out team compositions
+
+64
+00:06:35,790 --> 00:06:37,790
+and the best time to go in and the best time to go out.
+
+65
+00:06:37,790 --> 00:06:43,790
+You'll get that over time, but this is the best thing to do as a noobus for sure.
+
+66
+00:06:43,790 --> 00:06:49,610
+And finally, we're going to talk about his ultimate ability, which is very, very self-explanatory.
+
+67
+00:06:49,610 --> 00:06:55,610
+I'm not going to spend that much time on his ultimate because it is very, like I just said, it's just a line of death.
+
+68
+00:06:55,610 --> 00:07:04,100
+That's it. When you use the ability, you stand completely still, and a line comes out of your face melting anybody that you aim it at.
+
+69
+00:07:04,100 --> 00:07:09,100
+And it's kind of like his one where you stand completely still and it does a lot of damage ticking over time,
+
+70
+00:07:09,100 --> 00:07:12,100
+but again, it's in a straight line and you have to aim it at people.
+
+71
+00:07:12,100 --> 00:07:17,100
+It's very much a skill shot, and the lag can really play a huge part in this.
+
+72
+00:07:17,100 --> 00:07:23,100
+I have aimed at people with this, and they've ran around in a circle around me, and I hold it on them, and I don't hit them at all.
+
+73
+00:07:23,100 --> 00:07:29,100
+So it can be pretty tricky to hit moving targets with this and land it because, again, it's just a one, pew, straight line ahead.
+
+74
+00:07:29,100 --> 00:07:34,100
+But the ultimate combo, I talked about the non-ultimate combo. Let's just briefly bring up the ultimate combo.
+
+75
+00:07:34,100 --> 00:07:40,100
+The ultimate combo is wrapping somebody up with your two, instantly placing your three underneath them,
+
+76
+00:07:40,100 --> 00:07:46,100
+and instead of trying to hit them with your one, you just instantly do your ultimate and melt the person to death.
+
+77
+00:07:46,100 --> 00:07:54,660
+It usually kills anybody in the entire game at max level unless they are building tank or unless they are very, very fed.
+
+78
+00:07:54,660 --> 00:07:59,660
+So before the video wraps up in the next couple of minutes here, I want to talk about a very specific tactic with Anubis,
+
+79
+00:07:59,660 --> 00:08:08,660
+and it's something that a lot of new players don't try, and it has to do without damaging somebody rather than just running away.
+
+80
+00:08:08,660 --> 00:08:11,660
+So as we all know, Anubis does a lot of damage, and he takes a lot of damage,
+
+81
+00:08:11,660 --> 00:08:18,839
+but people underestimate, I think, how much damage he does late game, and they will try to kill you.
+
+82
+00:08:18,839 --> 00:08:22,839
+So it can be sometimes in your best interest, instead of running around away from somebody,
+
+83
+00:08:22,839 --> 00:08:26,839
+turning on them and using all of your abilities, even if you're at very low health.
+
+84
+00:08:26,839 --> 00:08:35,019
+So you can put people in a very, very large false sense of security when fighting you if you are very confident in knowing you can land your moves.
+
+85
+00:08:35,019 --> 00:08:41,019
+This is another thing that takes a lot of practice, because if you turn around, let's say you use this strategy,
+
+86
+00:08:41,019 --> 00:08:46,019
+you attack somebody, you try to kill them, you know you can kill them with your one and your three if you mummify them,
+
+87
+00:08:46,019 --> 00:08:49,019
+or your three and your ultimate, but you miss your mummify.
+
+88
+00:08:49,019 --> 00:08:54,019
+Oh dear lord, you're dead. You are dead. If you miss that mummify late game and you have low health
+
+89
+00:08:54,019 --> 00:08:58,019
+and you're trying to use the out DPS tactic, you're screwed.
+
+90
+00:08:58,019 --> 00:09:03,019
+I would say that in general, if you're playing as Anubis and you miss your mummify, you're screwed.
+
+91
+00:09:03,019 --> 00:09:11,019
+So it's landing your two becomes the most important thing to practice and the most important thing to land as Anubis,
+
+92
+00:09:11,019 --> 00:09:16,019
+because if you do not, let's just say you land your two on somebody and you don't kill them,
+
+93
+00:09:16,019 --> 00:09:21,019
+one of your other teammates potentially will. So if you wrap somebody up and you're in the jungle
+
+94
+00:09:21,019 --> 00:09:26,019
+and you got like an Ares behind you or you have a Ra coming through the jungle that's on your team,
+
+95
+00:09:26,019 --> 00:09:28,019
+he might kill the guy because he's standing still in your mummify.
+
+96
+00:09:28,019 --> 00:09:33,019
+So your two is the reason why I said it's the most important thing for you to utilize as Anubis
+
+97
+00:09:33,019 --> 00:09:38,019
+is because it does so much stuff for everybody else, not just you.
+
+98
+00:09:38,019 --> 00:09:42,830
+So learn to land your two. It is insanely important.
+
+99
+00:09:42,830 --> 00:09:47,830
+So that about wraps it up here, guys. I think I've covered most of the things I want to cover with Anubis.
+
+100
+00:09:47,830 --> 00:09:50,830
+And the next God will probably be Ares for Smite Sunday.
+
+101
+00:09:50,830 --> 00:09:54,830
+I'm going to break down Ares. I'm going to talk about why he's my favorite God in the game.
+
+102
+00:09:54,830 --> 00:09:57,830
+Yes, Ares is my favorite God in the game at this point.
+
+103
+00:09:57,830 --> 00:10:00,830
+It used to be Anubis, it used to be Loki, but now it is Ares.
+
+104
+00:10:00,830 --> 00:10:03,830
+And we're going to talk about him next week, going to break down his moves, going to break down how I play him
+
+105
+00:10:03,830 --> 00:10:07,830
+and some of the things you should be doing as Ares. And that's going to be next Smite Sunday.
+
+106
+00:10:07,830 --> 00:10:10,830
+So thanks for tuning in, guys. I really do appreciate it.
+
+107
+00:10:10,830 --> 00:10:13,830
+I'll see you guys all next time. And of course, take care, everybody.

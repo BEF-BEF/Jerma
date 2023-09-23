@@ -1,0 +1,287 @@
+1
+00:00:00,310 --> 00:00:13,699
+Hey, what is going on everybody? Jiruma here with a Team Fortress 2 gameplay commentary.
+
+2
+00:00:13,699 --> 00:00:23,699
+And tonight, gonna be playing as the Pyro with the default flamethrower, the reserve shooter of all things, and the extinguisher.
+
+3
+00:00:23,699 --> 00:00:29,699
+And tonight, gonna do just a casual commentary, sitting back relaxing, gonna talk about a couple things that happened on the screen,
+
+4
+00:00:29,699 --> 00:00:36,700
+And, most importantly, we're gonna talk about the super snowstorm that's on its way here tomorrow afternoon.
+
+5
+00:00:36,700 --> 00:00:39,700
+If you're from the northeast of the United States, you probably already know this.
+
+6
+00:00:39,700 --> 00:00:44,700
+We're gonna get hammered tomorrow with snow. We're probably gonna get like two feet of snow in Boston.
+
+7
+00:00:44,700 --> 00:00:50,700
+So I assume my front door is not gonna be able to open. It's gonna be completely blocked from the outside with snow.
+
+8
+00:00:50,700 --> 00:00:55,700
+And, you know, whatever. I might actually do a stream during this whole thing, like a snowed-in stream.
+
+9
+00:00:55,700 --> 00:00:59,700
+We'll see if that happens or not. I don't know. I might lose power, too.
+
+10
+00:00:59,700 --> 00:01:04,700
+So if you don't see a video here in the next couple days, it's because my house is under snow and we can't get out.
+
+11
+00:01:04,700 --> 00:01:08,129
+And please send help! It actually kind of reminds me.
+
+12
+00:01:08,129 --> 00:01:11,129
+Back when I was younger, I know a lot of you guys are pretty young.
+
+13
+00:01:11,129 --> 00:01:14,129
+Some of you guys are even under the age of 16, 15 years old.
+
+14
+00:01:14,129 --> 00:01:17,129
+So you'll be able to relate to this when I talk about this.
+
+15
+00:01:17,129 --> 00:01:24,129
+But snow days, back when I was a younger kid, snow days were like the best thing on planet Earth.
+
+16
+00:01:24,129 --> 00:01:28,129
+I would pray to all the gods that existed to get a snow day.
+
+17
+00:01:28,129 --> 00:01:33,129
+I remember me, my brother, and my sister just huddling around the TV at our local news station,
+
+18
+00:01:33,129 --> 00:01:37,129
+waiting to see our school's name pop up and have it say, closed.
+
+19
+00:01:37,129 --> 00:01:44,129
+Because by God, if it said two-hour delay or one-hour delay, a vase would go across the room and smash into the wall.
+
+20
+00:01:44,129 --> 00:01:49,129
+That's the worst possible outcome of having snow come down, because you still have to go to school.
+
+21
+00:01:49,129 --> 00:01:53,129
+It's just a tease. It's almost like the board of directors at the school was like,
+
+22
+00:01:53,129 --> 00:01:55,129
+you know, how can we screw with these kids?
+
+23
+00:01:55,129 --> 00:01:59,129
+I know. How about a two-hour delay?
+
+24
+00:02:01,129 --> 00:02:05,430
+That's what I picture when I think of the board of directors of a school system.
+
+25
+00:02:05,430 --> 00:02:11,430
+But the point still stands. It's a tease. Maybe you get an extra 45 minutes of sleep.
+
+26
+00:02:11,430 --> 00:02:15,430
+Oh, cool. You still got to get up and go to math class. It sucks.
+
+27
+00:02:15,430 --> 00:02:19,430
+And the town next over, the town next over maybe doesn't even have school, so it's even worse.
+
+28
+00:02:19,430 --> 00:02:21,430
+That's happened to me so many times.
+
+29
+00:02:21,430 --> 00:02:27,610
+When I see my list, my school come up with a one-hour delay, and the next town over, they don't have school.
+
+30
+00:02:27,610 --> 00:02:30,610
+And they can do whatever they want. They can throw snowballs at old man Whitless' house,
+
+31
+00:02:30,610 --> 00:02:33,610
+have him come out and yell at him, everybody laughs and runs away.
+
+32
+00:02:33,610 --> 00:02:37,610
+I don't get to experience that on that day, and it sucks, because I want to do that too.
+
+33
+00:02:37,610 --> 00:02:41,909
+But that's going to wrap up talking about the snow storm coming in.
+
+34
+00:02:41,909 --> 00:02:44,909
+Again, I might try to livestream tomorrow night or tomorrow evening,
+
+35
+00:02:44,909 --> 00:02:48,909
+and maybe I can get like a webcam to show outside how much snow is actually on the ground.
+
+36
+00:02:48,909 --> 00:02:51,909
+I don't know, maybe I'll do something like that. The stream might not even turn on.
+
+37
+00:02:51,909 --> 00:02:56,909
+I'm not going to guarantee I'm going to do this tomorrow, because like I said, I might be out of power.
+
+38
+00:02:56,909 --> 00:03:00,090
+But anyways, we're going to move on now and talk about some stuff in the gameplay.
+
+39
+00:03:00,090 --> 00:03:04,090
+Most notably, the fact that I'm using the reserve shooter for the first time in a long time,
+
+40
+00:03:04,090 --> 00:03:07,090
+and I've been having way more luck with this thing.
+
+41
+00:03:07,090 --> 00:03:12,090
+I can't seem to use the flare gun like I used to anymore, trying to time those crits, trying to time those hits.
+
+42
+00:03:12,090 --> 00:03:18,090
+It's way easier to just blow somebody in the air and get that guaranteed hit scan shot right on their body.
+
+43
+00:03:18,090 --> 00:03:21,090
+I've been able to do that a lot more frequently than I used to.
+
+44
+00:03:21,090 --> 00:03:25,389
+Also, for the new subscribers that have never seen me use the reserve shooter before,
+
+45
+00:03:25,389 --> 00:03:33,389
+the reason why I'm not using the degreaser with this thing is I feel like the 15% that you get with the reserve shooter is enough.
+
+46
+00:03:33,389 --> 00:03:37,389
+I feel like it's just about enough to land at least one good shot on somebody.
+
+47
+00:03:37,389 --> 00:03:42,389
+And with the degreaser equipped, it's such an instant switch that it really screws up my head,
+
+48
+00:03:42,389 --> 00:03:47,389
+and I cannot get the plants that I want to plant, and I just shoot around wildly, it seems.
+
+49
+00:03:47,389 --> 00:03:50,389
+I miss every single shot, because I'm too focused on the switch.
+
+50
+00:03:50,389 --> 00:03:52,389
+The switch happens, and I'm almost not ready for it.
+
+51
+00:03:52,389 --> 00:03:55,389
+It's almost like I'm sitting there, and we're like, okay, time to switch the gun.
+
+52
+00:03:55,389 --> 00:03:57,389
+And the animation doesn't even happen.
+
+53
+00:03:57,389 --> 00:04:01,389
+When you have the degreaser and the reserve shooter, there's no animation.
+
+54
+00:04:01,389 --> 00:04:04,389
+It almost looks like the game glitches out, because it switches so damn fast.
+
+55
+00:04:04,389 --> 00:04:07,389
+But that's the reason why I don't use the degreaser with this thing.
+
+56
+00:04:07,389 --> 00:04:10,389
+I always have the default on with the reserve shooter.
+
+57
+00:04:10,389 --> 00:04:17,019
+One tip I will give you with the reserve shooter, and I've actually gone against this tip multiple times in this gameplay already,
+
+58
+00:04:17,019 --> 00:04:22,019
+but it's when you blow somebody in the air, try not to shoot them more than once or twice,
+
+59
+00:04:22,019 --> 00:04:28,019
+because you only have three rounds or three shots in this thing, so you have to reload it very, very frequently.
+
+60
+00:04:28,019 --> 00:04:31,019
+And if you miss one or two times, you are screwed.
+
+61
+00:04:31,019 --> 00:04:33,019
+You do not have any more bullets in your secondary.
+
+62
+00:04:33,019 --> 00:04:38,019
+All you can really do is light them on fire or hope you can load more shots in before they kill you.
+
+63
+00:04:38,019 --> 00:04:44,019
+So make sure when you blow somebody in the air again, try to land just one shot before they come down again,
+
+64
+00:04:44,019 --> 00:04:46,019
+because again, you can blow them in the air again.
+
+65
+00:04:46,019 --> 00:04:49,019
+Once they land, blow them in the air again, shoot the second shot.
+
+66
+00:04:49,019 --> 00:04:51,019
+That's pretty much how you should be using this weapon.
+
+67
+00:04:51,019 --> 00:04:53,509
+But that is going to wrap up the video, guys.
+
+68
+00:04:53,509 --> 00:04:56,509
+Thank you all so much for watching. I really do appreciate it.
+
+69
+00:04:56,509 --> 00:04:58,509
+And I'll see you guys all next time.
+
+70
+00:04:58,509 --> 00:05:01,509
+Again, maybe look for a live stream tomorrow afternoon.
+
+71
+00:05:01,509 --> 00:05:03,509
+Weather permitting, I guess.
+
+72
+00:05:03,509 --> 00:05:07,509
+So I'll see you guys all next time, and of course, take care, everybody.

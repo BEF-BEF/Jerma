@@ -1,0 +1,263 @@
+1
+00:00:00,570 --> 00:00:14,839
+Hey, what is going on, everybody? Jerma here with a Team Fortress 2 gameplay commentary,
+
+2
+00:00:14,839 --> 00:00:20,480
+and tonight we're gonna be playing as the Engineer with the Widowmaker, the Mini-Sentry
+
+3
+00:00:20,480 --> 00:00:26,199
+Gunslinger, and the Pistol. It's gonna be on Barn Blitz defense on the last point, but
+
+4
+00:00:26,199 --> 00:00:31,079
+we are not gonna talk about the gameplay. We're gonna talk about the update stuff and how
+
+5
+00:00:31,079 --> 00:00:36,909
+tomorrow, Wednesday, meet the Pyros coming out and we got a bunch of new stuff, a bunch
+
+6
+00:00:36,990 --> 00:00:41,509
+of new items, some new sets. My brain is wracked right now. I cannot wait to talk about this.
+
+7
+00:00:41,509 --> 00:00:46,710
+Now, how I typically do my update videos, guys, is I wait till it's all out. Wait till
+
+8
+00:00:46,710 --> 00:00:51,109
+I can actually get my hands on this stuff before I give, obviously, my demonstrations
+
+9
+00:00:51,109 --> 00:00:55,829
+and my first opinions on them and stuff like that. So that video will be out tomorrow.
+
+10
+00:00:55,829 --> 00:00:59,390
+The second I can get my hands on all these items and make a video, it will be live on
+
+11
+00:00:59,390 --> 00:01:06,319
+this channel. But in the meantime, let's talk about what we've seen so far. So Monday, they
+
+12
+00:01:06,319 --> 00:01:12,459
+showed us, in my opinion, the best part about this entire update. We're getting a new official
+
+13
+00:01:12,459 --> 00:01:19,000
+game mode to Team Fortress 2. The last official game mode was DeGroot Keep, and a lot of people
+
+14
+00:01:19,000 --> 00:01:23,640
+don't even consider that a game mode. And we've gotten stuff like Saxon Hail. We've
+
+15
+00:01:23,640 --> 00:01:28,340
+gotten stuff like Prop Hunt and WarioWare. Those are all great community mods, but we
+
+16
+00:01:28,340 --> 00:01:33,099
+haven't seen an official one in so long. So this is just so exciting to me. I can't wait
+
+17
+00:01:33,099 --> 00:01:37,579
+to play this. Can't wait to try it. I have no idea how the game mode works. But the way
+
+18
+00:01:37,579 --> 00:01:42,180
+it sounds on the Valve website, it's kind of like Left 4 Dead 2 scavenge mode, where
+
+19
+00:01:42,180 --> 00:01:46,620
+you had one team had to fill up a tank and the other team had to stop them from doing
+
+20
+00:01:46,620 --> 00:01:50,900
+that. And if the first team fills the tank up and the rocket takes off, then they win
+
+21
+00:01:50,900 --> 00:01:55,459
+the game and then they flip a course sides and vice versa. So I think that's kind of
+
+22
+00:01:55,459 --> 00:02:00,340
+how it's going to work. Maybe red team is defense or maybe not. Maybe it's you're both
+
+23
+00:02:00,659 --> 00:02:04,219
+fighting for the same rocket, blue team and red team. That would be pretty interesting.
+
+24
+00:02:04,219 --> 00:02:07,819
+You know, you have a bar on the top that goes back and forth depending on how much fuel
+
+25
+00:02:07,819 --> 00:02:12,759
+the certain side is put in. This is all speculation at this point because I have no idea. But
+
+26
+00:02:12,759 --> 00:02:18,699
+I do know one thing. It's probably going to be a lot of fun. So today, Tuesday, we got
+
+27
+00:02:18,699 --> 00:02:23,139
+a bunch of different items for some of the classes. We got some scout stuff, sniper,
+
+28
+00:02:23,139 --> 00:02:27,819
+soldier and pyro. And I actually really want to talk about the pyro item. I'll go over
+
+29
+00:02:27,819 --> 00:02:31,939
+the stuff obviously tomorrow. I'm going to do a big, huge video on all this stuff. But
+
+30
+00:02:31,939 --> 00:02:35,990
+I want to talk about the pyro item mostly. Link will be in the description for all these
+
+31
+00:02:35,990 --> 00:02:41,150
+items and you can scroll down and see what I'm talking about. This pyro item is a secondary,
+
+32
+00:02:41,150 --> 00:02:46,469
+I think. But the stats on it are very, very odd. So for instance, it's called the scorch
+
+33
+00:02:46,469 --> 00:02:52,090
+shot, right? Flare knocks back target on hit and ignites enemies in a small radius. And
+
+34
+00:02:52,090 --> 00:02:57,710
+there's a minus 50% damage penalty on this thing. So my question is this. If this is
+
+35
+00:02:57,710 --> 00:03:03,030
+a secondary, why would you ever equip this rather than the flare gun or the detonator
+
+36
+00:03:03,030 --> 00:03:07,229
+or the shotgun? Knocking somebody back for a secondary, it's essentially a compression
+
+37
+00:03:07,229 --> 00:03:14,169
+blast. But as a pyro, we use our compression blast to utilize our secondaries. So if I
+
+38
+00:03:14,169 --> 00:03:17,770
+compression blast somebody and then switch to this and shoot them, I'm going to compression
+
+39
+00:03:17,770 --> 00:03:21,629
+blast them twice. I don't think it crits. I'm not sure if it even does any of those
+
+40
+00:03:21,629 --> 00:03:27,599
+things the flare gun does. And the minus 50% damage penalty, I feel like this is a primary.
+
+41
+00:03:27,599 --> 00:03:30,919
+I feel like it should be a primary because I can't think of a use for it if it was a
+
+42
+00:03:30,919 --> 00:03:36,360
+secondary. If it were a primary, think about launching somebody in the air with this, then
+
+43
+00:03:36,360 --> 00:03:40,639
+switching to something like the reserve shooter or the detonator or the flare gun and getting
+
+44
+00:03:40,639 --> 00:03:44,319
+the crit. That would make some sense. That would be interesting, especially because of
+
+45
+00:03:44,319 --> 00:03:49,879
+the minus 50% damage. You could essentially turn this into a compression blaster and that's
+
+46
+00:03:49,879 --> 00:03:54,039
+its job and that's what it's used for. But I think I have to stop making all these assumptions
+
+47
+00:03:54,039 --> 00:03:58,020
+on this item before I even sit down and use it. But that's my favorite part about Team
+
+48
+00:03:58,020 --> 00:04:02,479
+Fortress. Sitting down, speculating on items because we don't even know. There could be
+
+49
+00:04:02,479 --> 00:04:06,759
+more stuff tomorrow that complements this item. I don't even know yet. Nobody knows.
+
+50
+00:04:06,759 --> 00:04:11,830
+That's the beauty of Team Fortress. So tomorrow is Wednesday, which is the launch of the update
+
+51
+00:04:11,830 --> 00:04:16,410
+and of course the launch of Meet the Pyro. So here's a little fun facts for you. Meet
+
+52
+00:04:16,410 --> 00:04:21,509
+the Pyro comes out tomorrow. Meet the Medic came out exactly one year ago. And before
+
+53
+00:04:21,550 --> 00:04:27,310
+that, Meet the Spy came out two full years behind Meet the Medic. So it's kind of interesting.
+
+54
+00:04:27,310 --> 00:04:31,310
+They took two years to make Meet the Medic and pretty much less than one to make Meet
+
+55
+00:04:31,310 --> 00:04:36,870
+the Pyro. I remember looking at that coming in 2012 image that's on the main page and
+
+56
+00:04:36,870 --> 00:04:41,689
+I thought to myself, there's no freaking way they're going to introduce Meet the Pyro in
+
+57
+00:04:41,689 --> 00:04:45,069
+the first or second quarter. There's no way. I thought this was going to come out in like
+
+58
+00:04:45,069 --> 00:04:51,250
+November or December, right at the very end of 2012. And I was proven wrong. And that's
+
+59
+00:04:51,250 --> 00:04:55,160
+pretty awesome because I can't wait to see it. So yeah, that's going to wrap up the video
+
+60
+00:04:55,160 --> 00:04:59,240
+guys. Thank you all so much for watching. I really do appreciate it. And let's see how
+
+61
+00:04:59,240 --> 00:05:03,480
+this update comes through. Let's see how awesome it is. Let's see how cool Meet the Pyro is.
+
+62
+00:05:03,480 --> 00:05:06,939
+I'm sure we're all going to be talking about this tomorrow. There will be a video on this
+
+63
+00:05:06,939 --> 00:05:10,920
+channel tomorrow as well talking about all the items in detail, showing them in gameplay
+
+64
+00:05:10,920 --> 00:05:14,769
+form. Just wanted to make this video telling you how excited I am and I can't wait for
+
+65
+00:05:14,769 --> 00:05:18,649
+Meet the Pyro and I can't wait for these items. But yeah, anyways, I'll see you guys all next
+
+66
+00:05:18,649 --> 00:05:21,009
+time and take care everybody.

@@ -1,0 +1,6583 @@
+1
+00:00:00,570 --> 00:00:14,070
+Is it mercenary or mercenary? Is it M-E-R-C-E-N or C-A-N? Is it mercenary or mercenaries? Mercenary,
+
+2
+00:00:14,070 --> 00:00:29,929
+right? Yeah, yeah, with an E. I had it right. No, no, no, no, hold on. It's M-E-C-M-E-R-C-A-N?
+
+3
+00:00:32,469 --> 00:00:42,780
+Whatever, I don't care. It's merc- mercenaries? Mercenary. No, it- my phone's not telling me it's
+
+4
+00:00:42,859 --> 00:00:52,619
+wrong. I'm just waiting. Mercenaries. All right. Hello. Hi. Welcome, everybody. Welcome back.
+
+5
+00:00:52,619 --> 00:01:00,859
+Hope you had a good weekend. Welcome back to the stream. Today, I guess you just heard it,
+
+6
+00:01:00,859 --> 00:01:08,890
+we're going to be playing Mercenaries 2. There's a funny story about this one. This is on PC.
+
+7
+00:01:09,769 --> 00:01:15,260
+Didn't want it to be on PC. I wanted it to be on PlayStation 3, but unfortunately,
+
+8
+00:01:16,140 --> 00:01:23,109
+I couldn't get this game to get- I couldn't get my PlayStation 3 to get captured. I was trying to
+
+9
+00:01:23,109 --> 00:01:27,370
+capture my PlayStation 3 and it wouldn't work anymore. I don't know what happened. We played
+
+10
+00:01:27,370 --> 00:01:33,829
+the Olympics game, like, 12 days ago, right? Like, last week? A week and a half ago? What happened?
+
+11
+00:01:34,390 --> 00:01:39,900
+I don't know- I don't know what happened. I was trying to figure this out for, like,
+
+12
+00:01:39,900 --> 00:01:42,859
+a fucking hour. I was supposed to start an hour ago. I was ready- I was here ready to go.
+
+13
+00:01:44,250 --> 00:01:49,379
+I don't know why I wouldn't get captured. It was- no, not- it- not the- I mean, I streamed from
+
+14
+00:01:49,379 --> 00:01:56,620
+this exact setup 12 days ago. I didn't change anything. Was there a Windows update or, like,
+
+15
+00:01:56,620 --> 00:02:05,099
+an OBS update within the last 10 days? It- something got fucked up. I've no- yes,
+
+16
+00:02:05,099 --> 00:02:16,360
+there was. Okay. Of course. There was a PS3 update. There was a Windows update, like,
+
+17
+00:02:16,360 --> 00:02:26,150
+five days ago. Okay, I think- I think we may have found the culprit then. What are they even doing
+
+18
+00:02:26,150 --> 00:02:33,479
+anymore? Can we just talk about this very briefly? What the fuck are they updating? What are they
+
+19
+00:02:33,479 --> 00:02:40,120
+even doing? Like, the operating system is- just works. Just fix- what else could you be adding?
+
+20
+00:02:44,520 --> 00:02:49,960
+Okay, I understand, like, security holes, right? Fix the security holes and, like, fix the bugs.
+
+21
+00:02:50,680 --> 00:02:55,740
+But, like, I don't give a shit about any of the new features you add. You know what I've been
+
+22
+00:02:55,740 --> 00:03:03,219
+sitting on the Windows, like, update? There's, like, a features. Windows features. Please install me.
+
+23
+00:03:03,219 --> 00:03:06,099
+It's been, like, a year and a half. I'm like, no, fucking get out of here. I don't want you.
+
+24
+00:03:06,099 --> 00:03:16,860
+I don't know what it adds. What does it add? Like, yeah. Let me see what it adds. I'm curious.
+
+25
+00:03:17,500 --> 00:03:24,819
+I want to read it. And I'll tell you if any of these things are things that I would ever use.
+
+26
+00:03:25,539 --> 00:03:39,110
+Okay, let's see. What does it got? Okay, learn more. Okay, this one. This is for, uh, okay.
+
+27
+00:03:39,990 --> 00:03:53,689
+Great news. What's new? Here we go. Troubleshooting. Wait, there's only a troubleshooting list.
+
+28
+00:03:59,620 --> 00:04:03,460
+Hey guys, here's the new Windows update. Here's what it adds. It breaks everything,
+
+29
+00:04:03,460 --> 00:04:13,080
+and here's a list of how you fix it when we break it. Windows 10 versions. Okay,
+
+30
+00:04:13,080 --> 00:04:19,000
+Windows 10 versions 1909 and 1903 share a common core operating system and an identical set of
+
+31
+00:04:19,000 --> 00:04:23,740
+system files. As a result, the new features in Windows 10 were included in the recent monthly
+
+32
+00:04:23,740 --> 00:04:29,720
+quarterly update for Windows 10, but they're currently in a dormant state. These new features
+
+33
+00:04:29,720 --> 00:04:34,920
+will remain dormant until they are turned on using an enablement package, which is a small,
+
+34
+00:04:34,920 --> 00:04:44,379
+quick to install master switch that simply activates Windows 10. What? Why do they have
+
+35
+00:04:44,379 --> 00:04:49,980
+like a dormant ancient creature that's being built into the Windows 10 update? I'm not going to
+
+36
+00:04:49,980 --> 00:05:01,100
+enable that. I don't want this Cthulhu fucking update on my computer. No, just fix the security
+
+37
+00:05:01,100 --> 00:05:20,790
+bugs. Anyways, an Eldritch update. An Eldritch update. That's so perfect. I'm not enabling that.
+
+38
+00:05:20,790 --> 00:05:25,990
+No, I don't want that. I don't want a dormant fucking Microsoft computer monster on here.
+
+39
+00:05:26,629 --> 00:05:29,750
+And then they just like they turn it on one day and like break your computer.
+
+40
+00:05:30,310 --> 00:05:38,740
+Why does there have to be a master switch? It feels like it shouldn't be there. It feels
+
+41
+00:05:38,740 --> 00:05:46,300
+like they shouldn't like turn on a master switch. All right, we're going to play Mercenaries 2.
+
+42
+00:05:46,300 --> 00:06:00,300
+Let's go. I already hear like explosions. Okay, here we go. Can you see it? Does
+
+43
+00:06:00,300 --> 00:06:05,720
+German not know how Windows works? I know how Windows works. I just, I don't,
+
+44
+00:06:06,519 --> 00:06:12,870
+I don't want all that shit. And I know everyone just says, dude, just use, just use Linux. It's
+
+45
+00:06:12,870 --> 00:06:17,589
+okay. Everything I ever hear about Linux or like any of the Linux operating systems, it's just,
+
+46
+00:06:17,589 --> 00:06:23,110
+hey, it's, it's just like way better. From my understanding, you've got Windows is like the
+
+47
+00:06:23,110 --> 00:06:29,029
+Best Buy computer that you buy off the shelf and it has like fucking Norton 360 on it already.
+
+48
+00:06:29,029 --> 00:06:33,509
+Right. But Linux is like you built it yourself and there's no bullshit on it. Is that how I
+
+49
+00:06:33,509 --> 00:06:44,120
+understand this? But the unfortunate thing is everything is made for the Best Buy computer.
+
+50
+00:06:46,730 --> 00:07:00,980
+So a lot of times you have to have the Best Buy computer. I know I don't want to play online,
+
+51
+00:07:00,980 --> 00:07:11,819
+play online. Wait, I have to pick my character. Um, I can't see the other characters. Okay.
+
+52
+00:07:12,790 --> 00:07:23,720
+Matthias Nilsson, Chris Jacobs or Jennifer Mew. How do I see the, I want to see them.
+
+53
+00:07:23,720 --> 00:07:52,579
+Oh, okay. Hmm. Jennifer duh. What do you mean duh? I like the cigar. I do like the cigar. I'm a,
+
+54
+00:07:52,579 --> 00:07:59,139
+I'm a, I'm a big cigar fan. I've, I've never smoked one. Jennifer, Jennifer, Jennifer, Jennifer,
+
+55
+00:07:59,540 --> 00:08:22,329
+Whoa. All right. Jesus. But Chris has a cigar. All right. It's done. Wait, runs faster. Hold on.
+
+56
+00:08:22,329 --> 00:08:34,860
+Okay. Which one of these guys has punches harder? Regenerates health faster. Hmm. Carries more ammo.
+
+57
+00:08:38,500 --> 00:08:43,379
+All right. Runs faster is, I feel like, all right, that's probably pretty good.
+
+58
+00:08:43,379 --> 00:08:48,809
+Jen to only to her friends is the most expensive mercenary on earth. If it seems like she focuses
+
+59
+00:08:48,809 --> 00:08:52,250
+on money and nothing else, it's because she focuses on money and nothing else. Okay.
+
+60
+00:08:53,879 --> 00:08:57,639
+Kind of a big fan so far. She finds it amusing that there are people dumb enough to think
+
+61
+00:08:57,639 --> 00:09:09,669
+that anything else is important. Is there, is this, is this like a video game? Is it like a cut scene
+
+62
+00:09:09,669 --> 00:09:15,830
+or is it just throw like grenades at stuff? It's probably low, but whatever. I'll be quiet.
+
+63
+00:09:38,379 --> 00:09:44,379
+This. You should have done the same. Oh, I got paid. I always get paid. I need your
+
+64
+00:09:44,379 --> 00:09:51,080
+guns. No one sees the boss. I feel like this is a machinima made in the sims. Jennifer,
+
+65
+00:09:51,080 --> 00:09:57,320
+this is Ramon Solano. Mr. Solano is the richest man in Venezuela. I can tell we're going to get
+
+66
+00:09:57,320 --> 00:10:03,559
+along perfectly. What's the contract? Last week, general Carlos Caramona and his soldiers attempted
+
+67
+00:10:03,559 --> 00:10:13,080
+a coup. It's made by EA. Oh shit. It is some great plan for general Caramona and his army
+
+68
+00:10:13,080 --> 00:10:19,539
+plans for Venezuela. So it's me against a bunch of VZ soldiers. That's it. Will you accept the
+
+69
+00:10:19,539 --> 00:10:27,480
+contract? As long as your checks don't bounce. I feel like I'm going to really like this game.
+
+70
+00:10:27,480 --> 00:10:31,460
+Is that the case? I've never played this either of them. Welcome to Venezuela,
+
+71
+00:10:31,460 --> 00:10:36,980
+Solano's paperwork. So we're good to go. Packed into a CIA satellite.
+
+72
+00:10:37,620 --> 00:10:43,379
+I can see you and most of the area around you. I'm working off a laptop connected to a cell phone
+
+73
+00:10:43,379 --> 00:10:48,980
+here. So don't expect miracles. Leave the miracles to me. 2008 cell phones in the right direction.
+
+74
+00:10:48,980 --> 00:10:56,009
+This is like iPhone four. You're literally coping. What? Oh shit. Okay. Here we go.
+
+75
+00:10:58,409 --> 00:11:02,330
+Accelerate. What button is that? How do I land on a bunch of
+
+76
+00:11:02,409 --> 00:11:10,809
+pointy rocks? Okay. Steer and then break. What are those? What are those? Objective added.
+
+77
+00:11:10,809 --> 00:11:18,539
+Land on the beach. Okay. But what, what buttons are those? Okay. It's obviously A and then what
+
+78
+00:11:18,539 --> 00:11:38,700
+is B? Break? No, B is horn. Land on the beach. How do you exit? Wait, do you drive cars? Wait a
+
+79
+00:11:38,700 --> 00:11:46,460
+second. Wait for a weapon delivery. Melee bash is use melee bash to open crates.
+
+80
+00:11:47,580 --> 00:11:55,899
+Punch. Oops. What's made? I already like it. I love it already. I don't mind getting a little
+
+81
+00:11:55,899 --> 00:12:05,210
+dirty. Okay. What's in here? There's nothing in there. Equip grenade launcher. How do I pick it
+
+82
+00:12:05,210 --> 00:12:19,159
+up? Did I get it? I did. I don't think I picked it up. Oh boy. This is not, I don't think this is a
+
+83
+00:12:19,159 --> 00:12:35,620
+controller game. I don't think this is a controller game. Let me see. Why are there no ammo stores
+
+84
+00:12:35,620 --> 00:12:47,299
+around here? Why do I zoom in? Right. Hold on. Right. Stop. Okay. Wait. Right mouse button doesn't
+
+85
+00:12:47,299 --> 00:13:00,070
+zoom in? What the hell zooms in then? Shoot reload. Why? You've given me like Minecraft pictures.
+
+86
+00:13:00,070 --> 00:13:10,779
+What's the button that I have to press? Zoom. Switch weapons. Yeah. How? How do I do that?
+
+87
+00:13:11,580 --> 00:13:25,429
+Q? Hold on. Okay. Mouse one. Primary switch tab. Reload is R. Secondary attack mouse two.
+
+88
+00:13:26,730 --> 00:13:37,539
+Secondary switches V. Melee attack F. Use E. Jump space. Crouch C. Binoculars B. PDA F1. Lookup I.
+
+89
+00:13:38,340 --> 00:13:46,549
+A. Support. Walk. Switch. What's zoom in? Sprint is left shift. Okay. But what is the
+
+90
+00:13:47,269 --> 00:14:01,610
+zoom in? Mouse two. I'm pressing mouse two. Wait. It's crouch. Sensitivity has got to go
+
+91
+00:14:01,610 --> 00:14:04,570
+way down too. All right. Wait, wait, wait. I like playing with the controller. Hold on.
+
+92
+00:14:05,210 --> 00:14:11,500
+Joystick sensitivity. Here we are. I want to play the controller. I don't want to keyboard and mouse.
+
+93
+00:14:11,500 --> 00:14:21,820
+I hate that. All right. Let's try that. All right. That's way too slow. But you get the idea.
+
+94
+00:14:22,620 --> 00:14:45,620
+Yeah. This is much better. That was not good. That was very bad. Oh, it shot. All right. Oh,
+
+95
+00:14:45,700 --> 00:14:51,580
+okay. That's how you equip it. That's a little too low though. Way too low. Way,
+
+96
+00:14:51,580 --> 00:14:59,340
+way, way, way, way. I think that's going to be good. This game was wild as a kid. You played
+
+97
+00:14:59,340 --> 00:15:14,279
+this as a kid? Open PDA is the pause button. It's the select button. This is a great kid's game.
+
+98
+00:15:16,820 --> 00:15:24,539
+I don't think I agree. Okay. Destroy the gate. Thank God there's a fucking fallout New Vegas map.
+
+99
+00:15:26,100 --> 00:15:41,210
+What do I do? How do I blow it up? Do I have to switch weapons? All right. Let's go. Dude,
+
+100
+00:15:41,210 --> 00:15:48,460
+you know what? Okay. My up and down sensitivity is crazy. Open support menu. Use support item.
+
+101
+00:16:01,460 --> 00:16:14,379
+Wait, satellite guided satellite mom. One for free. How do I use it? Use support item. Oh shit.
+
+102
+00:16:15,340 --> 00:16:31,320
+Okay. Over the target. Confirm. Confirm target. Do it. Go. Did I do it? Okay. There it is. Confirm
+
+103
+00:16:31,320 --> 00:16:41,690
+target is. Okay. Got it. Oh, it's a mini game. Oh shit. All right. Run, run, run. Get out of here.
+
+104
+00:16:45,240 --> 00:16:55,419
+I mean, let's be honest. You would do the same shit. It doesn't matter how like hard you think
+
+105
+00:16:55,419 --> 00:16:59,980
+you are. If this an explosion that far behind you, you're not going to be like, yeah. No,
+
+106
+00:16:59,980 --> 00:17:12,519
+you're going to be like, Jesus. I'm glad that that happened. Oh fuck. Look out. All right. How do
+
+107
+00:17:12,519 --> 00:17:37,420
+you sprint? How do you crouch? Okay. Don't want to die in the tutorial. Uh, I have an idea.
+
+108
+00:17:42,890 --> 00:17:54,230
+So soft. Got them. Did I get them? Your AK is freaking out. Get to the way point.
+
+109
+00:17:55,109 --> 00:18:14,059
+Holy shit. That was pretty good. Come on. Dude, do you get cars in this game?
+
+110
+00:18:15,400 --> 00:18:26,220
+Tell me you get a car. Do you get a car? Yes. Okay. I'm, I'm, I'm incredibly excited. Wait,
+
+111
+00:18:26,299 --> 00:18:33,579
+vehicle delivery, vehicle delivery. Where is it? Dropped out of the sky.
+
+112
+00:18:39,460 --> 00:18:47,619
+See if it was going to crush me. Drive the iguana. Yes. Yes. Yes. Yes. Yes. Yes. Yes. Yes. Yes. Yes.
+
+113
+00:18:48,420 --> 00:18:59,130
+Drive. Where am I driving? That is a full letter grade. That is a full letter grade. That's what
+
+114
+00:18:59,130 --> 00:19:14,819
+happens. Okay. We go back down here. Went from F to a D. Um, no, it went from a C to a B.
+
+115
+00:19:19,160 --> 00:19:27,660
+All right. Now it's, wait, now it's a B minus. Now it's a, now it's a B plus. Okay. I just had to
+
+116
+00:19:27,660 --> 00:19:36,809
+see what happened. You can actually do it. Okay. You can, you can ghost ride cars. Did I get them?
+
+117
+00:19:37,609 --> 00:19:57,299
+Oh, I didn't get them. I thought I got them both. Where's the car? Where did it go? Did it keep
+
+118
+00:19:57,299 --> 00:20:11,339
+going? Okay. This blend. I thought this was part of the rocks. There's a handbrake. How do I do it?
+
+119
+00:20:11,339 --> 00:20:21,349
+Okay. That's it. Excellent. I love spending other people's money.
+
+120
+00:20:30,549 --> 00:20:39,500
+Okay. She turned into a hermit crab. Why am I still alive? Okay. Open up the menu.
+
+121
+00:20:40,220 --> 00:21:13,180
+Satellite guided bomb. Where is it? All right. Take it out. Got it. Tank. Give me that ammo. Oh,
+
+122
+00:21:13,180 --> 00:21:18,410
+wow. Level destruction. Yeah. That's cool. All right. Let's go. Let's get in the tank.
+
+123
+00:21:18,410 --> 00:21:21,930
+How many different vehicles are there? Is there a motorcycle? This is a motorcycle.
+
+124
+00:21:21,930 --> 00:21:30,089
+This game's automatically an A minus. Steal it or nuke it. What do I mean? Yeah. Get in it.
+
+125
+00:21:31,700 --> 00:21:54,569
+How would I destroy this? Um, okay. But move, steer, shoot. Oh God. This game is fucked. This
+
+126
+00:21:54,569 --> 00:22:10,019
+game is mega fucked on PC. Is it? I can't, it's hard to turn. It's mega fucked on PC. What do you,
+
+127
+00:22:10,500 --> 00:22:30,950
+is that going to be a problem? Switch weapons. How do I switch weapons? I'm trying to do it.
+
+128
+00:22:30,950 --> 00:22:43,720
+Switch weapons. Oh, there we go. This just sounds like popcorn in the microwave.
+
+129
+00:22:44,279 --> 00:22:57,740
+I gotta make it realistic. Hold on. Do I take it out yet? Do I take it out yet? No, not yet. Okay.
+
+130
+00:22:57,740 --> 00:23:00,779
+No, that's fine. That's fine. Let's get it out. Get it out now. Get it out now before it explodes.
+
+131
+00:23:01,500 --> 00:23:13,740
+Anybody else have that irrational fear? You don't have that irrational fear.
+
+132
+00:23:14,299 --> 00:23:19,420
+You know, you're supposed to count two seconds between pops. If it's longer than two seconds,
+
+133
+00:23:19,420 --> 00:23:31,720
+then like, I, I feel like there's a risk of explosion. Get to the way point. Wait,
+
+134
+00:23:31,720 --> 00:23:43,299
+hold on. Can I just like, why would you stand up there? Okay. If you're this guy, don't you
+
+135
+00:23:43,299 --> 00:23:52,950
+dive off now. Why would you continue to stand up on this? These are houses. Wait, but there's
+
+136
+00:23:53,029 --> 00:24:20,490
+people shooting at me. Okay. That was, it was pretty fucked up. All right. Let's go the right
+
+137
+00:24:20,490 --> 00:24:41,109
+direction. Bridges out. Oh, sweating. Bridges out. Get inside the complex. How about we just blow it
+
+138
+00:24:41,109 --> 00:25:01,769
+up? Just take it out from over here. Why is it healing? Don't worry. They'll come out. Don't
+
+139
+00:25:01,769 --> 00:25:14,839
+worry. We'll smoke them out. Can you destroy everything? Wait, why is it being rebuilt?
+
+140
+00:25:22,230 --> 00:25:25,589
+This is just like when you're destroying a building in Warcraft and the guy puts like
+
+141
+00:25:25,589 --> 00:25:29,269
+10 peons on it and you're just like, get these fucking things out of here.
+
+142
+00:25:30,069 --> 00:26:23,500
+Oh, what's this? Wait. Oh, wait, where is this? Did I do it? What happened? Mission complete.
+
+143
+00:26:26,230 --> 00:26:33,400
+Wait, was this supposed to be a hideout? Oh, where's the rest of your team? I'm the complete
+
+144
+00:26:33,400 --> 00:26:39,220
+package. So you're a merc. He knows a good deal when he sees it. Let's get the hell out of here.
+
+145
+00:26:40,180 --> 00:26:48,819
+Jennifer, welcome back. Job well done. Just like old times. Me doing all the work, you nowhere to be
+
+146
+00:26:48,819 --> 00:26:54,259
+seen. Is somebody really mad that they don't have the premier project file anymore? To be
+
+147
+00:26:54,259 --> 00:27:00,660
+able to re-render these in HD, like full 1080. First I get paid. I'm sorry. The job is not for
+
+148
+00:27:00,660 --> 00:27:09,559
+you. The job is you. Tomorrow, General Carmona's troops will roll into the capital and I will be
+
+149
+00:27:09,640 --> 00:27:13,880
+Venezuela's new leader. You should have just paid me the money. I love money. This means there will
+
+150
+00:27:13,880 --> 00:27:20,279
+be many bounties on my head. I can't have your friends hunting me. It's bad for business. So is
+
+151
+00:27:20,279 --> 00:27:29,319
+this. Now I have to kill you. Sorry, Jennifer. You piece of- Why is it, why is it bleeped?
+
+152
+00:27:34,730 --> 00:27:42,420
+That wasn't even a bleep. That was like a phone touch tone. Why did she do that? Oh my God.
+
+153
+00:27:46,549 --> 00:27:55,619
+That was what the after the beep. If you like leave a message for somebody. Jen, please sit
+
+154
+00:27:55,619 --> 00:28:01,220
+down if you can. She got shot in the ass. Trust you to be looking at my ass. We're leaving Venezuela
+
+155
+00:28:01,220 --> 00:28:06,740
+tonight. That was ridiculous. I can't even process what just happened. That was fucking crazy. It's
+
+156
+00:28:06,740 --> 00:28:11,779
+not safe because I'm here and I am pissed off. Yeah, no one shoots her in the ass and gets away
+
+157
+00:28:11,779 --> 00:28:16,819
+with it. He didn't pay her the worst thing it could have done. I'm being told now that Ramona
+
+158
+00:28:17,930 --> 00:28:20,170
+was giving a press conference. This is a crack game. Yeah.
+
+159
+00:28:35,940 --> 00:28:47,539
+Everybody pays Blanco. I don't know. Whatever. What am I saying? Everybody pays. I blinked and she
+
+160
+00:28:47,539 --> 00:28:52,740
+kicked a guy in the balls from behind. I didn't even see the cut scene. I felt like I just had a
+
+161
+00:28:52,740 --> 00:30:21,720
+dream. What? Okay. So I'm trying to piece this together. Okay. I don't know why, but I thought
+
+162
+00:30:22,200 --> 00:30:25,559
+that was that guy. Director Cameron Brown. I was like, all right, this guy, this is a
+
+163
+00:30:26,779 --> 00:30:33,500
+solid snake. Metal gear snake. Whatever. Wait, you can steal cars? No, you can't. No, you can't. No,
+
+164
+00:30:33,500 --> 00:30:44,950
+you can't. You can't do that. No, there's no way. This is you can't, right? Can you get hit by cars?
+
+165
+00:30:47,750 --> 00:30:55,109
+Kind of. There's a motorcycle. Okay. There's a motorcycle in the game. Okay. It's an A minus.
+
+166
+00:30:55,109 --> 00:31:15,640
+Give me this thing. Oh yeah. Holy shit. Okay. I have to have fun. All right. Give me that
+
+167
+00:31:15,640 --> 00:31:22,440
+motorcycle bike. This is, this is too much stimulation. There's another one right here.
+
+168
+00:31:22,440 --> 00:31:42,519
+We'll take this one. Wait, is that bike? There's two bikes here. Wait, can you punch? Why is a
+
+169
+00:31:42,519 --> 00:32:05,400
+bike still driving by itself? What? I'm getting battlefielded? Wait, they have a out of bounds
+
+170
+00:32:05,400 --> 00:32:13,240
+like battlefield. All right. How do I? This is a first person mode too. This is amazing. All right.
+
+171
+00:32:13,240 --> 00:32:22,519
+I'm going to do first person driving. How am I getting shot at by? Wait, what's that? Money?
+
+172
+00:32:23,160 --> 00:32:45,190
+How is he still alive? I feel like I'm an animal. Like I'm a wild fucking animal.
+
+173
+00:32:51,180 --> 00:32:55,259
+Just put like fucking screaming like bear noises right there. Wait, I didn't get the money.
+
+174
+00:33:01,750 --> 00:33:11,980
+Police academy. What do you mean police academy? Wait, I think I know what you're talking about.
+
+175
+00:33:15,289 --> 00:33:32,339
+Okay. No, no. What's, what is it? Um, naked gun, the naked gun movies. Wait, there's a bad guy.
+
+176
+00:33:32,339 --> 00:33:52,470
+What's this? Oh, $25,000. All right. That's not a bad guy. Did I get everything? All right. Wait, how
+
+177
+00:33:55,940 --> 00:34:08,619
+what is this? Oh, requires a helicopter pilot to steal. Are you kidding me? Wait, what?
+
+178
+00:34:18,869 --> 00:34:21,429
+I have to do a mission. I'm going to lose my mind.
+
+179
+00:34:22,309 --> 00:34:41,420
+All right. We're gonna bang a left. Don't kill people. I've, what are you? I'm being shot at.
+
+180
+00:34:42,219 --> 00:34:48,730
+I do want a motorcycle though. That's way cooler. Will this guy fly over the handlebars?
+
+181
+00:34:49,690 --> 00:35:16,139
+No. Why would you turn into me? I'm not killing anybody. I want a bike though. I want a bike.
+
+182
+00:35:17,099 --> 00:35:48,710
+Give me the bike. Why is this thing on ice? No, get. There we are. Come on. Let's go. All right. I
+
+183
+00:35:48,710 --> 00:36:27,769
+want the other camera angle. Oh shit. Wait, turn left. All right. Turn left. I almost got it. I
+
+184
+00:36:27,769 --> 00:36:38,780
+almost got it. I just had to drive as fast as I could. Wait, how do I open this gate? Open the
+
+185
+00:36:38,780 --> 00:36:44,760
+gate. What did I just get a little jump for? That was cool. All right. Wait, wait, wait, wait, wait,
+
+186
+00:36:44,760 --> 00:36:57,260
+wait, wait, wait. Get a real car. Oh shit. There's a temporal disturbance. I'm pulling you out. I'm
+
+187
+00:36:57,260 --> 00:37:02,139
+pulling you out, Jen. No, don't do it yet. I'm not ready. No, you've been in there for too long.
+
+188
+00:37:02,780 --> 00:37:24,809
+What do I do? I can't get in. I don't have access to an airstrike. I don't. It's not. I don't have
+
+189
+00:37:24,809 --> 00:37:46,409
+an airstrike. I need a car. Use a grenade. Use a van. I don't have any grenades. I don't have any.
+
+190
+00:37:47,050 --> 00:38:00,420
+All right. I'm going to take that car. There's a car right here. Use your head. I've tried that.
+
+191
+00:38:00,420 --> 00:38:30,980
+It didn't work. All right. Car. Give me. All right. Open up. You actually had to drive through it.
+
+192
+00:38:30,980 --> 00:38:42,219
+You got to be kidding me. Okay. But it was like a little scavenger hunt. Is this supposed to be a
+
+193
+00:38:42,219 --> 00:38:52,099
+maze? I found it. Wait, I have to kill that guy. Did I get him? That guy had an elaborate setup.
+
+194
+00:38:52,900 --> 00:39:07,320
+Is he dead? I got him. All right. Imagine being that guy. Yes, I'm going to hide in the
+
+195
+00:39:07,320 --> 00:39:13,349
+elaborate maze that she will never find me. Boss, she's driving through the hedges.
+
+196
+00:39:27,500 --> 00:39:30,539
+Somebody, when they write about this in the history books, make sure you said
+
+197
+00:39:30,539 --> 00:39:39,500
+it took her at least two minutes to find me. Why did I just hacky sack that into the air?
+
+198
+00:39:40,139 --> 00:40:00,300
+Take ammo. Take ammo. We're out of here. Wait, what was that? I want a grenade. I'm going to
+
+199
+00:40:00,300 --> 00:40:06,389
+sneeze and I'm going to try to be very, very, very. I'm back. Hi guys. Welcome to the stream.
+
+200
+00:40:06,389 --> 00:40:11,110
+Today we're going to play Mercenaries 2. I have nine grenades. I do have nine grenades.
+
+201
+00:40:11,829 --> 00:40:52,119
+I didn't even realize that. Is this like Dora the Explorer? Oh, come on. All right. Watch this.
+
+202
+00:40:54,099 --> 00:41:00,250
+Here I. Oh, come on. Really? I thought the whole thing was going to come down.
+
+203
+00:41:07,349 --> 00:41:36,440
+Do you see? Do you see where Jen went? Nevermind. I tried. All right. There he is.
+
+204
+00:41:36,440 --> 00:41:52,789
+Wait, that's an explosive thing. Isn't it? Is it? Oh my God. That guy. That guy was like,
+
+205
+00:41:52,789 --> 00:42:10,809
+Holy shit. It didn't get me. Machine pistol. Oh, he just took him right in the lip. All right. I
+
+206
+00:42:10,809 --> 00:42:22,789
+got him. I need a car. What's this? Oh, $55,000, man. What else is back here? All right. Like,
+
+207
+00:42:22,789 --> 00:42:34,219
+give me that car behind that cover. Yes. Nice throw, dude. Okay. That was pretty good though.
+
+208
+00:42:36,039 --> 00:42:48,659
+Can I just drive through the wall? This is the most efficient way to mow the lawn.
+
+209
+00:42:49,460 --> 00:43:06,710
+Just throw a grenade. All right. Where is he? Right here. Another maze guy. No. Oh, party's over.
+
+210
+00:43:07,670 --> 00:43:13,800
+Party's over. Yep. Party's over, guys. Why am I sinking into the ground?
+
+211
+00:43:18,809 --> 00:43:45,460
+Where is he? Holy shit. You are horrible. You sucked. Oh, fire. Why is there fire? Let's go.
+
+212
+00:43:54,570 --> 00:44:02,440
+Don't shoot that. Don't shoot that. I need that. I need that. Do not. Thank you. Don't blow that up.
+
+213
+00:44:02,440 --> 00:44:23,269
+Get out of my way. Get out of my way. I need that. Are you serious? I need this. Not going to work.
+
+214
+00:44:23,269 --> 00:44:36,260
+Not going to work. Whatever. Who did he throw that at? They didn't throw it at me.
+
+215
+00:44:36,900 --> 00:45:11,579
+Wait, that's money. I need that. Just shoot. What? Give me that money. That's a lot of cash.
+
+216
+00:45:11,579 --> 00:45:22,739
+$85,000. Behind the tree. Behind that wall. Behind that car. Behind that thing. Behind that
+
+217
+00:45:22,739 --> 00:45:51,340
+structure. Was this two people or is that one person? What? Why are they dead? Okay. Go to the
+
+218
+00:45:51,340 --> 00:46:04,500
+front entrance. They can't swim. It's always so funny in games where you can't swim. Where water
+
+219
+00:46:04,500 --> 00:46:13,860
+instantly kills you. It doesn't cause any blood. It's like a poison. It's an instant poison.
+
+220
+00:46:14,659 --> 00:46:24,300
+It's like getting electrocuted. Water is electricity. Oh my goodness. You dick. I
+
+221
+00:46:24,300 --> 00:46:31,960
+needed that. I want your thing. Give me that. Like an acid pool. Yeah. Okay. Wait. RPG. Nice.
+
+222
+00:46:31,960 --> 00:46:43,670
+So much fun. Check this out. I can't blow the... I got to go to the front of the... Can I go on
+
+223
+00:46:43,670 --> 00:46:54,860
+the side of the building? Wait. That's going to take way too long. Never mind. Is there another
+
+224
+00:46:54,860 --> 00:47:05,269
+car I can take? There we go. Yeah. I've got my tried and true. My trusty. Important. This game
+
+225
+00:47:05,269 --> 00:47:16,550
+has a manual save. If you die, you go to the beginning. What? Oh my God. Thank you for saying
+
+226
+00:47:16,550 --> 00:47:37,829
+that. Why did you tell him that? I'm so glad you did. Don't shoot. Don't shoot. Don't shoot. Don't
+
+227
+00:47:37,829 --> 00:47:57,159
+shoot. No. The same fate. The same fate as the last one. All right. I made it. Now what?
+
+228
+00:48:05,559 --> 00:48:11,159
+Inside the villa. All right. I got one shot. Wait. Can I destroy everything?
+
+229
+00:48:11,960 --> 00:48:29,690
+All right. I'm going to destroy the statue of Michelangelo. What's going on? We good?
+
+230
+00:48:32,409 --> 00:48:41,420
+Any resistance inside? There's kind of a tank in here. Okay. Get close to the tank turret.
+
+231
+00:48:43,110 --> 00:49:03,159
+Hijack the tank. Oh no. Okay. Whoa. Hijack. That was weird. I just kind of fell through the ground.
+
+232
+00:49:05,590 --> 00:49:18,070
+Behind that tank. Go to the courtyard. Yeah. Yeah. Yeah. Yeah. I want a motorcycle in here so bad.
+
+233
+00:49:20,579 --> 00:49:35,159
+Behind that thing. Behind that building. That does it for the estate ground. I'm seeing some
+
+234
+00:49:35,159 --> 00:49:42,969
+activity inside the villa. All right. Hijack the tank. All right. I got $115,000.
+
+235
+00:49:44,570 --> 00:49:51,050
+Do you buy new weapons and shit in this game? This is, I'm going to like this. This is going
+
+236
+00:49:51,050 --> 00:50:04,139
+to be a lot of fun. Okay. I'm ready. Got it. Is there any resistance inside? There's kind of a
+
+237
+00:50:04,139 --> 00:50:40,170
+tank in here. Come back over here. Come here. What is the sound? The music stopped.
+
+238
+00:50:44,809 --> 00:50:57,559
+Okay. I just wanted to see what happened. I'll get it instantly. Ready? Count to one. One. I don't
+
+239
+00:50:57,559 --> 00:51:08,119
+want to hijack this. I don't think that's what would happen. Destroy the
+
+240
+00:51:08,119 --> 00:51:33,849
+entourage. Is the plane part of it? Die. Die. She's the last guy. Right there. All right. So
+
+241
+00:51:33,849 --> 00:51:49,099
+do I leave? All right. So we go up the stairs. Destroy the statue. We don't have time. No,
+
+242
+00:51:49,099 --> 00:52:03,019
+no, no, no. The statue stays. That was Harry Potter music. Kind of. Yeah.
+
+243
+00:52:12,860 --> 00:52:18,519
+Huge oil company. They own all the derricks in the area. By someone named Ruben. Yeah,
+
+244
+00:52:18,519 --> 00:52:27,610
+Lorraine Ruben. Do you know where Blanco is? Look at that. She deals with Blanco. And if we find
+
+245
+00:52:27,610 --> 00:52:36,340
+Blanco, we find Solano. All right. We got to find Blanco. Is that a casino?
+
+246
+00:52:45,619 --> 00:52:52,380
+Uh-oh. Ready to get to work? We can talk about how we make contact with Universal Petroleum.
+
+247
+00:52:52,380 --> 00:52:56,300
+Also, it might be a good idea to practice some of your basic combat skills now that
+
+248
+00:52:56,300 --> 00:53:01,139
+we have a base of operations. I can help you with both of these. Oh.
+
+249
+00:53:02,980 --> 00:53:09,960
+Implaced weapons challenge one. Let's do it. I know you hate target practice, but I know you
+
+250
+00:53:09,960 --> 00:53:16,119
+love losing money. I mean gambling. Oh. Not without a friendly wager to your normal routine.
+
+251
+00:53:16,119 --> 00:53:23,590
+Okay. That's a magic word. All right. Here's a simple wager between you and me. I've set up
+
+252
+00:53:23,670 --> 00:53:28,710
+an emplaced weapons challenge on the PMC grounds. You use the weapons to blow up targets before the
+
+253
+00:53:28,710 --> 00:53:32,789
+time runs out and you win. Destroying the cars during the challenge will pause the timer.
+
+254
+00:53:32,789 --> 00:54:23,880
+Wager a thousand. Let's go. Where's the last one? Where's the last statue? Where is it?
+
+255
+00:54:30,139 --> 00:54:38,150
+All right. Shoot the cars. Move to the recoilless rifles and shoot cars.
+
+256
+00:54:40,420 --> 00:54:59,900
+What? Oh, I gotta do it in the air? Shit. Come on. Come on. Come on. God damn it.
+
+257
+00:55:07,590 --> 00:55:52,260
+Damn it. What's the travel time on this thing? Shit. Shit. Oh. Now what? He sucks. He does not
+
+258
+00:55:52,260 --> 00:55:59,860
+suck. Move to the grenade launchers. I've got two minutes and 48 seconds. All right. Move to...
+
+259
+00:56:00,500 --> 00:56:28,599
+What? Where is it? What do I have to destroy? There's nothing else to blow up.
+
+260
+00:56:42,019 --> 00:56:47,449
+What? It's a hundred thousand dollars that is made. It's the easiest hundred thousand I've ever made
+
+261
+00:56:47,449 --> 00:56:53,530
+in my life. Like that's the easiest hundred K ever. I had a full three minutes. I have to...
+
+262
+00:56:53,530 --> 00:57:04,139
+That's like... Come on. Grenade launcher challenge level one.
+
+263
+00:57:08,500 --> 00:57:17,130
+Grenade launcher course for you to be. Use the launcher to blow up the targets. You can
+
+264
+00:57:17,130 --> 00:57:27,480
+only fire from behind the sandbag. Let's go. He's addicted. All right. Let's go.
+
+265
+00:57:37,530 --> 00:58:03,780
+Reload. Reload. Reload. Reload. Reload. Reload. Reload. Reload. Reload. Reload. Reload. Reload.
+
+266
+00:58:03,780 --> 00:58:12,389
+What? Last one, right? All right. Two minutes. I got plenty of time.
+
+267
+00:58:21,139 --> 00:58:46,940
+Oh shit. I have one shot left. What? What do I have to do? Destroy statues? What statues?
+
+268
+00:58:46,940 --> 00:59:13,530
+Where are they? I don't understand. It's behind them? It's splash damage. Okay. Splash damage.
+
+269
+00:59:13,530 --> 00:59:24,329
+Oh shit. There's another one. I did it. That's a hundred fucking thousand more dollars.
+
+270
+00:59:36,280 --> 00:59:44,360
+Save the game. Quick. Pistol level one. All right. Hold on. Let me save it.
+
+271
+00:59:44,920 --> 01:00:00,900
+So I get like a million dollars? Another one. Stop gambling Gary. All right. I'll do pistol
+
+272
+01:00:00,900 --> 01:00:14,679
+challenge and that's it. Pistol course. Shoot down all the Solano portraits with your pistol. Remember
+
+273
+01:00:14,679 --> 01:00:22,070
+you can only fire from behind the sandbag. Let's go. Just retire. I haven't even done one mission
+
+274
+01:00:22,070 --> 01:00:28,539
+yet. All right. How do I beat this? What does it have to swim underneath this?
+
+275
+01:00:32,630 --> 01:00:50,360
+Okay. How do I get up there? Wait. What's going on? Wait. Am I bugged out of the map?
+
+276
+01:00:54,539 --> 01:01:04,539
+This is not fair. This is a huge disadvantage. Do I have to swim to the shore? I'm only going
+
+277
+01:01:04,539 --> 01:01:22,309
+to have one. All right. Right here. I've got to be quick. I'm swimming further down. I can't shoot
+
+278
+01:01:22,309 --> 01:01:57,829
+from here. Medivac. Wait. I lost a hundred and ten thousand. Now that's bullshit. That's
+
+279
+01:01:57,829 --> 01:02:09,860
+absolute horse shit. I'm not going to stand for that one. I'm not standing for that one.
+
+280
+01:02:15,860 --> 01:02:24,090
+Why am I going so fast? Where's my money? How much money do I have? There we go. All right. Wait.
+
+281
+01:02:24,090 --> 01:02:35,690
+This is like a thing. Wait. Can I buy clothes? No outfits found. How do I buy them? All right.
+
+282
+01:02:35,690 --> 01:02:39,929
+Is the game running at sixty FPS and the game is not running times two speed? Am I going crazy
+
+283
+01:02:39,929 --> 01:02:52,599
+or what happened here? No, I don't care. Let's go. I'm doing the mission now. I got three hundred
+
+284
+01:02:52,599 --> 01:03:02,780
+and fifteen thousand universal petroleum. I've done some research on that American oil company
+
+285
+01:03:02,780 --> 01:03:08,059
+that Blanco is involved with. They're called universal petroleum. Before Solano took over,
+
+286
+01:03:08,059 --> 01:03:14,139
+they had exclusive rights to drill for oil and only gave the Venezuelan hyper fast game even
+
+287
+01:03:14,139 --> 01:03:23,190
+faster. Oh, by the way, just to make sure everyone knows August 23rd is the last day
+
+288
+01:03:23,190 --> 01:03:30,949
+you can submit for the DLC movie night. And then that stream is going to be on the 29th.
+
+289
+01:03:30,949 --> 01:03:35,590
+Solving some problems for UP senior executive here, Dr. Lorraine Rubin,
+
+290
+01:03:35,590 --> 01:03:42,650
+should show them how much more useful we can be. So far, there are about four hundred videos.
+
+291
+01:03:42,650 --> 01:03:49,699
+So it's going to be wild. It's four hundred of them. We still have to go through the origin,
+
+292
+01:03:49,699 --> 01:03:56,340
+the first wave of vetting them, but I have to imagine it's not going to be too far from like
+
+293
+01:03:56,340 --> 01:04:03,699
+350, 360 or something. I don't know. Or omega well, omega well. Yeah. All right.
+
+294
+01:04:05,380 --> 01:04:13,130
+Steel guns. Return the shipment to the up HQ. Five hundred dollars a gun. That's nothing. I
+
+295
+01:04:13,130 --> 01:04:24,219
+could make a hundred thousand dollars in five seconds. Well, this is not looking good.
+
+296
+01:04:27,429 --> 01:04:36,599
+Am I just going through the sewers? Am I going to open up underneath this guy's toilet?
+
+297
+01:04:42,380 --> 01:04:53,860
+With your PDA, you need to be looking at your PDA to set the GPS.
+
+298
+01:04:53,860 --> 01:04:56,019
+Well, I'm having a little bit more trouble, lady.
+
+299
+01:05:01,320 --> 01:05:23,619
+No, I'm trying to get back up to the surface. Stop talking to me for a second. OK. Beacon,
+
+300
+01:05:23,619 --> 01:05:36,019
+place. Good. Now you can follow the GPS. Thank you. There's got to be a way I can get up here,
+
+301
+01:05:36,019 --> 01:05:40,139
+right? It has to. All right. I'm going to go this way. Get away from the house.
+
+302
+01:05:40,860 --> 01:05:52,570
+I feel like I can probably swim up that. Am I making any progress? I think so.
+
+303
+01:05:53,130 --> 01:06:02,170
+Swim to the bottom of the world. I don't think there's a dive. You have to find a pool and swim
+
+304
+01:06:02,170 --> 01:06:12,090
+up. I don't want to do that. Oh, no. Do I have to go find it? Oh, that's not good. Oh, don't give me
+
+305
+01:06:12,090 --> 01:06:18,730
+those things to do because I'm going to do them. I actually have to find a pool in the town and
+
+306
+01:06:18,730 --> 01:06:37,369
+swim up the pool. Is there a body of water over here? There's a pool in the backyard. There's
+
+307
+01:06:37,369 --> 01:06:47,829
+one at the villa. It's too late. OK, there's no more water right here, so it's going to force
+
+308
+01:06:47,829 --> 01:07:02,219
+me up onto the land, isn't it? That's false. No, Omega-Lel, no. There's no more water to swim in.
+
+309
+01:07:02,219 --> 01:07:20,280
+Wouldn't it just push me up through the earth? No, it'll push you down. Oh, my God. Where's the
+
+310
+01:07:20,280 --> 01:07:31,059
+fucking pool? Where is it? Lock your frames? I mean, if the frames are locked at 60, should I
+
+311
+01:07:31,059 --> 01:07:50,260
+lock it to 30? Lock it to 30? Oh, but that's ugly. Let me see if I can go up here. Is this the pool
+
+312
+01:07:50,260 --> 01:08:24,039
+right here? This looks like water going straight up. I just want to climb up this. OK, I'm almost
+
+313
+01:08:24,039 --> 01:08:40,649
+there. All right, now go up. No? Just pull me out. Don't forget to stock up on fuel and support.
+
+314
+01:08:40,649 --> 01:08:48,100
+Retry? Yes. All right, come on. Don't drop me in the water again. There we go. All right, we're up.
+
+315
+01:08:48,100 --> 01:08:56,340
+We're up. We're up. We're up. We're up. We're up. We're good. We're up. Look, I made $300,000.
+
+316
+01:08:56,340 --> 01:09:04,250
+It's OK if I lose 10. Steal a truck. Yep. Open that PDA. Set a route. You guys say route or you
+
+317
+01:09:04,250 --> 01:09:21,899
+guys say route? What do you guys say? I say route. Thank you. So, what are these two
+
+318
+01:09:21,899 --> 01:09:32,250
+whistle things? Go back in the water. You missed a secret. I don't care. All right, I need a
+
+319
+01:09:32,250 --> 01:09:41,399
+helicopter pilot to get this stuff. Fine. You call a router a router? No, but if you have a route,
+
+320
+01:09:41,399 --> 01:09:47,340
+you have a route. Like, it's either one works. They're both phonetically correct in English.
+
+321
+01:10:02,550 --> 01:10:16,380
+NA wording. No, they both work. They're both right. They're both correct. Stop! Are there police in
+
+322
+01:10:16,380 --> 01:10:38,489
+this game? I don't think there is. There's no star system, right? Follow that person. No,
+
+323
+01:10:38,489 --> 01:10:49,500
+I want to do the mission. Whatever. I want the bike, but I can't get the bike. You know what I
+
+324
+01:10:49,500 --> 01:10:56,779
+mean? You're a maniac. I'm so glad there are bikes. I can't wait to go off a sick jump.
+
+325
+01:10:56,779 --> 01:11:19,590
+They spawned in. That's not my fault. Like a glove. I just bumped him. He's all right.
+
+326
+01:11:22,220 --> 01:11:27,180
+Give me that. I want a motorcycle. There's so much fun. I love driving around in like GTA
+
+327
+01:11:27,180 --> 01:11:32,229
+type games with motorcycles. I'm going to get it. Oh, are you still on it?
+
+328
+01:11:49,180 --> 01:12:07,289
+I love it. You can just go up on one wheel. Ow. Right up here. And then I do have to steal the truck.
+
+329
+01:12:07,289 --> 01:12:35,619
+Right. Okay. Give me the truck. Not the right truck. Can you get in the canoe? Cargo value.
+
+330
+01:12:35,619 --> 01:13:06,970
+All right. All right. I need to go up here. Harry Potter. Stop. Don't bang up the truck. MCU music.
+
+331
+01:13:19,369 --> 01:13:23,210
+Why did he do that? He was trying to flip me.
+
+332
+01:13:23,850 --> 01:13:39,989
+I'm not going to have anything left. 1.5 thousand. Are you shitting me?
+
+333
+01:13:59,189 --> 01:14:04,149
+Okay. Need at least $500 of cargo. Let's go. I got it. I got it. I get it. I get it. I get it.
+
+334
+01:14:04,149 --> 01:14:11,239
+This is fun. This is fun. He's going to keep the shit in the back. Oh, this is a cool car.
+
+335
+01:14:11,239 --> 01:14:31,270
+That hurt me. This is a fucking Cadillac. All right. Not going to mess it up. So I'm
+
+336
+01:14:31,270 --> 01:14:46,600
+going to try to get as many as I can. Like I can pull it off with like movie wire.
+
+337
+01:14:47,399 --> 01:15:04,810
+That was a matrix scene. What happened? I know. I look, I did it already. I'm already a full step
+
+338
+01:15:04,810 --> 01:15:18,060
+ahead of you. Dammit. I was trying to hit the guy in the head. I will get like a headshot with
+
+339
+01:15:18,060 --> 01:15:31,699
+a bike. I promise you at least once. All right. Cargo. All right. Let's be easy. I'm going to try
+
+340
+01:15:31,699 --> 01:15:42,439
+to get as much as I can here. Why would they just be loose in the back? You can't wrap these up
+
+341
+01:15:42,439 --> 01:15:54,810
+like Saran wrap or something. Where's the bungees to hold these things down? Put a tarp on it. Yeah.
+
+342
+01:15:54,810 --> 01:16:00,310
+That's what I mean. Like tie a tarp down behind here. All this loose shit. You never should
+
+343
+01:16:00,310 --> 01:16:06,920
+carry anything like this. But you always drive by that guy in the highway that's got like a
+
+344
+01:16:06,920 --> 01:16:12,920
+fucking mattress with one bungee on there. And he's going like 40 miles, like 30 miles per hour
+
+345
+01:16:12,920 --> 01:16:17,079
+in the highway. It's like, dude, you can't take a back road. Like what the fuck are you doing?
+
+346
+01:16:22,949 --> 01:16:31,779
+How much is in there? There's still $500. Push it. Can't move.
+
+347
+01:16:45,770 --> 01:16:46,409
+God damn it.
+
+348
+01:16:57,850 --> 01:17:03,210
+All right. Well, it's this guy. This is a deliberate sabotage guy drives across the whole thing.
+
+349
+01:17:03,210 --> 01:17:07,449
+And he tries to, he just murders you, just drives into you from the side.
+
+350
+01:17:15,960 --> 01:17:22,600
+How does it feel to get sabotaged? I feel like that happens quite frequently.
+
+351
+01:17:31,829 --> 01:18:07,800
+I want to go the other direction. Okay. Here we go. Oh, go, go, go. Okay. Do not let the guy
+
+352
+01:18:07,800 --> 01:18:24,149
+in the Mack truck smash into the side of the car. I gotta be the guy in the highway going 30
+
+353
+01:18:24,869 --> 01:18:39,239
+out of the way. All right. When does it happen? And he comes right from the left side.
+
+354
+01:18:39,960 --> 01:18:48,869
+Truck joke incoming. No truck joke, not incoming. This is where truck joke truck. I can't even say
+
+355
+01:18:49,670 --> 01:18:57,560
+here it comes right here. He drives over here. What was that? Did I go over a bump? There it is.
+
+356
+01:18:57,560 --> 01:18:59,800
+All right. He's waiting. He's waiting. He's waiting. This is like an online player.
+
+357
+01:18:59,800 --> 01:19:12,069
+Fuck you, buddy. Not going to happen. Yup. See you later. Watch out for grenades. Now I've got to
+
+358
+01:19:12,069 --> 01:19:14,949
+hold on. I got to take an alternate route. I don't want to go straight up the front.
+
+359
+01:19:15,750 --> 01:19:21,560
+All right. We're going to go this way. We're going to turn good. Okay. Now we're going to bang left.
+
+360
+01:19:27,050 --> 01:19:54,140
+We're going to, we're avoiding that huge barricade. Is that water? Okay. All right. Hey,
+
+361
+01:19:54,859 --> 01:20:11,220
+okay. We're good. I did it. I got $9,000. One of the guns spawned outside the truck.
+
+362
+01:20:12,180 --> 01:20:22,010
+That's unfortunate. Sneak through here. It's okay. It's all right. How do I have 31 health?
+
+363
+01:20:24,760 --> 01:20:49,260
+Okay. Here it is. $9,000. Exit the vehicle. Thank you. Return guns to contract me bonus. $9,000,
+
+364
+01:20:49,260 --> 01:21:05,239
+$9,000. I think it's shooting at me. Didn't I just do a mission for them?
+
+365
+01:21:05,560 --> 01:21:11,300
+Is the head Ruben in there? Didn't I just do this with these guys?
+
+366
+01:21:12,100 --> 01:21:23,020
+Why are they doing this? I'm a dipshit. I was, they were just lighting me up.
+
+367
+01:21:29,689 --> 01:21:36,199
+Wait, I shot at the truck. Yeah. And the cut scene, that doesn't count.
+
+368
+01:21:37,079 --> 01:21:41,819
+I found your missing guns. Now I'd like to talk to Dr. Ruben.
+
+369
+01:21:41,819 --> 01:21:48,119
+The name's Mui. Your boss wants to speak to me. All right. You're the mercilano shot in the ass.
+
+370
+01:21:48,119 --> 01:21:57,220
+Hey, you know what she's got? Tim times gave $50. Thank you, Tim times. That's a huge amount of money.
+
+371
+01:21:59,140 --> 01:22:05,430
+Say thanks for all the laughs. Thanks for the 5,000 bits. Dude. I'm listening.
+
+372
+01:22:05,430 --> 01:22:09,829
+We need you to retrieve. That's fucking crazy. Classified tech. Can't say much.
+
+373
+01:22:14,810 --> 01:22:22,779
+Loving every laugh. Laughing about it. Okay. Action up. The up mercs want a favor before opening the
+
+374
+01:22:22,779 --> 01:22:33,300
+gate. Retrieve their one of a kind vehicle. The Devastator. 25,000. Let's do it. Am I going to
+
+375
+01:22:33,300 --> 01:22:57,430
+have aggro on these guys for the rest of the game? Shit. Okay. Well, it's just the guys outside,
+
+376
+01:22:57,430 --> 01:23:08,539
+right? It's just the guys outside. We're fine. They're not firing. Yeah. They just, they just,
+
+377
+01:23:08,539 --> 01:23:23,829
+they're just angry. All right. Who do I have to talk to? So I don't have to be here.
+
+378
+01:23:41,989 --> 01:23:59,500
+Where is it? That's it. It's X to reverse. That's me.
+
+379
+01:24:02,810 --> 01:24:32,470
+I'm so excited. What? I need to reload. You have got to be kidding me.
+
+380
+01:24:36,970 --> 01:24:50,520
+This isn't funny. This is the Devastator. Okay. You're my hero. So I have to take this fucking thing?
+
+381
+01:24:51,319 --> 01:25:04,890
+Where? This is 25 grand. That means you have to ride the little pink bike.
+
+382
+01:25:05,449 --> 01:25:19,260
+Get out of here. Yeah. Yeah. Yeah. Yeah. Yeah. Yeah. Laugh it up. Nice bike. Huh? None of you
+
+383
+01:25:19,260 --> 01:25:27,989
+dickheads could do what I just did. Everybody just shut their fucking mouth immediately after
+
+384
+01:25:27,989 --> 01:25:39,380
+seeing that. So this is just like, haha, you have to go get this dumb, embarrassing bike.
+
+385
+01:25:40,100 --> 01:26:11,560
+You're doing, I have it. It's okay. Let's move please.
+
+386
+01:26:11,560 --> 01:26:37,399
+$25,000. One of them is, you know, can I just kill one of them? Don't shoot them. Don't shoot
+
+387
+01:26:37,399 --> 01:26:44,899
+them. Don't shoot anybody. Oh wait, I can go in here. Do not attack anybody in here is what you're
+
+388
+01:26:44,899 --> 01:27:17,930
+saying. Don't do that. Wait. Enemies sighted. I'm sorry. I mean, you got the enemies here.
+
+389
+01:27:18,729 --> 01:27:24,739
+She's in the car. What are you doing? Why did he just do that? Why did he just do that?
+
+390
+01:27:26,779 --> 01:27:48,899
+Why did he just do that? You psycho. Oh, he's too smart. He got out. Yeah, he did get out. Outplayed.
+
+391
+01:27:57,289 --> 01:28:01,609
+I can't help it. I love these games. This is so much fun. All right. Wait, wait, wait, wait. I have
+
+392
+01:28:01,609 --> 01:28:12,149
+to go. Ow. What's the X? What's that mean? X, X, X, like a bar filling. What does that mean?
+
+393
+01:28:13,109 --> 01:28:39,659
+Skies as a voice suspicion to keep your disguise up. Open up. All right. I'm going to save, save,
+
+394
+01:28:39,659 --> 01:28:46,180
+save. Oh, shit. You're being completely unreasonable. There's over 2000 people here.
+
+395
+01:28:46,180 --> 01:28:50,579
+How can we possibly get this? All right. There's almost 7000 people here. You got it a little wrong.
+
+396
+01:28:50,579 --> 01:28:56,100
+You got the most expensive haircut here. You must be in charge. You're the
+
+397
+01:28:56,100 --> 01:29:01,300
+mercenary my security people call me about. My name's Marie. Well, I'm glad you're here.
+
+398
+01:29:02,180 --> 01:29:07,619
+This presents a fantastic opportunity. Why are these not right? Universal petroleum. Sure.
+
+399
+01:29:07,619 --> 01:29:11,939
+I'm Dr. Ruben. What a little costume. Anything you need, I can provide. I'm here with only one
+
+400
+01:29:11,939 --> 01:29:17,220
+instruction. Keep the oil flowing. I'm empowered to use any of the all methods. You met with someone
+
+401
+01:29:17,220 --> 01:29:23,060
+I'm looking for. A former mercenary. They call Blanco. I'm familiar with him. When Solano has
+
+402
+01:29:23,060 --> 01:29:31,479
+bad news for us, he sends Blanco. This is really bad stage production. I just memorized my fucking
+
+403
+01:29:31,479 --> 01:29:37,399
+lines and I'm just going to say them. Hopefully you get yours right too. Let's hear it. Arrested
+
+404
+01:29:37,399 --> 01:29:42,840
+strategy of corporate disincentivization. His men kidnapped my marketing VP, Victor Contreras,
+
+405
+01:29:42,840 --> 01:29:46,920
+and are threatening to kill him. I don't think Solano's men are particularly bright. They call
+
+406
+01:29:46,920 --> 01:29:52,039
+me regularly from Victor's cell phone. I'm going to loan you my helicopter. Damn it.
+
+407
+01:29:55,560 --> 01:29:56,920
+It even has Sims music.
+
+408
+01:30:08,630 --> 01:30:10,630
+I can't follow any of that. I have no idea what just happened.
+
+409
+01:30:12,310 --> 01:30:17,479
+Um, okay. These ethugs have kidnapped a universal petroleum executive.
+
+410
+01:30:18,630 --> 01:30:23,909
+Use the provided helicopter to support, to deliver listening posts and then we can track the
+
+411
+01:30:23,909 --> 01:30:37,659
+kidnappers. Oh yeah. Then rescue the hostage $500,000. Is he pretending about the FPS? No,
+
+412
+01:30:37,659 --> 01:30:43,000
+I liked it. I don't want it to be 30. I, it's fine.
+
+413
+01:30:54,140 --> 01:30:59,479
+The first thing you'll have to do is set up three, set up listening posts.
+
+414
+01:31:02,359 --> 01:31:05,079
+I've identified the best places for the listening posts.
+
+415
+01:31:07,770 --> 01:31:10,649
+Okay. Deliver listening posts. We're going this way first.
+
+416
+01:31:11,850 --> 01:31:19,140
+Holy shit. Something just exploded. Save game. Yep. Yep. Yep. Yep. I got it. I got it. I got it.
+
+417
+01:31:24,310 --> 01:31:29,750
+Increase the FPS. Universal petroleum helipilot in the air and ready for your signal.
+
+418
+01:31:29,750 --> 01:31:32,710
+This is going to get hairy Devlin. You ready to dodge air fire?
+
+419
+01:31:35,590 --> 01:31:38,949
+Holy shit. The helicopters just flew into each other. What the hell is going on up there?
+
+420
+01:31:38,949 --> 01:31:40,710
+Did you see that? Wait a minute.
+
+421
+01:31:58,260 --> 01:32:01,539
+An alarm has activated. Give me a break. Blaster bomb.
+
+422
+01:32:06,789 --> 01:32:34,500
+Ow, my head. Okay. I'm going in. What I have to do, listening posts, listening post delivery.
+
+423
+01:32:34,500 --> 01:32:44,779
+Right here. Get in the X wing.
+
+424
+01:32:47,960 --> 01:32:53,979
+One of the most satisfying noises in all cinema history is the quack, quack.
+
+425
+01:32:54,779 --> 01:33:32,069
+Fucking landed on my feet too. Jesus. Where is it? I know I was going on the roof,
+
+426
+01:33:32,069 --> 01:33:43,260
+but then they blasted me off. What happened to it? It's gone. What? I'm so confused. Why is it gone?
+
+427
+01:33:53,020 --> 01:34:12,060
+Good. Good, good, good. All right. I'm almost there. What? He's looking over there like,
+
+428
+01:34:12,060 --> 01:34:18,220
+oh no. Oh shit. Oh, that's not good. It's not good. Oh, it's okay.
+
+429
+01:34:19,100 --> 01:34:35,000
+Listening port. Hello. Let's do it. No shit. Did I do the wrong spot?
+
+430
+01:34:38,420 --> 01:35:02,649
+Switch secondary weapon C4. What is this? All right. Did I turn it on? Do I need that?
+
+431
+01:35:03,210 --> 01:35:13,880
+Do I need that? Somebody tell me. Do I need that thing? Yes, I do. Is it fall damage?
+
+432
+01:35:14,680 --> 01:35:22,180
+Is it fall damage? Yes or no? Fall damage? I need that. It's on the other side of the
+
+433
+01:35:22,180 --> 01:35:50,409
+fence. Fuck. I got him. Buster bomb. What do I do with it? How do I use it? What? What did I just do?
+
+434
+01:35:51,289 --> 01:36:20,439
+Wait, what? Where's the C4 that I threw? It's somewhere over here. I think it exploded.
+
+435
+01:36:20,439 --> 01:36:24,600
+It doesn't matter. I don't even need it. Oh my God. Just go, go, go, go, go. Get in, get in,
+
+436
+01:36:24,600 --> 01:36:46,600
+get in, get in. Good drive. Okay, Ren. Stevie, I'm going to kill you. Switch secondary weapons
+
+437
+01:36:46,600 --> 01:36:53,020
+to equip C4. That's going to be on the screen forever, I think. How do I get that off the screen?
+
+438
+01:36:53,819 --> 01:37:10,229
+How do I get out of here? Equip it? I don't know how to equip it. Switch secondary weapons to equip
+
+439
+01:37:10,229 --> 01:37:20,819
+C4. But I already, I equipped the C4 and I threw it over the cliff. What's going on with this
+
+440
+01:37:20,819 --> 01:37:59,720
+helicopter? Grapple. How do I grapple? I need a grappling hook. What? Right back up. What the
+
+441
+01:37:59,720 --> 01:38:11,659
+hell are you talking about? Whoa, what's this? Collect spare parts. That's $200,000 but no reason.
+
+442
+01:38:12,380 --> 01:38:36,060
+All right, here we go. Right on the beach. It's listening post two. Increase the FPS. I can't.
+
+443
+01:38:36,939 --> 01:38:57,319
+There's no increasing FPS. Get a guy on the turret. Will he get on? Okay, there's one right there.
+
+444
+01:38:57,319 --> 01:39:04,659
+Just take it. I gave you that one. Take that one. All right, make sure your aim is good.
+
+445
+01:39:10,310 --> 01:39:15,060
+You're just shooting up into... All right, well, I didn't even know. I think you aggroed those guys.
+
+446
+01:39:15,699 --> 01:39:43,619
+Money. No, I don't want it. I can't even take it. Come on in. Get it. Get him. Shoot, shoot, shoot,
+
+447
+01:39:43,619 --> 01:39:51,619
+shoot, shoot, shoot, shoot, shoot, shoot, shoot. Shoot him. Shoot him down, please.
+
+448
+01:39:53,079 --> 01:40:09,960
+Shoot him down. Get him. Enemy tank? Oh, you got him. You got him. Good, good, good.
+
+449
+01:40:10,680 --> 01:40:55,850
+Shoot that tank. Steal it. Steal it. Get him. Did he have a ball gag in his mouth? What was that?
+
+450
+01:40:57,020 --> 01:41:14,180
+What was in his mouth? What the hell was that? Wait, I think I... The whole building just came
+
+451
+01:41:14,180 --> 01:41:25,989
+down. Oh, shit. Okay, I'm ready. Use... Listening. Listening. Grenade. Active.
+
+452
+01:41:35,260 --> 01:41:46,979
+This game is literally times two speed. Is it? Is it really though? Like, is it actually?
+
+453
+01:41:57,720 --> 01:42:09,880
+I can't... I cannot change this. This is not changeable. All right, one more.
+
+454
+01:42:09,880 --> 01:42:29,399
+I'm blowing this place up. Look, it's a red thing. How could there be two of you in here?
+
+455
+01:42:31,579 --> 01:42:38,520
+How many people are in there with a rocket launcher? Why does every window have a guy
+
+456
+01:42:38,520 --> 01:43:18,890
+with a rocket launcher in it? Turn on V-sync. Change their voices. No, it's the same, right?
+
+457
+01:43:19,850 --> 01:43:44,310
+Yeah, it's the same. I have a deadline. Move. Like, I'm just complaining about the humidity.
+
+458
+01:43:44,949 --> 01:43:56,619
+Now it looks like it has a Snapchat filter on it. It's... Now it's worse. Hold on. Wait, is it worse?
+
+459
+01:43:57,420 --> 01:44:14,810
+I can't change the refresh rate. It won't let me. Put it on four three. Why would I make it four
+
+460
+01:44:14,810 --> 01:44:28,699
+three? Don't stand in the road, dude. Don't shoot at me. Going to advanced. I don't think I can
+
+461
+01:44:28,699 --> 01:44:35,300
+change this, guys. Advanced. Water effects. Particle level. Motion. Yeah, none of this
+
+462
+01:44:35,300 --> 01:44:53,659
+means anything. Please add me back on Snapchat. No. All right, here we go.
+
+463
+01:44:55,449 --> 01:45:00,279
+V-sync is off again. Yeah, because everyone hated it. All right, this one should be easy.
+
+464
+01:45:13,479 --> 01:45:31,210
+Oh, give me that tank. Three out of three. I got it. Okay. Yeah, I'm destroying this building.
+
+465
+01:45:31,850 --> 01:45:34,729
+This is the guys with the rocket launchers hang out in here. What's in there?
+
+466
+01:45:37,850 --> 01:45:45,699
+Okay. Building destroyed. Wait, what's all this blinking for?
+
+467
+01:45:54,380 --> 01:45:55,659
+Rocket launcher storage.
+
+468
+01:46:05,800 --> 01:46:16,060
+What? Kill the executive? No, no, go. Hijack kidnapper's vehicle and save the...
+
+469
+01:46:16,060 --> 01:46:25,399
+Shoot the... I'm not going to shoot the old lady. Stop.
+
+470
+01:46:32,649 --> 01:46:45,289
+Oh, that's a good guy. Wait. What's a 200 fucking thousand dollars?
+
+471
+01:46:46,729 --> 01:47:18,409
+All right, give me a faster car. I need a bike. Just give me the sedan. Bootleg Star Wars. It is
+
+472
+01:47:18,489 --> 01:47:21,529
+kind of like Star Wars. All right, I only have 11 minutes before this is all done.
+
+473
+01:47:30,859 --> 01:47:37,340
+I love the... Who's in that vehicle? Oh, it's one of ours. Why would they care? They have to check
+
+474
+01:47:37,340 --> 01:47:42,180
+every single car to see if it's one of their friends. Good link. All right, hold on. Wait,
+
+475
+01:47:42,180 --> 01:47:53,750
+wait, wait, wait. Well, here's the problem. I can't click on the link yet because alt-tabbing
+
+476
+01:47:53,750 --> 01:47:56,630
+freezes the game. So we have to wait till I get to... Wait, I have to steal this or what?
+
+477
+01:47:57,430 --> 01:48:07,399
+It'll only be hijacked from the rear. So what, am I supposed to drive up behind and jump out of the
+
+478
+01:48:07,399 --> 01:48:37,239
+car or just wedge him? Check the link. I can't right now. I cannot click a link right now. If
+
+479
+01:48:37,239 --> 01:48:45,420
+I alt-tab, the game will crash. You're going to have to wait until I'm done with this mission.
+
+480
+01:48:57,960 --> 01:49:13,060
+Don't drive into me. This is an armored car. Get out of the way. You're driving on the wrong side.
+
+481
+01:49:13,060 --> 01:49:18,170
+Yeah, I do that in every driving game because it's quicker. You actually get to where you're
+
+482
+01:49:18,170 --> 01:49:25,699
+going way faster. And why is the GPS set incorrectly, by the way? Who put that in?
+
+483
+01:49:27,189 --> 01:49:30,789
+Oh, I just kind of wanted to get you close. Get me close. What do you think I could do?
+
+484
+01:49:30,789 --> 01:49:33,270
+You don't have confidence I can't get you where you're fucking going?
+
+485
+01:49:54,579 --> 01:50:03,100
+All right, quick, get him. Wait, wait, wait. Whoa, whoa, whoa, whoa, whoa. Easy, easy, easy.
+
+486
+01:50:03,899 --> 01:50:19,770
+Can I actually... What? Can I fly this? Oh, just a... This is huge. Where are we going?
+
+487
+01:50:20,489 --> 01:50:44,939
+Who's landing zone? Um, that's dumb. That's dumb. I want to... Why can't I fly it?
+
+488
+01:50:48,539 --> 01:50:58,010
+Okay, come in. I got to spend this money. I have like a million dollars.
+
+489
+01:51:08,439 --> 01:51:09,239
+How does this guy get in?
+
+490
+01:51:18,279 --> 01:51:20,920
+Holding a match in his mouth. He's like smoking a match.
+
+491
+01:51:31,880 --> 01:51:35,720
+Like this dude is... What are you? What are you? Like 15, you go to the gas station, you
+
+492
+01:51:35,720 --> 01:51:39,880
+buy... You just take like the matches and you pretend to smoke the matches. What are you
+
+493
+01:51:39,880 --> 01:51:43,619
+trying to be cool? I don't get it. Is that the only thing you can get from the store?
+
+494
+01:51:43,619 --> 01:51:51,640
+What happened? Wait, did this...
+
+495
+01:51:56,439 --> 01:51:57,640
+We just saw this again.
+
+496
+01:52:09,479 --> 01:52:11,640
+Wake up! Wake up!
+
+497
+01:52:13,800 --> 01:52:20,920
+Okay, here he is. We got him. Good.
+
+498
+01:52:27,750 --> 01:52:36,340
+Is this changing? Skip! Jesus. New shop item. Top supply drop.
+
+499
+01:52:39,899 --> 01:52:51,220
+CQB kit. All right, save game. All right, click on the link now. Let's take a look.
+
+500
+01:52:51,779 --> 01:53:08,810
+What is it? What do you want me to see? Why is everybody spamming? Wait, what is this?
+
+501
+01:53:11,779 --> 01:53:16,819
+Wait, is this somebody like... Are you like watching a presentation in like college?
+
+502
+01:53:33,590 --> 01:53:47,289
+What? Wait, hold on. Why are you doing this? Go back to school. Show it. It's a Twitter video.
+
+503
+01:53:47,289 --> 01:53:56,819
+I can't... Hold on. All right. No, I had... No, no, no, no. This is cute, but like... No,
+
+504
+01:53:56,819 --> 01:54:03,510
+I don't... That's... I don't want to... No, no, no, no. You go look at it. My game is about to
+
+505
+01:54:03,510 --> 01:54:11,909
+actually freeze. I asked the professor a question. Well, I didn't. You're doing an illegal move in
+
+506
+01:54:11,909 --> 01:54:39,770
+college. I think it's broken. Are we in? All right, I'm good. I can't stay tabbed out for too long.
+
+507
+01:54:39,770 --> 01:54:45,479
+He's gonna get disqualified from class. You should be doing your homework and not watching
+
+508
+01:54:45,479 --> 01:55:03,380
+this shitty stream. True. Don't even say that out loud. All right. What about... What about
+
+509
+01:55:03,380 --> 01:55:10,949
+winching? What about a star system? Well, it's a good ques... Wait, get the toolbox above the
+
+510
+01:55:10,949 --> 01:55:29,340
+specified height and you'll win the wager. Am I gonna be too short for this? I let the trans...
+
+511
+01:55:30,970 --> 01:55:42,260
+Um, okay. What the hell was that? You can fly it? Play and retract the winch. You can fly
+
+512
+01:55:42,260 --> 01:55:53,979
+helicopters. Okay, how do we fly this? How do I deploy it? Up, down? Okay, it's left.
+
+513
+01:55:54,619 --> 01:56:16,329
+What am I trying to do? Am I picking up the tree? I got it. Okay, now where am I taking this? What
+
+514
+01:56:16,329 --> 01:56:20,840
+do I... What am I taking this? Out of bounds! Wait, wait, wait, wait, wait. What do you want me to do?
+
+515
+01:56:25,369 --> 01:57:03,979
+What? Target five. Do I just let it go? Did I do it? Hold it at five. Okay, hold it at five. Okay,
+
+516
+01:57:04,060 --> 01:57:53,560
+now what? Stack it. Stack it? Stack crates. I dropped it. Okay, it's off, right? Drop it. All
+
+517
+01:57:53,560 --> 01:58:31,220
+right, go. Why is this one heavier? Okay, what? All right, I got it. I did it. Is that nine meters?
+
+518
+01:58:31,220 --> 01:59:05,979
+What's the goal? Too much? The target is five. Yeah, but I can't go over the target? Okay, two,
+
+519
+01:59:05,979 --> 01:59:18,300
+five. Okay, nine, seven, six. Is that it? It's six. Oh, come on, really? I did it. What are you guys
+
+520
+01:59:18,300 --> 01:59:40,100
+talking about? I did, I won. 1.4 million. Level two, transit. No, no, information about Eva.
+
+521
+01:59:49,060 --> 01:59:54,010
+Okay.
+
+522
+02:00:08,069 --> 02:00:19,140
+Can we get rid of this guy? All right, pistol challenge. Introduction to the Plav sniping
+
+523
+02:00:19,140 --> 02:00:32,439
+challenge. All right, one more. I've set up a sniper course. Destroy the portraits of Solano
+
+524
+02:00:32,439 --> 02:00:43,079
+and destroy Solano's cars. You have to stay on the roof. Okay.
+
+525
+02:00:54,329 --> 02:01:13,659
+How do I zoom in? How do I aim? How do I go into sniper mode? Okay, I got bonus objective updated.
+
+526
+02:01:13,659 --> 02:01:31,989
+Destroy the bonus statue. What? Wait, am I in like a... I'm like stuck in here. That didn't get
+
+527
+02:01:31,989 --> 02:02:04,229
+destroyed. I think it's still possible. Ice cream truck. I can't even shoot these ones. This is so
+
+528
+02:02:04,229 --> 02:02:18,600
+fucked up. What the hell? I didn't even save the game before this either. I'm loaded inside of the
+
+529
+02:02:18,600 --> 02:02:41,770
+wall. I get it. Okay. Maybe I could have jumped up here and... That's so stupid.
+
+530
+02:02:43,619 --> 02:02:48,819
+Whatever. It's 100k. I have 1.3 million. All right, I'm just doing introduction to the Plav.
+
+531
+02:02:49,220 --> 02:02:54,279
+I've got some information on the local corruption. The People's Liberation Army of Venezuela,
+
+532
+02:02:54,279 --> 02:03:00,439
+or PLAV, is a group of leftist radicals. Very radical. They've been hiding out in the
+
+533
+02:03:00,439 --> 02:03:05,880
+jungle for decades. They hate Solano enough to risk direct... What's that laughing face?
+
+534
+02:03:05,880 --> 02:03:09,960
+They're also keen on disrupting Universal Petroleum's business for being
+
+535
+02:03:10,520 --> 02:03:16,600
+willing pawns of the capitalist military... See that? What was that? Whose emote is that?
+
+536
+02:03:16,600 --> 02:03:22,329
+Bella Acosta. She's unusually well-funded, thanks to close ties with the People's Republic of China.
+
+537
+02:03:22,970 --> 02:03:24,250
+She's willing to spend some of their money on world-class mercenaries...
+
+538
+02:03:24,250 --> 02:03:35,560
+It was a laughing face. Yes, that one. What is that? Who is that? All right, I'm ready.
+
+539
+02:03:41,180 --> 02:03:47,100
+Where do I buy things? We could probably go public. Get investors, silk stocks. What do you think?
+
+540
+02:03:47,899 --> 02:03:50,699
+Um, I want to buy something. I have a lot of money.
+
+541
+02:03:51,500 --> 02:04:02,039
+3D streamer refuses to advertise other streamers' emotes.
+
+542
+02:04:03,000 --> 02:04:12,739
+Okay, what is going on here? Destroy targets? This is Eva's Garage and then
+
+543
+02:04:12,739 --> 02:04:20,859
+Southeastern Amazon Outpost. All right, we're gonna go to Eva's Garage. This is very far away.
+
+544
+02:04:20,859 --> 02:04:29,539
+Yeah, where are the clothes? I want to put on something cool. I want to wear a different
+
+545
+02:04:30,180 --> 02:04:50,979
+vest or something. Call a helicopter? Transit. Oh, yeah, yeah, yeah. All right, yeah, I get it.
+
+546
+02:04:52,199 --> 02:05:06,359
+You have to get... It's gas. Do I need to get gas? Easy. Nice. Okay, there we go. All right,
+
+547
+02:05:06,359 --> 02:05:31,289
+I want to go to Eva's Garage. Why can't you go there? Wait, it has to be another helipad
+
+548
+02:05:31,289 --> 02:06:00,500
+that I've already unlocked. Yeah, he gets the picture. Kill him and take it. I don't think I
+
+549
+02:06:00,500 --> 02:06:32,569
+can. Oh, that's where the fuel tanks and money too, right? What do you say? All right, here we go.
+
+550
+02:06:32,569 --> 02:06:36,310
+Wait, is this bad guys or good guys? Good guys. Nice. All right, these guys are friendly.
+
+551
+02:06:38,539 --> 02:06:46,020
+Come get this. Resource pickup. Right here.
+
+552
+02:06:46,260 --> 02:06:53,850
+Solano makes us an offer. Oh, sorry, lady. Universal Petroleum can kiss my ass. I don't care
+
+553
+02:06:53,850 --> 02:07:06,890
+about the oil, just the paycheck. When do we get it? It's very quiet.
+
+554
+02:07:20,260 --> 02:07:24,739
+Good to see one of us made it big. Hold your fire. It's Jennifer Mui. Resource pickup.
+
+555
+02:07:24,739 --> 02:08:04,649
+Okay, get it. What? What happened? You're my hero. What happened? Why do they hate me?
+
+556
+02:08:10,569 --> 02:08:29,420
+Oh, okay. All right. Wait, wait, wait. I need to redo it. I stole the oil. Holy shit,
+
+557
+02:08:29,420 --> 02:09:05,590
+this guy doesn't even care. Wow. I got to track this guy down. Holy shit, he's just going nuts.
+
+558
+02:09:05,590 --> 02:09:14,939
+He's just, he's not stopping. What am I doing? What am I doing? You're right.
+
+559
+02:09:30,729 --> 02:09:47,289
+This is such a long ride. Wait, does the UP organization hate me now? I didn't even do
+
+560
+02:09:47,289 --> 02:10:03,619
+that. I just, I don't, whatever. Why would you do that? What's with these planes flying around?
+
+561
+02:10:04,260 --> 02:10:14,739
+There's red planes that keep showing up on the mini-map. Why can't go up that?
+
+562
+02:10:15,619 --> 02:10:20,180
+How's that? Oh, okay. I was going to say that makes no sense. Trying to shave some time off.
+
+563
+02:10:29,180 --> 02:10:45,109
+Wait, do people know who I am? I guess they kind of do, huh?
+
+564
+02:10:46,979 --> 02:11:05,289
+I'm kind of going too fast to be identified, aren't I? Oh, I made it. I actually went through it.
+
+565
+02:11:05,289 --> 02:11:51,500
+Okay, so far so good. I got 25 bucks. What'd I get $25 for? It's a guy in the driver's side.
+
+566
+02:11:56,119 --> 02:12:16,310
+Okay, let's go. Yeah, this is a shitty gun. I want a new gun. I don't want just like an AK.
+
+567
+02:12:16,310 --> 02:12:30,090
+I want something else. Wait, I can take that, right? Can I? Or am I too far away? Can he
+
+568
+02:12:30,090 --> 02:13:05,590
+actually get this? Steel tank buster. Yeah. Hello? Wait, somebody's shooting. Get on it.
+
+569
+02:13:08,010 --> 02:13:17,340
+Wait, you mean like stand on that? Oh shit, can I do that? I'll try that next time. I'm just going
+
+570
+02:13:17,340 --> 02:13:24,729
+to crouch on it and see what happens. Let me go to the mission first. Am I going to play Ratatouille
+
+571
+02:13:24,729 --> 02:13:35,579
+for the Xbox 360? No, I don't think so. I'm sorry. Why? Play Jump King? I'm not going to play Jump
+
+572
+02:13:35,579 --> 02:13:51,260
+King. I promised. When did I promise that I was going to play Ratatouille? Did I? I don't know
+
+573
+02:13:51,260 --> 02:14:11,050
+why I would ever say that. Money. Is this doing anything? I don't know. Was that a grenade or
+
+574
+02:14:11,050 --> 02:14:21,640
+is that him coming to get this? Okay. This is the best game. Wait, that's the best game ever made.
+
+575
+02:14:21,640 --> 02:14:30,819
+Wait. I forgot. There's another one right here. Don't worry. Ewan stops up. Ewan, come back.
+
+576
+02:14:31,460 --> 02:14:44,710
+He's busy. I know. Come on. Hurry up. Get rid of it so I can do this.
+
+577
+02:14:45,449 --> 02:15:06,010
+Save the game. Yeah, that's a good call. You promised you'd play it in 2012. What? Do it.
+
+578
+02:15:06,729 --> 02:15:35,210
+Did I get the money? The guy drove over it. Come on. Give me a break. Remember when you said you
+
+579
+02:15:35,210 --> 02:15:40,329
+were going to read Diary of a Wimpy Kid to us? You had a dream about that. That's not what happened.
+
+580
+02:15:49,369 --> 02:15:57,659
+Here we go. Mission time. Read it? I'm not going to read Diary of a Wimpy Kid.
+
+581
+02:15:58,060 --> 02:16:04,739
+You, Ava Navarro? I know who you are. What is?
+
+582
+02:16:04,739 --> 02:16:07,699
+You're the mercenary. The one Solano shot in the ass.
+
+583
+02:16:07,699 --> 02:16:09,779
+Solano's goon shot me. I figured you'd come here.
+
+584
+02:16:09,779 --> 02:16:12,979
+What do you mean you figured I'd come here? You're alone. You need help.
+
+585
+02:16:12,979 --> 02:16:16,579
+You go through vehicles quick. Need them repaired. I'm the best-
+
+586
+02:16:16,579 --> 02:16:20,420
+So this is the- You hate Carmona.
+
+587
+02:16:20,420 --> 02:16:22,340
+You hate Solano. You probably need a helicopter pilot.
+
+588
+02:16:22,340 --> 02:16:25,779
+I've got a helicopter pilot. What do you have against Carmona?
+
+589
+02:16:25,779 --> 02:16:27,939
+If you're planning on using airstrikes. I am.
+
+590
+02:16:27,939 --> 02:16:30,819
+Which I figure you are. All right, so you've got a thing against Carmona.
+
+591
+02:16:32,500 --> 02:16:37,299
+No, just because I'm anti-Carmona doesn't mean I'm pro-mercenary.
+
+592
+02:16:37,299 --> 02:16:40,739
+All right, you're available. Otherwise, you'd have kicked me out already.
+
+593
+02:16:40,739 --> 02:16:42,819
+How did you know? What is that going around to?
+
+594
+02:16:42,819 --> 02:16:47,459
+All right, let's see. There's one last job I must finish before I can close up and help you get-
+
+595
+02:16:47,459 --> 02:16:49,940
+I'm Solano. Yeah, I'm building a unique vehicle
+
+596
+02:16:49,940 --> 02:16:54,260
+for a special client. I need help getting the parts and then when it's done-
+
+597
+02:16:54,260 --> 02:16:57,299
+It's funny each time. It's funny every time.
+
+598
+02:16:57,299 --> 02:17:00,819
+And the oil company have a bouncer on me. You don't have a lot of friends, do you?
+
+599
+02:17:00,899 --> 02:17:03,860
+And I heard something about a jet pilot hiding out with a pirate.
+
+600
+02:17:03,860 --> 02:17:06,500
+And when this is done, you'll join me? Probably.
+
+601
+02:17:07,719 --> 02:17:12,280
+Okay, test drive the Acharo de Muerte for Eva.
+
+602
+02:17:13,079 --> 02:17:14,600
+You remind me of me.
+
+603
+02:17:14,600 --> 02:17:21,100
+Oh, the PC version is fucked. Yeah, that's why I got the PlayStation 3 version and I couldn't
+
+604
+02:17:21,899 --> 02:17:23,979
+capture it. I don't know why for no reason.
+
+605
+02:17:23,979 --> 02:17:25,659
+Okay, test drive.
+
+606
+02:17:25,659 --> 02:17:27,819
+Hop in and take her out for a test run for me.
+
+607
+02:17:27,819 --> 02:17:29,500
+Why aren't you driving it?
+
+608
+02:17:30,459 --> 02:17:32,059
+Oh, this is a comedy car. I can't wait.
+
+609
+02:17:40,739 --> 02:17:41,540
+Is this a tuber car?
+
+610
+02:17:46,170 --> 02:17:47,049
+Are you telling me it's a jump?
+
+611
+02:17:48,569 --> 02:17:52,260
+Is this a jump?
+
+612
+02:17:53,059 --> 02:17:53,620
+It better be.
+
+613
+02:17:57,190 --> 02:17:59,510
+You know what kind of car? Okay, I had one of these.
+
+614
+02:17:59,510 --> 02:18:03,670
+I had a car like this where I could flip it over and it would still drive.
+
+615
+02:18:04,629 --> 02:18:08,329
+I'd be driving around and they would just flip the fuck over
+
+616
+02:18:08,329 --> 02:18:11,290
+and I would I could still drive it upside down and right side up.
+
+617
+02:18:12,170 --> 02:18:12,889
+It was awesome.
+
+618
+02:18:13,610 --> 02:18:18,469
+I would drive it this shit over fucking like Clebson.
+
+619
+02:18:19,190 --> 02:18:20,809
+I would drive it all over the place.
+
+620
+02:18:20,809 --> 02:18:22,409
+I'd gone off on the grass and stuff.
+
+621
+02:18:22,409 --> 02:18:23,530
+It was awesome.
+
+622
+02:18:23,530 --> 02:18:24,409
+It was so much fun.
+
+623
+02:18:27,530 --> 02:18:29,290
+No, not a regular car.
+
+624
+02:18:29,290 --> 02:18:31,370
+A like an RC car.
+
+625
+02:18:31,370 --> 02:18:31,870
+Yeah.
+
+626
+02:18:39,110 --> 02:18:39,909
+What was that thing called?
+
+627
+02:18:39,909 --> 02:18:41,670
+It was called like the Reverso or something.
+
+628
+02:18:42,229 --> 02:18:44,389
+Right at the strip line.
+
+629
+02:18:47,559 --> 02:18:48,680
+It was fast, too.
+
+630
+02:18:54,420 --> 02:18:56,340
+I can't believe this is an actual jump.
+
+631
+02:19:02,629 --> 02:19:03,110
+Rebound.
+
+632
+02:19:03,110 --> 02:19:03,670
+That's the one.
+
+633
+02:19:03,670 --> 02:19:04,170
+Yep.
+
+634
+02:19:04,629 --> 02:19:05,510
+That thing was awesome.
+
+635
+02:19:15,690 --> 02:19:16,190
+Works.
+
+636
+02:19:20,389 --> 02:19:20,629
+All right.
+
+637
+02:19:20,629 --> 02:19:21,190
+Rough terrain.
+
+638
+02:19:21,190 --> 02:19:21,690
+Let's see.
+
+639
+02:19:31,659 --> 02:19:32,159
+Crackdown?
+
+640
+02:19:33,260 --> 02:19:37,670
+Too bad that crackdown three was terrible.
+
+641
+02:19:37,670 --> 02:19:38,170
+All right.
+
+642
+02:19:38,629 --> 02:19:50,510
+We're good.
+
+643
+02:19:51,209 --> 02:19:56,299
+Crackdown three was destined to be awful.
+
+644
+02:19:57,180 --> 02:20:00,010
+I don't even remember crackdown two.
+
+645
+02:20:00,809 --> 02:20:03,270
+I remember crackdown one.
+
+646
+02:20:04,069 --> 02:20:08,459
+I never played it.
+
+647
+02:20:11,190 --> 02:20:13,670
+Two was the same mission 12 times.
+
+648
+02:20:13,670 --> 02:20:14,549
+That's unfortunate.
+
+649
+02:20:15,270 --> 02:20:23,100
+Crackdown two was just crackdown one with zombies.
+
+650
+02:20:23,659 --> 02:20:25,780
+Well, they went with that trope, huh?
+
+651
+02:20:28,629 --> 02:20:30,620
+Oh, I have to hit this.
+
+652
+02:20:30,620 --> 02:20:32,059
+I'm not just going to drive it.
+
+653
+02:20:32,059 --> 02:20:33,659
+No, no, no, no, no, no, no, no, no.
+
+654
+02:20:34,540 --> 02:20:38,860
+What is it specifically about this game that is fun?
+
+655
+02:20:41,020 --> 02:20:43,000
+The whole thing.
+
+656
+02:20:43,719 --> 02:20:44,920
+I think it's really fun.
+
+657
+02:20:48,649 --> 02:20:50,170
+Oh, I have 25 seconds.
+
+658
+02:20:50,729 --> 02:20:59,909
+I'm almost there.
+
+659
+02:20:59,909 --> 02:21:00,469
+I'm almost there.
+
+660
+02:21:01,110 --> 02:21:03,799
+Come on, come on, come on, come on, come on, come on, come on.
+
+661
+02:21:03,799 --> 02:21:04,299
+No.
+
+662
+02:21:10,379 --> 02:21:13,180
+It's proof of you saying I was going to play Ratatouille.
+
+663
+02:21:22,180 --> 02:21:22,680
+All right.
+
+664
+02:21:23,219 --> 02:21:27,350
+You know, in my, in my defense, who cares?
+
+665
+02:21:36,809 --> 02:21:37,450
+I do.
+
+666
+02:21:37,450 --> 02:21:40,649
+Yeah, but like in my defense, it's Ratatouille the game.
+
+667
+02:21:42,260 --> 02:21:44,899
+Oh, who, who does it really matter if I played or not?
+
+668
+02:21:45,540 --> 02:21:51,180
+I mean, I'm going to on September fucking like 28th or something.
+
+669
+02:21:51,180 --> 02:21:51,500
+I don't know.
+
+670
+02:21:52,299 --> 02:22:00,819
+He's doing the same joke again.
+
+671
+02:22:02,500 --> 02:22:04,340
+You figured me out.
+
+672
+02:22:04,340 --> 02:22:15,620
+You figured out everything I do with a jump.
+
+673
+02:22:16,180 --> 02:22:20,579
+This is a long mission.
+
+674
+02:22:21,299 --> 02:22:24,629
+This is I guess your hydraulics work.
+
+675
+02:22:24,629 --> 02:22:26,629
+Can I go back to driving a motorcycle?
+
+676
+02:22:36,299 --> 02:22:37,819
+I quit after this mission.
+
+677
+02:22:38,620 --> 02:22:40,059
+That's not going to be me.
+
+678
+02:22:41,020 --> 02:22:44,659
+I want to fly the helicopter.
+
+679
+02:22:44,659 --> 02:22:45,860
+I want to fly the helicopter.
+
+680
+02:22:50,010 --> 02:22:52,729
+No, no, no, no, no, please, please, please, please, please, please, please, please, please.
+
+681
+02:22:53,930 --> 02:22:58,629
+Please, no, why?
+
+682
+02:22:58,629 --> 02:22:59,670
+I don't want to do this again.
+
+683
+02:22:59,670 --> 02:23:00,709
+I don't want to do this again.
+
+684
+02:23:09,059 --> 02:23:17,260
+Oh, my fucking God quit after this mission.
+
+685
+02:23:17,260 --> 02:23:18,459
+No, it's not going to happen to me.
+
+686
+02:23:19,979 --> 02:23:20,459
+No, it's not.
+
+687
+02:23:20,459 --> 02:23:20,620
+Okay.
+
+688
+02:23:20,620 --> 02:23:22,459
+I'm just go, go, go, go, go, go, go, go, go, go.
+
+689
+02:23:34,250 --> 02:23:34,569
+Next?
+
+690
+02:23:34,569 --> 02:23:35,690
+No, but next.
+
+691
+02:23:35,690 --> 02:23:36,190
+What?
+
+692
+02:23:36,809 --> 02:23:38,409
+No, no, no, no, no, no.
+
+693
+02:23:38,409 --> 02:23:39,290
+No, no, just hold on.
+
+694
+02:23:40,090 --> 02:23:52,020
+No, I'm staying here.
+
+695
+02:23:52,020 --> 02:23:56,639
+I'm not this game is fucking fun. Just this fish is stupid. Okay, don't worry
+
+696
+02:23:56,639 --> 02:24:00,159
+We're gonna get up the stupid mission and we're gonna go back to fucking full of grenades and people
+
+697
+02:24:01,079 --> 02:24:14,739
+Cars gonna drive by and I'm gonna get it's gonna hit me and I'm gonna go. Oh, I actually do want to see what else is in
+
+698
+02:24:14,739 --> 02:24:20,530
+The game. I'm having a lot of fun in this one. All right, I don't don't fuck. I have plenty of time
+
+699
+02:24:21,030 --> 02:24:30,860
+It's still challenge if I can do it. I would love to do it. I want to spend money to everything spent a dollar
+
+700
+02:24:31,399 --> 02:24:47,389
+It's definitely like a jetpack or something. I don't fuck Matt. The funniest part about the ratatouille game stream
+
+701
+02:24:48,069 --> 02:24:54,450
+Yeah, well, let's see. I bet you I bet you're like 3,000 or you don't even show up
+
+702
+02:24:54,889 --> 02:25:07,750
+It's like one of the lowest viewed streams in history
+
+703
+02:25:08,469 --> 02:25:13,940
+Play ratatouille do it, but he's actually playing ratatouille. Yeah
+
+704
+02:25:14,940 --> 02:25:18,340
+Oh, I got something else going on today. What's going on?
+
+705
+02:25:18,959 --> 02:25:38,450
+How do I get up there what the fuck wait
+
+706
+02:25:39,530 --> 02:25:48,090
+And then but I have to go back all the way around. I'm not gonna do this. It's gonna fail
+
+707
+02:25:48,729 --> 02:25:56,889
+Have nine seconds to go around the entire course. Oh my god
+
+708
+02:25:57,610 --> 02:26:01,770
+Why did I?
+
+709
+02:26:03,770 --> 02:26:10,649
+Know I'm gonna beat it. I don't care. No, no, no, no, no, I'm playing this. No, it's not gonna happen. I have
+
+710
+02:26:11,309 --> 02:26:15,069
+Okay
+
+711
+02:26:15,989 --> 02:26:19,389
+There is no next game it is only this game
+
+712
+02:26:19,909 --> 02:26:36,000
+Yeah, I'm not gonna quit. I am not gonna quit. I want you to remember who said that
+
+713
+02:26:36,600 --> 02:26:43,180
+All you that think I'm gonna quit it's not gonna happen. I'm gonna play this through until it I beat this
+
+714
+02:26:43,180 --> 02:26:47,260
+I'm not the whole game, but enough till I fly the helicopter into like the
+
+715
+02:26:48,319 --> 02:26:49,399
+car
+
+716
+02:26:49,399 --> 02:27:00,649
+You know, that's gonna be funny. It's good that way. I don't want to do this again. I don't want to do this again
+
+717
+02:27:00,790 --> 02:27:02,790
+I want to play the game
+
+718
+02:27:02,829 --> 02:27:09,079
+Don't fuck it up. Just do it. Normally you have plenty of time
+
+719
+02:27:09,799 --> 02:27:26,719
+Honey, helicopter bit people happy. Yeah
+
+720
+02:27:27,639 --> 02:27:37,629
+I might be able to get in like a plane
+
+721
+02:27:38,229 --> 02:27:42,600
+Like a boat too. I was in a boat in the beginning of the game. It's still more to see
+
+722
+02:27:43,120 --> 02:28:04,840
+Alright, stop this. Here we go playing minecraft after this. We're playing minecraft in like two weeks. Oh
+
+723
+02:28:05,639 --> 02:28:17,889
+Let them flip you
+
+724
+02:28:17,889 --> 02:28:32,600
+Yeah, FTK
+
+725
+02:28:32,620 --> 02:28:37,659
+I'll give you some updates on FTK. It is pretty much ready to go. We have to do some testing on it
+
+726
+02:28:38,219 --> 02:28:41,700
+Here are some of the things that are going to change. I'll tell you right now. You're ready
+
+727
+02:28:42,299 --> 02:28:47,860
+No aging system. No stamina. The goal of the game is not just to walk around with a stick and try to kill me
+
+728
+02:28:49,190 --> 02:28:51,190
+No more three months sub
+
+729
+02:28:52,270 --> 02:28:55,350
+Requirement because I wasn't streaming for two months. So that would be stupid to have that
+
+730
+02:28:55,870 --> 02:28:59,590
+You have to have been subbed when I wasn't streaming. No, you just have to be an active sub
+
+731
+02:29:00,129 --> 02:29:03,649
+It doesn't matter I don't think it matters if you're community sub or a regular sub doesn't matter
+
+732
+02:29:04,649 --> 02:29:18,659
+The food there's no food system. It's going to be a full-on adventure
+
+733
+02:29:19,260 --> 02:29:21,260
+We're gonna do with all of us together
+
+734
+02:29:21,579 --> 02:29:27,219
+Should be a lot of fun. The rules in the game system is completely changed
+
+735
+02:29:27,739 --> 02:29:36,610
+What's FTK? It is favor the king
+
+736
+02:29:37,329 --> 02:29:52,879
+Favor of the king you have to be a two-year sub, but I don't think there'd be very many people that be participating
+
+737
+02:29:53,399 --> 02:30:08,239
+Alright, this is it. This is the end
+
+738
+02:30:12,989 --> 02:30:14,989
+Don't flip over it at the very end, please
+
+739
+02:30:15,889 --> 02:30:18,200
+Why are you taking me through this? Oh
+
+740
+02:30:23,149 --> 02:30:25,469
+That was my entire- he just blew my face-up
+
+741
+02:30:33,530 --> 02:30:35,530
+Wow long is this
+
+742
+02:30:35,530 --> 02:30:41,459
+Wait, I thought- I thought you were supposed to run people over
+
+743
+02:30:42,139 --> 02:30:49,010
+She has not communicated on radio for a while. I don't think she's still talking to me
+
+744
+02:30:49,489 --> 02:31:19,760
+Finish it! Finish it! Finish it! Finish it! Finish it! Finish it! Finish it! Finish it! Finish it! Finish it! This is
+
+745
+02:31:20,159 --> 02:31:22,159
+vision to have an end
+
+746
+02:31:23,319 --> 02:31:30,930
+I don't think this mission has an end come on dude I don't want to do this
+
+747
+02:31:30,930 --> 02:31:33,049
+again all right if I fail this I'm not doing it again I'm going to the other
+
+748
+02:31:33,049 --> 02:31:41,579
+mission I'm gonna piss my pants too I have to piss really badly you were
+
+749
+02:31:41,579 --> 02:31:48,219
+literally at the end that's why would it drive me through a bunch a big bunch of
+
+750
+02:31:48,219 --> 02:32:09,340
+tanks he pants pee pants beef not yet ah you god damn it game why no not you
+
+751
+02:32:09,340 --> 02:32:25,620
+guys this this guy can I repair the car favor you yes that's right favor you you
+
+752
+02:32:25,620 --> 02:32:32,319
+got it you know the deal I'm gonna play yes uh is it weird that I think that
+
+753
+02:32:32,319 --> 02:32:38,840
+because I've had the 3do for like 14 months I'm afraid that its internal
+
+754
+02:32:38,840 --> 02:32:42,200
+battery will not turn on like the console just won't turn on because the
+
+755
+02:32:42,200 --> 02:32:50,870
+it's been in a closet for too long that possible did I burn out the internal
+
+756
+02:32:50,870 --> 02:33:15,299
+battery that isn't the thing okay how old is it 25 years old or something my
+
+757
+02:33:15,299 --> 02:33:21,770
+GameCube died like that that's what I mean yeah you gotta be careful so quick
+
+758
+02:33:21,770 --> 02:33:33,399
+you never know taking so much damage right now how do you not take this
+
+759
+02:33:33,399 --> 02:33:48,659
+damage I have to drive through this shit hello things almost dead this thing is
+
+760
+02:33:48,659 --> 02:34:06,770
+almost gonna explode again 82% but what that meter that meter was going down was
+
+761
+02:34:06,770 --> 02:34:14,579
+that that wasn't a health gauge or anything what was that that it's 82
+
+762
+02:34:14,579 --> 02:34:28,139
+guy uh-huh left at the bridge don't go down the bridge thank you I'll go off
+
+763
+02:34:28,139 --> 02:34:31,700
+don't go off don't go off don't go off please don't go off okay I'm fine I'm
+
+764
+02:34:31,700 --> 02:34:45,680
+good I'm fucking confident and cool I'm letting any rocks
+
+765
+02:34:45,680 --> 02:34:56,659
+you're rejects one you're rejects two all right this is where it got hairy last
+
+766
+02:34:56,659 --> 02:35:07,219
+time this gex even any fun that was the man the gex is the Mario of the 3do
+
+767
+02:35:07,219 --> 02:35:12,739
+that was their mascot back then animals and and like little fat guys were but
+
+768
+02:35:12,739 --> 02:35:18,020
+mascots stop talking for a second Jeremy please for the love of God don't speak
+
+769
+02:35:18,020 --> 02:35:33,610
+just go get off of you can I am I all right I'm all right okay okay okay okay
+
+770
+02:35:33,610 --> 02:35:50,180
+what did you shoot that at am I about to beat them the missile what was that that
+
+771
+02:35:50,180 --> 02:35:56,319
+was weird kill the gunner to hijack the tank I don't care about the tank I just
+
+772
+02:35:56,319 --> 02:36:01,260
+want to complete this all right get the scooby-doo mystery vans out of the way
+
+773
+02:36:01,260 --> 02:36:17,899
+please that oversaturated market that's it I went thanks God mark the car inside
+
+774
+02:36:17,899 --> 02:36:35,100
+the garage all right I'm not gonna fuck I can't fuck around right now
+
+775
+02:36:54,610 --> 02:37:00,530
+beautiful down boy Ava is a mechanic uh-huh can you do jets and tanks I can
+
+776
+02:37:00,530 --> 02:37:16,170
+fix anything with an engine welcome aboard do I have to work with him crap
+
+777
+02:37:16,170 --> 02:37:24,209
+whoo yep yep grappling hook grappling hook how do I get it do shop do I finally
+
+778
+02:37:24,209 --> 02:37:28,430
+get to buy stuff I have 1.5 million dollars I'm just working on I don't
+
+779
+02:37:28,430 --> 02:37:32,209
+care your storyline does not mean anything to me I just want to buy things
+
+780
+02:37:32,250 --> 02:37:59,239
+okay custom-built monster truck 40,000 oh I buy 38 of them what happens if I buy
+
+781
+02:37:59,239 --> 02:38:28,549
+38 what happens anybody know well will they all spawn outside I do it Jesus
+
+782
+02:38:28,549 --> 02:38:55,620
+all right where are they you just have they just boxes okay you just get them
+
+783
+02:38:55,620 --> 02:39:06,959
+dropped okay well then fuck that I'll buy one and they get the grappling hook
+
+784
+02:39:06,959 --> 02:39:14,940
+that is the number one thing that I'm doing right now where do I get the
+
+785
+02:39:14,940 --> 02:39:30,600
+grappling hook get it right he'd I have it already oh great Lord Walden just
+
+786
+02:39:30,600 --> 02:39:37,920
+came in with 20 community subs 20 committed back to the 20 subs dude great
+
+787
+02:39:37,920 --> 02:39:43,780
+Lord Walden appreciate it hey boss I'm just working on this you know I'm not
+
+788
+02:39:44,260 --> 02:39:57,780
+some that's some free shit for you and some free money for me I want to actually
+
+789
+02:39:57,780 --> 02:40:18,049
+try to do this don't put me into the water god damn it I'm just doing that
+
+790
+02:40:18,049 --> 02:40:26,000
+I'm just doing the next mission I'm just gonna do the next mission we're gonna
+
+791
+02:40:26,000 --> 02:40:36,489
+gonna be sick use cheat codes it's more fun well not yet so you tell me I have
+
+792
+02:40:36,489 --> 02:40:41,739
+the grappling hook now I just own it all right PMC what are the missions are
+
+793
+02:40:41,739 --> 02:41:04,610
+there stockpile go to the stockpile talk to Eva hey boss let's talk the
+
+794
+02:41:04,610 --> 02:41:07,889
+grappling hook I gave you will come in handy if you want to hijack a helicopter
+
+795
+02:41:07,889 --> 02:41:12,049
+oh yeah point and shoot yes yanked up to the bird
+
+796
+02:41:12,049 --> 02:41:17,170
+however getting the pilot out of his seat once you're up there that's oh I
+
+797
+02:41:17,209 --> 02:41:22,329
+cannot wait all right information about Misha remember the jet pilot I told you
+
+798
+02:41:22,329 --> 02:41:25,930
+about I've never met him but he's supposed to be pretty good he's hanging
+
+799
+02:41:25,930 --> 02:41:39,270
+out with the pirates apparently okay let's go get him what do you think he's
+
+800
+02:41:39,270 --> 02:41:47,260
+up here how I'm gonna get over there I'm gonna have to take a helicopter there to
+
+801
+02:41:47,420 --> 02:41:59,489
+this thing all right let's go take a helicopter wait there was five tier two
+
+802
+02:41:59,489 --> 02:42:07,340
+subs there was paper box thanks for the five tier two subs that's ten dollars
+
+803
+02:42:07,340 --> 02:42:15,620
+each for those when people can do community subs for tier two or two or
+
+804
+02:42:15,620 --> 02:42:33,120
+three it's insane that's so much money what's happening oh you can fall through
+
+805
+02:42:33,120 --> 02:42:40,959
+the map and it happened again it's twenty thousand dollars down the toilet
+
+806
+02:42:41,000 --> 02:43:19,690
+oh please come on this should I go up this side oh my god why no shit this
+
+807
+02:43:19,690 --> 02:43:23,010
+thirty thousand dollars down the drain how do I what am I supposed to do about
+
+808
+02:43:23,010 --> 02:43:37,129
+this I'm set to quit you won't lock the FPS didn't we know I don't want to play
+
+809
+02:43:37,129 --> 02:43:49,159
+online I'm taking a piss I can't even leave this I'll be back I'm peeing bye
+
+810
+02:43:49,200 --> 02:47:02,110
+okay I'm back hello I'm gonna try to actually leave the room again for the
+
+811
+02:47:02,110 --> 02:47:16,540
+shot okay cool three two wait that's like clockwork I had another dream but I
+
+812
+02:47:16,540 --> 02:47:24,489
+sincerely don't remember what it was I'm at the FPS all right I'm gonna show you
+
+813
+02:47:24,489 --> 02:47:34,450
+this one more time because people look this can't move I cannot move this hear
+
+814
+02:47:34,450 --> 02:47:43,829
+me do you hear that I can't move it do it on the main menu yeah we're on v-sync
+
+815
+02:47:43,829 --> 02:47:50,290
+I can't I can't do it I can't look oh I didn't do it before I turned this on
+
+816
+02:47:50,290 --> 02:47:56,510
+everybody fucking hated it everybody told me this looks like a snapchat
+
+817
+02:47:56,510 --> 02:48:07,399
+filter you must what if I was faking it that would be so stupid all right I have
+
+818
+02:48:07,399 --> 02:48:13,700
+the information about me sure okay good what do you think I put this in a jeep
+
+819
+02:48:13,700 --> 02:48:30,799
+zero to 200 in one second here we go I'm working download the patch patch all
+
+820
+02:48:30,799 --> 02:48:37,639
+right there we go we're good look it works here's the thing I don't know if
+
+821
+02:48:37,639 --> 02:48:46,930
+it worked I'll tell you one reason why I think we just got lucky cuz remember
+
+822
+02:48:46,930 --> 02:48:51,020
+why I came out here before without the limiter and it was fine if the patch or
+
+823
+02:48:51,020 --> 02:49:10,760
+here we go let's go transit and then we're gonna grapple hook them you can't
+
+824
+02:49:10,760 --> 02:49:20,700
+grapple hook all right we're going up here what happened up here why where's
+
+825
+02:49:20,700 --> 02:49:29,760
+my where's my helicopter pad what where's the helicopter pad they hate me
+
+826
+02:49:29,760 --> 02:49:34,659
+now oh god damn it are you serious wait just give me I'm taking ready when you
+
+827
+02:49:34,659 --> 02:49:38,659
+are just give me give me give me give me it get out of the get out get out get
+
+828
+02:49:39,540 --> 02:49:53,110
+out it's mine now we got a raid raid from raid from John Silver what's up John
+
+829
+02:49:53,110 --> 02:49:58,659
+welcome everybody those that don't know John Silver is gonna be doing a lot of
+
+830
+02:49:58,659 --> 02:50:03,139
+the artwork where they choose your own adventure game what how what happened
+
+831
+02:50:03,139 --> 02:50:08,159
+hold on settle down those either don't know a choose your own adventure custom
+
+832
+02:50:08,159 --> 02:50:16,319
+sorcery like board game is being made right now John Silver is gonna be doing
+
+833
+02:50:16,319 --> 02:50:21,600
+some of the art Ashley is too and stars gonna be making the whole game itself
+
+834
+02:50:21,600 --> 02:50:25,639
+they've all been commissioned out it's gonna be a lot of fun
+
+835
+02:50:25,639 --> 02:50:39,200
+story that's right yeah my star underscore that's the guy something I've
+
+836
+02:50:39,200 --> 02:50:41,959
+been wanting to do it something I've wanted to do for a long time at least the
+
+837
+02:50:41,959 --> 02:50:45,760
+last like probably a couple of years but it was never really an opportunity to do
+
+838
+02:50:45,760 --> 02:50:54,180
+it but now there is but I think welcome everybody from John's channel John
+
+839
+02:50:54,219 --> 02:50:58,180
+Silver does art on stream and he's incredibly talented he's insanely
+
+840
+02:50:58,180 --> 02:51:15,020
+talented check it out sometime I'm gonna try this now disturbingly talented
+
+841
+02:51:15,020 --> 02:51:25,079
+uh is this thing on fire how did you even know I was gonna be over here I
+
+842
+02:51:25,159 --> 02:51:58,610
+take the boat who is shooting wait what there's a JK shoot him I can't turn it
+
+843
+02:51:58,610 --> 02:52:22,989
+around holy shit all right let's get it all right I'm gonna try to stay on this
+
+844
+02:52:22,989 --> 02:52:29,209
+Lego racer 2 waiting room what if I just changed scenes right now and it was a
+
+845
+02:52:29,209 --> 02:52:41,659
+Lego racer 2 oh that didn't work that person would just start choking on
+
+846
+02:52:41,659 --> 02:52:47,690
+whatever they were eating I push this back in the water okay well very
+
+847
+02:52:47,690 --> 02:52:53,709
+clearly I need to go across the water so I get this back in the water I don't
+
+848
+02:52:53,709 --> 02:53:22,399
+think so yeah I can took a hit go let's go let's go scream it right scream it
+
+849
+02:53:22,440 --> 02:53:47,700
+let's go did I do my best let's go wait this guy's in a tiny little but I want
+
+850
+02:53:47,700 --> 02:54:26,500
+this just give me it I'm just around am I drowning this guy oh no okay give me
+
+851
+02:54:26,500 --> 02:54:48,170
+the boat get it I'm trying okay it's he's fine he's fine he's fine okay how
+
+852
+02:54:48,170 --> 02:54:59,940
+can I steal this I'm just doing magic tricks for this guy now okay just get
+
+853
+02:54:59,940 --> 02:55:26,500
+him oh no go on go on let's do the thing go on get out of here goodbye why
+
+854
+02:55:26,500 --> 02:55:50,139
+is it not detonating why is it not detonating you have to be you can't be
+
+855
+02:55:50,139 --> 02:56:10,489
+driving a car he's alive he is not alive wait is that the same guy no it's not
+
+856
+02:56:10,489 --> 02:56:20,069
+that was $5,000 okay I'm just doing the mission let's go go mission mission
+
+857
+02:56:20,069 --> 02:56:50,500
+mission mission mission why did you do that I don't know sink the oil platform
+
+858
+02:56:50,500 --> 02:57:01,979
+no not yet let's fucking go I can't the jet ski wait if it's actually a jet ski
+
+859
+02:57:01,979 --> 02:57:06,540
+I want to I actually want that no like fucking around and be an idiot it's a
+
+860
+02:57:06,540 --> 02:57:17,340
+jet ski it's not but whatever I want it I actually really want to drive this
+
+861
+02:57:17,340 --> 02:57:36,420
+oh no he's gonna get crushed he's not looking pay attention in front of you he
+
+862
+02:57:36,420 --> 02:57:40,020
+made it holy shit I can't believe you made it I want that wait should I get
+
+863
+02:57:40,020 --> 02:57:43,139
+the huge one no I'm done I'm done I'm done I'm gonna go I gotta move I have to
+
+864
+02:57:43,139 --> 02:58:01,299
+play oh my fuck I'm just just I don't care I have to get out of here I have
+
+865
+02:58:01,299 --> 02:58:21,159
+to stop us at once no no way I can go in the back no what just happened why
+
+866
+02:58:21,520 --> 02:58:39,270
+dolphin dive get on the fucking thing why is half of it underground wake up
+
+867
+02:58:39,270 --> 02:58:48,299
+I'm what I'm trying to get on this boat I promise this is not an act what oh
+
+868
+02:58:48,299 --> 02:59:12,709
+okay I want it it's happening okay I don't know what's going on I don't get
+
+869
+02:59:12,709 --> 02:59:35,549
+it the boat can't be moving um fucking great wait a rescue thank you I'm here
+
+870
+02:59:35,629 --> 03:00:11,170
+uh I can't I can't I got it yeah why is this guy still next to me I know what to
+
+871
+03:00:11,170 --> 03:00:14,329
+do next I'm just current I'm just dicking around you never dicked around
+
+872
+03:00:14,329 --> 03:00:28,790
+before Eva come on you never just jumped into random boats before okay here we go
+
+873
+03:00:28,790 --> 03:00:40,190
+good okay I mean you got it I gotta see if I can hit the head by this
+
+874
+03:00:40,190 --> 03:00:53,149
+everybody has that's a sniper that's a sniper rifle I'm in trouble where is he
+
+875
+03:00:53,149 --> 03:01:06,590
+oh shit but these are these guys my friends right wait no they hate me they
+
+876
+03:01:06,590 --> 03:01:20,129
+hate me on the boss don't call a boss what do you mean call on the boss put the
+
+877
+03:01:20,129 --> 03:01:52,500
+phone down I'm calling mom we're almost at the next mission I promise you money
+
+878
+03:01:52,500 --> 03:01:58,989
+I don't even care about the money I can't spend it anywhere anyways mom said
+
+879
+03:01:58,989 --> 03:02:05,450
+it's my turn in the armored car it's another goddamn ocean how far away am I
+
+880
+03:02:05,450 --> 03:02:39,739
+oh shit dude what the hell was that mayday mayday mayday person in need person
+
+881
+03:02:39,739 --> 03:03:56,370
+in need what what is this where did it with the boat it's not still alive I
+
+882
+03:03:56,370 --> 03:04:05,520
+just I'm yes I'm trying to get it got stronger I'm just trying to get to the
+
+883
+03:04:05,520 --> 03:04:19,299
+stupid next part of the game was dissolved I have fast travel if I the
+
+884
+03:04:19,299 --> 03:04:23,020
+fast travel location that I could go to that they hate me now I don't know what
+
+885
+03:04:23,020 --> 03:04:27,500
+even happened I stole their like oil and they had like an oil can and I took it
+
+886
+03:04:27,500 --> 03:04:31,260
+from them and they all freaked out and then I was just defending myself and I
+
+887
+03:04:31,260 --> 03:04:42,639
+did like ten people attacked me and I threw a grenade up there and then too
+
+888
+03:04:42,639 --> 03:04:51,489
+much ADHD to make it to the next mission what the hell even am I I'm almost there
+
+889
+03:04:51,969 --> 03:05:09,639
+all right look is shooting at me with no don't knock it all down you idiot what
+
+890
+03:05:09,639 --> 03:05:37,489
+just hit me for that much damage damn it just look how many wait just go what do
+
+891
+03:05:37,489 --> 03:05:53,059
+you mean just go there's like 50 people on this boat there we go there we go
+
+892
+03:05:53,059 --> 03:06:04,940
+there we go please do you like yeah there's a there's currently a guy in
+
+893
+03:06:04,940 --> 03:06:31,780
+the machine gun spot I jacked the helicopter I mean my mouth they sacrificed
+
+894
+03:06:31,780 --> 03:06:54,500
+it shit okay now can I make those guys at the up facility like me again I'm
+
+895
+03:06:54,500 --> 03:07:06,579
+gonna try to do that damn it up to Fiona and bribe them who's Fiona by a
+
+896
+03:07:06,579 --> 03:07:33,750
+helicopter I don't I can bribe faction universal truth that's too that was a
+
+897
+03:07:33,750 --> 03:07:44,180
+lot that was six that was three hundred fucking thousand dollars okay I'm for a
+
+898
+03:07:44,180 --> 03:07:53,639
+transport let's go I want to transport to here that's give me it come on
+
+899
+03:07:53,680 --> 03:08:06,540
+transit you also have a helicopter available to have delivered it's called
+
+900
+03:08:06,540 --> 03:08:20,600
+the Raven do I hey the lucky ladies ready when you are go to your stockpile
+
+901
+03:08:20,600 --> 03:08:33,010
+let's check that in a little bit okay there we go on universally hated here
+
+902
+03:08:33,010 --> 03:08:38,260
+now I have to set the get to here shouldn't be that difficult to get to
+
+903
+03:08:38,260 --> 03:09:05,739
+here you stockpile used up how do I get to that stockpile vehicles light
+
+904
+03:09:05,739 --> 03:09:19,899
+military airstrikes artillery strike supplies CQB kit I have oh I have this
+
+905
+03:09:19,899 --> 03:09:30,010
+now what do I get the CQB kit oh yeah give me I'll take a shotgun
+
+906
+03:09:36,399 --> 03:09:46,860
+race that was a waste why it's an I guess a shotgun I really just kind of
+
+907
+03:09:46,860 --> 03:10:01,510
+we just did like the Saturday morning paperboy thing huh I open it how do I
+
+908
+03:10:01,549 --> 03:10:07,489
+open the crate
+
+909
+03:10:11,250 --> 03:10:24,459
+oh it's like seven boats in here what are the weapons are here the still
+
+910
+03:10:24,459 --> 03:10:37,870
+shotgun and transit see okay car oh yeah that's right they don't hate me I can
+
+911
+03:10:37,870 --> 03:10:44,340
+take one of these wait should I take one of the cool cars yeah let me see what
+
+912
+03:10:44,379 --> 03:10:56,209
+was here okay vehicles light military vehicle let's do it the Raven didn't
+
+913
+03:10:56,209 --> 03:11:29,030
+somebody say this is here comes all right can I return it it's the same car
+
+914
+03:11:29,030 --> 03:11:33,420
+as all the other ones but this one is mine though so that's there that's the
+
+915
+03:11:33,420 --> 03:12:02,909
+difference okay I fire from here now move a ZVZ base all right here we go you
+
+916
+03:12:02,909 --> 03:12:11,489
+honk other people get in the driver's seat that's awesome what is that kill
+
+917
+03:12:11,489 --> 03:12:30,690
+or capture HVT gotta verify this guy keep them alive I'm using a pistol against
+
+918
+03:12:30,690 --> 03:13:17,260
+a fucking heavy machine gun what the fuck wait we're 8mg what is this all
+
+919
+03:13:17,260 --> 03:13:32,139
+right where's this dude it's like up there maybe just have to go around all
+
+920
+03:13:32,180 --> 03:13:41,040
+right I just have to subdue him don't kill him it's right up here trying to
+
+921
+03:13:41,040 --> 03:13:47,129
+drive through his house but that didn't really work now did it just get out get
+
+922
+03:13:47,129 --> 03:14:01,340
+out get out get out get out get out where is he right there okay
+
+923
+03:14:01,340 --> 03:14:32,940
+subdued oh this is bad I gotta carry this guy you're not gonna shoot him
+
+924
+03:14:33,299 --> 03:14:56,379
+kill you know I'm going to kill you wait I need that car okay wait no holy
+
+925
+03:14:56,379 --> 03:15:21,540
+shitty best come here what do you have that kind of aim fuck off this is
+
+926
+03:15:21,540 --> 03:15:53,920
+unbelievable Jesus oh my god wait wait wait wait wait wait context menu wait
+
+927
+03:15:53,920 --> 03:16:41,129
+wait wait wait wait this load him I got him I got him I got him I got this guy
+
+928
+03:16:41,129 --> 03:16:48,590
+is ruining everything this guy is playing his own video game all right I've
+
+929
+03:16:48,590 --> 03:17:09,629
+had enough I've had enough of you okay all right come with that where's that
+
+930
+03:17:09,629 --> 03:17:35,780
+guy extract him extract I don't want to start screaming I'm gonna be mellow
+
+931
+03:17:35,819 --> 03:17:52,940
+all right one out of ten what am I doing why am I doing this can I climb what
+
+932
+03:17:52,940 --> 03:18:05,450
+happens if I I can't even aim the camera anywhere I can't even I can't look down
+
+933
+03:18:05,450 --> 03:18:19,940
+all I can do is stop grappling and I don't think I want to do that steal
+
+934
+03:18:19,940 --> 03:18:27,719
+this helicopter I can't drop now I'm over water I don't want to drop in water
+
+935
+03:18:28,079 --> 03:18:36,340
+wait where we going wait there's another one of those all right I can look I'm
+
+936
+03:18:36,340 --> 03:18:44,120
+gonna get another one of these why is he going over here there a reason why this
+
+937
+03:18:44,120 --> 03:18:53,139
+dude is dropping over here all right I'm gonna drop right up assume the escort
+
+938
+03:18:53,139 --> 03:19:33,399
+submission position very you piece of shit so I'm doing data here okay I'm get
+
+939
+03:19:33,399 --> 03:19:44,159
+this one too it's wrong but wrong button wrong button I tried to verify him take a
+
+940
+03:19:44,159 --> 03:19:55,459
+picture of his dead body apparently can I pick him up can you take this instead
+
+941
+03:19:55,459 --> 03:20:30,700
+uh I'm waiting for waiting for him to move they're not gonna be mad at me
+
+942
+03:20:30,700 --> 03:21:07,489
+right nope wrong way I mean I have to cross the water that's just a fact is
+
+943
+03:21:07,489 --> 03:21:21,079
+there any way I can cross the water without being in a boat that is pretty
+
+944
+03:21:21,079 --> 03:21:33,920
+good that is what somebody would be saying plane all right I have to have
+
+945
+03:21:33,959 --> 03:21:40,059
+to swim let's just go drive into the lake I know just trying to see if there's
+
+946
+03:21:40,059 --> 03:22:03,280
+anything else over here hold on what is this who omega well who that's exactly
+
+947
+03:22:03,280 --> 03:22:05,479
+what I do when I try to pretend like I'm doing something in battlefield
+
+948
+03:22:05,479 --> 03:22:20,450
+battlefield is it's impossible that game is I don't know how people play it and do
+
+949
+03:22:20,450 --> 03:22:25,620
+well all I do is just kind of shoot regular bullets at buildings and in
+
+950
+03:22:25,620 --> 03:22:28,340
+random tanks and stuff and I just go well I'm just kind of participating
+
+951
+03:22:28,340 --> 03:22:32,219
+there's like probably four people playing against three people in
+
+952
+03:22:32,299 --> 03:22:39,260
+battlefield and then like 55 people are just shooting at random buildings or
+
+953
+03:22:39,260 --> 03:22:43,819
+just or they're like one of the five people in the tank that just die from
+
+954
+03:22:43,819 --> 03:22:53,540
+bidding just shot by anti tank stuff all right I got it I actually made it I
+
+955
+03:22:53,540 --> 03:23:10,270
+actually made it here on I'm gonna go for the captain they have to open the
+
+956
+03:23:10,270 --> 03:23:26,829
+door wait there is open the door wait can this guy not stand up in the boat
+
+957
+03:23:26,870 --> 03:23:36,049
+no no stop that's all I'm gonna let stand up I'm gonna be smacking this guy
+
+958
+03:23:36,049 --> 03:24:02,579
+around it was well hell yeah I did it destroy this target all right so what I
+
+959
+03:24:02,579 --> 03:24:31,100
+just throw what what happened to the mission I was supposed to do you're
+
+960
+03:24:31,100 --> 03:24:36,889
+fighting somebody not anymore they're fighting me I've marked one of the
+
+961
+03:24:36,889 --> 03:24:44,090
+buildings of such a good throw unbelievable get me up on just get me
+
+962
+03:24:44,090 --> 03:24:55,920
+up all right just run we had ten community subs from VARX and ten from
+
+963
+03:24:55,920 --> 03:25:02,159
+really funky really fun guy that's a good hit by a car and there it is
+
+964
+03:25:02,159 --> 03:25:13,450
+thanks this up okay here we go I've destroyed this building you got it I do
+
+965
+03:25:13,450 --> 03:25:42,180
+from the inside god damn it I have airstrikes airstrike
+
+966
+03:25:42,180 --> 03:25:51,319
+ooh artillery strike I'll take it okay drop me an artillery strike here
+
+967
+03:25:51,360 --> 03:26:05,899
+ready like it all right now get me the fuck off this dock it's 100k nice all
+
+968
+03:26:05,899 --> 03:26:30,940
+right don't let him do it again don't let him do it again fun what is this the
+
+969
+03:26:30,940 --> 03:26:45,959
+division come on dude pretty good all right now I can see it and then 140 gas
+
+970
+03:26:45,959 --> 03:27:02,450
+I don't have enough gas all right I gotta go that way I'm going that way now
+
+971
+03:27:02,450 --> 03:27:07,799
+I'm in a big lunch mood right now what do you guys think for lunch what's a
+
+972
+03:27:07,799 --> 03:27:13,549
+lunch that you guys like tell me a lot a good lunch no not taquitos that's not a
+
+973
+03:27:13,549 --> 03:27:19,940
+good lunch thing right now I know not steak I'm not pizza not McDonald's the
+
+974
+03:27:19,940 --> 03:27:26,170
+ham and Swiss that's not a bad lunch chickpea fries that sounds amazing I
+
+975
+03:27:26,170 --> 03:27:42,799
+don't know look into that a sub good to old pork sandwich that sounds pretty good
+
+976
+03:27:42,799 --> 03:27:51,780
+too the cheese omelet hey hold on a minute about an omelet with mushrooms in
+
+977
+03:27:53,979 --> 03:28:11,110
+mushroom omelet hmm this is the pirate HQ western-style omelet that sounds good
+
+978
+03:28:11,110 --> 03:28:23,860
+too is the place I need to go inside of this dome so far away still how did I if
+
+979
+03:28:23,860 --> 03:28:36,430
+I die it's gonna be so sad buffalo wings mmm not into a hot sauce right now why
+
+980
+03:28:36,430 --> 03:28:46,780
+am I swimming because there's not a boat within a hundred meters eat pure lard
+
+981
+03:28:46,780 --> 03:29:03,229
+those are jet skis I unlocked the jet ski they are I'm gonna get one oh yeah
+
+982
+03:29:03,229 --> 03:29:14,549
+this one right here on the left is ours drive the little dimba move yep oh yeah
+
+983
+03:29:14,549 --> 03:29:58,969
+this is awesome oh it's already gone she really helped me I chipped over how is
+
+984
+03:29:58,969 --> 03:30:23,149
+he getting on it okay why is he doing this hi can we give him a push all right
+
+985
+03:30:23,149 --> 03:30:47,430
+I'm gonna give these guys a push we gotta get these guys into the water we're
+
+986
+03:30:47,430 --> 03:31:00,819
+good okay once they get in the water they're gonna be really happy I promise
+
+987
+03:31:00,819 --> 03:31:24,420
+god damn it needs to be some don't bump into anybody get out of the way move
+
+988
+03:31:24,420 --> 03:31:50,459
+what are you doing get it what are you doing I can't just drag it into the
+
+989
+03:31:50,459 --> 03:32:04,420
+fucking ocean I need okay I need a smaller car wait no I don't I can do
+
+990
+03:32:04,420 --> 03:32:19,950
+with my body god damn it all right I need something small they have a bike
+
+991
+03:32:19,950 --> 03:32:29,260
+or something it's so close I just have to get it in there let me try it back
+
+992
+03:32:29,260 --> 03:32:43,639
+into it that's the way that's the strategy it's definitely the way to do
+
+993
+03:32:43,639 --> 03:33:02,469
+it bingo we got it someone look behind me they're gonna take off and it's gonna
+
+994
+03:33:02,469 --> 03:33:07,930
+be so awesome it'll be worth it where they're gonna just ride into the sunset
+
+995
+03:33:17,569 --> 03:33:39,379
+oh oh they're not dead they're fine mission success all right now go wait
+
+996
+03:33:39,379 --> 03:33:52,700
+hold on they're on the truck wait what's what he did all right go do it move you
+
+997
+03:33:52,700 --> 03:33:59,250
+guys are in the we are in the ocean go be free go be like just go to the ride
+
+998
+03:33:59,250 --> 03:34:32,930
+of the Sun do something what I killed that guy what's going on I don't care
+
+999
+03:34:32,930 --> 03:34:37,790
+get rid of it it's gonna the streams gonna do real like four hours what
+
+1000
+03:34:38,270 --> 03:34:41,840
+oh shit start the mission start the mission shut I gotta start the mission
+
+1001
+03:34:41,840 --> 03:35:02,979
+now it's quicker go go go go start the mission thought they were gonna drive
+
+1002
+03:35:02,979 --> 03:35:09,299
+away come on you gotta give me like that what I gotta try right what do you want
+
+1003
+03:35:09,299 --> 03:35:15,340
+I'm looking for a jet pilot Misha Misha's the jet pilot I am the jet pilot
+
+1004
+03:35:15,340 --> 03:35:23,760
+you're the who's Misha I am the jet pilot is me Misha is me jet pilot I fly
+
+1005
+03:35:23,799 --> 03:35:32,360
+jets you can fly jet yes I fly jets I fly any jet you got fly all over the
+
+1006
+03:35:32,360 --> 03:35:37,680
+world any conditions don't matter got my and I fly a jet I really hope so
+
+1007
+03:35:37,680 --> 03:35:42,840
+let's say you call me once you sober up I don't sober up you don't sober up not
+
+1008
+03:35:42,840 --> 03:35:49,639
+if I can help it you see my jet you would not fly it sober wait as this guy
+
+1009
+03:35:49,639 --> 03:36:04,360
+trying telling me that he's driving drunk in an airplane very bad
+
+1010
+03:36:20,840 --> 03:36:25,799
+I drop bomb in the right place but is wrong place he tries to blame me guys
+
+1011
+03:36:25,799 --> 03:36:31,520
+with big hats come but I show them show them wrong coordinates big heads get mad
+
+1012
+03:36:31,520 --> 03:36:37,280
+at lieutenant he gets mad at me now I'm stuck here the lieutenant wants to kill
+
+1013
+03:36:37,280 --> 03:36:42,559
+you oh yeah wants to kill me back but these Jamaicans are so crazy no one
+
+1014
+03:36:42,559 --> 03:36:48,280
+messes with them I'm safe here you'd be safe with me that oh yeah would be a
+
+1015
+03:36:48,280 --> 03:36:51,280
+great sub sound if I still had one
+
+1016
+03:36:54,840 --> 03:37:00,600
+which where is this guy lieutenant is in bunker you know where the bunker is I
+
+1017
+03:37:00,600 --> 03:37:05,680
+know where the bunker is right so you need a bunker buster I have no bunker
+
+1018
+03:37:05,680 --> 03:37:11,600
+boss where I come in you you already came in I'm saying I'll get you a bunker
+
+1019
+03:37:11,600 --> 03:37:14,959
+buster and I picked one of those up already and point the little laser
+
+1020
+03:37:15,479 --> 03:37:20,079
+so I hit the target and we're in business I think I already got one you mean the
+
+1021
+03:37:20,079 --> 03:37:25,360
+designator yeah it's too hard to hit target without it all right I help you
+
+1022
+03:37:25,360 --> 03:37:28,639
+bomb this busy lieutenant back to the Stone Age and you'll be free to come
+
+1023
+03:37:28,639 --> 03:37:36,620
+work for me yeah simple no that's yeah it's all Misha's problem by taking out
+
+1024
+03:37:36,620 --> 03:37:44,940
+the lieutenant who is mad at him you'll need a bunker buster watch a letter
+
+1025
+03:37:44,940 --> 03:38:00,239
+strikes an anaconda to anaconda's to piranha boats let's go I want to scream
+
+1026
+03:38:00,239 --> 03:38:17,829
+it's so bad but I can't I don't have didn't say I needed to get a bunch of
+
+1027
+03:38:17,829 --> 03:38:36,719
+other shit too all right well let's go the other shit is optional okay that
+
+1028
+03:38:36,719 --> 03:38:49,790
+sounds like fun I'll do that bunker buster bunker buster fun feels amazing
+
+1029
+03:38:49,790 --> 03:39:04,629
+man yeah all right what's gonna do is it gonna go straight ahead I wish you could
+
+1030
+03:39:04,629 --> 03:39:11,700
+shoot so just drive but hey I mean you can't fault them there is a drivable
+
+1031
+03:39:11,700 --> 03:39:35,069
+vehicles vehicle sounds a whack yeah they kind of are they'll whack all right
+
+1032
+03:39:35,069 --> 03:39:42,209
+got to extract three of them do I have gas for this though my life 70 gas is
+
+1033
+03:39:42,209 --> 03:39:55,840
+that enough I have to steal a gas thing it's gas right here but is there a gas
+
+1034
+03:39:55,840 --> 03:40:05,049
+thing there's no gas thing to take I'm not sure I'm gonna be able to do this
+
+1035
+03:40:05,049 --> 03:40:17,079
+mosquito that does kind of sound like a mosquito when they get really close to
+
+1036
+03:40:17,200 --> 03:40:22,139
+and you have an extreme panic attack because for some reason you just think
+
+1037
+03:40:22,139 --> 03:40:26,399
+that the mosquito is going to go into your ear and crawl into your brain it
+
+1038
+03:40:26,399 --> 03:40:34,190
+starts sucking blood out of your brain and shit yeah no I want one of those so
+
+1039
+03:40:34,190 --> 03:40:38,260
+bad wait this wasn't even close that's the next island it's this one here okay
+
+1040
+03:40:38,260 --> 03:40:53,399
+laying eggs in your brain all right has there ever been a recorded case of a bug
+
+1041
+03:40:53,399 --> 03:40:59,180
+laying eggs in somebody's brain has that ever happened or is that an irrational
+
+1042
+03:40:59,420 --> 03:41:26,190
+fear that like Eli Roth made up has that actually happened look it up um I don't
+
+1043
+03:41:26,190 --> 03:41:36,639
+think I want to look that up this does not sound something I want to see all
+
+1044
+03:41:36,639 --> 03:41:43,850
+right let's get rid of these guys that's a big gun you know I want you to get on
+
+1045
+03:41:43,850 --> 03:41:56,760
+it oh you don't want to get on it fine I'll get on it okay what is this 105
+
+1046
+03:41:56,799 --> 03:42:17,219
+millimeter artillery rifle tank over here oh my god no no no no no no no no
+
+1047
+03:42:17,219 --> 03:42:38,049
+no no no no no no no no no no give me give me give me I'm good we're good okay
+
+1048
+03:42:38,049 --> 03:42:48,579
+now we just have to get up here and destroy all this shit not that but you
+
+1049
+03:42:48,579 --> 03:43:14,120
+get the idea lateral damage that was easy anything else you need me to do wait
+
+1050
+03:43:14,120 --> 03:43:26,639
+this gas over there too it was a very large explosion you can play destroy all
+
+1051
+03:43:26,639 --> 03:43:34,299
+humans unfortunately no because I played the original destroy all humans right
+
+1052
+03:43:34,299 --> 03:43:38,420
+before they announced that they were remaking the game but I'm one of those
+
+1053
+03:43:38,420 --> 03:43:51,399
+guys all right this is it don't get into a fight around the bunker busters the
+
+1054
+03:43:51,399 --> 03:43:59,889
+bunker busters are going to explode well don't bring the tank demon souls remake
+
+1055
+03:44:00,450 --> 03:44:26,670
+you think that's going to get the tank don't shoot that buster don't shoot the
+
+1056
+03:44:26,670 --> 03:44:42,780
+buster don't I gotta kill these guys right now
+
+1057
+03:44:42,780 --> 03:45:21,729
+are you doing up here don't get it do not blow them up got it okay got stash one
+
+1058
+03:45:21,729 --> 03:45:36,579
+I'm going I'm gonna go up okay it's too much to process the guy that just fell
+
+1059
+03:45:36,579 --> 03:45:43,719
+trip to his death after being so ecstatic to go get the tank oh that's
+
+1060
+03:45:43,719 --> 03:46:24,459
+where this is coming from okay oh my god who is hurting the alarm all right we
+
+1061
+03:46:24,459 --> 03:46:31,190
+got that one more up here and that's it he's gonna get it is there anybody even
+
+1062
+03:46:31,190 --> 03:46:44,360
+down here shit I need all right it's busy it's busy busy busy busy let's go
+
+1063
+03:46:44,360 --> 03:47:09,149
+hurry up if that shit out of here I'll get it one day all right that's three or
+
+1064
+03:47:09,149 --> 03:47:30,420
+three people the music's not that bad all right I have the bunker busters now
+
+1065
+03:47:30,420 --> 03:47:45,180
+I can destroy the bunker airstrikes bunker buster how much does it cost
+
+1066
+03:47:45,180 --> 03:47:52,889
+my bunker buster is 300 gas I don't have that I gotta get gas it's one right here
+
+1067
+03:47:53,450 --> 03:48:31,450
+quick get in get in okay do I fly this wait I have a bomb I missed that's sad
+
+1068
+03:48:31,450 --> 03:48:46,870
+I need what I gotta get gas man I can't have like a fun time look I need this is
+
+1069
+03:48:46,870 --> 03:49:04,389
+the I have the bunker bus this guy I hear a lots of luck on you know I gotta
+
+1070
+03:49:04,389 --> 03:49:44,260
+get up I need these whoa that guy's gonna die before he shoots my guy die
+
+1071
+03:49:44,260 --> 03:49:49,209
+die die die die die die die that's all right I don't care get that just get the
+
+1072
+03:49:49,209 --> 03:49:54,209
+gas oh go go go just go what's in the way nothing's in the way go nothing's
+
+1073
+03:49:54,209 --> 03:50:00,489
+in the way why is it too heavy did you bring the wrong car you fucking idiot
+
+1074
+03:50:00,489 --> 03:50:08,860
+he's good he's good he's good he's okay he's okay he's gonna make it he's gonna
+
+1075
+03:50:09,420 --> 03:50:18,879
+make it come on make it he just bumped into like what are you doing fly this
+
+1076
+03:50:18,879 --> 03:50:30,540
+thing here how did they hit each other in the air it's still fucking following
+
+1077
+03:50:30,540 --> 03:50:37,700
+him did he get it nice he did all right why is he coming back here what are you
+
+1078
+03:50:37,700 --> 03:50:45,620
+doing why excuse me okay I thought he was driving directly into me that was
+
+1079
+03:50:46,100 --> 03:51:15,139
+bunker if but I have full gas all right now he's good art hillary's right our
+
+1080
+03:51:15,139 --> 03:51:20,909
+till every strike times one what does it mean no no no no it's bunker buster
+
+1081
+03:51:20,909 --> 03:51:28,000
+there it is how do I use it oh no oh my god oh my god oh my god oh my god oh my
+
+1082
+03:51:28,000 --> 03:51:32,780
+god oh my god why why why why why why why what do I do I have to fight the
+
+1083
+03:51:32,780 --> 03:51:42,170
+at the end the laser at this oh it's bad this is very bad I put this away okay I
+
+1084
+03:51:42,170 --> 03:52:00,500
+can put it away right I can't put it away yeah why do you have to do this
+
+1085
+03:52:00,500 --> 03:52:30,709
+shit right now okay what was going was what was the angle okay this is it ready
+
+1086
+03:52:30,709 --> 03:52:34,479
+ready we're good we're up we're okay we're okay we're okay we're gonna we're
+
+1087
+03:52:34,479 --> 03:52:47,459
+not gonna take any damage from the fall okay we're fine that was loud but that
+
+1088
+03:52:47,500 --> 03:52:57,219
+was fucking ridiculous okay I just have the laser aim the laser aim the laser
+
+1089
+03:52:57,219 --> 03:53:11,120
+bunker buster here we go this is a tank right here okay we're going the other
+
+1090
+03:53:11,120 --> 03:53:32,620
+way but wait I need to heal yeah help okay here we go it's right there bunkers
+
+1091
+03:53:32,620 --> 03:54:00,719
+right here okay eat shit give me the where's the fucking bunker buster dude
+
+1092
+03:54:00,760 --> 03:54:32,920
+right there I gotta get out of here all right stop firing up here I'm in it I'm
+
+1093
+03:54:32,920 --> 03:54:40,049
+inside of them stop firing stop firing I'm good yeah I told you guys I'm gonna
+
+1094
+03:54:40,049 --> 03:54:46,500
+get it
+
+1095
+03:54:54,500 --> 03:54:58,420
+okay I just remembered from the very beginning of the game when I drove the
+
+1096
+03:54:58,420 --> 03:55:02,700
+bike like a thousand miles per hour into the gate he's making me laugh right
+
+1097
+03:55:02,700 --> 03:55:09,170
+now always drunk I need drink he can barely stand but need to stand to fly
+
+1098
+03:55:09,170 --> 03:55:14,530
+jet we can buy anything we can buy a steel that's important and I need a jet
+
+1099
+03:55:14,530 --> 03:55:20,530
+pilot to deliver ordinance all right I trust you where did you find these guys
+
+1100
+03:55:20,530 --> 03:55:30,729
+they're cute you worry too much class they're cheap okay so what does he do
+
+1101
+03:55:30,729 --> 03:55:42,760
+for me now wasted what he just died on the couch he had like a heart attack
+
+1102
+03:55:42,920 --> 03:55:58,479
+oh hey boss just hang a night you know waiting for your call always at the
+
+1103
+03:55:58,479 --> 03:56:07,899
+ready you find more bunker busters he can drop them for you oh that's awesome
+
+1104
+03:56:07,899 --> 03:56:13,780
+hi where is he am I going the right way oh wake him up is he like what I mean
+
+1105
+03:56:13,780 --> 03:56:32,700
+the bedroom there are a lot of bombs in this it feels like they are you're
+
+1106
+03:56:32,700 --> 03:56:43,870
+pretending what where is he not this guy he said he was up here so okay well
+
+1107
+03:56:43,870 --> 03:57:06,219
+what the fuck are you doing over here you can get a literal nuke how do I get
+
+1108
+03:57:06,219 --> 03:57:32,309
+this okay when do I get new clothes cheat codes cheat codes cheat codes
+
+1109
+03:57:32,309 --> 03:57:55,540
+hold on Jennifer has a catapult really need to complete challenges so what is
+
+1110
+03:57:55,540 --> 03:58:04,139
+the next job what do we what's the goal here somebody have a new mission here
+
+1111
+03:58:04,299 --> 03:58:14,610
+challenge destruction race it's just a bunch of challenges do the Moab cheat
+
+1112
+03:58:14,610 --> 03:58:34,379
+it's the up logo yeah all right let's go here you'll it's gonna be New Vegas how
+
+1113
+03:58:34,379 --> 03:58:37,340
+do you put the cheats in is it some weird thing at the menu or something in
+
+1114
+03:58:37,340 --> 03:59:02,069
+the an I&I file or something I don't know come pick me up cheats don't work
+
+1115
+03:59:02,069 --> 03:59:21,420
+on PC okay let's do this that'd be really why not all right let's go into
+
+1116
+03:59:21,420 --> 03:59:32,799
+the up he missed he missed really this guy's a sniper rifle I'm just gonna get
+
+1117
+03:59:32,799 --> 03:59:43,149
+it that dude has a huge rifle look at this thing why is there a sniper up here
+
+1118
+03:59:43,149 --> 04:00:10,389
+how do these I how do they even get up here though all right let's go level the
+
+1119
+04:00:10,389 --> 04:00:22,579
+up building that's pretty clever how far away is this part of the building
+
+1120
+04:00:22,579 --> 04:00:33,860
+does he know he can destroy skyscrapers yet no just found that out right now by
+
+1121
+04:00:33,860 --> 04:01:02,459
+you I don't care though what if I don't care no no this is not what I want go
+
+1122
+04:01:02,459 --> 04:01:26,450
+and do the next mission blow the building up nice try holy shit he shot
+
+1123
+04:01:26,489 --> 04:01:34,459
+into the camera how can you be better with a rocket launcher than I am with a
+
+1124
+04:01:34,459 --> 04:01:49,420
+sniper rifle I don't get it jump scare this is a friendly tank right here though
+
+1125
+04:01:49,420 --> 04:01:57,059
+there's a 3d movie okay if you take if you make that a little bit red and then
+
+1126
+04:01:57,059 --> 04:01:59,659
+you make another one copy it right next to each other make it a little bit blue
+
+1127
+04:01:59,659 --> 04:02:04,819
+and then you like in Photoshop or something you move it close together so
+
+1128
+04:02:04,819 --> 04:02:18,049
+it's that stereoscopic 3d right somebody will do it this could be the most
+
+1129
+04:02:18,049 --> 04:02:20,729
+roundabout way to go in the front door that I've ever seen in my fucking entire
+
+1130
+04:02:20,729 --> 04:02:37,040
+life let me in I'm ready for my next job
+
+1131
+04:02:37,040 --> 04:02:52,840
+press LB RB RB LB LB LB LB LB of cheat mode respect a hold on for real new
+
+1132
+04:02:52,840 --> 04:03:01,770
+contact well you can afford me let's not waste time we need to help universe
+
+1133
+04:03:01,770 --> 04:03:05,489
+patrol and take over an outpost in Altagracia once the outpost is secure the
+
+1134
+04:03:05,489 --> 04:03:11,209
+up will set up their own operations 300,000 a tank a raven and upgrade I'm
+
+1135
+04:03:11,209 --> 04:03:22,040
+in count your blessings act active X but you PDA during gameplay if you like the
+
+1136
+04:03:22,040 --> 04:03:36,500
+motorcycles in this you need to get the Panzer cycle what is it LB RB RB LB RB
+
+1137
+04:03:36,500 --> 04:03:55,889
+LB RB LB LB LB somebody's got it right I'm not gonna use it very much I don't
+
+1138
+04:03:55,889 --> 04:04:09,719
+think that word LB what is it LB LB RB RB LB RB LB LB LB LB LB LB is bullshit
+
+1139
+04:04:09,719 --> 04:04:20,940
+nevermind strike team wait I get a bunch of soldiers in this one okay that's
+
+1140
+04:04:20,940 --> 04:04:26,799
+cool strike team we're gonna go in we're gonna it's gonna be so much fun that's
+
+1141
+04:04:26,799 --> 04:04:29,799
+right they hit the music this is like the trumpets means we're going let's go oh
+
+1142
+04:04:34,620 --> 04:04:44,329
+no no no that means when we get there I'm gonna take a tank though how far away
+
+1143
+04:04:44,329 --> 04:04:59,049
+is this not that far but I can't I have to just swim over there don't I are you
+
+1144
+04:04:59,049 --> 04:05:05,790
+holding a sniper rifle as a pistol all in the strike team not until we go it
+
+1145
+04:05:05,790 --> 04:05:16,670
+says wait till we get close it's not I said I'm gonna just drop in the water
+
+1146
+04:05:16,670 --> 04:05:34,500
+wait I thought I thought I said I couldn't do that they actually drop
+
+1147
+04:05:34,500 --> 04:05:47,299
+that's gonna see what does let's go Wow I have my own team this is awesome this
+
+1148
+04:05:47,299 --> 04:05:54,920
+just became so much more fun okay can you guys swim please say yes or no it's
+
+1149
+04:05:54,920 --> 04:05:59,120
+like I'm so excited with a little kid so excited oh my god my friends are over
+
+1150
+04:05:59,120 --> 04:06:14,520
+for my birthday and there's a slippage slide it's a fun pool I can't even yeah
+
+1151
+04:06:14,520 --> 04:06:32,260
+they follow me right and then they go you start ballin you guys coming why
+
+1152
+04:06:32,299 --> 04:06:43,680
+they're not coming anymore that was not the worst noise of 2020 please okay well
+
+1153
+04:06:43,680 --> 04:06:48,590
+I don't know who cares about the strike team they don't move I have like five of
+
+1154
+04:06:48,590 --> 04:07:04,860
+them that was a medium worse noise you have a gauge that tells you what how bad
+
+1155
+04:07:04,860 --> 04:07:29,139
+or good a noise is yes you do okay well there is criteria I'm almost there easy
+
+1156
+04:07:29,139 --> 04:07:40,459
+bake oven scream was the worst we mean easy bake oven scream how many can I
+
+1157
+04:07:40,459 --> 04:08:02,020
+have three six nine am I gonna like ten people wait wait guys wait wait wait
+
+1158
+04:08:02,020 --> 04:08:12,620
+don't go in yet stay how do I say stop stop he's just gonna die he's gonna go
+
+1159
+04:08:12,620 --> 04:08:33,139
+in and die all right let's go strike team we want more I need more crew don't
+
+1160
+04:08:33,139 --> 04:08:37,940
+fire hold your fire I'm doing the command and conquer bullshit where I'm
+
+1161
+04:08:37,940 --> 04:08:41,700
+sitting on the coast where he does not know where the fuck I am in an
+
+1162
+04:08:41,700 --> 04:08:59,639
+unexplored area of the map too many soldiers let's go move up move up move
+
+1163
+04:08:59,639 --> 04:09:26,510
+up let's go all right wait wait can we fill a pickup truck can they get in the
+
+1164
+04:09:26,510 --> 04:09:42,940
+back of the pickup truck all right everybody in okay hold on wait first of
+
+1165
+04:09:42,940 --> 04:09:51,790
+all that guy there's like ten people in the passenger side I gotta drive him in
+
+1166
+04:09:51,790 --> 04:09:56,909
+this is the goal I'm gonna drive him in don't slow down because if I slow down I
+
+1167
+04:09:56,909 --> 04:10:02,180
+can't even tell you what's happened I'd like I yeeted that guy across the whole
+
+1168
+04:10:02,180 --> 04:10:08,959
+game and then ten people got in okay wait wait wait wait wait wait
+
+1169
+04:10:08,959 --> 04:10:17,250
+collateral damage somebody die in the front seat there we go okay where's the
+
+1170
+04:10:17,250 --> 04:10:28,950
+front door we're gonna dump everybody in the front door okay let's get in boys
+
+1171
+04:10:28,989 --> 04:11:01,579
+here we go all right take it my lemmings you wanted to drive okay we're good get
+
+1172
+04:11:01,579 --> 04:11:12,790
+back in it get back in get back in everybody in get in get in get in get
+
+1173
+04:11:12,790 --> 04:11:42,950
+in they're all dead like hell they're all dead oh shit my safe in here clown
+
+1174
+04:11:42,950 --> 04:11:51,879
+car subs ten community subs from subpar rump here catjacket ten subs thanks
+
+1175
+04:11:51,879 --> 04:11:56,120
+guys all right we're gonna take the other one you need a supply drop I have
+
+1176
+04:11:56,120 --> 04:12:22,200
+one go to the shop how my ears life is pain he's no they're still here look
+
+1177
+04:12:22,200 --> 04:12:34,190
+for it on your radar who's really shooting at David yep let me hear this
+
+1178
+04:12:34,190 --> 04:12:50,340
+sound I mean that wasn't even that bad this would be yelling into a shitty
+
+1179
+04:12:50,379 --> 04:13:04,340
+microphone okay do I get to do I'm so happy I can just do this whenever I want
+
+1180
+04:13:04,340 --> 04:13:12,750
+all right let's get everybody in a pickup truck again it's that pallbearer
+
+1181
+04:13:12,750 --> 04:13:17,250
+yeah I'm like that it's only a matter of time before Solano makes us an offer
+
+1182
+04:13:17,250 --> 04:13:23,459
+the enemy is here okay we're all gonna fit in we're gonna get into this thing
+
+1183
+04:13:23,459 --> 04:13:31,840
+the enemy is here I mean too many soldiers in the area freaking feces
+
+1184
+04:13:31,840 --> 04:13:45,180
+one of these shoes plus more than you can imagine I think these guys have been
+
+1185
+04:13:45,180 --> 04:13:50,319
+glitched since the very beginning of the game I'm pretty certain of that I
+
+1186
+04:13:50,319 --> 04:14:02,809
+wait I can do I can take a helicopter right it's not it's not a grenade it's
+
+1187
+04:14:02,809 --> 04:14:23,090
+not a grenade it's not a grenade it's not a grenade it's not a grenade all
+
+1188
+04:14:23,090 --> 04:14:31,489
+right where to boss right here you're aiming a sniper rifle at an innocent
+
+1189
+04:14:31,489 --> 04:14:36,459
+person no I wasn't I was just using him as binoculars to see what was going on
+
+1190
+04:14:36,459 --> 04:14:47,500
+around me we're good I've made a car and I want a strike team it's just added
+
+1191
+04:14:47,500 --> 04:14:51,780
+another like an hour of content to the game for me strike team in the sedan
+
+1192
+04:14:51,780 --> 04:15:27,989
+what you I can't I have to pay attention I can't even read that
+
+1193
+04:15:27,989 --> 04:15:47,280
+was a direct hit that was loud too all right here we go you guys ready let's
+
+1194
+04:15:47,280 --> 04:16:01,299
+get the strike team here I want what 12 you cut that shit out right now wait
+
+1195
+04:16:01,299 --> 04:16:28,489
+let's get him in the truck again feel like I'm gonna make a mess here
+
+1196
+04:16:35,100 --> 04:16:44,209
+easy easy easy easy fellas no no no no no no stay stay stay well okay you're
+
+1197
+04:16:44,209 --> 04:17:03,860
+smart stop don't go up there no you gotta get in the why did you go over
+
+1198
+04:17:03,860 --> 04:17:23,770
+here it's only one guy in here get in get in get in get in all right dude
+
+1199
+04:17:23,770 --> 04:17:58,290
+you and me whatever here we go get in the other gunner seat get in the gunner
+
+1200
+04:17:58,329 --> 04:18:22,850
+seat in the gunner seat all right I'm all right I'm okay I'm all right are you
+
+1201
+04:18:22,850 --> 04:18:51,079
+all right where are you where is he I want the sniper rifle what that's what
+
+1202
+04:18:51,079 --> 04:19:08,620
+shirt he's playing on easy there's no such thing as easy there is only game
+
+1203
+04:19:08,620 --> 04:19:22,340
+I think I just have to stand next to it don't I yeah I just have to go like this
+
+1204
+04:19:22,340 --> 04:20:00,889
+oh shit strike team all right I'm right there with the checkpoint you healed for
+
+1205
+04:20:00,889 --> 04:20:18,000
+two while flying through the air what I just do I didn't no no no no no no no
+
+1206
+04:20:18,000 --> 04:20:31,510
+I didn't want to do I was trying to get it again all right so the goal is you
+
+1207
+04:20:31,510 --> 04:20:37,100
+okay here's what you have to do you got to get your guys don't just drop them
+
+1208
+04:20:37,100 --> 04:20:46,260
+and then go in you have to drop them in the front how do you feel about Kim
+
+1209
+04:20:46,260 --> 04:20:53,750
+admitting to being a paid actress well the German 985 wonder how long that
+
+1210
+04:20:53,750 --> 04:21:15,420
+username is going to last well I mean how am I supposed to feel like don't
+
+1211
+04:21:15,420 --> 04:21:19,700
+act like it on Twitter where you didn't get to be your name so you just put the
+
+1212
+04:21:19,700 --> 04:21:44,389
+in front of it so now you're the real one nope I gotta fly I gotta fly let's
+
+1213
+04:21:44,389 --> 04:21:57,500
+fly whatever is Kim a paid actress no if you don't stop saying that I'm gonna
+
+1214
+04:21:57,500 --> 04:22:02,700
+flip out you don't stop you guys don't stop saying that I'm gonna flip out
+
+1215
+04:22:02,700 --> 04:22:13,100
+sure I'll drop you off it's what you pay me to think keep saying it don't say
+
+1216
+04:22:13,100 --> 04:22:29,739
+that you're gonna make me flip out why are you shooting a rocket launcher in
+
+1217
+04:22:29,739 --> 04:22:36,100
+your own base it almost looks like he accidentally turned that on all right
+
+1218
+04:22:36,100 --> 04:23:10,770
+enough it's time so you don't pay her no you gotta make me flip out hey are they
+
+1219
+04:23:10,770 --> 04:23:14,690
+making me flip out I say this like I get the guy I know you guys just want me to
+
+1220
+04:23:14,690 --> 04:23:41,159
+come in here and just flip out you know it's not gonna happen man I wonder how
+
+1221
+04:23:41,159 --> 04:23:44,239
+many strike teams we can get on here oh I can't wait to fly into the strike
+
+1222
+04:23:44,239 --> 04:23:51,819
+team I can't wait to go like this with a strike team best friend he's a psycho
+
+1223
+04:23:51,819 --> 04:24:07,129
+flipping out okay let's go over here I'm ready so right here up on the top of
+
+1224
+04:24:07,129 --> 04:24:41,379
+this island strike team go they're all still here and only have one can he
+
+1225
+04:24:41,379 --> 04:25:01,409
+shoot don't get it yeah you got okay okay I'm gonna wait eventually this guy
+
+1226
+04:25:01,409 --> 04:25:05,889
+is gonna make his weight all the way around and I need people destroy the wall
+
+1227
+04:25:05,889 --> 04:25:31,430
+destroy the wall okay why is this guy have an indicator what is that friendly
+
+1228
+04:25:31,430 --> 04:25:50,860
+what holy shit dude all right you can relax I need another bike the alive
+
+1229
+04:25:50,899 --> 04:26:07,549
+where did he go around the edge where is this guy I need more strike team fuck
+
+1230
+04:26:07,549 --> 04:26:26,559
+this shit all right go go go go go go go go go on go on go on get out all right
+
+1231
+04:26:26,559 --> 04:26:45,479
+attack what are you doing all right the two of you we're gonna wait for four
+
+1232
+04:26:45,479 --> 04:26:50,840
+wait just wait for everyone to get here don't go out there you fucking idiot why
+
+1233
+04:26:50,840 --> 04:26:57,479
+don't I have a button that I can press that just says like no stay back these
+
+1234
+04:26:57,479 --> 04:27:23,420
+people are so dumb don't just run in throw grenade take out the towers why
+
+1235
+04:27:23,420 --> 04:27:34,610
+is that guy still allowed to be right there use an airstrike I don't know I
+
+1236
+04:27:34,610 --> 04:27:54,350
+don't have enough to do it I missed I missed I missed I missed do we have
+
+1237
+04:27:54,350 --> 04:28:08,840
+any more all right we're good we're good this guy alive on the ground what are they
+
+1238
+04:28:08,840 --> 04:28:25,069
+shooting at what hostile gun spotted hostile gun that's fucking funny all
+
+1239
+04:28:25,110 --> 04:28:30,260
+right get in I want everybody get him one look at this wait he's driving it I
+
+1240
+04:28:30,260 --> 04:28:36,170
+think he's dead nope he's trying to figure out a way out we're good we get
+
+1241
+04:28:36,170 --> 04:28:43,219
+CPU pilot right now let's go man come on you can do it he just killed everybody
+
+1242
+04:28:43,219 --> 04:29:09,540
+you ran over all of our teammates all right let's go you got it I don't know I
+
+1243
+04:29:09,540 --> 04:29:23,979
+feel like I feel like they're like why are you in this window that makes no
+
+1244
+04:29:24,020 --> 04:29:55,739
+sense going what car fucking just man the missiles house give me it give me
+
+1245
+04:29:55,739 --> 04:29:59,879
+give me give me give me give me give me give me give me give me give me give me
+
+1246
+04:29:59,879 --> 04:30:10,340
+give me give me give me give me give me give me give me give me come on I need
+
+1247
+04:30:10,340 --> 04:30:16,389
+one more one more shot one more shot okay what was in me what was even in
+
+1248
+04:30:16,389 --> 04:30:55,719
+there was there anything even in there hey God heal I'm trying to not die you're
+
+1249
+04:30:55,719 --> 04:31:34,340
+hitting me in the back oh shit somebody get in search for you on Amazon why no
+
+1250
+04:31:34,340 --> 04:32:01,840
+don't don't don't don't I what am I here hold on give me one sec one second okay
+
+1251
+04:32:01,840 --> 04:32:08,479
+I'm good don't don't don't well it's okay well somebody took my whatever
+
+1252
+04:32:08,479 --> 04:32:45,149
+what am I gonna do well go then in the car we need one more guy in here get in
+
+1253
+04:32:45,149 --> 04:33:00,969
+here get in one more one more don't forgo go go go go go go good good good
+
+1254
+04:33:00,969 --> 04:33:22,139
+good good good band my band that's my career name well you guys have to
+
+1255
+04:33:22,139 --> 04:33:27,250
+understand even if there was stuff on the internet that had my like face on it
+
+1256
+04:33:27,250 --> 04:33:36,159
+it's like okay get rid of that get that down okay see you tomorrow when I just
+
+1257
+04:33:36,159 --> 04:33:42,990
+make a new account and just do it again at some point it's just like what am I
+
+1258
+04:33:42,990 --> 04:34:13,720
+supposed to do make them official yeah all I can tell you is work hello where
+
+1259
+04:34:13,759 --> 04:34:28,380
+those going didn't you just fire it in a straight line why is one of these guys
+
+1260
+04:34:28,380 --> 04:34:48,250
+shooting at me you won't do it you're not gonna fucking do it
+
+1261
+04:34:48,250 --> 04:35:16,740
+he actually did it holy shit I call this bluff so bad I gotta blow this up Jesus
+
+1262
+04:35:16,740 --> 04:35:33,779
+I have no ammo how do I open this well what if you help me all right I'm just
+
+1263
+04:35:33,819 --> 04:35:44,060
+fucking I'm going in the dump and see you need fuel to use airstrikes okay well
+
+1264
+04:35:44,060 --> 04:35:57,400
+I'll go get some fuel make it quick time is money hey into the green zone or
+
+1265
+04:35:57,400 --> 04:36:09,830
+Kavima's outpost shop whoo look at this okay fuel storage fuel storage ground
+
+1266
+04:36:09,830 --> 04:36:14,599
+attack wipeout person on light vehicles multiple explosives air support attacks
+
+1267
+04:36:14,599 --> 04:36:30,959
+enemy armor light tank a raven supply drop or an inflatable raven I already
+
+1268
+04:36:30,959 --> 04:36:44,650
+have one of these you'll storage upgrade you're gonna both DMC fuel storage DC
+
+1269
+04:36:44,650 --> 04:36:56,259
+fuel storage upgrade and that's way better okay how about an inflatable I
+
+1270
+04:36:56,259 --> 04:37:07,919
+want it equipped on here it's a ground attack there's a lot of money wipeout
+
+1271
+04:37:07,919 --> 04:37:19,080
+personnel light vehicles and multiple explosives and I guess I'll buy it tank
+
+1272
+04:37:19,080 --> 04:37:27,759
+attack a mantis light tank I'm gonna get I gotta get some fuel let's get this one
+
+1273
+04:37:27,759 --> 04:37:46,759
+too get the Raven okay supply drop I'll take five of them I okay cool I'll do it
+
+1274
+04:37:46,759 --> 04:37:52,880
+as revenue do not say German I 85 in the mirror three times now don't don't do it
+
+1275
+04:37:52,880 --> 04:38:08,599
+don't do it you up ground attack all right I want let's get some fuel so let
+
+1276
+04:38:08,639 --> 04:38:12,919
+me ask you a question is this technically stealing if it's mine why am I how am I
+
+1277
+04:38:12,919 --> 04:38:26,909
+stealing this I own it up owns it well why didn't I steal it before giving it
+
+1278
+04:38:26,909 --> 04:38:34,150
+to them that was the brain big brain that I didn't do this is the last one okay
+
+1279
+04:38:34,150 --> 04:38:55,189
+we're gonna I gotta fly over here fast travel please please do an Adam Sandler
+
+1280
+04:38:55,189 --> 04:39:12,549
+impression okay let's do this so what you're gonna get that's it I'm not doing
+
+1281
+04:39:12,549 --> 04:39:37,490
+anymore that's just you though it is not just me you can break most things
+
+1282
+04:39:37,490 --> 04:39:45,310
+using c4 grenades are bad I have what 2c for my 5c for all right I will try to
+
+1283
+04:39:45,310 --> 04:40:05,919
+destroy a big building that's directing Oh too many personnel right all right
+
+1284
+04:40:05,919 --> 04:40:12,310
+let's get you I'm gonna pick up every bunch of people
+
+1285
+04:40:12,430 --> 04:40:28,720
+you know mine please when you engineers want to get in there we go hey get a
+
+1286
+04:40:28,720 --> 04:40:44,150
+passenger passenger side get in the car get in the car get in the car get in the
+
+1287
+04:40:44,150 --> 04:41:06,380
+car inside the car in the holy shit this guy went crazy oh he flipped out yeah
+
+1288
+04:41:06,380 --> 04:41:22,560
+the dude fucking flipped out guys at this fuel all right let's get about
+
+1289
+04:41:22,599 --> 04:41:52,939
+let's deal a bunch of this field how do I not have a single bullet watch out you
+
+1290
+04:41:52,939 --> 04:42:05,040
+use all the ammo and can't shoot I can't shoot this guy's still in the car no he
+
+1291
+04:42:05,040 --> 04:42:41,119
+got out oh god that's bad watch out got it we're good all right let's go are
+
+1292
+04:42:41,119 --> 04:42:46,439
+they're actually cheese for this by the way was that just a bullshit
+
+1293
+04:42:46,439 --> 04:43:13,159
+Jesus oh I gotta have guys I gotta land dudes here I don't have any strike team
+
+1294
+04:43:13,479 --> 04:43:29,110
+all right all right all right all right where that Sam happy birthday it's not
+
+1295
+04:43:29,110 --> 04:43:45,240
+my birthday it's not my birthday okay then this really is just battlefield I'm
+
+1296
+04:43:45,240 --> 04:43:50,639
+just sitting in the back just watching battlefield was the best game to eat
+
+1297
+04:43:50,639 --> 04:43:56,180
+food because you could just sit there while a guy played the whole game I just
+
+1298
+04:43:56,180 --> 04:44:05,259
+poke out the window every now and then just sit in a guy's tank or sitting a
+
+1299
+04:44:05,259 --> 04:44:21,880
+guy's jet or something you just sit there it was awesome all right we got a
+
+1300
+04:44:21,880 --> 04:44:27,009
+strike team okay I'm gonna I'm gonna steal some quick quick quick quick
+
+1301
+04:44:27,009 --> 04:44:43,759
+quick quick before it gets destroyed I don't feel this great Jesus is there a
+
+1302
+04:44:43,759 --> 04:44:57,479
+person here there is somebody right here all right give me give me give me before
+
+1303
+04:44:57,479 --> 04:45:22,529
+they take it take the other one too I don't feel too community night that
+
+1304
+04:45:22,529 --> 04:45:28,439
+might should be kind of fun all right let's get strike team how many more
+
+1305
+04:45:28,720 --> 04:45:51,200
+to do I feel like I'm doing this like the last two years me that ammo battle
+
+1306
+04:45:51,200 --> 04:46:19,009
+front to battle front to what the fuck hello where am I am I trying to shoot
+
+1307
+04:46:19,009 --> 04:46:34,380
+this guy like he's a no don't let him right in in in in in in in in in in in
+
+1308
+04:46:34,380 --> 04:46:42,520
+in in in in in in in in in in in in in in in in in in in in one more get in go go
+
+1309
+04:46:42,520 --> 04:47:01,740
+Go go go go go go good good good anti-tank rogue air strike the storage
+
+1310
+04:47:11,849 --> 04:47:16,459
+Okay, I have a question oh
+
+1311
+04:47:17,900 --> 04:47:19,580
+Okay
+
+1312
+04:47:19,580 --> 04:47:24,759
+Yeah, I was wondering why let's do a mission transit
+
+1313
+04:47:33,720 --> 04:47:40,680
+We're trying this left bumper right bumper right bumper left bumper left bumper right bumper. It's hard to do that
+
+1314
+04:47:41,220 --> 04:47:45,680
+Okay, there's more cheese is you're bad at the game. That's
+
+1315
+04:47:47,180 --> 04:47:50,779
+Is that like an elite that that's like a cracked copy of the game
+
+1316
+04:47:51,700 --> 04:48:10,119
+Don't want to download a cracked exe of the game any updates on the baseball stream. It has been postponed indefinitely
+
+1317
+04:48:10,720 --> 04:48:14,360
+Until it is safer to do so it was going to be
+
+1318
+04:48:15,360 --> 04:48:18,959
+like 40 people 50 people in the same spot
+
+1319
+04:48:19,919 --> 04:48:21,919
+players crew
+
+1320
+04:48:21,979 --> 04:48:26,400
+Other things it's not possible in this current environment
+
+1321
+04:48:29,880 --> 04:48:32,439
+A lot of stuff has already been paid for so I have it ready
+
+1322
+04:48:33,439 --> 04:48:35,439
+Whenever it becomes safe to do so
+
+1323
+04:48:47,729 --> 04:48:49,729
+What about the webcam stream
+
+1324
+04:48:50,229 --> 04:48:52,229
+Um I did I
+
+1325
+04:48:53,549 --> 04:48:59,709
+Be honest I haven't put very much time into that yet because it's such a daunting task at the moment that it's in the back
+
+1326
+04:48:59,709 --> 04:49:01,709
+of my mind every day
+
+1327
+04:49:13,459 --> 04:49:15,540
+He bought 20 webcams for nothing
+
+1328
+04:49:16,400 --> 04:49:27,200
+Oh, but I'm just gonna sit in my closet. I'm gonna use them eventually protect the executive. This is a million dollars
+
+1329
+04:49:29,279 --> 04:49:33,250
+Okay, one million dollars
+
+1330
+04:49:48,639 --> 04:49:52,680
+This is an escort mission well, I'm gonna teleport over
+
+1331
+04:50:02,659 --> 04:50:13,259
+Give me um, I'm gonna play seaman 2 isn't seaman 2 in Japanese. I don't think I'll be able to do it
+
+1332
+04:50:18,150 --> 04:50:24,520
+It is yeah, when are you gonna learn Japanese
+
+1333
+04:50:25,569 --> 04:50:36,700
+Probably won't be able to learn a new language. I'm not gonna learn a new language
+
+1334
+04:50:37,259 --> 04:50:39,259
+for one live stream
+
+1335
+04:50:49,130 --> 04:50:51,299
+Find the executive
+
+1336
+04:50:51,799 --> 04:50:56,360
+Kill attackers
+
+1337
+04:50:56,360 --> 04:51:37,520
+You took a pottery class yet taking a pottery class is not the same as learning an entire language
+
+1338
+04:51:38,240 --> 04:51:48,990
+How are they?
+
+1339
+04:51:48,990 --> 04:51:53,849
+This guy's still alive
+
+1340
+04:52:01,150 --> 04:52:04,860
+He's alive
+
+1341
+04:52:05,599 --> 04:52:14,880
+Oh, he's up there everybody good
+
+1342
+04:52:28,340 --> 04:52:30,340
+Showed up
+
+1343
+04:52:33,560 --> 04:52:35,560
+Do you understand people would love you
+
+1344
+04:52:37,000 --> 04:52:39,000
+I'm not gonna learn Japanese
+
+1345
+04:52:39,880 --> 04:52:42,060
+So I have to get him out of here
+
+1346
+04:52:42,540 --> 04:52:45,500
+Yeah, there's the drop-off bring executive to first sight
+
+1347
+04:52:49,659 --> 04:52:56,639
+Okay, freaking
+
+1348
+04:52:58,240 --> 04:53:21,000
+There a jet ski their boat. Oh, wait a minute
+
+1349
+04:53:22,279 --> 04:53:24,700
+I have access to a boat
+
+1350
+04:53:25,599 --> 04:53:36,229
+It's time to get in the dinghy. I've waited so long drop the dinghy here
+
+1351
+04:53:36,990 --> 04:53:38,990
+Where did you?
+
+1352
+04:53:39,790 --> 04:53:58,099
+Okay, let's see it. Are you ready for the radio life? Dude is gonna be awesome
+
+1353
+04:54:14,099 --> 04:54:17,139
+You know, I thought about it at last second I'm like, you know what what if he dies
+
+1354
+04:54:28,270 --> 04:54:30,270
+I didn't shoot him
+
+1355
+04:54:35,549 --> 04:54:52,009
+Start gaslighting the fuck out of me into thinking that I I just shot him. All right, I'm gonna I want some time on the road
+
+1356
+04:55:01,009 --> 04:55:06,380
+It didn't even it didn't even hurt all right
+
+1357
+04:55:08,180 --> 04:55:15,669
+All right. I gotta I gotta fucking relax
+
+1358
+04:55:16,709 --> 04:55:18,880
+Think I'm laughing at everything
+
+1359
+04:55:20,259 --> 04:55:26,979
+Retreat funny man make a funny noise funny man make a funny noise. All right fine
+
+1360
+04:55:30,419 --> 04:55:38,349
+There you go, okay fine
+
+1361
+04:55:39,029 --> 04:55:41,580
+Funny her man make a funny noise
+
+1362
+04:55:42,259 --> 04:55:58,389
+What they don't happen to my bike?
+
+1363
+04:55:58,669 --> 04:56:08,290
+Don't do that only make noises. No
+
+1364
+04:56:09,090 --> 04:56:11,900
+All right fine
+
+1365
+04:56:19,189 --> 04:56:23,689
+There you're pressing the fucking like Nickelodeon funny machine
+
+1366
+04:56:32,180 --> 04:56:59,689
+He's not dead
+
+1367
+04:57:05,139 --> 04:57:20,020
+No, I get on this get on this
+
+1368
+04:57:47,619 --> 04:57:49,619
+He's on
+
+1369
+04:57:54,939 --> 04:57:56,939
+I
+
+1370
+04:57:57,900 --> 04:58:12,740
+Been oh that's but don't can't it's because the mouse is on the screen. He might be broken though
+
+1371
+04:58:22,459 --> 04:58:29,740
+So tempting just go wicked fast, but I can't this guy I can't kill this guy
+
+1372
+04:58:50,180 --> 04:58:51,619
+Get in there
+
+1373
+04:58:51,619 --> 04:58:56,419
+Bring executive to the first site
+
+1374
+04:58:56,880 --> 04:59:02,080
+On the deck. Oh shit. Oh shit. Oh shit. Oh shit. Oh shit. Oh shit shit shit shit shit
+
+1375
+04:59:10,040 --> 04:59:21,720
+Comedian germa. I just see all the shit that was all flew all the way to the right with those bodies
+
+1376
+04:59:22,400 --> 04:59:35,689
+That was kind of it was ridiculous. Look like straw. They didn't look like people
+
+1377
+04:59:46,540 --> 04:59:58,610
+This is simple. Why can I not kill this guy? Oh
+
+1378
+05:00:11,040 --> 05:00:30,040
+Quick quick quick quick quick quick quick quick. I can't shoot in the middle of there. I can't shoot here
+
+1379
+05:00:30,040 --> 05:00:42,799
+They have to take care of that fuck. Oh he got in
+
+1380
+05:00:43,599 --> 05:00:45,159
+Somebody behind me
+
+1381
+05:00:45,159 --> 05:00:59,830
+Get out of here, man. I have a bad feeling that this guy's gonna get in the way and I'm going to shoot this guy in
+
+1382
+05:00:59,830 --> 05:01:04,310
+the head
+
+1383
+05:01:13,590 --> 05:01:48,340
+That was friendly fire, yeah, it was unfortunately, I can't hear anything
+
+1384
+05:01:49,040 --> 05:01:55,560
+Wait, they're more common
+
+1385
+05:01:59,200 --> 05:02:01,200
+Get up here
+
+1386
+05:02:01,200 --> 05:02:12,880
+Am I right bring executive bring executive
+
+1387
+05:02:13,990 --> 05:02:15,990
+Come on, come on executive
+
+1388
+05:02:15,990 --> 05:02:48,930
+You know like you know, I go like good good. Good. Oh my goodness. Oh my goodness
+
+1389
+05:02:48,930 --> 05:02:56,549
+Yeah, get up. Get up. Get up. Get up. Get up. It's the checkpoint. Don't worry
+
+1390
+05:03:13,700 --> 05:03:16,770
+I've been shot
+
+1391
+05:03:17,470 --> 05:03:19,970
+I've been shot. Oh
+
+1392
+05:03:21,569 --> 05:03:48,799
+Okay, no bike this time get on wait, can he drive will he drive the car? Oh
+
+1393
+05:03:51,259 --> 05:04:37,180
+Really? That's really unfortunate. He won't get on the gun. We're good. They're approaching the way
+
+1394
+05:04:37,180 --> 05:04:44,689
+I just we're gonna have to do return to objective. Aren't I on the way to the objective?
+
+1395
+05:04:45,130 --> 05:04:49,290
+Thought I was on the way to the objective
+
+1396
+05:05:02,110 --> 05:05:05,180
+Site two
+
+1397
+05:05:05,340 --> 05:05:35,529
+Why am I doing that? They're all getting out of the back. Don't let them get out of the back. Oh
+
+1398
+05:05:37,610 --> 05:05:40,400
+You're right
+
+1399
+05:05:40,400 --> 05:05:42,819
+Everyone's alright
+
+1400
+05:05:42,819 --> 05:05:47,810
+When am I going to play naughty bear?
+
+1401
+05:05:48,409 --> 05:05:52,209
+I'm not going to play naughty bear
+
+1402
+05:05:52,849 --> 05:06:11,659
+Nice whoop toss that good job
+
+1403
+05:06:12,139 --> 05:06:21,810
+That was a lot of lag
+
+1404
+05:06:22,169 --> 05:06:24,860
+from the east and west. Oh
+
+1405
+05:06:34,259 --> 05:06:42,689
+Shit. Oh shit. Oh
+
+1406
+05:06:42,990 --> 05:06:56,590
+The frame rate is so bad double tap
+
+1407
+05:07:10,610 --> 05:07:13,880
+What else do I need to do? Oh
+
+1408
+05:07:16,369 --> 05:07:17,610
+fuck
+
+1409
+05:07:17,610 --> 05:07:19,790
+No, that was one of the guns
+
+1410
+05:07:20,310 --> 05:07:46,150
+Yeah
+
+1411
+05:07:46,189 --> 05:07:56,840
+Put on 30 FPS for that. Oh, I want to ride around with the executive
+
+1412
+05:07:56,840 --> 05:08:02,520
+I want to get them to I have to win but how far is it? There's a I had a checkpoint, right?
+
+1413
+05:08:02,860 --> 05:08:06,450
+I gotta put it on 30 FPS
+
+1414
+05:08:06,810 --> 05:08:19,830
+Come on. It's gonna be right at that checkpoint
+
+1415
+05:08:20,270 --> 05:08:35,770
+You need a better PC clearly if you can't play a poop game from 20 years ago. This is not a poop game
+
+1416
+05:08:36,069 --> 05:08:59,220
+This is 2008 TF2 came out a year before this bingo. Let's get in an armored car, please
+
+1417
+05:08:59,979 --> 05:09:13,139
+Nothing even loaded in this is perfect. What kind of Pentium do I have a?
+
+1418
+05:09:16,549 --> 05:09:18,650
+Pentium
+
+1419
+05:09:18,650 --> 05:09:20,529
+2
+
+1420
+05:09:20,529 --> 05:09:22,290
+dual core Pentium 2
+
+1421
+05:09:22,389 --> 05:09:36,619
+When that's all you needed and what are you gonna need in like 20 years? We're gonna be getting laughed at
+
+1422
+05:09:38,060 --> 05:09:40,430
+years and years from now
+
+1423
+05:09:41,869 --> 05:09:49,599
+Like six core eight core twelve core, that's crazy two CPUs and one motherboard that's insane
+
+1424
+05:09:50,279 --> 05:09:53,740
+That shit will be in your brain
+
+1425
+05:09:53,939 --> 05:09:56,240
+in like 50 years
+
+1426
+05:09:56,360 --> 05:10:12,439
+Here we go. I just wait till they get out. There's really no sense in destroying the vehicles at all
+
+1427
+05:10:13,060 --> 05:10:35,880
+It's just too much particle effects as it just ruins everything shoot the people good I would love to attack this guy
+
+1428
+05:10:36,520 --> 05:10:47,270
+Let's get in the tank
+
+1429
+05:10:47,349 --> 05:11:08,549
+East and west are I hold on now yet, but okay gotta move move move move move move move move move
+
+1430
+05:11:09,310 --> 05:11:30,189
+All right West blanket blanket. Excuse me. You on the 50 cal what?
+
+1431
+05:11:30,990 --> 05:12:02,049
+What oh shit that guy has a we're good. We're good. We're good. We're good. Is there an enemy over here?
+
+1432
+05:12:06,380 --> 05:12:10,659
+I need it. I need a gun. I need a gun. I need a gun. I need a gun. I need a gun
+
+1433
+05:12:28,990 --> 05:12:46,090
+Helicopters dropping off. I have a weapon for you. Wait for it on the roof. Why is this?
+
+1434
+05:12:51,970 --> 05:12:55,750
+Health pack you can do better than that
+
+1435
+05:13:03,240 --> 05:13:10,349
+Anti air kit. All right. What is it?
+
+1436
+05:13:11,330 --> 05:13:19,549
+Anti-air missile that's to destroy. Okay, we're gonna lock on
+
+1437
+05:13:20,090 --> 05:13:33,840
+Get out of here
+
+1438
+05:13:33,840 --> 05:14:18,060
+Done anymore. I'm me in this shit. You missed that one. I want to do like a
+
+1439
+05:14:18,919 --> 05:14:30,939
+Helicopter fight, but can I pick him up in this but that wasn't the building he was in right?
+
+1440
+05:14:31,259 --> 05:15:01,650
+Can I pick this is so awkward to drive around him. I get it
+
+1441
+05:15:01,650 --> 05:15:12,889
+I have to tell him to follow me. I follow follow follow follow follow, but is he piloting?
+
+1442
+05:15:23,790 --> 05:15:29,099
+That's not an up building right
+
+1443
+05:15:29,819 --> 05:15:38,680
+Okay, thank God it went over it dear lord that was so close
+
+1444
+05:15:38,680 --> 05:15:42,560
+I
+
+1445
+05:16:04,950 --> 05:16:06,950
+47 boys, yeah
+
+1446
+05:16:10,229 --> 05:16:12,229
+It's like a bounty here
+
+1447
+05:16:12,669 --> 05:16:16,959
+Where's this dude?
+
+1448
+05:16:17,279 --> 05:16:49,450
+Where's this guy? Oh well destroy the building
+
+1449
+05:16:49,970 --> 05:16:55,139
+Wish I had that missile. That'd be great. Just wait. Okay, see for wait
+
+1450
+05:16:55,139 --> 05:17:01,939
+Wait, wait, wait see for on the building and then we get in and then I can detonate it, right?
+
+1451
+05:17:01,939 --> 05:17:09,099
+Does that make sense finish the job first? Oh, right, right, right. You're right. Do the mission. Yeah, that's true
+
+1452
+05:17:09,779 --> 05:17:49,520
+Dave helipads are for nerds
+
+1453
+05:17:50,319 --> 05:18:03,319
+Helipads are for incredibly rich people. I mean you can be a nerd and be rich
+
+1454
+05:18:03,799 --> 05:18:08,729
+But you got to be rich to have a helipad. That's just the way it is 2.4 mil
+
+1455
+05:18:09,409 --> 05:18:17,369
+I'm taking my help. Look at I can I'm gonna go down there
+
+1456
+05:18:17,810 --> 05:18:41,599
+Dave, okay. Yeah, so uh the next game we're gonna play
+
+1457
+05:18:42,159 --> 05:18:46,430
+It's probably Desperados 3. I played Desperados 2 and I loved it
+
+1458
+05:18:46,430 --> 05:18:57,549
+I made a video on it end of the stream voice. Not quite. No, not yet
+
+1459
+05:18:58,049 --> 05:19:13,439
+But Desperados should be really fun. If if it's anything like Desperados 2 that was a lot of fun as well
+
+1460
+05:19:18,279 --> 05:19:30,419
+UPHQ is in the northern part of the city. How high can I go?
+
+1461
+05:19:31,939 --> 05:19:33,939
+Finish LA Noire
+
+1462
+05:19:36,819 --> 05:19:38,819
+Three years ago
+
+1463
+05:19:39,419 --> 05:19:52,479
+But just finish it
+
+1464
+05:19:53,720 --> 05:20:01,799
+Okay, I want you guys just we'll take bets
+
+1465
+05:20:02,400 --> 05:20:07,150
+Do you think from the highest point in a helicopter is falling onto the ground is gonna kill me?
+
+1466
+05:20:07,630 --> 05:20:13,599
+If it does stream is over if it doesn't and I'll do the mission
+
+1467
+05:20:21,450 --> 05:20:23,009
+We want Naughty Bear
+
+1468
+05:20:23,009 --> 05:20:27,509
+You don't want Naughty Bear
+
+1469
+05:20:28,029 --> 05:20:50,610
+What's that? Am I being swarmed right now by other aircraft?
+
+1470
+05:21:01,240 --> 05:21:08,349
+This is really far away shit
+
+1471
+05:21:08,869 --> 05:21:11,619
+All the way at the top of the mountain
+
+1472
+05:21:11,740 --> 05:21:18,520
+People who want Naughty Bear are the same people who want Ratatouille
+
+1473
+05:21:18,520 --> 05:21:24,279
+They've wanted for the memes for like three minutes and then they leave when he actually plays the game
+
+1474
+05:21:25,000 --> 05:21:31,360
+Yep
+
+1475
+05:21:31,360 --> 05:21:34,360
+Sounds about right to me. All right, here we go
+
+1476
+05:21:34,959 --> 05:21:43,419
+Does this kill me? Yes or no, we'll find out. Here we go. And then they come back
+
+1477
+05:21:44,099 --> 05:21:48,299
+Four hours later and they go. Holy shit. He's still playing this game
+
+1478
+05:21:49,180 --> 05:21:55,130
+Yeah, that was the plan. Here we go
+
+1479
+05:22:22,009 --> 05:22:33,020
+We're good. We got to do the mission now
+
+1480
+05:22:40,229 --> 05:22:53,119
+You need help with something ooh, okay river outpost wait, here's a shop scout
+
+1481
+05:22:53,680 --> 05:22:56,069
+Ooh
+
+1482
+05:22:56,069 --> 05:22:57,270
+transport
+
+1483
+05:22:57,270 --> 05:22:59,270
+Sure, I'll just take one
+
+1484
+05:22:59,349 --> 05:23:02,020
+Why not? Sure
+
+1485
+05:23:05,979 --> 05:23:13,880
+Rifle grenades and ammunition. All right, we need to
+
+1486
+05:23:15,639 --> 05:23:30,360
+Sure do it who gives a crap. Hey who gives a crap anyway, this is just
+
+1487
+05:23:41,619 --> 05:23:44,439
+Good it's like a buddy
+
+1488
+05:23:44,680 --> 05:24:08,229
+This
+
+1489
+05:24:08,389 --> 05:24:09,869
+Where this is
+
+1490
+05:24:09,869 --> 05:24:13,229
+Here it is. It's fine. It's fine. It's fine. We're here. We're here. We're here here here here here
+
+1491
+05:24:13,509 --> 05:24:31,560
+You're me you should play mercenaries to ban that guy for two minutes down here. I got our wheels back. Oh, you're gone
+
+1492
+05:24:31,560 --> 05:25:21,779
+Whatever get on somebody get on I want a friend my bike. There you go. Nice. He's dead
+
+1493
+05:25:23,279 --> 05:25:25,279
+He died bullshit
+
+1494
+05:25:25,759 --> 05:25:35,919
+Use the guerrilla commanders. Wait, this is the same mission from the before is different people
+
+1495
+05:25:36,520 --> 05:25:46,040
+There any difference at all?
+
+1496
+05:25:46,680 --> 05:26:03,500
+John himself, that's ours
+
+1497
+05:26:14,930 --> 05:26:33,639
+Oh shit, we need one more guy
+
+1498
+05:27:04,900 --> 05:27:21,380
+One more you got it. All right, it's there
+
+1499
+05:27:22,380 --> 05:27:39,150
+Is there anything else to do?
+
+1500
+05:27:39,150 --> 05:27:45,250
+Is there an ownership should we end it? I mean, I had a lot of fun. This was fun
+
+1501
+05:27:45,250 --> 05:27:47,250
+Like about five or six hours
+
+1502
+05:27:48,009 --> 05:28:01,599
+Cheat now. Is it actual cheats? Are you guys actually making that up?
+
+1503
+05:28:02,040 --> 05:28:10,290
+Hold the L&R and then do start up a left a I don't like that's I went by too fast
+
+1504
+05:28:22,790 --> 05:28:27,029
+X-ray cheats old L&R and do start up a
+
+1505
+05:28:28,110 --> 05:28:30,590
+Left. Haha. Yeah, that's funny
+
+1506
+05:28:31,840 --> 05:28:33,919
+almost close no
+
+1507
+05:28:34,599 --> 05:28:50,959
+Oh LB up a a again quit game that yeah, that would have been great. Um
+
+1508
+05:29:06,029 --> 05:29:08,860
+guys
+
+1509
+05:29:08,860 --> 05:29:11,930
+Why did you do that?
+
+1510
+05:29:12,049 --> 05:29:28,830
+That's a friendly. How do you even time that missile to land on me like that? That was fucking crazy
+
+1511
+05:29:30,270 --> 05:29:35,840
+All right, let's I want to blow up. Let's let's get a building. I need to try that
+
+1512
+05:29:36,520 --> 05:29:49,439
+Cheats cheats cheats. I don't think this is real. Let's let me say games radar
+
+1513
+05:29:50,159 --> 05:29:54,180
+Okay, he's up up
+
+1514
+05:29:57,020 --> 05:30:07,930
+Nuclear Bunker Buster. Hold on a second. All right PDA map screen
+
+1515
+05:30:11,400 --> 05:30:29,630
+Up up down down left right left right up up down down left right left right on the at the PDA screen during gameplay
+
+1516
+05:30:30,470 --> 05:30:42,119
+PDA map screen votes are available after the October 31st 2008 online update is applied
+
+1517
+05:30:42,700 --> 05:30:48,759
+Do I have that? Okay, I?
+
+1518
+05:30:57,520 --> 05:30:59,360
+Enabled cheats first
+
+1519
+05:30:59,360 --> 05:31:04,799
+PC doesn't have updates. Oh
+
+1520
+05:31:08,700 --> 05:31:17,470
+I mean, this is on games radar
+
+1521
+05:31:17,909 --> 05:31:20,159
+one
+
+1522
+05:31:20,159 --> 05:31:25,419
+Enable cheats first. Yeah, that's what I just tried the copter delivered one pilot hoofing it back to the villa
+
+1523
+05:31:25,639 --> 05:31:33,099
+Yeah, yeah, when I press go online, it's that I couldn't connect to the servers. They don't exist anymore
+
+1524
+05:31:33,659 --> 05:31:41,479
+You have to highlight the PMC first
+
+1525
+05:31:42,119 --> 05:31:45,639
+That's not that's a that you made that up
+
+1526
+05:31:46,000 --> 05:31:51,759
+Right bumper right bumper left over right over left over left over left over right bumper right bumper right bumper left bumper
+
+1527
+05:31:52,400 --> 05:32:11,400
+Alright, what's a cool skyscraper?
+
+1528
+05:32:48,029 --> 05:32:50,990
+Okay, wait, why is I'm gonna kill somebody or capture in here?
+
+1529
+05:32:51,590 --> 05:32:58,000
+What wasn't I just working with these guys?
+
+1530
+05:32:58,720 --> 05:33:08,599
+How am I still alive?
+
+1531
+05:33:08,599 --> 05:33:28,520
+You're a mercenary. It's not no it doesn't work all cheats
+
+1532
+05:33:28,880 --> 05:33:37,459
+LBRB RB LB RB LB LB RB RB RB RB LB and then hit the back button again. That's back
+
+1533
+05:33:37,459 --> 05:33:48,599
+All right, LB RB RB LB RB LB RB RB RB RB RB RB back. I'm not a trainer. No, that's it
+
+1534
+05:33:48,599 --> 05:34:00,119
+I'm out of here. There's a tutorial here. Okay, if this is a screamer or if there's a gnome or a rick roll
+
+1535
+05:34:00,639 --> 05:34:11,159
+The stream is turning off. I'll allow this
+
+1536
+05:34:34,330 --> 05:34:43,540
+Don't they sing there it comes do the bark man
+
+1537
+05:35:27,400 --> 05:35:40,270
+Why did you give this to me is now I have to listen to the whole fucking thing real tutorial
+
+1538
+05:35:40,270 --> 05:35:45,419
+Oh, if you body if you can do the part, I forgot the songs awesome
+
+1539
+05:36:09,479 --> 05:36:13,619
+He was lying in the street how
+
+1540
+05:36:32,909 --> 05:36:35,590
+Do you always sound like this 30 years ago
+
+1541
+05:36:38,750 --> 05:36:45,919
+Remember the voice actors that does Bart is like 75 years old. He was like 30
+
+1542
+05:36:46,840 --> 05:36:50,169
+She was doing Bart for the first time I
+
+1543
+05:36:51,330 --> 05:37:20,080
+Said she all right. This is the end of the scream. I'm done. I'm done. This is fun, though
+
+1544
+05:37:20,599 --> 05:37:29,409
+Here's the real tutorial real real real, please last time Larry last time Larry last time. I try to help you. Okay, oh
+
+1545
+05:37:31,159 --> 05:37:33,959
+And it's a good one too. I'll give you one second
+
+1546
+05:37:34,479 --> 05:37:38,630
+Yeah, that's the last time I click on a link from you Larry
+
+1547
+05:37:39,189 --> 05:38:01,810
+Real tutorial, okay. This one is this is watch this now. I swear to god of a muselk video place
+
+1548
+05:38:02,529 --> 05:38:04,349
+like I
+
+1549
+05:38:04,349 --> 05:38:13,270
+Good grammar and spelling are important. But if you want to write essays that inspire
+
+1550
+05:38:14,270 --> 05:38:16,709
+messages that forge brighter connections and
+
+1551
+05:38:17,750 --> 05:38:19,270
+emails that
+
+1552
+05:38:19,270 --> 05:38:21,270
+Get the job. All right
+
+1553
+05:38:21,270 --> 05:38:24,389
+Here's the other me to tell you something about like grammarly, right?
+
+1554
+05:38:24,590 --> 05:38:29,830
+We are just teaching people that they can just mash their keyboards, you know, you have to know how to spell anything
+
+1555
+05:38:29,990 --> 05:38:34,709
+You don't even have to know when to do periods commas exclamation points never, you know, who cares
+
+1556
+05:38:38,599 --> 05:38:42,880
+Eventually, we're gonna start you can start writing emotes and Grammarly is gonna write your essay for you
+
+1557
+05:38:42,880 --> 05:38:45,080
+It's gonna be like German old German rats
+
+1558
+05:38:46,080 --> 05:38:58,500
+Mugga ash Omega lol and it's gonna write is a fucking story for you. I don't fit the
+
+1559
+05:38:59,139 --> 05:39:31,200
+What is that? I've played this game before it's terrible. It's just not it's so bad
+
+1560
+05:39:31,560 --> 05:39:36,439
+What do you want? I that's not it. What do you walk around you like to attack? I it's not good
+
+1561
+05:39:38,560 --> 05:39:40,560
+Although I didn't play the remakes
+
+1562
+05:39:40,759 --> 05:40:10,770
+Hey guys, I deleted the browser source and I can't stop it
+
+1563
+05:40:11,409 --> 05:40:14,099
+Isn't that interesting?
+
+1564
+05:40:14,419 --> 05:40:18,340
+It's off. It's not here anymore. I cannot control it
+
+1565
+05:40:19,020 --> 05:40:21,139
+Like I deleted it from the source. I
+
+1566
+05:40:22,560 --> 05:40:25,360
+Don't know why it's still playing. It's not even here anymore
+
+1567
+05:40:26,080 --> 05:40:32,060
+What do I do?
+
+1568
+05:40:32,060 --> 05:41:00,709
+It's not on the screen. It's not even in my Grammarly does more than you Grammarly
+
+1569
+05:41:04,409 --> 05:41:06,409
+It's the GTA radio
+
+1570
+05:41:16,689 --> 05:41:21,049
+I know some of you guys think this is a joke or something. Oh, what a funny like bit he's doing
+
+1571
+05:41:21,610 --> 05:41:27,729
+I've removed it from it's not up here. There's no capture source. It's not here
+
+1572
+05:41:29,290 --> 05:41:34,799
+This is gonna knock this is gonna happen it until I hit the X on OBS
+
+1573
+05:41:42,409 --> 05:41:49,349
+Because the better we all communicate the better we connect yeah, you have to prove it
+
+1574
+05:41:50,029 --> 05:41:51,150
+Grammarly
+
+1575
+05:41:51,150 --> 05:41:52,909
+Helping close the window
+
+1576
+05:41:52,909 --> 05:41:57,349
+The window there is no window and download today. I don't have a window
+
+1577
+05:41:57,909 --> 05:42:30,240
+Wait, I think I found it. Hold on. I got it. I got it. What are you linking me?
+
+1578
+05:42:30,880 --> 05:42:39,240
+Yeah, I you know how times I've seen this image of me shibby and it's Alex and somebody writes something fucked up on my shirt
+
+1579
+05:42:39,380 --> 05:42:48,500
+You either make me like five inches shorter put like a big pee stain on my pants. That was really nice
+
+1580
+05:42:49,240 --> 05:42:54,720
+Look at like the oily pee pee stain. I remember that one. That was funny
+
+1581
+05:42:55,439 --> 05:43:08,680
+Alright, I'm done. I'm I'll see you later. I'll see you later. That's it
+
+1582
+05:43:08,680 --> 05:43:26,229
+I had a lot of fun, but I think it's time into the stream boys. Yeah
+
+1583
+05:43:26,830 --> 05:43:32,759
+No stream tomorrow, by the way, I have doctor's stuff to do. I will not be around tomorrow
+
+1584
+05:43:33,439 --> 05:43:35,869
+But I will be around Wednesday and Thursday
+
+1585
+05:43:36,430 --> 05:43:38,869
+Wednesday and Thursday is probably gonna be Desperado's 3
+
+1586
+05:43:39,590 --> 05:43:43,110
+That's gonna do custom robo as well
+
+1587
+05:43:43,549 --> 05:43:51,759
+So Wednesday will be Desperado's 3 and then if the game sucks and game sucks will do something else
+
+1588
+05:43:53,090 --> 05:44:04,220
+Eternal darkness I also have but that'll probably be October. Am I gonna finish mercenaries?
+
+1589
+05:44:05,400 --> 05:44:06,840
+Probably not
+
+1590
+05:44:06,840 --> 05:44:12,650
+Although this is this could be one of those now probably not. I think I've seen everything I wanted to see
+
+1591
+05:44:13,169 --> 05:44:18,779
+What time PST on Wednesday probably around same time today?
+
+1592
+05:44:19,959 --> 05:44:26,040
+fucking jump
+
+1593
+05:44:26,080 --> 05:44:31,919
+Probably same time today around like 10 o'clock and 30 started 11 today because of the ps3 problems, but several like 1030
+
+1594
+05:44:32,560 --> 05:44:45,810
+Am Pacific he's gonna run over by the boat. Wait, he's alive. I
+
+1595
+05:44:59,319 --> 05:45:01,319
+Can't shoot through this glass
+
+1596
+05:45:11,970 --> 05:45:25,229
+Well, I can't end the stream I can't stop I'm trying to stop
+
+1597
+05:45:25,849 --> 05:46:07,900
+All right, I gotta go. I'm gone. I'm officially gone. See you later. This character is invincible
+
+1598
+05:46:26,159 --> 05:46:30,759
+I can't stop playing. All right, I guess I'm gonna hit the button. Am I sad? No, what?
+
+1599
+05:46:31,279 --> 05:46:41,880
+My sad
+
+1600
+05:46:41,880 --> 05:46:54,860
+Why would I be sad? All right. I'll see you guys Wednesday. Take your buddy. Let's go
+
+1601
+05:46:54,860 --> 05:47:00,549
+I got I got a pull it I got a pull the plug pull and plug but done
+
+1602
+05:47:00,630 --> 05:47:06,479
+Hey, look at that plug has been pulled. That was fun
+
+1603
+05:47:06,479 --> 05:47:16,779
+I just I couldn't stop but there was mercenaries to but exactly when I wanted out of this game and it is exactly what
+
+1604
+05:47:16,779 --> 05:47:22,159
+I thought it was going to be I'll see you Wednesday
+
+1605
+05:47:22,319 --> 05:47:30,180
+Thank you to all the community subs by the way speaking. I want to make sure I make this really clear. There is
+
+1606
+05:47:30,860 --> 05:47:35,119
+No multi month sub that you need for FTK
+
+1607
+05:47:35,459 --> 05:47:41,409
+The server is apparently going to be able to handle over the course of I believe it's six or seven different servers
+
+1608
+05:47:41,970 --> 05:47:44,840
+Connected together somewhere around a thousand people
+
+1609
+05:47:45,240 --> 05:47:53,340
+Now the people that can actually play in like the main game is somewhere around like two or three hundred maybe four hundred
+
+1610
+05:47:53,740 --> 05:48:00,310
+Well, we made it differently this time when I say we I mean they
+
+1611
+05:48:00,869 --> 05:48:07,069
+Where there's gonna be a lot of different like hub worlds connected for a queue system
+
+1612
+05:48:07,389 --> 05:48:11,470
+So it's not just like the server gets fucking diarrhea don in
+
+1613
+05:48:12,029 --> 05:48:15,069
+Ten seconds and there's 400 people and then the whole thing crashes
+
+1614
+05:48:15,549 --> 05:48:26,009
+Top sub gifters to another this top sub gifter hasn't worked since I implemented this in stream labs OBS. It's just there
+
+1615
+05:48:26,049 --> 05:48:32,130
+It's just those guys. It's a slug every time. It's the rich money guy in the middle and it's like the the metamorphosizing
+
+1616
+05:48:33,330 --> 05:48:42,770
+Alien squid on the right. It's always these people every time what day you can do custom robo either Thursday or
+
+1617
+05:48:43,490 --> 05:48:50,689
+Monday depends on how long desperado's is if I have fun in it, but let's run the credits
+
+1618
+05:48:51,250 --> 05:48:59,479
+Hopefully this works because I'm testing a theory here. The theory is do I have to be on?
+
+1619
+05:49:00,119 --> 05:49:07,889
+The stream labs page for it to work. Let's test it ready
+
+1620
+05:49:11,430 --> 05:49:27,500
+Yep, the stream labs page has to be open and on my screen the whole time
+
+1621
+05:49:27,860 --> 05:49:31,500
+That's new that I didn't need to do that before
+
+1622
+05:49:32,060 --> 05:49:41,909
+Those are these I stopped streaming for two months and all these windows update makes a bunch of shitty updates gonna be one person
+
+1623
+05:49:42,290 --> 05:49:51,500
+Stop using stream labs, you know, I wish I could but I've been so used to it for so long that
+
+1624
+05:49:52,029 --> 05:50:02,709
+I don't want to relearn another system. Hey one guy nice job
+
+1625
+05:50:03,369 --> 05:50:07,680
+Thanks for the subs everybody. I'm sorry you did I my theory is correct
+
+1626
+05:50:12,060 --> 05:50:15,459
+Actually one guy his channel is dying sad face
+
+1627
+05:50:16,759 --> 05:50:23,669
+During's been rough lately. No, we're good. Everything's fine. That could be one person and it would be alright. Don't worry
+
+1628
+05:50:24,029 --> 05:50:40,259
+Have you seen totally accurate battlegrounds? Uh, I have I wanted to play it a long time ago, but if I was like
+
+1629
+05:50:40,259 --> 05:50:52,259
+It's early access, right? Why is he so sad? No, no, no, no, no, no. No, stop. Stop it
+
+1630
+05:50:52,740 --> 05:50:55,740
+You cut this out right now
+
+1631
+05:50:55,819 --> 05:51:06,270
+But you're all gonna be in big trouble a lot of players recently. Maybe I'd play it. Alright guys, I'll see you Wednesday
+
+1632
+05:51:06,709 --> 05:51:08,709
+Have a great rest of your night
+
+1633
+05:51:10,590 --> 05:51:12,189
+Let's do a raid
+
+1634
+05:51:12,189 --> 05:51:13,750
+If we're not ready in a long time
+
+1635
+05:51:13,750 --> 05:51:19,700
+I want to try I want to try to cycle people like people that we haven't rated in a very well
+
+1636
+05:51:19,700 --> 05:51:21,700
+We haven't rated or we haven't read in a very long time
+
+1637
+05:51:22,299 --> 05:51:37,610
+Who's online at the moment? Let's take a look seeing a bunch of names
+
+1638
+05:51:38,330 --> 05:51:46,069
+You know, let's let's write Kraken. It's been a long time since we've rated Kraken
+
+1639
+05:51:46,470 --> 05:51:51,610
+In a while since I've talked to Kraken to it's been a few months
+
+1640
+05:51:52,130 --> 05:51:58,020
+See how he's doing was he playing outward? Oh Kraken. I said hello
+
+1641
+05:51:58,540 --> 05:52:03,939
+Enjoy yourselves if you feel like sticking around on a Kraken stream then go for it. If not, and we'll see you Wednesday
+
+1642
+05:52:04,380 --> 05:52:07,659
+Are you gonna ever use channel points again? Yes
+
+1643
+05:52:09,299 --> 05:52:14,369
+Eventually, there will be something else to do. I promise. All right. I see you guys later. See you Wednesday
+
+1644
+05:52:14,369 --> 05:52:16,369
+Have a great rest of your
+
+1645
+05:52:16,689 --> 05:52:27,779
+Next day or two. See you Wednesday for Desperado's 3 now get out of here scram. I think I spelled his name wrong
+
+1646
+05:52:27,779 --> 05:52:31,110
+I didn't all right. Take care guys. See you soon

@@ -1,0 +1,8143 @@
+1
+00:00:00,890 --> 00:00:13,769
+Hi guys, how are you? Good to see you again. My name is Germo. I'm here to present a stream for
+
+2
+00:00:13,769 --> 00:00:19,300
+you all today. A little late today, but that's because we had a couple of different small
+
+3
+00:00:19,300 --> 00:00:25,140
+issues and by small I mean major issues. Issue number one, earlier about like an hour and a half
+
+4
+00:00:25,140 --> 00:00:30,420
+ago my internet was off. It was shutting off and turning on, shutting off, turning on. I'm like,
+
+5
+00:00:30,420 --> 00:00:35,859
+what the heck's going on here? So I had to figure that out. Issue number two, we're going to play
+
+6
+00:00:35,859 --> 00:00:44,179
+when I say we, Star is here. He's muted though. You can't hear him. Star and I were going to play
+
+7
+00:00:44,179 --> 00:00:48,700
+executive assault 2. And wow, that sounds like a fun idea. Let's go ahead and do that. Let's jump
+
+8
+00:00:48,700 --> 00:00:56,219
+into multiplayer and executive assault 1. The CEO game with the first person RTS. The game crashed
+
+9
+00:00:56,219 --> 00:01:00,299
+every time we tried to do it. We would get into a multiplayer game. We would try to figure it out.
+
+10
+00:01:00,299 --> 00:01:08,459
+Crash, crash, crash. So after it happening a few times, we were just like, uh, let's do something
+
+11
+00:01:08,459 --> 00:01:14,739
+else. And that's something else is viscera cleanup detail. Star has never played it. So we're going
+
+12
+00:01:14,739 --> 00:01:24,469
+to have to teach him how to play it. And here they are now. Oh yeah. We're talking about how
+
+13
+00:01:24,469 --> 00:01:28,790
+we're going to have to teach you how to play viscera cleanup detail. Yeah. He's never played
+
+14
+00:01:28,790 --> 00:01:33,430
+this before. I've never worked a day in my life that my hands are on callus that I've never even
+
+15
+00:01:33,430 --> 00:01:41,560
+held a mop before. I need to teach you how to use a mop. He says that's true though. Have you worked
+
+16
+00:01:41,560 --> 00:01:53,930
+a job? That's not true. I've mopped before for work. Yes. I have. Okay. All right. Okay. I
+
+17
+00:01:53,930 --> 00:01:57,370
+thought that you were just, I thought you didn't have one of those. I thought, okay, I didn't know
+
+18
+00:01:57,370 --> 00:02:03,290
+you have one. Okay. You just thought I was lying to you. I guess, I guess you had a job before.
+
+19
+00:02:03,930 --> 00:02:11,210
+I guess, I guess you've had to do like nightly detail work before. Yeah. So do I, do you still
+
+20
+00:02:11,210 --> 00:02:14,810
+need to explain this to me? I can't. Okay. When was the last, I'm curious. When was the last time
+
+21
+00:02:14,810 --> 00:02:23,780
+you held a mop in your hands? Um, it might've been eight years ago. Really? Yeah. I don't know.
+
+22
+00:02:23,780 --> 00:02:30,550
+A long, maybe like six actually. I don't know if that's true. I'm talking, you don't have to do
+
+23
+00:02:30,550 --> 00:02:35,830
+any cleaning, but when was the last time you held a mop in both of your hands? Yeah, like probably
+
+24
+00:02:35,830 --> 00:02:42,069
+six years ago. Okay. For me, for me, it was like two weeks ago. So, okay. I think I have some
+
+25
+00:02:42,069 --> 00:02:48,150
+authority to teach you how to play. And I think I'm, I think I just went to zero. No, thank God.
+
+26
+00:02:48,150 --> 00:02:55,270
+I hear your voice. It's going to be a struggle today. It's going to be a struggle today, guys,
+
+27
+00:02:55,270 --> 00:03:04,599
+but we're going to, I, I'm going for it. It's going to be a struggle. All right. Uh, so more
+
+28
+00:03:04,599 --> 00:03:08,120
+importantly, let's, let's just get in the game because we're already in the game. We already
+
+29
+00:03:08,120 --> 00:03:13,909
+spent the time getting into the game. I'm trying to touch your face and I can't. Hold on a second
+
+30
+00:03:13,909 --> 00:03:24,810
+here. There is that star. This is me. I'm on this side. You're, you're purple. Yeah. I'm lagging
+
+31
+00:03:24,810 --> 00:03:33,639
+right now. Yeah. I think, uh, my, my graphics up too high. That's what it is. All right. So
+
+32
+00:03:34,199 --> 00:03:41,219
+let's talk. What do you know about, um, cleaning? Uh, you, you dip the mop in the thing
+
+33
+00:03:42,340 --> 00:03:45,939
+and then you mop the stuff. Okay. Wrong. First of all, you have to clean up your area.
+
+34
+00:03:46,900 --> 00:03:50,580
+So these boxes here, you come over. I remember he's never played this game.
+
+35
+00:03:51,379 --> 00:03:56,939
+So hold left click. Oh, you don't have to hold it. You just click it. If you want to tilt it around
+
+36
+00:03:57,500 --> 00:04:01,900
+you hold left click and move it around in a circle. Your mouse, right? You can tilt it around this
+
+37
+00:04:01,900 --> 00:04:07,259
+way. If you press, uh, what button is it that you press to make it so it stands up right?
+
+38
+00:04:07,259 --> 00:04:12,539
+It is not T. Uh, what is it? How do I make it just stand up right? What's the button? Oh yeah,
+
+39
+00:04:12,539 --> 00:04:23,339
+this is the guy teaching me. I don't know what the button is. What's the button? F. No, no,
+
+40
+00:04:23,339 --> 00:04:30,060
+people saying F cause the internet queue. It's not cute. Double click, double art. So what you're
+
+41
+00:04:30,060 --> 00:04:32,620
+going to do is you're going to double, if you pick something up, you're going to double click
+
+42
+00:04:32,620 --> 00:04:37,259
+if you want it to stand up right, right click, drop stuff. Everything is physics based by the way.
+
+43
+00:04:37,259 --> 00:04:45,079
+So be aware of that when you're cleaning. So we need to, these are the boxes that you have to put
+
+44
+00:04:45,079 --> 00:04:53,350
+the trash in. And when I say trash, follow me up the stairs. Watch out for that. So in here,
+
+45
+00:04:54,149 --> 00:05:00,040
+as we open this door, you're going to see, well, this looks pretty clean. This is actually a clean
+
+46
+00:05:00,040 --> 00:05:03,720
+house. I did not think this is going to be clean. Um, over here on the, okay, nevermind. So over here
+
+47
+00:05:03,720 --> 00:05:10,439
+on the left, you see that there's been a couple of murders. Okay. And we need to pick up the whole,
+
+48
+00:05:10,439 --> 00:05:18,120
+the whole entire house has to be clean before we clock out. I have an idea. You have to listen,
+
+49
+00:05:18,120 --> 00:05:23,639
+no, you don't get ideas. This is my job. Okay. The rest of the house looks pretty good. So what
+
+50
+00:05:23,639 --> 00:05:30,839
+if we just wallpapered over the rest of this and just that room was back there. You want to just
+
+51
+00:05:30,839 --> 00:05:35,370
+build a wall here. Yeah. But then what happens to the, this part of the house?
+
+52
+00:05:36,329 --> 00:05:40,730
+This just can't go in this part of the house anymore. Oh, we can like clean the front porch
+
+53
+00:05:40,730 --> 00:05:48,360
+because once we sell it, we're good. Yeah. But they're going to want to see the kitchen and
+
+54
+00:05:48,360 --> 00:05:55,000
+shit. How are you going to convince them to do? Yes. You're understanding. So we have to just wait.
+
+55
+00:05:56,139 --> 00:05:59,180
+I wasn't done explaining. So we have to clean up everything. We have to rearrange everything.
+
+56
+00:05:59,660 --> 00:06:08,230
+It has to be spotless. There is an incinerator somewhere. I have no idea where. Okay. Is the
+
+57
+00:06:08,230 --> 00:06:12,550
+meat grinder part of the cleaning or is that the horror? I don't, uh, have I ever seen this before?
+
+58
+00:06:15,639 --> 00:06:21,779
+Okay. I think, I think that works. Oh, I can't pick you up. That's too bad. Hey, there's no
+
+59
+00:06:21,779 --> 00:06:25,220
+incinerator on this level. So we have to put, you have to pick up the things and throw them in there.
+
+60
+00:06:26,019 --> 00:06:32,699
+Okay. What are we putting in that original bucket? Okay. So come over here.
+
+61
+00:06:33,800 --> 00:06:37,560
+As you can see, this is the slosh romantic. This is a machine. And when you press the button,
+
+62
+00:06:37,560 --> 00:06:41,160
+it comes out with a fresh bucket of water. Where are you? I'm right behind you.
+
+63
+00:06:43,319 --> 00:06:48,680
+Grab the bucket of water. Don't spill it. I get made fun of for that. It is very easily spillable.
+
+64
+00:06:48,680 --> 00:07:00,220
+You're going to take your, I couldn't do it. How did you know? Really? Okay. Well,
+
+65
+00:07:00,220 --> 00:07:06,069
+just be careful with these. You very easily spillable. Very easy. I don't know why it was
+
+66
+00:07:06,069 --> 00:07:11,509
+not spillable. Uh, so you need to take this and obviously bring it. Let's start over here.
+
+67
+00:07:11,509 --> 00:07:18,259
+Get a couple of my own. Yeah. Get your own bucket. Take out your mop. Now your mop can only be used
+
+68
+00:07:18,259 --> 00:07:22,660
+a certain amount of time. So you take a look down here, see how that's doing that. It's cleaning it
+
+69
+00:07:22,660 --> 00:07:27,620
+up. Your mind is going to get dirty. Watch your footprints. Don't walk through stuff.
+
+70
+00:07:29,610 --> 00:07:34,170
+And once it becomes too dirty, if you keep mopping, you're going to make a fucking mess.
+
+71
+00:07:34,170 --> 00:07:40,120
+Don't do that. Come over to your water and dash it, dash it like that. Clean it up. And then you
+
+72
+00:07:40,120 --> 00:07:47,160
+get to use it a little bit more. By the way, when you get to a point where you've done this a few
+
+73
+00:07:47,160 --> 00:07:53,560
+times, the water is going to get dirty and you're going to have to dispose of that bucket because
+
+74
+00:07:53,560 --> 00:08:00,040
+you can't use it anymore. Let me just grind this person up. Hold on. This is my first day on the
+
+75
+00:08:00,040 --> 00:08:09,379
+job. Thanks for training me. So you're going to pick that up with your hands and then clean it.
+
+76
+00:08:10,019 --> 00:08:13,540
+No, no, no, no. Well, now you've ruined that bucket. So you've already screwed it up. See how
+
+77
+00:08:13,540 --> 00:08:18,569
+the bucket's ruined now? Okay. So now your head's clean. Let's just put this in here.
+
+78
+00:08:20,459 --> 00:08:26,250
+Okay. So once there's a big mess over here, you start to clean it up.
+
+79
+00:08:26,250 --> 00:08:29,529
+All right. So do you have a basic understanding of how we're doing this?
+
+80
+00:08:30,170 --> 00:08:31,769
+Yeah. I'm tracking blood everywhere.
+
+81
+00:08:31,769 --> 00:08:35,429
+Yeah. So you stop doing that job. And by the way, this is happy Halloween, everybody.
+
+82
+00:08:35,429 --> 00:08:39,590
+Happy Halloween. I don't know why we started. We thought we would do something festive for a
+
+83
+00:08:39,590 --> 00:08:45,450
+change. Yeah. Let me just tell you something right now. This map is supposed to take four hours.
+
+84
+00:08:45,529 --> 00:08:54,740
+Oh, estimated. So it's like, is this like a gamer equivalent of doing like a thousand piece puzzle?
+
+85
+00:08:54,740 --> 00:09:03,129
+Yeah. Except you don't have to really think where the pieces go. You just, I mean, I guess.
+
+86
+00:09:03,129 --> 00:09:09,529
+Oh, by the way, get these USB drives. Hold on to them. Why? Because they give you extra points
+
+87
+00:09:09,529 --> 00:09:15,370
+at the end. You put them in the computer. Okay. Okay. So we have to wait. I need a designated
+
+88
+00:09:15,370 --> 00:09:20,250
+area. Think of a desert because we don't want to lose these. So designated area for these are going
+
+89
+00:09:20,330 --> 00:09:25,259
+to be over here. Yeah. Just drop them like right here. If you find a green USB drive.
+
+90
+00:09:25,259 --> 00:09:29,100
+All right. Well, I need a bucket of water. Where's that bucket of water? There it is.
+
+91
+00:09:29,100 --> 00:09:33,909
+I'm going to bring this upstairs. So do you want to work together or do you want to change rooms?
+
+92
+00:09:34,789 --> 00:09:42,840
+Um, I don't know. This is going to fall. I think we could probably do different rooms.
+
+93
+00:09:42,840 --> 00:09:49,269
+You said you wanted to, uh, said you wanted to embarrass me and show me how much better you
+
+94
+00:09:49,269 --> 00:09:53,610
+were at cleaning. Yeah. I mean, I could, we could do, if you want to pick a room and we could, um,
+
+95
+00:09:53,610 --> 00:10:02,299
+we just do it in the neighbor's yard. Yeah. Oh, I'm just realizing. So the next people have to
+
+96
+00:10:02,299 --> 00:10:09,740
+clean up the next house. Okay. So come over here. Let's, we have to pick equal rooms.
+
+97
+00:10:09,740 --> 00:10:14,899
+Let's go upstairs. We have, they have to be equal. Is there an upstairs? How do we get upstairs?
+
+98
+00:10:14,899 --> 00:10:35,299
+Is there an upstairs? It looks like there is. This is a closet. Okay. Is your room clean? I think
+
+99
+00:10:36,740 --> 00:10:43,460
+it's pretty clean. Oops. Oops. Oops. Hey rookie, come in here for a second.
+
+100
+00:10:46,409 --> 00:10:51,370
+Open the door. Open the door. You open the door. I'm doing a joke. You have to open the door. No,
+
+101
+00:10:51,370 --> 00:11:01,460
+you open the door. Hey rookie. Oh, your bucket. You're fucking this up for me. All right. No,
+
+102
+00:11:01,460 --> 00:11:06,500
+wait, how do you get upstairs? I was going to make like the Hey rookie thing where I hold the glass
+
+103
+00:11:06,500 --> 00:11:11,539
+and drop it in front of you and it breaks and I walk out of the room. Where's the upstairs?
+
+104
+00:11:11,539 --> 00:11:28,460
+How do we get upstairs? There's a basement. This basement. Why is there no light down here?
+
+105
+00:11:28,460 --> 00:11:36,139
+There's a USB. Yeah, grab it. How do we turn the lights on? Is there no upstairs? How's this
+
+106
+00:11:36,139 --> 00:11:40,730
+thing going to take four hours? This is going to take like 20 minutes. How long have we been
+
+107
+00:11:40,730 --> 00:11:50,740
+down? Oh, oh, candles. This is how we get light. Come over here. All right. Let's, let's go down.
+
+108
+00:11:50,740 --> 00:11:58,440
+We're going to work together. We're going to go. What the fuck was that? Yeah. Grab a candle. We're
+
+109
+00:11:58,440 --> 00:12:03,779
+going to start in the basement. We don't need to do, we can do that later. While we work together,
+
+110
+00:12:03,779 --> 00:12:07,460
+this is going to take like 40 minutes. Not even. Grab a candle from the vending machine.
+
+111
+00:12:09,259 --> 00:12:16,710
+Where? Out here. Why do we need candles? Because it's dark. It's not that dark. It's very dark.
+
+112
+00:12:18,039 --> 00:12:34,340
+Vend out a candle. What is that? What does it say? Do you need light? Let me help you.
+
+113
+00:12:35,860 --> 00:12:42,500
+Read it out loud. Turning hardwood into soft pulp. Power. Pure diesel. Fueled wood.
+
+114
+00:12:43,620 --> 00:12:49,059
+Rending power. Tired of hauling branches, logs, and tires, and even bodies for miles just to get
+
+115
+00:12:49,059 --> 00:12:55,220
+rid of them? Well, that ends now. What you need is the ultimate tool. Chuck Torrance's diesel
+
+116
+00:12:55,220 --> 00:13:00,259
+deforester. Is this just an advertisement for the thing in the back? All right. We'll
+
+117
+00:13:00,259 --> 00:13:05,379
+vend another candle. That's, hey, that's dirt. That's dirt. That's trash. Get rid of that.
+
+118
+00:13:05,940 --> 00:13:10,759
+I can only do one thing at a time. We're going to bring, hold on. Where's the,
+
+119
+00:13:11,720 --> 00:13:21,750
+it's too dark. Okay. Any trash has to go in here and then this has to be ground up.
+
+120
+00:13:24,279 --> 00:13:29,080
+That's not, why did you put the candle in there? Because it's not dark. I can see very clearly.
+
+121
+00:13:30,250 --> 00:13:45,610
+Turn your gamma up, kid. Do I turn my gamma up? How do I turn up my gamma? All right. I turn the
+
+122
+00:13:45,610 --> 00:13:51,220
+gamma up a little. It looks better. Oh, I can see now. All right. Okay. Now, now we skipped a whole
+
+123
+00:13:51,220 --> 00:13:56,600
+step. Now it'll be 30 minutes. All right. Well, let's, where's the meat grinder? Are these
+
+124
+00:13:56,600 --> 00:14:02,389
+pumping in the back? Okay. So take this. We don't need a candle anymore. All right. Take the,
+
+125
+00:14:02,950 --> 00:14:06,919
+just follow me down to the basement. We're getting paid to do this.
+
+126
+00:14:09,720 --> 00:14:12,440
+There's the stairs. All right. No, no, no. Upstairs, upstairs, upstairs, pronto.
+
+127
+00:14:14,149 --> 00:14:24,679
+Making it worse. No, upstairs. Oh, okay. Stairs. There are stairs. All right. So I'm going to,
+
+128
+00:14:24,679 --> 00:14:32,970
+I'll take, there are a couple of rooms up here. Get out of my way. Get out of my face.
+
+129
+00:14:33,610 --> 00:14:38,710
+Holy shit. This is going to take a long time. Oh no.
+
+130
+00:14:47,100 --> 00:14:57,000
+All right. We'll throw him away. We have to go from the edge of the house out.
+
+131
+00:14:59,159 --> 00:15:08,440
+Oh man. This is bad. This is fucking horrible. I found some belongings. All right. We need,
+
+132
+00:15:08,440 --> 00:15:11,159
+we need to do this right. I need, where's the thing that pushes out the, um,
+
+133
+00:15:11,879 --> 00:15:17,029
+why is this room so perfect? No, it's like fucked up. This one's like fucked up.
+
+134
+00:15:17,029 --> 00:15:24,460
+All right. So come here. Where are you? All right. So we're going to pick rooms. So I,
+
+135
+00:15:24,460 --> 00:15:31,419
+you take this one. Where are you? I'm right here. So you take this room here.
+
+136
+00:15:32,299 --> 00:15:39,580
+This one here with the bed. Okay. Oh my God. Yeah. It's pretty bad. Okay. So you take that one.
+
+137
+00:15:39,580 --> 00:15:44,139
+This one's really bad up here too. I'll take this one. And then let me see. I want to see
+
+138
+00:15:44,220 --> 00:15:51,019
+where to compare. You can look at this one. Oh, this is, oh, this is so, oh yeah.
+
+139
+00:15:51,740 --> 00:15:57,700
+This is pretty bad. Let me just walk around real fast. You didn't even go in the closet either.
+
+140
+00:15:58,340 --> 00:16:05,419
+That's an attic. No, no, you know, you know, you know, I, I don't want you to examine my shit.
+
+141
+00:16:05,419 --> 00:16:11,590
+Come here. You, you, you pick, pick a door and then whatever you get, you get. Come down here.
+
+142
+00:16:11,590 --> 00:16:15,340
+I'm, you know, I picked this one. I'm going to do this one. I don't know. I have no idea
+
+143
+00:16:15,340 --> 00:16:19,019
+what the fuck's behind that. I don't know. So. Okay. I'm going to do this one. You can do that one.
+
+144
+00:16:19,659 --> 00:16:27,399
+Yeah. No, it has to be an actual room. You want to do this one? I don't know what's behind this one.
+
+145
+00:16:27,399 --> 00:16:32,679
+So I'm going to just. Oh, okay. Just fine. We've been spending 10 minutes. I'll pick this room.
+
+146
+00:16:32,679 --> 00:16:38,100
+Just take that room. I'm going to take this one. Uh, maybe let's, you gotta grab buckets and shit.
+
+147
+00:16:38,100 --> 00:16:51,960
+So come here. Okay. What did you put in here? Oh Jesus. All right. You need to have like at
+
+148
+00:16:51,960 --> 00:16:55,399
+least two or three buckets as a technique. Now where's the thing that Prince fights?
+
+149
+00:16:58,179 --> 00:17:03,500
+There it is. Okay. On the left side of the house, there's a device. What the fuck am I breaking?
+
+150
+00:17:04,059 --> 00:17:09,670
+All right. So there's a, on the left side of the house, when you come out,
+
+151
+00:17:10,230 --> 00:17:15,529
+where'd you go? Come out of the house and you need to see this. It's important to know.
+
+152
+00:17:16,170 --> 00:17:26,119
+Yeah, I'm coming. Are you coming? What are you doing? Wait, wait, where are you? Wait, wait,
+
+153
+00:17:26,119 --> 00:17:32,180
+hold on. I'm being assaulted. Come out with the back of the front. How many minutes has it been?
+
+154
+00:17:32,660 --> 00:17:42,150
+It's been six. Just go out the front door. You need to see this. I'm coming. All right. So
+
+155
+00:17:43,210 --> 00:17:49,609
+over here, this green stand up display box thing, you click it and it gives you one of these.
+
+156
+00:17:49,609 --> 00:17:55,609
+It's so much easier just to clean a room by putting shit in here first and then taking that out
+
+157
+00:17:55,609 --> 00:18:02,569
+and putting it outside and disposing of it later. Okay. So what I like to do is I like to grab
+
+158
+00:18:02,650 --> 00:18:09,369
+two or three stack them up on top of each other and bring like two into wherever you're cleaning.
+
+159
+00:18:09,369 --> 00:18:19,019
+You feel what I'm saying? Okay. Yeah. Oh, by the way, holding down shift is walk. It's your best
+
+160
+00:18:19,019 --> 00:18:39,609
+friend. Okay. So we're going to go clean those two rooms. Yes. I, I, I, yeah, yeah. What was
+
+161
+00:18:39,609 --> 00:18:49,660
+that Flintstones thing? Oh no, no, I know what that is. Stack. Where are the stairs?
+
+162
+00:18:50,619 --> 00:19:07,940
+Where are the stairs? Are you serious? I don't remember right here. All right. I got that. Now
+
+163
+00:19:07,940 --> 00:19:16,789
+you're going to want some buckets. There's already, there's already been a fucking mess.
+
+164
+00:19:17,750 --> 00:19:23,589
+The buckets count as trash too though. Stack them and get rid of them. I recommend stacking them
+
+165
+00:19:23,589 --> 00:19:28,069
+one by one into each other and grabbing the bottom bucket. You can also do that when they
+
+166
+00:19:28,069 --> 00:19:33,940
+have liquid in them, but you have to be careful. I'd like to do at least four or five. Do you really
+
+167
+00:19:33,940 --> 00:19:43,960
+like to do this? What are you talking about? I'm talking about like you have some free time.
+
+168
+00:19:43,960 --> 00:20:04,309
+You just like hanging out and cleaning. Yeah. Yeah. What? Yeah. Stop. You're doing a great job.
+
+169
+00:20:06,059 --> 00:20:12,460
+Just do it. Oh no, I'm good. Oh, by the way, be careful because sometimes it might,
+
+170
+00:20:12,460 --> 00:20:28,410
+you might get a troll. Spill. You get your own. You have your own room to do upstairs. So get
+
+171
+00:20:28,410 --> 00:20:36,569
+your own. No, bring more than one. He's an idiot. He's an idiot. I'm the idiot. He's an idiot. He
+
+172
+00:20:36,569 --> 00:20:40,950
+doesn't understand. You're on like your fourth spill. Oh, I wonder why that is. Maybe it's
+
+173
+00:20:40,950 --> 00:20:45,109
+because somebody keeps taking them and throwing them into the trash behind me. I only need one.
+
+174
+00:20:45,910 --> 00:21:06,730
+He's an idiot. He doesn't even know. Where is he? I don't like how quiet it is. I can
+
+175
+00:21:06,730 --> 00:21:13,369
+hear him like walking around. Are you starting? I guess. Okay. Just wait. We have to do a three,
+
+176
+00:21:13,369 --> 00:21:20,569
+two, one countdown. I almost just dropped all this. Okay. Stop. Why is it doing that?
+
+177
+00:21:21,210 --> 00:21:28,539
+Why is it doing that? Guys, why is it doing that? Is this too big to go in the door?
+
+178
+00:21:30,059 --> 00:21:44,549
+The hell? Oh, fuck. Okay. Why are you leaving doors open? That's your issue.
+
+179
+00:21:45,509 --> 00:21:51,829
+There's blood all over every wall. Why are the doors open? You're going to get a draft.
+
+180
+00:21:51,829 --> 00:21:55,750
+You gave me like a Nickelodeon guts staircase to go up, by the way. Thank you.
+
+181
+00:21:58,789 --> 00:22:06,069
+Can you move that chair, please? Can you move this stuff for me, please? Oh, my mouth.
+
+182
+00:22:06,869 --> 00:22:11,430
+Not funny. No, time out. Time out. Time out my mouth. Time out. I'm bleeding. I'm moving. I'm
+
+183
+00:22:11,430 --> 00:22:21,619
+moving. I'm good. It was funny until you fuck. I got to go to the hospital, dude. Did you move
+
+184
+00:22:21,619 --> 00:22:29,079
+everything? Yeah. It's just. Oh, my fucking God. Take the one on top, please. Just take the one out
+
+185
+00:22:29,079 --> 00:22:38,440
+of the top. Thanks. Server reaching net actor saturation. Uh oh. What does that mean? We're
+
+186
+00:22:38,440 --> 00:22:48,779
+about to be over saturated. Server reaching over saturated levels. All right. Are you ready
+
+187
+00:22:48,859 --> 00:22:56,680
+to start cleaning? Yeah. Yeah. Okay. Let's see whose methods better. Okay. So on the count of
+
+188
+00:23:11,990 --> 00:23:23,160
+on the count of three. Uh, what? Hold on. Let me. I'm not ready to count yet. This is oversaturated.
+
+189
+00:23:24,700 --> 00:23:36,410
+Okay. On the count of get out of here. You've done enough. Okay. Are you counting? I'm not
+
+190
+00:23:36,410 --> 00:23:40,089
+ready to count yet. Hold on. You're cleaning already. I'm not cleaning yet. I promise. Look
+
+191
+00:23:40,089 --> 00:23:48,329
+at this room. Okay. Ready? No, I'm not giving you another viewer. Okay. One, one, two, start
+
+192
+00:23:48,329 --> 00:24:03,779
+cleaning. Okay. Got any music? What? No, I have to play that. Yeah. Isn't there a radio in the
+
+193
+00:24:03,779 --> 00:24:14,630
+game? There is a radio in the game, but it's it doesn't really work that well. Oh, are you
+
+194
+00:24:14,630 --> 00:24:20,150
+allowed to listen to music? Uh, maybe. Am I? Does your mommy say you could? Did you take my?
+
+195
+00:24:21,109 --> 00:24:45,420
+Take your what? Nothing. What the fuck was that? Is that you doing that? Or is that the game
+
+196
+00:24:45,420 --> 00:24:50,220
+doing that? That's the horror mansion doing that. Is that the horror mansion? Yeah.
+
+197
+00:24:51,180 --> 00:25:21,779
+Fuck. Too many actors. Can you, can you clean up some of these actors, please? I'm doing,
+
+198
+00:25:21,779 --> 00:25:57,609
+I'm doing it. You okay? I'm going to be okay. Dastardly. I'm sorry. Did you not use that word?
+
+199
+00:25:57,609 --> 00:26:08,009
+I just said dastardly. I'm sorry. Having a fun time. I wish I had the candle in here and it's
+
+200
+00:26:08,009 --> 00:26:21,990
+too dark. It really is. Are you serious? I just need can. I'd like the candle. How are you doing?
+
+201
+00:26:21,990 --> 00:26:29,259
+You doing okay? Yeah. How are you like halfway? Yeah, I'm getting there. I think maybe I should
+
+202
+00:26:29,259 --> 00:26:56,119
+have got more buckets. I told you I'm trying to get this as clean as possible. Clean, clean, clean.
+
+203
+00:26:57,180 --> 00:27:03,420
+Now remember, it what it matters is to be valid. Your room has to be completely empty
+
+204
+00:27:03,420 --> 00:27:09,259
+of no like trash cans. No, but if this stuff like belongs there, like there's books and stuff.
+
+205
+00:27:09,259 --> 00:27:13,579
+I mean, the books are fine, but no like trash and no buckets and no enough. Yeah, it has to
+
+206
+00:27:13,579 --> 00:27:21,109
+be out of the room completely clean room. Okay. And we'll have we'll have some like a chat
+
+207
+00:27:21,109 --> 00:27:48,329
+inspection. I'm not in a game. No. All right. Well, you you try to host this time. Damn it.
+
+208
+00:27:53,990 --> 00:27:59,369
+Hold on. I put in so much work. I did too. You don't know how much work I put in.
+
+209
+00:27:59,930 --> 00:28:09,480
+God damn it. Okay, hold on. I'm setting up the host. Maybe I can actually do it this time.
+
+210
+00:28:10,200 --> 00:28:17,289
+Oh, wait, I'm in like the normal game now. It like kicked me to the normal game. Oh, you got
+
+211
+00:28:17,289 --> 00:28:24,539
+on the normal game. Oh, my God. Do I have your stream restarted? It was playing on my stream.
+
+212
+00:28:24,539 --> 00:28:30,759
+It was wait, what? Forget about just don't even talk to me. All right, I'm gonna go like this.
+
+213
+00:28:33,500 --> 00:28:39,769
+And I'm gonna go like this. And it's gonna be really fun in like another 20 minutes when I go
+
+214
+00:28:39,769 --> 00:28:48,700
+to zero again. Okay. Well, I'm hosting it. I'm in the game. Wait, frick. Hold on. I'm not hosting it.
+
+215
+00:28:49,259 --> 00:28:55,980
+I closed the game. This is too hard. Cleaning was easy. Cleaning was easy. This is hard.
+
+216
+00:28:55,980 --> 00:29:05,900
+I'm going to zero again, I think. No, why? Why? If you can't clean it, just call it off.
+
+217
+00:29:05,900 --> 00:29:18,980
+No, I can't call it off. Just admit that I win. We can move on. I'm not going to admit.
+
+218
+00:29:18,980 --> 00:29:23,849
+We can reschedule. We can do something else. All right, let's try one more time.
+
+219
+00:29:23,849 --> 00:29:43,930
+Okay. All right, you got a game? Okay, hold on. I'm fuming right now. Oh, I just like I'm fuming
+
+220
+00:29:43,930 --> 00:29:52,410
+right now. Okay, I'm in. I think I invite you. I don't do I don't know. I've never used a computer
+
+221
+00:29:52,410 --> 00:30:08,940
+before. The mic still on. I know I'm live right now. We'll try it again. We'll see what happens.
+
+222
+00:30:09,880 --> 00:30:16,759
+Oh, yeah. Well, now we both know how this works. You know, it's fair.
+
+223
+00:30:16,759 --> 00:30:18,440
+It's hilarious because you want to know something?
+
+224
+00:30:25,099 --> 00:30:32,630
+I just got murdered. Why? I was going to say something funny. Not funny, actually. The funny
+
+225
+00:30:32,630 --> 00:30:41,750
+thing is they did a hardware node upgrade. They did like hardware maintenance, like upgraded the
+
+226
+00:30:41,750 --> 00:30:49,480
+node as worse than ever before. Holy shit. What are what are you saying? Holy shit. Like fucking
+
+227
+00:30:49,480 --> 00:31:00,500
+the Internet's stupid. Okay. Anyways, you got a game? I'm coming. Yeah. Let's see if this works.
+
+228
+00:31:01,430 --> 00:31:05,210
+See if I can stay connected for more than a minute. Oh, did you put the password in the
+
+229
+00:31:05,930 --> 00:31:17,099
+in our in our DM here? It's the same one from the other game. We tried to play another game
+
+230
+00:31:17,099 --> 00:31:23,880
+before this and my computer like restart it. And then it crashed to desktop the second time.
+
+231
+00:31:24,680 --> 00:31:31,619
+So so far, you know, playing games with Jerma, a lot of fun. It's going pretty good. It is fun,
+
+232
+00:31:31,619 --> 00:31:45,319
+isn't it? God. All right. Hey, okay. So what would you look? Okay, so here's how you play.
+
+233
+00:31:45,319 --> 00:31:52,819
+It's funny. Here's what you do. Go over here. Shut up. And there's you pick it up, you press
+
+234
+00:31:52,819 --> 00:31:58,700
+you can rotate it. What does this thing do? It tells it's a smell machine. It tells you what
+
+235
+00:31:58,700 --> 00:32:05,130
+when you turn it on, and you point it around. It'll tell you specifically what direction is
+
+236
+00:32:05,130 --> 00:32:11,450
+still trash. You can change the you can change the mode. If you right click one of them is blood
+
+237
+00:32:11,450 --> 00:32:18,200
+and body parts. The other one is trash. And it kind of beeps the closer you get. Okay.
+
+238
+00:32:18,200 --> 00:32:22,599
+That's great news. Yeah, it is. You are not going to get that same room again, because
+
+239
+00:32:23,559 --> 00:32:37,660
+we both know it was already. Yeah, I know. Yeah, I know. It was it was fun. So how about
+
+240
+00:32:37,660 --> 00:32:44,740
+how about you get the room that I had with the bed? And I'll do the basement. You think you can do
+
+241
+00:32:44,740 --> 00:32:51,859
+that? Yeah. I'll just do you one higher. I'll do the living room. I'll do the whole living room.
+
+242
+00:32:51,859 --> 00:32:55,619
+This would be completely completely spotless. I think the other room was worse because it's
+
+243
+00:32:55,619 --> 00:33:05,450
+upstairs and you got to walk all the way up there. Is that not fair? Okay. Yeah. Yeah. You get my
+
+244
+00:33:05,450 --> 00:33:09,690
+old room. I get basement. You're the one that had like the bed with the blood in the Freddy Krueger
+
+245
+00:33:09,690 --> 00:33:19,299
+hand. Yeah. All right. You got it. Get situated. Get ready. Okay. And I'm not going to like close
+
+246
+00:33:19,299 --> 00:33:32,579
+the game when I'm embarrassed about my room or anything. Okay. And I'm only doing the
+
+247
+00:33:33,619 --> 00:33:37,380
+there's like two rooms down here. I'm only doing the actual basement. Why did that cause more?
+
+248
+00:33:38,390 --> 00:33:44,470
+Not this like no just do the actual basement. I'll do your old room. I'm loading in more stuff.
+
+249
+00:33:46,299 --> 00:33:51,109
+Okay. I know what room is yours. I'm going to get some stuff situated and we can go
+
+250
+00:33:51,190 --> 00:34:06,759
+up. Get this back over here. Making a lot of noise up there. Yeah. Cause I'm moving around.
+
+251
+00:34:06,759 --> 00:34:24,539
+I'm trying to get situated so I can start this cleaning job. Okay. Where? What the fuck? Good
+
+252
+00:34:24,539 --> 00:34:30,440
+call. Nice. Nice call. Not a bad idea. I just ran around. I walked around the whole house
+
+253
+00:34:31,690 --> 00:34:48,699
+to get this. I'm only going to do two. No, I can do three. I know I can do three. I've done like,
+
+254
+00:34:49,659 --> 00:34:54,780
+I've done like five before. I can't even fit two through the front door.
+
+255
+00:34:55,900 --> 00:35:15,579
+Let's go. I can't do two. No, I can't apparently. Why are you leaving doors closed in this house?
+
+256
+00:35:15,579 --> 00:35:24,730
+We're doing a job. What? Why am I leaving doors closed before it was open? And it was
+
+257
+00:35:24,730 --> 00:35:32,889
+irritating. What am I? What's going on? Am I stuck on something? I was just walking on the table.
+
+258
+00:35:33,610 --> 00:35:47,349
+That makes no sense. Okay. I'm about ready to get going here. This is the room right here.
+
+259
+00:35:47,349 --> 00:35:52,469
+I thought we started. No, that's fine. You can go ahead. No, that's fine. You're that confident.
+
+260
+00:35:52,469 --> 00:36:03,320
+I'm pretty confident. I am. What the fuck was that? I'm confident. I am. All right. Here we go.
+
+261
+00:36:14,940 --> 00:36:25,780
+Jipple sandwich. Why are you doing that? I don't know. Did you almost get crushed?
+
+262
+00:36:26,420 --> 00:36:30,179
+I don't know. I was just thinking about Jipple sandwiches. We're kind of in a house of horrors.
+
+263
+00:36:31,139 --> 00:36:50,260
+Why am I even doing this? This can just stay in here. Remember, no trace of any liquid.
+
+264
+00:36:50,820 --> 00:36:56,019
+Everything has to be perfect. Not even water? I mean, no, no, no, no, no water. The room has
+
+265
+00:36:56,019 --> 00:37:15,989
+to be done. Okay. You're something of an expert. How many rooms have you cleaned? Let's get that
+
+266
+00:37:15,989 --> 00:37:21,030
+straight. Ever? Yeah, because you're about to be beat by like a one-time room cleaner. I mean,
+
+267
+00:37:21,590 --> 00:37:30,460
+I've cleaned a lot of rooms before. It depends. How many? I mean, we all know you haven't picked
+
+268
+00:37:30,460 --> 00:37:35,019
+up a mop in like four years, as you said, five years, something like that. Very respectful.
+
+269
+00:37:36,710 --> 00:37:49,880
+That's not a bad number. All right. I'm getting, I'm doing pretty well. How are you doing over
+
+270
+00:37:49,880 --> 00:37:54,280
+there? Things looking good? Very good. Very good. Good, good, good, good. I like to hear that.
+
+271
+00:37:55,239 --> 00:38:04,940
+I like to hear the competition is, you know, not just a one-sided thing, right? Yeah. It's
+
+272
+00:38:04,940 --> 00:38:11,880
+nice to see that the server is like stable now. Yeah. I wonder why it was having problems before.
+
+273
+00:38:12,840 --> 00:38:20,519
+I don't know. I'm just going to make my own internet. Yeah. Maybe I was saying before,
+
+274
+00:38:20,519 --> 00:38:27,690
+maybe you should like move to like Vegas to fix your internet. Everything sucks. Don't you know?
+
+275
+00:38:30,489 --> 00:38:42,170
+Everything sucks. Oh, we're getting the actor. We're getting the oversaturated actors thing again.
+
+276
+00:38:45,960 --> 00:38:59,900
+Who's an actor? I don't know what that means. Nice spill. Did you hear it? I heard you say
+
+277
+00:38:59,900 --> 00:39:04,460
+fuck and I heard a bucket. I haven't spilled once yet. This game is easy.
+
+278
+00:39:07,019 --> 00:39:43,639
+I need another bucket up here. Do you need any help? No. What? Why? I'm just trying to move
+
+279
+00:39:43,639 --> 00:39:49,619
+some stuff in that house. It sounds like you're having trouble. Like I could bring you a bucket.
+
+280
+00:39:52,250 --> 00:39:55,929
+No, that's good. Do you need a bucket? I could bring you something if you need.
+
+281
+00:39:56,730 --> 00:39:59,849
+No, I'm good. All right. Good. Just trying to help each other out here.
+
+282
+00:40:01,880 --> 00:40:04,920
+United friendly competition. We just we help each other out.
+
+283
+00:40:05,719 --> 00:40:13,289
+You know, do you need something? I don't need anything. I'm good. God damn it. Let me get out
+
+284
+00:40:13,289 --> 00:40:19,610
+here. I just need to dispose of these buckets that I have in my hand and then go this way.
+
+285
+00:40:21,610 --> 00:40:36,170
+Cool. I need like two more buckets. I think maybe. Why do I always go this wrong way?
+
+286
+00:40:40,949 --> 00:40:43,590
+Two buckets will do it and then I've got a little bit more time.
+
+287
+00:40:44,309 --> 00:40:53,030
+Come on. Do two. He's getting ahead of me. Come on. Hurry up.
+
+288
+00:40:56,679 --> 00:40:59,239
+Do you know the speedrun strategy so you can like be hop and everything?
+
+289
+00:41:00,280 --> 00:41:08,119
+I have my own strategy. You do yours. Are you trying to lock those out? Illegal move.
+
+290
+00:41:08,119 --> 00:41:12,119
+Illegal move. Illegal move. How is this illegal? You didn't set any rules. Illegal.
+
+291
+00:41:12,840 --> 00:41:27,820
+Are you still behind me? I needed that bucket too. That's an illegal move.
+
+292
+00:41:28,619 --> 00:41:34,570
+If you win, you're disqualified. I don't see any rules written anywhere.
+
+293
+00:41:34,570 --> 00:41:38,090
+There was a verbal agreement that you were going to be nice today.
+
+294
+00:41:41,059 --> 00:41:59,349
+Jeremiah, I'll be nice today. How you come? Almost done. Really?
+
+295
+00:41:59,989 --> 00:42:13,159
+Yeah, it's actually isn't that bad. Fucking illegal move. It was bullshit. It really was.
+
+296
+00:42:15,300 --> 00:42:20,500
+Oh, if I lose, it's because of that one bucket. Yeah, because I needed that. I would be almost
+
+297
+00:42:20,500 --> 00:42:27,590
+done by now. Can we get a ref? Anyone? Anyone want to be the ref here?
+
+298
+00:42:29,510 --> 00:42:44,019
+Anyone see that? I just like rubber banded. Oh, lag. Lag. I was going to win by lag.
+
+299
+00:42:45,750 --> 00:42:52,380
+That was an actual illegal move. Yeah. You don't need to mean it. I don't need to tell you that.
+
+300
+00:42:52,380 --> 00:43:36,489
+Oh my god. Okay. Watch that. Watch it. Okay. Give yourself a percentage. What percentage
+
+301
+00:43:36,489 --> 00:43:45,190
+you think you are? Like 80. 80. Yeah, I'm probably around 70. I got a way to go, I think.
+
+302
+00:43:46,070 --> 00:43:56,900
+Don't get too confident, though. I hear comebacks are very common in the
+
+303
+00:44:00,730 --> 00:44:09,989
+high level of competition. Yeah, I would say I'm like 65% probably.
+
+304
+00:44:13,000 --> 00:44:16,199
+Going backwards. I think I may have gone backwards a little.
+
+305
+00:44:17,000 --> 00:44:47,989
+Do you know the background for this house? Like, is this?
+
+306
+00:44:50,420 --> 00:44:54,840
+It's like a Freddy and Jason or something. Something like that.
+
+307
+00:44:55,559 --> 00:44:59,639
+On the classic Indian burial ground. There's some empty graves down here.
+
+308
+00:45:02,920 --> 00:45:15,110
+Cool. I like graves or something. I'm focusing. I'm focusing. I'm focusing.
+
+309
+00:45:16,900 --> 00:45:51,480
+I'm way behind you. So I need to focus. I'm probably at like, I'm getting there.
+
+310
+00:46:11,260 --> 00:46:20,440
+Fuck. I'm done. Done. I said it first. I said it first. I definitely said it first. I said it
+
+311
+00:46:20,440 --> 00:46:29,909
+first. I said it first. No, you didn't. You didn't say it. You did not say shit. I said done and then
+
+312
+00:46:29,909 --> 00:46:37,369
+you said done. How about we based on whose room is cleaner? I bet you have a spot somewhere like
+
+313
+00:46:37,369 --> 00:46:46,579
+you left something. No, I'll let it slide. Okay. Let me come see your room. All right. Don't track
+
+314
+00:46:46,579 --> 00:47:05,110
+shit up here. True. Okay. Hold on. Let me walk outside and clean my boots. Hold on. I'm getting
+
+315
+00:47:05,110 --> 00:47:36,179
+clean. I think I'm clean. Okay. Inspection. Oh, what's that chair? I see a knocked over chair
+
+316
+00:47:36,179 --> 00:47:40,019
+behind you. I just bumped into it because I was scared that you came in here. It was like this.
+
+317
+00:47:41,380 --> 00:47:48,179
+Jack took a screenshot. No, you startled me. It's not right. No, I'm sorry. If an inspector
+
+318
+00:47:48,179 --> 00:47:53,670
+walks in a room and goes, the person's going to go, what the fuck, and turn. That's what you did.
+
+319
+00:47:53,670 --> 00:48:04,340
+Okay. I'll let it pass. That's good. Everything's fine. I have to deduct a point for the chairs.
+
+320
+00:48:04,340 --> 00:48:08,820
+What is this chair? Where is it facing? It's not like a desk. It's just in the middle of the room,
+
+321
+00:48:08,820 --> 00:48:19,269
+a chair. What's wrong with that? You guys just leave chairs around your room? Yeah. Is everyone
+
+322
+00:48:19,269 --> 00:48:24,389
+okay with there just being random chairs? Where would you put this chair? There's no where to sit.
+
+323
+00:48:24,389 --> 00:48:29,110
+There's no place for that chair to be. It shouldn't be in here. What if I want somebody
+
+324
+00:48:29,110 --> 00:48:34,309
+to come in and help me? Maybe if you turned them and you at least pretended that this was a desk.
+
+325
+00:48:34,309 --> 00:48:38,789
+Automatically assuming that there's no small baby in this house, that the mother would have
+
+326
+00:48:38,789 --> 00:48:45,260
+to sit here and nurse. What are you talking about? You need the chair for that. Yeah,
+
+327
+00:48:45,260 --> 00:48:50,599
+you need to sit in a chair for that. I don't know. I wouldn't put a baby on a chair like that.
+
+328
+00:48:50,760 --> 00:48:56,869
+You need a rocking chair. The mother sits in the chair with the baby in her arms.
+
+329
+00:48:56,869 --> 00:49:04,630
+What are you talking about? I don't know. Fine. Deduct a point. I'll take that. Okay.
+
+330
+00:49:08,820 --> 00:49:23,510
+You can't open these? No, you can't open those. What the fuck was that noise? That was scary.
+
+331
+00:49:24,789 --> 00:49:33,190
+I got spooked. Nothing. It's nice and clean. All right. You got a 99. Nice. Thank you. Okay.
+
+332
+00:49:37,420 --> 00:49:51,699
+99. One point off. That's cool. Wait. Wait. I just got a tip. What do you mean a tip? Okay.
+
+333
+00:49:53,059 --> 00:49:56,739
+If you're the inspector, wait, wait, wait. Hold on a minute here. If you're the inspector,
+
+334
+00:49:56,739 --> 00:50:00,659
+do you have to call other inspectors to do your job for you? That was you just did.
+
+335
+00:50:00,659 --> 00:50:05,059
+You just inspect photographs and then you get the final review is from chat we said.
+
+336
+00:50:05,860 --> 00:50:09,860
+So I'm taking their input. I know you don't read yours. I read mine a lot
+
+337
+00:50:10,659 --> 00:50:17,539
+and I take their input all the time and I'm very nice to them consistently. I would love it if
+
+338
+00:50:17,539 --> 00:50:21,380
+from yesterday's stream if anybody could pull up some data on how many times my eyes looked over
+
+339
+00:50:21,380 --> 00:50:25,460
+at the left monitor. Now that's chat and it was probably four or five hundred times.
+
+340
+00:50:25,460 --> 00:50:30,980
+Is chats on the right? Chat is on the left actually. Nope. Excuse me. I've seen it. Okay.
+
+341
+00:50:30,980 --> 00:50:34,820
+How would I pick up? How would I pick up the one guy? That person's coming to get you.
+
+342
+00:50:34,820 --> 00:50:39,780
+That was weird. That freaked me out. Never mind. You're bringing an axe. Yeah. Because the person
+
+343
+00:50:39,780 --> 00:50:47,420
+who has the least score has to get their head chopped. This is a horror game. Inspectors first.
+
+344
+00:50:47,420 --> 00:50:54,780
+Okay. Let me clean my feet. Let me rub my feet. Let me. Wow. Entry way is a little bit of a. Nope.
+
+345
+00:50:55,579 --> 00:51:03,829
+Hey, not judging based on the entry. Wow. Well, first of all, this is not the basement. This is
+
+346
+00:51:04,309 --> 00:51:09,190
+the. Okay. Whoa. Whoa. I don't know about this.
+
+347
+00:51:22,099 --> 00:51:33,800
+You idiot. Well, thanks for concentrating. You're next. That's the joke. You're one of them now.
+
+348
+00:51:34,599 --> 00:51:45,530
+I win. Oh, oh, oh, I got me. Well, here's the funny thing. I have a confession to make.
+
+349
+00:51:46,250 --> 00:51:56,329
+Yeah. I won. That's a confession. Confession. I won. All right. I threw everything out the window.
+
+350
+00:52:00,389 --> 00:52:06,469
+Oh, so you cheated. So did you. So you're disqualified and I. You cheated too.
+
+351
+00:52:07,269 --> 00:52:12,780
+How did I cheat? Look, come over here. My. Wait, did I cheat though? Or did I just move?
+
+352
+00:52:17,829 --> 00:52:24,199
+Wait, did that? No, that didn't come out of here. We both cheated. We both were wrong,
+
+353
+00:52:24,199 --> 00:52:29,960
+but I was. I was very deliberate. But your room is not clean. Who's room is cleaner?
+
+354
+00:52:30,519 --> 00:52:36,980
+I think the precedent first is who cheated. Like if you're caught using, you know, what,
+
+355
+00:52:36,980 --> 00:52:41,619
+what were they using the cork baths or, you know, way back in the day when they're hitting slammers.
+
+356
+00:52:41,619 --> 00:52:46,340
+You're old enough. You remember, right? So I threw stuff out my window, but cleaned the room.
+
+357
+00:52:46,340 --> 00:52:54,150
+You made the room way worse. Who's room is cleaner? You deflated the football. You lose.
+
+358
+00:52:56,389 --> 00:52:59,030
+Uh, what about, what about the illegal move where you knocked the shit out of my hands?
+
+359
+00:53:00,309 --> 00:53:07,349
+That wasn't illegal. How is that? No, my room was cleaner and I could have just like kept that lie
+
+360
+00:53:07,349 --> 00:53:10,869
+up and you would have just been so disappointed. I can't believe you did this though, but thanks
+
+361
+00:53:10,869 --> 00:53:18,440
+for putting everything in the right spot for us to clean. All right. We're going to work together.
+
+362
+00:53:19,559 --> 00:53:25,000
+We're still doing this. What do you mean we're still doing this? I would love to see you actually
+
+363
+00:53:25,000 --> 00:53:30,500
+clean the basement disaster zone now. You're just going to watch. Show me how it's done.
+
+364
+00:53:33,690 --> 00:53:39,820
+You're just going to watch me do this. Well, okay. Let's, let's do it together. Nice catch.
+
+365
+00:53:40,539 --> 00:53:53,289
+All right. So that's not the basement. Hey rookie, catch this. Oh, no. Open the door.
+
+366
+00:53:54,940 --> 00:54:01,619
+Open the door, please. My lip, my lip, my mouth, my mouth. Look at my mouth. Is it bad? It's bone.
+
+367
+00:54:02,019 --> 00:54:06,579
+Oh, fuck. No, no, no, no, no, no. I got, I got it. I got it.
+
+368
+00:54:09,219 --> 00:54:25,829
+Is it better? Let me see. No, it's bad. You're beeping. All right. Let's go. Okay. Where do you
+
+369
+00:54:25,829 --> 00:54:29,590
+start? I don't know. What's the method? You have to just grind the people. You have to grind them.
+
+370
+00:54:31,860 --> 00:54:42,710
+That's not the method. Um, all right. Where's the back door? There's no back door down here.
+
+371
+00:54:42,710 --> 00:54:46,739
+Oh God. All right. Well, we got to bring them all up the stairs.
+
+372
+00:54:46,739 --> 00:54:49,380
+Wait, is there, there's a cut. There's a thing you can cut. Where's the cutter?
+
+373
+00:54:50,920 --> 00:54:57,960
+A cutter? Yeah. There's a cutter. There's secret tools. Is that another point deduction? You didn't
+
+374
+00:54:57,960 --> 00:55:07,719
+tell me about the secret tool. No, no, no, no, no. Can I, can we cut? There's this, there are secret
+
+375
+00:55:07,719 --> 00:55:14,699
+tools, but I don't know if they're in here. I can't believe you did this. This is like so bad.
+
+376
+00:55:14,699 --> 00:55:20,539
+All right. Just start grabbing people. Just grab people. Okay. People first. People try to get two
+
+377
+00:55:20,539 --> 00:55:32,409
+people in one of these. What about respecting the dead? Um, says the guy that piled them all up down
+
+378
+00:55:32,409 --> 00:55:40,090
+here. Now get your own bucket. You said try and get two in here. I got two. We're working together.
+
+379
+00:55:40,090 --> 00:55:52,389
+Are you picking this up or am I picking this up? You should take that. Okay. I'm gone. Here. How
+
+380
+00:55:52,389 --> 00:56:03,690
+about I pass the bodies up the stairs? Just throw them up the stairs. Where's the grinder?
+
+381
+00:56:05,559 --> 00:56:11,960
+Backyard. This guy doesn't even know where the grinder is. Yeah. Nice clean room you had there.
+
+382
+00:56:12,940 --> 00:56:20,230
+All right. This is not, this is not doing so well. I think they're still alive. Are you sure? Are you
+
+383
+00:56:20,230 --> 00:56:26,389
+sure you killed them? Are you sure you killed these people? I am sure they're dead. We're missing
+
+384
+00:56:26,389 --> 00:56:48,599
+somebody. That person's gone. Wait, there's more down here. Oh dude, dude, dude. What? Dude, there's
+
+385
+00:56:48,599 --> 00:56:55,239
+another house. There's another house? There's another house. Where? Oh, there's a back path.
+
+386
+00:56:55,880 --> 00:57:03,179
+Four hours, by the way. Oh dude, dude, dude, dude, dude, dude, dude, dude, dude, dude, dude, dude,
+
+387
+00:57:03,179 --> 00:57:09,369
+dude. I can't believe it dude. Yeah, there's definitely a back entrance though. I mean,
+
+388
+00:57:09,369 --> 00:57:16,969
+you go around the back. Yes, they do. Dude, I don't see a back door. I guess there's no back door,
+
+389
+00:57:16,969 --> 00:57:26,380
+but why? I found the one true ring. The one true ring. To rule them all. The Lord of the Rings.
+
+390
+00:57:26,380 --> 00:57:34,260
+Okay. What about it? Do you like that movie? You've never seen that movie. It's literally, it's.
+
+391
+00:57:35,559 --> 00:57:43,420
+What? You've never seen Lord of the Rings. Stand still. Drop the body. Look forward.
+
+392
+00:57:45,340 --> 00:57:55,219
+Just pick a direction. Just stop. Just pick a direction. I'm stopped. Don't touch my ring.
+
+393
+00:57:55,219 --> 00:58:03,639
+Oh, it actually is the ring. All right, we're gonna do a bit of golf impression. Uh, wins the
+
+394
+00:58:03,639 --> 00:58:20,739
+contest. Okay, uh, go. Go, your turn. Go, go, go. Did you just throw out the ring?
+
+395
+00:58:22,099 --> 00:58:27,539
+Yeah, that's a, that's a fucking whole series then. Oh, okay. I'll hold the box because you can't.
+
+396
+00:58:34,889 --> 00:58:50,679
+Spoilers. Spoilers. Spoilers. Just bring them. Still. Spoilers. The Lord of the Rings. Spoilers.
+
+397
+00:58:51,559 --> 00:58:58,739
+What happens if we destroy this? I have the ring in my hand. What happens? Destroy it. What,
+
+398
+00:58:58,739 --> 00:59:02,980
+is this how you kill Sauron? Don't you have to drop it off Mountain Dune? Like this probably
+
+399
+00:59:02,980 --> 00:59:14,019
+can't do it. Yes, Mount Dune. Mountain Dune. Dune's a good series. You can't even get it in. Here,
+
+400
+00:59:14,099 --> 00:59:28,150
+let me show you how it's done. There you go. World still stands. All right, keep, keep it going.
+
+401
+00:59:28,710 --> 00:59:34,150
+Go get the rest of them. I lined up the bodies. I did my part. Hey, where are you going?
+
+402
+00:59:41,050 --> 00:59:53,539
+Get this out of the way. Well, you did bring them in a nice concentrated zone. Yeah. Jesus.
+
+403
+00:59:54,260 --> 01:00:02,469
+That was horrible. It's really like, it went right in there. How far away were you?
+
+404
+01:00:03,510 --> 01:00:11,579
+Right behind you. It's like a glove. Oh, wait, wait, wait, wait, wait. Don't throw this one in.
+
+405
+01:00:11,579 --> 01:00:17,110
+Okay. New competition. New competition. Okay. Let's see how far away you can stand and get the
+
+406
+01:00:17,110 --> 01:00:25,739
+body in. Oh God. Um, okay. Did you just get it in? No, I'm right here now. Well, I'm waiting. You
+
+407
+01:00:25,739 --> 01:00:36,889
+first. Okay. Now I get a throw. We trade off throw. Okay. That was the equivalent of a boxing match.
+
+408
+01:00:36,889 --> 01:00:40,250
+You just like punched me once in the face and I fell flat down and just took a fall.
+
+409
+01:00:40,889 --> 01:00:48,199
+Okay. See, I didn't get mine. Now you, now you go again. How about not farthest, but
+
+410
+01:00:48,760 --> 01:00:52,440
+the stairs are the limit. You can't walk in front of the stairs. All right. Stairs are the limit.
+
+411
+01:00:52,440 --> 01:00:57,909
+That sounds good. Is it, is there a way to, um, what is it like a way to put momentum behind it?
+
+412
+01:01:00,179 --> 01:01:08,500
+I don't know. No, I can't like golf them in there. All right. I'm going to try. Here we go.
+
+413
+01:01:12,539 --> 01:01:15,980
+It looks so silly. Try to get like full momentum. Okay. Move, move, move.
+
+414
+01:01:16,699 --> 01:01:21,989
+We show you how it's done. Holy shit. That was close. That was pretty good.
+
+415
+01:01:28,710 --> 01:01:37,460
+Wait, wait. Somebody says you can hold left click, hold left click and shake the mouse.
+
+416
+01:01:44,920 --> 01:01:54,219
+Oh, it's just to rotate them. Uh, I lost mine. What? How did he go backwards?
+
+417
+01:02:00,360 --> 01:02:06,860
+Are you trying to, you didn't even dunk it. Oh, you don't think I can dunk it. Wait, wait, wait,
+
+418
+01:02:06,860 --> 01:02:30,500
+wait, wait. I'm just going to place them in. I lost them. Did you just die? Oh shit. I guess I win.
+
+419
+01:02:31,800 --> 01:02:46,309
+I'm back. I respond. Yes, you can die in visceral cleanup detail. All right. You dunk.
+
+420
+01:02:47,510 --> 01:03:02,940
+How are you doing that? I'm going to get it. Somewhere in the future. Someone's going to pull
+
+421
+01:03:02,940 --> 01:03:06,699
+up this video and they're going to be like, what the fuck was wrong with people?
+
+422
+01:03:09,219 --> 01:03:13,699
+Why are they stimulating, like throwing each other like dead bodies into a grinder?
+
+423
+01:03:14,869 --> 01:03:27,500
+What were they doing this for? Come on. It looks like,
+
+424
+01:03:28,059 --> 01:03:31,340
+oh, it looks like you're doing like a magical spell.
+
+425
+01:03:45,579 --> 01:03:51,579
+Thank you for just standing by and watching too. Cause like you could stop this.
+
+426
+01:03:51,579 --> 01:04:01,239
+I could, but will I know if I could stand a little closer? No, you have to get it from here.
+
+427
+01:04:07,079 --> 01:04:10,440
+Whoa. I don't, I, it's hard to see where I'm throwing it. Cause I'm not looking where I'm
+
+428
+01:04:10,440 --> 01:04:32,340
+throwing. You're standing closer. How are you doing that? You're going like, you're doing like
+
+429
+01:04:32,340 --> 01:04:39,659
+swing up, down, up, down. Yeah. Look up. Yeah. Look up. Cause you need to get some height on it.
+
+430
+01:04:40,460 --> 01:04:47,400
+And at the end, when you, when you pull it forward, you got to, you got to right click them.
+
+431
+01:04:51,159 --> 01:04:54,440
+It's really hard to get height. It is really hard to get the height on it.
+
+432
+01:04:59,000 --> 01:05:03,000
+Please hurry up and do this. So my fucking great grandkids don't, you got it. You got it.
+
+433
+01:05:04,360 --> 01:05:08,199
+You did it. You actually did it. I was going to say, because I'm like great grandkids don't
+
+434
+01:05:08,199 --> 01:05:13,849
+think I'm like a fucking psycho. Did you see me? Did you watch me or were you like looking at the
+
+435
+01:05:13,849 --> 01:05:19,050
+stars? No, I saw it. It was great. I just spun my mouse around in circles and like, oh, like I
+
+436
+01:05:19,050 --> 01:05:35,800
+totally gave up. All right. Let's do it. Let's do it. Alley-oop. Ready? Yeah. All right. Let's look
+
+437
+01:05:35,800 --> 01:06:05,420
+back to the basement. Four hours, by the way. Go one at a time. You're still doing like the
+
+438
+01:06:05,500 --> 01:06:10,380
+magician trick. All right. I gotta, I gotta like try. I gotta make the job fun somehow.
+
+439
+01:06:11,929 --> 01:06:19,510
+Well, that was weird. Oh, you, if you do it too fast, you just drop them. All right. And wait,
+
+440
+01:06:19,510 --> 01:06:30,409
+is that all the bodies? What am I doing? Why did you do this? Oh, that was a clean throw.
+
+441
+01:06:30,409 --> 01:06:46,789
+This is classic star. You know, what's classic star. Where are you? We're not,
+
+442
+01:06:47,349 --> 01:06:52,260
+we're not working on the basement. I am in the basement. How is this still clean?
+
+443
+01:06:53,139 --> 01:07:02,730
+We gotta go inside out. Oh my God. Put this guy on a team inside. I don't miss anymore. Look,
+
+444
+01:07:02,730 --> 01:07:06,809
+I get that extra step forward. I don't miss. I don't, I don't know what that's a reference to,
+
+445
+01:07:06,809 --> 01:07:13,019
+but I may or may not have been funny. I don't know. It's not a reference. I'm doing so good.
+
+446
+01:07:13,019 --> 01:07:17,019
+I'm not missing my shot. That's not like a, like a CS go like pro didn't say that during a
+
+447
+01:07:17,019 --> 01:07:20,619
+competition or something. I don't, not that I'm aware of. So you did, you just made, you just said
+
+448
+01:07:20,619 --> 01:07:33,699
+that. Yeah. I got, I'm two in a row. Shouldn't we, shouldn't we be getting all this stuff out first?
+
+449
+01:07:34,420 --> 01:07:38,539
+Just when you get, when you have to just get the, you don't want to, you don't want to track stuff
+
+450
+01:07:38,539 --> 01:07:44,440
+everywhere. Or like we're going, like we're going to. No, but you're not. Oh my God. Look what you
+
+451
+01:07:44,440 --> 01:07:53,980
+did. Look what you fucking did. Look what you did. Stop throwing it. Look what you did. Um,
+
+452
+01:07:53,980 --> 01:07:57,500
+you don't even talk about my throwing. There's a skeleton in here.
+
+453
+01:07:58,300 --> 01:08:10,809
+All right, let's go. You really did. It's like too much stuff. Hey, hey, hey, do we get rid of the
+
+454
+01:08:10,809 --> 01:08:17,829
+boxes or we just reshelf? No, we gotta get, no, that's not the strategy. What? This is where they
+
+455
+01:08:17,829 --> 01:08:26,520
+were. I'm going to get two more buckets and I'm going to go get like, there's one already here.
+
+456
+01:08:26,520 --> 01:08:37,340
+Nice. But this one's dirty. So get rid of it. Whether you like it or not, as long as my internet
+
+457
+01:08:37,340 --> 01:08:45,659
+stays on. I know what it is. You can't reach the top shelf. Is that some kind of joke? Is that,
+
+458
+01:08:46,539 --> 01:08:55,180
+is that, I don't understand. Is that like a, like what do you mean? What do you mean? Like I,
+
+459
+01:08:55,819 --> 01:09:01,659
+you would rather take the boxes out of here, like all the way up the stairs for each individual box
+
+460
+01:09:01,659 --> 01:09:08,539
+and admit that you can't reach the top shelf. But you, you can't reach the top shelf. No, I. What?
+
+461
+01:09:08,539 --> 01:09:13,579
+Like you can't reach the top shelf, right? That's what you're saying. No, I'm saying you can't,
+
+462
+01:09:13,579 --> 01:09:20,680
+like I can't, but you can't either. I totally can. So if I came over there right now and we both
+
+463
+01:09:20,680 --> 01:09:26,550
+tried to grab the top shelf, you, I wouldn't deal with it. No, put a box up on the top shelf.
+
+464
+01:09:27,189 --> 01:09:37,850
+I don't think you're putting it down when I'm picking up here. I don't. But I'm, I'm very,
+
+465
+01:09:37,930 --> 01:09:40,649
+I'm a huge, I'm, they actually call me massive man now.
+
+466
+01:09:42,090 --> 01:09:50,970
+Massive man? Yeah. M.M. for short. That's my new thing. Why are you massive man? I just like,
+
+467
+01:09:50,970 --> 01:10:02,630
+I just heard like a. Yeah. Well, the outside's going pretty well because I'm doing some work.
+
+468
+01:10:02,630 --> 01:10:08,539
+I'm working on it. Remember where we're going to put the collective? Why is there only, oh yeah,
+
+469
+01:10:08,539 --> 01:10:21,930
+because my internet turned off. Remember what? Remember to put the USBs outside the door,
+
+470
+01:10:21,930 --> 01:10:27,000
+the front door to the right. That's that way we get our bonus. Yes, there is a bonus.
+
+471
+01:10:27,720 --> 01:10:33,659
+And then there's a nice clean house you can feel, you can feel proud of. Okay. And then you like
+
+472
+01:10:33,659 --> 01:10:40,680
+take a screenshot. Yes. Put it on Insta. Sure. Wherever you want to put it. Don't matter where.
+
+473
+01:10:42,039 --> 01:10:58,119
+Look mom clean. Wherever, whatever social media you'd like to put it on. Oh, what the? I broke
+
+474
+01:10:58,119 --> 01:11:07,180
+it. I can't, I broke the box. Do I have to, do I have to get on the roof? I'm going to check out
+
+475
+01:11:07,180 --> 01:11:13,239
+the roof. I broke it. I can't wait to be on that. What do you mean you broke it? I can't,
+
+476
+01:11:13,239 --> 01:11:29,300
+the box is stuck. Well, we can delete it. Hey, hey, what are you talking about? What?
+
+477
+01:11:31,939 --> 01:11:37,779
+I sincerely hope you're not getting into any shenanigans. I know I'm trying to get on the
+
+478
+01:11:37,779 --> 01:11:43,060
+roof, but I can't. We're cleaning the basement. Why are you trying to get on the roof? I'm outside
+
+479
+01:11:43,060 --> 01:11:50,420
+doing the outside. Cause look, no, every time we agreed to both do the basement. Look, the email
+
+480
+01:11:50,420 --> 01:11:57,699
+that I got clearly stated you two need to work on the project together. And wherever you feel most
+
+481
+01:11:57,699 --> 01:12:03,460
+comfortable being at this here, when we're at the cleaning job is where you can go. I hear when
+
+482
+01:12:03,460 --> 01:12:08,739
+we're at the cleaning job. No, you said I see, we were both going to do the basement and we were
+
+483
+01:12:08,739 --> 01:12:12,659
+going to help each other. I did say that, but I'm still going to do that. But I, I'm going to,
+
+484
+01:12:12,659 --> 01:12:15,859
+I am going to rub a corpse all along the roof if you don't get down here.
+
+485
+01:12:21,399 --> 01:12:27,979
+That'll go in the email that I write. So do whatever you think is necessary to do in a
+
+486
+01:12:27,979 --> 01:12:44,789
+professional manner. I'll come help you. Basement. That's where I'm going. Just get, please move out
+
+487
+01:12:44,789 --> 01:12:52,649
+of the way, please. I'm fine. Grab that top one. Grab the top one and be gentle. Very gentle there.
+
+488
+01:12:52,649 --> 01:12:58,460
+I don't know how you did that. What did you do? What did you do? Why did you do that? Why did you
+
+489
+01:12:58,460 --> 01:13:06,340
+do that? How can you possibly say that? You took it out. You, you took it out. You must have done
+
+490
+01:13:06,340 --> 01:13:17,289
+something. You had to have done something. Look at this. What are you doing? Well, I'm not. Oh,
+
+491
+01:13:19,739 --> 01:13:25,909
+oh, it's because we deleted the ring. These are ring wraiths. I don't know what you're talking
+
+492
+01:13:25,909 --> 01:13:31,109
+about. You just, there's no, you don't even know anything. Just grab a bucket and meet me downstairs.
+
+493
+01:13:31,109 --> 01:13:43,369
+You know nothing. You fucked this up so bad down here. It's not, I don't think it's even
+
+494
+01:13:43,369 --> 01:13:49,050
+possible to do this. How is it not possible? Okay, here's your job. You want to send like a
+
+495
+01:13:49,050 --> 01:13:57,289
+message to HR? Fine. Go just bring buckets down here and go get like, just keep bringing them down.
+
+496
+01:13:58,090 --> 01:14:04,279
+Okay, I'll bring one down, take something out. Talk about cans of peas, all the random vegetables,
+
+497
+01:14:04,279 --> 01:14:17,960
+get them into the trash can and then incinerate them. You can reach the top shelf down there.
+
+498
+01:14:18,600 --> 01:14:33,300
+Hold on. Okay, he's in. Uh, didn't put water in this one. There, there were a couple that I
+
+499
+01:14:33,300 --> 01:14:47,659
+brought down from before. Fuck this bucket stacking. It's a waste of everyone's time.
+
+500
+01:14:47,659 --> 01:15:02,760
+Dirty water. Okay, put those. All right, we're gonna have to take the box, the boxes up like
+
+501
+01:15:02,760 --> 01:15:07,960
+one by one, I think. I'm put, I'm shelving them. You're, you're putting these on the shelves?
+
+502
+01:15:08,920 --> 01:15:28,010
+Yeah. Oh, you're standing on a bucket to do it. Cute. You didn't even clean up here. You didn't
+
+503
+01:15:28,010 --> 01:15:32,010
+even clean up here though, dude. Like, come on. What do you, what? You can clean after you put
+
+504
+01:15:32,010 --> 01:15:36,649
+the boxes there. You can put, you can't, you're gonna knock the boxes off. What do you mean?
+
+505
+01:15:40,649 --> 01:15:46,890
+You're gonna clean under the boxes after the boxes are up there. I'm sure you can. Oh man,
+
+506
+01:15:48,979 --> 01:15:51,380
+I don't think I can work like this. I don't think I can.
+
+507
+01:15:52,500 --> 01:15:55,619
+Holy fuck, I just jumped over everything. I'm good. That would have been very bad.
+
+508
+01:15:56,659 --> 01:16:11,699
+All right, can we at least take care of the entryway? Can you bring a candle down here too?
+
+509
+01:16:12,760 --> 01:16:15,399
+Are you, I just heard a spill. That wasn't me.
+
+510
+01:16:27,739 --> 01:16:35,159
+What? What? You spilled the bucket and it wasn't me. So it's funny to me. What bucket? I heard
+
+511
+01:16:35,159 --> 01:16:50,699
+like a up here. That was me throwing out old buckets. I thought you were back in the fucking
+
+512
+01:16:50,699 --> 01:17:16,890
+basement. You made permanent marks on the wall. Permanent. Yeah, these are permanent marks.
+
+513
+01:17:16,890 --> 01:17:36,380
+Oh, maybe not. Just clean around. Slow. Easy. Bring, bring a candle down here.
+
+514
+01:17:36,699 --> 01:17:44,649
+Yeah, I know you can. They're right next to you. Okay, I'll do it. Thank you. I just, I want to
+
+515
+01:17:44,649 --> 01:17:48,409
+be able to, it's atmosphere. We're doing the Halloween map. You don't want to have atmosphere
+
+516
+01:17:48,409 --> 01:18:01,720
+here. There's a little, there's a little cache. Okay, I got it. I got it. What was that? What was
+
+517
+01:18:01,720 --> 01:18:06,699
+that? Focus on, focus on what's in front of you. What do you mean what's in front of me? Like do
+
+518
+01:18:06,699 --> 01:18:10,380
+your task. What's that noise? Worrying about everyone else is doing. I'm getting you the candle.
+
+519
+01:18:10,380 --> 01:18:13,899
+All right, no, wait, wait, wait, wait, wait. Take this. You're like, what's that? There was a chainsaw
+
+520
+01:18:13,899 --> 01:18:17,659
+sound. I thought you brought a chainsaw down. Take this. No, that was the creating a candle.
+
+521
+01:18:18,380 --> 01:18:23,369
+Oh, that, right? Like put it on the, yeah, no, no, no, I'm gonna have to clean there.
+
+522
+01:18:23,369 --> 01:18:28,119
+Take this up with you when you're out. Here, you put it where you want it. Yeah, I will. And then
+
+523
+01:18:28,119 --> 01:18:31,079
+just take this. This one's dirty. Let's get rid of that one. Throw it in the incinerator.
+
+524
+01:18:31,960 --> 01:18:51,590
+There we go. Thank you. That's, that's so much better. Why are you up here? I just wanted to
+
+525
+01:18:51,590 --> 01:18:58,579
+check. Check what? I just had to check on something. Not a big deal.
+
+526
+01:19:02,899 --> 01:19:09,340
+I'm gonna have something else for you to take. Why would we get grind these up? These are
+
+527
+01:19:09,340 --> 01:19:15,899
+perfectly good beans. All right, this is starting to do the thing where there's too many physics
+
+528
+01:19:15,899 --> 01:19:19,899
+objects in the thing at the same time. So you have to take this and get out of here with this.
+
+529
+01:19:19,899 --> 01:19:27,859
+Let me shake it up. Okay, okay. Drop it, drop, drop it. Hold on. Drop it. Easy.
+
+530
+01:19:27,859 --> 01:19:35,689
+Easy. Careful. It's going to do the physics thing. I'm, I'm well aware of the physics thing.
+
+531
+01:19:39,989 --> 01:19:50,899
+See, don't you, don't you think this is a cool game? Hello. It's great. It's great. It's great.
+
+532
+01:19:52,739 --> 01:19:57,350
+Don't, you don't, don't be sarcastic about it. It's fun. It's great. Just wait till we do another
+
+533
+01:19:57,350 --> 01:20:09,590
+one after this. Uh, which one's next? I'm already looking forward to it. Well, we bet you better
+
+534
+01:20:09,590 --> 01:20:26,970
+hurry up. We got work to do here. Oh, nice job. Back on the shelf. Nice job, like hiding the beans.
+
+535
+01:20:26,970 --> 01:20:32,489
+For yourself. What do you mean hiding the what? Put the box in front of the beans so no one knows
+
+536
+01:20:32,489 --> 01:20:38,310
+there's beans back there. There's a broken plate over here. Do you want another box? Is that what
+
+537
+01:20:38,310 --> 01:20:43,340
+you're saying? Stand over here for a second. Just stand over here. Get like in the light right,
+
+538
+01:20:43,340 --> 01:21:01,180
+right there. Right there. Oops. Sorry, I dropped it. Don't do it. Why did you, what, what, how did I
+
+539
+01:21:01,180 --> 01:21:17,659
+end up with this in my hand? What? Just, okay. Okay. I didn't do that. That was mean. That was
+
+540
+01:21:17,659 --> 01:21:21,100
+a mean thing that he did. Are you bringing some new, you're not bringing new buckets down.
+
+541
+01:21:23,189 --> 01:21:29,779
+These are still clean. The one you just dumped on me was full of blood. And now I have to take out
+
+542
+01:21:29,779 --> 01:21:34,020
+this box. There's two clean buckets right here. And now I gotta take this box out. Look what
+
+543
+01:21:34,020 --> 01:21:42,979
+you've done over here. And you're tracking mud all over the place. Thank God that candle's down here.
+
+544
+01:21:48,090 --> 01:21:54,149
+Did I just break the grinder? What? We need that. I heard like a, but that's fine. That's fine.
+
+545
+01:21:54,149 --> 01:22:05,340
+USB right here. All right. Look, come on. It's looking pretty good. It's not looking bad. Yep.
+
+546
+01:22:05,340 --> 01:22:11,420
+And this is almost one room done. Well, this room was like 10 rooms because you made it that way.
+
+547
+01:22:17,109 --> 01:22:25,300
+Anything in this? No. The only reason why this room is taking so long is because you put all
+
+548
+01:22:25,300 --> 01:22:31,060
+the trash from all the other rooms into one room. I, all those boxes were in that room already.
+
+549
+01:22:31,939 --> 01:22:36,420
+What about the 10 bodies? Where'd you get those? I got the bodies from a lot of places.
+
+550
+01:22:38,260 --> 01:22:53,859
+Are you calling those bodies trash? Respect the bodies. Thank you for the new water. No,
+
+551
+01:22:53,859 --> 01:22:58,899
+come here. Give me this candle. There we go. Now I can see better. And now here we go. Okay.
+
+552
+01:23:00,439 --> 01:23:08,579
+I consolidated the trash. Like that word. Consolidated. Yeah. I could, what is this?
+
+553
+01:23:09,300 --> 01:23:20,739
+Like a credit card payment? No, this is like almost cleaned up your whole mess.
+
+554
+01:23:21,380 --> 01:23:44,090
+That was a Jerry Seinfeld level joke. Seinfeld was a hilarious show. That's a very funny show.
+
+555
+01:23:44,090 --> 01:23:51,720
+So that's okay. That's like a nine out of 9.8 out of 10 on Rotten Tomatoes. Why would I be mad
+
+556
+01:23:51,720 --> 01:23:58,890
+about that? Yeah, it's like one of the best shows of all time. I mean, that's like saying like, oh,
+
+557
+01:23:58,890 --> 01:24:03,050
+man. Well, what you just did right there. Oh, that was like, that was like something God would do.
+
+558
+01:24:04,810 --> 01:24:07,930
+He's very comparable. Like, oh, well, yeah, I get it. Okay.
+
+559
+01:24:15,829 --> 01:24:21,529
+Isn't streaming much better with an audience? What are you talking about? Oh, like when you
+
+560
+01:24:21,529 --> 01:24:26,409
+hear Ashley laugh. It's like you can imagine you're streaming in front of an auditorium.
+
+561
+01:24:28,329 --> 01:24:32,090
+Well, there's like one person in this stand. There's one person in this stand.
+
+562
+01:24:32,090 --> 01:24:44,390
+But at least they showed up. I don't hear any laughs from your side. No, no, that person's not
+
+563
+01:24:44,390 --> 01:24:49,189
+here in the auditorium. You brought a cell phone in and put it on speakerphone and put it in the
+
+564
+01:24:49,189 --> 01:25:01,939
+chair. And they're watching the live video of my like stand up routine. Yeah. Critics are saying
+
+565
+01:25:01,939 --> 01:25:13,829
+as good as Seinfeld. Go get Otto. All right, this is almost full. I feel like I'm doing more than
+
+566
+01:25:13,829 --> 01:25:18,630
+you. You're not doing more than me. You have a live feed of my work that you can critique
+
+567
+01:25:18,630 --> 01:25:24,659
+anytime you want. I don't have like the multi stream. Who's watching both? Who's doing more?
+
+568
+01:25:24,659 --> 01:25:29,590
+Are you streaming? Yeah. I thought you had, I thought your stream was off. Why are we not in
+
+569
+01:25:29,590 --> 01:25:44,520
+squads? I don't know. I thought you, your stream wasn't on. What? Add me to a squad. Okay. What
+
+570
+01:25:44,520 --> 01:25:55,130
+the hell is going on here? I don't know you streaming. I know. Do you invite me? Hold on.
+
+571
+01:25:55,130 --> 01:26:00,550
+I'll invite you. No, I'll invite you. Yeah. Fine. Fine. Invite me. Invite me. Okay. Invite me.
+
+572
+01:26:01,640 --> 01:26:06,710
+Invited. All right there. I didn't know that was happening. I thought you had your stream turned
+
+573
+01:26:06,710 --> 01:26:15,399
+off. No, you weren't live when I turned it on. That never happened. I checked your stream.
+
+574
+01:26:17,460 --> 01:26:22,729
+We both started at the same time. Yeah. But did you turn your stream off after you played
+
+575
+01:26:22,729 --> 01:26:33,909
+Overwatch? Yeah. As I'm saying, all right. All right. You ready? I've got, I've got most
+
+576
+01:26:33,909 --> 01:26:39,739
+of the trash. Wow. You did a good job. You did. How satisfied do you feel? I'm not that satisfied
+
+577
+01:26:39,739 --> 01:26:44,699
+yet because there's still things that need to be done. Can't you just take a moment and like be
+
+578
+01:26:44,699 --> 01:26:52,460
+happy? We can after we get it all done. I've actually never seen you smile. You look at the
+
+579
+01:26:52,460 --> 01:27:01,130
+ceiling. We're not done. Do you need another bucket? I don't think I need another bucket.
+
+580
+01:27:01,130 --> 01:27:15,000
+Thank you for the consideration. How long has it been? Four hours? I think we're at like seven.
+
+581
+01:27:22,180 --> 01:27:29,739
+Okay. It's up. The basement is pretty much done. There's a little bit left on the floor,
+
+582
+01:27:29,739 --> 01:27:34,939
+on the wall a little bit. Oops. All right. He'll pick that up. What's up with this broom?
+
+583
+01:27:35,739 --> 01:27:47,100
+What's with the broom? Yo. What are you talking about? I found like a broom that I used like a
+
+584
+01:27:47,100 --> 01:27:52,439
+mop, but it's a broom. Oh, I don't know. I figure what that does. All right. I'm going to use the
+
+585
+01:27:52,439 --> 01:27:59,640
+candle. We're going to check. All right. Everything looks okay except for that. That's why I need the
+
+586
+01:27:59,640 --> 01:28:05,420
+light down here. Well, don't you have like the speedometer to check where the blood is? Yeah,
+
+587
+01:28:05,420 --> 01:28:19,850
+but I mean it's easier to just see it. Yeah. Don't you have this speedometer saved? Yeah,
+
+588
+01:28:19,850 --> 01:28:25,340
+that was a little that was just a little a little boop. We're fine. I don't mind the little the
+
+589
+01:28:25,420 --> 01:28:37,479
+little boobs. It's the your internet turns off to zero is the one I don't like. Okay.
+
+590
+01:28:38,939 --> 01:28:42,859
+We can you can use the little oh no no no no no this the the the red rum room.
+
+591
+01:28:44,220 --> 01:28:48,539
+There's a bathroom in here. There is a bathroom. Oh god. What did you do in here?
+
+592
+01:28:49,420 --> 01:28:53,420
+I was like that when I found it. It's actually not hard to clean, but unfortunately
+
+593
+01:28:54,460 --> 01:29:02,619
+I'm sorry to say we need another bucket down here. I'm sure you do. I'm going to bring one up.
+
+594
+01:29:03,180 --> 01:29:07,579
+I'll go get it. You just you keep doing anything. I'm bringing the bucket. Stay in the fucking
+
+595
+01:29:07,579 --> 01:29:11,020
+basement. Well, okay. I'm going to stay in the basement, but just don't there's a lot of blood
+
+596
+01:29:11,020 --> 01:29:16,859
+to track. So don't track it up here. I have two buckets that are full of gross stuff that I need
+
+597
+01:29:16,859 --> 01:29:37,079
+you to take. Clean your feet. Clean feet. Clean feet. I don't have. Yeah, there's an intestine
+
+598
+01:29:37,079 --> 01:29:47,720
+over here. Hold on. Okay. Take that. Is that yours? Yeah, it's mine. That's my intestine.
+
+599
+01:29:53,850 --> 01:29:56,100
+Ah, god damn it.
+
+600
+01:30:08,140 --> 01:30:14,649
+Did you spill? Do you still have the one of me complaining? I don't. People asked for it all day
+
+601
+01:30:14,649 --> 01:30:18,170
+and I forgot. You're gonna have to give me a new one and I'll have to remember.
+
+602
+01:30:19,770 --> 01:30:23,449
+Hey, hold on. I'll just bring it. I'll bring the second ear over here.
+
+603
+01:30:27,189 --> 01:30:35,609
+Watch those feet. I'm not moving. You're tracking stuff everywhere. I don't want to read that.
+
+604
+01:30:39,300 --> 01:30:46,069
+Hey, give me one. Give you what? You're gonna give me a line. When did I say I was gonna give
+
+605
+01:30:46,069 --> 01:30:50,390
+you a line? I thought you just said, okay, never mind. I'm crazy. Never mind. I said what happened
+
+606
+01:30:50,390 --> 01:30:55,829
+to the one you recorded? Yeah, I said I like didn't save it by accident and then you said,
+
+607
+01:30:55,829 --> 01:31:06,869
+hold on. I'll give you one and then. Did I do that? Yeah, then. I don't think I did that.
+
+608
+01:31:08,859 --> 01:31:16,779
+Did I say that? All right, well, turn it on. Okay. No, let's talk about the. Yeah, I've talked about
+
+609
+01:31:16,779 --> 01:31:30,390
+the ear. Yeah, I wasn't. I didn't say that. All right. You ready? Yeah. Hold on. Oh, yeah,
+
+610
+01:31:30,390 --> 01:31:38,380
+I was complaining about DPS, right? Okay. Hello. I can hear myself. Why can I hear myself? Hello.
+
+611
+01:31:41,909 --> 01:31:52,760
+Hello. Hello. God damn it. Why does it have to quit me out too?
+
+612
+01:31:53,159 --> 01:32:05,399
+Ah, that was a Charlie Brown yell. I know. Hello. Stop it. Stop it. It's not funny. I'm upset.
+
+613
+01:32:08,489 --> 01:32:22,300
+Stop it. It's not funny. I'm upset. Hello. What the fuck? We're never gonna be able to do a full
+
+614
+01:32:22,300 --> 01:32:27,579
+one of these. Hold on. Oh, yeah, I was complaining about DPS, right? Okay.
+
+615
+01:32:33,369 --> 01:32:40,729
+No. Hello. No. Why? Why? We can't get anything going. Hello.
+
+616
+01:32:47,340 --> 01:32:56,300
+What a sad day. Are you coming back? I mean, like the server's still up. What? It is? Yeah. Oh,
+
+617
+01:32:56,300 --> 01:33:04,100
+it is. Holy shit. Okay, cool. I'm coming in. How did you? You didn't get that? I thought that we
+
+618
+01:33:04,100 --> 01:33:10,550
+like I thought everything got disconnected. No, I'm fine. Because I'm hosting this one.
+
+619
+01:33:12,489 --> 01:33:22,310
+Oh, cool. Hello. I'm so fucking sad right now. Like, I might sound like, oh,
+
+620
+01:33:25,180 --> 01:33:28,939
+I'm so angry right now. This isn't it. You can't, you know, there's no consoling me.
+
+621
+01:33:29,659 --> 01:33:38,600
+Hello. Fucking angry right now. I'm so angry. I'm so angry. Hello. All right. So where were we?
+
+622
+01:33:39,560 --> 01:33:43,479
+Uh, we were cleaning the basement. Okay, we're cleaning the basement. Cool.
+
+623
+01:33:43,479 --> 01:33:50,760
+All right. So where were we? Hello. Stop. Leave me alone. Leave me alone. I can't.
+
+624
+01:33:51,560 --> 01:33:57,399
+I have too many emotions right now. I'm being stretched. I'm being stretched in two different
+
+625
+01:33:57,399 --> 01:34:03,000
+directions. We're almost done with the basement. You're gonna pull me in half. I have like anger
+
+626
+01:34:03,000 --> 01:34:16,300
+and upset and fucking rage. And then you're making me laugh. Hello. Are you in? I'm in. I'm in. I'm
+
+627
+01:34:16,300 --> 01:34:21,829
+in. I'm here. I'm here. I'm very angry, but I'm here. I'm very angry. I forget what door is the
+
+628
+01:34:21,829 --> 01:34:35,930
+basement door. That's how fucked up I am. Okay. The basement is clean. I think basements clean.
+
+629
+01:34:37,140 --> 01:34:47,220
+Yeah. Did I drop again? Uh, no, I, I know. All right. The bathroom is clean. The toilet is clean.
+
+630
+01:34:48,100 --> 01:34:56,409
+Oh, I broke the toilet, but it's okay. Oh, typical fucked up. I am. No, I know. It's fine.
+
+631
+01:34:56,409 --> 01:35:01,880
+I can close it clean, clean, clean, clean. All right. This is clean. That's clean. That's clean
+
+632
+01:35:01,880 --> 01:35:16,119
+over here. Clean this way. Oh, don't do it again. Don't do it again. It's going to do it again.
+
+633
+01:35:16,760 --> 01:35:21,239
+No, it's not. You're fine. Your streams up. Everyone's loving it. Everyone's loving this
+
+634
+01:35:21,239 --> 01:35:23,960
+content that you're providing. Thanks. Thanks. Thanks. You really make me feel better. All right.
+
+635
+01:35:23,960 --> 01:35:31,189
+Let's go. Basement is clean. I'm so happy that you brought me along as backup streamer.
+
+636
+01:35:37,850 --> 01:35:42,649
+You're like the, you're like the never turn off the battery thing. Yeah. Whatever it is,
+
+637
+01:35:42,649 --> 01:35:44,890
+the thing you plug in to make sure your power doesn't turn off.
+
+638
+01:35:46,140 --> 01:35:50,039
+I'm the backup generator. Yes. What did I, what did I call it?
+
+639
+01:35:51,000 --> 01:35:54,039
+I'm the battery thing. I think you called it. The never turn off.
+
+640
+01:35:54,439 --> 01:35:56,680
+Whatever. The never turn off battery thing.
+
+641
+01:35:58,760 --> 01:36:06,550
+Okay. So I need, what's going on over here? Are you throwing more stuff out the window?
+
+642
+01:36:07,350 --> 01:36:11,029
+What? No, I'm, I'm finishing up the basement. There's a couple like empty bucks down here.
+
+643
+01:36:11,029 --> 01:36:22,890
+Okay. So this is, what's in here? This one can be done quickly. Yeah. I remember this was me.
+
+644
+01:36:22,890 --> 01:36:31,979
+Yeah. I'm going to clean up over here. Hello. Hello. Just get like 10 of them. You ready?
+
+645
+01:36:32,939 --> 01:36:44,439
+Yeah. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello.
+
+646
+01:36:47,739 --> 01:36:57,180
+Hello. Ashley's ruining them. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello.
+
+647
+01:36:57,579 --> 01:37:04,859
+Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello. Hello.
+
+648
+01:37:05,819 --> 01:37:16,869
+Uh, that was just a Charlie Brown's yell. I know. That's a nice car. Can you stop goofing
+
+649
+01:37:16,869 --> 01:37:23,619
+around with your soundboard? Get this building clean. Oh, I'm doing the, uh, the garage. Hello.
+
+650
+01:37:28,699 --> 01:37:37,579
+Hello. It's going to be easier to demolish this building. Yeah. It would be way easier just to
+
+651
+01:37:38,220 --> 01:38:02,010
+do like a controlled demolition. What happened tonight? Did you see the car?
+
+652
+01:38:03,689 --> 01:38:10,899
+What car? There's a really cool car in here. Yeah. I saw it. I took a body from that room.
+
+653
+01:38:11,539 --> 01:38:18,300
+You left a body in that room too though. Oh, well see I was having a hard time running around
+
+654
+01:38:18,300 --> 01:38:21,739
+and grabbing bodies and also making sure you didn't see me grab all them.
+
+655
+01:38:23,819 --> 01:38:29,880
+But little did I know you never left the room. No, I did not walk out of the room. I didn't really
+
+656
+01:38:29,880 --> 01:38:38,359
+hear you walking around. I was wondering what was going on. Scheme. I had a scheme going.
+
+657
+01:38:39,369 --> 01:39:00,979
+How fucked up I am. That was so angry. I am so bad right now. Scheme. I think we're done.
+
+658
+01:39:00,979 --> 01:39:10,300
+We are not done. Do you know how much is left in here? I think we're done. We are not done. Pull
+
+659
+01:39:10,300 --> 01:39:18,699
+out your little ecto gun thing and see where it is. It says all clear on it. Oh, hold on. I'm
+
+660
+01:39:18,699 --> 01:39:24,170
+getting a phone call. Hello. Hello. This is the boss man. They're calling it in. We're done.
+
+661
+01:39:24,970 --> 01:39:35,479
+What the hell was that? Yeah, all clear here. That was my phone. Our walkie. This is the boss.
+
+662
+01:39:35,479 --> 01:39:42,100
+All janitors have them. This is not done though. You got your soundboard.
+
+663
+01:39:50,760 --> 01:39:54,680
+I don't even feel wallpapered that room. Why is there on the camera? We could use that somewhere.
+
+664
+01:39:58,220 --> 01:40:03,340
+All right, the car looks pretty good. Johnny, we've left money in the pantry for you. Remember
+
+665
+01:40:03,340 --> 01:40:08,300
+to call us straight away if Jason or Danielle try to reach us in case something goes wrong
+
+666
+01:40:08,300 --> 01:40:19,850
+at the Crystal Lake summer camp. Hello. Hello. Hello. Hello. Hello. Let's get this trash out of
+
+667
+01:40:19,850 --> 01:40:28,489
+here. Hello. You can use that. You can use that somewhere. I think you can use that somewhere.
+
+668
+01:40:29,369 --> 01:40:44,569
+Hello. Testing my mic. Well, don't worry. You'll disconnect again and I'll have plenty of use for
+
+669
+01:40:44,569 --> 01:40:49,369
+the hello. Yeah, you'll have plenty of use when I disconnect a fourth time today.
+
+670
+01:40:55,699 --> 01:41:02,739
+How about you stream when it's working? Like during the day? That is the theory. It is during
+
+671
+01:41:02,739 --> 01:41:19,659
+the day. Oh. Hello. Garage is almost clean. There are a couple of knives. I cleaned the front yard.
+
+672
+01:41:19,659 --> 01:41:28,439
+Front yard is clear. This is not trash. They're just knives. That's not garbage. It's a knife.
+
+673
+01:41:31,979 --> 01:41:38,039
+Here's the question. If we do such a good job of cleaning,
+
+674
+01:41:38,039 --> 01:41:41,000
+does that mean the parents never know what happened to their kids?
+
+675
+01:41:47,029 --> 01:41:56,569
+Well, no, because when they know what how would. Well, I just read that note that was telling them,
+
+676
+01:41:56,810 --> 01:42:02,409
+good luck at summer camp and blah, blah, blah. So if everything is spick and span and perfect
+
+677
+01:42:02,409 --> 01:42:11,619
+when they come back, how do they know what happened? So shouldn't we leave one blood
+
+678
+01:42:11,619 --> 01:42:20,600
+stain with a murder weapon? I mean, they've already been notified. Are we the bad guys?
+
+679
+01:42:20,600 --> 01:42:25,579
+No, we're just the cleaning crew. How do you know they've been notified?
+
+680
+01:42:26,460 --> 01:42:30,699
+Did Big Boss Man tell you that? I don't know. I'm just assuming that they've been notified.
+
+681
+01:42:31,579 --> 01:42:36,380
+Don't you ever think like outside what you're currently doing like your job? Do you ever think
+
+682
+01:42:36,380 --> 01:42:50,340
+like, you know, what if it's not all true? You read too many fucking books. You read too many
+
+683
+01:42:50,340 --> 01:42:54,899
+books. You should just be drinking tap water and eating fucking Cheerios like the rest of us.
+
+684
+01:42:55,859 --> 01:43:09,159
+Fuck, I broke the glass. Hello. I was on the front door. Hello. Hello. Hello. Let me fight
+
+685
+01:43:09,159 --> 01:43:18,119
+myself. Hey, what's up, dude? Nothing much. Hello. How are you? Hello. Hi. That's all I have.
+
+686
+01:43:19,239 --> 01:43:22,920
+I don't want to press the wrong button too. I'm forgetting which is which. I'm fucked up. I am.
+
+687
+01:43:23,720 --> 01:43:29,720
+Oh, I was pretty. So I got some stuff over here if you need it. I got some. I need a bucket over
+
+688
+01:43:29,720 --> 01:43:37,739
+here. Oh, cool. No, that was pretty cool. But not cool because the internet sucks. So just deal with
+
+689
+01:43:37,739 --> 01:43:43,819
+it. Cool. I'm not going to deal with it because that's fucking bullshit. Oh, oh, oh, oh, oh, oh,
+
+690
+01:43:43,819 --> 01:43:54,659
+cool. Stop. Not funny. She laughed. The measurement of what's funny is if my wife laughs. So I think
+
+691
+01:43:54,659 --> 01:44:05,619
+you're wrong. I was trying to have me yell and talk to me. Oh, cool. You don't even you don't
+
+692
+01:44:06,420 --> 01:44:13,220
+get comedy. I've heard people compare this stream to
+
+693
+01:44:16,180 --> 01:44:20,659
+think I get comedy. And he's pretty close to the man upstairs himself from my hair. Yep.
+
+694
+01:44:25,180 --> 01:44:30,949
+What do you do with the USBs when you're done? You put them in the wrong way first every time.
+
+695
+01:44:30,949 --> 01:44:46,340
+You never get it right. First try. Oh, my God. And that to truth. Oh, my God. Is this how you
+
+696
+01:44:46,340 --> 01:44:55,880
+get on the roof? I know I tried to use that thing earlier. It doesn't go up on them. What's the
+
+697
+01:44:55,880 --> 01:45:06,760
+point? Dear Mr. And Mrs. Adams, I'm sorry to report that your son Jason has been implicated
+
+698
+01:45:06,760 --> 01:45:12,199
+in another unusual incident. This is the third time. So there was a look. See, they left a thing.
+
+699
+01:45:12,199 --> 01:45:16,520
+Where? Where? I want to read it. It's just it says like, it's like, could you please
+
+700
+01:45:16,520 --> 01:45:21,640
+next time respectfully hand it to me? Thank you. It's a game about physics. There is no such thing
+
+701
+01:45:21,640 --> 01:45:33,590
+as handing it to you. There is. No, this is a previous. This has nothing to do with everyone
+
+702
+01:45:33,590 --> 01:45:39,109
+being dead. No, this is you don't write like a kindly worded letter because he murdered like
+
+703
+01:45:39,109 --> 01:45:50,260
+eight people. Will you just come back into the room with the big dinner on it? All right. Is
+
+704
+01:45:50,260 --> 01:45:58,500
+this done? Give it a look. This room? Yeah. Bloody here. Chairs on the floor. I'm trying to do it.
+
+705
+01:46:00,819 --> 01:46:05,079
+You asked. Make sure you make sure you're not tracking like I am. I'm not tracking.
+
+706
+01:46:07,420 --> 01:46:15,189
+Glass. Respectfully putting the glass here. Actually, we need to put the tableware out.
+
+707
+01:46:15,750 --> 01:46:22,659
+That needs to be glass. Put it all out. So I can come home, have a nice dinner with no family
+
+708
+01:46:22,659 --> 01:46:33,350
+remaining. I want every goddamn honey. Calm down. It's your favorite breakfast. Oh, wait, wait, wait.
+
+709
+01:46:34,710 --> 01:46:49,289
+Please give me them. Why are you stacking chairs like this? Well, you just smashed the plate
+
+710
+01:46:50,010 --> 01:46:52,090
+because I had to have to be glass breaking. What?
+
+711
+01:46:57,050 --> 01:47:04,789
+I'm trying to set the table and you'll be a dick. How am I? You're breaking things. I'm
+
+712
+01:47:06,220 --> 01:47:11,239
+Can I ask you how the chair got on the table? Can I just ask you smashed it? And I thought we
+
+713
+01:47:11,239 --> 01:47:17,880
+were smashing. So I joined you thought we were smashing things you made. We were smashing things.
+
+714
+01:47:17,880 --> 01:47:25,750
+So I joined you. I'm a follower. You know this about me. You and stuff with this chair.
+
+715
+01:47:27,270 --> 01:47:38,039
+What? Yeah. Oh, yeah. That's right. Somebody gifted you a sub last time.
+
+716
+01:47:43,739 --> 01:48:00,489
+The table is clean so I can do the table is going to be set. I should just move the chairs out of
+
+717
+01:48:00,489 --> 01:48:14,170
+the way. This is the oh my this is the grossest thing I found the whole time we've been doing
+
+718
+01:48:14,170 --> 01:48:23,289
+this. Where are you? This is the grossest thing. Like an old food container. Yeah. It's like green
+
+719
+01:48:23,289 --> 01:48:34,539
+and red like the pigs that we're cleaning up after. Okay. Table looks like I'm setting it.
+
+720
+01:48:35,180 --> 01:48:42,149
+I have to be completely honest. Yeah. I don't know why I'm doing this. Like why are we still
+
+721
+01:48:42,149 --> 01:48:50,569
+doing this? Because this is the game. So all right. It's kind of a bad job setting the table.
+
+722
+01:48:54,329 --> 01:48:58,970
+Three people eat on plates over here and then only people only get to have drinks over this way.
+
+723
+01:48:59,609 --> 01:49:12,899
+You're gonna put the push the chairs in like what the I bet you you won't break a plate. Oh,
+
+724
+01:49:12,899 --> 01:49:19,479
+and the head of the table. The head of the table gets the light in their face. That's no that's
+
+725
+01:49:19,479 --> 01:49:24,279
+just so they can inspect the food. No, that's so like you know that they're the one hosting the
+
+726
+01:49:24,359 --> 01:49:30,869
+dinner. Like a spotlight. Me, me, me. Hello.
+
+727
+01:49:37,899 --> 01:49:50,939
+Dude, I'm getting achievements like crazy. All right. So we have let's take a little bit
+
+728
+01:49:50,939 --> 01:49:58,329
+of an indent area here. Okay. I thought this was blood. This car was designed in MS paint.
+
+729
+01:50:02,680 --> 01:50:14,409
+All right. Cool. Cool. Cool. Cool. Cool. Cool. Cool. Right. Cool. Cool. Cool. Cool. Cool. Cool.
+
+730
+01:50:14,409 --> 01:50:18,649
+Right. Hello. Well, here comes. Yeah. Hello. Cool. Cool. Cool. Cool. Cool. Cool. Cool. Cool.
+
+731
+01:50:20,619 --> 01:50:23,819
+Is that because you want it to happen? I just was waiting for it to happen.
+
+732
+01:50:24,840 --> 01:50:29,239
+Do it. It's not funny. You do it. That's the thing. You've done it every time. Do it.
+
+733
+01:50:29,239 --> 01:50:35,050
+You're you're making me very uncomfortable. Do it. You do it every time. Do it. I'm just trying to
+
+734
+01:50:35,050 --> 01:50:49,100
+clean up. I don't think I can keep working under these conditions. Can I go home? One time he
+
+735
+01:50:49,100 --> 01:51:08,890
+doesn't use his like a fucking electro board to make like I don't feel well. We're almost done.
+
+736
+01:51:14,939 --> 01:51:21,180
+Are you going to check out that new game? Which new game? I don't know any of them. I've played
+
+737
+01:51:21,180 --> 01:51:25,350
+quite a few new games. Which one? I don't know. Do you have any new games you're going to check out?
+
+738
+01:51:26,310 --> 01:51:36,359
+Unreleased new games? No, not right now. Nothing new is coming out. There's a few things coming
+
+739
+01:51:36,359 --> 01:51:43,880
+out. There's always things coming out like every day. Um, I think super sexy made two is out on
+
+740
+01:51:43,880 --> 01:52:04,250
+steam for a few days already. What? What? The sequel. You're just trying to get yourself,
+
+741
+01:52:04,250 --> 01:52:08,329
+you know, ashes of remnant. Are you trying to like get your channel banned? No, that's a banned
+
+742
+01:52:08,329 --> 01:52:16,170
+video games. That's not streamable on Twitch. That's a banned stream game, isn't it? I don't
+
+743
+01:52:16,170 --> 01:52:27,159
+know. Don't they have like a banned no stream games? Probably. Nice. You did it. I didn't.
+
+744
+01:52:30,729 --> 01:52:35,130
+I didn't do that. You did it. I did it. You did it. I'm telling mommy. I'm telling mommy.
+
+745
+01:52:43,430 --> 01:52:46,550
+Get them all away. Wait a minute. We're doing this so stupidly. Put this in here.
+
+746
+01:52:46,550 --> 01:53:03,880
+You did it. You did it. Where's dad's flood light? I need it. I'm getting dad's floodlight for you.
+
+747
+01:53:03,880 --> 01:53:09,239
+I know you are vision impaired. I don't need it. I don't need it. I don't need it. I thought you
+
+748
+01:53:09,239 --> 01:53:31,539
+need it like a solar eclipse to be able to see anything. I don't need it. Okay. Clean.
+
+749
+01:53:32,789 --> 01:53:50,539
+Except for me. And there is a stick in here. Am I a vampire? Holy fuck. There's so many of these
+
+750
+01:53:50,539 --> 01:53:56,010
+here that I did not put here. That just surprised me how many you've put there. I thought it was
+
+751
+01:53:56,010 --> 01:54:05,750
+broken. How many of what? How many USB sticks? Oh no. I've been doing my job. Oh dude frying pan.
+
+752
+01:54:15,220 --> 01:54:21,029
+No, no. There was nothing wrong with that. Why'd you do that? I want a new one. Use this one.
+
+753
+01:54:23,220 --> 01:54:36,250
+Hold on. This one's good. Thank you. Now finish up. We're almost done with the house.
+
+754
+01:54:36,329 --> 01:55:08,260
+The house is almost completely good. Oh dude. Why did that? Why did that happen? Yeah. I wanted
+
+755
+01:55:08,260 --> 01:55:12,819
+to pick up the fucking torso that was buried at the bottom of the barrel. I didn't want to pick up
+
+756
+01:55:12,819 --> 01:55:27,590
+the barrel. I wanted to pick up the torso at the bottom. What is this? Make sure you hold shift
+
+757
+01:55:27,590 --> 01:55:39,739
+when you're walking too. To walk. I wouldn't want to drop anything. I wouldn't want to drop anything.
+
+758
+01:55:40,140 --> 01:55:50,100
+All the gold on the table. Gold on the table. You left some gold on the table. That's your joke.
+
+759
+01:55:50,739 --> 01:55:58,060
+That's not mine. If you want to make that, you mute me. Mute you and do that on your stream. Hello.
+
+760
+01:56:02,579 --> 01:56:16,569
+Oh cool. There it is. There it is. There it is. I watch any good TV lately. I thought that was a
+
+761
+01:56:16,569 --> 01:56:23,689
+soundboard thing. It was weird. Watch any good TV lately. It really was. It was like
+
+762
+01:56:24,569 --> 01:56:32,899
+abrupt and weird. Have I watched any good TV lately? What's the last TV that I watched?
+
+763
+01:56:37,079 --> 01:56:39,159
+I don't know. What's the last TV show that I actually watched?
+
+764
+01:56:41,939 --> 01:56:46,170
+I'm asking you. You should have that information. I don't know. I really don't know.
+
+765
+01:56:46,329 --> 01:56:52,729
+I don't know. Spider-Man? That's a movie. That's a movie. I'm not counting movies here.
+
+766
+01:56:54,420 --> 01:57:07,189
+I haven't really watched any TV. Outside is good. All right. We'll have to go through a little bit
+
+767
+01:57:07,189 --> 01:57:13,159
+and check out on it. What about the garage? The garage was good. Is it completely good?
+
+768
+01:57:13,880 --> 01:57:18,439
+I didn't detect any. It's the MS Paint car that I wish we could trash.
+
+769
+01:57:19,399 --> 01:57:28,979
+It looks like blood. No, that's Sting's car from WCW. Was his car MS Paint airbrushed and drawn on?
+
+770
+01:57:31,609 --> 01:57:38,649
+No. The car is awful. What is wrong with that car? What's the problem with that car? It's
+
+771
+01:57:38,649 --> 01:57:45,289
+really ugly, but it's not that big of a deal. It's ruining my immersion. We've got to get a
+
+772
+01:57:45,449 --> 01:58:00,420
+trash container here. Okay. I'm on it, boss. Let me get the gross light to see the fluorescent
+
+773
+01:58:00,420 --> 01:58:09,819
+light bulb so we can look at the ground and be like, oh, gross. The blue light behind you.
+
+774
+01:58:09,819 --> 01:58:21,239
+Where do you want this? In the living room. This is what happens when your landlord comes in and
+
+775
+01:58:21,239 --> 01:58:27,319
+is looking for piss. That's what he's looking for. What happened over here?
+
+776
+01:58:28,920 --> 01:58:47,420
+What? I'm just dealing with... Oh, there it is. Piss. Don't track. I don't track ever.
+
+777
+01:58:47,420 --> 01:58:52,680
+All right. Let's do this together. Why not? Two hands are better than one.
+
+778
+01:58:52,680 --> 01:58:59,579
+I've already put in like eight. Four hands are better than two, right? Thank you.
+
+779
+01:58:59,579 --> 01:59:13,670
+Let me get that for you. Put it down. All right,
+
+780
+01:59:13,670 --> 01:59:35,529
+to the first person I can chug one of these wins. Cool. I did it. Didn't you?
+
+781
+01:59:36,649 --> 01:59:45,930
+I love how much you fucking hated what I just did. No. You hated it. I respect the roleplay.
+
+782
+01:59:49,739 --> 01:59:53,479
+Here's a question. Stale joke.
+
+783
+01:59:56,119 --> 02:00:02,260
+What's your question? What's the worst character you can think of from TV or movie?
+
+784
+02:00:03,140 --> 02:00:08,659
+What would be your ideal worst character? Are we talking like things they did in the show
+
+785
+02:00:08,659 --> 02:00:13,619
+that were bad or... Like their personality, just like how bad of a... You don't care about,
+
+786
+02:00:13,619 --> 02:00:24,810
+they're just awful. You know, the worst character. I don't know. I can't think of
+
+787
+02:00:25,529 --> 02:00:39,350
+the character that I just hated. What do you got? I got nothing.
+
+788
+02:00:39,350 --> 02:00:44,970
+I was talking about it the other night with my significant other.
+
+789
+02:00:46,170 --> 02:00:48,250
+The worst character from any TV show that I've ever seen.
+
+790
+02:00:53,260 --> 02:00:57,720
+She hates the lawyer from Jessica Jones. Specific.
+
+791
+02:00:57,720 --> 02:01:02,840
+It's very specific. She said it was the worst character, so I was trying to come up with worse
+
+792
+02:01:02,840 --> 02:01:07,720
+ones. I forget what I came up with already. It was just last night and I have no intentions.
+
+793
+02:01:13,590 --> 02:01:17,590
+People saying Garfield. Garfield was a comic book before he was like a TV show,
+
+794
+02:01:17,590 --> 02:01:22,789
+and the TV show was good. Garfield and Friends. That was not a bad show.
+
+795
+02:01:23,989 --> 02:01:29,029
+You're smashing blood. What? You just destroyed that doorway.
+
+796
+02:01:36,229 --> 02:01:40,630
+From the 100. That's a good one. That's good. I don't know. I don't watch that much TV.
+
+797
+02:01:41,590 --> 02:01:45,829
+I don't have a base on anything.
+
+798
+02:02:01,020 --> 02:02:03,979
+The mood is very live. And all you have to say is...
+
+799
+02:02:03,979 --> 02:02:06,979
+Oh, I'm cool. That went the wrong way.
+
+800
+02:02:10,180 --> 02:02:14,739
+Come on. Come on, dude. Why can't I play that back to you?
+
+801
+02:02:14,739 --> 02:02:19,380
+Come on, dude. Come on. Because you don't have the thing.
+
+802
+02:02:20,180 --> 02:02:22,420
+You'd be more than welcome to do it if you had the thing.
+
+803
+02:02:23,220 --> 02:02:33,100
+What about the pumpkins out here? We should probably set those up.
+
+804
+02:02:33,100 --> 02:02:38,409
+Hello? I need one of these.
+
+805
+02:02:39,289 --> 02:02:41,750
+There's still lots of buckets out here that need to be disposed of.
+
+806
+02:02:44,789 --> 02:02:45,670
+Delete yourself.
+
+807
+02:02:52,199 --> 02:02:55,319
+At least it's good to know I have a future in being a janitor.
+
+808
+02:03:03,720 --> 02:03:06,439
+I'm stuck on this. What character is the worst character in any TV show?
+
+809
+02:03:08,760 --> 02:03:15,420
+Who the fuck is it? Name me a TV show that I've watched, that you know I've watched.
+
+810
+02:03:16,460 --> 02:03:22,970
+The only show that I know you've watched is Breaking Bad and Game of Thrones.
+
+811
+02:03:22,970 --> 02:03:33,939
+Oh. Ross from Friends.
+
+812
+02:03:36,149 --> 02:03:37,829
+What? I've never seen that.
+
+813
+02:03:37,829 --> 02:03:40,069
+I don't... Why? I thought people liked him.
+
+814
+02:03:48,140 --> 02:03:53,699
+Peggy from King of the Hill. That's disrespectful.
+
+815
+02:03:53,699 --> 02:04:03,060
+She is a loving, caring, family woman. She goes to great lengths to provide when Hank can't.
+
+816
+02:04:04,810 --> 02:04:09,289
+She makes a miraculous recovery from falling out of a fucking airplane.
+
+817
+02:04:13,380 --> 02:04:14,739
+And she's not good enough for you.
+
+818
+02:04:28,060 --> 02:04:30,779
+I mean, I like Peggy Hill.
+
+819
+02:04:33,369 --> 02:04:38,220
+How about The Vision? I hate The Vision.
+
+820
+02:04:39,510 --> 02:04:45,800
+Open this door. Open this door! What are you doing out there?
+
+821
+02:04:46,520 --> 02:04:47,560
+I'm fucking cleaning.
+
+822
+02:04:51,560 --> 02:04:53,000
+Who's closing doors?
+
+823
+02:04:59,829 --> 02:05:01,029
+What did you do with the USBs?
+
+824
+02:05:02,100 --> 02:05:03,300
+What USBs?
+
+825
+02:05:03,300 --> 02:05:06,579
+The USB drives I've been collecting. This whole time.
+
+826
+02:05:07,699 --> 02:05:10,420
+You were just out... Do you think I'm capable, like,
+
+827
+02:05:10,420 --> 02:05:14,420
+number one, physically, or number two, mentally, being able to move all those in less than 30 seconds?
+
+828
+02:05:16,220 --> 02:05:17,819
+Yes. You really think that?
+
+829
+02:05:29,579 --> 02:05:30,939
+Typically, you would be the one to be like,
+
+830
+02:05:30,939 --> 02:05:33,819
+no, you could never do that in that amount of time. You're just so slow.
+
+831
+02:05:36,069 --> 02:05:38,390
+You're very athletic when you want to be. You did a...
+
+832
+02:05:39,989 --> 02:05:41,430
+What's it called from the top rope?
+
+833
+02:05:43,399 --> 02:05:45,159
+What? A whirlwind or something?
+
+834
+02:05:45,159 --> 02:05:46,680
+A whirlwind?
+
+835
+02:05:46,680 --> 02:05:50,180
+I don't know. What's it called? Triple Lindy?
+
+836
+02:05:50,180 --> 02:05:54,020
+A triple... What? No, it's called a...
+
+837
+02:05:55,140 --> 02:05:55,859
+Hurricana?
+
+838
+02:05:55,859 --> 02:05:57,060
+Hurricanrana.
+
+839
+02:05:57,619 --> 02:06:00,340
+Hurricanrana. Yeah, he can do one of those.
+
+840
+02:06:00,420 --> 02:06:03,060
+Did you guys... You should have seen him at the trampoline park.
+
+841
+02:06:03,060 --> 02:06:04,979
+Oh, I was... I was good.
+
+842
+02:06:04,979 --> 02:06:07,140
+Dude, this six-year-old came up to him and was like,
+
+843
+02:06:07,140 --> 02:06:10,420
+can I help you out a bit? And he freaking hurricanrana'd him right off.
+
+844
+02:06:13,779 --> 02:06:14,279
+Bam!
+
+845
+02:06:27,060 --> 02:06:28,020
+You had to go home early.
+
+846
+02:06:30,329 --> 02:06:33,449
+Yeah, that was you in that scenario. I hurricanrana'd you.
+
+847
+02:06:35,670 --> 02:06:39,590
+He started talking shit and I just, like, jumped way high over your head and just, like,
+
+848
+02:06:39,590 --> 02:06:42,420
+boom! Landed right on your shoulders.
+
+849
+02:06:42,420 --> 02:06:43,779
+Twisted back and you flipped forward.
+
+850
+02:06:44,939 --> 02:06:47,260
+I remember specifically the whole time you were going,
+
+851
+02:06:47,260 --> 02:06:48,699
+I'm sorry! I'm wicked sorry! I'm sorry!
+
+852
+02:06:49,819 --> 02:06:51,420
+What was I sorry about?
+
+853
+02:06:51,420 --> 02:06:59,590
+The fact that you... What am I gonna do with this?
+
+854
+02:07:00,630 --> 02:07:01,909
+What was I sorry about?
+
+855
+02:07:03,689 --> 02:07:08,579
+You, like, made fun of me. You said I was acting like a six-year-old.
+
+856
+02:07:10,439 --> 02:07:15,000
+No, I said you were... I said you were using wrestling moves on six-year-old.
+
+857
+02:07:16,340 --> 02:07:19,380
+Oh, all right. Well, let's go ahead and move on from that conversation.
+
+858
+02:07:19,380 --> 02:07:20,899
+I did rip my pants, actually.
+
+859
+02:07:21,460 --> 02:07:23,939
+Yeah, you did rip your pants. That's actually rude. That's true.
+
+860
+02:07:24,579 --> 02:07:26,739
+I'm... Your voice when you remembered.
+
+861
+02:07:26,739 --> 02:07:28,100
+He did. He did. I can turn this on.
+
+862
+02:07:28,100 --> 02:07:29,140
+No, he ripped his pants.
+
+863
+02:07:29,140 --> 02:07:30,659
+It's not about me. He ripped his pants.
+
+864
+02:07:30,659 --> 02:07:31,300
+He ripped his pants.
+
+865
+02:07:31,300 --> 02:07:32,100
+It was embarrassing.
+
+866
+02:07:34,649 --> 02:07:35,149
+Nope.
+
+867
+02:07:39,260 --> 02:07:42,300
+Okay, wait. For a second. For a second.
+
+868
+02:07:43,750 --> 02:07:47,510
+I thought I... I thought I threw away X.
+
+869
+02:07:48,069 --> 02:07:49,909
+And I was about to be like, oh, fuck.
+
+870
+02:07:50,710 --> 02:07:52,949
+Good thing I didn't throw away X.
+
+871
+02:07:54,630 --> 02:07:55,109
+Yeah.
+
+872
+02:07:55,109 --> 02:07:56,390
+They are shaped the same.
+
+873
+02:07:57,109 --> 02:08:04,119
+All right. So, how's the episode?
+
+874
+02:08:04,680 --> 02:08:05,399
+So, the vision.
+
+875
+02:08:06,739 --> 02:08:10,100
+The vision. No. Yeah. Okay. You think I do embarrassing things?
+
+876
+02:08:10,979 --> 02:08:13,460
+You not only have ripped your pants in front of me.
+
+877
+02:08:13,460 --> 02:08:15,220
+You've also shit your pants on spring.
+
+878
+02:08:18,699 --> 02:08:25,579
+So, I think I get like times one million points in the other direction.
+
+879
+02:08:25,579 --> 02:08:26,859
+I won that quick play match.
+
+880
+02:08:28,699 --> 02:08:29,199
+So...
+
+881
+02:08:35,579 --> 02:08:40,859
+It's like, honest to God, the most fucking disgusting, fucked up thing ever.
+
+882
+02:08:43,659 --> 02:08:44,460
+Ever.
+
+883
+02:08:44,460 --> 02:08:44,960
+Ever.
+
+884
+02:08:50,680 --> 02:08:51,399
+It's, uh...
+
+885
+02:08:51,399 --> 02:08:52,039
+What am I doing?
+
+886
+02:08:52,760 --> 02:08:54,920
+Pretty low of you to judge another man's butthole.
+
+887
+02:08:57,560 --> 02:08:58,920
+What is this? A vacuum?
+
+888
+02:08:58,920 --> 02:09:01,399
+I'm sure yours has done some things it's not too proud of.
+
+889
+02:09:01,399 --> 02:09:02,840
+How do I turn on the vacuum?
+
+890
+02:09:03,960 --> 02:09:06,279
+Oh, yeah. Not talking about this anymore.
+
+891
+02:09:07,159 --> 02:09:09,000
+Oh, no, no. Wait, wait, wait.
+
+892
+02:09:09,880 --> 02:09:10,840
+Jerry! Jerry, come out here.
+
+893
+02:09:13,239 --> 02:09:14,039
+Jerry, get out here.
+
+894
+02:09:14,680 --> 02:09:19,529
+Hello? Get out the front door.
+
+895
+02:09:19,529 --> 02:09:20,329
+What?
+
+896
+02:09:20,329 --> 02:09:21,609
+Get out the front door. Out the front door. Quick.
+
+897
+02:09:23,109 --> 02:09:24,090
+Why?
+
+898
+02:09:24,090 --> 02:09:25,850
+Because you're about to see something amazing.
+
+899
+02:09:27,289 --> 02:09:29,289
+Coming. Coming, honey.
+
+900
+02:09:29,289 --> 02:09:32,090
+I found the vacuum that plays music.
+
+901
+02:09:32,090 --> 02:09:35,369
+Look, I'm jumping. I'm jumping.
+
+902
+02:09:35,369 --> 02:09:35,930
+Can you see me?
+
+903
+02:09:36,569 --> 02:09:41,130
+Look at your map.
+
+904
+02:09:41,130 --> 02:09:41,770
+Come here.
+
+905
+02:09:41,770 --> 02:09:54,579
+Okay, now you do the work while I'll be the support.
+
+906
+02:09:57,210 --> 02:09:58,170
+I'm your healer.
+
+907
+02:10:00,390 --> 02:10:02,149
+I'm leaving if you don't get rid of that.
+
+908
+02:10:02,710 --> 02:10:05,420
+I was at a vacuum.
+
+909
+02:10:10,659 --> 02:10:12,840
+Wait, now we can't get it.
+
+910
+02:10:12,840 --> 02:10:14,199
+I just realized what I'm doing.
+
+911
+02:10:14,199 --> 02:10:15,880
+That can never turn off.
+
+912
+02:10:15,880 --> 02:10:17,479
+I threw some pumpkins out there earlier.
+
+913
+02:10:22,039 --> 02:10:23,079
+You're gonna get us in trouble.
+
+914
+02:10:23,079 --> 02:10:23,640
+Don't do that.
+
+915
+02:10:24,439 --> 02:10:26,199
+You think you can get one over the fence?
+
+916
+02:10:26,199 --> 02:10:26,520
+I think so.
+
+917
+02:10:26,520 --> 02:10:27,960
+We both get one throw.
+
+918
+02:10:27,960 --> 02:10:29,079
+One throw to get it over the fence?
+
+919
+02:10:29,640 --> 02:10:30,680
+Yeah, hold on, hold on, hold on.
+
+920
+02:10:31,880 --> 02:10:34,920
+Into like, crabby Carol's yard?
+
+921
+02:10:35,560 --> 02:10:36,680
+Yeah, fuck Carol.
+
+922
+02:10:39,319 --> 02:10:39,960
+Holy shit.
+
+923
+02:10:39,960 --> 02:10:43,000
+I just, that was like, I, there's nobody's gonna,
+
+924
+02:10:43,000 --> 02:10:44,279
+I just went to the driving range.
+
+925
+02:10:45,079 --> 02:10:45,800
+No, I'm sorry.
+
+926
+02:10:45,800 --> 02:10:46,600
+I went to the driving range.
+
+927
+02:10:50,140 --> 02:10:52,300
+Hey, you want to take this and like throw it out?
+
+928
+02:10:53,340 --> 02:10:54,859
+Dude, no, it was over the roof.
+
+929
+02:10:58,970 --> 02:11:01,130
+Oh, Nuddy, no, no, no, no, no, no, Nuddy.
+
+930
+02:11:01,130 --> 02:11:03,050
+Close, I'm going over Carol's roof.
+
+931
+02:11:03,050 --> 02:11:03,770
+Check this shit out.
+
+932
+02:11:04,409 --> 02:11:08,460
+Where'd it go?
+
+933
+02:11:09,750 --> 02:11:10,710
+You got it over the house.
+
+934
+02:11:10,710 --> 02:11:11,909
+Did it go so far over the house?
+
+935
+02:11:11,909 --> 02:11:12,869
+It didn't go straight.
+
+936
+02:11:12,869 --> 02:11:13,909
+It went off to the right.
+
+937
+02:11:18,279 --> 02:11:19,579
+You got in my way.
+
+938
+02:11:19,579 --> 02:11:21,100
+I don't know where mine went.
+
+939
+02:11:21,100 --> 02:11:22,460
+I'm gonna assume I hit the moon.
+
+940
+02:11:25,239 --> 02:11:27,399
+Okay, why do I still hear the music?
+
+941
+02:11:32,300 --> 02:11:33,500
+Why is music coming from the house?
+
+942
+02:11:35,350 --> 02:11:36,789
+Oh, there's a new one over here.
+
+943
+02:11:36,789 --> 02:11:39,270
+Oh, get rid of this fucking thing.
+
+944
+02:11:39,909 --> 02:11:45,460
+Does it spawn?
+
+945
+02:11:47,909 --> 02:11:48,869
+Now I miss the music.
+
+946
+02:11:55,100 --> 02:11:56,140
+All right, back upstairs.
+
+947
+02:11:57,500 --> 02:11:58,380
+God damn it.
+
+948
+02:11:58,380 --> 02:11:59,180
+No, no, no, no, no, no, no.
+
+949
+02:11:59,180 --> 02:11:59,899
+Take this trash out.
+
+950
+02:11:59,899 --> 02:12:00,859
+Take the trash outside.
+
+951
+02:12:00,859 --> 02:12:02,619
+When do I get my obligated?
+
+952
+02:12:02,619 --> 02:12:03,340
+I'm like, ugh.
+
+953
+02:12:08,359 --> 02:12:10,680
+Just running and heaving the trash into me.
+
+954
+02:12:16,420 --> 02:12:17,939
+What am I doing with my trash?
+
+955
+02:12:18,739 --> 02:12:30,840
+Oh my god, this music is like all in my left ear.
+
+956
+02:12:35,590 --> 02:12:36,229
+Where are you?
+
+957
+02:12:36,229 --> 02:12:37,270
+Are you up in the?
+
+958
+02:12:37,270 --> 02:12:38,390
+I'm in the backyard.
+
+959
+02:12:38,390 --> 02:12:39,109
+What are we doing?
+
+960
+02:12:39,109 --> 02:12:41,989
+All right, go upstairs.
+
+961
+02:12:41,989 --> 02:12:43,189
+We need to get in a bucket.
+
+962
+02:12:43,189 --> 02:12:44,069
+Is that okay?
+
+963
+02:12:44,069 --> 02:12:44,550
+That's fine.
+
+964
+02:12:57,699 --> 02:12:58,659
+Where are you?
+
+965
+02:12:58,659 --> 02:12:59,699
+I'm coming upstairs right now.
+
+966
+02:13:06,680 --> 02:13:08,439
+This music is so loud and annoying.
+
+967
+02:13:09,159 --> 02:13:10,119
+Why did you have to do this?
+
+968
+02:13:11,270 --> 02:13:11,989
+The fuck?
+
+969
+02:13:11,989 --> 02:13:12,789
+Turn your music down.
+
+970
+02:13:13,510 --> 02:13:17,060
+It's really not that hard to turn your music down.
+
+971
+02:13:17,060 --> 02:13:18,819
+No, it's the principle.
+
+972
+02:13:21,140 --> 02:13:22,260
+Where is this coming from?
+
+973
+02:13:25,159 --> 02:13:26,199
+It's like in the wall.
+
+974
+02:13:28,710 --> 02:13:30,710
+Don't get that trash out of here.
+
+975
+02:13:31,670 --> 02:13:38,119
+Are you going to get in Krabby Carroll's front yard?
+
+976
+02:13:47,239 --> 02:13:48,680
+We're never going to complete the level now.
+
+977
+02:13:49,399 --> 02:13:54,069
+I hope you're happy.
+
+978
+02:13:56,010 --> 02:13:56,810
+No music.
+
+979
+02:13:56,810 --> 02:13:57,210
+Quiet.
+
+980
+02:13:57,210 --> 02:13:58,649
+I want complete silence.
+
+981
+02:13:58,649 --> 02:14:01,369
+All right, so let's take this party upstairs.
+
+982
+02:14:03,340 --> 02:14:04,539
+I'm going to bring a couple of buckets.
+
+983
+02:14:05,420 --> 02:14:05,979
+Oh yeah?
+
+984
+02:14:07,020 --> 02:14:07,819
+What else are you going to do?
+
+985
+02:14:09,739 --> 02:14:10,619
+Oh, relax.
+
+986
+02:14:13,500 --> 02:14:14,220
+Relax.
+
+987
+02:14:15,180 --> 02:14:16,140
+How many buckets?
+
+988
+02:14:17,979 --> 02:14:18,479
+Two.
+
+989
+02:14:20,739 --> 02:14:21,460
+Oh yeah?
+
+990
+02:14:26,760 --> 02:14:32,409
+Do you have one of those trash compactors up there?
+
+991
+02:14:33,449 --> 02:14:33,949
+Yeah.
+
+992
+02:14:34,329 --> 02:14:36,329
+There really is just party music playing.
+
+993
+02:14:37,750 --> 02:14:38,710
+Why is it in the house?
+
+994
+02:14:39,859 --> 02:14:41,060
+I turned my music off.
+
+995
+02:14:41,060 --> 02:14:41,539
+I don't know.
+
+996
+02:14:41,539 --> 02:14:43,060
+It was like in a wall and I couldn't find it.
+
+997
+02:14:43,859 --> 02:14:53,130
+All right, I got two buckets of water.
+
+998
+02:14:53,770 --> 02:14:55,050
+Which room are you in?
+
+999
+02:14:56,119 --> 02:14:57,159
+I'm in the hallway.
+
+1000
+02:14:57,960 --> 02:14:58,960
+Okay.
+
+1001
+02:14:59,500 --> 02:15:00,699
+Please be careful.
+
+1002
+02:15:05,739 --> 02:15:07,260
+Are you trying to do something dumb?
+
+1003
+02:15:07,979 --> 02:15:10,300
+Because we need these buckets.
+
+1004
+02:15:10,939 --> 02:15:12,460
+And you just came over and whacked me.
+
+1005
+02:15:16,699 --> 02:15:17,500
+Won't happen again boss.
+
+1006
+02:15:17,500 --> 02:15:18,300
+It's getting louder.
+
+1007
+02:15:19,579 --> 02:15:20,079
+Yeah.
+
+1008
+02:15:20,460 --> 02:15:22,060
+All right, so which room are we doing?
+
+1009
+02:15:22,060 --> 02:15:22,560
+Excuse me.
+
+1010
+02:15:23,880 --> 02:15:24,380
+This one?
+
+1011
+02:15:25,590 --> 02:15:27,829
+This room is nearly done.
+
+1012
+02:15:27,829 --> 02:15:29,029
+That wasn't this competition room?
+
+1013
+02:15:29,670 --> 02:15:30,869
+It might have been.
+
+1014
+02:15:32,180 --> 02:15:33,300
+No, you did the other one.
+
+1015
+02:15:33,300 --> 02:15:35,300
+This closet is bad.
+
+1016
+02:15:39,779 --> 02:15:41,300
+Ah, fuck dude.
+
+1017
+02:15:44,970 --> 02:15:46,600
+What's up?
+
+1018
+02:15:47,060 --> 02:15:53,529
+Are you good?
+
+1019
+02:15:53,529 --> 02:15:54,170
+What happened?
+
+1020
+02:15:54,170 --> 02:15:54,970
+I'm good, I'm good.
+
+1021
+02:15:55,770 --> 02:15:57,369
+This one, I can take this one.
+
+1022
+02:15:57,930 --> 02:16:03,060
+It's just blood, a little bit of guts.
+
+1023
+02:16:03,779 --> 02:16:04,279
+I guess.
+
+1024
+02:16:04,739 --> 02:16:05,460
+There's a note too.
+
+1025
+02:16:06,260 --> 02:16:12,539
+Where does this lead?
+
+1026
+02:16:12,539 --> 02:16:13,039
+This window.
+
+1027
+02:16:18,380 --> 02:16:18,939
+We're good.
+
+1028
+02:16:18,939 --> 02:16:19,500
+I'm good.
+
+1029
+02:16:19,500 --> 02:16:20,460
+My room's clean.
+
+1030
+02:16:20,460 --> 02:16:21,340
+I beat you.
+
+1031
+02:16:21,340 --> 02:16:21,979
+My room's clean.
+
+1032
+02:16:21,979 --> 02:16:22,300
+I beat you.
+
+1033
+02:16:22,300 --> 02:16:22,859
+My room's clean.
+
+1034
+02:16:22,859 --> 02:16:23,979
+I beat you.
+
+1035
+02:16:23,979 --> 02:16:25,180
+Which window is near a thing?
+
+1036
+02:16:26,140 --> 02:16:26,779
+No, that's it.
+
+1037
+02:16:27,579 --> 02:16:29,140
+I think I can get it.
+
+1038
+02:16:30,659 --> 02:16:31,300
+Give me a hand here.
+
+1039
+02:16:32,120 --> 02:16:32,620
+No.
+
+1040
+02:16:34,090 --> 02:16:35,129
+I have my own duties.
+
+1041
+02:16:36,010 --> 02:16:36,409
+Got it.
+
+1042
+02:16:36,409 --> 02:16:37,209
+Come on.
+
+1043
+02:16:37,209 --> 02:16:37,709
+Do it.
+
+1044
+02:16:38,489 --> 02:16:38,989
+Do what?
+
+1045
+02:16:40,010 --> 02:16:40,569
+I'm in trouble.
+
+1046
+02:16:41,690 --> 02:16:42,729
+Coming, coming.
+
+1047
+02:16:42,729 --> 02:16:44,329
+I'm going to come and kill you out.
+
+1048
+02:16:44,329 --> 02:16:44,829
+I don't know.
+
+1049
+02:16:48,760 --> 02:16:49,559
+I don't know what's going on.
+
+1050
+02:16:50,280 --> 02:16:50,840
+Did you do that?
+
+1051
+02:16:52,200 --> 02:16:52,700
+Do what?
+
+1052
+02:16:53,319 --> 02:16:56,040
+Weirdly enough, the whole game's procedurally generated.
+
+1053
+02:16:56,760 --> 02:16:59,159
+So we kind of have an issue out here.
+
+1054
+02:17:03,399 --> 02:17:04,840
+I did not do that.
+
+1055
+02:17:04,840 --> 02:17:06,360
+I think it's procedurally generated.
+
+1056
+02:17:07,959 --> 02:17:09,319
+Hold on, I got this.
+
+1057
+02:17:09,319 --> 02:17:10,120
+Did you just kill me?
+
+1058
+02:17:12,139 --> 02:17:13,020
+You just killed me.
+
+1059
+02:17:13,739 --> 02:17:14,780
+How did you kill me?
+
+1060
+02:17:15,899 --> 02:17:16,399
+What?
+
+1061
+02:17:17,180 --> 02:17:17,659
+I don't know.
+
+1062
+02:17:17,659 --> 02:17:19,739
+You just goomba stomped me and broke my neck.
+
+1063
+02:17:20,299 --> 02:17:21,420
+I got her off the roof.
+
+1064
+02:17:21,420 --> 02:17:22,459
+Why did I die?
+
+1065
+02:17:25,819 --> 02:17:27,020
+No time for your jokes.
+
+1066
+02:17:27,020 --> 02:17:28,700
+Why is this about number four?
+
+1067
+02:17:32,840 --> 02:17:34,040
+There is no joke there.
+
+1068
+02:17:34,040 --> 02:17:35,959
+You actually jumped on my head and broke my neck.
+
+1069
+02:17:35,959 --> 02:17:36,760
+That's not funny.
+
+1070
+02:17:36,760 --> 02:17:37,719
+That's not funny.
+
+1071
+02:17:37,719 --> 02:17:41,639
+Please don't imply that I would be involved in any tomfoolery.
+
+1072
+02:17:42,520 --> 02:17:44,600
+All right, you knocked her off?
+
+1073
+02:17:44,600 --> 02:17:46,120
+My mom's watching, okay?
+
+1074
+02:17:46,120 --> 02:17:46,760
+Where is she?
+
+1075
+02:17:47,639 --> 02:17:49,850
+What?
+
+1076
+02:17:50,229 --> 02:17:51,350
+Did you knock her off the front or back?
+
+1077
+02:17:52,389 --> 02:17:53,190
+My mom?
+
+1078
+02:17:53,190 --> 02:17:54,149
+I threw her off the front.
+
+1079
+02:17:55,190 --> 02:17:56,229
+Stop tracking it.
+
+1080
+02:17:57,190 --> 02:17:58,469
+You're tracking it.
+
+1081
+02:17:58,469 --> 02:17:59,030
+I don't see her.
+
+1082
+02:17:59,030 --> 02:17:59,909
+Where did you knock her off?
+
+1083
+02:18:00,629 --> 02:18:03,799
+She was in the bushes.
+
+1084
+02:18:03,799 --> 02:18:04,280
+I got her.
+
+1085
+02:18:04,920 --> 02:18:07,510
+There's still a spot of blood up there that I can't get.
+
+1086
+02:18:08,229 --> 02:18:09,559
+Where did this guy come from?
+
+1087
+02:18:19,860 --> 02:18:24,969
+Thanks for nothing, game.
+
+1088
+02:18:24,969 --> 02:18:25,930
+Thanks for nothing.
+
+1089
+02:18:25,930 --> 02:18:27,450
+When do we get guns?
+
+1090
+02:18:27,450 --> 02:18:28,569
+You don't get guns.
+
+1091
+02:18:29,209 --> 02:18:30,649
+Not every game has to have a gun.
+
+1092
+02:18:31,370 --> 02:18:33,770
+Not every game has to have like,
+
+1093
+02:18:33,770 --> 02:18:35,530
+get on the cart and shoot the gun.
+
+1094
+02:18:36,409 --> 02:18:43,479
+I don't know.
+
+1095
+02:18:43,479 --> 02:18:45,000
+I'm a back-in-the-day gamer.
+
+1096
+02:18:48,649 --> 02:18:49,850
+A purist, if you will.
+
+1097
+02:18:50,809 --> 02:18:51,290
+Why not?
+
+1098
+02:18:53,670 --> 02:18:56,069
+All right, we are getting very, very close, my friend.
+
+1099
+02:19:01,610 --> 02:19:02,649
+Take my buckets!
+
+1100
+02:19:04,379 --> 02:19:04,879
+Hello?
+
+1101
+02:19:06,489 --> 02:19:08,250
+I thought that was you, but it was me.
+
+1102
+02:19:12,100 --> 02:19:14,420
+I thought you were doing a, quote,
+
+1103
+02:19:15,459 --> 02:19:16,500
+German impression.
+
+1104
+02:19:16,500 --> 02:19:17,000
+Hello?
+
+1105
+02:19:18,200 --> 02:19:18,700
+No.
+
+1106
+02:19:18,700 --> 02:19:19,200
+Hello?
+
+1107
+02:19:19,200 --> 02:19:19,700
+Hello?
+
+1108
+02:19:19,700 --> 02:19:20,200
+Hello?
+
+1109
+02:19:20,200 --> 02:19:20,700
+Hello?
+
+1110
+02:19:20,700 --> 02:19:21,200
+Hello?
+
+1111
+02:19:26,180 --> 02:19:26,979
+Kid thinks he's funny.
+
+1112
+02:19:26,979 --> 02:19:27,479
+Hello?
+
+1113
+02:19:27,479 --> 02:19:27,979
+Hello?
+
+1114
+02:19:27,979 --> 02:19:28,479
+Hello?
+
+1115
+02:19:29,139 --> 02:19:30,260
+Fucking kid thinks he's funny.
+
+1116
+02:19:32,709 --> 02:19:33,270
+That's, uh...
+
+1117
+02:19:33,989 --> 02:19:34,489
+Okay.
+
+1118
+02:19:34,489 --> 02:19:35,930
+When you're walking down the street,
+
+1119
+02:19:35,930 --> 02:19:38,170
+and 50% of the people are germos.
+
+1120
+02:19:39,129 --> 02:19:39,629
+Hello?
+
+1121
+02:19:39,629 --> 02:19:40,129
+Hello?
+
+1122
+02:19:40,129 --> 02:19:40,629
+Hello?
+
+1123
+02:19:40,629 --> 02:19:41,129
+Hello?
+
+1124
+02:19:41,950 --> 02:19:42,750
+No, I didn't see it.
+
+1125
+02:19:43,629 --> 02:19:45,629
+Where else would I have come up with this if I didn't, like...
+
+1126
+02:19:45,629 --> 02:19:46,129
+That's a great video.
+
+1127
+02:19:46,129 --> 02:19:47,389
+You think I have an imagination?
+
+1128
+02:19:49,879 --> 02:19:50,760
+Something in the attic.
+
+1129
+02:19:52,620 --> 02:19:53,500
+Something in the attic.
+
+1130
+02:19:55,659 --> 02:19:56,540
+Is it creepy?
+
+1131
+02:19:56,540 --> 02:19:57,340
+Something in the attic.
+
+1132
+02:19:57,899 --> 02:19:59,149
+I'm coming, I'm coming.
+
+1133
+02:19:59,149 --> 02:20:00,329
+Oh, let's do it, let's do it, let's do it.
+
+1134
+02:20:00,329 --> 02:20:01,530
+Come here, come here, come here.
+
+1135
+02:20:01,530 --> 02:20:02,030
+I'm gonna...
+
+1136
+02:20:03,819 --> 02:20:04,459
+Ow, my head.
+
+1137
+02:20:05,180 --> 02:20:06,620
+Come here.
+
+1138
+02:20:07,079 --> 02:20:08,209
+Where are you?
+
+1139
+02:20:08,750 --> 02:20:10,829
+This is authentic.
+
+1140
+02:20:10,829 --> 02:20:12,190
+Like, four people died on this.
+
+1141
+02:20:12,190 --> 02:20:12,690
+It's gonna work.
+
+1142
+02:20:13,469 --> 02:20:14,750
+Oh, shit.
+
+1143
+02:20:14,750 --> 02:20:15,629
+All right, bring it to the bathroom.
+
+1144
+02:20:16,909 --> 02:20:17,549
+Oh.
+
+1145
+02:20:17,549 --> 02:20:18,270
+Oh, it's a weed.
+
+1146
+02:20:18,270 --> 02:20:20,750
+I thought we were gonna try and go down the stairs on it.
+
+1147
+02:20:20,750 --> 02:20:21,250
+No.
+
+1148
+02:20:21,559 --> 02:20:22,059
+All right.
+
+1149
+02:20:22,600 --> 02:20:23,100
+So...
+
+1150
+02:20:23,100 --> 02:20:25,079
+Authentic people have died on this.
+
+1151
+02:20:25,079 --> 02:20:25,579
+Vooja.
+
+1152
+02:20:27,530 --> 02:20:28,329
+All right, you ready?
+
+1153
+02:20:28,329 --> 02:20:28,969
+Put your hand on my...
+
+1154
+02:20:28,969 --> 02:20:29,690
+Put your hand on my hand.
+
+1155
+02:20:31,959 --> 02:20:32,360
+Thanks.
+
+1156
+02:20:32,360 --> 02:20:32,860
+Okay.
+
+1157
+02:20:32,920 --> 02:20:33,420
+Okay.
+
+1158
+02:20:33,639 --> 02:20:35,100
+No, wait, we need to...
+
+1159
+02:20:35,100 --> 02:20:35,600
+I need to...
+
+1160
+02:20:36,799 --> 02:20:37,299
+Ghost!
+
+1161
+02:20:37,760 --> 02:20:38,260
+So...
+
+1162
+02:20:38,260 --> 02:20:39,360
+Ghost, can you hear us?
+
+1163
+02:20:39,360 --> 02:20:39,860
+When the tip is on that.
+
+1164
+02:20:39,860 --> 02:20:40,360
+Hello?
+
+1165
+02:20:40,799 --> 02:20:42,940
+All right, you ready?
+
+1166
+02:20:43,399 --> 02:20:43,899
+Take...
+
+1167
+02:20:43,899 --> 02:20:44,399
+Grab my hand.
+
+1168
+02:20:44,399 --> 02:20:44,899
+Tight.
+
+1169
+02:20:44,899 --> 02:20:45,399
+Tighter.
+
+1170
+02:20:45,399 --> 02:20:46,200
+I'm tight.
+
+1171
+02:20:46,200 --> 02:20:46,700
+Ow!
+
+1172
+02:20:46,700 --> 02:20:47,319
+Fucking God!
+
+1173
+02:20:47,319 --> 02:20:48,040
+Not that hard.
+
+1174
+02:20:48,040 --> 02:20:48,840
+What's wrong with you?
+
+1175
+02:20:49,659 --> 02:20:50,159
+Tighter.
+
+1176
+02:20:51,020 --> 02:20:51,520
+Dear...
+
+1177
+02:20:51,659 --> 02:20:52,159
+Ow.
+
+1178
+02:20:52,159 --> 02:20:55,020
+Dear spirits of the realm of...
+
+1179
+02:20:55,579 --> 02:20:57,760
+Let's turn the light off.
+
+1180
+02:20:57,760 --> 02:20:58,260
+Can we?
+
+1181
+02:20:59,600 --> 02:21:00,559
+Uh, yeah.
+
+1182
+02:21:00,559 --> 02:21:05,889
+Oh, that door closed by itself!
+
+1183
+02:21:07,860 --> 02:21:10,290
+Okay, hand back on.
+
+1184
+02:21:10,290 --> 02:21:10,790
+Okay.
+
+1185
+02:21:11,520 --> 02:21:14,850
+Spirits of the otherworldly creatures,
+
+1186
+02:21:15,840 --> 02:21:17,120
+give us a sign.
+
+1187
+02:21:17,120 --> 02:21:21,420
+Are you here in the room with us right now?
+
+1188
+02:21:21,420 --> 02:21:22,219
+No, I was talking about the...
+
+1189
+02:21:22,219 --> 02:21:23,579
+Yeah, I was talking about the ear.
+
+1190
+02:21:23,579 --> 02:21:24,079
+You fuck...
+
+1191
+02:21:24,079 --> 02:21:27,260
+Stop fucking up the spirit mojo here.
+
+1192
+02:21:27,260 --> 02:21:27,760
+Come on.
+
+1193
+02:21:28,399 --> 02:21:28,899
+Okay.
+
+1194
+02:21:29,620 --> 02:21:30,739
+Are you in the room right now?
+
+1195
+02:21:31,420 --> 02:21:33,100
+You fucking guys are so bad at this game.
+
+1196
+02:21:33,100 --> 02:21:34,459
+Like, I'm missing dinner now.
+
+1197
+02:21:34,459 --> 02:21:38,610
+Are you doing this?
+
+1198
+02:21:40,000 --> 02:21:40,559
+Yeah, what?
+
+1199
+02:21:40,559 --> 02:21:41,059
+No.
+
+1200
+02:21:41,059 --> 02:21:42,239
+Are you moving this?
+
+1201
+02:21:42,239 --> 02:21:43,040
+I'm not doing this.
+
+1202
+02:21:43,040 --> 02:21:43,680
+Are you doing this?
+
+1203
+02:21:43,680 --> 02:21:44,180
+Yeah.
+
+1204
+02:21:44,479 --> 02:21:46,270
+Yeah, I am.
+
+1205
+02:21:46,270 --> 02:21:48,129
+I'm moving it.
+
+1206
+02:21:48,129 --> 02:21:48,629
+No, wait.
+
+1207
+02:21:48,629 --> 02:21:49,129
+No, I'm not.
+
+1208
+02:21:49,129 --> 02:21:49,809
+That's not how this works.
+
+1209
+02:21:50,610 --> 02:21:51,969
+Put your hand back on.
+
+1210
+02:21:53,180 --> 02:21:53,680
+Ow.
+
+1211
+02:21:53,680 --> 02:21:54,860
+You just admitted you were moving it.
+
+1212
+02:21:54,860 --> 02:21:55,500
+No, just put it down.
+
+1213
+02:21:55,500 --> 02:21:56,000
+Put it down.
+
+1214
+02:21:56,000 --> 02:21:56,500
+No.
+
+1215
+02:21:57,389 --> 02:21:57,889
+Okay.
+
+1216
+02:21:57,889 --> 02:21:58,510
+Okay, it's down.
+
+1217
+02:21:58,510 --> 02:21:59,010
+It's down.
+
+1218
+02:21:59,469 --> 02:21:59,969
+Hold on.
+
+1219
+02:21:59,969 --> 02:22:01,149
+Wait, we gotta get some more blood on this.
+
+1220
+02:22:02,670 --> 02:22:03,170
+Hold on.
+
+1221
+02:22:03,170 --> 02:22:03,670
+Wait.
+
+1222
+02:22:04,350 --> 02:22:05,469
+Just keep it there right there.
+
+1223
+02:22:06,030 --> 02:22:06,989
+Get in the shower with me.
+
+1224
+02:22:08,350 --> 02:22:10,450
+Wait a minute.
+
+1225
+02:22:10,450 --> 02:22:10,950
+Oh shit.
+
+1226
+02:22:11,889 --> 02:22:12,389
+Okay.
+
+1227
+02:22:12,389 --> 02:22:13,010
+I thought it was done.
+
+1228
+02:22:15,489 --> 02:22:16,530
+It's too dark.
+
+1229
+02:22:17,170 --> 02:22:18,370
+It's too dark in the house.
+
+1230
+02:22:19,170 --> 02:22:19,969
+I can't see.
+
+1231
+02:22:21,840 --> 02:22:22,239
+I don't know.
+
+1232
+02:22:22,239 --> 02:22:24,079
+My camera's turned way fucking down.
+
+1233
+02:22:24,079 --> 02:22:24,319
+All right.
+
+1234
+02:22:24,319 --> 02:22:25,040
+Where's the bathroom?
+
+1235
+02:22:25,680 --> 02:22:26,159
+All right.
+
+1236
+02:22:26,159 --> 02:22:26,719
+I need blood.
+
+1237
+02:22:26,719 --> 02:22:27,280
+Give me blood.
+
+1238
+02:22:27,280 --> 02:22:27,840
+I need blood.
+
+1239
+02:22:28,479 --> 02:22:29,360
+Why do you need blood?
+
+1240
+02:22:29,360 --> 02:22:30,239
+Because I need to...
+
+1241
+02:22:30,239 --> 02:22:30,559
+All right.
+
+1242
+02:22:30,559 --> 02:22:31,280
+It's bloodied up.
+
+1243
+02:22:31,280 --> 02:22:31,600
+Good.
+
+1244
+02:22:31,600 --> 02:22:32,100
+Set it down.
+
+1245
+02:22:36,989 --> 02:22:37,309
+All right.
+
+1246
+02:22:37,309 --> 02:22:39,069
+Let's close the fucking door.
+
+1247
+02:22:39,069 --> 02:22:40,909
+Everyone, put your seat belts back on.
+
+1248
+02:22:40,909 --> 02:22:41,149
+All right.
+
+1249
+02:22:41,149 --> 02:22:41,870
+Put your seat belts on.
+
+1250
+02:22:41,870 --> 02:22:42,510
+Put your hand...
+
+1251
+02:22:43,149 --> 02:22:46,430
+Put your hand on my hand.
+
+1252
+02:22:46,430 --> 02:22:46,829
+What?
+
+1253
+02:22:46,829 --> 02:22:47,069
+Ow.
+
+1254
+02:22:47,069 --> 02:22:48,190
+Why was my face?
+
+1255
+02:22:48,190 --> 02:22:49,389
+Put your hand on my fucking hand.
+
+1256
+02:22:49,389 --> 02:22:49,629
+No.
+
+1257
+02:22:49,629 --> 02:22:51,790
+I was doing the clapper for the video.
+
+1258
+02:22:53,729 --> 02:22:54,049
+Okay.
+
+1259
+02:22:55,600 --> 02:22:56,000
+Grasp.
+
+1260
+02:22:57,090 --> 02:22:57,489
+Yo.
+
+1261
+02:22:57,489 --> 02:22:58,370
+What's going on, everybody?
+
+1262
+02:22:58,370 --> 02:22:59,250
+Just being German here.
+
+1263
+02:22:59,250 --> 02:22:59,489
+Hey.
+
+1264
+02:22:59,489 --> 02:23:00,209
+What's going on, everybody?
+
+1265
+02:23:00,209 --> 02:23:00,610
+We're here.
+
+1266
+02:23:00,610 --> 02:23:01,889
+We're doing the Ouija board.
+
+1267
+02:23:01,889 --> 02:23:02,290
+Are you ready?
+
+1268
+02:23:02,290 --> 02:23:03,489
+Spirits, are you in the room with us?
+
+1269
+02:23:04,370 --> 02:23:07,180
+Dude, this is fucking freaky.
+
+1270
+02:23:07,180 --> 02:23:07,899
+Is this you doing that?
+
+1271
+02:23:08,940 --> 02:23:10,059
+I don't think it's me doing it.
+
+1272
+02:23:11,700 --> 02:23:12,340
+This is on yes.
+
+1273
+02:23:13,700 --> 02:23:14,340
+Oh my god.
+
+1274
+02:23:14,340 --> 02:23:14,739
+No, no, no.
+
+1275
+02:23:14,739 --> 02:23:16,260
+Don't touch it.
+
+1276
+02:23:16,260 --> 02:23:17,219
+I'm not touching it.
+
+1277
+02:23:17,219 --> 02:23:17,860
+I'm not.
+
+1278
+02:23:17,860 --> 02:23:18,979
+What the fuck is happening then?
+
+1279
+02:23:19,540 --> 02:23:19,780
+Okay.
+
+1280
+02:23:20,500 --> 02:23:22,979
+Spirits, are you moving around the object?
+
+1281
+02:23:23,780 --> 02:23:26,110
+I'm not touching it, dude.
+
+1282
+02:23:26,110 --> 02:23:27,149
+I'm not touching this.
+
+1283
+02:23:27,149 --> 02:23:28,030
+I never touched it.
+
+1284
+02:23:30,620 --> 02:23:30,780
+G.
+
+1285
+02:23:31,420 --> 02:23:32,959
+What's G?
+
+1286
+02:23:32,959 --> 02:23:34,879
+Do you have a family member named G?
+
+1287
+02:23:35,600 --> 02:23:36,940
+Oh my god.
+
+1288
+02:23:36,940 --> 02:23:37,500
+It's for you.
+
+1289
+02:23:37,500 --> 02:23:38,540
+It's Germa.
+
+1290
+02:23:38,540 --> 02:23:39,420
+No, that's a J.
+
+1291
+02:23:39,420 --> 02:23:40,940
+Do you have anybody named G?
+
+1292
+02:23:41,579 --> 02:23:43,629
+Oh my god.
+
+1293
+02:23:43,629 --> 02:23:44,350
+It's Gerald.
+
+1294
+02:23:46,299 --> 02:23:46,860
+Are you doing this?
+
+1295
+02:23:46,860 --> 02:23:47,979
+I'm serious.
+
+1296
+02:23:47,979 --> 02:23:48,299
+I'm serious.
+
+1297
+02:23:48,299 --> 02:23:48,780
+Are you doing this?
+
+1298
+02:23:49,260 --> 02:23:50,540
+Are you moving this?
+
+1299
+02:23:52,510 --> 02:23:52,829
+A.
+
+1300
+02:23:52,829 --> 02:23:53,069
+G.
+
+1301
+02:23:53,069 --> 02:23:53,229
+A.
+
+1302
+02:23:55,069 --> 02:23:55,469
+Gary.
+
+1303
+02:23:55,469 --> 02:23:56,829
+Do you know anybody in the family named Gary?
+
+1304
+02:23:57,469 --> 02:23:57,950
+No.
+
+1305
+02:23:57,950 --> 02:23:59,149
+Spirit, are you Gary?
+
+1306
+02:24:00,239 --> 02:24:01,040
+No, not Gary.
+
+1307
+02:24:02,479 --> 02:24:04,559
+Spirit, spell the rest of your name.
+
+1308
+02:24:08,930 --> 02:24:09,090
+M.
+
+1309
+02:24:11,760 --> 02:24:12,079
+Gam.
+
+1310
+02:24:13,040 --> 02:24:13,920
+Gam.
+
+1311
+02:24:13,920 --> 02:24:14,239
+Gam.
+
+1312
+02:24:14,959 --> 02:24:15,440
+Game.
+
+1313
+02:24:15,440 --> 02:24:16,799
+Game, game, game, game, game, game, game.
+
+1314
+02:24:16,799 --> 02:24:17,520
+Put it down.
+
+1315
+02:24:17,520 --> 02:24:18,079
+Are you touching this?
+
+1316
+02:24:18,719 --> 02:24:18,959
+No.
+
+1317
+02:24:19,700 --> 02:24:19,940
+Fuck.
+
+1318
+02:24:20,500 --> 02:24:22,000
+It's on the S.
+
+1319
+02:24:22,000 --> 02:24:23,040
+Fuck, dude.
+
+1320
+02:24:23,040 --> 02:24:24,079
+Gam.
+
+1321
+02:24:24,079 --> 02:24:24,639
+Gam's.
+
+1322
+02:24:24,639 --> 02:24:25,360
+Game sucks.
+
+1323
+02:24:25,920 --> 02:24:27,649
+I'm not moving this.
+
+1324
+02:24:28,579 --> 02:24:29,059
+Gam6.
+
+1325
+02:24:29,620 --> 02:24:33,379
+Gam, I think that's the demon's name.
+
+1326
+02:24:33,379 --> 02:24:33,940
+Gam6.
+
+1327
+02:24:33,940 --> 02:24:34,579
+Gam6.
+
+1328
+02:24:34,579 --> 02:24:36,420
+Oh, terrible demon of ours.
+
+1329
+02:24:37,500 --> 02:24:38,620
+What do you want us to do?
+
+1330
+02:24:47,549 --> 02:24:48,829
+Oh, okay, sorry.
+
+1331
+02:24:51,700 --> 02:24:52,500
+Gam6.
+
+1332
+02:24:52,500 --> 02:24:55,219
+I forget where the letter is, Gam6.
+
+1333
+02:24:55,219 --> 02:24:58,500
+I don't remember where the letter is in the alphabet because we're upside down.
+
+1334
+02:24:59,219 --> 02:25:01,860
+Gam6, please move me in the right direction if you could, please.
+
+1335
+02:25:03,069 --> 02:25:03,709
+Gam6.
+
+1336
+02:25:03,709 --> 02:25:04,190
+Oh.
+
+1337
+02:25:04,190 --> 02:25:04,590
+Whoa.
+
+1338
+02:25:04,590 --> 02:25:05,229
+Oh, fuck.
+
+1339
+02:25:06,129 --> 02:25:10,530
+He just made me move over here.
+
+1340
+02:25:10,530 --> 02:25:10,850
+Q.
+
+1341
+02:25:13,100 --> 02:25:13,659
+Are you moving this?
+
+1342
+02:25:16,370 --> 02:25:16,610
+You?
+
+1343
+02:25:17,569 --> 02:25:17,889
+Can we?
+
+1344
+02:25:19,940 --> 02:25:20,500
+There's an I.
+
+1345
+02:25:20,500 --> 02:25:21,219
+I think that's an I.
+
+1346
+02:25:22,610 --> 02:25:22,930
+Quit.
+
+1347
+02:25:22,930 --> 02:25:23,250
+Quit.
+
+1348
+02:25:23,889 --> 02:25:42,129
+Are you moving this?
+
+1349
+02:25:43,090 --> 02:25:43,729
+I'm not moving it.
+
+1350
+02:25:43,729 --> 02:25:44,370
+Are you moving this?
+
+1351
+02:25:45,329 --> 02:25:46,049
+Are you moving this?
+
+1352
+02:25:46,049 --> 02:25:46,770
+Are you doing this?
+
+1353
+02:25:48,610 --> 02:25:49,569
+Is that you moving this?
+
+1354
+02:25:49,569 --> 02:25:50,530
+Dude, stop me moving this.
+
+1355
+02:25:51,409 --> 02:25:52,370
+Dude, are you moving this, dude?
+
+1356
+02:25:53,170 --> 02:25:54,129
+Dude, stop me moving this.
+
+1357
+02:25:57,020 --> 02:25:57,579
+It's not me.
+
+1358
+02:25:58,219 --> 02:25:58,860
+Are you moving that?
+
+1359
+02:25:59,579 --> 02:26:01,020
+Oh my god, is this the demon lord?
+
+1360
+02:26:01,020 --> 02:26:01,659
+Game sucks.
+
+1361
+02:26:02,299 --> 02:26:03,180
+Dude, are you picking this up?
+
+1362
+02:26:03,180 --> 02:26:03,739
+Did you move this?
+
+1363
+02:26:04,459 --> 02:26:09,700
+Dude, I'm walking down the stairs.
+
+1364
+02:26:09,700 --> 02:26:10,819
+Are you walking down the stairs right now?
+
+1365
+02:26:10,819 --> 02:26:11,379
+I'm not.
+
+1366
+02:26:11,379 --> 02:26:14,879
+Am I?
+
+1367
+02:26:14,879 --> 02:26:15,760
+Good job.
+
+1368
+02:26:15,760 --> 02:26:16,399
+Oh, shit.
+
+1369
+02:26:16,399 --> 02:26:18,959
+I even said that you hit the first funny part.
+
+1370
+02:26:18,959 --> 02:26:19,600
+Dude.
+
+1371
+02:26:19,600 --> 02:26:20,319
+Are you moving this?
+
+1372
+02:26:26,350 --> 02:26:27,950
+I gotta turn my game back up.
+
+1373
+02:26:27,950 --> 02:26:32,209
+What was it at one?
+
+1374
+02:26:32,850 --> 02:26:37,170
+Dude, are you moving this?
+
+1375
+02:26:38,180 --> 02:26:39,139
+I'm not moving this.
+
+1376
+02:26:39,139 --> 02:26:39,700
+Are you sure?
+
+1377
+02:26:39,700 --> 02:26:40,899
+I- something's fucking weird.
+
+1378
+02:26:41,940 --> 02:26:43,059
+I'm not moving this.
+
+1379
+02:26:46,209 --> 02:26:47,250
+All right, get- move.
+
+1380
+02:26:48,989 --> 02:26:49,790
+I'm not moving.
+
+1381
+02:26:51,920 --> 02:26:53,040
+Let's go clean the house.
+
+1382
+02:26:58,239 --> 02:27:02,079
+Why did you have to bring that up here?
+
+1383
+02:27:03,170 --> 02:27:05,250
+So that you can see what you're doing.
+
+1384
+02:27:05,250 --> 02:27:05,569
+Thanks.
+
+1385
+02:27:09,780 --> 02:27:12,879
+That actually is way too bright though, for real.
+
+1386
+02:27:12,879 --> 02:27:13,520
+Like, get rid of this.
+
+1387
+02:27:17,309 --> 02:27:18,829
+This isn't as good as Seinfeld.
+
+1388
+02:27:19,469 --> 02:27:20,610
+Where did that go?
+
+1389
+02:27:21,250 --> 02:27:23,180
+How are you still holding that?
+
+1390
+02:27:23,899 --> 02:27:25,180
+You can't take it out of my hand.
+
+1391
+02:27:25,180 --> 02:27:26,139
+My hands are too strong.
+
+1392
+02:27:26,139 --> 02:27:27,899
+I have pure titanium grip strength.
+
+1393
+02:27:28,459 --> 02:27:29,260
+Okay.
+
+1394
+02:27:29,260 --> 02:27:30,059
+The bathroom's clean.
+
+1395
+02:27:30,620 --> 02:27:32,379
+No one's ever taken anything from my hand.
+
+1396
+02:27:33,180 --> 02:27:33,819
+The bathroom's clean.
+
+1397
+02:27:34,780 --> 02:27:35,819
+My hands are massive.
+
+1398
+02:27:36,540 --> 02:27:37,819
+They have like hairy knuckles.
+
+1399
+02:27:38,459 --> 02:27:39,420
+Veins popping out.
+
+1400
+02:27:42,829 --> 02:27:43,149
+Gross.
+
+1401
+02:27:45,540 --> 02:27:47,860
+Yeah, but you think it'd be nice to be held by these hands.
+
+1402
+02:27:47,860 --> 02:27:50,180
+I got veinier hands than you, I guarantee it.
+
+1403
+02:27:50,659 --> 02:27:51,860
+I'm vascular.
+
+1404
+02:27:51,860 --> 02:27:53,860
+I have the veiniest hands in the world.
+
+1405
+02:27:53,860 --> 02:27:54,579
+I swear to God.
+
+1406
+02:27:56,239 --> 02:27:56,879
+Let's compare.
+
+1407
+02:27:56,879 --> 02:27:57,200
+Come here.
+
+1408
+02:27:57,200 --> 02:27:57,760
+Show me your hands.
+
+1409
+02:27:57,760 --> 02:27:58,639
+Honestly, if- if-
+
+1410
+02:27:59,360 --> 02:28:02,799
+You would think that I was an old lady if you saw my hands up close.
+
+1411
+02:28:02,799 --> 02:28:04,079
+That's not vascular.
+
+1412
+02:28:04,079 --> 02:28:05,120
+That's wrinkly.
+
+1413
+02:28:05,120 --> 02:28:05,760
+No, no, no, no, no.
+
+1414
+02:28:05,760 --> 02:28:06,399
+You don't understand.
+
+1415
+02:28:06,959 --> 02:28:09,360
+Like, my veins pop the fuck out of my hands.
+
+1416
+02:28:14,270 --> 02:28:15,149
+Okay, you win.
+
+1417
+02:28:16,030 --> 02:28:18,319
+We should compare hands.
+
+1418
+02:28:19,040 --> 02:28:30,850
+I mean, it's the music that's doing it to me too.
+
+1419
+02:28:31,489 --> 02:28:32,129
+Show hands.
+
+1420
+02:28:33,540 --> 02:28:34,819
+Are you- are you on camera?
+
+1421
+02:28:34,819 --> 02:28:35,780
+Are you like decent right now?
+
+1422
+02:28:36,770 --> 02:28:38,450
+My camera isn't plugged in.
+
+1423
+02:28:38,450 --> 02:28:41,170
+Well, they're not that vein-y right now.
+
+1424
+02:28:41,170 --> 02:28:41,809
+They kind of are.
+
+1425
+02:28:42,370 --> 02:28:44,079
+Should I prove it?
+
+1426
+02:28:46,579 --> 02:28:46,979
+Prove it.
+
+1427
+02:28:46,979 --> 02:28:47,379
+Prove it.
+
+1428
+02:28:48,020 --> 02:28:49,809
+Prove how veinier your hand is.
+
+1429
+02:28:49,809 --> 02:28:50,930
+I'm opening the stream.
+
+1430
+02:28:50,930 --> 02:28:51,889
+I need to see.
+
+1431
+02:28:51,889 --> 02:28:52,209
+Prove it.
+
+1432
+02:28:52,209 --> 02:28:53,569
+Let's get vein in that.
+
+1433
+02:28:53,569 --> 02:28:54,049
+Yeah, I know.
+
+1434
+02:28:54,049 --> 02:28:55,569
+I'm wearing the same shirt as I was yesterday.
+
+1435
+02:28:55,569 --> 02:28:55,969
+Deal with it.
+
+1436
+02:28:55,969 --> 02:28:56,610
+It's 100 degrees.
+
+1437
+02:28:58,430 --> 02:28:58,670
+Wait.
+
+1438
+02:28:59,229 --> 02:29:02,030
+It being 100 degrees is why you're wearing the same shirt.
+
+1439
+02:29:02,590 --> 02:29:03,069
+Look at that.
+
+1440
+02:29:03,629 --> 02:29:05,459
+Look at those.
+
+1441
+02:29:05,459 --> 02:29:05,860
+Look at that.
+
+1442
+02:29:06,500 --> 02:29:08,159
+Are you shitting me, dude?
+
+1443
+02:29:08,719 --> 02:29:12,430
+Can I get a light on that?
+
+1444
+02:29:12,430 --> 02:29:13,069
+Get a light on it.
+
+1445
+02:29:15,200 --> 02:29:16,559
+No, you're not- hold on.
+
+1446
+02:29:17,360 --> 02:29:18,000
+You turn the light.
+
+1447
+02:29:18,000 --> 02:29:19,680
+You turn- you got the wrong side.
+
+1448
+02:29:20,399 --> 02:29:20,799
+No, no, no.
+
+1449
+02:29:20,799 --> 02:29:21,520
+That's towards you.
+
+1450
+02:29:22,239 --> 02:29:22,719
+Towards me.
+
+1451
+02:29:25,360 --> 02:29:26,879
+Not in my fucking eyes.
+
+1452
+02:29:27,680 --> 02:29:28,670
+Okay.
+
+1453
+02:29:29,309 --> 02:29:29,709
+Can you see?
+
+1454
+02:29:31,180 --> 02:29:31,420
+Yeah.
+
+1455
+02:29:32,540 --> 02:29:33,899
+No, my hands are way bigger.
+
+1456
+02:29:34,620 --> 02:29:35,739
+Like hairier.
+
+1457
+02:29:37,059 --> 02:29:37,940
+More defined.
+
+1458
+02:29:37,940 --> 02:29:38,979
+And more vascular.
+
+1459
+02:29:39,620 --> 02:29:40,739
+And thank you.
+
+1460
+02:29:40,739 --> 02:29:42,260
+Put the fucking light down, dick.
+
+1461
+02:29:42,260 --> 02:29:44,100
+Like you still- it's right in my face.
+
+1462
+02:29:45,709 --> 02:29:46,590
+Never letting go of it.
+
+1463
+02:29:46,590 --> 02:29:47,309
+Asshole.
+
+1464
+02:29:47,309 --> 02:29:48,350
+You can't get inside of my hands.
+
+1465
+02:29:48,350 --> 02:29:49,629
+Not with trickery.
+
+1466
+02:29:49,629 --> 02:29:51,069
+Not with force.
+
+1467
+02:29:51,069 --> 02:29:52,430
+Ooh, that was an explosion.
+
+1468
+02:29:54,399 --> 02:29:55,920
+Oh, is that my switch that went all the way down?
+
+1469
+02:29:55,920 --> 02:29:56,399
+No, it's not.
+
+1470
+02:29:56,399 --> 02:29:56,879
+Thank God.
+
+1471
+02:29:56,879 --> 02:29:57,920
+I was supposed to be fucking sad.
+
+1472
+02:29:57,920 --> 02:29:58,559
+Look at those hands.
+
+1473
+02:30:00,000 --> 02:30:05,469
+Wait a second.
+
+1474
+02:30:06,110 --> 02:30:07,389
+Are you moving this?
+
+1475
+02:30:08,110 --> 02:30:09,069
+I'm not moving that.
+
+1476
+02:30:09,709 --> 02:30:12,899
+What about now?
+
+1477
+02:30:13,540 --> 02:30:14,819
+Are you moving this?
+
+1478
+02:30:14,819 --> 02:30:15,459
+No, you are.
+
+1479
+02:30:16,340 --> 02:30:20,290
+Can you get me- can you get me out of the bathroom, please?
+
+1480
+02:30:20,850 --> 02:30:21,569
+I'm not moving that.
+
+1481
+02:30:22,209 --> 02:30:22,850
+I'm not moving it.
+
+1482
+02:30:22,850 --> 02:30:23,649
+Get me out of the bathroom.
+
+1483
+02:30:24,290 --> 02:30:30,000
+I get you to wipe your ass.
+
+1484
+02:30:32,579 --> 02:30:33,379
+We're almost done.
+
+1485
+02:30:33,379 --> 02:30:36,420
+We're at the finish line and we're wiping each other's asses.
+
+1486
+02:30:39,969 --> 02:30:40,290
+All right.
+
+1487
+02:30:41,409 --> 02:30:46,909
+I've reached the level of like we're so close to being done
+
+1488
+02:30:46,909 --> 02:30:50,110
+that it- we can't finish because we're so close.
+
+1489
+02:30:51,149 --> 02:30:52,110
+That's why we can't finish.
+
+1490
+02:30:52,110 --> 02:30:52,989
+What is this?
+
+1491
+02:30:53,950 --> 02:30:56,620
+We still have that whole other house.
+
+1492
+02:30:56,620 --> 02:30:57,260
+What is this?
+
+1493
+02:30:58,059 --> 02:30:59,500
+Oh, scary.
+
+1494
+02:31:00,139 --> 02:31:02,459
+Yeah, there's a home of the house here, right?
+
+1495
+02:31:02,459 --> 02:31:07,790
+Is that a book?
+
+1496
+02:31:07,790 --> 02:31:15,790
+All right, I cleaned up the book.
+
+1497
+02:31:16,940 --> 02:31:18,139
+All right, this is the house.
+
+1498
+02:31:18,139 --> 02:31:19,020
+Let's do a walkthrough.
+
+1499
+02:31:19,659 --> 02:31:20,959
+Come with me.
+
+1500
+02:31:21,600 --> 02:31:22,719
+Bring the ghost light.
+
+1501
+02:31:22,719 --> 02:31:24,159
+Why do I have to come like-
+
+1502
+02:31:24,959 --> 02:31:27,360
+Because we're having a fun time in the game together
+
+1503
+02:31:27,360 --> 02:31:28,000
+and you need to find-
+
+1504
+02:31:28,000 --> 02:31:30,719
+I'm having so much fun.
+
+1505
+02:31:30,719 --> 02:31:32,239
+You fucking guys are so bad at this game.
+
+1506
+02:31:32,239 --> 02:31:33,440
+Well, hey, I'm missing dinner now.
+
+1507
+02:31:37,229 --> 02:31:37,790
+Calm down.
+
+1508
+02:31:37,790 --> 02:31:38,430
+Okay, walkthrough.
+
+1509
+02:31:39,069 --> 02:31:44,370
+There's a USB here.
+
+1510
+02:31:44,370 --> 02:31:45,090
+Yeah, pick it up.
+
+1511
+02:31:46,639 --> 02:31:47,760
+There's a couple of these-
+
+1512
+02:31:49,360 --> 02:31:51,680
+There's a couple of mobile toilets in the bathroom.
+
+1513
+02:31:52,319 --> 02:31:54,959
+Let me get these mobile toilets out.
+
+1514
+02:31:57,659 --> 02:32:06,420
+Looks good.
+
+1515
+02:32:06,420 --> 02:32:08,940
+I'll put this pumpkin here.
+
+1516
+02:32:08,940 --> 02:32:09,579
+Looks good.
+
+1517
+02:32:11,620 --> 02:32:13,940
+Ah, excuse me.
+
+1518
+02:32:16,219 --> 02:32:17,020
+Not done.
+
+1519
+02:32:21,440 --> 02:32:22,479
+I never saw the attic
+
+1520
+02:32:22,479 --> 02:32:24,159
+because you had to do the Ouija board thing.
+
+1521
+02:32:24,799 --> 02:32:25,760
+What Ouija board thing?
+
+1522
+02:32:26,559 --> 02:32:30,000
+I don't know.
+
+1523
+02:32:30,000 --> 02:32:30,639
+I don't remember.
+
+1524
+02:32:31,200 --> 02:32:33,659
+And you brought trash up here, too.
+
+1525
+02:32:34,379 --> 02:32:47,840
+All right, what would it take me to drink trash juice?
+
+1526
+02:32:54,750 --> 02:32:55,229
+Wait, what?
+
+1527
+02:32:55,229 --> 02:32:56,590
+You're not even going to give me a response to that one.
+
+1528
+02:32:56,590 --> 02:32:56,909
+Come here.
+
+1529
+02:32:57,549 --> 02:33:03,620
+Well, I'm paying attention.
+
+1530
+02:33:04,340 --> 02:33:05,889
+Sorry.
+
+1531
+02:33:05,889 --> 02:33:16,180
+Okay, the attic.
+
+1532
+02:33:16,180 --> 02:33:16,739
+Did you see the attic?
+
+1533
+02:33:16,739 --> 02:33:17,379
+It's pretty crazy.
+
+1534
+02:33:17,940 --> 02:33:27,309
+Why did you bring this upstairs?
+
+1535
+02:33:27,309 --> 02:33:28,590
+Getting it out of such a pain in the ass.
+
+1536
+02:33:30,110 --> 02:33:32,110
+You brought the trash all the way up the stairs.
+
+1537
+02:33:32,989 --> 02:33:36,479
+Jarma.
+
+1538
+02:33:36,479 --> 02:33:37,440
+Jarma.
+
+1539
+02:33:37,440 --> 02:33:37,760
+Yes.
+
+1540
+02:33:38,399 --> 02:33:39,360
+There's been a murder.
+
+1541
+02:33:40,079 --> 02:33:40,719
+What murder?
+
+1542
+02:33:40,719 --> 02:33:41,200
+Where?
+
+1543
+02:33:41,200 --> 02:33:44,079
+I don't think this house is as normal as it seems.
+
+1544
+02:33:44,959 --> 02:33:47,069
+There's been a murder.
+
+1545
+02:33:49,659 --> 02:33:50,459
+No shit.
+
+1546
+02:33:50,459 --> 02:33:51,819
+There's like 30 dead people here.
+
+1547
+02:33:54,129 --> 02:33:54,610
+What are you trying-
+
+1548
+02:33:54,610 --> 02:33:55,649
+What's going on here?
+
+1549
+02:33:55,649 --> 02:33:59,010
+You're just putting splats all over the ceiling and the wall and stuff.
+
+1550
+02:33:59,569 --> 02:34:00,049
+Hello?
+
+1551
+02:34:00,610 --> 02:34:01,940
+Did you hear that?
+
+1552
+02:34:03,579 --> 02:34:05,020
+I think maybe he's still alive.
+
+1553
+02:34:08,139 --> 02:34:09,500
+I think that's coming from the attic.
+
+1554
+02:34:09,500 --> 02:34:10,059
+Hello?
+
+1555
+02:34:10,059 --> 02:34:11,020
+It's coming from the attic.
+
+1556
+02:34:11,020 --> 02:34:11,260
+Okay.
+
+1557
+02:34:12,219 --> 02:34:13,299
+Where's the attic?
+
+1558
+02:34:14,670 --> 02:34:15,629
+It's in here.
+
+1559
+02:34:15,629 --> 02:34:16,590
+This is the attic up here?
+
+1560
+02:34:17,309 --> 02:34:18,670
+No, wrong room.
+
+1561
+02:34:18,670 --> 02:34:19,549
+It's coming from over there.
+
+1562
+02:34:19,549 --> 02:34:19,950
+Hello?
+
+1563
+02:34:19,950 --> 02:34:20,750
+Over here?
+
+1564
+02:34:20,750 --> 02:34:21,309
+I hear it.
+
+1565
+02:34:21,309 --> 02:34:21,709
+Up here.
+
+1566
+02:34:22,510 --> 02:34:23,600
+I hear it.
+
+1567
+02:34:23,600 --> 02:34:23,840
+Is it-
+
+1568
+02:34:25,280 --> 02:34:25,680
+Get a camera.
+
+1569
+02:34:25,680 --> 02:34:26,319
+Get a camera up.
+
+1570
+02:34:29,780 --> 02:34:30,739
+What's in here?
+
+1571
+02:34:30,739 --> 02:34:31,620
+This is fucked up though.
+
+1572
+02:34:32,340 --> 02:34:38,059
+Anybody here?
+
+1573
+02:34:41,540 --> 02:34:41,780
+All right.
+
+1574
+02:34:42,500 --> 02:34:43,299
+All right, Dave.
+
+1575
+02:34:43,299 --> 02:34:44,340
+No more fucking around.
+
+1576
+02:34:44,340 --> 02:34:45,459
+Like you're messing around with me.
+
+1577
+02:34:48,750 --> 02:34:50,190
+Okay, real funny, Dave.
+
+1578
+02:34:52,159 --> 02:34:53,280
+Like, haha, got me.
+
+1579
+02:34:56,190 --> 02:34:57,299
+Hello?
+
+1580
+02:34:57,299 --> 02:34:57,700
+Hello?
+
+1581
+02:34:59,860 --> 02:35:00,579
+No, you are.
+
+1582
+02:35:01,139 --> 02:35:03,389
+Well, I'm gonna get rid of this.
+
+1583
+02:35:03,389 --> 02:35:05,700
+I can't.
+
+1584
+02:35:05,700 --> 02:35:06,260
+I need a bucket.
+
+1585
+02:35:06,979 --> 02:35:08,190
+Hey, Dave.
+
+1586
+02:35:10,129 --> 02:35:12,290
+Yo, it's time to go, man.
+
+1587
+02:35:13,409 --> 02:35:16,180
+What are you doing?
+
+1588
+02:35:18,079 --> 02:35:19,120
+Look at this mess.
+
+1589
+02:35:19,840 --> 02:35:31,760
+You know, you're just adding more time than we have to be in this map.
+
+1590
+02:35:33,200 --> 02:35:34,239
+We have to.
+
+1591
+02:35:34,239 --> 02:35:35,040
+Not let-
+
+1592
+02:35:35,040 --> 02:35:37,680
+You think that we're gonna leave without cleaning this up?
+
+1593
+02:35:39,899 --> 02:35:41,899
+I think I'm fully capable of it.
+
+1594
+02:35:41,899 --> 02:35:42,399
+No!
+
+1595
+02:35:43,579 --> 02:35:44,459
+I think I could just-
+
+1596
+02:35:44,459 --> 02:35:45,260
+No, no, no.
+
+1597
+02:35:45,260 --> 02:35:45,739
+You can't.
+
+1598
+02:35:45,739 --> 02:35:46,379
+Because that-
+
+1599
+02:35:46,379 --> 02:35:47,739
+I'm in your game.
+
+1600
+02:35:47,739 --> 02:35:48,379
+No, no, no, no.
+
+1601
+02:35:48,379 --> 02:35:48,940
+It was done.
+
+1602
+02:35:48,940 --> 02:35:49,340
+It was done.
+
+1603
+02:35:49,340 --> 02:35:50,059
+And we could have clocked out.
+
+1604
+02:35:50,059 --> 02:35:51,500
+I mean, neither of us cleaned it.
+
+1605
+02:35:51,500 --> 02:35:53,579
+All right, well, just at least get the USBs.
+
+1606
+02:35:53,579 --> 02:35:57,780
+Where'd you put them?
+
+1607
+02:35:57,780 --> 02:35:59,299
+I'm not playing games with you.
+
+1608
+02:35:59,299 --> 02:36:00,260
+Where are-
+
+1609
+02:36:00,260 --> 02:36:01,459
+Where are the USBs?
+
+1610
+02:36:01,459 --> 02:36:03,059
+I'm not playing games with you.
+
+1611
+02:36:03,059 --> 02:36:03,860
+Turn in the USBs.
+
+1612
+02:36:05,040 --> 02:36:07,629
+I think I saw them over here.
+
+1613
+02:36:07,629 --> 02:36:08,750
+At least turn those in for me.
+
+1614
+02:36:13,920 --> 02:36:15,120
+Come out the house.
+
+1615
+02:36:15,120 --> 02:36:15,840
+Where are they?
+
+1616
+02:36:19,649 --> 02:36:20,450
+Where are you?
+
+1617
+02:36:20,450 --> 02:36:26,420
+I'm not playing games with you.
+
+1618
+02:36:26,420 --> 02:36:30,530
+Huh? Hello?
+
+1619
+02:36:34,979 --> 02:36:36,500
+Okay, man.
+
+1620
+02:36:39,100 --> 02:36:43,340
+I'm gonna just hang out for a bit and maybe I'll talk to you some other time, man.
+
+1621
+02:36:43,340 --> 02:36:43,979
+But I've gotta-
+
+1622
+02:36:43,979 --> 02:36:44,780
+I've gotta go.
+
+1623
+02:36:45,819 --> 02:36:46,620
+The fuck?
+
+1624
+02:36:49,149 --> 02:36:49,870
+No, you are.
+
+1625
+02:36:54,319 --> 02:36:55,040
+Hey, rookie!
+
+1626
+02:36:57,069 --> 02:36:58,450
+Rookie, what?
+
+1627
+02:36:58,450 --> 02:37:00,209
+I thought you were gonna keep doing the demon thing.
+
+1628
+02:37:00,209 --> 02:37:01,809
+Nice fucking RP ruin.
+
+1629
+02:37:01,809 --> 02:37:02,370
+What?
+
+1630
+02:37:02,370 --> 02:37:03,329
+I wasn't doing a demon thing.
+
+1631
+02:37:03,329 --> 02:37:05,170
+Nice ruined RP.
+
+1632
+02:37:05,170 --> 02:37:07,250
+I wasn't doing a demon thing, Jerma.
+
+1633
+02:37:08,659 --> 02:37:11,379
+It's coming from inside the house.
+
+1634
+02:37:15,010 --> 02:37:16,129
+Is it coming from the toilet?
+
+1635
+02:37:17,649 --> 02:37:18,530
+Is he in the bath?
+
+1636
+02:37:27,219 --> 02:37:28,659
+Is he currently taking a bath?
+
+1637
+02:37:30,020 --> 02:37:30,340
+All right.
+
+1638
+02:37:31,379 --> 02:37:34,420
+Can I get in the bathroom, please?
+
+1639
+02:37:38,079 --> 02:37:40,750
+Excuse me.
+
+1640
+02:37:51,899 --> 02:37:52,780
+Game six. Oh, fuck.
+
+1641
+02:37:55,219 --> 02:37:56,100
+What do you want from us?
+
+1642
+02:37:56,739 --> 02:38:09,280
+I want my house clean and you're gonna fuck it up.
+
+1643
+02:38:09,280 --> 02:38:13,760
+I mean, we're just trying to entertain some people and make them laugh.
+
+1644
+02:38:15,629 --> 02:38:19,149
+You were hired for a job and you're goofing around.
+
+1645
+02:38:19,149 --> 02:38:19,950
+I mean-
+
+1646
+02:38:19,950 --> 02:38:23,180
+I'd have an ear to take this up with you.
+
+1647
+02:38:23,180 --> 02:38:24,219
+No, no, no, don't, don't, don't.
+
+1648
+02:38:24,219 --> 02:38:25,420
+I don't want to get-
+
+1649
+02:38:27,649 --> 02:38:30,049
+When was this last time you wanted to be written up?
+
+1650
+02:38:30,049 --> 02:38:31,170
+You've been written up before, huh?
+
+1651
+02:38:32,049 --> 02:38:34,049
+Once, but it was for something unrelated.
+
+1652
+02:38:34,049 --> 02:38:35,409
+But you don't have to do that.
+
+1653
+02:38:35,409 --> 02:38:36,450
+When do you want it done?
+
+1654
+02:38:36,450 --> 02:38:37,489
+I'll get my colleague on it.
+
+1655
+02:38:37,489 --> 02:38:39,409
+We'll make sure they get it cleaned.
+
+1656
+02:38:39,489 --> 02:38:41,250
+Twenty more minutes.
+
+1657
+02:38:41,250 --> 02:38:41,809
+Twenty minutes?
+
+1658
+02:38:41,809 --> 02:38:44,819
+Or I will call your manager.
+
+1659
+02:38:44,819 --> 02:38:45,299
+Twenty minutes?
+
+1660
+02:38:45,299 --> 02:38:46,260
+No, that's uh-
+
+1661
+02:38:46,260 --> 02:38:47,940
+Twenty minutes, that's enough time.
+
+1662
+02:38:47,940 --> 02:38:49,219
+No, that's more than enough time.
+
+1663
+02:38:49,219 --> 02:38:49,719
+Do it.
+
+1664
+02:38:50,739 --> 02:38:52,100
+No, we'll get it on top of that.
+
+1665
+02:38:52,100 --> 02:38:53,219
+We'll do it in twenty minutes.
+
+1666
+02:38:53,780 --> 02:38:56,020
+Be gone, you little piece of-
+
+1667
+02:38:58,020 --> 02:38:58,500
+Shitty-
+
+1668
+02:38:59,139 --> 02:39:02,059
+Okay.
+
+1669
+02:39:03,200 --> 02:39:03,920
+Yes, we will.
+
+1670
+02:39:05,979 --> 02:39:07,739
+We will get it done in twenty minutes.
+
+1671
+02:39:11,840 --> 02:39:12,319
+I'll try.
+
+1672
+02:39:12,959 --> 02:39:13,920
+Hey, Jerma!
+
+1673
+02:39:14,399 --> 02:39:16,239
+Hey, I need you up here.
+
+1674
+02:39:16,239 --> 02:39:20,000
+I need you to get the job done quicker than we thought originally.
+
+1675
+02:39:21,840 --> 02:39:22,159
+Okay.
+
+1676
+02:39:23,120 --> 02:39:24,959
+Okay, well I'm fired up.
+
+1677
+02:39:24,959 --> 02:39:25,760
+I'm ready to go.
+
+1678
+02:39:25,760 --> 02:39:27,440
+I'm so excited to clean.
+
+1679
+02:39:27,440 --> 02:39:28,399
+Yeah, no, for real though.
+
+1680
+02:39:28,399 --> 02:39:29,440
+We have to get this done quickly
+
+1681
+02:39:29,440 --> 02:39:33,440
+because our boss was going to write us up if we didn't.
+
+1682
+02:39:34,639 --> 02:39:35,520
+Oh, what's-
+
+1683
+02:39:35,520 --> 02:39:36,159
+Like, I quit.
+
+1684
+02:39:37,180 --> 02:39:37,680
+What?
+
+1685
+02:39:38,219 --> 02:39:39,020
+I quit.
+
+1686
+02:39:39,020 --> 02:39:39,579
+What do you mean you quit?
+
+1687
+02:39:39,579 --> 02:39:40,620
+What are you talking about?
+
+1688
+02:39:40,620 --> 02:39:43,899
+I'm not going to get written up by that shithead.
+
+1689
+02:39:43,899 --> 02:39:44,459
+No, dude.
+
+1690
+02:39:44,459 --> 02:39:46,700
+That balding middle-aged piece of trash.
+
+1691
+02:39:46,700 --> 02:39:47,420
+I don't think you understand.
+
+1692
+02:39:47,420 --> 02:39:48,540
+Can't even please his wife.
+
+1693
+02:39:51,979 --> 02:39:53,739
+I'm sorry that you don't get this.
+
+1694
+02:39:53,739 --> 02:39:55,899
+Yeah, I saw his computer open the other day.
+
+1695
+02:39:55,899 --> 02:39:59,979
+Like, the weirdest Craigslist wanted ads I've ever read.
+
+1696
+02:39:59,979 --> 02:40:02,139
+Let's just turn on my stream.
+
+1697
+02:40:02,139 --> 02:40:02,940
+Turn on my stream.
+
+1698
+02:40:02,940 --> 02:40:03,979
+Turn on my stream for a second.
+
+1699
+02:40:03,979 --> 02:40:04,780
+Turn on my stream for a second.
+
+1700
+02:40:04,780 --> 02:40:05,260
+Important.
+
+1701
+02:40:05,260 --> 02:40:05,819
+Turn on my stream.
+
+1702
+02:40:05,819 --> 02:40:06,299
+Watch my stream.
+
+1703
+02:40:07,260 --> 02:40:09,739
+We have to get this done in twenty minutes.
+
+1704
+02:40:10,459 --> 02:40:11,020
+You know what I mean?
+
+1705
+02:40:11,020 --> 02:40:11,819
+Like, we have to-
+
+1706
+02:40:11,819 --> 02:40:14,659
+Like, uh-
+
+1707
+02:40:15,620 --> 02:40:16,100
+Us.
+
+1708
+02:40:16,100 --> 02:40:16,500
+Ghosts.
+
+1709
+02:40:16,500 --> 02:40:17,540
+Um, I can't-
+
+1710
+02:40:17,540 --> 02:40:18,659
+Twenty minutes, man.
+
+1711
+02:40:18,659 --> 02:40:19,620
+Are you watching?
+
+1712
+02:40:19,620 --> 02:40:20,260
+Twenty minutes.
+
+1713
+02:40:22,190 --> 02:40:22,909
+Twenty minutes or-
+
+1714
+02:40:24,989 --> 02:40:25,549
+I don't-
+
+1715
+02:40:25,549 --> 02:40:26,430
+Like, I'm watching you.
+
+1716
+02:40:26,430 --> 02:40:29,229
+Twenty minutes, we're gonna eat the farm.
+
+1717
+02:40:29,229 --> 02:40:30,430
+We're gonna eat the farm in twenty minutes, dude.
+
+1718
+02:40:30,430 --> 02:40:31,549
+Fucking just start cleaning now.
+
+1719
+02:40:32,270 --> 02:40:33,790
+You're just the American psycho.
+
+1720
+02:40:44,000 --> 02:40:47,280
+He's gonna wipe your neck.
+
+1721
+02:40:54,620 --> 02:40:55,899
+I didn't do the one finger.
+
+1722
+02:40:55,899 --> 02:40:57,340
+I did, like, the whole palm.
+
+1723
+02:40:59,100 --> 02:41:00,379
+He's gonna wipe your neck.
+
+1724
+02:41:00,379 --> 02:41:01,260
+Oh, no, okay.
+
+1725
+02:41:01,260 --> 02:41:01,899
+Hey, be careful.
+
+1726
+02:41:01,899 --> 02:41:02,299
+He's gonna-
+
+1727
+02:41:02,299 --> 02:41:03,100
+He's gonna go like-
+
+1728
+02:41:04,940 --> 02:41:07,579
+You gotta get, like, some fucking fry oil on your chin.
+
+1729
+02:41:07,579 --> 02:41:08,379
+He's gonna wipe off.
+
+1730
+02:41:09,739 --> 02:41:10,700
+I'm okay with that.
+
+1731
+02:41:23,459 --> 02:41:25,219
+Okay, so, uh, how do you wanna-
+
+1732
+02:41:25,219 --> 02:41:25,860
+How do you wanna do this?
+
+1733
+02:41:28,020 --> 02:41:28,739
+Dude, I don't-
+
+1734
+02:41:28,739 --> 02:41:29,620
+I don't know.
+
+1735
+02:41:30,819 --> 02:41:31,940
+What is left to do?
+
+1736
+02:41:31,940 --> 02:41:32,659
+It's the attic.
+
+1737
+02:41:33,299 --> 02:41:34,420
+The attic and then-
+
+1738
+02:41:34,420 --> 02:41:34,979
+The USBs.
+
+1739
+02:41:34,979 --> 02:41:35,700
+Give me the USBs.
+
+1740
+02:41:36,420 --> 02:41:38,270
+Stop with this USB.
+
+1741
+02:41:38,270 --> 02:41:38,750
+I quit.
+
+1742
+02:41:38,750 --> 02:41:39,389
+I will quit.
+
+1743
+02:41:39,389 --> 02:41:40,590
+Don't quit.
+
+1744
+02:41:40,590 --> 02:41:43,870
+Get out here and come out the door with a pumpkin's fall.
+
+1745
+02:41:43,870 --> 02:41:45,469
+I will destroy you.
+
+1746
+02:41:48,899 --> 02:41:50,180
+Get out here.
+
+1747
+02:41:50,180 --> 02:41:51,940
+Do one more USB joke and I am-
+
+1748
+02:41:51,940 --> 02:41:52,739
+Get out of the-
+
+1749
+02:41:52,739 --> 02:41:54,979
+Spreading my blood everywhere.
+
+1750
+02:41:54,979 --> 02:41:56,500
+Get out of the house right now.
+
+1751
+02:41:56,500 --> 02:41:57,000
+I'm out.
+
+1752
+02:41:58,110 --> 02:41:59,309
+No, I mean, like, the other side.
+
+1753
+02:41:59,309 --> 02:42:00,350
+The side with the pumpkin's fall.
+
+1754
+02:42:00,989 --> 02:42:05,629
+Here, Mo.
+
+1755
+02:42:05,629 --> 02:42:06,190
+Listen to me.
+
+1756
+02:42:06,190 --> 02:42:06,989
+Listen to me real good.
+
+1757
+02:42:08,700 --> 02:42:13,340
+I'm gonna cut myself open and just crawl along the floor.
+
+1758
+02:42:17,090 --> 02:42:18,530
+Real sicko shit.
+
+1759
+02:42:18,530 --> 02:42:19,250
+All right.
+
+1760
+02:42:19,250 --> 02:42:19,889
+How about this?
+
+1761
+02:42:19,889 --> 02:42:20,450
+I have-
+
+1762
+02:42:20,450 --> 02:42:21,489
+I have a job for you, okay?
+
+1763
+02:42:22,739 --> 02:42:23,540
+In this-
+
+1764
+02:42:23,540 --> 02:42:24,420
+In this house somewhere.
+
+1765
+02:42:25,059 --> 02:42:25,459
+Somewhere.
+
+1766
+02:42:26,180 --> 02:42:27,700
+There's a fucking treasure.
+
+1767
+02:42:27,700 --> 02:42:29,139
+And if you can find this tre-
+
+1768
+02:42:29,139 --> 02:42:31,790
+If you can find the treasure in-
+
+1769
+02:42:33,899 --> 02:42:34,620
+20 minutes.
+
+1770
+02:42:35,579 --> 02:42:36,139
+Then-
+
+1771
+02:42:36,139 --> 02:42:36,860
+No, less than that.
+
+1772
+02:42:37,500 --> 02:42:38,459
+Five minutes.
+
+1773
+02:42:38,459 --> 02:42:40,219
+Then I will give you-
+
+1774
+02:42:41,260 --> 02:42:42,540
+I will give you a hundred dollars.
+
+1775
+02:42:43,500 --> 02:42:44,459
+What is the treasure?
+
+1776
+02:42:45,020 --> 02:42:46,379
+The USBs that I hid.
+
+1777
+02:42:47,260 --> 02:42:48,059
+Okay.
+
+1778
+02:42:48,059 --> 02:42:50,540
+Good luck.
+
+1779
+02:42:50,540 --> 02:42:51,420
+And I have five minutes.
+
+1780
+02:42:51,420 --> 02:42:52,860
+You have five minutes to make a hundred bucks.
+
+1781
+02:42:53,500 --> 02:42:54,350
+Okay, chat.
+
+1782
+02:42:54,350 --> 02:42:54,909
+Where do you put them?
+
+1783
+02:42:55,709 --> 02:42:56,350
+You can't do that.
+
+1784
+02:42:56,350 --> 02:42:57,309
+That doesn't work.
+
+1785
+02:42:57,309 --> 02:42:58,190
+Okay, I can't do that.
+
+1786
+02:42:58,190 --> 02:42:59,069
+Close your chat right now.
+
+1787
+02:42:59,969 --> 02:43:00,209
+Okay.
+
+1788
+02:43:00,209 --> 02:43:00,770
+That's bullshit.
+
+1789
+02:43:00,770 --> 02:43:01,649
+You know, that's unbelievable.
+
+1790
+02:43:02,290 --> 02:43:02,770
+He's cheating.
+
+1791
+02:43:03,409 --> 02:43:04,209
+You have five minutes.
+
+1792
+02:43:04,209 --> 02:43:04,850
+I'm counting right now.
+
+1793
+02:43:05,489 --> 02:43:07,299
+I'm looking at the clock.
+
+1794
+02:43:25,200 --> 02:43:25,600
+Found it.
+
+1795
+02:43:28,020 --> 02:43:29,780
+That's one USB that's outside.
+
+1796
+02:43:29,780 --> 02:43:32,020
+Not the, like, 40 that I hid.
+
+1797
+02:43:32,020 --> 02:43:33,700
+Hundred bucks, please!
+
+1798
+02:43:33,700 --> 02:43:36,100
+No, I said find the USBs that I hid.
+
+1799
+02:43:36,100 --> 02:43:37,459
+Not find a USB on the clock.
+
+1800
+02:43:37,459 --> 02:43:38,819
+You hid it right here.
+
+1801
+02:43:38,819 --> 02:43:41,459
+No, this is not like an Easter egg hunt for four-year-olds.
+
+1802
+02:43:41,459 --> 02:43:41,780
+This is-
+
+1803
+02:43:42,739 --> 02:43:43,860
+No, it's going to be harder than that.
+
+1804
+02:43:44,500 --> 02:43:44,819
+They don't-
+
+1805
+02:43:44,819 --> 02:43:46,340
+It wasn't harder than that, though.
+
+1806
+02:43:46,340 --> 02:43:47,219
+It was right here.
+
+1807
+02:43:47,219 --> 02:43:49,139
+You thought, like, I would see it in the grass because it's green.
+
+1808
+02:43:50,909 --> 02:43:52,110
+You only have three more minutes left.
+
+1809
+02:43:53,280 --> 02:43:55,360
+That is not how quickly time goes by.
+
+1810
+02:43:55,360 --> 02:43:55,920
+Yes, it is.
+
+1811
+02:43:56,639 --> 02:44:03,219
+Nothing in there.
+
+1812
+02:44:04,979 --> 02:44:05,479
+Fuck!
+
+1813
+02:44:08,430 --> 02:44:11,729
+You'll never catch that money!
+
+1814
+02:44:11,729 --> 02:44:12,610
+You'll never catch that money!
+
+1815
+02:44:14,299 --> 02:44:22,620
+What are you going to spend your hundred dollars on?
+
+1816
+02:44:22,620 --> 02:44:23,819
+You read that.
+
+1817
+02:44:23,819 --> 02:44:24,459
+You read that.
+
+1818
+02:44:25,420 --> 02:44:29,620
+All right, well, can you pick those up?
+
+1819
+02:44:30,340 --> 02:44:30,840
+Hello?
+
+1820
+02:44:32,659 --> 02:44:33,219
+Can I-
+
+1821
+02:44:33,219 --> 02:44:34,100
+I don't know where they go.
+
+1822
+02:44:36,340 --> 02:44:38,500
+They were in one central location.
+
+1823
+02:44:44,659 --> 02:44:46,420
+Why is there another body in here?
+
+1824
+02:44:47,139 --> 02:44:49,110
+I don't understand how this is-
+
+1825
+02:44:49,110 --> 02:44:50,000
+Was he in the attic?
+
+1826
+02:44:50,000 --> 02:44:50,799
+Hey, Dharma.
+
+1827
+02:44:50,799 --> 02:44:51,299
+Yes?
+
+1828
+02:44:54,719 --> 02:44:58,319
+How about I hide the USBs and then you have to go find them?
+
+1829
+02:44:58,319 --> 02:44:59,680
+Okay, that sounds fun.
+
+1830
+02:44:59,680 --> 02:45:00,719
+And then it'll be even.
+
+1831
+02:45:01,200 --> 02:45:01,700
+Sure.
+
+1832
+02:45:02,399 --> 02:45:02,899
+Okay.
+
+1833
+02:45:03,360 --> 02:45:04,319
+I want to clarify.
+
+1834
+02:45:04,959 --> 02:45:08,799
+To find them, you, like, need to, like, pick them up and hold them
+
+1835
+02:45:08,799 --> 02:45:10,319
+and prove to me that you found them.
+
+1836
+02:45:12,000 --> 02:45:15,569
+Yeah, where's- you can just- I have a stream going right now.
+
+1837
+02:45:16,610 --> 02:45:17,170
+Yeah, you do.
+
+1838
+02:45:18,559 --> 02:45:21,360
+You're gonna have to prove to your stream by holding one of the USBs
+
+1839
+02:45:21,360 --> 02:45:23,200
+that you find the USBs that I hid.
+
+1840
+02:45:23,200 --> 02:45:23,700
+Okay.
+
+1841
+02:45:25,200 --> 02:45:25,700
+Just one.
+
+1842
+02:45:26,399 --> 02:45:28,840
+Or do I have to find them all?
+
+1843
+02:45:29,569 --> 02:45:31,889
+You have to find- like, I'm hiding the stash.
+
+1844
+02:45:32,450 --> 02:45:32,950
+Okay.
+
+1845
+02:45:33,780 --> 02:45:37,059
+So as long as I find the stash that's in quotes.
+
+1846
+02:45:37,059 --> 02:45:37,559
+Yeah.
+
+1847
+02:45:37,780 --> 02:45:40,260
+Yeah, and you can prove that you found it by, like,
+
+1848
+02:45:40,260 --> 02:45:42,659
+picking it up and showing I have found it.
+
+1849
+02:45:42,659 --> 02:45:44,559
+Okay.
+
+1850
+02:45:44,559 --> 02:45:45,760
+Yeah, whatever.
+
+1851
+02:45:45,760 --> 02:45:47,120
+Like, I'm going to hide or something?
+
+1852
+02:45:47,120 --> 02:45:47,760
+Do I want me to go-
+
+1853
+02:45:47,760 --> 02:45:49,280
+You need to- you know what?
+
+1854
+02:45:49,280 --> 02:45:50,479
+Oh, it's clown on the town list.
+
+1855
+02:45:50,479 --> 02:45:52,399
+You turn around and count to 15.
+
+1856
+02:45:52,399 --> 02:45:52,899
+Okay.
+
+1857
+02:45:53,940 --> 02:45:54,979
+Are you ready?
+
+1858
+02:45:54,979 --> 02:45:55,479
+Yep.
+
+1859
+02:45:56,579 --> 02:45:57,079
+One.
+
+1860
+02:45:57,540 --> 02:45:58,040
+Two.
+
+1861
+02:45:58,500 --> 02:45:59,000
+Three.
+
+1862
+02:45:59,540 --> 02:46:00,040
+Four.
+
+1863
+02:46:00,680 --> 02:46:01,180
+Five.
+
+1864
+02:46:01,719 --> 02:46:02,219
+Six.
+
+1865
+02:46:02,680 --> 02:46:03,180
+Seven.
+
+1866
+02:46:03,719 --> 02:46:04,219
+Eight.
+
+1867
+02:46:04,840 --> 02:46:05,340
+Nine.
+
+1868
+02:46:05,879 --> 02:46:06,379
+Ten.
+
+1869
+02:46:06,680 --> 02:46:07,180
+Eleven.
+
+1870
+02:46:07,719 --> 02:46:08,219
+Twelve.
+
+1871
+02:46:08,840 --> 02:46:09,340
+Thirteen.
+
+1872
+02:46:09,959 --> 02:46:10,459
+Fourteen.
+
+1873
+02:46:11,000 --> 02:46:11,500
+Fifteen.
+
+1874
+02:46:16,450 --> 02:46:16,950
+And?
+
+1875
+02:46:17,409 --> 02:46:20,280
+Good luck.
+
+1876
+02:46:20,280 --> 02:46:21,799
+You didn't even walk over here.
+
+1877
+02:46:23,430 --> 02:46:23,930
+I hid them.
+
+1878
+02:46:24,469 --> 02:46:39,219
+Hold on.
+
+1879
+02:46:39,219 --> 02:46:40,159
+Wait, wait, wait, wait, wait, no.
+
+1880
+02:46:40,159 --> 02:46:40,959
+Nobody move.
+
+1881
+02:46:40,959 --> 02:46:41,920
+Nobody fucking move.
+
+1882
+02:46:47,920 --> 02:46:48,420
+Give me one!
+
+1883
+02:46:49,040 --> 02:46:49,540
+Is it in there?
+
+1884
+02:46:50,559 --> 02:46:51,520
+It's the stash!
+
+1885
+02:46:51,520 --> 02:46:52,239
+That's the stash!
+
+1886
+02:46:53,639 --> 02:46:54,139
+Come on!
+
+1887
+02:46:54,600 --> 02:46:55,959
+Some one of them had to have fallen off.
+
+1888
+02:47:02,340 --> 02:47:02,840
+No!
+
+1889
+02:47:03,299 --> 02:47:05,459
+At least one didn't make the journey.
+
+1890
+02:47:07,510 --> 02:47:10,319
+Oh, god damn it.
+
+1891
+02:47:11,040 --> 02:47:15,379
+That was so sad.
+
+1892
+02:47:15,379 --> 02:47:15,879
+What just happened?
+
+1893
+02:47:17,590 --> 02:47:18,090
+Okay, so-
+
+1894
+02:47:18,090 --> 02:47:18,590
+Okay.
+
+1895
+02:47:19,030 --> 02:47:20,479
+So that's 200.
+
+1896
+02:47:21,700 --> 02:47:23,139
+There was no monetary bet there.
+
+1897
+02:47:46,520 --> 02:47:47,719
+As reliable as ever.
+
+1898
+02:47:49,239 --> 02:47:52,000
+Good old Jerma.
+
+1899
+02:47:52,639 --> 02:47:59,340
+Hey, Star.
+
+1900
+02:48:00,120 --> 02:48:00,620
+Yeah?
+
+1901
+02:48:00,680 --> 02:48:05,510
+Found something.
+
+1902
+02:48:05,510 --> 02:48:06,790
+That's not a stash.
+
+1903
+02:48:07,430 --> 02:48:08,469
+There are three here.
+
+1904
+02:48:11,270 --> 02:48:15,909
+There are three that fell from some portal and made their way in here.
+
+1905
+02:48:16,850 --> 02:48:17,729
+That's a stash.
+
+1906
+02:48:17,729 --> 02:48:20,129
+I just put them here so that you wouldn't destroy them.
+
+1907
+02:48:20,129 --> 02:48:21,010
+Hey, come over this way.
+
+1908
+02:48:21,010 --> 02:48:21,729
+Hey, come over here.
+
+1909
+02:48:21,729 --> 02:48:23,649
+That is classified as a stash.
+
+1910
+02:48:24,370 --> 02:48:25,010
+Over here.
+
+1911
+02:48:25,010 --> 02:48:28,370
+There's also a stash, but it was the stash.
+
+1912
+02:48:28,370 --> 02:48:28,870
+Jerma.
+
+1913
+02:48:29,750 --> 02:48:35,110
+Why am I doing that?
+
+1914
+02:48:35,110 --> 02:48:35,590
+We need those.
+
+1915
+02:48:35,590 --> 02:48:36,090
+All right.
+
+1916
+02:48:36,469 --> 02:48:37,829
+I swear to god.
+
+1917
+02:48:38,389 --> 02:48:41,579
+Okay, so, um, let's finish up.
+
+1918
+02:48:42,379 --> 02:48:43,260
+Oh, yeah, that's right.
+
+1919
+02:48:43,260 --> 02:48:44,860
+You've ruined everything.
+
+1920
+02:48:44,860 --> 02:48:45,659
+You've put-
+
+1921
+02:48:49,209 --> 02:48:50,329
+You won't stare at this cat.
+
+1922
+02:48:51,370 --> 02:48:52,889
+This is like a fucking haunted image.
+
+1923
+02:48:52,889 --> 02:48:54,889
+If you stare at this picture for more than a minute,
+
+1924
+02:48:55,530 --> 02:48:56,969
+you get haunted for the rest of your life.
+
+1925
+02:48:57,930 --> 02:48:58,569
+You won't do it.
+
+1926
+02:48:59,370 --> 02:49:01,450
+Holy shit.
+
+1927
+02:49:01,450 --> 02:49:03,930
+You're just disrespecting the fucking cat.
+
+1928
+02:49:05,780 --> 02:49:06,100
+Do it!
+
+1929
+02:49:06,100 --> 02:49:06,659
+No, no, do it!
+
+1930
+02:49:06,659 --> 02:49:07,159
+Do it!
+
+1931
+02:49:07,799 --> 02:49:10,040
+If you stare at a black cat for more than a minute,
+
+1932
+02:49:11,639 --> 02:49:13,639
+you get bad luck for like five years.
+
+1933
+02:49:13,639 --> 02:49:14,200
+Will you do it?
+
+1934
+02:49:14,200 --> 02:49:14,700
+Do it.
+
+1935
+02:49:16,090 --> 02:49:16,969
+Candyman.
+
+1936
+02:49:16,969 --> 02:49:17,530
+Candyman.
+
+1937
+02:49:17,530 --> 02:49:18,010
+Don't do that.
+
+1938
+02:49:18,010 --> 02:49:18,809
+Don't do that.
+
+1939
+02:49:18,809 --> 02:49:19,450
+I don't want you to do that.
+
+1940
+02:49:20,010 --> 02:49:22,250
+I'm not in the same room, therefore I'm not in the same zone.
+
+1941
+02:49:25,950 --> 02:49:27,549
+Whatever you do, I'm not in that room.
+
+1942
+02:49:28,190 --> 02:49:37,469
+But I'm looking at it too.
+
+1943
+02:49:50,250 --> 02:49:57,690
+I can't believe you actually looked at it.
+
+1944
+02:49:59,420 --> 02:50:00,219
+That was a mistake.
+
+1945
+02:50:01,280 --> 02:50:02,239
+Shouldn't have done that.
+
+1946
+02:50:08,940 --> 02:50:09,659
+Are we still on call?
+
+1947
+02:50:12,600 --> 02:50:13,719
+No, he didn't do the thing.
+
+1948
+02:50:13,719 --> 02:50:14,600
+He just leaves, right?
+
+1949
+02:50:15,399 --> 02:50:16,969
+Did he leave?
+
+1950
+02:50:20,170 --> 02:50:21,049
+He left.
+
+1951
+02:50:21,049 --> 02:50:21,610
+No, he didn't.
+
+1952
+02:50:22,250 --> 02:50:23,479
+He's here.
+
+1953
+02:50:24,860 --> 02:50:25,579
+You can't fool me.
+
+1954
+02:50:25,579 --> 02:50:25,979
+You're here.
+
+1955
+02:50:28,059 --> 02:50:29,180
+You can't fool me.
+
+1956
+02:50:29,180 --> 02:50:29,739
+You're there.
+
+1957
+02:50:29,739 --> 02:50:30,379
+I know you're there.
+
+1958
+02:50:30,940 --> 02:50:31,659
+He's gone.
+
+1959
+02:50:31,659 --> 02:50:32,540
+He ended his stream too.
+
+1960
+02:50:43,399 --> 02:50:44,040
+God damn it.
+
+1961
+02:50:45,000 --> 02:50:47,479
+I gave him an out and he took the opportunity.
+
+1962
+02:50:47,479 --> 02:50:50,680
+He was looking for an opportunity and he found it.
+
+1963
+02:50:58,399 --> 02:51:01,040
+I should have told him, like, look at it for four hours.
+
+1964
+02:51:01,760 --> 02:51:06,110
+Well, that was fun.
+
+1965
+02:51:07,069 --> 02:51:09,149
+That was Star on Twitch.
+
+1966
+02:51:09,870 --> 02:51:12,110
+He's still streaming.
+
+1967
+02:51:12,110 --> 02:51:12,989
+He's still streaming.
+
+1968
+02:51:13,709 --> 02:51:17,399
+What is he doing right now?
+
+1969
+02:51:17,399 --> 02:51:26,120
+He's offline.
+
+1970
+02:51:26,120 --> 02:51:31,159
+All right, well, it's supposed to be co-op day.
+
+1971
+02:51:31,879 --> 02:51:36,909
+I'm like Matrix dodging bullets here.
+
+1972
+02:51:38,090 --> 02:51:39,799
+Internet sucks.
+
+1973
+02:51:39,799 --> 02:51:41,319
+Executive assault 2 doesn't work.
+
+1974
+02:51:42,120 --> 02:51:44,200
+Star looked at the cat picture for more than a minute.
+
+1975
+02:51:44,760 --> 02:51:46,159
+That's three strikes.
+
+1976
+02:51:46,879 --> 02:51:48,489
+Time to do tier lists.
+
+1977
+02:51:58,590 --> 02:52:01,049
+All right, let me just take a break.
+
+1978
+02:52:01,530 --> 02:52:03,850
+I've been live for about four hours now.
+
+1979
+02:52:04,729 --> 02:52:05,760
+Maybe more than that.
+
+1980
+02:52:05,760 --> 02:52:07,200
+The stream turned off like three times.
+
+1981
+02:52:08,780 --> 02:52:10,299
+I have no idea how long I've been live for.
+
+1982
+02:52:10,299 --> 02:52:11,739
+It's been probably four or five hours or so.
+
+1983
+02:52:13,000 --> 02:52:16,840
+But we'll come back.
+
+1984
+02:52:16,840 --> 02:52:17,719
+We'll do the tier lists.
+
+1985
+02:52:22,680 --> 02:52:24,920
+And I'll see you in not even three.
+
+1986
+02:52:24,920 --> 02:52:27,879
+No, the stream turned off like three times.
+
+1987
+02:52:30,040 --> 02:52:31,479
+How long has it actually been?
+
+1988
+02:52:31,479 --> 02:52:42,639
+Let me see.
+
+1989
+02:52:50,559 --> 02:52:51,520
+25 minutes.
+
+1990
+02:52:55,159 --> 02:52:55,639
+No, let's see.
+
+1991
+02:52:55,639 --> 02:52:57,000
+How many VODs are there in this stream?
+
+1992
+02:52:58,190 --> 02:52:58,670
+No, let's see.
+
+1993
+02:52:58,670 --> 02:52:59,870
+How many VODs are there in this stream?
+
+1994
+02:52:59,870 --> 02:53:00,430
+Oh, yeah.
+
+1995
+02:53:00,430 --> 02:53:02,829
+This has been much longer than that.
+
+1996
+02:53:02,829 --> 02:53:03,229
+Oh, yeah.
+
+1997
+02:53:03,229 --> 02:53:04,590
+No, this is 20.
+
+1998
+02:53:04,590 --> 02:53:05,389
+One hour 30.
+
+1999
+02:53:05,389 --> 02:53:06,190
+Oh, yeah.
+
+2000
+02:53:06,190 --> 02:53:07,629
+No, this is four hours.
+
+2001
+02:53:07,629 --> 02:53:08,750
+One hour 30.
+
+2002
+02:53:08,750 --> 02:53:10,670
+Four hours.
+
+2003
+02:53:10,670 --> 02:53:11,870
+One hour 30.
+
+2004
+02:53:11,870 --> 02:53:12,909
+Four hours.
+
+2005
+02:53:12,909 --> 02:53:14,909
+One hour 30.
+
+2006
+02:53:14,909 --> 02:53:16,110
+Four hours.
+
+2007
+02:53:16,110 --> 02:53:17,389
+Star just hosted me.
+
+2008
+02:53:17,389 --> 02:53:18,909
+Four hours.
+
+2009
+02:53:18,909 --> 02:53:19,870
+Thank you for that, Star.
+
+2010
+02:53:19,870 --> 02:53:20,590
+Star just hosted me.
+
+2011
+02:53:22,590 --> 02:53:22,989
+Oops.
+
+2012
+02:53:23,629 --> 02:53:25,389
+Oops, oops, whoops.
+
+2013
+02:53:28,059 --> 02:53:28,459
+Whoops.
+
+2014
+02:53:32,940 --> 02:53:33,979
+How do I actually turn this up?
+
+2015
+02:53:35,920 --> 02:53:37,120
+How do I actually turn this up?
+
+2016
+02:53:37,120 --> 02:53:37,840
+Why is this playing?
+
+2017
+02:53:37,840 --> 02:53:38,639
+I don't have one window.
+
+2018
+02:53:38,639 --> 02:53:39,280
+I actually don't have one window.
+
+2019
+02:53:39,280 --> 02:53:40,159
+How do I actually turn this up?
+
+2020
+02:53:40,159 --> 02:53:40,879
+Why is this playing?
+
+2021
+02:53:40,879 --> 02:53:41,680
+I don't have one window.
+
+2022
+02:53:41,680 --> 02:53:42,399
+I actually don't have one window.
+
+2023
+02:53:42,399 --> 02:53:43,200
+How do I actually turn this up?
+
+2024
+02:53:43,200 --> 02:53:44,559
+I'm going to turn, I'm going to turn my light.
+
+2025
+02:53:45,360 --> 02:53:47,040
+I'm going to turn my capture screen on.
+
+2026
+02:53:48,399 --> 02:53:50,079
+I'm going to turn my capture screen on.
+
+2027
+02:53:51,440 --> 02:53:53,120
+I'm going to turn my capture screen on.
+
+2028
+02:53:54,559 --> 02:53:56,159
+I'm going to turn my capture screen on.
+
+2029
+02:54:18,139 --> 02:54:18,940
+Oh, there it is.
+
+2030
+02:54:19,579 --> 02:54:21,819
+Okay, I was on a different, I was on my videos tab
+
+2031
+02:54:22,969 --> 02:54:24,729
+and it was still playing the stream
+
+2032
+02:54:24,729 --> 02:54:26,729
+even though I was on the videos tab somehow.
+
+2033
+02:54:28,920 --> 02:54:32,799
+Okay, I'll be right back.
+
+2034
+02:54:32,799 --> 02:54:34,319
+I'm going to just go to the bathroom
+
+2035
+02:54:34,319 --> 02:54:35,360
+and we'll do some stuff.
+
+2036
+02:54:36,000 --> 02:54:37,389
+See you soon.

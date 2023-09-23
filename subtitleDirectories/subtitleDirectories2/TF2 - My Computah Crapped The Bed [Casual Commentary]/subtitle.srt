@@ -1,0 +1,299 @@
+1
+00:00:01,850 --> 00:00:08,410
+Hey, what is going on everybody? Jerma here with a Team Fortress 2 gameplay commentary and tonight
+
+2
+00:00:08,410 --> 00:00:15,109
+gonna be playing as the... So what I want to talk about today guys is a few things and uh
+
+3
+00:00:16,170 --> 00:00:20,089
+some things are really bad in this video some of the things we're gonna talk about are not cool
+
+4
+00:00:20,649 --> 00:00:25,289
+but you gotta deal with it you have to deal with these problems if you are going to have a computer
+
+5
+00:00:25,289 --> 00:00:29,449
+that is custom built that's just it's just things like this are going to happen so
+
+6
+00:00:29,530 --> 00:00:33,289
+let's start from the very beginning here you probably watched the video from like two or three
+
+7
+00:00:33,289 --> 00:00:37,609
+weeks ago where I was like building a supercomputer going to the micro center gonna get a bunch of
+
+8
+00:00:37,609 --> 00:00:44,820
+parts it's gonna be so sick and I did that and I had it built and the thing like shit the bed
+
+9
+00:00:44,820 --> 00:00:49,219
+last night like that I had a motherboard problem last night I don't know what's going on I think
+
+10
+00:00:49,219 --> 00:00:53,700
+the motherboard might be bad it might be a crappy I don't know I don't know all I know is that it
+
+11
+00:00:53,700 --> 00:01:00,579
+doesn't work and I'm currently recording this on my laptop so if this video is not 1080p I
+
+12
+00:01:00,579 --> 00:01:05,379
+sincerely apologize I'm gonna try to do it so it really could be 1080p it might not it might not
+
+13
+00:01:05,379 --> 00:01:10,659
+but it might be now if you've been following this whole me showing pictures of it me talking about
+
+14
+00:01:10,659 --> 00:01:14,900
+it then you you'll know that when you get when you run into a problem like this with a computer
+
+15
+00:01:14,900 --> 00:01:18,019
+when you have an issue if you custom build a computer if you have somebody build it for you
+
+16
+00:01:18,019 --> 00:01:23,400
+whatever whatever if you have a custom built pc when you run into a problem like this you want to
+
+17
+00:01:23,400 --> 00:01:28,359
+just pick the thing up and like spike it through a fucking window like that last night when this
+
+18
+00:01:28,359 --> 00:01:33,000
+was happening and it was like 12 hours were going by I was having so many problems I was trying to
+
+19
+00:01:33,000 --> 00:01:36,920
+figure out what the hell was going on doing everything I could possibly think of and nothing
+
+20
+00:01:36,920 --> 00:01:40,920
+was working I couldn't get anything to really work the way I wanted it to and it was just a
+
+21
+00:01:40,920 --> 00:01:47,400
+nightmare and if this thing had a tail if this computer had a tail I would have grabbed it spun
+
+22
+00:01:47,400 --> 00:01:53,319
+around a bunch of times and just let go and shut up into whatever it was gonna fucking run into
+
+23
+00:01:53,319 --> 00:01:59,500
+it was that close good thing I didn't install a tail on this pc and actually I just thought of
+
+24
+00:01:59,500 --> 00:02:03,609
+something what if you took what if you took a computer bear with me for a second what if
+
+25
+00:02:03,609 --> 00:02:08,949
+you took a computer and you put a little tail on it and then you gave it ears on the front
+
+26
+00:02:08,949 --> 00:02:14,120
+and put whiskers on the front too so it was like a giant like mouse that would be pretty funny
+
+27
+00:02:14,120 --> 00:02:18,520
+wouldn't it or am I this is just totally just inaccurate but that probably wouldn't be funny
+
+28
+00:02:18,520 --> 00:02:23,539
+at all all right forget it but the computer is currently being fixed it's going to be fine in
+
+29
+00:02:23,539 --> 00:02:28,180
+probably a day or so I just haven't really been able to do very much this last couple of days
+
+30
+00:02:28,180 --> 00:02:32,819
+which sucks because I got a whole lot of stuff going on there's a whole lot of videos I'm making
+
+31
+00:02:32,819 --> 00:02:37,860
+in the process of I was in the process of making them before the video dumped to the bed like
+
+32
+00:02:37,860 --> 00:02:42,340
+dumped its pants and shit its diaper in the bed like I there are at least a few videos and thank
+
+33
+00:02:42,340 --> 00:02:48,009
+god that I backed up all this stuff if you guys have never seen my video on backing up your hard
+
+34
+00:02:48,009 --> 00:02:52,629
+drive then go watch it well you don't really even have to go watch it just back up your hard drives
+
+35
+00:02:52,629 --> 00:02:58,550
+with information you don't want to lose because if I had lost a bunch of this stuff for videos
+
+36
+00:02:58,550 --> 00:03:05,379
+that I'm currently working on right now like I don't even know I can't even imagine my
+
+37
+00:03:05,379 --> 00:03:12,259
+infuriation if that would were to happen anyways we're gonna move on we're gonna talk about the
+
+38
+00:03:12,259 --> 00:03:16,259
+second thing I wanted to bring up in this video which is a little better and a little nicer and
+
+39
+00:03:16,259 --> 00:03:21,539
+a little more uplifting than the previous few minutes or a couple minutes and that's the tf2
+
+40
+00:03:21,539 --> 00:03:26,819
+mix-up tf2 mix-up number six I got to be a part of this year so it was really really cool really
+
+41
+00:03:26,819 --> 00:03:31,219
+awesome if you don't know what the tf2 mix-up is they get a bunch of youtubers and some gaming
+
+42
+00:03:31,219 --> 00:03:35,860
+developers a couple people from valve end up showing up and we play matches against each other
+
+43
+00:03:35,860 --> 00:03:39,939
+and it's all recorded it's all captured and it's all for charity so I was able to be a part of it
+
+44
+00:03:39,939 --> 00:03:45,460
+this year I was actually on captain sparkles team a link will be in the description if you want to
+
+45
+00:03:45,460 --> 00:03:50,659
+watch the videos that were recorded during this segment of time we were playing for the mix-up
+
+46
+00:03:50,659 --> 00:03:54,580
+there's going to be I think three or four different rounds that sparkles is going to
+
+47
+00:03:54,580 --> 00:04:00,979
+be uploading so if you want to check if you want to check out the perspective from our end our team
+
+48
+00:04:00,979 --> 00:04:04,419
+go to sparkles channel go to that video that's going to be in the description there'll be a
+
+49
+00:04:04,419 --> 00:04:09,139
+link there you can't miss it you're going to take a right on second street if you see the mcdonald's
+
+50
+00:04:09,139 --> 00:04:12,900
+you went too far and then take a left at those lights and you're going to be a captain sparkles
+
+51
+00:04:12,900 --> 00:04:16,660
+channel so that's where you want to go if you want to see that and we're going to move on to
+
+52
+00:04:16,660 --> 00:04:23,259
+talk about something else in this video is the fact that holiday crates are dropping now
+
+53
+00:04:23,259 --> 00:04:26,860
+holiday crates are dropping all over the place I just got some I don't even I might even have
+
+54
+00:04:26,860 --> 00:04:30,860
+gotten one in this video I don't even know if I show the death or not and I think they've been
+
+55
+00:04:30,860 --> 00:04:35,740
+dropping for a little over a week I think December 6th is when they were added so like a week and a
+
+56
+00:04:35,740 --> 00:04:42,060
+few days since they have been dropping but what this means the initial hypothesis that we are
+
+57
+00:04:42,060 --> 00:04:47,819
+going to be getting three updates in three months is actually potentially going to come true so we
+
+58
+00:04:47,819 --> 00:04:53,579
+are probably going to see the holiday christmas miss miss whatever you want to call it tf2 update
+
+59
+00:04:53,579 --> 00:04:59,339
+fairly soon here and everybody can cross their fingers and hope that we get some pretty cool
+
+60
+00:04:59,339 --> 00:05:05,509
+stuff because there really has never been a holiday themed tf2 update that didn't give us
+
+61
+00:05:05,509 --> 00:05:11,189
+something cool they've always introduced at least a couple of new weapons at least a couple of new
+
+62
+00:05:11,189 --> 00:05:15,910
+maps or new modes they have there but they've always released something cool for the christmas
+
+63
+00:05:15,910 --> 00:05:22,870
+and holiday season so here's hoping that these holiday crates coming around is a sign that the
+
+64
+00:05:22,870 --> 00:05:28,660
+update is sort of looming and with that that is going to wrap up the video thank you all so much
+
+65
+00:05:28,660 --> 00:05:34,899
+for watching I really do appreciate it stay tuned for the holiday animation video that I was talking
+
+66
+00:05:34,899 --> 00:05:40,339
+about that should be ready to roll here in the next week or so I think I touched upon this
+
+67
+00:05:40,899 --> 00:05:44,819
+once but I'll reiterate it one more time there's going to be an animation on the channel it's going
+
+68
+00:05:44,819 --> 00:05:49,699
+to be a grandpa video it's going to be grandpa animated that's all I'm going to say I'm not going
+
+69
+00:05:49,699 --> 00:05:54,100
+to say anything more about it you'll just see it in your sub box when you see it a lot of time has
+
+70
+00:05:54,100 --> 00:05:59,300
+gone into this the animator has been spending a ton of his time putting it together and I hope you
+
+71
+00:05:59,300 --> 00:06:03,300
+guys enjoy it you'll see it when you see it so that's it everybody thanks for watching everybody
+
+72
+00:06:03,300 --> 00:06:12,459
+just appreciate it and I'll see you guys all next time and of course take care everybody I did I
+
+73
+00:06:12,459 --> 00:06:17,579
+just did that because um I don't have any like the files the sound files or the photoshop files
+
+74
+00:06:17,579 --> 00:06:21,670
+they're probably not even a thumbnail on this video either and you know I because I don't have
+
+75
+00:06:21,670 --> 00:06:24,310
+the files okay well bye

@@ -1,0 +1,171 @@
+1
+00:00:00,310 --> 00:00:19,699
+Hey, what is going on everybody? Jerma here with a Team Fortress 2 gameplay commentary, and today. Today, not tonight. It's the first time I've said today, probably in like six months.
+
+2
+00:00:19,699 --> 00:00:30,699
+But anyways, today, gonna be playing as the Demoman with the lock and load, the Sticky Bomb Launcher, and the half Satoichi, pretty much my default setup for the Demoman.
+
+3
+00:00:30,699 --> 00:00:39,700
+So this is gonna be a casual commentary, not gonna really go too in-depth on a certain topic, but I am gonna talk about one thing. I'm sorry there hasn't been a video in the last couple of days.
+
+4
+00:00:39,700 --> 00:00:51,700
+I've been anxiously anticipating PAX East, getting ready for it, booking hotels, making sure me and Orb are on the same page. I'm rooming with Incredible Orb, by the way, if you didn't know that.
+
+5
+00:00:51,700 --> 00:01:03,700
+Trying to get on the same page with everybody, trying to get everything all set, and make videos that I'm not gonna be uploading to get in kind of a queue to be ready to go up when I'm not here.
+
+6
+00:01:03,700 --> 00:01:19,189
+But that is coming very quickly, PAX East is just around the corner, less than a week away now, and I'm starting to feel it. I'm getting into that mode, I wanna go, I wanna go now, I wanna get in the hotel, I wanna take a shower, I wanna shave in the hotel.
+
+7
+00:01:19,189 --> 00:01:29,189
+I've never done that before, but this time, this time I really think I'm going to shave in the hotel. They got good shaving creams, they got good lotions, I'm gonna do it.
+
+8
+00:01:29,189 --> 00:01:36,189
+So you ready? There's gonna be a picture, I'm gonna tweet it out, of shaving cream all over my face, and me ready to shave at the goddamn hotel.
+
+9
+00:01:36,189 --> 00:01:44,189
+The hotel we're staying at is the Back Bay Hotel in Boston. It's supposed to be pretty nice, so I'm looking forward to it. I'm excited, I can't wait, it's gonna be so much fun.
+
+10
+00:01:44,189 --> 00:01:50,189
+But anyways, we're gonna talk about some stuff in the game, just casually talk about it, maybe talk about your day. How was your day? You have a good day today? Sick.
+
+11
+00:01:50,189 --> 00:02:01,689
+Anyways, I wanna bring up Nucleus. I wanna get opinions on this, because a lot of you guys have a lot more knowledge of this game than I do, and I really wanna get your opinions on this, and answer me this question.
+
+12
+00:02:01,689 --> 00:02:16,860
+Here we go. Why is it that I can get gameplays on Nucleus? Nucleus I do very well on, with any class, it doesn't matter if I'm playing Demoman, Sniper, Scout. Nucleus seems to be the map where I can play the best on.
+
+13
+00:02:16,860 --> 00:02:29,860
+Now is that because of the way the map is set up? The multiple routes you can go, it's not just a big choke point, one straight line. If any of you guys have any idea, because I'll jump onto Badwater, I'll jump onto Gold Rush, I'll jump onto really any map.
+
+14
+00:02:29,860 --> 00:02:43,099
+And I can't consistently, consecutively get gameplays in a row like I can on Nucleus. And to more broadly bring up this topic, King of the Hill maps in general I think are my favorite thing in this game.
+
+15
+00:02:43,099 --> 00:02:53,099
+I love playing on Koth. The reason why you see so much Koth on this channel is not because I don't know how to read the server browser, it's because it is my favorite game type.
+
+16
+00:02:53,099 --> 00:03:08,280
+When they brought into play Doomsday, I thought they were going to take that into a more crazy, different-oriented King of the Hill, but they really didn't. There's only one Doomsday map, and it's not really that good.
+
+17
+00:03:08,280 --> 00:03:23,460
+I'm going to frankly say, if you like Doomsday, then more power to you. I liked it a little bit when it first came out, but I wish they would take that King of the Hill idea and expand on it a little more than just one special update kind of map.
+
+18
+00:03:23,460 --> 00:03:31,460
+But I do understand why, because when it came out, a lot of people didn't really enjoy it. They thought it was a little dull, they thought it was weird and stupid.
+
+19
+00:03:31,460 --> 00:03:37,460
+And maybe Valve looked at that and they said, oh, I guess people don't really like Doomsday. Oh, whatever, we will just leave it at that.
+
+20
+00:03:37,460 --> 00:03:45,460
+But I'd like to see them go try more things, try more experiments with the King of the Hill one point, everyone fighting over the same point idea.
+
+21
+00:03:45,460 --> 00:03:52,949
+And a lot of you guys are going to say in the comments section, Jerma, there's a ton of really good community custom-made King of the Hill maps.
+
+22
+00:03:52,949 --> 00:04:04,949
+So what I want you to do right now is on top of talking about maps and talking about your favorite places to play on, leave me a couple IPs that have some really good custom King of the Hill rotations.
+
+23
+00:04:04,949 --> 00:04:11,949
+Because I really want to try to get into those custom maps because I don't, I never play custom maps. I don't know why. I really don't know why.
+
+24
+00:04:11,949 --> 00:04:16,949
+I think because I like knowing that, oh, like Valve made this map, so it must be like balanced.
+
+25
+00:04:16,949 --> 00:04:25,189
+But let's be completely honest, some of the custom community maps are probably the same, if not more balanced than a lot of the Valve maps.
+
+26
+00:04:25,189 --> 00:04:29,189
+So I'm not going to use that excuse. I just, I can never really find a server.
+
+27
+00:04:29,189 --> 00:04:37,189
+The only server that I know that I play on sometimes that has a lot of community custom King of the Hill maps is Star's server.
+
+28
+00:04:37,189 --> 00:04:45,189
+And I really want to get those kind of into my server at some point as well, find the good ones, find the ones that I like the most, and so on and so forth.
+
+29
+00:04:45,189 --> 00:04:54,189
+But please, if you have any good places where not a bunch of people are like assholes, then leave it in the, I almost said description, leave it in the comments section and I will check it out.
+
+30
+00:04:54,189 --> 00:05:04,620
+I also think Shibby has a good rotation with custom maps. So leave Shibby and Star's IPs out of the equation. That would be fantastic good.
+
+31
+00:05:04,620 --> 00:05:07,620
+But anyways, let's move on here. I want to bring up one more thing before the video is over.
+
+32
+00:05:07,620 --> 00:05:13,620
+And that is the video schedule that is going to be here for the next week and a half or so.
+
+33
+00:05:13,620 --> 00:05:17,620
+Because I'm going to PAX East, I want to get you guys in the loop, let you guys know what's happening.
+
+34
+00:05:17,620 --> 00:05:22,620
+And I will make a vlog probably on Wednesday afternoon to reiterate this one more time.
+
+35
+00:05:22,620 --> 00:05:30,620
+But my video schedule that you guys have been used to the last few weeks, throw that out the window for the next, like I said, week and a half.
+
+36
+00:05:30,620 --> 00:05:34,620
+Because I'm not going to have time to sit down and make these different content videos that I want to make.
+
+37
+00:05:35,620 --> 00:05:38,620
+These different enlightens, these different little gems, TF2 videos.
+
+38
+00:05:38,620 --> 00:05:44,620
+Throw kind of my schedule out the window for a little while and we'll get back into that in the next couple of weeks.
+
+39
+00:05:44,620 --> 00:05:49,620
+I also plan on making a bunch of vlogs at PAX and you will see those day up.
+
+40
+00:05:49,620 --> 00:05:55,620
+I'm actually going to bring my powerful laptop into the hotel room to be able to edit videos on the fly.
+
+41
+00:05:55,620 --> 00:06:03,620
+So you will see a lot of those crazy, just like goofy vlog moments as well as the videos I have scheduled for this next coming week.
+
+42
+00:06:03,620 --> 00:06:08,620
+But anyways guys, that's my time. I'll see you guys all next time. Thank you all so much for watching. I really do appreciate it.
+
+43
+00:06:08,620 --> 00:06:13,620
+And I'll see you guys all next time. I said that already. But anyways, take care everybody guys. I'll see you all soon.

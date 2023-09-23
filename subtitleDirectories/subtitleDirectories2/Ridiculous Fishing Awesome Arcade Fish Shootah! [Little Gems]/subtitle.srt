@@ -1,0 +1,271 @@
+1
+00:00:00,310 --> 00:00:13,070
+Hey, what is going on, everybody? Jirba here with Ridiculous Fishing.
+
+2
+00:00:13,070 --> 00:00:18,070
+This is an iOS device mobile game for the iPad, iPhone, and iPod Touch.
+
+3
+00:00:18,070 --> 00:00:24,239
+And it is a great one. We're gonna talk about this, gonna break it down in the little gem fashion that you are used to.
+
+4
+00:00:24,239 --> 00:00:31,239
+Now, before the video gets started, I need to address this because there's gonna be at least a dozen people in the comments section that are gonna say this.
+
+5
+00:00:31,239 --> 00:00:34,240
+And I wanna address it before the video even goes anywhere.
+
+6
+00:00:34,240 --> 00:00:38,740
+So Ridiculous Fishing is not a copy of Ninja Fishing.
+
+7
+00:00:38,740 --> 00:00:41,240
+A lot of you guys have probably already played that game, Ninja Fishing.
+
+8
+00:00:41,240 --> 00:00:49,240
+There's a lot of controversy surrounding these two games because Ridiculous Fishing, of course, was an old game in 2000.
+
+9
+00:00:49,240 --> 00:00:51,740
+I believe 2010 is when it first came out.
+
+10
+00:00:51,740 --> 00:00:56,240
+And it was a free flash game. You just played it. I think it was called Radical Fishing was the actual title.
+
+11
+00:00:56,240 --> 00:01:00,740
+But Ninja Fishing took inspiration from it and made their own game.
+
+12
+00:01:00,740 --> 00:01:04,239
+And there was a lot of BS surrounding it. Everyone was like, wow, this is a copy. What's gonna...
+
+13
+00:01:04,239 --> 00:01:08,239
+It's kind of like... It sort of reminds me of the DayZ WarZee situation,
+
+14
+00:01:08,239 --> 00:01:12,239
+where the DayZ developers were working on the DayZ standalone.
+
+15
+00:01:12,239 --> 00:01:17,239
+And then the WarZee kind of came along and was like, but look, come play our game. It's like the same thing, but like, cool, right?
+
+16
+00:01:17,239 --> 00:01:20,239
+It's sort of that situation. That's the best way I can really describe it.
+
+17
+00:01:20,239 --> 00:01:22,239
+But with all that, I'm not gonna go into that any further.
+
+18
+00:01:22,239 --> 00:01:25,239
+This is just to let you know, this is not a copy of any game.
+
+19
+00:01:25,239 --> 00:01:28,569
+This is the original, as they say.
+
+20
+00:01:28,569 --> 00:01:33,069
+So Ridiculous Fishing is, as the title suggests, a fishing game.
+
+21
+00:01:33,069 --> 00:01:37,569
+You cast your line into the water, you try to get as deep as possible, and you catch fish.
+
+22
+00:01:37,569 --> 00:01:45,069
+So what you do when you catch the fish is where this game really deviates from many of the fishing games you've probably ever played.
+
+23
+00:01:45,069 --> 00:01:49,069
+When you get to the top of the water, you shoot the hell out of everything you catch.
+
+24
+00:01:49,069 --> 00:01:54,569
+So it's... There are a lot of guns in the game, too. There's pistols, machine guns, like laser beams.
+
+25
+00:01:54,569 --> 00:01:59,069
+There's a lot of different upgrades you can get for gun-wise to destroy these fish.
+
+26
+00:01:59,069 --> 00:02:01,879
+Some that are more effective than others.
+
+27
+00:02:01,879 --> 00:02:06,879
+But regardless of what you choose for an arsenal, the shooting mechanics are just plain fun.
+
+28
+00:02:06,879 --> 00:02:08,879
+The game feels very polished and refined.
+
+29
+00:02:08,879 --> 00:02:13,379
+There's no real bugs I've found yet that have been like, what the hell just happened? I shot that fish.
+
+30
+00:02:13,379 --> 00:02:15,379
+This is bullshit. Like, that hasn't happened yet.
+
+31
+00:02:15,379 --> 00:02:19,379
+And not to mention the fun, pixelated, retro kind of art style.
+
+32
+00:02:19,379 --> 00:02:21,879
+It just adds more flair to it in general.
+
+33
+00:02:23,259 --> 00:02:27,259
+And real briefly, we'll talk about the actual mechanics of the game, how it plays, how it works.
+
+34
+00:02:27,259 --> 00:02:31,259
+It's a tilt control game. So you hold your iPad, you hold your iPhone straight in the air,
+
+35
+00:02:31,259 --> 00:02:34,759
+and you go side to side to move the lure around.
+
+36
+00:02:34,759 --> 00:02:38,259
+And you don't want to touch anything. When you're going down, this is a big important thing.
+
+37
+00:02:38,259 --> 00:02:44,259
+While you're going down, if you bump into any fish, you're going to start your ascent upwards.
+
+38
+00:02:44,259 --> 00:02:48,759
+So you want to try to get as deep as humanly possible before you try to catch anything.
+
+39
+00:02:48,759 --> 00:02:52,259
+And you can upgrade how deep you can possibly go.
+
+40
+00:02:52,259 --> 00:02:58,689
+And a lot of you guys are probably wondering, Jerma, I just watched you smash into like a hundred fish.
+
+41
+00:02:58,689 --> 00:03:01,189
+What do you mean you have to avoid them? You're not doing that.
+
+42
+00:03:01,189 --> 00:03:06,189
+Well, that's specifically because I have a huge amount of upgrades into my fish grinder.
+
+43
+00:03:06,189 --> 00:03:09,689
+What that does is I can activate it by tapping on the screen and holding,
+
+44
+00:03:09,689 --> 00:03:14,689
+and I blend up anything that gets in my way so I don't have to go up prematurely.
+
+45
+00:03:14,689 --> 00:03:20,560
+The game soft caps you at certain meters that as you get money by shooting the fish,
+
+46
+00:03:20,560 --> 00:03:25,060
+that's how you actually make the money, you can keep upgrading to go lower and lower and lower.
+
+47
+00:03:25,060 --> 00:03:29,060
+And eventually it gets to be quite difficult because in the deep sea,
+
+48
+00:03:29,060 --> 00:03:34,060
+everything is dark and you have to get a lantern. You have to buy the different light upgrades.
+
+49
+00:03:34,060 --> 00:03:38,060
+There's a lot of stuff in this game for as simple as it possibly could be.
+
+50
+00:03:38,060 --> 00:03:42,050
+It's a ton of fun. There's a bunch of areas you can unlock.
+
+51
+00:03:42,050 --> 00:03:45,050
+There's a whole soundtrack. There's a lot of great things about this game.
+
+52
+00:03:45,050 --> 00:03:50,550
+And Vlambeer is a fantastic independent studio, guys, and I would highly recommend you play this game.
+
+53
+00:03:50,550 --> 00:03:55,550
+This is one of the best iPad, iPhone games to come out this year, absolutely guarantee.
+
+54
+00:03:55,550 --> 00:03:58,050
+I can guarantee you that, that that's going to be the case.
+
+55
+00:03:58,050 --> 00:04:00,550
+And it's $2.99 on the App Store.
+
+56
+00:04:00,550 --> 00:04:03,550
+It might seem like a lot of money for a simple game like this, guys,
+
+57
+00:04:03,550 --> 00:04:07,050
+but with the upgrade system, the amount of fun you can have just by sitting there playing,
+
+58
+00:04:07,050 --> 00:04:10,550
+I was in the DMV playing this game for like two and a half hours,
+
+59
+00:04:10,550 --> 00:04:14,550
+and it was almost like I wasn't even at the DMV. It was fantastic.
+
+60
+00:04:14,550 --> 00:04:18,550
+So that alone is reason enough to pick up a game like this.
+
+61
+00:04:18,550 --> 00:04:23,050
+So go support Vlambeer, guys. They're actually the same people that made Super Crate Box,
+
+62
+00:04:23,050 --> 00:04:25,550
+which is a little gem in its own right.
+
+63
+00:04:25,550 --> 00:04:27,050
+And that's going to wrap up the video.
+
+64
+00:04:27,050 --> 00:04:30,050
+So again, this is a universal app for iOS devices.
+
+65
+00:04:30,050 --> 00:04:34,550
+As long as you have iOS 5.0 or higher, you can play this game.
+
+66
+00:04:34,550 --> 00:04:36,550
+So thank you all so much for watching. Really do appreciate it.
+
+67
+00:04:36,550 --> 00:04:40,050
+I'll see you all next time. And of course, take care, everybody.
+
+68
+00:04:40,050 --> 00:04:41,050
+Little gems.

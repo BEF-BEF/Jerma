@@ -1,0 +1,539 @@
+1
+00:00:01,780 --> 00:00:09,279
+Hey, what's happening guys? Jerma here again with a Team Fortress 2 gameplay commentary, but you already knew that so let's get right into this here.
+
+2
+00:00:09,279 --> 00:00:15,279
+Playing as the engineer, the new Widowmaker engineer. First time I really got to sit down with it and really try it out.
+
+3
+00:00:15,279 --> 00:00:20,280
+Gonna give you guys my real impressions rather than my live crazy psycho impressions.
+
+4
+00:00:20,280 --> 00:00:23,280
+Playing on defense on upward right now.
+
+5
+00:00:23,280 --> 00:00:29,339
+And we are using the Widowmaker obviously, the pistol and the gunslinger.
+
+6
+00:00:29,339 --> 00:00:32,840
+So real quickly I want to break down what happened right there in the beginning.
+
+7
+00:00:32,840 --> 00:00:37,079
+If you noticed, when I came out of the spawn I had 200 metal.
+
+8
+00:00:37,079 --> 00:00:41,079
+I dropped a mini sentry on the ground and just started firing away.
+
+9
+00:00:41,079 --> 00:00:45,579
+I killed three people and got back to 200 metal.
+
+10
+00:00:45,579 --> 00:00:54,079
+What that means is I can drop another sentry down if that one gets destroyed or I can start to build a dispenser and not have to worry about running around to find ammo.
+
+11
+00:00:54,079 --> 00:01:02,579
+What we used to do as engineers is we'd have the frontier justice or the normal shotgun and we would be waiting for an opportunity to shoot somebody.
+
+12
+00:01:02,579 --> 00:01:06,579
+With the frontier justice you are waiting for an opportunity to shoot.
+
+13
+00:01:06,579 --> 00:01:13,579
+Rather than just shooting and firing away with a regular shotgun or with this gun, the frontier justice was kind of a wait and see attitude.
+
+14
+00:01:13,579 --> 00:01:16,579
+You wanted to get those crits, you wanted to really make sure they really counted.
+
+15
+00:01:16,579 --> 00:01:23,079
+With the Widowmaker you are not as concerned about holding on to your shots or making your shots count.
+
+16
+00:01:23,079 --> 00:01:30,579
+Because honestly, if you miss, if I miss this gun four times and then I land one body shot, I'm fine.
+
+17
+00:01:30,579 --> 00:01:36,319
+That one on one right there that you just saw with that sniper I missed six times.
+
+18
+00:01:36,319 --> 00:01:39,500
+I missed him six times and still killed him.
+
+19
+00:01:39,500 --> 00:01:44,500
+So throw away the notion that you have to be a really good shot to use this gun.
+
+20
+00:01:44,500 --> 00:01:47,120
+You really don't have to.
+
+21
+00:01:47,120 --> 00:01:50,620
+So now let me just give you guys a few combat engineer tips.
+
+22
+00:01:50,620 --> 00:01:55,120
+Some things that will help your team out, especially if there's more than one engineer on the team.
+
+23
+00:01:55,120 --> 00:01:56,620
+See what I'm doing right here.
+
+24
+00:01:56,620 --> 00:02:01,120
+I'm giving this guy my dispenser because I technically don't really need it for anything.
+
+25
+00:02:01,120 --> 00:02:03,930
+I don't have to have a constant supply of metal.
+
+26
+00:02:03,930 --> 00:02:06,430
+I don't need to run back to my dispenser all the time.
+
+27
+00:02:06,430 --> 00:02:09,930
+Because of course I throw away my sentries, I drop them in random places.
+
+28
+00:02:09,930 --> 00:02:17,930
+As a combat engi your dispenser is pretty much designed to be a healbot for the rest of the team and to give the other engineers metal.
+
+29
+00:02:17,930 --> 00:02:22,930
+I can't really think of another reason why you'd ever need a dispenser for any reason if you're doing the mini sentry.
+
+30
+00:02:22,930 --> 00:02:25,930
+Because the Widowmaker is just a generator of metal.
+
+31
+00:02:25,930 --> 00:02:29,930
+So you can technically just run around in circles and get metal by killing people.
+
+32
+00:02:29,930 --> 00:02:37,419
+Also another really really important combat engi tip I want to give you guys is don't worry about your mini sentry.
+
+33
+00:02:37,419 --> 00:02:39,419
+Watch how fast I put it down right here.
+
+34
+00:02:39,419 --> 00:02:42,419
+I'm just getting it in the line of sight of the other players.
+
+35
+00:02:42,419 --> 00:02:47,419
+You don't have to really fiddle with it and oh should I put it here or maybe I should put it over here.
+
+36
+00:02:47,419 --> 00:02:49,419
+Don't worry about it, just drop it somewhere.
+
+37
+00:02:49,419 --> 00:02:50,419
+I'll do it again, ready?
+
+38
+00:02:50,419 --> 00:02:51,419
+Boing, right here.
+
+39
+00:02:51,419 --> 00:02:53,789
+I know it's going to get destroyed.
+
+40
+00:02:53,789 --> 00:02:56,789
+Your mini sentry is always going to get destroyed.
+
+41
+00:02:56,789 --> 00:02:59,789
+So don't try and hide it somewhere, don't try and fiddle with it.
+
+42
+00:02:59,789 --> 00:03:04,789
+The only reason why I would say to hide it somewhere is if you're on a map that's pretty small.
+
+43
+00:03:04,789 --> 00:03:08,789
+Like a King of the Hill map like Harvest or something where you can sneak it in a window or something.
+
+44
+00:03:08,789 --> 00:03:11,789
+But on a fairly large map like this, just get it out there.
+
+45
+00:03:11,789 --> 00:03:14,789
+It's a huge map, people will always be running around it.
+
+46
+00:03:14,789 --> 00:03:15,789
+Just get it down.
+
+47
+00:03:15,789 --> 00:03:23,219
+The third and final combat engineer tip I'm going to give you guys in this video is about spies and dealing with your sentry being sapped.
+
+48
+00:03:23,219 --> 00:03:28,219
+Up in the top left corner my sentry has been sapped and I don't care.
+
+49
+00:03:28,219 --> 00:03:31,639
+Never care about that.
+
+50
+00:03:31,639 --> 00:03:36,639
+If your sentry is getting sapped, your mini sentry by a spy, just let him have his glory.
+
+51
+00:03:36,639 --> 00:03:42,639
+Let him have his fun because it's not worth going over to whack it two times to take the sapper off.
+
+52
+00:03:42,639 --> 00:03:46,639
+When, like I said before, it's just going to get destroyed anyways.
+
+53
+00:03:46,639 --> 00:03:52,819
+You can give that spy a little tip to the hat and say, alright, you did it, you got my mini sentry, whatever.
+
+54
+00:03:52,819 --> 00:03:53,819
+It doesn't matter.
+
+55
+00:03:53,819 --> 00:04:00,819
+Don't get yourself into trouble because a lot of times when somebody does that, when a spy does that, he's trying to lure you over to the sentry,
+
+56
+00:04:00,819 --> 00:04:05,819
+try to pull you away from the front lines, try to get you in a position where they can get a backstab on you
+
+57
+00:04:05,819 --> 00:04:09,819
+or where they can get a revolver kill on you because they're knowing that you're a combat engineer.
+
+58
+00:04:09,819 --> 00:04:11,819
+I have seen it so many times when I play spy.
+
+59
+00:04:11,819 --> 00:04:15,819
+I'll put a sapper on a mini sentry and I'll just see in the distance,
+
+60
+00:04:15,819 --> 00:04:18,819
+only my sentry I've got to protect it.
+
+61
+00:04:20,819 --> 00:04:22,819
+And they'll just burp and come back over and puke.
+
+62
+00:04:22,819 --> 00:04:24,819
+And you don't have to do that.
+
+63
+00:04:24,819 --> 00:04:26,819
+There really is no reason to do that.
+
+64
+00:04:26,819 --> 00:04:27,819
+It's a mini sentry.
+
+65
+00:04:27,819 --> 00:04:29,819
+Just let it die and say, you did it, spy.
+
+66
+00:04:29,819 --> 00:04:30,819
+Thanks.
+
+67
+00:04:30,819 --> 00:04:35,379
+So right now I'm just browsing the area trying to get some damage on people.
+
+68
+00:04:35,379 --> 00:04:39,379
+I don't want to shoot with the Widowmaker from that far away because the Widowmaker takes 30 metal to shoot.
+
+69
+00:04:39,379 --> 00:04:45,379
+And if you hit someone from that far away, you're only going to get like 3 or 4 metal back
+
+70
+00:04:45,379 --> 00:04:49,680
+and it's totally 100% not worth it getting this dispenser up to level 3
+
+71
+00:04:49,680 --> 00:04:53,680
+because it's been level 1 for the whole entire match.
+
+72
+00:04:53,680 --> 00:04:55,680
+And I apologize to my team for that.
+
+73
+00:04:55,680 --> 00:04:58,680
+Get it right up next to this building so spam can't take it out.
+
+74
+00:04:58,680 --> 00:05:01,680
+The only concern I have is in the right side of that tunnel.
+
+75
+00:05:01,680 --> 00:05:03,680
+Somebody could just come over there and kill it.
+
+76
+00:05:03,680 --> 00:05:06,680
+Not that worried about it though because we have a full level 3 sentry
+
+77
+00:05:06,680 --> 00:05:09,680
+and a level 3 dispenser right in the room next to me.
+
+78
+00:05:09,680 --> 00:05:11,680
+So not that concerned about it.
+
+79
+00:05:11,680 --> 00:05:14,860
+As I was dead, they ended up killing the sentry in this building.
+
+80
+00:05:14,860 --> 00:05:18,860
+Good thing this dispenser is still here because this engineer is probably going to need it.
+
+81
+00:05:18,860 --> 00:05:21,860
+Like I said before, it's a perfect spot for him to get it.
+
+82
+00:05:21,860 --> 00:05:24,860
+And he can take as much as he wants because I don't need it.
+
+83
+00:05:24,860 --> 00:05:27,860
+Dropping a mini sentry over here trying to get these guys off the cart.
+
+84
+00:05:27,860 --> 00:05:30,860
+They get on the cart, the soldiers on the cart, and the scout.
+
+85
+00:05:30,860 --> 00:05:32,860
+I follow the scout into this room. This is great.
+
+86
+00:05:32,860 --> 00:05:34,860
+And I run out of metal.
+
+87
+00:05:34,860 --> 00:05:38,860
+So I pull out the whippin' gunslinger and I just punch him in his face.
+
+88
+00:05:38,860 --> 00:05:41,860
+He was pulling out the fish I believe so that could have been bad.
+
+89
+00:05:41,860 --> 00:05:44,860
+Medic is trying to get on the cart. I get him, dominate him.
+
+90
+00:05:44,860 --> 00:05:46,860
+I don't even know how many people I was dominating.
+
+91
+00:05:46,860 --> 00:05:49,100
+I was dominating at least 2 or 3 people.
+
+92
+00:05:49,100 --> 00:05:51,100
+This is where it becomes crunch time as you all know.
+
+93
+00:05:51,100 --> 00:05:54,100
+Less than 2 minutes on the clock. We all have been in this situation before.
+
+94
+00:05:54,100 --> 00:05:56,100
+Cart is very close to being capped.
+
+95
+00:05:56,100 --> 00:05:58,100
+Less than a few minutes to go.
+
+96
+00:05:58,100 --> 00:06:01,100
+Everybody's nervous. Everyone's nerve wracking right now.
+
+97
+00:06:01,100 --> 00:06:06,100
+Because you don't want them to cap it because the clock just goes right back up and we start all over again.
+
+98
+00:06:06,100 --> 00:06:10,399
+At this point in the match when it becomes this hectic and when it becomes this close,
+
+99
+00:06:10,399 --> 00:06:14,399
+definitely help out your other engineer that has a big sentry.
+
+100
+00:06:14,399 --> 00:06:18,399
+It's so important that this gets up to at least level 2.
+
+101
+00:06:18,399 --> 00:06:21,399
+Because if they did cap it, if they do cap it,
+
+102
+00:06:21,399 --> 00:06:25,399
+they will not be able to just steamroll right through everyone.
+
+103
+00:06:25,399 --> 00:06:29,399
+There will be a big sentry here to suppress them and maybe we can keep it rolling.
+
+104
+00:06:29,399 --> 00:06:33,699
+But I don't even want it to get that far. We want to just end it right now.
+
+105
+00:06:33,699 --> 00:06:37,699
+Get back here behind the enemy lines and this is where it gets pretty interesting.
+
+106
+00:06:37,699 --> 00:06:40,699
+Kill this sniper. I was pretty concerned about getting shot in the face.
+
+107
+00:06:40,699 --> 00:06:42,699
+Get him with a nice couple of shots.
+
+108
+00:06:42,699 --> 00:06:44,699
+Another sniper, a huntsman sniper goes down too.
+
+109
+00:06:44,699 --> 00:06:47,699
+Then me and this spy go over here and look what's in this room.
+
+110
+00:06:47,699 --> 00:06:50,699
+They had a teleporter here the entire time.
+
+111
+00:06:50,699 --> 00:06:53,699
+I'm not going to shoot it because I don't want to steal the spy's kill.
+
+112
+00:06:53,699 --> 00:06:56,699
+Because I don't like when that happens to me so I don't like doing it to other people.
+
+113
+00:06:56,699 --> 00:06:58,699
+Kill that scout with a few shots right in his face.
+
+114
+00:06:58,699 --> 00:07:00,699
+This is coming down to the end here.
+
+115
+00:07:00,699 --> 00:07:01,699
+Less than a minute left.
+
+116
+00:07:01,699 --> 00:07:05,699
+Putting a mini sentry in this room to surprise the crap out of people.
+
+117
+00:07:05,699 --> 00:07:09,879
+My dispenser right now is being sapped and there's obviously nothing I can do about it
+
+118
+00:07:09,879 --> 00:07:12,879
+because I just got shot in my face with the huntsman.
+
+119
+00:07:12,879 --> 00:07:16,120
+Less than 20 seconds left in the game and look at the cart.
+
+120
+00:07:16,120 --> 00:07:21,120
+I was just screaming in my head, no please.
+
+121
+00:07:21,120 --> 00:07:23,120
+So I just get on the cart, do anything I can.
+
+122
+00:07:23,120 --> 00:07:26,120
+I don't care if I die. I'm just going on here to stop this cap.
+
+123
+00:07:26,120 --> 00:07:27,120
+And this is the end right here.
+
+124
+00:07:27,120 --> 00:07:30,120
+I pushed the scout off, he accidentally falls.
+
+125
+00:07:30,120 --> 00:07:33,120
+And that's going to be the end of the gameplay guys.
+
+126
+00:07:33,120 --> 00:07:35,300
+I never have said this before but I want to say it.
+
+127
+00:07:35,300 --> 00:07:36,300
+I've never shouted this out.
+
+128
+00:07:36,300 --> 00:07:38,300
+I have a Facebook now.
+
+129
+00:07:38,300 --> 00:07:41,300
+An official German 985 Facebook.
+
+130
+00:07:41,300 --> 00:07:42,300
+No one really knows about it.
+
+131
+00:07:42,300 --> 00:07:45,300
+There's only like 30 or 40 people that even know.
+
+132
+00:07:45,300 --> 00:07:46,300
+So go check it out.
+
+133
+00:07:46,300 --> 00:07:48,300
+The link will be in the description for my Facebook.
+
+134
+00:07:48,300 --> 00:07:50,300
+I will see you all next time.
+
+135
+00:07:50,300 --> 00:07:52,300
+And take care everybody.

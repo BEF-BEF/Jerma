@@ -1,0 +1,855 @@
+1
+00:00:00,060 --> 00:00:07,059
+What is happening, guys? It is Jerma bringing you a gameplay commentary of the Scout on Coldfront.
+
+2
+00:00:07,059 --> 00:00:15,060
+And when I say gameplay commentary, I don't really mean commentary because I kind of want to talk about some things that I'm doing for tomorrow.
+
+3
+00:00:15,060 --> 00:00:25,489
+And hopefully it's good for you guys, hopefully it's informative for you guys because I've never seen somebody do it before and I think it's something that would be helpful to a lot of people.
+
+4
+00:00:25,489 --> 00:00:37,490
+I have a lot of refined metal, as you guys are aware. I've shown it to you before. I used to have a lot more, but I'm going to be able to craft every single item tomorrow, potentially, for the Uber Update.
+
+5
+00:00:37,490 --> 00:00:50,899
+If you play Team Fortress 2 and you don't know what the Uber Update is, hello, I just found you under a rock and the sun is up there and the ground is right below you, so welcome to Earth.
+
+6
+00:00:50,899 --> 00:01:05,900
+But seriously, the Uber Update is launching tomorrow. I'm recording this as of right now. It's Wednesday night, so if this video isn't uploaded or if you don't see this until tomorrow, which would be Thursday, I'm sorry, but there's nothing I can do about that.
+
+7
+00:01:05,900 --> 00:01:18,260
+What I'm doing is I'm going to craft every single item and I'm going to put every single item, a demonstration of every single item, into one video.
+
+8
+00:01:18,260 --> 00:01:28,700
+Now, when I said I haven't seen anybody do that before, what I meant by that is usually when you want to see a demonstration of a new item, like, oh, what the hell is a brass beast?
+
+9
+00:01:28,700 --> 00:01:39,700
+And you look up, oh, like, Team Fortress 2, new update, new item, brass beast, or you look up for a new item or new items in update, you know, the war update or something.
+
+10
+00:01:39,700 --> 00:01:53,700
+Usually you'll get a convoluted mess of videos where there's a gameplay here, there's, like, a demonstration here, but you never get to see everything in one video and, you know, skip to a point that you want to see, oh, I just want to see the heavy items.
+
+11
+00:01:53,700 --> 00:02:02,700
+Oh, they're right here, all of them, and I can see them all right here. That's what I'm doing tomorrow. I'm going to craft every item and then once, oh, that was a nice quick scope.
+
+12
+00:02:02,700 --> 00:02:06,700
+Oh, well, I'm sorry, I was watching the television here.
+
+13
+00:02:06,700 --> 00:02:20,060
+I'm going to craft every item and you'll see every, I'm going to do a gameplay where I spend maybe 30 seconds, 20 to 30 seconds on each item in a real game situation.
+
+14
+00:02:20,060 --> 00:02:26,060
+I'm not just going to go on a server and put a bot up and go, this is how you shoot him in the face with nothing happening.
+
+15
+00:02:26,060 --> 00:02:41,060
+I want to see, personally, I want to see real gameplay with this stuff like I'm sure a lot of you guys want to see because those of you that obviously are not as well off in Team Fortress, like, you don't have a lot of, like, refined metal or a lot of hats to build a trade.
+
+16
+00:02:41,060 --> 00:02:55,060
+It's hard to tell what items you actually want and what items you don't want because there's so many of them you go, oh, well, do I really want the new heavy minigun? I mean, I don't know, how is it?
+
+17
+00:02:55,060 --> 00:02:58,060
+I'm going to be able to tell you how it is and you'll be able to see me play with it.
+
+18
+00:02:58,060 --> 00:03:03,370
+So I hope the video is no longer than 10 minutes or 12, 15 minutes because that's the time limit.
+
+19
+00:03:03,370 --> 00:03:12,370
+But I'm going to try and crunch everything down into like a 10 minute, like I said, 20, 30 seconds for each class or each weapon.
+
+20
+00:03:12,370 --> 00:03:14,370
+And hopefully it's informative for you guys.
+
+21
+00:03:14,370 --> 00:03:23,669
+And that's what I plan on doing tomorrow all day because I'm a real dork, a real dork, not one of these fake dorks.
+
+22
+00:03:23,669 --> 00:03:26,669
+But anyway, let's get to the commentary of the video.
+
+23
+00:03:26,669 --> 00:03:28,669
+I'm playing as a scout.
+
+24
+00:03:28,669 --> 00:03:29,669
+This is Coldfront.
+
+25
+00:03:29,669 --> 00:03:31,669
+It's a five control point map.
+
+26
+00:03:31,669 --> 00:03:37,669
+Five control point maps are a little impossible to play with a pub group.
+
+27
+00:03:37,669 --> 00:03:48,669
+And I love Five Gorge, but like every single five control point map on a public server, it's just a complete mess and nobody works together.
+
+28
+00:03:48,669 --> 00:03:50,669
+And it just, it's a complete stalemate.
+
+29
+00:03:50,669 --> 00:04:01,669
+At least what I've seen 90 percent of the time when I play in a public server that does five control point maps, you're in there for 45 minutes playing in the same game.
+
+30
+00:04:01,669 --> 00:04:03,669
+And it's just like, all right, can we get this?
+
+31
+00:04:03,669 --> 00:04:05,669
+Can we end this now?
+
+32
+00:04:05,669 --> 00:04:12,669
+But see, like right here, we got the point, but now it's like coming back and then we go forward and it comes back and it goes forward and comes back.
+
+33
+00:04:12,669 --> 00:04:20,670
+And a lot of times admins just hit like the, you know, the frigging blow up button and just go stalemate and start it over.
+
+34
+00:04:20,670 --> 00:04:23,670
+Which I don't blame them for doing that, you know.
+
+35
+00:04:23,670 --> 00:04:27,670
+If it's in the rotation, you got to use it, you know, whatever.
+
+36
+00:04:27,670 --> 00:04:39,670
+So for the remainder of this gameplay commentary, well, not for the remainder of it, but for a lot of it, you're going to see me trying to avoid a sentry gun that's in their last, second to last control point room.
+
+37
+00:04:39,670 --> 00:04:45,670
+And it gets to a point where I just get so fed up that I switch to heavy in another minute or so here.
+
+38
+00:04:45,670 --> 00:04:48,670
+And because nobody would take it out.
+
+39
+00:04:48,670 --> 00:04:49,670
+You'll see where it is.
+
+40
+00:04:49,670 --> 00:04:50,670
+It's coming up here in a second.
+
+41
+00:04:50,670 --> 00:04:52,670
+You'll see where the sentry gun is.
+
+42
+00:04:52,670 --> 00:05:01,670
+And it baffles me to think that somebody can't just turn this corner and shoot like three or four stickies in here.
+
+43
+00:05:01,670 --> 00:05:02,670
+See, look, it's right here.
+
+44
+00:05:02,670 --> 00:05:03,670
+Look at this.
+
+45
+00:05:03,670 --> 00:05:04,670
+OK.
+
+46
+00:05:04,670 --> 00:05:06,670
+I can't do it because obviously it was a level three.
+
+47
+00:05:06,670 --> 00:05:13,670
+So I take a trip over here and I just think, OK, can like a heavy just turn that corner and take it out?
+
+48
+00:05:13,670 --> 00:05:16,670
+Or can a demo man, you know, throw a couple pipes or something?
+
+49
+00:05:16,670 --> 00:05:20,670
+And then I realized something very, very important.
+
+50
+00:05:20,670 --> 00:05:24,670
+We are in the middle of a free week in Team Fortress 2.
+
+51
+00:05:24,670 --> 00:05:31,670
+So it makes complete sense as to, number one, why an engineer would build a sentry gun right there.
+
+52
+00:05:31,670 --> 00:05:35,670
+And number two, why nobody would be able to kill it.
+
+53
+00:05:35,670 --> 00:05:40,040
+Because everybody is like brand new.
+
+54
+00:05:40,040 --> 00:05:46,040
+So for the remainder of this Scout part of the gameplay, I just try to avoid the sentry gun.
+
+55
+00:05:46,040 --> 00:05:52,220
+And I figured maybe at some point I would I would be able to see a teammate get in there and take it out.
+
+56
+00:05:52,220 --> 00:05:54,220
+I could just rush for the last point.
+
+57
+00:05:54,220 --> 00:05:56,220
+But it just doesn't happen.
+
+58
+00:05:56,220 --> 00:05:58,220
+And I stick with Scout to try.
+
+59
+00:05:58,220 --> 00:06:05,220
+At this point, I'm really just trying to, you know, get behind people and pick off like, you know, some medics or some snipers or something like that.
+
+60
+00:06:05,220 --> 00:06:08,220
+Because I can't go through the front door because the sentry is there.
+
+61
+00:06:08,220 --> 00:06:10,220
+So I kind of have to go all over the place here.
+
+62
+00:06:10,220 --> 00:06:12,220
+I get three or four kills in a row here.
+
+63
+00:06:12,220 --> 00:06:17,220
+I get this Scout, me and him go kind of one on one and put him six feet under.
+
+64
+00:06:17,220 --> 00:06:20,220
+Come around here. This Heavy is using the bear claws.
+
+65
+00:06:20,220 --> 00:06:23,220
+He stops to eat a sandwich. I take him out, spin around.
+
+66
+00:06:23,220 --> 00:06:27,220
+There's a Spy. I can tell because he's running my direction with a sniper rifle out.
+
+67
+00:06:27,220 --> 00:06:30,220
+He dies. And that was a good little streak there.
+
+68
+00:06:30,220 --> 00:06:32,220
+I come around this corner again.
+
+69
+00:06:32,220 --> 00:06:35,220
+And like I said, I have to go like this kind of strange route.
+
+70
+00:06:35,220 --> 00:06:38,220
+And Soldier comes in here. I kill him with a crit.
+
+71
+00:06:38,220 --> 00:06:40,220
+Lucky crit, I know.
+
+72
+00:06:40,220 --> 00:06:43,220
+But the sentry is still here.
+
+73
+00:06:43,220 --> 00:06:46,220
+And I'm like, come on, there's got to be somebody who has to be able to take that out.
+
+74
+00:06:46,220 --> 00:06:49,220
+I come over here. I kill this Spy.
+
+75
+00:06:49,220 --> 00:06:51,220
+I'm at the spawn room.
+
+76
+00:06:51,220 --> 00:07:00,220
+And I'm just wishing right now that somebody would just cap that point so I could just steal this win and finally be done with this cold front gameplay.
+
+77
+00:07:00,220 --> 00:07:05,220
+But see right here, I'm just kind of like, okay, so what do I do now?
+
+78
+00:07:05,220 --> 00:07:07,220
+Do I, I'm just going to run back to the spawn.
+
+79
+00:07:07,220 --> 00:07:10,220
+Hopefully I can get behind somebody and pick somebody off.
+
+80
+00:07:10,220 --> 00:07:11,220
+But that's what I try and do.
+
+81
+00:07:11,220 --> 00:07:14,220
+And as you can see, there's nobody here.
+
+82
+00:07:14,220 --> 00:07:16,220
+So I see this Scout.
+
+83
+00:07:16,220 --> 00:07:19,220
+I start to lose. He gets a nice shot on me.
+
+84
+00:07:19,220 --> 00:07:21,220
+And that life is over.
+
+85
+00:07:21,220 --> 00:07:23,220
+And guess what I died from?
+
+86
+00:07:23,220 --> 00:07:26,220
+Yeah, the sentry gun that's sitting in the middle of the point.
+
+87
+00:07:26,220 --> 00:07:34,220
+So I think it's pretty clear now that I'm not going to be able to play Scout for that much longer.
+
+88
+00:07:34,220 --> 00:07:39,220
+I'm stuck kind of in a, I'm doing really good as the Scout.
+
+89
+00:07:39,220 --> 00:07:43,220
+I have this kind of mentality where I'm saying, no, but I'm doing so well as the Scout.
+
+90
+00:07:43,220 --> 00:07:45,220
+I can't stop now.
+
+91
+00:07:45,220 --> 00:07:46,220
+Like, come on.
+
+92
+00:07:46,220 --> 00:07:48,220
+I don't want to go play like Heavy or Demoman.
+
+93
+00:07:48,220 --> 00:07:50,220
+I'm doing the Scout gameplay.
+
+94
+00:07:50,220 --> 00:07:51,220
+I'm doing pretty good.
+
+95
+00:07:51,220 --> 00:07:53,220
+I never do good with the Scout.
+
+96
+00:07:53,220 --> 00:07:55,220
+That's what was going through my head at this point.
+
+97
+00:07:55,220 --> 00:07:57,220
+So I didn't really want to change.
+
+98
+00:07:57,220 --> 00:08:02,220
+But you have to do sacrifices to better the team.
+
+99
+00:08:02,220 --> 00:08:05,220
+And eventually that's what I say.
+
+100
+00:08:05,220 --> 00:08:07,220
+I wasn't that nice about it though.
+
+101
+00:08:07,220 --> 00:08:13,220
+Because in my head it was, god damn it, these motherfuckers.
+
+102
+00:08:13,220 --> 00:08:15,220
+I swear to god that was going through my head.
+
+103
+00:08:15,220 --> 00:08:17,220
+I'm a real idiot right here.
+
+104
+00:08:17,220 --> 00:08:21,220
+I come over here shooting this sentry over and over again rather than shooting the Engineer.
+
+105
+00:08:21,220 --> 00:08:27,220
+But it was enough of a distraction, I guess, to have my teammates shoot a few missiles over there and take it out.
+
+106
+00:08:27,220 --> 00:08:30,220
+So at least that was going good for our team.
+
+107
+00:08:30,220 --> 00:08:34,220
+And I really thought right here, because I think that was the sentry that was sitting on the point.
+
+108
+00:08:34,220 --> 00:08:37,220
+I really thought that we were going to just push forward.
+
+109
+00:08:37,220 --> 00:08:39,220
+And the sentry's gone.
+
+110
+00:08:39,220 --> 00:08:40,220
+Let's take it.
+
+111
+00:08:40,220 --> 00:08:42,220
+Let's take the point now.
+
+112
+00:08:42,220 --> 00:08:49,220
+But the curse of the five control point public server is still here.
+
+113
+00:08:49,220 --> 00:08:52,220
+And we actually don't push any further.
+
+114
+00:08:52,220 --> 00:08:53,220
+I kill this Soldier.
+
+115
+00:08:53,220 --> 00:08:54,220
+I turn around.
+
+116
+00:08:54,220 --> 00:08:59,220
+I smoke this Spy, which was probably a dead Ringer, so whatevs.
+
+117
+00:08:59,220 --> 00:09:07,220
+But what I'm not realizing at this point, I kill a couple more people and I distract myself a little bit here.
+
+118
+00:09:07,220 --> 00:09:09,220
+I kill one or two more people.
+
+119
+00:09:09,220 --> 00:09:12,220
+I get a fish kill right here on this guy, which is great.
+
+120
+00:09:12,220 --> 00:09:15,220
+But they're building a sentry up right now, again.
+
+121
+00:09:15,220 --> 00:09:20,220
+And this is me just being an idiot and not realizing the fact that they're building a sentry.
+
+122
+00:09:20,220 --> 00:09:25,220
+The whole reason why we haven't been able to go in there is because they had a sentry in there.
+
+123
+00:09:25,220 --> 00:09:27,220
+And I didn't do anything about it.
+
+124
+00:09:27,220 --> 00:09:29,220
+And right here, I run past it and look at this.
+
+125
+00:09:29,220 --> 00:09:30,220
+Boom, boom.
+
+126
+00:09:30,220 --> 00:09:33,220
+There's a sentry there now.
+
+127
+00:09:33,220 --> 00:09:40,220
+So at this point, it's getting really, really difficult for me to want to play Scout anymore,
+
+128
+00:09:40,220 --> 00:09:43,220
+even though I'm doing very, very well as a Scout right now.
+
+129
+00:09:43,220 --> 00:09:49,460
+I know, as well as you know at this point, that I need to change classes.
+
+130
+00:09:49,460 --> 00:09:52,460
+I need to change this up a little bit.
+
+131
+00:09:52,460 --> 00:09:54,820
+But I stay with the Scout still.
+
+132
+00:09:54,820 --> 00:09:57,820
+I think this is the last thing I do with the Scout.
+
+133
+00:09:57,820 --> 00:09:59,820
+I try. I think I said I'm going to do one more.
+
+134
+00:09:59,820 --> 00:10:02,820
+And if we don't get it when I do one more, then I will change.
+
+135
+00:10:02,820 --> 00:10:05,820
+And this is a rage moment right here.
+
+136
+00:10:05,820 --> 00:10:08,820
+This is actually what makes me change classes for real.
+
+137
+00:10:08,820 --> 00:10:12,820
+I come around this corner and I'm like, alright, who am I going to pick off here?
+
+138
+00:10:12,820 --> 00:10:13,820
+Oh, you.
+
+139
+00:10:13,820 --> 00:10:14,820
+You'll bang. Got you.
+
+140
+00:10:14,820 --> 00:10:15,820
+Oh, Demoman.
+
+141
+00:10:15,820 --> 00:10:16,820
+Hey, what's going on, my friend?
+
+142
+00:10:16,820 --> 00:10:17,820
+How are you?
+
+143
+00:10:17,820 --> 00:10:20,820
+Let me just get one shot in the air by the lock and load, I believe it was.
+
+144
+00:10:20,820 --> 00:10:21,820
+Yes, it was.
+
+145
+00:10:21,820 --> 00:10:22,820
+And look at his health.
+
+146
+00:10:22,820 --> 00:10:23,820
+Look at his health.
+
+147
+00:10:25,820 --> 00:10:28,820
+So right now, I go Super Saiyan 4 and I go heavy.
+
+148
+00:10:28,820 --> 00:10:35,820
+And this is where things start to turn for the much better at this point.
+
+149
+00:10:35,820 --> 00:10:40,820
+I'm using the gloves of running urgently, the default minigun and the sandwich.
+
+150
+00:10:40,820 --> 00:10:42,820
+And you'll see what happens.
+
+151
+00:10:42,820 --> 00:10:44,820
+Well, look what happens right when I go heavy.
+
+152
+00:10:44,820 --> 00:10:46,820
+We start rolling past everything.
+
+153
+00:10:46,820 --> 00:10:50,820
+And the sentry in this room is gone for some reason.
+
+154
+00:10:50,820 --> 00:10:54,820
+Apparently, when I decide to switch classes, it just disappears into thin air.
+
+155
+00:10:54,820 --> 00:10:58,820
+So I kill the scout. I come into here. I eat a sandwich real quick.
+
+156
+00:10:58,820 --> 00:11:00,820
+Take out this Demoman.
+
+157
+00:11:00,820 --> 00:11:05,820
+And look at this. There's no sentry here now, which is what I was prepared for.
+
+158
+00:11:05,820 --> 00:11:08,820
+Two spies try to get me. That's one.
+
+159
+00:11:08,820 --> 00:11:12,059
+Here comes another one. See, I'm freaking out and running around in a circle right here.
+
+160
+00:11:12,059 --> 00:11:14,059
+I think that's the same one.
+
+161
+00:11:14,059 --> 00:11:16,059
+Another one comes over. Here he is. Boom. Get him.
+
+162
+00:11:16,059 --> 00:11:18,059
+Take out the scout.
+
+163
+00:11:18,059 --> 00:11:23,059
+But obviously, that's pure rage energy was coming out.
+
+164
+00:11:23,059 --> 00:11:26,059
+That was not bullets that was coming out of that gun.
+
+165
+00:11:26,059 --> 00:11:29,059
+That was pure rage. And I almost did it.
+
+166
+00:11:29,059 --> 00:11:32,059
+And right here, I think I say, like, we almost got it.
+
+167
+00:11:32,059 --> 00:11:34,059
+Please, please push.
+
+168
+00:11:34,059 --> 00:11:36,059
+And eventually, we get it.
+
+169
+00:11:36,059 --> 00:11:39,059
+We get this second to last point.
+
+170
+00:11:39,059 --> 00:11:42,059
+And you'll see how horrible this is.
+
+171
+00:11:42,059 --> 00:11:46,059
+My brain was literally about to explode when this happened.
+
+172
+00:11:46,059 --> 00:11:49,059
+See, we got this medic here. It's like, alright, let's go, buddy.
+
+173
+00:11:49,059 --> 00:11:51,059
+Boom. You're dead.
+
+174
+00:11:51,059 --> 00:11:53,059
+Let's keep going. Oh, I got two medics here? Are you telling me?
+
+175
+00:11:53,059 --> 00:11:55,059
+Oh, let's go. Let's go. Let's do it. Let's do it.
+
+176
+00:11:55,059 --> 00:11:57,059
+So we get up here.
+
+177
+00:11:57,059 --> 00:11:58,059
+We push through.
+
+178
+00:11:58,059 --> 00:12:00,059
+And we actually get this point.
+
+179
+00:12:00,059 --> 00:12:02,059
+They try to build a sentry gun. It goes down.
+
+180
+00:12:02,059 --> 00:12:05,059
+The engineer, I think, goes down too by this Pyro.
+
+181
+00:12:05,059 --> 00:12:07,059
+So there's two medics behind me right now.
+
+182
+00:12:07,059 --> 00:12:10,059
+Charge an Uber. Get rid of the engineer.
+
+183
+00:12:10,059 --> 00:12:12,059
+And look at what happens right here. Look at this.
+
+184
+00:12:12,059 --> 00:12:13,059
+Look at the control points.
+
+185
+00:12:13,059 --> 00:12:16,059
+This is like neck and neck. And bang, we get it.
+
+186
+00:12:16,059 --> 00:12:17,059
+And it's like, alright.
+
+187
+00:12:17,059 --> 00:12:22,059
+Like, finally, finally, we can end this. Let's go.
+
+188
+00:12:22,059 --> 00:12:25,059
+So a Pyro comes up behind us, tries to ruin our day.
+
+189
+00:12:25,059 --> 00:12:28,059
+Doesn't work. I am in no mood right now.
+
+190
+00:12:28,059 --> 00:12:30,059
+This guy's almost got an Uber. Let's go.
+
+191
+00:12:30,059 --> 00:12:32,059
+The game is over, baby. We got this.
+
+192
+00:12:33,059 --> 00:12:35,059
+Where's my medic?
+
+193
+00:12:35,059 --> 00:12:38,059
+What happened to my medic?
+
+194
+00:12:38,059 --> 00:12:40,059
+What happened to my medic?
+
+195
+00:12:40,059 --> 00:12:43,059
+So this is a cut right here. This is a cut.
+
+196
+00:12:43,059 --> 00:12:48,059
+I change to spy. This is about 15 minutes later.
+
+197
+00:12:48,059 --> 00:12:52,059
+My head exploded and I said, you know what, I'm just going to go spy.
+
+198
+00:12:52,059 --> 00:12:57,059
+Whatever is back here on this last point, I am going to kill it.
+
+199
+00:12:57,059 --> 00:12:59,059
+And then I'm going to pee on it.
+
+200
+00:12:59,059 --> 00:13:03,059
+So I was so bad at this point because after that happened,
+
+201
+00:13:03,059 --> 00:13:08,059
+after we got killed, after I got killed at that last point,
+
+202
+00:13:08,059 --> 00:13:11,059
+it came back to the middle again.
+
+203
+00:13:11,059 --> 00:13:15,059
+And if that medic had just hit the button at the right time,
+
+204
+00:13:15,059 --> 00:13:17,059
+it would have been fine. But you know what?
+
+205
+00:13:17,059 --> 00:13:19,059
+Does it matter? Because guess what?
+
+206
+00:13:19,059 --> 00:13:21,059
+We went right here. I don't care about my own life.
+
+207
+00:13:21,059 --> 00:13:24,059
+Get rid of the damn sentry. Let's get on the point and let's win it.
+
+208
+00:13:24,059 --> 00:13:26,059
+And we end up winning it right here.
+
+209
+00:13:26,059 --> 00:13:28,059
+Yeah, we win it.
+
+210
+00:13:28,059 --> 00:13:31,059
+But anyways, stay tuned for tomorrow
+
+211
+00:13:31,059 --> 00:13:34,059
+because tomorrow is going to be a big day, guys.
+
+212
+00:13:34,059 --> 00:13:38,059
+If you're watching this tomorrow, then hello, welcome to today.
+
+213
+00:13:38,059 --> 00:13:41,059
+And I hope you enjoy my new video that's coming out.
+
+214
+00:13:41,059 --> 00:13:43,059
+Take care, guys.

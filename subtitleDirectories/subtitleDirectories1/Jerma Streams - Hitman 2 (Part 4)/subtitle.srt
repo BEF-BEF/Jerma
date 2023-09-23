@@ -1,0 +1,3535 @@
+1
+00:00:01,080 --> 00:00:13,820
+Hey, pay no attention to all the drop frames right now. Don't worry about that. It's because
+
+2
+00:00:14,619 --> 00:00:21,960
+I had to re-download all of the DLC again. Remember I came in here and I was like,
+
+3
+00:00:21,960 --> 00:00:24,839
+hey no, it looks like that wasn't the problem. I was too embarrassed to come back and tell you
+
+4
+00:00:24,839 --> 00:00:32,950
+that that's what was happening. So I had to re-download the DLC. And I was like,
+
+5
+00:00:32,950 --> 00:00:40,200
+no, it's all good. I didn't have to do that. I restarted Steam and the download started again.
+
+6
+00:00:40,200 --> 00:00:46,179
+So we have about two minutes before I can open Hitman 2. I was like, should I come in there?
+
+7
+00:00:46,179 --> 00:00:52,070
+Are people going to laugh at me when I tell them this? Probably. Why am I using so much CPU right
+
+8
+00:00:52,070 --> 00:01:05,689
+now? Hitman's not even open. Why am I dropping so many? What? Hold on. What's going on with my
+
+9
+00:01:05,689 --> 00:01:22,859
+computer? I'm at 50% CPU. I'm not doing anything. Hold on a second. Oh, this is not... Watch me
+
+10
+00:01:22,859 --> 00:01:29,140
+burn out my CPU. No, and now I'm going to have Hitman open when I'm already at 50%.
+
+11
+00:01:30,420 --> 00:01:35,909
+Is it... Am I installing a Windows update? Oh, it's because it's installing Hitman. That takes CPU?
+
+12
+00:01:37,739 --> 00:01:45,379
+No, it doesn't. That uses HDD. That uses hard disk drive. That doesn't use that much CPU, does it?
+
+13
+00:01:51,689 --> 00:02:01,189
+HDD in 2019. You think I got any moving parts in this thing? I got all SD. That's how you know
+
+14
+00:02:01,189 --> 00:02:10,550
+that was a funny lie. HDD. But I'll give you... I'm going to refill this. I'm going to get some
+
+15
+00:02:11,189 --> 00:02:16,460
+good stalling content here. You know, I got to refill this water. So, you know, let me just stall
+
+16
+00:02:16,460 --> 00:02:21,020
+for like another 45 seconds. All right. I've got to tweet it too. Didn't tweet. We're going to do
+
+17
+00:02:21,020 --> 00:02:25,939
+the Hitman 2 DLC. No, no. Wait, wait, wait. Let's talk for a minute before I go do that.
+
+18
+00:02:26,919 --> 00:02:33,159
+So today is the day before TwitchCon. And some might say that TwitchCon actually starts today.
+
+19
+00:02:34,039 --> 00:02:41,000
+So this is the last stream you're going to see from me until I am back from TwitchCon. A lot
+
+20
+00:02:41,000 --> 00:02:48,199
+of moving around here the last week, the last two weeks of September. So this stream is only going
+
+21
+00:02:48,199 --> 00:02:53,000
+to be a few hours long. We're going to do the Hitman 2 DLC campaigns. I have not done the last
+
+22
+00:02:53,000 --> 00:02:59,639
+one. So we'll see how long that takes. After that, I got to go. There's still a few things
+
+23
+00:02:59,639 --> 00:03:06,620
+that I have to take care of before getting on another plane and leaving for four days.
+
+24
+00:03:06,620 --> 00:03:12,780
+Technically three, right? Whatever it is. But give me one second. I'm going to fill this drink up
+
+25
+00:03:13,419 --> 00:04:29,319
+and then we'll play Hitman 2. Be right back. And I'm going to tweet that. See you in a minute.
+
+26
+00:04:29,319 --> 00:04:36,889
+Yeah, yes, I've seen the new Twitch. I made this reference earlier, but I'm going to make it again.
+
+27
+00:04:36,889 --> 00:04:49,579
+It is the World of Warcraft chat. Especially when you go into all caps. I don't know what
+
+28
+00:04:49,579 --> 00:04:57,670
+the wow chat is. Whatever. I'm of the opinion. Why on earth would you ever under any circumstance?
+
+29
+00:04:57,670 --> 00:05:01,110
+And I'm not talking about Twitch. I'm just saying ever in general. Why are there so many fonts?
+
+30
+00:05:03,750 --> 00:05:11,430
+12 to 14 point Helvetica is the only thing there should be. Why would there ever be another font?
+
+31
+00:05:13,860 --> 00:05:20,259
+Do we need 16, 17, 1800? How many fonts are there? 1800? How many fonts exist?
+
+32
+00:05:22,279 --> 00:05:37,350
+It's probably thousands of them. What's the point? There are millions of fonts. Why is it?
+
+33
+00:05:37,350 --> 00:05:45,800
+There are only three fonts that should exist. Reading things clearly. Birthday card.
+
+34
+00:05:46,600 --> 00:05:55,930
+You can be fun with that one. Birthday card. That's it. I can't think of another reason to
+
+35
+00:05:55,930 --> 00:06:04,329
+ever have another font. There's no other reason for other fonts besides those two.
+
+36
+00:06:07,399 --> 00:06:13,300
+Alright, rip Times New Roman. No, that one doesn't even have to exist either.
+
+37
+00:06:19,540 --> 00:06:26,279
+This should not be more fonts than there are serial brands. Something about that is not correct.
+
+38
+00:06:28,629 --> 00:06:33,509
+They can't even figure out how to make cornflakes fucking 500 times. They've only made it like 30
+
+39
+00:06:33,509 --> 00:06:42,310
+times. How can you? How do you make the letter H look six million times different than the last
+
+40
+00:06:42,310 --> 00:06:53,689
+time you made it? You can't. It's just three lines. It's one, two, three lines. Anyways,
+
+41
+00:06:53,689 --> 00:06:59,689
+before I get all worked up, I'm going to play Hitman now. I have the audio muted so you
+
+42
+00:06:59,689 --> 00:07:11,399
+shouldn't be able to hear it. It shouldn't hurt your ears. Make my own font. It would just be,
+
+43
+00:07:11,480 --> 00:07:17,060
+it would be just a few lines. Wait, you shouldn't be able to hear this.
+
+44
+00:07:17,699 --> 00:07:29,180
+Hold on, not yet. Hold on. Not yet. Now I have to do this fun thing where, oh god, where's my mouse?
+
+45
+00:07:29,740 --> 00:07:35,899
+Why is the window staying open? Close that, please. Don't turn off my computer. Okay, we'll go
+
+46
+00:07:35,899 --> 00:07:44,730
+starting, starting strong here. Okay, here we go. Get that off. Just give me one moment. Nice
+
+47
+00:07:44,730 --> 00:07:56,329
+transition there. I have to get this captured. Let's get it. Do not capture Goose Game. I want
+
+48
+00:07:56,329 --> 00:08:04,040
+Hitman 2 done. There we are. You thought it was going to take me longer. It may have.
+
+49
+00:08:04,920 --> 00:08:10,439
+All right, I got the DLC installed. Hopefully it works. Otherwise, I'm going to be very sad.
+
+50
+00:08:15,139 --> 00:08:23,129
+Stop sweating and turn on face cam. Though, cut my nails though. I did do that. Those of you that
+
+51
+00:08:23,129 --> 00:08:31,620
+were yelling at me last night at the end of that stream, I appreciate it. So this two DLC
+
+52
+00:08:31,620 --> 00:08:42,809
+campaigns, those two missions that I haven't done, right? Campaign, Hitman 2. I did all these
+
+53
+00:08:42,809 --> 00:08:55,590
+already. So golden handshake and the last resort. All right. Remember to shave? Already did. You
+
+54
+00:08:55,590 --> 00:09:03,179
+don't think I was already on top of that? I had to shave to the minute that the Twitch party is
+
+55
+00:09:03,179 --> 00:09:09,769
+going to start on Saturday. I shaved at exactly 7 30 p.m. last night. That's a lie because I was
+
+56
+00:09:09,850 --> 00:09:16,230
+still live. When did the stream end? Like 8 30 p.m. Pacific? That's when the Twitch party starts.
+
+57
+00:09:16,230 --> 00:09:22,059
+It's going to grow out. When I'm in like the Uber to get there, it is going to be perfectly
+
+58
+00:09:22,059 --> 00:09:31,450
+grown out. The last second when I step out of that cab, perfectly grown. So this one is brand new.
+
+59
+00:09:31,450 --> 00:09:38,330
+This one is not. This one is probably like a few months old. By the way, those of you that are
+
+60
+00:09:38,330 --> 00:09:45,740
+going to laugh at me for this, I have not played Hitman since the last time I streamed it. I don't
+
+61
+00:09:45,740 --> 00:10:02,820
+even remember how to play. So that's going to be a thing. Bad, bad. I haven't played it in like a
+
+62
+00:10:02,820 --> 00:10:28,980
+year. I forget what happened. This is a whole game here.
+
+63
+00:10:33,539 --> 00:10:34,740
+Yeah, I'll turn the volume up in a second.
+
+64
+00:10:40,659 --> 00:10:42,419
+I have to pay attention to this, though.
+
+65
+00:10:51,799 --> 00:10:56,059
+That's Troy Baker. That's Troy Baker, right?
+
+66
+00:11:03,399 --> 00:11:07,639
+You can always tell when it's Troy Baker because he elongates words.
+
+67
+00:11:16,649 --> 00:11:19,370
+I'm not nearly as talented as Troy Baker. I'm just telling you.
+
+68
+00:11:23,350 --> 00:11:24,070
+All right, let's go.
+
+69
+00:11:32,789 --> 00:11:36,070
+You don't need to tell us. I'm just telling you.
+
+70
+00:11:36,549 --> 00:11:55,590
+I'm going to pay. Look, I got to pay attention. I can go through the basement, right?
+
+71
+00:11:55,590 --> 00:12:06,549
+Right. So I've got to get three flash drives.
+
+72
+00:12:08,789 --> 00:12:13,909
+And then they combine. I'm going into the basement.
+
+73
+00:12:13,909 --> 00:12:30,059
+Okay, give it to me clear. Break into the vault, get the hard drive rack, and get rid of the director.
+
+74
+00:12:36,139 --> 00:12:43,929
+Okay, break into the hard drive, steal the bank, break into the... All right, break the director,
+
+75
+00:12:44,570 --> 00:12:57,799
+steal the bank, eliminate Athena Savalas. Mission is now active. How do you swing?
+
+76
+00:12:58,519 --> 00:13:05,850
+I think it's a Q. Sound is too low. I got it. I got it. I got it. Hold on.
+
+77
+00:13:15,019 --> 00:13:23,529
+QRS. Okay, objective. Target Athena Savalas, retrieve the data, and exit the bank.
+
+78
+00:13:24,169 --> 00:13:32,840
+I got to get the data. Difficulty professional. That has to change. Wait, no,
+
+79
+00:13:32,840 --> 00:13:36,200
+that's what I played on before, right? Okay, I'm going to be the New Yorker.
+
+80
+00:13:36,200 --> 00:13:53,100
+Don't I have any DLC suits? Why is this taking so long? Should I just go for... All right,
+
+81
+00:13:53,100 --> 00:13:59,399
+I'm going to go into the winter sports suit, I think. I won't look out of place at all.
+
+82
+00:14:00,039 --> 00:14:09,610
+Okay, coin. That's good. My concealed weapon is my ICA-19. That looks all right. Starting location
+
+83
+00:14:09,610 --> 00:14:16,340
+bank entrance. I think I'm ready to go. Pray for my CPU, because the last time I played this game,
+
+84
+00:14:16,340 --> 00:14:20,700
+it was all fucked up. Difficulty master. No, wait, wait, wait, wait.
+
+85
+00:14:20,700 --> 00:14:25,580
+Professional. Okay, here we go. And I'm going to turn it up a little bit louder.
+
+86
+00:14:26,299 --> 00:14:48,919
+That should do it. Hey, now you can hear. Let's go. I forget. What's the plan?
+
+87
+00:14:49,960 --> 00:14:55,720
+Welcome to New York, 47. I'll get it again. Milton Fitzpatrick Bank is open for business,
+
+88
+00:14:55,720 --> 00:15:00,759
+but it seems there's some sort of investigation underway. Expect increased security.
+
+89
+00:15:02,409 --> 00:15:07,129
+Your target, Director Athena Savalas, can be found in her top floor office,
+
+90
+00:15:07,129 --> 00:15:10,330
+overlooking the iconic... Stop chugging. What are you talking about?
+
+91
+00:15:10,330 --> 00:15:15,610
+Head of security, Mateo Perez, is roaming between the vault area and the teller hall.
+
+92
+00:15:15,610 --> 00:15:20,490
+What are you talking about? What? And head of accounts, Fabian Mann,
+
+93
+00:15:20,490 --> 00:15:24,409
+can be found on the investment banker floor... What, am I dropping a shitload of frames?
+
+94
+00:15:24,409 --> 00:15:26,809
+...driving the internal investigation. That shouldn't be happening.
+
+95
+00:15:27,529 --> 00:15:30,730
+Remember, we need to secure the data from the bank's reinforced vault.
+
+96
+00:15:30,730 --> 00:15:34,889
+This is a lie. Or, alternatively, acquire three hard drives...
+
+97
+00:15:34,889 --> 00:15:38,649
+I'm supposed to pay attention to this. ...and two lieutenants, Mann and Perez.
+
+98
+00:15:38,649 --> 00:15:40,809
+Now I lost everything. Good luck, 47.
+
+99
+00:15:41,690 --> 00:16:01,139
+Hold on. Are you guys actually fucking with me? Oh no. Oh no. You weren't. Were you?
+
+100
+00:16:01,940 --> 00:16:08,649
+I have to keep this out. They didn't see this. Oh shit. All right. God damn it.
+
+101
+00:16:09,450 --> 00:16:20,600
+Why does my computer have to suck so bad? All right. What do I... Let me save it.
+
+102
+00:16:24,460 --> 00:16:27,960
+Manual save slot. How about... None of these matter. This one right here.
+
+103
+00:16:30,299 --> 00:16:40,019
+Okay. Eliminate Athena Savalas and obtain the data. You got it. I need to... I don't remember how to
+
+104
+00:16:40,019 --> 00:16:59,080
+play. That's Q. Retrieve vault data core. Three of them. Okay.
+
+105
+00:16:59,080 --> 00:17:10,970
+Those of you that are wondering why I did this, I'm making sure my CPU can handle it.
+
+106
+00:17:11,769 --> 00:17:31,109
+Okay. I can handle it. Maybe... No, it can't. It can't handle it? It wasn't silky smooth?
+
+107
+00:17:34,759 --> 00:17:54,900
+Wait. That wasn't silky smooth? What? God damn it. No! I have to...
+
+108
+00:17:56,630 --> 00:18:00,630
+Hold on. Hold on a second. I might have to restart the stream.
+
+109
+00:18:07,609 --> 00:18:23,059
+Can I do that during the stream? Hold on a minute. Shit. Shit. Shit. Shit. Shit. Damn it. No.
+
+110
+00:18:24,339 --> 00:18:29,380
+It's because... I have to restart the stream. All right. I'll be right... I'll be right back.
+
+111
+00:18:29,380 --> 00:18:39,140
+It's because when I... Last time I played a console game, I turned my CPU preset down and shit. I'll
+
+112
+00:18:39,140 --> 00:18:51,460
+be right back. Like in 10 seconds. All right. We're good. We're good, right? I think we're good.
+
+113
+00:18:52,539 --> 00:19:09,980
+Hey. How's everybody doing? Did it work? Confirm with me that this worked. Yes, it did it. Yeah.
+
+114
+00:19:09,980 --> 00:19:15,900
+I have my CPU preset so fucking high. So low, I mean. All right. Okay. Hopefully not a thousand
+
+115
+00:19:15,900 --> 00:19:27,990
+of you left. You probably did. But now we're silky smooth. We should be. I left. All right.
+
+116
+00:19:27,990 --> 00:19:32,069
+Hold on. I got to do this too. Like, I'm sorry guys, but like this is... My computer sucks.
+
+117
+00:19:33,190 --> 00:19:37,509
+It really shouldn't suck this much. Do I have to take tech... All right. I'm going to take this
+
+118
+00:19:37,509 --> 00:19:46,019
+down to two. I just got this computer. I got a 1080 in here. That's not good anymore, is it?
+
+119
+00:19:46,019 --> 00:19:54,619
+Shit. That's not good anymore. That's like not good at all anymore. I have a 4770K. That's good,
+
+120
+00:19:54,619 --> 00:20:00,140
+right? No, I don't. What do I have? Somebody do hash... Somebody turn on exclamation point.
+
+121
+00:20:01,259 --> 00:20:05,339
+Whatever the... Hold on. The 60... I know what it is. Quiet!
+
+122
+00:20:19,450 --> 00:20:28,950
+I'm sorry. Why is this stuttering so much? Have a good day. Okay. Hold on a minute here. Ruby Red,
+
+123
+00:20:28,950 --> 00:20:34,549
+famous month-breaking investigative journalist, is in the bank. Known for her fierce skills at
+
+124
+00:20:34,549 --> 00:20:39,269
+digging up dirt and her excellent nose for scandal. She's definitely up to something.
+
+125
+00:20:39,269 --> 00:20:44,549
+She's up to something. Might be worth following her around the bank, 47. Okay. Let's see where she
+
+126
+00:20:44,549 --> 00:20:55,640
+goes. Investigate Ruby Red. All right. Why is that happening now? Teddy, it's me. I'm at the bank now.
+
+127
+00:20:55,640 --> 00:21:02,660
+This game fucking hates my computer. Somebody called it too. Don't you dare dump this story,
+
+128
+00:21:02,660 --> 00:21:09,660
+Ted. I will find that report. Oh, she's listening. I'm sorry. I'm not interrupting your phone call.
+
+129
+00:21:09,660 --> 00:21:28,490
+I'm testing my stream settings. Don't you dare dump this story, Ted. I'm the story of the year.
+
+130
+00:21:28,490 --> 00:21:34,359
+Director Ceballos has been at extreme recklessness and the public deserve to know that. My informant
+
+131
+00:21:34,359 --> 00:21:37,960
+will come through. Just make sure... I look like such a fucking idiot right now.
+
+132
+00:21:38,759 --> 00:21:40,440
+I'm doing v-sync. That's right.
+
+133
+00:21:44,309 --> 00:21:47,910
+Okay. Stocks are gonna plummet. They actually fixed everything.
+
+134
+00:21:55,559 --> 00:21:59,559
+I'm so out of place. All right. Email the documents. Investigate. I gotta investigate
+
+135
+00:21:59,559 --> 00:22:01,640
+the whistleblower. Wait, was that the person she was on the phone with?
+
+136
+00:22:05,660 --> 00:22:13,559
+Why were you talking on the phone? I can't get in there. All right. Hold on. I gotta get a suit.
+
+137
+00:22:13,559 --> 00:22:16,039
+Yeah, I can't let you pass. I'm sorry, sir. All right. Let me...
+
+138
+00:22:17,000 --> 00:22:23,990
+All right. You got a good cop, bad cop routine going. Appreciate it. Wait, I don't want to get on
+
+139
+00:22:23,990 --> 00:22:37,609
+camera. All right. Let me see the map. We got a bathroom. Lost and found. All right. Let me...
+
+140
+00:22:38,650 --> 00:22:44,329
+I don't know what to do with the bat. I don't know what to do. I need a new... I can't be a guy in...
+
+141
+00:22:44,329 --> 00:22:55,289
+I got the corner of my foot touched that. What? Oh, because I picked this up. I picked up...
+
+142
+00:22:55,289 --> 00:23:03,450
+How do I put it down? I didn't do that. I had nothing to do with that.
+
+143
+00:23:05,130 --> 00:23:12,329
+Look, it's obviously a wet floor. I didn't kill anybody. How do I put this down?
+
+144
+00:23:19,049 --> 00:23:23,500
+Hold on. Wait. I can go over here now. This is the security check. I just got it.
+
+145
+00:23:24,460 --> 00:23:33,990
+Let's go. Wait. Do I have the door lock on? Unlocker. All right. There's another cop up there,
+
+146
+00:23:33,990 --> 00:24:07,220
+though. I got to get the janitor. I got to find somebody. Somebody over there. Where am I? Okay.
+
+147
+00:24:18,619 --> 00:24:30,680
+Why do I care more about this in the game? Wait. How do I get to my...
+
+148
+00:24:31,400 --> 00:24:41,670
+How do I get to my... I don't know how to get to my inventory. How do I get to the inventory?
+
+149
+00:24:45,430 --> 00:24:54,490
+What the fuck was that? Did somebody puke? Who just puked? There's a Q. It's not Q. You want me
+
+150
+00:24:54,490 --> 00:25:05,109
+to punch somebody. Which mouse button is it? E. Space. Middle mouse. No, that's gun. R. S.
+
+151
+00:25:09,289 --> 00:25:25,319
+I. No, but how do I get the fast one? Tab? V. It's not V. Scroll wheel. It's not scroll wheel.
+
+152
+00:25:25,880 --> 00:25:40,579
+Hold on. Mouse and keyboard. Key bindings. Interact. Agility actions. Pick up. Use items G.
+
+153
+00:25:41,910 --> 00:25:48,869
+Aim. Shoot. Reload. Instinct. Camera. Shoulder. Crouch. Holster. Precision aim. Zoom in. Zoom out.
+
+154
+00:25:49,430 --> 00:26:00,380
+Holster. Inventory. I. Isn't there a spinner? Font change. Am I thinking of a different hitman?
+
+155
+00:26:06,619 --> 00:26:11,670
+Okay. So, all right. That's a different hitman. All right. I need to go investigate. I need a
+
+156
+00:26:11,670 --> 00:26:24,309
+different clothes. How long does it take for a janitor to come in here? You? Thank you. No.
+
+157
+00:26:24,309 --> 00:26:54,009
+It's I too. All right. Just investigating distraction. Who is? I forgot. How stupid this
+
+158
+00:26:54,009 --> 00:27:07,210
+game is. Okay. I need to investigate the whistle. I need somebody's outfit. Can I put my back against
+
+159
+00:27:07,210 --> 00:27:11,690
+the wall and do like the knock knock solid snake thing? All right. Hold on. Wait. I got an idea.
+
+160
+00:27:11,690 --> 00:27:23,750
+Somebody just get the fuck in here. See? I told you. Janitor. Janitor. Janitor. Janitor. Janitor.
+
+161
+00:27:24,309 --> 00:27:51,400
+Good to go. Damn. Janitor. Okay. Fresh disguise. What else you got? Coin. Come here. Can I fit
+
+162
+00:27:51,400 --> 00:28:02,490
+two people in here? Yeah. We got a raid? Tyler Vic Vicker. Thanks for the raid. Welcome guys.
+
+163
+00:28:03,210 --> 00:28:07,849
+Playing Hitman. DLC. I'm trying to relearn how to play the game because I don't know how to play it.
+
+164
+00:28:08,890 --> 00:28:12,410
+I do this thing where I don't ever put me on a bicycle because you know like oh once you
+
+165
+00:28:12,410 --> 00:28:16,089
+learn how to ride a bike you'll know how to do it forever. No, I won't. If I got on a bike right
+
+166
+00:28:16,089 --> 00:28:20,329
+now I learned how to ride a bike when I was like 10. If I got on a bike right now I would fall over.
+
+167
+00:28:21,049 --> 00:28:32,099
+All right. So I'm good. I'm the janitor. So now I have to end. What's going on?
+
+168
+00:28:33,269 --> 00:28:52,299
+Why is it illegal for the janitor to be up here? God damn it. Why is it? What's wrong with this guy?
+
+169
+00:28:52,299 --> 00:28:56,460
+Why does he hate me so much? All right. Wait. There's something else going on.
+
+170
+00:28:59,740 --> 00:29:00,460
+What's this story?
+
+171
+00:29:08,619 --> 00:29:11,180
+Nerves maybe? Oh wait. Hold on. So the job interview.
+
+172
+00:29:12,710 --> 00:29:16,859
+Final applicant was seen going into the bathroom. Yeah. Okay. Where is it?
+
+173
+00:29:17,740 --> 00:29:30,579
+Thanks. I want to do that instead. Wait. Can I blend in with a mop? What's this thing?
+
+174
+00:29:31,380 --> 00:29:50,950
+There's earphones on this desk. Save. Save it. Save it right here. Manual save. Hey stop this
+
+175
+00:29:50,950 --> 00:30:01,480
+ridiculous behavior at once. I'm sorry. I just want the earphones. I got them. Free earphones.
+
+176
+00:30:01,480 --> 00:30:03,640
+All right. Let's go back to the guy that's thrown up here.
+
+177
+00:30:12,150 --> 00:30:22,680
+Where is this? Wait. He was in here? Oh I have to. The door is locked. Oh I get it. Okay.
+
+178
+00:30:24,039 --> 00:30:43,509
+How do I knock on the door? Is he going to come out? I got to be ready for him when he comes out.
+
+179
+00:30:46,970 --> 00:30:55,799
+When he comes out. Should I? Is this the exit? How do I get in there?
+
+180
+00:30:59,700 --> 00:31:01,940
+Oh this is still flooding. Is there a way to? Wait.
+
+181
+00:31:12,890 --> 00:31:15,930
+I need to get in this bathroom. Oh this is bad. I don't want to do that.
+
+182
+00:31:19,930 --> 00:31:28,410
+I'm fucking ruining this bathroom. Is anybody in here? Knock knock.
+
+183
+00:31:29,049 --> 00:31:37,109
+I need to unlock this door. Doesn't the janitor have every single key?
+
+184
+00:31:37,750 --> 00:31:46,970
+I thought that was the thing. Shoot him through the door and then I would never get in.
+
+185
+00:31:46,970 --> 00:32:02,740
+No. I need a I need a key. Like a security. I need a security key. I'm kind of just collecting
+
+186
+00:32:02,740 --> 00:32:10,549
+stuff. All right. Wait. Hold on. Soda can. Nice. Okay. This is not Skyrim. I don't know why I'm
+
+187
+00:32:10,549 --> 00:32:13,589
+picking up all this useless shit. Could I take this guy's coffee when he puts it down?
+
+188
+00:32:14,390 --> 00:32:26,380
+I'm waiting. All right. I need that guy right there. I need a new outfit. I have to get in that
+
+189
+00:32:26,380 --> 00:32:58,789
+room. Can I open the door with the crowbar? I'll try it. Don't you dare.
+
+190
+00:33:01,450 --> 00:33:05,819
+I have too much stuff. I got to disguise as the applicant. Does he have a key card?
+
+191
+00:33:06,460 --> 00:33:19,130
+I'm gonna get um. Is there enough room in here? Put his face in the toilet. You guys are fucked
+
+192
+00:33:19,130 --> 00:33:37,750
+up. Look at the toilet. T.O.S. I'm just gonna turn this off. I don't need it anymore.
+
+193
+00:33:38,309 --> 00:33:50,460
+All right. I now approach the reception. I'm the applicant for the work for the job.
+
+194
+00:33:52,569 --> 00:34:03,529
+That's the target up there. I'm like to the interview. Feeling better I hope.
+
+195
+00:34:03,529 --> 00:34:10,489
+Should I let HR know you're ready for the final interview? Yes. I feel like a new man. I'm ready.
+
+196
+00:34:10,489 --> 00:34:19,320
+Wonderful. Follow me please. It's right down here. Best of luck in your interview 47.
+
+197
+00:34:19,400 --> 00:34:29,130
+I thought that was her. All right. Follow you. I hate when they do this shit in MMOs.
+
+198
+00:34:30,090 --> 00:34:33,369
+I don't want to walk faster than the NPC. I want to walk with the NPC.
+
+199
+00:34:35,449 --> 00:34:40,039
+Like why is there no match speed? This is the interview.
+
+200
+00:34:48,730 --> 00:34:55,960
+I bring my lucky wrench to interviews apparently. Mr. Thomas. Okay. Let's sit down.
+
+201
+00:35:01,239 --> 00:35:01,559
+Cool.
+
+202
+00:35:13,800 --> 00:35:16,440
+I'm sorry. I'm sorry. Can we do the interview still?
+
+203
+00:35:18,889 --> 00:35:29,050
+Did I get the job? Did I get the job? Oh shit. Okay. Oh my god.
+
+204
+00:35:29,050 --> 00:35:56,409
+I'm just doing my job. That's all. How is somebody not figuring this out?
+
+205
+00:35:56,969 --> 00:36:30,010
+Wait. Let's go. Like you'll ever get me. These games are fucking so funny.
+
+206
+00:36:30,010 --> 00:36:34,329
+Best of luck in your interview 47. Let's see where this will lead you to.
+
+207
+00:36:34,329 --> 00:36:42,469
+All right. I'm going to get stuck here I think. I don't want to get seen by the camera.
+
+208
+00:36:47,000 --> 00:36:56,090
+Shh. God damn it. I got seen. Press alt. Why? Alt?
+
+209
+00:37:01,800 --> 00:37:03,000
+Okay. I'm ready for the interview.
+
+210
+00:37:09,480 --> 00:37:09,800
+Oh.
+
+211
+00:37:18,840 --> 00:37:19,800
+Personality test.
+
+212
+00:37:20,360 --> 00:37:24,119
+Kick this off. Okay. I'm ready. Okay. So this is a very simple test.
+
+213
+00:37:24,679 --> 00:37:27,880
+All you do is pick a card and tell us what you see there.
+
+214
+00:37:27,880 --> 00:37:30,920
+Now it's important to point out that there are no right or wrong answers.
+
+215
+00:37:30,920 --> 00:37:35,320
+Clearly me. It's just to give us a better impression of who you are on a psychological level.
+
+216
+00:37:35,960 --> 00:37:38,280
+Does that make sense? Why would they be doing this?
+
+217
+00:37:38,280 --> 00:37:43,079
+All right. Mr. Thomas. Did you see my resume? If you will please pick the card.
+
+218
+00:37:43,079 --> 00:37:47,400
+I want the brown university. God damn it. Opportunity. Opportunity.
+
+219
+00:37:49,750 --> 00:37:57,139
+Now here's the fucking 500 IQ play. You know, the Forbes magazine over there.
+
+220
+00:37:57,860 --> 00:38:01,099
+They're going to be like, wait a minute. That wasn't part of the plan.
+
+221
+00:38:03,500 --> 00:38:11,590
+Oh, I understand. He went completely out of the box. Opportunity. I don't know. This one.
+
+222
+00:38:12,150 --> 00:38:17,929
+No, this one. This one. All right. Now look at it closely. Take a few moments.
+
+223
+00:38:18,650 --> 00:38:26,010
+Then tell me, do you see an animal or an object? It's clearly a bird. I see. What kind of animal? An eagle bird.
+
+224
+00:38:26,730 --> 00:38:33,659
+An eagle perhaps. Eagle. Very interesting. A forceful animal. Anything else? It's
+
+225
+00:38:34,699 --> 00:38:42,699
+feeding on something. Feeding on what? A carcass. The scene is reflected in a pool of blood
+
+226
+00:38:42,699 --> 00:38:48,139
+flowing from the body. Okay. It's a vulture feeding on someone else's kill.
+
+227
+00:38:48,300 --> 00:38:56,679
+This is for a bank clerk job? Mr. Thomas. Yes. Brutal even. Right. Very interesting observation,
+
+228
+00:38:56,679 --> 00:39:03,239
+Mr. Thomas. Not what we expected, but that's perfectly fine. Let's take the next one, shall
+
+229
+00:39:03,239 --> 00:39:08,840
+we? The next one. Pick any of the remaining cards that make you think of execution, please.
+
+230
+00:39:09,559 --> 00:39:14,679
+I mean, it obviously is going to be the one with the Hitman 47 with his two pistols,
+
+231
+00:39:14,840 --> 00:39:20,300
+but this could also be one. I'm not going to go for the easy one.
+
+232
+00:39:20,300 --> 00:39:27,719
+Oh, very good. This is an interesting one. What do you see here? Take in the whole image, please.
+
+233
+00:39:27,719 --> 00:39:33,960
+And in as much detail as possible. It's a river. It's a river with rocks all around it. Or it's
+
+234
+00:39:33,960 --> 00:39:41,190
+a stone head. I see a big pile of money earned performing questionable actions.
+
+235
+00:39:41,190 --> 00:39:45,750
+And how do you feel about that? I'm trying to just completely bomb this interview.
+
+236
+00:39:46,469 --> 00:39:52,550
+Very good, Mr. Thomas. Well, that's a very creative interpretation, Mr. Thomas.
+
+237
+00:39:53,190 --> 00:39:56,789
+I think we've just got time for the last card. Please proceed.
+
+238
+00:39:57,510 --> 00:40:01,030
+This last card should hopefully make you think of prosperity.
+
+239
+00:40:05,190 --> 00:40:10,780
+So my experience in the banking world, I was a teller at Bank of America for four years.
+
+240
+00:40:11,420 --> 00:40:15,670
+I've handled money for a lot. You don't care about that?
+
+241
+00:40:15,750 --> 00:40:22,679
+Whenever you're ready. Okay, sure. I'll pick the card. I'll pick this one.
+
+242
+00:40:22,679 --> 00:40:26,280
+Good choice. Tell me, what is the first thing you've seen?
+
+243
+00:40:26,280 --> 00:40:34,039
+I've also been I've handled gold before and figure in a large coat. Perspective skewed
+
+244
+00:40:34,039 --> 00:40:42,230
+as if I'm looking at him from the ground. He's got something in his hands. I go on. He's on
+
+245
+00:40:42,230 --> 00:40:49,349
+dual firearms, large caliber pistols. I see. What else do you see? He's just finished a job
+
+246
+00:40:49,349 --> 00:40:56,949
+perfectly executed. And who is this man? It's me. Very, very interesting, Mr. Thomas.
+
+247
+00:40:56,949 --> 00:41:03,510
+Well, that was certainly unexpected. I think the results are pretty clear. Did I get it?
+
+248
+00:41:03,510 --> 00:41:09,750
+We don't have the perfect match for the investment banker position. However, you're just the man we
+
+249
+00:41:09,750 --> 00:41:14,550
+need for our accounting department. I have to agree with Kevin here. We need someone a little
+
+250
+00:41:14,550 --> 00:41:21,510
+more cutthroat for the top tier here. This is when they lean in and wink. It's really dive into
+
+251
+00:41:21,510 --> 00:41:27,989
+character as it were. But on a positive note, I want you to wink wink. I want you to beat the
+
+252
+00:41:27,989 --> 00:41:32,949
+shit out of people I don't like. Great point, Melissa. There's no need to turn this little
+
+253
+00:41:32,949 --> 00:41:38,150
+setback into a complete failure. Someone with your particular set of skills would be perfect.
+
+254
+00:41:38,150 --> 00:41:41,909
+I'll take it. When do I start? Well, aren't you an eager beaver?
+
+255
+00:41:42,630 --> 00:41:46,230
+Well, we expect you to come in tomorrow at eight. Welcome on board, Mr. Thomas.
+
+256
+00:41:47,510 --> 00:42:03,849
+Oh, I got it. Oh, I did it all correct. I didn't even mean to. I did it. Now what? They're both
+
+257
+00:42:03,849 --> 00:42:15,059
+just leaving their office? Okay, bye. Time to rifle through your desk. Okay, cool. Close this
+
+258
+00:42:15,059 --> 00:42:20,940
+shit. Turn the lights off too. Let's make it atmospheric. No, close. Okay, quickly. What do
+
+259
+00:42:20,940 --> 00:42:27,019
+I got? Coffee. We got something in your desk. Your computer. Hack his computer. Take his pen.
+
+260
+00:42:27,019 --> 00:42:33,369
+What should I do here? What should I do? It's a bust of his head, I think. Okay.
+
+261
+00:42:34,820 --> 00:42:42,869
+Nothing else. Well, I got the job. What are you talking about? I got the job.
+
+262
+00:42:43,510 --> 00:42:57,289
+Restart. What? I got the... Didn't I get the job? They gave me the wrong job. That's a win, man.
+
+263
+00:42:58,090 --> 00:43:14,150
+It was me. It was me.
+
+264
+00:43:22,949 --> 00:43:25,269
+Wait, hold on. Are they... I thought they were going to...
+
+265
+00:43:43,590 --> 00:43:53,769
+All right, so I did it wrong? That's too... That's too... I saved over it. No? Okay, right here.
+
+266
+00:43:54,329 --> 00:44:09,289
+There's an auto save that saved me. Tell me what this reminds you of.
+
+267
+00:44:09,289 --> 00:44:24,679
+Okay. No, wait. I can't... I screwed it up, guys. I saved over. I thought I got the job. I thought
+
+268
+00:44:24,679 --> 00:44:41,820
+I got a job. I thought I got a job. I didn't get the job. I got a job. Go further back? But then I
+
+269
+00:44:41,820 --> 00:44:52,230
+look at how far back this is. I'm gonna get distracted. All right, I'll try. I'll try. I'm
+
+270
+00:44:52,230 --> 00:45:03,940
+gonna try it. I'm gonna go very... I'm gonna go very, very fast. Oh, god. I need another... Okay,
+
+271
+00:45:03,940 --> 00:45:10,860
+I need the bathroom. I need crowbar. I need bathroom. I don't even... I don't remember... I
+
+272
+00:45:10,860 --> 00:45:21,699
+don't remember how I got in there. I gotta watch out, though. All right. Well, let's go down here.
+
+273
+00:45:24,139 --> 00:45:39,719
+Make the guy fall again. I can't just relive the whole thing. What is this? No. I'm too stressed.
+
+274
+00:45:40,599 --> 00:46:03,690
+I'm not stressed. What are you talking about? These guys have guns. I'm getting inside my own...
+
+275
+00:46:03,690 --> 00:46:17,030
+Where's the bathroom here? All right. This guy right here. Bathroom. You're not allowed to go
+
+276
+00:46:17,030 --> 00:46:36,219
+in there, right? You're allowed to go... Is this like public space? No. Okay. What? It's a zoo?
+
+277
+00:46:36,780 --> 00:46:40,940
+All right. This way. I need to find the... There we go. Wet floor sign. This is the part I remember.
+
+278
+00:46:45,769 --> 00:46:57,260
+It's gonna happen. Here it comes. She absorbed all the water. She absorbed the water.
+
+279
+00:47:03,110 --> 00:47:09,610
+She must be so... She's just like... She's soaking.
+
+280
+00:47:10,900 --> 00:47:13,860
+Not why they're looking for me. I told you this wasn't gonna work.
+
+281
+00:47:14,659 --> 00:47:27,800
+Create a water leak. All right. What about over here?
+
+282
+00:47:33,539 --> 00:47:41,900
+There's the janitor. Money out of the ATM? Hold on. Is this like free money?
+
+283
+00:47:42,699 --> 00:47:56,739
+Why is it a slot machine? You just gotta know what you're doing. That's all.
+
+284
+00:47:57,300 --> 00:48:15,929
+Yes. That guy said yes. It is a slot machine. Okay. Here we go. What's up? Shit. Get out of here.
+
+285
+00:48:17,880 --> 00:48:22,969
+It's in the house. Come on. I need this guy's costume.
+
+286
+00:48:24,900 --> 00:48:43,989
+If she's here, we are all in big trouble. You sink? I mean... No. No. You.
+
+287
+00:48:47,030 --> 00:49:25,590
+I peeked out. That was me. All right. Janitor key. Holy shit. I got the janitor key.
+
+288
+00:49:26,309 --> 00:49:34,179
+All right. I'm good. That guy left. Have a great day.
+
+289
+00:49:34,820 --> 00:49:56,650
+Okay. I need to save the game here. No. Didn't wash hands. Okay. So now
+
+290
+00:49:57,289 --> 00:50:10,730
+I'm going up here. That guy can see. Can I walk into this? I have the janitor key. This is fine.
+
+291
+00:50:11,940 --> 00:50:20,199
+No, it's not. I'm not allowed in there. I'm a security guard. Why would I not be allowed
+
+292
+00:50:20,199 --> 00:50:38,920
+over there? All right. Hold on. There's like a wardrobe this way. I'm going a completely
+
+293
+00:50:38,920 --> 00:50:46,250
+different way than I went last time. All right. Hold on. What is that? I want that. Whatever it
+
+294
+00:50:46,250 --> 00:50:56,150
+is. Give it to me. Propane flask. I don't want this actually. No. I have to put this down.
+
+295
+00:50:56,710 --> 00:51:05,219
+I just showed it to him. I just showed it to him.
+
+296
+00:51:17,300 --> 00:51:18,500
+All right. I have to reload.
+
+297
+00:51:24,739 --> 00:51:44,659
+That activates it? Wait. What? I forgot how much fun this game was.
+
+298
+00:51:49,480 --> 00:51:58,139
+All right. Let's go. I got to go this way. Up the stairs. Just avoid the random police
+
+299
+00:51:58,139 --> 00:52:08,440
+officers that are going to be staring at me. Just run by. Made it. Kind of. What's with this cube?
+
+300
+00:52:09,239 --> 00:52:20,090
+Hold on. What's the cube? I need to know what's in the cube. What? Okay. All right. I'm not going
+
+301
+00:52:20,090 --> 00:52:35,530
+to fail the interview this time. Wait. This is something new. Wait. This is the whistleblower.
+
+302
+00:52:38,650 --> 00:52:48,170
+I hit a bit of an obstacle here. No. Nobody's discovered anything, but for some reason,
+
+303
+00:52:48,170 --> 00:52:54,329
+the security is super high. So that's why he's fired? I don't think I can get to the documents
+
+304
+00:52:54,329 --> 00:53:02,199
+safely. There's some sort of investigation going on. We kind of want to be left alone.
+
+305
+00:53:02,199 --> 00:53:10,840
+Okay. Fine. Do you mind? Fine. He's discovered anything, but for some reason, the security is
+
+306
+00:53:10,840 --> 00:53:19,289
+super high today. I don't think I can get to the documents safely. There's some sort of investigation
+
+307
+00:53:19,289 --> 00:53:28,940
+going on, and they're specifically looking for the file. I hit the file in a safety deposit box in
+
+308
+00:53:28,940 --> 00:53:39,099
+the basement. Keys were on the desk. This whistleblowing thing sounds great on paper,
+
+309
+00:53:39,099 --> 00:53:50,940
+but I am telling you, it's pretty damn terrifying. Let me save it here. Locate the deposit box key.
+
+310
+00:53:52,809 --> 00:54:10,760
+All right. Where is that? That way. All right. Can I scan my ass? I'm sorry. Don't mind me.
+
+311
+00:54:18,739 --> 00:54:46,219
+Do you have anything on you? Nothing? Apple. All right. I got to go to... Wait. Rat poison. Get it.
+
+312
+00:54:49,130 --> 00:55:06,139
+All right. Locate the safety deposit box key, which is this way. I'm not allowed in there though.
+
+313
+00:55:07,610 --> 00:55:12,969
+Hmm. That's the head of security here. Mateo Perez. Who? He'll be holding one of the three
+
+314
+00:55:12,969 --> 00:55:27,900
+backup data disks. Who? This guy right here? This person right here? That's the only person
+
+315
+00:55:27,900 --> 00:56:05,820
+that's here. That's the first backup data disk secured. Two more to locate. Shit.
+
+316
+00:56:19,880 --> 00:56:28,360
+Somebody has to come help. I have to make my escape. My fingerprints are all over that, right?
+
+317
+00:56:29,239 --> 00:56:32,840
+Yeah. Look at it. I don't even wear gloves. My fingerprints are... Oh, no. I don't even
+
+318
+00:56:32,840 --> 00:56:39,880
+not have fingerprints. Nobody comes over here, right? Okay. I'm good. Let's go. Can I get the
+
+319
+00:56:39,880 --> 00:56:48,070
+knife? Oh, that's disgusting. Okay. Give me the apple. I was never here. Wait. Can I dress as
+
+320
+00:56:48,070 --> 00:56:52,469
+this person? Nope. Okay. Hold on. I got the safety deposit box key. I got to go
+
+321
+00:56:53,110 --> 00:57:09,829
+up here. I'm freaking out. Okay. Save the game in a different spot. Okay. Wait. I have bloody
+
+322
+00:57:09,829 --> 00:57:28,500
+footprints? No, I don't. Who is looking at me? What is this? Turn on frosted glass?
+
+323
+00:57:30,420 --> 00:57:37,260
+Oh, nice. This is a little safe area. All right. I gotta keep that. I gotta remind myself to come
+
+324
+00:57:37,260 --> 00:57:51,159
+in here. So, I gotta get in there and get the key. I'm allowed in here. There's only one person's
+
+325
+00:57:51,159 --> 00:58:21,659
+person at the desk over there. I can get it. Shit. Is anybody else in here? No. Don't poison the
+
+326
+00:58:21,659 --> 00:58:36,019
+water bottle. What am I doing? Okay. The key is... Where is it? Nothing. All right. Looking for the
+
+327
+00:58:36,019 --> 00:59:09,460
+desk. Looking for the key. Wait. Is it in there? It's not one of these desks. Got it. Holding
+
+328
+00:59:09,460 --> 00:59:31,639
+ear pods. I'm gonna save it here. No. A new one. Can I take a bite out of this? All right. Time to
+
+329
+00:59:31,639 --> 00:59:37,400
+go to the... I gotta go down to the basement. Now, how am I gonna get down to the basement?
+
+330
+00:59:37,400 --> 00:59:47,980
+I have to go all the way down here, I think. But will these guys try to stop me? No one's found
+
+331
+00:59:47,980 --> 00:59:57,400
+this yet. That's good. I gotta get down here. These guys will let me through, right? Good afternoon,
+
+332
+00:59:57,400 --> 01:00:11,769
+sir. All right. It's in there. This is the vault, 47. The data core should be behind that large
+
+333
+01:00:11,769 --> 01:00:18,630
+steel door. Looking for the data core. All right. Incriminating evidence. Well, at least it's not as
+
+334
+01:00:18,630 --> 01:00:25,829
+bad as that time in Queens. Remember that? The 6,000 semi-incinerated files we had to tape together?
+
+335
+01:00:25,829 --> 01:00:33,030
+Don't remind me. I'm just saying, maybe this isn't so terrible after all. There are always worse
+
+336
+01:00:33,030 --> 01:00:41,110
+cases out there. I guess I mostly... Got it. ...to staff or ask around if people have seen a folder
+
+337
+01:00:41,110 --> 01:00:48,230
+full of secrets. We could be here weeks and not find anything. Any money in here? You don't have
+
+338
+01:00:48,230 --> 01:01:06,230
+to love it. Yeah, I guess you're right. Oh, shit. There is money. There's a money key. All right. I
+
+339
+01:01:06,230 --> 01:01:33,750
+got the money key. Now I have to fuck with this guy for a minute. He was gonna call something in,
+
+340
+01:01:33,750 --> 01:01:37,829
+but he just got embarrassed. I think he thought he fell off the chair. Hey, this is... Oh, wait a
+
+341
+01:01:37,829 --> 01:01:56,300
+minute. I was just sleeping. Never mind. Everything's fine. Right before he dozes off. All right. He's
+
+342
+01:01:56,300 --> 01:02:09,639
+just dozed off. There it is. You know when you're right about to fall asleep, you get ripped out of
+
+343
+01:02:10,199 --> 01:02:13,619
+it. He's gonna go back to bed in front of these guys.
+
+344
+01:02:18,920 --> 01:02:32,969
+How could you go back to sleep? Ready? He hit his head pretty hard. I got plenty of shit to throw at
+
+345
+01:02:32,969 --> 01:02:58,360
+you. Wait, I think the net... No. Whatevs. If his mouth opens, can I get it right in his mouth?
+
+346
+01:03:06,630 --> 01:03:30,519
+Ah, there we go. Now he wants to investigate. What did he just take? Ready? One, two, three.
+
+347
+01:03:31,719 --> 01:03:39,909
+Aha. Okay. This is where we end up. There's some kind of fracas down here. I'm having a look around.
+
+348
+01:03:39,909 --> 01:04:23,099
+This is gonna be so horrible. Hey. Right when he goes to bed. Oh. He's up. Let's put him up.
+
+349
+01:04:23,099 --> 01:04:41,019
+Okay. Hold on. Will he remember this? I'm trying to sit him back in the chair. This is not even
+
+350
+01:04:41,019 --> 01:04:45,380
+that bad. Everybody knows this guy sleeps on the job anyways. All right. I need to pick up all the
+
+351
+01:04:45,380 --> 01:04:58,579
+things I threw. Okay. That's everything I had, right? Unconscious witness. I'm gonna be an
+
+352
+01:04:58,579 --> 01:05:12,170
+unconscious witness. Wait. He saw my face. I can't, like, dump rat poison down his throat.
+
+353
+01:05:12,809 --> 01:05:16,170
+All right. That's fucked up. I can't. I just said that out loud. All right. He'll be fine.
+
+354
+01:05:16,730 --> 01:05:30,619
+I was trying to, like, plant the ear pods on him. All right. Whatever. He'll be up for a while.
+
+355
+01:05:31,260 --> 01:05:56,300
+I gotta go to Ruby Red. How has nobody found you yet? Reload. Oh, that's right. I did. I saved it
+
+356
+01:05:56,300 --> 01:06:09,719
+right before I did all that. You're right. The blood has been cleaned up. All right. Let's go.
+
+357
+01:06:18,179 --> 01:06:22,420
+Should I be actually working with Ruby Red? I'm gonna get double crossed here. That's what
+
+358
+01:06:22,420 --> 01:06:29,449
+happens in these games. Now the blood is there this time. All right. I got files. What are you?
+
+359
+01:06:29,449 --> 01:06:39,719
+What's in it for me? How are you? Hmm. It is.
+
+360
+01:06:53,510 --> 01:06:59,269
+Sounds like Miss Red has quite a scoop on her hands. Yeah. My guess is this will cause a major
+
+361
+01:06:59,269 --> 01:07:14,420
+market upset. No, no, no. No photos of me. All right. We need the other data disks. Got it.
+
+362
+01:07:16,780 --> 01:07:22,889
+Data disk objective is there's one down here. There's a data core. All right. Let me go down
+
+363
+01:07:22,889 --> 01:07:30,260
+here. What was the other thing that I had? I had some more intel. No, it was objectives.
+
+364
+01:07:30,980 --> 01:07:39,019
+No, it was intel, wasn't it? I already got this one. The whistleblower got that one.
+
+365
+01:07:41,670 --> 01:07:44,869
+Okay. I got, I need one more. There's another one down this way. Let's go here.
+
+366
+01:07:47,000 --> 01:07:53,300
+I need to get the job. All right. I'll get the job. Where's the guy that's puking?
+
+367
+01:07:55,800 --> 01:08:15,639
+Insider trading. What? Oh, God. No, no, no, no, no, no, no, no, no, no, no, no, no, no, no.
+
+368
+01:08:15,639 --> 01:08:20,279
+No, drop, drop, drop, drop down, drop down, drop down. How do I drop down? How do I drop?
+
+369
+01:08:21,079 --> 01:08:46,279
+How do you drop down? I can't just let go. Stock is crashing. Wait, what? Where? I need to,
+
+370
+01:08:46,279 --> 01:09:05,140
+where's the stock? Where are the stocks crashing? Where's the puke? Where's the guy that's throwing
+
+371
+01:09:05,140 --> 01:09:23,109
+up in the bathroom? I don't see him anywhere. Wasn't he supposed to be in here? Oh, the other
+
+372
+01:09:23,109 --> 01:09:48,619
+side. Oh, fuck. Second floor. Right. Oh, God damn it. The guy with the machine gun. All right. All
+
+373
+01:09:48,619 --> 01:09:56,920
+right. I'm surrendering. I'm surrendering. You gotta be kidding. Just a little bit closer.
+
+374
+01:09:59,260 --> 01:10:18,710
+What? It's not, it's not a wet floor. Somebody. All right. Well, what was it over here? Second
+
+375
+01:10:18,710 --> 01:10:32,970
+floor in the second bathroom. Kind of, I gotta be a gamer. I can handle it. Don't worry. I can
+
+376
+01:10:32,970 --> 01:10:42,180
+handle it. I didn't save after this, but it's all right. I'm just going to run up there.
+
+377
+01:10:45,750 --> 01:10:55,859
+Straight, left, right, up, skip. Don't step in the blood and get it all over me.
+
+378
+01:10:59,979 --> 01:11:06,649
+There you go. I got something for you. Is that, is that what I think it is? Uh-huh. Yes.
+
+379
+01:11:07,449 --> 01:11:15,270
+Just make sure the information will be put to good use. Oh, you can bank on that for you. What's
+
+380
+01:11:15,270 --> 01:11:21,189
+your role in this? I'm not important. Good luck. It sounds like Miss Red has quite a scoop on her
+
+381
+01:11:21,189 --> 01:11:27,109
+hands. My guess is this will cause a major market upset, which is sure to bring the director out
+
+382
+01:11:27,109 --> 01:11:30,310
+from her fortified office. Oh, it's as if she comes out. All right. Here we go.
+
+383
+01:11:31,350 --> 01:11:35,560
+Going through bathroom time. Look if a guy in the bathroom.
+
+384
+01:11:39,050 --> 01:11:51,779
+Save game. Go get, go play the stock market before everything crashes. All right. So then where was
+
+385
+01:11:51,779 --> 01:11:57,180
+the bathroom? Am I in the wrong fucking place? I thought I was supposed to go up and then right.
+
+386
+01:11:57,819 --> 01:12:18,409
+Isn't that like where I am? Go by. I'm up, I think I'm up way too high. All right. I gotta be careful
+
+387
+01:12:18,409 --> 01:12:38,979
+here. He's not in here. It's the other side. Oh, fuck. What? What are you up to? Who are you?
+
+388
+01:12:43,060 --> 01:12:57,020
+You, you're starting to piss me off. Hey, I know you can hear me. I'm talking. Who the fuck is this
+
+389
+01:12:57,020 --> 01:13:11,180
+guy? Oh man. No, no, no, no, not the gun. Um, fuck. Jesus. Thank Christ. How did you get up?
+
+390
+01:13:12,060 --> 01:13:48,180
+God, come on. It's a fucking three stooges episode. Oh, it was the other side. Shit. All right. I'm
+
+391
+01:13:48,180 --> 01:14:10,390
+back. Everybody has the little dollop on their head here. It's not this bathroom this way. Wait a
+
+392
+01:14:10,390 --> 01:14:20,119
+minute. I don't have a crowbar. Whatever. All right. I'm gonna save right here. You very clearly don't
+
+393
+01:14:20,119 --> 01:14:32,890
+work here. Oh, this is the stock area. Trespassing. Get a note. I'm trespassing. It's okay. I got the
+
+394
+01:14:32,890 --> 01:14:37,659
+note. What is it? Intel. Notice from the bank's head of security mentions that recent issues with
+
+395
+01:14:37,659 --> 01:14:43,180
+the building's wireless internet have gotten director Sal Vallas so high strung that fixing
+
+396
+01:14:43,180 --> 01:14:49,260
+the wifi in her office always takes priority. If the wifi in the director's office breaks down,
+
+397
+01:14:49,260 --> 01:14:55,699
+IT is allowed full and immediate access to the area. No questions asked. Okay. I gotta get,
+
+398
+01:14:55,699 --> 01:15:18,149
+I gotta be an IT guy. Don't see me. Don't see me. Don't see me. Don't see me. Is this an IT guy?
+
+399
+01:15:18,789 --> 01:15:22,680
+I don't know. Don't they, they wait to highs and shit, right? Investment banker.
+
+400
+01:15:22,680 --> 01:15:41,340
+You have anything else? Holy shit. Wait a minute. The guy's doing coke. Wait, what? Hold on a second.
+
+401
+01:15:50,020 --> 01:15:54,020
+I want him to wake up and then do coke naked and die.
+
+402
+01:16:03,430 --> 01:16:05,510
+Can you, how do you wake somebody up?
+
+403
+01:16:05,510 --> 01:16:12,979
+Get up. If I make a loud noise, will he get up? Can I give his clothes back?
+
+404
+01:16:28,409 --> 01:16:42,420
+The guards wake him up. Okay. Reload and poison coke. How am I going to do that? He's just going
+
+405
+01:16:42,420 --> 01:16:57,989
+to be staring at me. Hold on. Just dump poison on it while he smokes. Okay. It's this way.
+
+406
+01:16:58,710 --> 01:17:05,130
+He comes into this bathroom. Is it just here? He just, who just has coke just sitting here?
+
+407
+01:17:05,850 --> 01:17:25,399
+What? This is just community coke. Hey, uh, who are you? I'm sorry. It's all yours.
+
+408
+01:17:27,989 --> 01:17:46,149
+Answer me when I'm talking to you. Identify yourself. Oh, the veins are popping. Some
+
+409
+01:17:46,149 --> 01:17:52,779
+psycho's trying to kill people. He's got his hands around someone's neck. Hey, please, I need help.
+
+410
+01:17:53,579 --> 01:18:18,729
+I was behind the door. How would you see that? All right. I gotta go faster. Okay. Then I'm
+
+411
+01:18:18,729 --> 01:18:45,449
+going to go in behind him. Wait, can I hide in this? Yes. God damn it. I just want to watch you do
+
+412
+01:18:45,449 --> 01:19:38,359
+coke and die. What happened? He didn't do anything. Is he just sick because he's sick? He's still sick
+
+413
+01:19:38,359 --> 01:20:09,079
+though. He's ready to fight. Jesus Christ. That guy was the problem. I thought it was me. That
+
+414
+01:20:09,079 --> 01:20:29,720
+guy was the problem. That's so funny. I'm sitting here so concerned that they're chasing me.
+
+415
+01:20:30,680 --> 01:20:34,199
+Okay. I'm only doing this one more time and then I have to, I have to do something else.
+
+416
+01:20:48,010 --> 01:20:56,500
+Can you do the coke? No. You got to get him sick and then high and then him running around outside.
+
+417
+01:20:57,060 --> 01:21:23,159
+Right. Okay. I'll go for it. I don't feel so good. Where are the bathrooms?
+
+418
+01:21:31,539 --> 01:21:33,859
+He doesn't know where the bathroom is.
+
+419
+01:21:40,279 --> 01:21:41,720
+Why would you puke in there?
+
+420
+01:21:42,439 --> 01:21:52,869
+Wait, wait, wait. Give me that wristwatch. Don't mind me. I'm just going to turn on the water.
+
+421
+01:21:52,869 --> 01:22:01,029
+Help me out a little bit. Wait, hold on. He's not going to slip in that, is he?
+
+422
+01:22:01,029 --> 01:22:20,630
+I'm just making it worse. All right. Here. Now. I just broke his watch.
+
+423
+01:22:20,630 --> 01:22:52,279
+Give me the watch back. I have to bring people over here. What? What was he doing?
+
+424
+01:22:53,699 --> 01:22:59,699
+Is he wiping? Is he washing his hands in the water on the ground? This guy is fucking high.
+
+425
+01:23:41,979 --> 01:24:17,029
+Look at this guy. He's doing something wrong. He's not. He's not going to go back. No, is he?
+
+426
+01:24:17,029 --> 01:24:34,979
+It's high. All right. I've had my fun. Is he the only one that comes in here? I have to get him
+
+427
+01:24:34,979 --> 01:24:47,300
+high and then hit him with muffins. Give me that watch. All right. Time for objective. I don't. Oh
+
+428
+01:24:47,300 --> 01:24:58,250
+God. Here he comes again. Oh shit. Don't turn. Is it still poisoned? He's not going to do it again,
+
+429
+01:24:58,250 --> 01:25:22,489
+right? He just did it. All right. Muffin time. And then I'm going to fucking just let him run out.
+
+430
+01:25:22,489 --> 01:26:12,600
+Okay. Get out there. Run out there and cause a problem. Oh my God. He doesn't. I don't know you.
+
+431
+01:26:34,170 --> 01:27:09,180
+Is this real or are you just high? Imagine opening the door and the security guy would
+
+432
+01:27:09,819 --> 01:27:14,939
+fucking apples at a guy who is lying on the ground. Holy shit. He's looking at the blood.
+
+433
+01:27:15,500 --> 01:28:04,729
+This is bad. This is really bad. Holy shit, man. Okay. I'm ready. I still got the tie in the same
+
+434
+01:28:04,729 --> 01:28:11,350
+spot that he had his tie. Hold on. Wait a minute. Wait a minute. Wait a minute. Wait a minute. Wait
+
+435
+01:28:11,350 --> 01:28:22,380
+a minute. Wait a minute. Oh, they're above. I have the Coke tie on right now. Okay. So I'm safe. I'm
+
+436
+01:28:22,380 --> 01:28:40,149
+going to save it by the way. Right here. I got to get to the IT room. Key card. Do I have, can I do
+
+437
+01:28:43,050 --> 01:28:51,079
+card reader? Okay. I don't know. I don't know where I'm going. I've got, I'm going up restricted
+
+438
+01:28:51,079 --> 01:29:20,569
+area, unauthorized accesses. Okay. So I'm guessing going up. I'm going up here. Okay. I love that.
+
+439
+01:29:20,569 --> 01:29:30,779
+You can, you can save scum in this game. It's so wonderful. Milton Fitzpatrick,
+
+440
+01:29:33,380 --> 01:30:03,539
+IT. Oh, I'm supposed to be up here. Right. I'm an investment banker. Ooh, coffee. I don't have any
+
+441
+01:30:03,539 --> 01:30:17,220
+poison in the office in plain sight. I'm sorry. There's a guy that can see through my disguise
+
+442
+01:30:17,220 --> 01:30:25,819
+here. Mr. Man, we've been reviewing for just a few hours. It's not quite enough to get through
+
+443
+01:30:25,819 --> 01:30:30,939
+the substantial amount of documentation here. You're supposed to be the best. I was told
+
+444
+01:30:32,899 --> 01:30:38,260
+Mr. Man Kruger and Schultz has won best internal auditing awards. Nine years in a row. We are the
+
+445
+01:30:38,260 --> 01:30:44,420
+best, but we cannot buy low, sell high. I'll put my hand down now. Don't worry. You're pretty
+
+446
+01:30:44,420 --> 01:31:01,210
+little head of shit. This guy's got a disc. I'm feeling pretty salty here, lady. Pizza. All right.
+
+447
+01:31:05,159 --> 01:31:09,960
+I swear those people in IT need to get off their asses. You used all the right software on my laptop.
+
+448
+01:31:09,960 --> 01:31:20,779
+All right. Where's IT? Oh, that is Athena Savalas, billionaire banker,
+
+449
+01:31:20,779 --> 01:31:51,770
+Providence Herald, and Bane of the middle class. Push her out the window quick. Get her out the
+
+450
+01:31:51,770 --> 01:32:25,340
+window. Do it. I died with an apple in my hand. I need that guy's disc. He's got like, he's a,
+
+451
+01:32:25,340 --> 01:32:31,899
+he used to go do like a colonic. No, I'm sorry. She can't take any calls right now. I suggest
+
+452
+01:32:31,899 --> 01:32:52,920
+you call back later. Sir, are you with the... What the fuck is this? An iron, I guess.
+
+453
+01:33:37,350 --> 01:34:20,949
+I gotta, I gotta stick with it. I haven't killed anybody. Last ditch. Where is she going?
+
+454
+01:34:23,300 --> 01:34:35,960
+What the fuck was that? Oh, she's got, she's, she's got like a bunch of like
+
+455
+01:34:36,520 --> 01:34:42,810
+people watching the stream. She's got four pocket medics. Take the principal to the safe location.
+
+456
+01:34:44,100 --> 01:35:16,220
+No! Close the door on me. All right. I'm getting in there. No more fucking around. Distract guy at
+
+457
+01:35:16,220 --> 01:35:34,899
+desk. Easy. Stay here and try not to get in my way. Okay, but be careful. No, you need to both be
+
+458
+01:35:34,899 --> 01:36:17,340
+over there. Oh, come on. The alarm. Say what? Don't have a fuck with Coke tie. What's this? Oh, I need
+
+459
+01:36:17,340 --> 01:36:23,479
+that. Apple we got. Okay. So now I gotta get in there. I gotta get to IT.
+
+460
+01:36:24,279 --> 01:36:33,220
+Do they labeled? Conference room, director's office. I need IT. Level two, level one,
+
+461
+01:36:35,159 --> 01:36:49,380
+level zero, teller hall, level minus one. Where's the IT office? Security hub, interview, VIP,
+
+462
+01:36:49,380 --> 01:36:58,729
+waiting lounge. Where's, there's no IT. Deposit boxes all the way down in the basement.
+
+463
+01:37:00,550 --> 01:37:08,619
+All right. I got a, I got all the way up here though. I have the key. I need to get a different
+
+464
+01:37:08,619 --> 01:37:25,319
+disguise. This is going to beep and all right. This is good. This shit in here that I can do.
+
+465
+01:37:25,319 --> 01:37:34,220
+All right. Apricot. That's a smaller, more dense, compact apple. So that's good. That's good for me.
+
+466
+01:37:34,859 --> 01:38:06,819
+Create water leak now. Clothes, iron. It's like a net gear. Does she just come and try to unplug it
+
+467
+01:38:06,819 --> 01:38:19,109
+and plug it back in? Nope. She's going to figure it out. What'd she do though? She demands an IT
+
+468
+01:38:19,109 --> 01:38:53,460
+person. Where'd he go? Somebody get IT up. Yeah. All right. Where's the IT guy? Get IT. We need Tim,
+
+469
+01:38:53,460 --> 01:39:21,449
+the IT guy. All right. I gotta get the hell out of here. Tim, the IT guy. Gotta go down. Have you
+
+470
+01:39:21,449 --> 01:39:28,659
+tried turning it on and turning it off again? She's asked for her assistant to get someone from IT
+
+471
+01:39:28,659 --> 01:39:31,220
+to come up and look at it. This would be an excellent way to get close to the director.
+
+472
+01:39:32,100 --> 01:39:39,859
+I have to get down to IT and get a costume. Where am I now? Down. I gotta go down from here.
+
+473
+01:39:40,659 --> 01:40:13,590
+Is he already up there? A guy on a computer up there. So which way does he have to go? No,
+
+474
+01:40:13,590 --> 01:40:21,380
+that's not a guy on a computer. Is he gonna come up these stairs? He has to come up these stairs.
+
+475
+01:40:21,380 --> 01:40:54,500
+All right. So where is he? Fix the router. Let's go. It's gonna take a while to get up here.
+
+476
+01:40:54,500 --> 01:41:14,489
+Are you guys sure somebody's gonna come up into this room? I think they were on the way up and
+
+477
+01:41:14,489 --> 01:41:18,090
+I think they just found the body. That's the IT guy that's on the way up.
+
+478
+01:41:26,789 --> 01:41:34,329
+I have to get back down there. Oh no, the IT guy found him. That's great. Oh my god.
+
+479
+01:41:40,460 --> 01:41:43,579
+Why is the IT guy? It's always the IT department. They just do everything.
+
+480
+01:41:44,439 --> 01:41:58,359
+They figure everything out. They don't get enough credit. I wonder how long I have to sit here for
+
+481
+01:41:58,359 --> 01:42:08,579
+though. At what point does unplugging and plugging back in the router take precedence over dead guy
+
+482
+01:42:08,579 --> 01:42:27,829
+with knife and head on the stairs? I don't know. We're gonna find out. Still searching. What is
+
+483
+01:42:27,829 --> 01:42:50,390
+that down there? I have to go meet him down there. I do. Where did I save at last? I think I have to
+
+484
+01:42:50,390 --> 01:42:54,869
+just run down to where that guy's dead and intercept him and leave two dead bodies there.
+
+485
+01:42:56,949 --> 01:43:16,579
+You know what I'm saying? That's the play. Okay. I've got to get down to where that is.
+
+486
+01:43:17,539 --> 01:43:39,350
+All right. Get down there quick. Where is it? Where is it? Oh shit. Where is it? Is that?
+
+487
+01:43:39,989 --> 01:44:00,010
+Get out of my way. Fuck. God damn it. It's that guy. No, I can't. You gotta get ready. What a
+
+488
+01:44:00,010 --> 01:44:22,779
+fucking idiot. Where is he? All right. Out into the right. Down the stairs. Go. Go. Okay. Okay.
+
+489
+01:44:22,779 --> 01:44:25,100
+Okay. Okay. Okay. Okay. Okay. Where is it? Where is it? Where is it? Where is it? Down here.
+
+490
+01:44:26,229 --> 01:44:43,800
+Okay. All right. All right. All right. All right. IT guy. Where is he? That's him I think. Right there.
+
+491
+01:44:58,550 --> 01:45:12,550
+Who? What? What? Who found it? Oh, fuck. There he is. I gotta save right now. Over,
+
+492
+01:45:12,550 --> 01:45:20,810
+over here. It's Ruby Red. Get out of here. Ruby Red. We're on the same team.
+
+493
+01:45:25,109 --> 01:45:37,130
+Ruby Red. Get out of the way. Ruby. I'm sorry. No, Ruby. God damn it. I'm sorry. I have to.
+
+494
+01:45:40,810 --> 01:46:03,189
+Ruby's gonna have to get hit in the head with an apple. She'll be fine. No, no. Why are you
+
+495
+01:46:03,189 --> 01:46:17,029
+not knocked out? No. I'm like a fucking clown. I don't have anything else to throw.
+
+496
+01:46:21,619 --> 01:46:32,220
+All right. We're on the same team. We're not on the same team. Don't make me do it. Don't. Don't.
+
+497
+01:46:34,439 --> 01:47:05,909
+Shit. Why? Okay. I need to sit here for a second. Ruby, I'm sorry.
+
+498
+01:47:20,460 --> 01:47:25,420
+Over here. I need some assistance. What the? You didn't even fucking. We need help, please.
+
+499
+01:47:27,020 --> 01:47:33,100
+Why would you come investigate? He investigated last time. All right. No fucking around. They're
+
+500
+01:47:33,100 --> 01:47:52,949
+both going down instantly. I have to. Here's the play. Person now. Oh, she just. She did a
+
+501
+01:47:52,949 --> 01:48:25,029
+lemmings move. It's too gruesome to get my head around. Okay. She comes down. Go investigate.
+
+502
+01:48:25,989 --> 01:48:32,069
+Both of you do it. I got to make this very clean. We're doing iron. They both are going to come up.
+
+503
+01:48:32,069 --> 01:48:40,380
+Don't hit me, buddy. Watch this. Here we go. Someone help me.
+
+504
+01:48:59,300 --> 01:49:17,449
+Okay. New plan. New plan. I have to get it. You have to go down now. Okay. You don't look.
+
+505
+01:49:18,409 --> 01:49:50,359
+Hello. Got it. What are you firing? All right. I. We have to. I have to do something else. I have to.
+
+506
+01:49:50,359 --> 01:49:56,699
+I have to throw. This is going to be hard. Okay. This is the one. I'm going to try it this time.
+
+507
+01:49:56,699 --> 01:50:00,220
+This is going to be the one right now. Promise. Check this out. Ready? Without even a second
+
+508
+01:50:00,220 --> 01:50:12,680
+thought, it's going to be hit her. Get body. Iron. Wait. He's going to come up. What a shock.
+
+509
+01:50:12,680 --> 01:50:16,359
+Come on up. Take a look. Get a closer look. I need some help over here. No, you don't.
+
+510
+01:50:16,359 --> 01:50:19,960
+You need to take care of this. Oh my God. I'm trying to put the bodies higher.
+
+511
+01:50:21,239 --> 01:50:29,640
+Fucking God. All right. I got to move on. I have to. This is the last time I'm going to try this.
+
+512
+01:50:29,640 --> 01:51:09,779
+Guys, I need some backup. Nothing at my position.
+
+513
+01:51:16,520 --> 01:51:41,979
+Yeah. Still looking. Please. Why? Why did I do that? Oh, I'm so mad at myself. Why? I thought I
+
+514
+01:51:41,979 --> 01:51:50,069
+could drop down all the way. All right. That's the play. Here's the play. Oh, okay. This is the play.
+
+515
+01:52:04,380 --> 01:52:21,539
+So far. No. Okay. I have to run. I'm just going to hide in the box.
+
+516
+01:52:23,529 --> 01:52:33,670
+Hide in the box. Turn on the panic room. Quick. Turn it on. Turn it. Go, go, go, turn it on.
+
+517
+01:52:43,180 --> 01:53:06,789
+It's done. Ruby saw your face. It doesn't matter. Don't clap for that. Okay. So IT guy.
+
+518
+01:53:07,590 --> 01:53:47,460
+IT guy is dead, right? Ruby can get up. That's fine. Compromised. No, that ain't going to work.
+
+519
+01:53:47,460 --> 01:54:03,670
+Okay. I'm not going to be like, I can't leave my panic room. I have to get somebody to come in here.
+
+520
+01:54:03,670 --> 01:54:09,880
+Okay. I got coins. Who's around that I can get to come in here?
+
+521
+01:54:09,880 --> 01:54:29,220
+I need like a security guard, another outfit, something. Here we go. Right there. Get in here.
+
+522
+01:54:29,220 --> 01:54:41,260
+Get in here. Come on into the wall. Are you serious? They're bringing the body up. They're
+
+523
+01:54:41,260 --> 01:54:46,140
+bringing the body up. They're taking the body out. They're taking the guy out. Not good. Very bad.
+
+524
+01:54:46,699 --> 01:55:02,119
+We're good. We're good. We're good. We're good. I need that body. I need that body.
+
+525
+01:55:34,779 --> 01:55:53,369
+No. Hold on. Oh, I need this. I need. Look at this. I can't play. I need this body.
+
+526
+01:55:54,010 --> 01:56:08,649
+Oh my god. They take the body up. No, this is bad. All right. I know what to do.
+
+527
+01:56:08,649 --> 01:56:30,949
+Did we see it? Who saw it? Okay. I have to sneak. She's going to see me every time. This is horrible.
+
+528
+01:56:30,949 --> 01:56:44,460
+I've soft locked myself. Why do I need the body? Because I need his outfit. Who's around here?
+
+529
+01:56:45,180 --> 01:56:51,859
+You're right there. You're back there. Is there? I got to get to the bathroom. All right. I'm
+
+530
+01:56:51,859 --> 01:57:00,970
+sneaking to the bathroom. Nobody is going to see. There it is. No, Ruby. No. He's got the body right
+
+531
+01:57:00,970 --> 01:57:07,460
+there. All right. I need to. I need a coin right here or an apricot. Doesn't matter what it is.
+
+532
+01:57:08,020 --> 01:57:28,970
+You got to be fucking kidding me. They frisk you. They frisk you. How do I throw everything away?
+
+533
+01:57:28,970 --> 01:57:31,770
+What's the what's the drop button? How do you drop? How do you drop? How do you drop? How do I drop?
+
+534
+01:57:31,770 --> 01:57:44,920
+G? How do I drop? F? How do you drop something? What the fucked up shit do I have in here? Illegal.
+
+535
+01:57:52,069 --> 01:58:00,199
+Okay. I'm good. If you want to come through this way, I'm going to have to do it.
+
+536
+01:58:04,979 --> 01:58:14,250
+I got to pat you down. Sorry about that. Okay. You're all fine. Off you go. How are you today,
+
+537
+01:58:14,250 --> 01:59:26,550
+sir? I'm doing well. Thank you. What? What are you talking about? Okay. I think I did it. No,
+
+538
+01:59:26,550 --> 01:59:40,789
+they're going to see me do this. All right. Save. Throw apple. Okay. Throw apple through doors. I
+
+539
+01:59:40,789 --> 01:59:47,000
+could you know what I could do. I got three apples. Check it out. Let's see if I can get this done.
+
+540
+01:59:51,319 --> 02:00:12,600
+Distracted him. He's in the sky. Throw the apple up. I wonder if I can do this without anybody
+
+541
+02:00:12,600 --> 02:00:29,659
+caring. Wait, what? Oh, it's right here. As long as I don't do anything. I mean, that is weird to
+
+542
+02:00:29,659 --> 02:00:35,189
+take somebody's clothes out of a body bag. That is that's weird. But how weird is it? Is it weird
+
+543
+02:00:35,189 --> 02:00:45,640
+enough for me to get seen? Yes, it is apparently. What the fuck am I going to do about this?
+
+544
+02:00:52,569 --> 02:01:40,500
+I'm going to have to throw a coin down the hall somehow. What's going on in here? Unlock. No,
+
+545
+02:01:40,500 --> 02:01:59,180
+they're going to take that body out if I'm not. I got to let's see. You go. No, go look for it.
+
+546
+02:01:59,180 --> 02:02:34,060
+You got a problem, sir? You move around like somebody just kicked your ass real bad.
+
+547
+02:02:35,020 --> 02:03:09,819
+You motherfucker. This is fucking way louder. What do you think that noise was? Go have a look.
+
+548
+02:03:09,819 --> 02:04:09,479
+You go look too. Both of you. I got the key, right? I did. Let's go. No illegal items, right? Sir,
+
+549
+02:04:09,479 --> 02:04:15,939
+if you want to come through, I'm going to have to pat you down. That's fine. Okay. Thank you, sir.
+
+550
+02:04:17,220 --> 02:04:22,920
+This will be over in no time. Who says apples don't come in handy? That's right. That is exactly
+
+551
+02:04:22,920 --> 02:04:27,640
+what I said. Good job, sir. Thank you. That was verbatim what I said. Always carry a few apples
+
+552
+02:04:27,640 --> 02:04:33,609
+with you. You never know when you're going to need to throw it against a wall. Don't get on the camera
+
+553
+02:04:33,609 --> 02:04:55,800
+or whatever. Okay. Up. We got to go up one more. I'm supposed to be here. I'm supposed to be here.
+
+554
+02:05:02,789 --> 02:05:19,529
+Save it. It's time. All right. I heard you had a problem with your computer.
+
+555
+02:05:22,819 --> 02:05:30,939
+Good problem solving skills. I'm known to be the best. Let's take a look. All right. I'm going to
+
+556
+02:05:30,939 --> 02:05:52,140
+put like rat poison coke on her computer. Make the most of it. All right. I'm in. I'm in. Move
+
+557
+02:05:52,140 --> 02:05:59,539
+meeting. All right. I moved scanning through director's daily calendar. It became clear that
+
+558
+02:05:59,539 --> 02:06:04,500
+she has a meeting planned with Fabian Mann and Mateo Perez. It's scheduled around end of business,
+
+559
+02:06:04,500 --> 02:06:29,529
+but should be possible to advance it if needed. Okay. What's this? Newspaper? Is the meeting going
+
+560
+02:06:29,529 --> 02:07:00,199
+to be in here? Sabotage the clock. Yeah. Not playing anything. Commemorative token. Oh, nice.
+
+561
+02:07:00,760 --> 02:07:11,770
+What else is in here? She's right in there too. All right. Wait. Oh, wait a minute. There's poison.
+
+562
+02:07:11,770 --> 02:07:51,770
+Poison. Poisonable shit in here. Okay. Now? When's that meeting? I'm going to go in here.
+
+563
+02:07:51,770 --> 02:08:05,539
+Private chambers discovered. It's a hostile area. Okay. I'm not supposed to be in here.
+
+564
+02:08:05,539 --> 02:08:13,399
+All right. Wait. I got to wait for that meeting to happen. I got to tamper with the clock too.
+
+565
+02:08:14,119 --> 02:08:19,960
+How do I get you guys out of here? Come on. There's got to be something I can throw.
+
+566
+02:08:20,520 --> 02:08:24,149
+There we go. Perfect. Just like throw it over here.
+
+567
+02:08:35,050 --> 02:08:42,220
+And then you come investigate an apple. Go see what that was.
+
+568
+02:08:54,409 --> 02:09:14,869
+Got it. Always carry around a few apples. All right. So now I got to fix the computer. I got
+
+569
+02:09:14,869 --> 02:09:21,380
+to fix the internet and then they're going to have a meeting and someone's going to fall out the window.
+
+570
+02:09:30,310 --> 02:09:52,300
+I don't know how to fix the router apparently. I don't know how to fix a router. I'm not a real
+
+571
+02:09:52,300 --> 02:10:13,779
+IT guy. What the fuck am I supposed to do? Can I even do this? Wait, hold on. Looks like she's
+
+572
+02:10:13,779 --> 02:10:31,850
+coming out. Shoot it. No, that'll alert everybody. What else do I got here? Okay. I advanced the
+
+573
+02:10:31,850 --> 02:10:41,510
+meeting. Is there anything else I can do to advance this? Because I can't, the internet is not fixable
+
+574
+02:10:41,510 --> 02:10:51,579
+now. It was here a minute ago. There she is. Okay. Investigating distraction. What do you mean?
+
+575
+02:10:51,579 --> 02:11:25,850
+What distraction? Oh fucking God. What distraction? Where is she going? Oh God, no. Go to the meeting.
+
+576
+02:11:30,380 --> 02:11:50,220
+Meeting.
+
+577
+02:12:14,010 --> 02:12:29,000
+You're on your own. Run. If your bodyguard or security guard ever says you're on your own, run.
+
+578
+02:12:30,439 --> 02:12:48,180
+Okay. Go to the meeting. How do I get them to go to the meeting?
+
+579
+02:12:57,449 --> 02:13:03,479
+There aren't anything else I have to do. I have the gramophone. There's no meaning because I killed
+
+580
+02:13:03,479 --> 02:13:24,180
+him. Oh, I killed the person that she's talking about. How did I do that? Wait. That's me.
+
+581
+02:13:24,500 --> 02:13:30,819
+Now listen to me, Ken. Yeah. I don't want to hear any excuses or answer any questions.
+
+582
+02:13:31,539 --> 02:13:41,109
+Just fix my computer and get out. All right. I already did. Everything's good to go.
+
+583
+02:13:41,829 --> 02:14:43,560
+I'm going to body block her so she can't leave. Ben, come here. Get up. You did it.
+
+584
+02:14:46,380 --> 02:14:52,569
+I'm going to take you. Somebody fucking help me. I got the other key card.
+
+585
+02:14:59,560 --> 02:15:03,979
+My computer sucks. So she has one. Who has the other one?
+
+586
+02:15:03,979 --> 02:15:22,789
+How are these idiots ever going to find anything?
+
+587
+02:15:22,789 --> 02:15:29,130
+You know what? I think it's time. It's time just to make this happen.
+
+588
+02:15:52,020 --> 02:16:12,199
+Director Savalas eliminated. Good work, 47. Second backup data disk is secured.
+
+589
+02:16:12,199 --> 02:16:46,100
+Just one to go, 47. What is this? Credit card? Oh, wow. I disabled surveillance systems.
+
+590
+02:16:46,100 --> 02:17:13,930
+Can they hear me through the glass? Is it going to break? What was that?
+
+591
+02:17:14,649 --> 02:17:38,950
+What was that explosion? I'm firing through the glass somehow.
+
+592
+02:17:49,180 --> 02:18:03,399
+I need to get the last data disk, but I have no idea where that is.
+
+593
+02:18:03,399 --> 02:18:16,870
+The mirror is shooting at you. Okay. Can I store this? I can. Can I take this? I can.
+
+594
+02:18:18,069 --> 02:18:27,139
+All right. I'm ready. I need one more data disk. It's out here. Wait, I have to get rid of you.
+
+595
+02:18:31,579 --> 02:18:52,870
+This guy's as the agent. Oh, yeah. High security guard. Good to go. Last.
+
+596
+02:18:53,430 --> 02:19:01,610
+I think I can see right through me. All right. Let's get out of here.
+
+597
+02:19:04,950 --> 02:19:16,739
+Straight out this way. The IT guy was way more secure than this. Everybody can see through this.
+
+598
+02:19:17,620 --> 02:19:35,100
+Go fix the router. That's unfixable. I broke it. All right. Down. We have to go into the bank vault.
+
+599
+02:19:35,100 --> 02:19:43,739
+Oh, my God. Everybody can see through this. Except for you. Shit. This is a horrible disguise.
+
+600
+02:19:44,379 --> 02:20:07,899
+Okay. Down one more level. I'm going to go get all my weapons. They should still be over here.
+
+601
+02:20:08,700 --> 02:20:32,940
+Save it. Down one more time. So I should be a high security officer. I'm the bodyguard
+
+602
+02:20:34,979 --> 02:20:43,290
+of the objective of the game. Don't get restless. Nothing to report. Yeah, me neither.
+
+603
+02:20:46,379 --> 02:20:55,379
+These are perfectly good apples. How could you let these go to waste? I can unlock this.
+
+604
+02:20:58,969 --> 02:21:04,459
+I think I have the key card. Yep. I don't even need it. Let's just go into the vault.
+
+605
+02:21:15,209 --> 02:21:30,649
+Break open. Security lock enabled. All right. I got to go find the security room.
+
+606
+02:21:31,940 --> 02:21:39,899
+I thought the doors were closed. Area discovered. Wait a minute. Hold on.
+
+607
+02:21:43,219 --> 02:21:51,100
+Poison. I can put poison into the vents? Car battery?
+
+608
+02:22:26,360 --> 02:22:38,329
+I'm trying to shock him. I don't like that. I'm going to get less points for that.
+
+609
+02:22:38,889 --> 02:22:52,020
+I have to live with it though. I have no save. Yes, I do. I'm not losing points.
+
+610
+02:22:55,030 --> 02:23:03,860
+You already killed four non-targets. So? I'm an assassin. Sometimes you have to do dirty work
+
+611
+02:23:03,860 --> 02:23:10,250
+with the bad guys. Turn on the air conditioner. Okay. What about this? Unlock the cabinet.
+
+612
+02:23:11,049 --> 02:23:19,780
+What is in here? A chloroform? Okay. I'm allowed in here.
+
+613
+02:23:35,350 --> 02:23:57,110
+Okay. Where's the device? Where is it? It's not in here? You're doing easy mode.
+
+614
+02:23:57,110 --> 02:24:12,729
+The more people you kill, the more frames drop.
+
+615
+02:24:17,319 --> 02:24:26,500
+So what do I need in here? I got to poison this, but they're going to kill them anyways.
+
+616
+02:24:27,139 --> 02:24:48,620
+Let's turn this on. So this guy comes out here. And then what? This guy's pissed off. We choke
+
+617
+02:24:48,620 --> 02:24:54,819
+him out. I take his outfit because he's... I'm already wearing this disguise. Well,
+
+618
+02:24:54,819 --> 02:25:26,790
+that didn't do anything. Okay. What do you mean distraction? They all just want to turn the AC
+
+619
+02:25:26,790 --> 02:25:47,180
+off? That's so stupid. I got the key card. They all come out to try to turn the AC off. What about
+
+620
+02:25:47,180 --> 02:26:23,799
+you? Yup. I taught him here. Oh my God. I had to let him have a victory here. I got what I needed.
+
+621
+02:26:23,799 --> 02:26:44,139
+There's nobody else even down here. Wait, there's another AC person? Oh no, not good. Did he get it
+
+622
+02:26:44,139 --> 02:27:24,969
+off? He got his radio. I don't think that mattered. Missing key card. I picked up like four of them.
+
+623
+02:27:24,969 --> 02:27:42,379
+None of those were it. Oh shit. Really? All right. Well, it looks like I'm going over here.
+
+624
+02:27:42,379 --> 02:27:55,450
+I wonder if I should go up. Where does this lead out? I need a key card to get in there.
+
+625
+02:27:56,010 --> 02:28:26,069
+Apparently when I don't have. Are we dropping frames? Oh, that sucks. I wonder why this is
+
+626
+02:28:26,069 --> 02:28:35,659
+happening. It's been pretty good for a while, but it doesn't matter. Cox always sucks. Well,
+
+627
+02:28:35,659 --> 02:28:46,020
+I have rat poison though. He's just figuring this out now. God damn it. Really? All right. I don't
+
+628
+02:28:46,020 --> 02:28:59,530
+want to mess this up. Did I drop one of the other cards? Come on, stop dropping frames. What the
+
+629
+02:28:59,530 --> 02:29:14,700
+fuck? What's your deal, Cox? What's your deal? Sorry, I don't. Do I have to open it with something
+
+630
+02:29:14,700 --> 02:29:39,719
+else? There's got to be something in this room, right? Got it. Bingo. Let's go. Vault security
+
+631
+02:29:39,719 --> 02:29:53,479
+system has been unlocked. Let's do it. And then I beat the level. Should I push the big red button?
+
+632
+02:29:54,040 --> 02:30:13,340
+That's a deal. What's in the vault? Trespassing. What do you mean trespassing?
+
+633
+02:30:17,620 --> 02:30:21,690
+Uh, I'm going to save it here. That's not good.
+
+634
+02:31:01,659 --> 02:31:15,260
+Let's go. What's with the frames? Give me more frames. What the hell? This is horseshit. Oh,
+
+635
+02:31:15,260 --> 02:31:22,309
+I'm so glad this is going to be over real soon. I'm going to be on fiber in less than two or three
+
+636
+02:31:22,309 --> 02:31:41,340
+months. It's going to be fantastic. I got it. The expose. A lot of things to do, apparently.
+
+637
+02:31:41,340 --> 02:31:54,649
+Did he say fiber? No fiber, like fiber optic internet. Fiber to the house. So it's not going
+
+638
+02:31:54,649 --> 02:32:12,170
+to be through cable internet, which sucks ass. Oh, am I dead? Stream it. Stream dead. All right.
+
+639
+02:32:12,170 --> 02:32:42,600
+Are we good? Oh, this is bad. This just started right now too. It's struggling. One star though.
+
+640
+02:32:42,600 --> 02:32:59,670
+How would I get the points? 30,000? Uh, I wonder if I should change. Um, I wonder if I should do
+
+641
+02:32:59,670 --> 02:33:11,299
+this. This would probably kill the stream though. No, that's not going to work. Let's see if it'll
+
+642
+02:33:11,299 --> 02:33:17,620
+ride itself out. Damn it. Come on. I was having fun too. I knew this was going to be a short
+
+643
+02:33:17,620 --> 02:33:25,670
+stream today, but not this short. Uh, I'm going to go take a break. I'm just going to pee. Come
+
+644
+02:33:25,670 --> 02:33:36,139
+back, see if we can ride it out. I will be right back. Let's see if this actually, uh, stays live.
+
+645
+02:33:36,139 --> 02:36:26,229
+We'll find out. How are we doing? Have we, has it been bad since I left? It's been bad. Shit.
+
+646
+02:36:28,629 --> 02:36:37,000
+Even the BRB is getting fucked up. No, I don't want this. I didn't want this to be the last
+
+647
+02:36:37,000 --> 02:36:40,920
+thing I do before TwitchCon. Come on. I wanted to go for at least like three, four, five hours.
+
+648
+02:36:41,319 --> 02:37:02,790
+Ah, just do a comb stream. I really wanted to get these two DLCs done today though,
+
+649
+02:37:03,350 --> 02:37:15,979
+but I obviously don't want to stream if it's going to be shitty. Um, yeah, I don't want to stream
+
+650
+02:37:15,979 --> 02:37:23,159
+this. I did say that I was only going to stream for like three hours or so, three to four today,
+
+651
+02:37:23,719 --> 02:37:27,190
+because I have to get ready to go and put TwitchCon, but I'm not going to leave yet.
+
+652
+02:37:27,190 --> 02:37:33,190
+Well, um, we'll just hang out for a little bit. See if I'm going to, I'm hoping now it's still
+
+653
+02:37:33,190 --> 02:37:43,239
+dropping. Damn it. You might get a random vlog from TwitchCon, just like an hour long stream.
+
+654
+02:37:44,040 --> 02:37:48,379
+I don't know if I'm going to do that though. So don't hold me to that. I might not have an
+
+655
+02:37:48,379 --> 02:37:54,809
+opportunity to, cause I'm not going to be there for very long, but, uh, I don't want to continue
+
+656
+02:37:54,809 --> 02:38:00,260
+to do this if it's going to be unwatchable for people. So those of you that are just going to
+
+657
+02:38:00,260 --> 02:38:06,620
+take off, uh, I guess you can consider this like the end of the stream. I will see you guys later.
+
+658
+02:38:06,620 --> 02:38:11,450
+If you're going to TwitchCon, make sure you say hello. I'm going to have a toothpick in my mouth,
+
+659
+02:38:12,309 --> 02:38:24,700
+find the guy with the toothpick. That's me. But for the next like hour or so,
+
+660
+02:38:25,260 --> 02:38:33,500
+we're just going to painfully deal with this until I, uh, take off. So you'll see me again.
+
+661
+02:38:36,020 --> 02:38:49,379
+I'm so salty about this right now. Damn it. It's going to zero and shit. Ah, day before fucking
+
+662
+02:38:49,379 --> 02:38:52,899
+Twitch. Whatever. It's all right. I can't, I'm not going to sit here and be, uh, pissed off by this.
+
+663
+02:38:52,899 --> 02:38:58,569
+Uh, I'm going to go like this. At least we got to go through one full hitman mission.
+
+664
+02:38:59,129 --> 02:39:05,299
+I would like to do both of them. Sometimes you can't do what you want, I guess.
+
+665
+02:39:07,770 --> 02:39:14,040
+Do talk to transformer. Uh, we'll see. I'll show you guys my, let's just get out of this,
+
+666
+02:39:19,620 --> 02:39:27,370
+but thanks for watching. Regardless, a nice, a nice quick two hour and 22 minutes stream.
+
+667
+02:39:27,370 --> 02:39:32,469
+It's like the old days. This reminds me of back when I first started on Twitch,
+
+668
+02:39:32,469 --> 02:39:37,690
+I would stream for like two to three hours. Remember when I did that? Yeah. Just remember this,
+
+669
+02:39:37,690 --> 02:39:52,409
+pretend like this dream happened like six years ago. This over here, this should switch over to
+
+670
+02:39:52,409 --> 02:40:06,459
+here again. We can hang out and do the bits too. Just chill again. If you're going to Twitch con,
+
+671
+02:40:06,459 --> 02:40:28,069
+please say hello. Hopefully we even stay up long enough to do this. Ouch. All right. Change the
+
+672
+02:40:28,069 --> 02:40:45,129
+category. Yeah. I've been looking, I'm looking at my stream health on the, on my dashboard.
+
+673
+02:40:45,129 --> 02:40:55,139
+It's just zero up, zero up, zero up, not healthy stream. Apparently I know Twitch I'm trying.
+
+674
+02:40:55,700 --> 02:41:08,729
+All right. Let's head over here. Uh, let's turn on. Let's move. I wonder if this is going to work.
+
+675
+02:41:12,600 --> 02:41:20,309
+Is this still taking it from yesterday? I think this is taking it from yesterday.
+
+676
+02:41:20,309 --> 02:41:32,100
+Why is it not working? See you later. I didn't take a stream. It was the same, same people. Yeah.
+
+677
+02:41:32,739 --> 02:41:39,819
+I'll be back on Tuesday, most likely. And I'll probably just end up starting with Hitman 2,
+
+678
+02:41:39,819 --> 02:41:45,159
+just to try to finish that. And then we'll move on to something else. Unfortunately, I'm sorry.
+
+679
+02:41:45,159 --> 02:41:53,670
+This is not the way that I wanted this to end. You got to do what you got to do. Uh, I'm going to put
+
+680
+02:41:53,670 --> 02:42:05,829
+on the wonderful music. I still don't, I don't know why this shit is. I got to figure this out
+
+681
+02:42:05,829 --> 02:42:15,639
+when I come back, but let's do the bits. Let me put the camera on. We'll just sit here and talk.
+
+682
+02:42:19,989 --> 02:42:28,500
+Let's do that. How do I, where is it? Oh, it's this one here. Let's see. I'll prove to you guys that
+
+683
+02:42:28,500 --> 02:42:42,280
+I shaved. If you want to see, is that going to work? Wrong one. This one's cool too though.
+
+684
+02:42:42,840 --> 02:43:00,459
+Where's my, where's the camera? Oh, there's the camera. It just buttoned on. Oh,
+
+685
+02:43:00,459 --> 02:43:14,280
+that's what I wanted to do. I shaved, see? Hey, there we go. I got a shaved face. I can actually
+
+686
+02:43:14,280 --> 02:43:26,969
+make this smaller. All right. Streamlabs OBS. I kind of don't like you at all because it's hard
+
+687
+02:43:26,969 --> 02:43:33,399
+to move shit around in the scenes. You know what I'm talking about? It's like it locks shit around.
+
+688
+02:43:33,399 --> 02:43:40,579
+I haven't figured out how to turn it off. It's like, it's like almost harder to use.
+
+689
+02:43:48,489 --> 02:43:58,889
+All right, there we go. Let's move this over here. So if you're at TwitchCon, say hello. If you're
+
+690
+02:43:58,889 --> 02:44:06,010
+not at TwitchCon, then whatever, maybe we'll see you on Tuesday. Check the nails too. Did those look
+
+691
+02:44:06,010 --> 02:44:18,760
+cut to you? Told you. Told you I was going to do it. All right, now I got to go over here.
+
+692
+02:44:18,760 --> 02:44:29,879
+So I should do this. The music's getting louder, I know. Let's do the bits. It shouldn't take us
+
+693
+02:44:29,879 --> 02:44:38,760
+very long. We had, I'm not going to yell over it. Zake, thanks for the 250, Zake. You're going to
+
+694
+02:44:38,760 --> 02:44:44,969
+do a nail painting stream. I don't think, I don't think so. But thank you Zake for the 250. So I
+
+695
+02:44:44,969 --> 02:44:49,530
+translated the Minecraft copy pasta through every other language in Google Translate and back to
+
+696
+02:44:49,530 --> 02:44:56,540
+English. And this is what came out. In the game, it's awesome. Yes, there are peas, peanuts, beans,
+
+697
+02:44:56,540 --> 02:45:03,610
+and various products. We hope you enjoy the place. Black sauce, pour it back. But drinking
+
+698
+02:45:03,610 --> 02:45:14,549
+apple pie might not be so good. So that is the, that's the intro to the, to Minecraft.
+
+699
+02:45:14,549 --> 02:45:28,299
+Well, that's, that's good, I guess. Actually sounds pretty fun. Sounds like a fun game.
+
+700
+02:45:30,969 --> 02:45:34,969
+Drinking apple pie. That, yeah, that's called half the items at Starbucks.
+
+701
+02:45:36,469 --> 02:45:40,069
+I wouldn't order them if I were you. You come up, I would get, get like an ice coffee. Don't
+
+702
+02:45:40,069 --> 02:45:48,180
+get anything else. Uh, OC, oh, OcRolo, thanks for the thousand bits. Please use these measly pennies
+
+703
+02:45:48,180 --> 02:45:52,889
+to buy an eighth of a gigabyte of RAM. You need it. I need it. I'm probably going to get a new
+
+704
+02:45:52,889 --> 02:45:58,260
+computer. It's been about like three or four years, so I'm probably going to do new PC soon.
+
+705
+02:45:59,459 --> 02:46:09,639
+Within 12 months. I got, I want to get like a new RTX 2080. Get a new, um, right, 2090. Is
+
+706
+02:46:09,639 --> 02:46:17,780
+that coming out soon? I know there's one coming out. Should I do AMD? Should I do AMD instead?
+
+707
+02:46:17,780 --> 02:46:27,110
+Don't need fully new. Yeah, but I have, I have a 6800 or think, uh, CPU. I could do for, I could
+
+708
+02:46:27,110 --> 02:46:36,260
+do for an upgrade. I want to do like a supercomputer. What's the equivalent of the latest Intel
+
+709
+02:46:36,260 --> 02:46:50,299
+processors? Are they good? AMD CPU, Nvidia GPU. That's what I was thinking. AMD CPU. I, you know,
+
+710
+02:46:50,299 --> 02:46:57,299
+I actually heard that AMD really is starting to sincerely give Intel a run for their money.
+
+711
+02:46:57,299 --> 02:47:01,219
+Just like their processors are just better now. It used to be the complete opposite.
+
+712
+02:47:02,329 --> 02:47:08,329
+AMD was always like, oh, you have AMD. I've got Intel, Intel inside. And it was always like,
+
+713
+02:47:08,329 --> 02:47:12,780
+okay, yeah, that's, yeah, that's right. Intel's way better. They're kind of flipping, aren't they?
+
+714
+02:47:13,340 --> 02:47:20,600
+They're caught. Yeah. They, they, they're way cheaper too. AMD has gotten considered a bit. Yeah,
+
+715
+02:47:20,600 --> 02:47:23,399
+you know, I probably will. I'll probably do like one of those, what, thread rippers,
+
+716
+02:47:24,040 --> 02:47:29,159
+just get something crazy and water cool it. But then you can't bring it anywhere. That's the thing.
+
+717
+02:47:29,159 --> 02:47:34,520
+All right. The thing about having a huge, insane supercomputer PC is yeah, man, this thing's got
+
+718
+02:47:34,520 --> 02:47:40,840
+like liquified, hydrogenized oil that's cooled to negative five degrees Celsius. It goes through
+
+719
+02:47:40,840 --> 02:47:45,399
+all these tubes. The tubes are made out of glass, by the way. So never move this computer.
+
+720
+02:47:45,879 --> 02:47:48,680
+Don't ever pick it up. Don't even fucking pick it up and put it somewhere else.
+
+721
+02:47:48,680 --> 02:47:54,790
+When you put that 112 pound machine somewhere, that's a full tower. You ain't moving it ever
+
+722
+02:47:54,790 --> 02:48:01,700
+again. I would be so scared to, to like bring that computer anywhere to ever move. I would
+
+723
+02:48:01,700 --> 02:48:07,530
+think I would break everything, everything. All the hydrogenized oil would come out. It'd be
+
+724
+02:48:07,530 --> 02:48:13,819
+terrifying. Yeah. Even with this one now, it was scary. It's kind of heavy and I feel like I'm
+
+725
+02:48:13,819 --> 02:48:19,450
+going to drop it. I'm just going to hire somebody to take care of it. It's like having somebody
+
+726
+02:48:19,450 --> 02:48:24,409
+watch your dog, you know, like, Oh, I'm going away for the week. Somebody watch my dog for me. I'm
+
+727
+02:48:24,409 --> 02:48:31,690
+going away for the week. Somebody watch my computer, please. And make them and let them out,
+
+728
+02:48:31,690 --> 02:48:37,459
+let them out a few times and like open up the thing at the bottom. And it like pisses out stream
+
+729
+02:48:37,459 --> 02:48:45,770
+you building it. I would, I would never build a PC like that. That's so much money that I would
+
+730
+02:48:45,770 --> 02:48:51,829
+literally just be deleting because I would break something. Having like the GPU have the tubes on
+
+731
+02:48:51,829 --> 02:48:58,149
+it that you have to take off the GPU fan case, put on the your own heat sink. No, no, no. Somebody
+
+732
+02:48:58,149 --> 02:49:07,370
+else has to do that for me. I can put memory into a slot and I can put video card into slot.
+
+733
+02:49:07,370 --> 02:49:13,799
+That's about all I'm comfortable doing. I used to be a PC computer doctor, but I lost a lot of
+
+734
+02:49:13,799 --> 02:49:20,200
+business. I had like 1.4 stars on Yelp because I did a stream and I did a thing where I was like
+
+735
+02:49:20,200 --> 02:49:24,920
+showing people how to build and I got a lot of flack for it. So I was at like a 3.8 and then
+
+736
+02:49:24,920 --> 02:49:30,329
+it went down to 1.4. So I decided I was going to kind of just give it up. I guess it's what I was
+
+737
+02:49:30,329 --> 02:49:37,819
+doing for a long time. So, and the thing is, most of my customers were old ladies. So I don't know
+
+738
+02:49:37,819 --> 02:49:41,899
+how it was weird how that happened, but they'd come in and I would give them the computer back.
+
+739
+02:49:41,899 --> 02:49:46,709
+I would fix it. I'd do everything I needed to. I'd build them a computer and I never, they never,
+
+740
+02:49:46,709 --> 02:49:52,520
+I never got like a call. I never got like a mean phone call or anything. They seemed pretty happy
+
+741
+02:49:52,520 --> 02:50:05,059
+about it. But anyways, thank you. Thank you to, that's, that was oh, Acrolo, Acrolo. Mini clips,
+
+742
+02:50:05,059 --> 02:50:09,270
+thanks with thousand bits. Here's some bits for a new computer. Keep having a good stream.
+
+743
+02:50:09,350 --> 02:50:15,770
+It was until I started to drop a bunch of frames and it was happening for long enough where I
+
+744
+02:50:15,770 --> 02:50:22,549
+decided I was just going to call it. So you'll see Hitman again. And right when I start talking
+
+745
+02:50:22,549 --> 02:50:29,450
+about it, there it goes. It's almost like it can fucking hear me. It can fucking hear me talking.
+
+746
+02:50:29,450 --> 02:50:37,450
+It can hear me. I said that and then it turned off. What the fuck is happening? Who was listening
+
+747
+02:50:37,450 --> 02:50:42,809
+to this shit and doing this? Somebody just sitting there with like a dial from zero to 10 and they're
+
+748
+02:50:42,809 --> 02:50:49,020
+just turning it. We even had a problem with this in like at least three or four weeks either.
+
+749
+02:50:49,020 --> 02:50:55,639
+It's been like a month or so since it was a real issue kind of like this. Oh well, I'll make a call
+
+750
+02:50:55,639 --> 02:51:03,719
+see if they can do something about it when I'm gone for TwitchCon. So we'll see. But thank you.
+
+751
+02:51:03,719 --> 02:51:09,670
+Mini clips for the thousand bits. Appreciate it. Acrolo again gave 500 bits. Wait, never mind.
+
+752
+02:51:09,670 --> 02:51:14,360
+You'll just spend it on a clown costume. Clown costumes are way more expensive than you think.
+
+753
+02:51:14,360 --> 02:51:19,959
+It's, it's like 80 to a hundred dollars plus for a nice, maybe even like $200 for a nice clown
+
+754
+02:51:19,959 --> 02:51:27,100
+costume. We're not talking just like a t-shirt. No, no, we're talking a silk, fully complete
+
+755
+02:51:27,100 --> 02:51:33,030
+overalls. It's way more expensive. I'll be in one for during the entirety of TwitchCon. That's how
+
+756
+02:51:33,030 --> 02:51:40,180
+you'll find me. I'll be the clown with the toothpick. But thank you for the 10 bucks. Appreciate it.
+
+757
+02:51:40,180 --> 02:51:47,190
+We also had sad Vega gave $2.50 a belated birthday to you, Jerma. How's it feel to be 34?
+
+758
+02:51:47,190 --> 02:51:52,020
+Feels, it doesn't feel that bad actually. It feels okay. It doesn't, I don't, it's all right.
+
+759
+02:51:52,020 --> 02:51:58,440
+It doesn't bother me. When I turned 31, it bothered me. When I turned 32, it didn't.
+
+760
+02:51:58,440 --> 02:52:03,850
+So I hope that answers your question. But thank you for the $2.50. Thank you fat
+
+761
+02:52:04,409 --> 02:52:11,370
+Sanic for the 500 bits. No message. They just say, uh, cheer 500. Thank you, uh, fat Sonic.
+
+762
+02:52:11,370 --> 02:52:17,209
+I really appreciate it. Also thank you to Gnarly for the $2.50. Is this a stealth game week or
+
+763
+02:52:17,209 --> 02:52:26,520
+something? First the goose game, now Hitman. Then Jerma tries not to be seen at TwitchCon.
+
+764
+02:52:26,520 --> 02:52:33,940
+I mean it, it, it is whatever you want to call it. What if I really just tried to just not have
+
+765
+02:52:33,940 --> 02:52:39,719
+anybody see me? I should tweet out a place that I am and I'm just not there at all. Hey, I gotta
+
+766
+02:52:39,719 --> 02:52:43,559
+be standing in front of this statue of the guy from Borderlands. And I just, I'm not there.
+
+767
+02:52:43,559 --> 02:52:49,579
+And I'm just sitting somewhere else within distance, within like visual line of sight
+
+768
+02:52:49,579 --> 02:53:02,040
+distance of that place and just like counting who comes over. Three, two hours, four. Okay.
+
+769
+02:53:02,040 --> 02:53:08,090
+I got four fans. I got four people that like me here. And then the next day I know I got four
+
+770
+02:53:08,090 --> 02:53:12,620
+people. So I'm just like, Hey, uh, the four of you. And people are like, wait, okay, so how did he
+
+771
+02:53:12,620 --> 02:53:24,979
+know that? Come visit me at the coffee station. I'll be there. It's Saturday morning is when I'm
+
+772
+02:53:24,979 --> 02:53:29,860
+going to be there the most time. Saturday morning into Saturday early afternoon. That's the window
+
+773
+02:53:29,860 --> 02:53:36,420
+that I'm going to be at TwitchCon. And then I will probably show up at that party for a little while
+
+774
+02:53:36,420 --> 02:53:41,139
+because I gotta, you know, be the toothpick guy. And, uh, I try to wink with this eye, but I can't,
+
+775
+02:53:41,139 --> 02:53:48,729
+I can't, I can't wink with my left eye. It's too hard for me to do. I can only go like this and I
+
+776
+02:53:48,729 --> 02:53:52,649
+have to turn my whole face upside down when I do it. I can't wink with my other eye. It pulls my
+
+777
+02:53:52,649 --> 02:53:58,409
+mouth over. It's weird. Uh, it's like there's a fishing line here attached to this eye tight
+
+778
+02:53:59,049 --> 02:54:09,059
+to here. It's odd, but, uh, thank you. I appreciate that. Thank you. Also to, uh,
+
+779
+02:54:09,059 --> 02:54:18,600
+Final Fantasy 12 Penelo. FF12 Penelo. I don't know why I just said Final Fantasy. Botox.
+
+780
+02:54:20,120 --> 02:54:25,959
+Not getting Botox. Once you get Botox, that's what you admit that you're old. That's my opinion. The
+
+781
+02:54:25,959 --> 02:54:32,489
+second that you get Botox injected somewhere, I am admitting that I am old. Maybe that'll happen
+
+782
+02:54:32,489 --> 02:54:39,079
+when I'm 45. I don't know. Maybe it'll never happen. Maybe I'll never feel old. Maybe I,
+
+783
+02:54:39,079 --> 02:54:43,319
+and then you, and then if you do it too much, you end up looking, it looks too much. You know,
+
+784
+02:54:43,399 --> 02:54:50,100
+it looks like you did it too much. No, not gonna happen. Just try to age. I'm gonna try to age
+
+785
+02:54:50,100 --> 02:54:57,719
+like a nice red blend. Should be all right. What do you think about the shave job? See you in two
+
+786
+02:54:57,719 --> 02:55:05,750
+days when it looks real good. But we only got a few more. We got, uh, that was, uh, FF12 Penelo.
+
+787
+02:55:05,750 --> 02:55:10,469
+They said, I turned your stream on at work, promptly forgot I did. So when I put my headphones back in,
+
+788
+02:55:10,469 --> 02:55:16,329
+I was like, who the fuck is talking and realized. Anyways, genuinely thanks for what you do for
+
+789
+02:55:16,329 --> 02:55:23,049
+real. It always cheers me up when I need it. I think I would probably be, I was, and that's weird,
+
+790
+02:55:23,049 --> 02:55:28,950
+audio to hear too. Playing Hitman and talking about like strangling people and poisoning people.
+
+791
+02:55:29,510 --> 02:55:33,479
+I don't understand. Like I poisoned him. Why is he getting up? I poisoned that guy.
+
+792
+02:55:34,120 --> 02:55:39,639
+Oh my God. What the fuck, dude? Why is he waking up? I'm gonna throw an apple in his head. You'd be
+
+793
+02:55:39,639 --> 02:55:54,120
+like, I need to get like a new computer. Oh my God. Mugga ass. But, uh, if you can let me be on
+
+794
+02:55:54,120 --> 02:55:59,399
+at work, hopefully you have it in a situation where it's okay. And it's not going to be bad
+
+795
+02:55:59,399 --> 02:56:03,879
+that if you accidentally unplug your headphones and all of a sudden you, your boss hears me saying
+
+796
+02:56:03,879 --> 02:56:07,719
+fuck. Uh, they're not going to think you said it and then you're going to get in trouble.
+
+797
+02:56:07,719 --> 02:56:11,639
+So hopefully you got a situation there where it's okay. You got to like a system. You always have to
+
+798
+02:56:11,639 --> 02:56:16,680
+have like a good system. Uh, and make, and, and make sure you get your work done too. As I don't
+
+799
+02:56:16,680 --> 02:56:20,040
+want to just burn all your time there. Cause then they're going to blame me. And what if I get the
+
+800
+02:56:20,040 --> 02:56:27,350
+call from HR? What if my stream gets banned from your company? That's at least like six or seven
+
+801
+02:56:27,350 --> 02:56:44,040
+followers that I'm going to lose. I can't, I can't have that six or 7,000. No, but thank you. Uh,
+
+802
+02:56:44,040 --> 02:56:53,159
+thank you to not, not Hugsy. Uh, they said fix your internet. It's sad because I've fixed,
+
+803
+02:56:53,159 --> 02:57:01,209
+I've fixed this internet probably 15 to 16 times and it'll all be done soon. It's all going to be
+
+804
+02:57:01,209 --> 02:57:09,690
+over soon. Fiber to the home. I'm going to be on a direct thousand thousand connection,
+
+805
+02:57:10,329 --> 02:57:15,770
+true fiber. And then we can fucking forget that any of this shit ever happened.
+
+806
+02:57:18,459 --> 02:57:21,579
+I'm going to have like the best internet you can possibly purchase.
+
+807
+02:57:23,079 --> 02:57:30,680
+That is consumer grade internet at least I'm going on the fiber diet. That's right.
+
+808
+02:57:32,360 --> 02:57:37,479
+I can't wait. I can't wait to boot it up and have it be worse than this, which is that's not
+
+809
+02:57:37,479 --> 02:57:42,920
+possible. If you got direct fiber to the house, no fucking way. All these issues are because coax
+
+810
+02:57:42,920 --> 02:57:53,850
+sucks ass. Coax cable sucks total asshole. It is a fiber optic line. So all the dropping the frames,
+
+811
+02:57:53,850 --> 02:58:00,010
+the packet loss, the fucking dropouts, that's all because the cable companies suck and they have
+
+812
+02:58:00,010 --> 02:58:05,899
+laid this fucking groundwork that's been there for like 40 years and they're all dog shit.
+
+813
+02:58:05,899 --> 02:58:11,899
+All these lines of trash. So now that fiber is being laid out and they have to have it now,
+
+814
+02:58:12,700 --> 02:58:16,860
+you have, you, you'll be on a, if you can get on an actual to the home fiber,
+
+815
+02:58:17,739 --> 02:58:22,700
+all these issues disappear. They don't exist anymore. There's no noise. There's no like
+
+816
+02:58:22,700 --> 02:58:27,979
+ingress noise and packet problems when you're dealing with a fiber, a true fiber to the home.
+
+817
+02:58:28,700 --> 02:58:35,340
+You can have internet problems, but not like you do with coax. I fucking hate coax. Coax sucks.
+
+818
+02:58:35,340 --> 02:58:39,670
+I don't even want it plugged into the back of my fucking TV anymore. I'm going saddle.
+
+819
+02:58:39,670 --> 02:58:54,250
+Oops. Oops. Looks like somebody may have cut the bike. By the way, I just realized that there's
+
+820
+02:58:54,250 --> 02:58:58,840
+stuff going on in the background here. Is that an I? Is that a G? Is that a J? What is that?
+
+821
+02:58:58,840 --> 02:59:05,260
+It says there's like a monster on the left. I didn't even see that. Coax has less latency.
+
+822
+02:59:05,899 --> 02:59:09,020
+I would rather have stability than care about a few milliseconds of latency.
+
+823
+02:59:09,739 --> 02:59:15,020
+Coax has so many fucking problems. It doesn't matter where I am. I've, I've used three or four
+
+824
+02:59:15,020 --> 02:59:22,120
+different coax lines and they would just dog shit. So we'll see. Maybe I'll have my, maybe
+
+825
+02:59:22,120 --> 02:59:27,399
+fiber is worse, but there's no way it is. I've been told by every person that works in like
+
+826
+02:59:27,399 --> 02:59:31,879
+internet infrastructure that if you can get on fiber, get on it because it's a thousand times
+
+827
+02:59:31,879 --> 02:59:37,879
+more stable and better and more consistent than coax. So I'm like, thanks. I appreciate that.
+
+828
+02:59:38,600 --> 02:59:46,299
+And I'm going to be on it in a couple of months, but I think it's time to see if I set this up
+
+829
+02:59:46,299 --> 02:59:52,700
+correctly. If fiber is worse, what are you going to do? Um, shit my pants because at that point,
+
+830
+02:59:52,700 --> 02:59:56,459
+what the fuck am I going to do? I'm going to make my own. I'm going to have to like make my own
+
+831
+02:59:56,459 --> 03:00:04,250
+internet. Uh, let's see if this works. I want to see, can it work? I just need to know. Never
+
+832
+03:00:04,250 --> 03:00:13,579
+mind. It's not going to work. Oh, he blew it. He really blew it. I think. Yeah, he did. It's all
+
+833
+03:00:13,579 --> 03:00:23,459
+right. I didn't, I didn't set up correctly, but thank you to Mark Alter, Mark Alter. Thanks for
+
+834
+03:00:23,459 --> 03:00:29,379
+the $3. Enjoyed the stream. Good luck with the internet. And I, oh, I hit you in the eye. Now
+
+835
+03:00:29,379 --> 03:00:33,860
+you can't see. Sorry. Yeah. I'm going to, I'll make a few calls and see what's going on. Hopefully
+
+836
+03:00:33,860 --> 03:00:37,780
+they can get somebody out here and just turn the nozzle. Like apparently they do every time. And
+
+837
+03:00:37,780 --> 03:00:41,780
+then it's fine for like a month and a half. I don't understand, but, uh, I will see everybody
+
+838
+03:00:41,780 --> 03:00:48,469
+at TwitchCon, whoever's going. If you go into the show floor, I'll be there on Saturday. If not,
+
+839
+03:00:48,469 --> 03:00:52,549
+if you go into the party, if you make it there, I'll be there somewhere dancing with a toothpick.
+
+840
+03:00:55,620 --> 03:01:01,239
+Thank you guys. Here come the credits. Uh, door cube though, two 50 from door cube. I knew you
+
+841
+03:01:01,239 --> 03:01:04,760
+were going to shave your face in preparation to TwitchCon. That's what I told you guys that last
+
+842
+03:01:04,760 --> 03:01:08,840
+night, but I didn't realize you were going to get a haircut too, but I guess you needed one since you
+
+843
+03:01:08,840 --> 03:01:19,829
+played cosplaying as Daniel clamp from gremlins two. Is that the guy, the tie guy? That's the guy
+
+844
+03:01:19,829 --> 03:01:30,139
+with the tire, right? Oh, I know. Here come the credits by the way. Thank you everybody. Whoever
+
+845
+03:01:30,139 --> 03:01:34,940
+subbed in this kind of what did less than two hour period. It's still a lot of people leaving those
+
+846
+03:01:34,940 --> 03:01:40,819
+streams are going to only be a two or three hours long. Hope you enjoyed hitman for how, as long as
+
+847
+03:01:40,819 --> 03:01:49,020
+we got to play it before I had to stop. When I come back on Tuesday, we will do the second hitman
+
+848
+03:01:49,020 --> 03:01:55,079
+mission, clean it up, do the DLC, finish it up and move on from there. I thought there was something
+
+849
+03:01:55,079 --> 03:01:58,840
+wrong, but that's a person's username. I was like something, the spacing is incorrect on that.
+
+850
+03:01:58,840 --> 03:02:09,129
+This is really slow compared to yesterday. Yeah. Well, well yesterday was also eight hours and that
+
+851
+03:02:09,129 --> 03:02:14,739
+was also the first time I'd really come back, um, at my desk in about eight or nine days.
+
+852
+03:02:15,879 --> 03:02:20,920
+This is still a lot of people do not get me wrong there. This is still a shitload of people that
+
+853
+03:02:20,920 --> 03:02:30,729
+will sub in the two hours. Hey, cut tack. Thanks for the 500 bits stream extension. Oh, I see what
+
+854
+03:02:30,729 --> 03:02:36,500
+you know. Right. Yeah. Okay. Zake. Thanks for the 250. You are in the Minecraft copy pasta again for
+
+855
+03:02:36,500 --> 03:02:42,819
+Google translate. This time all languages. He is the creator of the first chapter of creation.
+
+856
+03:02:42,819 --> 03:02:57,879
+All other games are important games. You can have a cup of tea. I want to be a magician. At least I
+
+857
+03:02:57,879 --> 03:03:07,370
+got the last part right. Oh, this last one, this is a Siroc. Thank you Siroc for the 250. They say
+
+858
+03:03:07,370 --> 03:03:12,340
+goat hog champ German Venus. It's them watching the stream with a goat. Are they at the anti-mark
+
+859
+03:03:12,340 --> 03:03:26,459
+goats still available? Can we confirm? I don't think there's probably a very many left. Let's see.
+
+860
+03:03:26,459 --> 03:03:34,389
+Got one. You got one. Is it over? It is over. I had to stop because of the internet, but it's okay
+
+861
+03:03:34,389 --> 03:03:40,260
+though, because I do have a lot of shit that I still need to take care of before leaving stuff
+
+862
+03:03:40,260 --> 03:03:45,620
+that is not even Twitch con related stuff. That is my real life related that I have not been able
+
+863
+03:03:45,620 --> 03:03:51,260
+to do because I've not been here for four or five straight days after I got back. So I will see you
+
+864
+03:03:51,260 --> 03:03:57,049
+guys soon. Take care. So you have to Twitch con. I might turn the stream on at Twitch con. I don't
+
+865
+03:03:57,049 --> 03:04:01,370
+know why I would though. Maybe like eating spaghetti for like 30 minutes. It's only going to be like a
+
+866
+03:04:01,370 --> 03:04:10,700
+20 minute stream. If I do at least show this to you guys because it's funny. Take a look at that
+
+867
+03:04:10,700 --> 03:04:18,819
+link, get your anti-mark goat. If they're still available, which I don't think they are. Thanks
+
+868
+03:04:18,819 --> 03:04:26,100
+for hanging out everybody. See you real soon. Take care of yourselves and have a great weekend,
+
+869
+03:04:26,100 --> 03:04:38,979
+regardless if you're going to be a Twitch con or not. See you soon guys. Now there's no audio on
+
+870
+03:04:38,979 --> 03:04:47,110
+this. I broke something. I broke something. I don't, you know, it's just a lot of technical
+
+871
+03:04:47,110 --> 03:04:54,389
+things going on today. But before I leave, BorealBeast gave a thousand bits. Hey German,
+
+872
+03:04:54,389 --> 03:04:58,069
+this is my first time cheering. It's my birthday today and I wanted to give you something back to
+
+873
+03:04:58,069 --> 03:05:02,700
+one of my absolute favorite people as well. Love you and your content. Thank you so much for always
+
+874
+03:05:02,700 --> 03:05:07,659
+making me laugh and get me through tough times. I know you hear this a lot, but I really mean it.
+
+875
+03:05:07,659 --> 03:05:15,510
+Happy fucking birthday. Hope you have a great one. That was BorealBeast. Anytime I hear about the
+
+876
+03:05:15,510 --> 03:05:19,590
+stream people like and people have a great time here, it makes me, don't, don't worry if you,
+
+877
+03:05:19,590 --> 03:05:24,250
+you know, I know you hear this a lot kind of scenario. Every time somebody says that,
+
+878
+03:05:24,250 --> 03:05:28,819
+it doesn't matter how many times I hear it. It makes me happy every single time. Thank you.
+
+879
+03:05:28,819 --> 03:05:34,360
+And thanks for the thousand bits. And then HeatLegend thanks for 250. While I can't attend
+
+880
+03:05:34,360 --> 03:05:38,040
+TwitchCon, I hope you have a great time in San Diego. It rained for the first time today in
+
+881
+03:05:38,040 --> 03:05:42,100
+over a month, so I hope the weather isn't shitty for you when you get here. This would be the first
+
+882
+03:05:42,100 --> 03:05:49,479
+time I've been to San Diego as well. Well, not as well. You live there, I think, as it sounds.
+
+883
+03:05:49,559 --> 03:05:57,450
+But yeah, this is the first time being there. I will see you guys later. Take care. Good night.
+
+884
+03:05:57,450 --> 03:05:59,739
+I gotta go get ready. See you soon.

@@ -1,0 +1,443 @@
+1
+00:00:00,310 --> 00:00:14,890
+Hey, what is going on, everybody? Jerma here with a Team Fortress 2 gameplay commentary.
+
+2
+00:00:14,890 --> 00:00:20,890
+And tonight, gonna be playing as the sniper using the...what sniper rifle is this?
+
+3
+00:00:20,890 --> 00:00:22,890
+Oh, it's the heat machine bedmaker.
+
+4
+00:00:22,890 --> 00:00:28,890
+Alright, got the heat machine bedmaker on the...Darwin's? No, the Cozy Camper for the first half of this video.
+
+5
+00:00:28,890 --> 00:00:31,890
+And then I take it off for...because there were a lot of spies on the other team.
+
+6
+00:00:31,890 --> 00:00:35,890
+I think I put on the Razorback, actually. And the ham. The genuine ham.
+
+7
+00:00:35,890 --> 00:00:42,890
+So today, or tonight, whenever you happen to be watching this video, I want to talk about sniping.
+
+8
+00:00:42,890 --> 00:00:49,060
+Not necessarily the mechanics of sniping, not necessarily the, you know, how to snipe,
+
+9
+00:00:49,060 --> 00:00:53,060
+but an important role that you kind of sometimes have to play.
+
+10
+00:00:53,060 --> 00:00:57,689
+And I've never really talked about this topic before. I've touched upon sniping.
+
+11
+00:00:57,689 --> 00:01:03,689
+I've gave, like, advice and tips on how to be a better sniper, like, almost years ago, it seems.
+
+12
+00:01:03,689 --> 00:01:06,689
+But this video's gonna focus on counter-sniping.
+
+13
+00:01:06,689 --> 00:01:11,689
+And why, when you counter-snipe, you actually do so much good for your team,
+
+14
+00:01:11,689 --> 00:01:14,689
+even if you are getting friggin' destroyed.
+
+15
+00:01:14,689 --> 00:01:19,689
+Even if the other snipers on the team are using you for target practice,
+
+16
+00:01:19,689 --> 00:01:23,689
+you still add a good layer of protection to the rest of your team.
+
+17
+00:01:23,689 --> 00:01:27,689
+We're gonna go over why, and we're gonna go...yes.
+
+18
+00:01:27,689 --> 00:01:31,689
+So, counter-sniping, the first thing you wanna know, the first thing we're gonna talk about is,
+
+19
+00:01:31,689 --> 00:01:33,689
+when should you do it?
+
+20
+00:01:33,689 --> 00:01:36,859
+When should you be the guy that finally says,
+
+21
+00:01:36,859 --> 00:01:40,859
+okay, I'm gonna cave, and I'm gonna play sniper right now to try to counter-snipe?
+
+22
+00:01:40,859 --> 00:01:42,859
+So the situations are as follows.
+
+23
+00:01:42,859 --> 00:01:46,859
+Number one, if there are more than one or two snipers on the enemy team,
+
+24
+00:01:46,859 --> 00:01:51,859
+if there's even more than one sniper on the enemy team with a scope,
+
+25
+00:01:51,859 --> 00:01:53,859
+I'm not talking about Huntsman here,
+
+26
+00:01:53,859 --> 00:01:58,859
+because Huntsman is a sort of medium-range class that can be dealt with by other classes,
+
+27
+00:01:58,859 --> 00:02:01,859
+but if there is more than one scope sniper on the other team,
+
+28
+00:02:01,859 --> 00:02:06,099
+you gotta hold down Tab and see if you are matching that.
+
+29
+00:02:06,099 --> 00:02:10,099
+If you are not matching the same amount of snipers the other team has,
+
+30
+00:02:10,099 --> 00:02:12,099
+scope, again, we're talking about scope here,
+
+31
+00:02:12,099 --> 00:02:14,099
+then somebody has to do it.
+
+32
+00:02:14,099 --> 00:02:16,099
+And the reason why I say this,
+
+33
+00:02:16,099 --> 00:02:18,099
+and there are gonna be people that probably disagree with this theory,
+
+34
+00:02:18,099 --> 00:02:24,099
+but when there is an imbalance of snipers against snipers on various maps,
+
+35
+00:02:24,099 --> 00:02:26,280
+it can cause a lot of problems.
+
+36
+00:02:26,280 --> 00:02:32,280
+If there are, like, four snipers on the enemy team just destroying everyone at long range,
+
+37
+00:02:32,280 --> 00:02:36,280
+and there's maybe one on your side trying to deal with it,
+
+38
+00:02:36,280 --> 00:02:38,280
+it can be a real chaotic environment,
+
+39
+00:02:38,280 --> 00:02:44,280
+because there's no way, there's no other really class that can deal with snipers that have scopes
+
+40
+00:02:44,280 --> 00:02:46,280
+unless you are a spy.
+
+41
+00:02:46,280 --> 00:02:51,280
+It's very hard to deal with unless you have a very good spy or another couple very good snipers.
+
+42
+00:02:51,280 --> 00:02:54,840
+Now, there are a lot of exceptions to this guideline.
+
+43
+00:02:54,840 --> 00:02:57,840
+I'm not gonna call it a rule, because it is technically a guideline.
+
+44
+00:02:57,840 --> 00:03:00,840
+But point number two, a follow-up to point number one,
+
+45
+00:03:00,840 --> 00:03:05,840
+when you have matching snipers, they become targets for each other,
+
+46
+00:03:05,840 --> 00:03:09,840
+rather than just going rampant on the other people on the team.
+
+47
+00:03:09,840 --> 00:03:13,840
+When there's another sniper that you know is shooting at you, you're standing still.
+
+48
+00:03:13,840 --> 00:03:17,840
+You know he can kill you in one shot, so you are always shooting at each other.
+
+49
+00:03:17,840 --> 00:03:22,020
+And I think in this gameplay, I only die from another sniper.
+
+50
+00:03:22,020 --> 00:03:25,020
+It's the same sniper that kills me every single time.
+
+51
+00:03:25,020 --> 00:03:29,580
+So having that ample threat on either side,
+
+52
+00:03:29,580 --> 00:03:33,580
+I'm not gonna be trying to shoot at the heavies that are coming around the corner as slugs.
+
+53
+00:03:33,580 --> 00:03:37,580
+I'm not gonna do that, because I know the guy back behind the fucking rock over there
+
+54
+00:03:37,580 --> 00:03:39,580
+has his laser beam on my head.
+
+55
+00:03:39,580 --> 00:03:44,580
+So it's this parallel between the two sides that causes counter sniping to be very effective,
+
+56
+00:03:44,580 --> 00:03:49,580
+because then you allow your team to do the things that they are supposed to do,
+
+57
+00:03:49,580 --> 00:03:52,580
+rather than walking around corners and instantly dying.
+
+58
+00:03:52,580 --> 00:03:57,009
+And the third point I want to make about counter sniping and how to kind of effectively do it,
+
+59
+00:03:57,009 --> 00:03:59,009
+is you need to know the maps.
+
+60
+00:03:59,009 --> 00:04:04,009
+You need to know where all the sniping posts are, at least the most typical ones.
+
+61
+00:04:04,009 --> 00:04:09,009
+Because you're gonna be watching, I scan all the sniper areas over and over again,
+
+62
+00:04:09,009 --> 00:04:12,009
+looking for these guys to show up as they are doing to me.
+
+63
+00:04:12,009 --> 00:04:16,009
+So if you don't know where all the really default snipers,
+
+64
+00:04:17,009 --> 00:04:20,009
+if you don't know where the default sniper posts are,
+
+65
+00:04:20,009 --> 00:04:23,009
+it's gonna be hard for you to really counter snipe effectively,
+
+66
+00:04:23,009 --> 00:04:25,009
+because you always have to be scanning those areas.
+
+67
+00:04:25,009 --> 00:04:27,439
+And like I said in the beginning of this video,
+
+68
+00:04:27,439 --> 00:04:31,439
+even if you are a bullet sponge sniper,
+
+69
+00:04:31,439 --> 00:04:35,439
+even if you just turn the corner scope in and you get shot instantly,
+
+70
+00:04:35,439 --> 00:04:40,439
+like at least you're doing that, at least you're having to give that good sniper something else to do,
+
+71
+00:04:40,439 --> 00:04:45,439
+rather than hold his scope down on the cart completely uncontested
+
+72
+00:04:45,439 --> 00:04:48,939
+while he gets like 90 kills in one life.
+
+73
+00:04:48,939 --> 00:04:50,939
+And before the video wraps up, I do want to talk about this,
+
+74
+00:04:50,939 --> 00:04:54,939
+because it is a pretty major change to Team Fortress 2.
+
+75
+00:04:54,939 --> 00:04:57,939
+It has nothing to do with the previous large update that happened,
+
+76
+00:04:57,939 --> 00:04:59,939
+but it is about idling.
+
+77
+00:04:59,939 --> 00:05:04,939
+Apparently you can no longer idle anymore in this game,
+
+78
+00:05:04,939 --> 00:05:06,939
+unless you are physically in the game.
+
+79
+00:05:06,939 --> 00:05:12,939
+Like you can't load up a text idler, you have to be like actively in quotes playing the game.
+
+80
+00:05:12,939 --> 00:05:15,300
+And I'm gonna give you a reason why.
+
+81
+00:05:15,300 --> 00:05:19,300
+This could be a very, very, very good change to this game.
+
+82
+00:05:19,300 --> 00:05:21,300
+And it's a very big if.
+
+83
+00:05:21,300 --> 00:05:28,660
+If Valve introduces a way to get more drops for being in the game longer,
+
+84
+00:05:28,660 --> 00:05:32,660
+if they're gonna introduce higher drop rates or change the drop system a little bit,
+
+85
+00:05:32,660 --> 00:05:34,660
+I know the blog hinted at this.
+
+86
+00:05:34,660 --> 00:05:40,660
+The blog post on TF2.com sort of hinted that they are going to be tweaking the item system.
+
+87
+00:05:40,660 --> 00:05:45,660
+So if they go in the direction where, hey, if you're actively playing the game,
+
+88
+00:05:45,660 --> 00:05:47,660
+we want to reward you for playing.
+
+89
+00:05:47,660 --> 00:05:49,660
+So maybe we're gonna give you more drops.
+
+90
+00:05:49,660 --> 00:05:51,660
+Maybe we'll give you a higher percentage to get certain things.
+
+91
+00:05:51,660 --> 00:05:53,660
+Maybe we'll give you a different recipe.
+
+92
+00:05:53,660 --> 00:05:56,660
+Anything like that could be really awesome.
+
+93
+00:05:56,660 --> 00:06:01,220
+And I think Valve is starting to do a process here,
+
+94
+00:06:01,220 --> 00:06:04,220
+where they want to move people completely away from idling,
+
+95
+00:06:04,220 --> 00:06:08,220
+because with all these new updates and with all this work that Valve has put into this game,
+
+96
+00:06:08,220 --> 00:06:10,220
+they want you to actually play.
+
+97
+00:06:10,220 --> 00:06:15,220
+And I would really like to know what the percentage of people that are concurrently playing TF2,
+
+98
+00:06:15,220 --> 00:06:18,220
+how many of them are actually idling?
+
+99
+00:06:18,220 --> 00:06:22,220
+How many of them are actually in a game playing on like upward or something?
+
+100
+00:06:22,220 --> 00:06:26,220
+I bet you the percentage difference is astonishing.
+
+101
+00:06:26,220 --> 00:06:32,220
+I would be shocked if it were like, oh, no, there's only like 1% of the people that play TF2 are idling right now.
+
+102
+00:06:32,220 --> 00:06:35,220
+No way. I bet you it's way higher than that.
+
+103
+00:06:35,220 --> 00:06:39,220
+But if somebody has that statistic, then please go ahead and share it in the comments.
+
+104
+00:06:39,220 --> 00:06:43,220
+And speaking of comments, if you want to add to the discussion, please, by all means,
+
+105
+00:06:43,220 --> 00:06:47,220
+leave what you think about this idle change in the comment section,
+
+106
+00:06:47,220 --> 00:06:50,220
+or about counter sniping in general, or about sniping,
+
+107
+00:06:50,220 --> 00:06:54,389
+or about how your grandmother's doing, is she how's she doing, how like your family's doing,
+
+108
+00:06:54,389 --> 00:06:57,389
+did you go to a picnic this weekend? I want to hear about it.
+
+109
+00:06:57,389 --> 00:07:00,389
+But just put something in the comment section, guys, and that's going to wrap up the video.
+
+110
+00:07:00,389 --> 00:07:02,389
+And I'll see you guys all next time.
+
+111
+00:07:02,389 --> 00:07:06,389
+And of course, take care, everybody.

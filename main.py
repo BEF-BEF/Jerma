@@ -33,7 +33,7 @@ def main():
     # process_urls()
 
     # # Converts new transcriptions.txt to srt for youtube subtitles
-    # convert_transcriptions_to_srt()
+    convert_transcriptions_to_srt()
 
 
     # Index content for fast searching. It'll take a while the first time you run it then it's fast.

@@ -1,0 +1,5795 @@
+1
+00:00:00,500 --> 00:00:11,349
+Does it work? You guys see the stream. What happened? 25 million...
+
+2
+00:00:12,820 --> 00:00:19,980
+late? Yes. What? I was? Oh. I was just testing the stream.
+
+3
+00:00:24,500 --> 00:00:29,940
+Look, if you lose by 7 seconds, you still lost. If you lost by 4 seconds, you still lose.
+
+4
+00:00:31,510 --> 00:00:34,789
+I hate to tell you that, but that's... Hey, look, if you get...
+
+5
+00:00:35,909 --> 00:00:42,390
+If you get Blackjack at the table, and the dealer gets Blackjack too, I'm sorry, you didn't win.
+
+6
+00:00:42,469 --> 00:00:59,479
+I know it feels kind of horrible. I trusted you. Double Blackjack? I did not do that on purpose.
+
+7
+00:00:59,479 --> 00:01:06,390
+I really didn't. Hello, everybody. How are you? Let me just make a tweet. Today, we are going to
+
+8
+00:01:06,390 --> 00:01:14,650
+play a video game. I know that yesterday we had some problems. It has been essentially confirmed
+
+9
+00:01:14,650 --> 00:01:20,250
+for me, even though nobody confirmed it. I confirmed it myself with just how I feel about
+
+10
+00:01:20,250 --> 00:01:25,939
+the situation. There was something wrong with where the traffic was coming from for some
+
+11
+00:01:25,939 --> 00:01:31,459
+streamers to the Twitch ingest servers. I know I wasn't the only one. I remember Ludwig was
+
+12
+00:01:31,459 --> 00:01:36,819
+talking about it. We both had the problem yesterday. It's working now. There's not a
+
+13
+00:01:36,819 --> 00:01:43,079
+problem now. We got the free space. Why are you playing Bingo? I'm playing Pikmin today.
+
+14
+00:01:43,079 --> 00:01:53,159
+This is not a Bingo stream. Yeah, I got Pikmin 2s ready to go. I have the Wii version. I don't
+
+15
+00:01:53,159 --> 00:01:57,719
+know if that's a bad thing or not. People are going to be really pissed off that I have the
+
+16
+00:01:57,719 --> 00:02:04,040
+Wii version, not the GameCube version, but that's the way it is. It's been upscaled from 480p to
+
+17
+00:02:04,040 --> 00:02:16,069
+like 520p. Those extra 40 resolution pixels are worth it for me, okay? Let me grab my drink. I'll
+
+18
+00:02:16,069 --> 00:03:40,889
+be right back. Two seconds. Also, I made a mistake here. I was brewing a tea. What's going on with
+
+19
+00:03:40,889 --> 00:03:51,659
+my mic here? Come on. Get up here. My mic stand is fucked up. What the fuck? I brewed a tea
+
+20
+00:03:52,300 --> 00:03:58,919
+and the tea bags, I had black tea and a green tea. They were right next to each other and I didn't
+
+21
+00:03:58,919 --> 00:04:03,800
+know which one was which. I wanted black tea and I was just kind of rushing to get things started.
+
+22
+00:04:06,280 --> 00:04:09,400
+I didn't know which one was the black tea. I kind of switched them around too much,
+
+23
+00:04:09,400 --> 00:04:14,039
+so I just put them both in and didn't even care and just brewed it. I don't know if that's a
+
+24
+00:04:14,039 --> 00:04:23,060
+problem. Is it mixing black and green tea like a bad thing? I wasn't gonna wait like the two or
+
+25
+00:04:23,060 --> 00:04:30,660
+three minutes to ruin the water because if I put the green one in... Oh shit, it's the green one.
+
+26
+00:04:30,660 --> 00:04:34,420
+I wanted black tea. No, I don't want the green tea. I would have to like... Okay, I guess I'm
+
+27
+00:04:34,420 --> 00:04:40,180
+gonna drink green tea or what? You redo it, you re-boil the water and... No. So I just put them
+
+28
+00:04:40,180 --> 00:04:45,339
+both in and it's like a weird mix of black and green. I don't know, mixing like different tea
+
+29
+00:04:45,339 --> 00:04:52,860
+drugs. What? We don't have to... I didn't even tweet this. What the... That's the whole point.
+
+30
+00:04:52,860 --> 00:05:01,300
+I went and got my phone. All right, what should I... What should I title this? How about just
+
+31
+00:05:01,300 --> 00:05:17,990
+Pikmin 2 is fucking fun as hell. Pikmin 2. Let's go guys. No, I'm not doing that. This tea tastes
+
+32
+00:05:17,990 --> 00:05:24,660
+bad but I don't even care. I want it. I knew this was gonna happen too. This is gonna cause
+
+33
+00:05:24,660 --> 00:05:27,939
+some frustrations for me. I knew it. I'm hunching over because my mic is fucked. Hold on.
+
+34
+00:05:30,410 --> 00:05:35,290
+And also I'm like stalling right now because I'm terrified that I'm gonna get like twitch...
+
+35
+00:05:35,290 --> 00:05:40,490
+The server's gonna fuck up again. So pardon my paranoia right now while I wait to make sure
+
+36
+00:05:40,490 --> 00:05:48,279
+this is gonna be green for an extended period. It's too teasy. All right, I'm gonna mute because...
+
+37
+00:05:55,899 --> 00:06:03,160
+Okay, are you ready? Are we ready for Pikmin 2? I have not... I've only played like maybe an hour
+
+38
+00:06:03,160 --> 00:06:15,699
+of all this one entire series. So I don't know if it's any good or not. I need to adjust this.
+
+39
+00:06:18,680 --> 00:06:34,339
+Pikmin 2. That... Wow. That really is like kind of 1080, isn't it? That is 1080. Kind of. I mean,
+
+40
+00:06:34,339 --> 00:06:45,339
+I'll fix it. It's 7-1. It's 7-something. I'm probably gonna make somebody sick by doing this
+
+41
+00:06:45,339 --> 00:06:52,810
+but I want to get this right. Oh, don't go to a black screen. No! Oh, that actually... Yeah,
+
+42
+00:06:52,810 --> 00:07:03,779
+that's perfect. Almost there. Almost got it. Almost got it. Almost got it. Got it. Done. All
+
+43
+00:07:03,779 --> 00:07:08,279
+right. Pikmin 2. I don't care about the cutscene. I don't know anything about Pikmin 1. It's a guy
+
+44
+00:07:08,279 --> 00:07:12,680
+that like pulls flower people out of the ground and throws them and stuff. I don't need that much
+
+45
+00:07:12,680 --> 00:07:24,649
+of an explanation for it. I can't imagine the story is that intricate. Is it? Is the story that big
+
+46
+00:07:24,649 --> 00:07:32,680
+of a deal? Hello, this game is shit. You're about to get attacked and I look... What am I supposed
+
+47
+00:07:32,680 --> 00:07:37,000
+to do? I'm looking from like the rafters of the base. Looking down at you running around
+
+48
+00:07:38,040 --> 00:07:42,519
+with like a pickaxe or something and there's like 200 people with like machine guns around you
+
+49
+00:07:42,519 --> 00:07:47,000
+and you're running around like, let me in! Hey, let me in the base! Pikmin 2 sucks!
+
+50
+00:07:47,000 --> 00:07:50,540
+And I'm just looking down like, dude, I'm sorry. You're dead. There's nothing I can do for you.
+
+51
+00:07:50,540 --> 00:07:59,910
+They're all... You're surrounded. Just like... You're dead. I'm sorry. And then you like throw
+
+52
+00:07:59,910 --> 00:08:06,629
+the pickaxe up at me like I'm the problem. Like, oh, fuck you, buddy! It's like, no, I didn't...
+
+53
+00:08:06,629 --> 00:08:12,040
+You just did that. You pissed off like a thousand people. And by the way, you hit like the middle of
+
+54
+00:08:12,040 --> 00:08:16,040
+the castle. You're not strong enough to throw that high. Now you don't have a pickaxe. Now you
+
+55
+00:08:16,040 --> 00:08:23,620
+fucked. I gotta test this too. He's stalling. I'm just making sure it's green for 10 minutes,
+
+56
+00:08:23,620 --> 00:08:37,179
+please! I'm so paranoid. I'm paranoid. I'm not putting... I'm not putting a face cam on for this.
+
+57
+00:08:37,179 --> 00:08:42,860
+Oh, you're not getting a face cam. All right, I need to test the audio and that is a real
+
+58
+00:08:42,860 --> 00:08:55,450
+thing. That's not a stalling thing. You ready? One, one, two, three, two, let's go. Pick. Good?
+
+59
+00:08:55,450 --> 00:09:11,269
+Sounds pretty good, right? Good? All right, let's go. Pikmin 2. Does this have motion controls?
+
+60
+00:09:11,269 --> 00:09:20,970
+Begin. Great Pikmin 2 save data. Yes. We want to see your face. Uh, no, I'm not doing it. I'm
+
+61
+00:09:20,970 --> 00:09:30,679
+not putting my face cam on. It's not happening. This is a pre-recorded thing. No, it's not. I
+
+62
+00:09:30,679 --> 00:09:39,190
+think we're green though. I'm fine. Uh, new ships log. Sure. Are there upgrades in this game?
+
+63
+00:09:39,190 --> 00:09:45,000
+Alcatate, a freight, is a long-haul deep space shipping company. One day, it's only employee
+
+64
+00:09:45,000 --> 00:09:50,740
+of any merit. Captain Olimar, his entire first game, got hit by an asteroid and crashed into
+
+65
+00:09:50,740 --> 00:09:56,629
+Earth on interstellar vacation. There, he was aided by indigenous creatures, which he called
+
+66
+00:09:56,629 --> 00:10:02,549
+Pikmin. In the end, Captain Olimar escaped. Good. Don't need to play the first game now.
+
+67
+00:10:02,549 --> 00:10:09,299
+But in Olimar's absence, his employer, Hokatate Freight, ran into financial difficulties.
+
+68
+00:10:09,299 --> 00:10:27,559
+It was way too hot. Dead. There's Captain Olimar. And by the way, people that say Olimar,
+
+69
+00:10:29,240 --> 00:10:41,370
+we don't listen to those people. President of Hokatate Freight, local employee Louie.
+
+70
+00:10:42,090 --> 00:10:45,940
+Oh, this is a spoiler. I knew he was in the game because I played Smash Brothers.
+
+71
+00:10:45,940 --> 00:10:56,899
+Olimar, I'm so glad you're safe. Yes, very glad. Quite glad. But, sadly, I have an announcement
+
+72
+00:10:56,899 --> 00:11:03,830
+that is not so glad. Our company is going under. Yes, we're finished. On his first mission, Louie
+
+73
+00:11:03,830 --> 00:11:11,259
+here met a ravenous space bunny. His entire load of golden PikPik brand carrots was eaten.
+
+74
+00:11:15,750 --> 00:11:22,169
+I took out an enormous loan to repay the debt from this loss. I decided to sell assets to repay.
+
+75
+00:11:22,250 --> 00:12:15,899
+I fucking forgot about something. We're good. We're good. We're good. We're good. We're good.
+
+76
+00:12:16,940 --> 00:12:20,059
+We're good. I just want to make sure that the water boiler was off.
+
+77
+00:12:23,159 --> 00:12:30,460
+I was like, water boiler. Wait, is that on? Oh, fuck. It's off. We're good. It was off. Making
+
+78
+00:12:30,460 --> 00:12:52,409
+sure. Missed the story. With Captain Olimar, you too will save the galaxy. I mean, restart.
+
+79
+00:12:52,970 --> 00:12:58,470
+Okay, I know that he's probably his cousin or something.
+
+80
+00:12:59,269 --> 00:13:21,370
+It's a little brother. Valley of... Okay. We have to repay the debt together as brothers.
+
+81
+00:13:22,169 --> 00:13:27,029
+Nintendo loves having Super Mario and Super Luigi. I get it.
+
+82
+00:13:27,029 --> 00:13:38,620
+That's a lot uglier than I thought it was going to be.
+
+83
+00:13:44,169 --> 00:13:47,610
+That was close. I have averted a crash landing.
+
+84
+00:13:48,809 --> 00:13:57,960
+Running diagnostics. Alert. Danger. Louis is missing. He must have somehow fallen out of his
+
+85
+00:13:57,960 --> 00:14:04,759
+cockpit. He hates the game already. No, I don't. He is not responding via his communicator.
+
+86
+00:14:05,779 --> 00:14:14,570
+He is either flouting protocol or in danger. Oliver, fuck. You must find Louis before he
+
+87
+00:14:14,570 --> 00:14:27,620
+freezes to death in the cold of this planet. Wait a moment. Look. Look. It's a Bunger Burger and
+
+88
+00:14:27,620 --> 00:14:37,289
+Pikmin. Could these be Pikmin? They look like they're about to be devoured as we speak.
+
+89
+00:14:37,289 --> 00:14:43,289
+You must help them point at the screen and press B to call them with your whistle. Oh, no. It uses
+
+90
+00:14:43,289 --> 00:14:54,259
+the Wii pointer. Oh, God. I already hate it. I already hate the game. Okay. You can also hold
+
+91
+00:14:54,259 --> 00:15:03,620
+B to make the sound of your whistle carry farther. Remember? Nope. All right. Let's see what happens.
+
+92
+00:15:03,620 --> 00:15:14,200
+All right. Where's my... I point. Oh, shit. Okay. This game blows. No, it's stop. We haven't even
+
+93
+00:15:14,200 --> 00:15:20,600
+gotten five minutes in. This is like everyone's favorite game in this channel. Pikmin ran to your
+
+94
+00:15:20,600 --> 00:15:27,659
+side. They seem to remember you, Captain Oliver. How fascinating. Give them instructions and do
+
+95
+00:15:27,659 --> 00:15:36,340
+not delay. Hold A to grab a Pikmin. And I got to lean back to this one. I'm sitting back. Hold on.
+
+96
+00:15:36,340 --> 00:15:45,190
+And point at the screen and release to throw it. Shit. Okay. So hold A, grab Pikmin, then hold...
+
+97
+00:15:45,190 --> 00:15:50,740
+Then point at the screen and release to throw it. Cool. Actually, I might actually like this. We'll
+
+98
+00:15:50,740 --> 00:16:02,570
+see. So hold the Pikmin. Actually, it's actually pretty good. It's not bad. That could be a lot
+
+99
+00:16:02,570 --> 00:16:13,559
+worse. I'm going to need like a wrist helper though. Hold on. Yeah. I'm going to have to rest my
+
+100
+00:16:13,559 --> 00:16:23,350
+wrist and just sit here. Attention, Captain Oliver. I have just reestablished my communications link
+
+101
+00:16:23,350 --> 00:16:30,950
+with Louis. It is fortunate we have managed to confirm his safety. Press minus to communicate
+
+102
+00:16:30,950 --> 00:16:43,820
+with him. Cool. Do the fucking bingo. Wow. I'm going to do bingo of my own stream. If I look at
+
+103
+00:16:43,899 --> 00:16:52,519
+the bingo, when I not want to do those things, you're going to have to update me later. I'm
+
+104
+00:16:52,519 --> 00:16:57,059
+quite interested in the details of his condition. I'm not going to look at it. Why would I do that?
+
+105
+00:16:58,580 --> 00:17:11,720
+No, don't have any fun. Okay. So let's talk to Louis. Louis. It's Vin Diesel. And introducing
+
+106
+00:17:11,720 --> 00:17:19,480
+Vin Diesel as Louis. Louis, allow me to assess your condition. As per our safety protocols,
+
+107
+00:17:19,480 --> 00:17:26,730
+are you at all injured? Is that so? And my concerns are eased. Our communication link
+
+108
+00:17:26,730 --> 00:17:34,900
+shows you are nearby. Okay, cool. You make your way to our location. Rejoin us. I will navigate
+
+109
+00:17:34,900 --> 00:17:46,460
+for you. Press plus sign to contact me and obtain information about the terrain. Louis doesn't have
+
+110
+00:17:46,460 --> 00:17:55,210
+any Pikmin. Louis has no Pikmin. So I just run up through the... Oh, okay. Yeah, we are nearby.
+
+111
+00:17:55,210 --> 00:18:05,220
+Thank God there's a map in the game. I'm so happy there is. Is it worth one? Looks like Louis died
+
+112
+00:18:05,220 --> 00:18:17,609
+on impact. That's how they open with it? That would be horrible. Louis, the odd object before
+
+113
+00:18:17,609 --> 00:18:32,119
+you appears to be one of the Onions mentioned in Olimar's report. And this is where you get
+
+114
+00:18:32,119 --> 00:18:42,339
+the Pikmin from. This is where they are born. The seed, the onion ejected just sprouted according
+
+115
+00:18:42,339 --> 00:18:56,569
+to Olimar's report. It can be plucked with A. No fucking way. Oh, it does the wee moan sounds too.
+
+116
+00:18:56,650 --> 00:19:08,059
+Oh, he's so cute. This is a red Pikmin. They have fire damage. Maybe. This must be one of the Pikmin
+
+117
+00:19:08,059 --> 00:19:16,299
+creatures from Olimar's report. It is staring at you. You can press down on the d-pad to issue
+
+118
+00:19:16,299 --> 00:19:23,460
+objectives to your Pikmin squad and direct their movement. You can disband your squad with C.
+
+119
+00:19:23,460 --> 00:19:33,140
+Interesting. What is C? Oh. Olimar's description of the creatures resembling PikPik carrots was
+
+120
+00:19:33,140 --> 00:19:41,430
+strikingly accurate. Louis, my sensors have detected drool in the corner of your mouth.
+
+121
+00:19:41,430 --> 00:19:49,369
+Are you all right? Well, he just got in like a fucking plane crash. What are you talking about?
+
+122
+00:19:49,369 --> 00:20:09,579
+He's probably like really fucked up right now. So now it takes one to get the one coin, right?
+
+123
+00:20:09,579 --> 00:20:34,460
+Oh, that's cool. All right, go get that. Go get that. Hey, stupid. Go get that. To throw him,
+
+124
+00:20:34,460 --> 00:20:48,490
+why can't he just get it on his own? Oh, it's worth one coin. Is there upgrades in this game?
+
+125
+00:20:48,490 --> 00:20:54,940
+Eventually, am I going to be able to upgrade stuff? Because I will like it if there's upgrades.
+
+126
+00:20:55,019 --> 00:21:05,910
+So these ones give me more Pikmin. Oh, interesting. The onion ejected more seeds. The pellet from that
+
+127
+00:21:05,910 --> 00:21:12,099
+flower must hold nutrients that breed Pikmin. Holy shit, this is cool. Yes, the Pikmin gather
+
+128
+00:21:12,099 --> 00:21:18,940
+nutrients, haul them to the onion, and further propagate the species. The onion is a Pikmin
+
+129
+00:21:18,940 --> 00:21:25,960
+mothership. Reviewing Olimar's report, it seems repeatedly tapping A lets one rapidly pluck
+
+130
+00:21:25,960 --> 00:21:39,269
+Pikmin sprouts. Oh shit, okay. How many can I get? Oh, I just have to do it. Okay, so I have three.
+
+131
+00:21:40,460 --> 00:21:49,109
+How do I call them back? Oh, we go. All right, and so that's down B in Smash Brothers. I get it.
+
+132
+00:21:49,109 --> 00:21:55,160
+All right, so you go get that one. You go get that one. You go get that one. Problem solved.
+
+133
+00:21:55,160 --> 00:22:05,269
+Why am I getting minus two for that? That's just a fact. That's my only experience with Pikmin is
+
+134
+00:22:05,910 --> 00:22:19,349
+being Olimar in Smash Brothers. Oh, that's cool. Okay, let's get even more of them. How many can I
+
+135
+00:22:19,349 --> 00:22:34,039
+have? What's this one worth? Get it. Olimar is the worst character. Wasn't he pretty high tier for a
+
+136
+00:22:34,039 --> 00:22:46,740
+while? This game is legitimately hard. Have fun. Well, this game is legitimately hard. Have fun.
+
+137
+00:22:46,740 --> 00:23:01,750
+Do they have a health bar? Okay, so now I've got I've got 11 Pikmin. Where should we go? They're
+
+138
+00:23:01,750 --> 00:23:07,960
+kind of slow. There's a Duracell battery. Wait, it's actually a Duracell battery. Is this like
+
+139
+00:23:07,960 --> 00:23:13,829
+branding in the game? Perhaps this object is one of the treasures that we are searching for.
+
+140
+00:23:17,880 --> 00:23:21,799
+The only reason we found it here is because this is where you crash landed. How fortunate.
+
+141
+00:23:23,180 --> 00:23:27,099
+I would like to appraise it, but you must regroup with Olimar first. Can you see him?
+
+142
+00:23:27,740 --> 00:23:35,029
+Press Z to move the camera behind you. You can also press left or right to zoom it up or down
+
+143
+00:23:35,029 --> 00:23:42,490
+to change angles. Okay, that's good to know. Okay, that's like just a turn camera. Oh, that's very
+
+144
+00:23:42,490 --> 00:23:49,130
+important. That's disband the group, right? Oh, I don't want to do that. All right, let's go to
+
+145
+00:23:49,130 --> 00:24:09,220
+Olimar. Look, I've got friends too. I throw them over there. Hey, hey, hello. Can I pick this up?
+
+146
+00:24:09,220 --> 00:24:18,809
+Wait, like go into the bag? All right, one of you go up there and investigate.
+
+147
+00:24:21,019 --> 00:24:38,819
+One out of 15. What? I need more. Wait, can I twitch back to Olimar? Oh, it's a puzzle game.
+
+148
+00:24:38,819 --> 00:24:58,420
+Now what? It's gonna be an RTS. We're gonna have Olimar on the right side with 10 blue Pikmin,
+
+149
+00:24:58,420 --> 00:25:02,180
+five purples. We're gonna have Louis on the left side going to collect like a gold mine from
+
+150
+00:25:02,180 --> 00:25:07,720
+somebody else's base or something with like 10 purples, right? Oh, God, I'm gonna lose my mind
+
+151
+00:25:07,720 --> 00:25:12,460
+in this game. You're reunited at last. This has been a troublesome start to our trip.
+
+152
+00:25:14,250 --> 00:25:18,009
+But now you must feel assured that your combined wits can get you through anything, correct?
+
+153
+00:25:19,289 --> 00:25:26,380
+From now on, use B to form a single group, C to take solo action. And that's to change the leaders.
+
+154
+00:25:26,380 --> 00:25:37,670
+Okay, form a single group, C to take solo action. Walk around by yourself, okay? So, okay, let's
+
+155
+00:25:37,670 --> 00:25:50,099
+get everybody together, right? We got everybody? Let's take this though. Over here. I want you
+
+156
+00:25:50,099 --> 00:25:58,730
+guys to get that. Yeah, all of you. Bring it back to the ship. Let's dissect it. And then some of
+
+157
+00:25:58,730 --> 00:26:03,880
+you come over. Wait, what about getting the battery? Oh, this is cool. I need, I'm probably
+
+158
+00:26:03,880 --> 00:26:09,240
+gonna need 15 people to get the battery. How many people do you think it takes to get the battery?
+
+159
+00:26:09,240 --> 00:26:32,119
+All right, let's go get the battery. Or is it back here? How many? It takes, what's it doing?
+
+160
+00:26:32,839 --> 00:26:45,369
+Why can't they get it? Take it out. Oh, this is cool. Okay, dig, dig, dig. And they're gonna
+
+161
+00:26:45,369 --> 00:26:56,809
+pull it out. I like this game. I like this game. Oh, I like this game. I like this game. A lot of
+
+162
+00:26:56,809 --> 00:27:08,569
+people were potentially, oh, I need 20. I don't have 20. We need another seed. All right, you guys
+
+163
+00:27:08,569 --> 00:27:27,460
+come with me. Wait, hold on. We just, it's because we fed the machine a body? Is that enough? That's
+
+164
+00:27:27,460 --> 00:27:39,779
+enough? We have to feed the machine bodies to make Pikmin. All right, get in there. Give me that
+
+165
+00:27:39,779 --> 00:27:48,680
+battery. It's probably worth like $1,000. It's called recycling, Jeremy. Well, hold on. I need
+
+166
+00:27:48,680 --> 00:27:52,519
+it. I need like a, I gotta put like a notebook underneath my arm. In fact, I'm gonna turn this
+
+167
+00:27:52,519 --> 00:28:01,619
+way. I'm gonna play sideways. You know, I'm gonna put this on the other monitor. I'm playing sideways
+
+168
+00:28:01,619 --> 00:28:10,230
+right now. Easier on my wrist, like rested on my arm bit, on wrist, arm wrist thing. Right now I'm
+
+169
+00:28:10,230 --> 00:28:17,509
+sitting kind of sideways looking slightly to the right because my arm wrist thing, my chair, is
+
+170
+00:28:17,509 --> 00:28:28,630
+propping up my Wiimote so I can just wicked slowly like slob like move this around. It's taking
+
+171
+00:28:28,630 --> 00:28:48,950
+them a long time. Your hand is too shaky. Duracells are heavy. They're doing their best. I like this
+
+172
+00:28:48,950 --> 00:28:53,420
+game. All right, I'm probably gonna like the first four or five hours of this game and I'm gonna hate
+
+173
+00:28:53,420 --> 00:29:08,359
+the rest of it. I just want to be very clear. 280 bucks. A courage reactor. Oh, that's cool.
+
+174
+00:29:09,079 --> 00:29:27,109
+I love the sound it makes. You hear that? That's, I love that noise. Cool. Our first day of
+
+175
+00:29:27,109 --> 00:29:32,329
+exploration has yielded our first treasure. We will be done in record time. I took liberty
+
+176
+00:29:32,329 --> 00:29:38,250
+of naming it when I appraised it. The name reflects my current thinking. Leave it to me to think up
+
+177
+00:29:38,250 --> 00:29:45,160
+catchy names for hit products. It is but one of my many talents. We shall end our first day here
+
+178
+00:29:45,160 --> 00:29:51,960
+and report back to our president. His face will surely be joyous. However, to communicate with
+
+179
+00:29:51,960 --> 00:29:58,900
+Hokotate, we must fly into low orbit above the planet. We will not return to the surface until
+
+180
+00:29:58,900 --> 00:30:06,470
+morning so as to avoid the indigenous nocturnal creatures. That's Minecraft, okay? So you have to
+
+181
+00:30:06,950 --> 00:30:11,829
+during the, oh my god, it's Minecraft. It's, at night you have to get out. It's timed. This is
+
+182
+00:30:11,829 --> 00:30:28,680
+what you guys are talking about. Where's all the Pikmin? Oh, yes, but minus two. Oh, come on,
+
+183
+00:30:28,680 --> 00:30:45,240
+it was one Bunger Burger we could have taken. Days, I thought they said Toeklase. Toedays report.
+
+184
+00:30:48,980 --> 00:30:55,740
+There's money involved. You like cash in money and you have like storage of Pikmin's and you view,
+
+185
+00:30:55,740 --> 00:31:05,829
+I spend this money. You found your first bit of treasure. Fine work. Our future depends on
+
+186
+00:31:05,829 --> 00:31:11,059
+your effort so check your treasure hoard regularly. I'll check it often. Keep up the pace.
+
+187
+00:31:11,779 --> 00:31:37,500
+Definitely safe. Oh, here's the song. Treasure hoard. Oh, cool. Zoom in on it. What did the
+
+188
+00:31:37,500 --> 00:31:43,819
+journal say? We've recovered our first treasure. Amazingly, the Pikmin remembered how to salvage
+
+189
+00:31:43,819 --> 00:31:51,430
+it. Oh, I can't understand their adorable language and I don't know what they're thinking.
+
+190
+00:31:52,069 --> 00:31:57,509
+Yet, I am so happy to see them. When I crashed on this planet, the Pikmin helped me locate my
+
+191
+00:31:57,509 --> 00:32:03,910
+missing ship's parts. In my darkest hour, the Pikmin were there for me. Now that I'm reunited
+
+192
+00:32:03,910 --> 00:32:16,200
+with them, I know everything will be alright. It will, right, Gordon? Oh, this is New Things
+
+193
+00:32:16,200 --> 00:32:29,960
+in the Piklopedia. Why are you Professor Oak? I don't know who that is. Let's go to the area.
+
+194
+00:32:30,920 --> 00:32:39,990
+Day two. I kind of just sit and listen to this music. Excuse me, what? What are you talking about?
+
+195
+00:32:39,990 --> 00:32:57,430
+How what? What's going on? What did you want? Pretending. What happened? Professor Oak. What?
+
+196
+00:32:57,430 --> 00:33:08,710
+Somebody said I sounded like Professor Oak. What? What's going on? I'm freaking out right now. What
+
+197
+00:33:08,710 --> 00:33:18,579
+are you guys talking about? It's a career ending statement. I don't understand what's going on.
+
+198
+00:33:18,579 --> 00:33:21,460
+Somebody said you sound like Professor Oak and I was like, oh, I don't know what that is.
+
+199
+00:33:22,019 --> 00:33:28,710
+Professor Oak from Pokemon. I don't know who that is. I have no idea who that is.
+
+200
+00:33:29,720 --> 00:33:35,720
+I don't know who Professor Oak is. Guys, there's like 5,000 NPCs in those games. I've never played
+
+201
+00:33:35,720 --> 00:33:44,599
+Pokemon. Is that the guy that assesses the Pokemon? I don't know who Professor Oak is.
+
+202
+00:33:45,400 --> 00:33:53,130
+I have not consumed even maybe 30 minutes total of Pokemon. And you know, it was probably watching
+
+203
+00:33:53,130 --> 00:34:00,809
+the intro of the Pokemon. Gotta catch him. You and me. We'll do it our destiny.
+
+204
+00:34:00,809 --> 00:34:04,569
+Like 15 years ago when that meme was out. I don't know. I think I've never seen it. I don't care.
+
+205
+00:34:09,110 --> 00:34:13,820
+I thought something was wrong. I was like, oh, I don't know who that is. Like Professor Oak,
+
+206
+00:34:13,820 --> 00:34:19,579
+I don't play Pokemon. And I look over at chat and it's like, it's as if I like shit like diarrhea
+
+207
+00:34:19,579 --> 00:34:24,539
+in my pants and you heard it. And it was like, what the fuck was that? I heard like diarrhea
+
+208
+00:34:24,539 --> 00:34:28,309
+sounds. Like, is he all right? What's happening? Is he sitting in his own shit? What happened?
+
+209
+00:34:38,070 --> 00:34:50,380
+I don't know who Professor Oak is. Wait, hold on. Let me, I gotta ask. Is Professor Oak the character
+
+210
+00:34:51,099 --> 00:34:58,070
+that has the lab coat on and he has like the spiky white hair and he works in the Pokemon center?
+
+211
+00:35:01,079 --> 00:35:05,719
+Yes. All right. Okay. I know who that guy is. I didn't know what his name was.
+
+212
+00:35:06,599 --> 00:35:11,820
+And on top of that, I don't know what he sounds like. I just, I've seen like a picture of him.
+
+213
+00:35:12,219 --> 00:35:17,159
+Good morning, workers. Ready for another day of toiling the profit of your company?
+
+214
+00:35:19,019 --> 00:35:27,929
+The Pikmin seem to still be asleep inside their onion. What lazy creatures. No wonder they lack
+
+215
+00:35:27,929 --> 00:35:32,650
+survival skills. Stand beneath the onion and press A to call them. I'm not going to stop doing that.
+
+216
+00:35:32,650 --> 00:35:45,619
+I'm sorry. Let's call them up. Everybody. How many do we want? Take out or return Pikmin? Wait,
+
+217
+00:35:45,619 --> 00:35:53,750
+I have a finite amount? Not yet. Let's assess the area. How much time do I have? Oh shit. Get that.
+
+218
+00:35:56,949 --> 00:36:10,019
+I'm going to take 10. 10. Come on out. Five of you get that. The five, the other five must
+
+219
+00:36:10,019 --> 00:36:17,260
+have gone the other way. Oh my God. Wait, just the five. How many are in there? One, two, three,
+
+220
+00:36:17,260 --> 00:36:27,269
+four, five. You, how many do I have? Five? Shit. I should have taken 11. Take all of them. If they
+
+221
+00:36:27,269 --> 00:36:42,010
+die, they're gone permanently though. No fear. Take them. Okay. Fine. I'm going to get that one.
+
+222
+00:36:44,550 --> 00:36:54,659
+How many need to be on here? 35? Do I even have that many? Hurry up. Go, go, go, go, go, go.
+
+223
+00:36:55,380 --> 00:37:12,260
+Oh shit. There's something right here too. Get that. Any up here? Oh my God. There's so much
+
+224
+00:37:12,260 --> 00:37:26,630
+to explore. There's nothing up here. All right. Pull them out. I need 35. Pick them up. Pull them
+
+225
+00:37:26,630 --> 00:37:39,139
+up. So many activities. There really are. Okay. I have to, I got to, I'm going to make you guys
+
+226
+00:37:39,139 --> 00:37:45,340
+happy. Or some of you angry. I never gave this game a chance because I didn't know it was like
+
+227
+00:37:45,340 --> 00:37:52,469
+this. I thought it was like level one. Go. Level two. Go. I didn't think it was sort of this open
+
+228
+00:37:52,469 --> 00:38:02,739
+sort of, you just go collect treasure and coins and stuff. I was unaware of that. Nice. We got it.
+
+229
+00:38:02,739 --> 00:38:10,650
+All right. This is definitely going to be like an old toy. Kill. Kill. And then eat his body.
+
+230
+00:38:10,650 --> 00:38:16,699
+Somebody die? All right. Get out. Go. Let's go. Oh my God. I love this game. All right. Let's keep
+
+231
+00:38:16,699 --> 00:38:30,869
+going. Wait a minute. There's a big guy. Don't wake him up yet. Hold on. What's over here? Is
+
+232
+00:38:30,869 --> 00:38:44,489
+that a crush can? 35. Okay. Can we get this without waking him up? All right. Nobody get that.
+
+233
+00:38:45,130 --> 00:38:53,500
+You know what? Hold on. Wait. Wait. Separate. Louie, you stay here in case shit hits the fan.
+
+234
+00:38:54,139 --> 00:39:11,610
+This is on GameCube. This is on the, technically the Wii U. Oh, fuck. This is the Wii version on
+
+235
+00:39:11,610 --> 00:39:25,340
+the Wii U. It's pretty good. When are you going to play Smash Brothers? No, I got completely turned
+
+236
+00:39:25,340 --> 00:39:30,139
+off forever from playing Smash Brothers ever, ever again. I already told you what happened.
+
+237
+00:39:30,940 --> 00:39:37,590
+I did that. That single player mode was cool for a little while. There's almost too much content
+
+238
+00:39:37,590 --> 00:39:43,190
+in there though. It was like 60 hours of content in there and it was kind of overwhelming.
+
+239
+00:39:43,989 --> 00:39:49,769
+That was cool though. But I played online two or three matches with italics. We just like,
+
+240
+00:39:49,769 --> 00:39:53,530
+yeah, let's get, dude, I'm going to start. I'm going to get good with Simon Belmond. You just
+
+241
+00:39:53,530 --> 00:39:57,880
+watch me. I'm going to start. I'm going to get good with him. We played two or three online matches
+
+242
+00:39:57,880 --> 00:40:03,739
+together, just hanging out. We got beat so badly three or four times in a row. This is a true
+
+243
+00:40:03,739 --> 00:40:09,739
+statement. Neither one of us has ever played the game again. I have not turned it on since that
+
+244
+00:40:09,739 --> 00:40:16,389
+happened to us. We just were looking at each other just after like four or five matches of getting,
+
+245
+00:40:17,190 --> 00:40:23,480
+let's just say we all had two stock. We couldn't even get anybody on the other team past like
+
+246
+00:40:23,480 --> 00:40:32,010
+a hundred percent on their first stock. It was awful. So we never played ever again. It's not
+
+247
+00:40:32,010 --> 00:40:50,699
+going to wake them up, is it? Basically, get on there. Kill the big guy first. I don't want
+
+248
+00:40:50,699 --> 00:41:03,940
+to lose any Pikmin. Are we doing this? Oh, Olimars are over. Can I fight with Olimar?
+
+249
+00:41:04,760 --> 00:41:26,679
+Oh shit, you can punch. All right, I guess we're going to go for it. You ready? Attack! Holy shit,
+
+250
+00:41:26,679 --> 00:41:39,500
+we got it. Anybody die? We got him. Oh, nobody else can do it. Okay. Wait, some of you guys get
+
+251
+00:41:39,500 --> 00:41:56,409
+the can. Oh, this is perfect tactic. Push it over. Just keep pushing it. I need everybody for this
+
+252
+00:41:56,409 --> 00:42:13,420
+one. How many Pikmin am I going to get for this? Don't ever attack the face. Oh, okay. Oh, that's
+
+253
+00:42:13,420 --> 00:42:18,550
+what his voice sounds like. What was I doing? I was like, oh, Gordon. All right, so let me get that
+
+254
+00:42:18,550 --> 00:42:49,940
+right. What are you doing back here? You too. Stop that. Do not.
+
+255
+00:42:51,860 --> 00:43:02,360
+Oh, I see it every time. And it's just every low voice is just Mr. Satan. I know and I'm sorry.
+
+256
+00:43:05,639 --> 00:43:22,340
+All right, help. Get over there. Get on it. Oh, fuck. I'm sorry. Is it everybody on it that
+
+257
+00:43:22,340 --> 00:43:38,170
+it can be on it? I guess so. What does red mean then? So red is capacity too, right? Number plus
+
+258
+00:43:38,170 --> 00:43:48,179
+10 is usually the max. Okay. Red means stop it. Good 450 bucks. All right. So there's still a
+
+259
+00:43:48,179 --> 00:44:01,210
+whole day here. Where should I go? This way? Where have I gone? Oh my God. Okay. Um, is there
+
+260
+00:44:01,210 --> 00:44:17,539
+anything back here? I could go. Should I go this way? Let's go over here. Break that wall. What wall?
+
+261
+00:44:18,340 --> 00:44:30,179
+Break the wall. Hold on. I have anything over here. This is wrong way. Um, I just want to see
+
+262
+00:44:30,179 --> 00:44:53,980
+anything over here. Oh, on Wiimote. Hey, motion controls. Fuck you. All right. Go for it. Relax.
+
+263
+00:44:55,860 --> 00:45:02,119
+Use a GameCube controller instead. I feel like I'll get used to this. I'm already starting to.
+
+264
+00:45:02,760 --> 00:45:13,619
+It was a wall. Let me see. Hold on. These guys are kind of slow. Where was this wall?
+
+265
+00:45:26,309 --> 00:45:44,179
+Wall. Do I have enough time to do this? Come on. Hurry up. Oh shit. There's a wall here.
+
+266
+00:45:44,969 --> 00:45:49,030
+Mike, Mike, Mike, Mike, Mike. Go, go, go. Get on there.
+
+267
+00:45:51,860 --> 00:46:07,239
+Take it. Break it down. No, no, no. Wrong button. No, wrong button. It's what is it down? What
+
+268
+00:46:07,239 --> 00:46:15,420
+button is it? Okay. That's I don't like that. I'll tell you a reason why. Okay. So the Wiimote,
+
+269
+00:46:15,980 --> 00:46:23,829
+the Wiimote's controller is not for buttons. It's just, if you press down on the Wiimote,
+
+270
+00:46:23,829 --> 00:46:35,019
+sometimes you'll press left or right on the D-pad. I'm not a fan of that. Get it. Can we help?
+
+271
+00:46:55,579 --> 00:46:56,219
+Apparently not.
+
+272
+00:47:12,380 --> 00:47:19,420
+Are they imagining that somebody else walked in the room that likes Louie and is like,
+
+273
+00:47:19,420 --> 00:47:22,489
+oh, what does Louie do? Why are they doing this again?
+
+274
+00:47:33,940 --> 00:47:46,250
+It's just recapping. Oh, okay. Wait, don't put them into the geyser. What is this?
+
+275
+00:47:46,889 --> 00:47:53,719
+It's for old people and children. Right. Interesting.
+
+276
+00:48:01,909 --> 00:48:10,840
+What's in there?
+
+277
+00:48:15,800 --> 00:48:20,059
+Well, I'm sorry. We're going to have to do the pebble test here. We're going to do the rock test
+
+278
+00:48:20,059 --> 00:48:25,019
+first, Mr. Tin Can, whatever your name is. You grab a rock and you let it go in there
+
+279
+00:48:25,019 --> 00:48:27,989
+and you just put your ear over it and you wait until you hear the noise.
+
+280
+00:48:30,170 --> 00:48:34,409
+Oh, yeah. Just go ahead and jump on in. Why would I do that? You let the rock go and you put your
+
+281
+00:48:34,409 --> 00:48:47,929
+ear over it. So you stand over there and go, drop. We ain't going in that one. I'm sorry.
+
+282
+00:48:47,929 --> 00:49:04,250
+I guess we're going in. Wait, I don't have enough time. Do I have time to do this?
+
+283
+00:49:04,250 --> 00:49:13,139
+All right, Louie, I need you to come over here. You take some and I'll take some. How many should
+
+284
+00:49:13,139 --> 00:49:23,849
+I? I need 50. Stop, stop, stop. Time stops in caves. Oh, how many do I want? I'll go in there with
+
+285
+00:49:23,849 --> 00:49:37,000
+50. Take them all. I thought I could only take 50. Wait, what? Oh, okay. I have 59. Okay. Okay.
+
+286
+00:49:38,739 --> 00:49:52,519
+I don't know why my brain. I don't know. My brain's insane. Game has been saved.
+
+287
+00:49:57,539 --> 00:50:04,980
+Fuck. Did you notice how half-assed that was? I started to think about doing it and then I kind
+
+288
+00:50:04,980 --> 00:50:10,309
+of gave up halfway through and I pulled back really hard. Yeah, I gave up halfway through that one.
+
+289
+00:50:10,309 --> 00:50:17,500
+I wasn't sure about that one. Intriguing. My heart sensors indicate that this hole has life in it.
+
+290
+00:50:17,500 --> 00:50:25,909
+It's warmer than on the surface. Analyzing suggests danger lies ahead, but the promise
+
+291
+00:50:25,909 --> 00:50:32,550
+of treasure is tantalizing. If you wish to check underground terrain, press the plus sign to
+
+292
+00:50:32,550 --> 00:50:40,599
+communicate with me. I am not just a ship. I am an all-purpose support pod. You have any guns?
+
+293
+00:50:42,059 --> 00:50:57,699
+Ooh. All right, split up. I want to take like 25. Olimar, you take this group. Louie,
+
+294
+00:50:57,699 --> 00:51:03,929
+you take this group. Here we go. We're going Louie first. Get everybody in the right spot.
+
+295
+00:51:05,659 --> 00:51:09,659
+Oh shit. I just zoomed out into the fog of war that I could see and I see that Red
+
+296
+00:51:10,460 --> 00:51:14,860
+is desperately trying to group up his enemies 30 feet away from my base and he doesn't think I can
+
+297
+00:51:14,860 --> 00:51:37,260
+fucking see him do that. What's that? Take it. Whatever it is. All right. Why am I splitting up?
+
+298
+00:51:37,260 --> 00:51:46,039
+Why do we need to split up? Everybody come with me. Are we going to fight? Are we fighting? Are
+
+299
+00:51:46,039 --> 00:52:01,400
+they hostile? Get them. Get them. 550. Nice. Seven up. I love seven up. It's way better than sprite.
+
+300
+00:52:02,940 --> 00:52:09,260
+Fight. Fight. Oh my God. This fucking Wii mode is going to drive me insane.
+
+301
+00:52:12,860 --> 00:52:15,500
+I'm telling you pressing down on the Wii mode. It was the worst idea ever.
+
+302
+00:52:16,380 --> 00:52:27,000
+Kill it. All right. How much does it take to get this fruit thing?
+
+303
+00:52:28,659 --> 00:52:37,530
+Take it out. Just throw them. Throw them. It squishes the enemies. Oh.
+
+304
+00:52:38,809 --> 00:52:45,940
+How can you possibly consider this beast a treasure? Beasts are incompatible with my
+
+305
+00:52:46,900 --> 00:52:54,010
+circuitry. I suppose I will store your finds in my hold. But I do think, I do not think beasts will
+
+306
+00:52:54,010 --> 00:53:07,190
+be worth much. Well, what can I turn them into Pikmin? I thought that was the point. All right.
+
+307
+00:53:07,190 --> 00:53:18,019
+We're good. What about this thing? We go in this? This hole appears to be quite deep. My sensors
+
+308
+00:53:18,019 --> 00:53:24,179
+indicate more treacherous terrain. Oh shit. Louis, do you recall that you can adjust the camera with
+
+309
+00:53:24,179 --> 00:53:34,650
+Z and up left and right on that? Yes. Your expression suggested you are. You do. Yes, I do.
+
+310
+00:53:34,650 --> 00:53:39,369
+Don't worry. All your Pikmin will follow you. Approach the hole and press A to enter it.
+
+311
+00:53:39,369 --> 00:53:48,519
+I don't know. I only have like five. Can't do this today. I need to put this orange in.
+
+312
+00:53:49,159 --> 00:53:54,809
+Wait, you want me to go down there and just have everybody get killed? That doesn't sound like a
+
+313
+00:53:54,809 --> 00:54:14,809
+fun time. Oh wait, maybe I should. How much is an orange worth? 180. Citrus lump. What did I call
+
+314
+00:54:14,809 --> 00:54:22,840
+it? Fruit thing? Oh, wait a minute. We still have, I only, one person died. That's it. I'm going for
+
+315
+00:54:22,840 --> 00:54:48,360
+it. Time is stopped here, right? What's going? Four died. They did? Send a letter. This goes even
+
+316
+00:54:48,360 --> 00:55:05,210
+deeper. Oh, I had 59. Final floor. Oh shit. Okay. This is the, this is important. This is very
+
+317
+00:55:05,210 --> 00:55:16,260
+important. Get the camera in the right place. All right. Everybody come with me. Kill it.
+
+318
+00:55:16,980 --> 00:55:33,940
+But all right. Yeah. Now pick it up. Deliver that. Oh, a globe. It's inconceivable that such an
+
+319
+00:55:33,940 --> 00:55:40,179
+immense object has been buried here for so long. The design on the outer shell resembles the surface
+
+320
+00:55:40,179 --> 00:55:47,030
+of the planet as seen from space. Perhaps this can be used for something other than salvage.
+
+321
+00:55:48,070 --> 00:55:54,219
+Is it a map? How will we ever lift it? I fear that even a hundred red Pikmin will be unable to lift
+
+322
+00:55:54,219 --> 00:56:11,139
+it. What? What? What do you mean? We can't get it? No, we have to be able to get that. Come on.
+
+323
+00:56:12,230 --> 00:56:17,429
+Okay. Well, it's like, it's like a Metroid game. I'm going to come back here with the forklift and
+
+324
+00:56:17,429 --> 00:56:29,349
+lift it up. Oh fuck. Kill him. How am I not landing on him? You know what to do. Get it. Good job,
+
+325
+00:56:29,349 --> 00:56:44,920
+guys. Kill. Good. You know what to do. We'll bring the bodies back. Kind of running out of Pikmin
+
+326
+00:56:44,920 --> 00:57:02,969
+though. Okay. Get that one too. How many do I have? 23? What is this? This must be, I think this is a
+
+327
+00:57:02,969 --> 00:57:11,050
+new Pikmin. Yep. It's going to be a blue Pikmin. Astounding. A flower blooms in a cave deep beneath
+
+328
+00:57:11,050 --> 00:57:18,679
+the snowy landscape. Clearly it is warmer down here than above. Look, the Pikmin are restless.
+
+329
+00:57:19,800 --> 00:57:25,179
+Purple. Oh. It looks as if they are, they yearn to be tossed into the flower.
+
+330
+00:57:37,059 --> 00:57:43,449
+And it makes a purple. And the purples are strong, right? The purples are really powerful. I remember
+
+331
+00:57:43,449 --> 00:57:48,170
+that. They didn't fly very far, but they did a ton of damage when they hit somebody in Smash Brothers.
+
+332
+00:57:48,730 --> 00:58:05,420
+What should I get? Like 10? I don't want to get rid of all my Pikmin. All of them? What do you mean
+
+333
+00:58:05,420 --> 00:58:26,860
+all? What? Do all? What? Why would I want to do that? Amazing. A purple Pikmin. It has hair,
+
+334
+00:58:26,860 --> 00:58:35,210
+and it is quite stocky. It seems very heavy and strong. Each flower can only make five. Oh, okay.
+
+335
+00:58:36,010 --> 00:58:44,039
+Pull the bar. This Pikmin is an entirely new type of Pikmin. Transforming Pikmin by tossing
+
+336
+00:58:44,039 --> 00:58:51,030
+them into flowers. Intriguing. Perhaps there are others. All right. So we're going to get 10 big
+
+337
+00:58:51,030 --> 00:59:06,550
+guys. It's a fat Pikmin. Yeah. And they're worth like five red Pikmin, right? How do I do five at
+
+338
+00:59:06,550 --> 00:59:28,380
+a time? Throw it faster? Now we can get the globe. Yeah. I think that's it, right? All right. I think
+
+339
+00:59:28,380 --> 00:59:51,780
+that's it. Is there a way to? Oh, this is going to be hard. Globe. Let's get it. Go up the geyser.
+
+340
+00:59:51,860 --> 01:00:07,050
+Pepe left. Okay. They're so slow. Come on. Get over there. Get it. Get it there. 100. 100.
+
+341
+01:00:14,219 --> 01:00:24,340
+What's it going to be worth? All right. I'm going to show this link.
+
+342
+01:00:25,860 --> 01:00:28,579
+Links. I'm going to tell you. Let's go over this really quickly.
+
+343
+01:00:29,940 --> 01:00:36,579
+Links are going to be completely removed from chat. Permanently. In the very near future.
+
+344
+01:00:37,619 --> 01:00:42,500
+And it's going to be replaced. Links are going to go somewhere else that I can pull from that
+
+345
+01:00:42,500 --> 01:00:47,940
+is not in the chat. So they're not being removed from the stream. They're being removed from chat.
+
+346
+01:00:48,739 --> 01:00:52,980
+It will be a nice solution where you can post a link somewhere and it can be looked at and then
+
+347
+01:00:52,980 --> 01:01:02,150
+I can get a hold of it. It's just not going to be in chat anymore. Oh, keep that in mind. That's it.
+
+348
+01:01:02,150 --> 01:01:10,090
+200 bucks. Let me just show this on stream real quick because I found it to be a little humorous.
+
+349
+01:01:10,730 --> 01:01:34,619
+This game is humorous. Don't use Discord. I'm not going to use Discord. It's going to be its own
+
+350
+01:01:34,619 --> 01:01:39,659
+potential custom solution. We'll find out. I'm going to do a little research.
+
+351
+01:01:41,420 --> 01:01:45,349
+This is device resembling a microchip embedded inside the sphere retrieving the data.
+
+352
+01:01:47,260 --> 01:01:51,820
+I could only decode a portion of the data but I did retrieve new geographic charts. Oh, new location.
+
+353
+01:01:53,659 --> 01:02:06,340
+Ooh. Put them in somebody else's chat. Oh my god. Can you imagine how dog shit that would be?
+
+354
+01:02:10,789 --> 01:02:16,389
+That would be the most unbelievably awful way to do that. Put it in somebody else's chat.
+
+355
+01:02:17,579 --> 01:02:23,429
+I just make a new account. It's Twitch.tv. I'm not going to say it because I'm too late.
+
+356
+01:02:23,989 --> 01:02:36,409
+I don't care. It's just a chat full of links. That is not the solution, by the way. But how
+
+357
+01:02:36,409 --> 01:02:50,710
+fucked up would that be? That's so stupid. Okay. Exploration kit. Oh, that's so awful.
+
+358
+01:02:52,980 --> 01:02:56,340
+Now that we have this new data, you should explore the decoded territory tomorrow.
+
+359
+01:02:58,760 --> 01:03:06,579
+That's total keel. K-E-W-L. Keel. Is everybody here? We didn't leave anybody behind, right?
+
+360
+01:03:07,219 --> 01:03:13,699
+I think we're good. Let's go. Oh, that's not a portal.
+
+361
+01:03:26,489 --> 01:03:49,099
+I can't wait to see the guitar version of that song. How did you lie about Mr. Slime? I didn't
+
+362
+01:03:49,099 --> 01:03:55,460
+lie about Mr. Slime. It was just a lot of things I had to do. Didn't we already go over this?
+
+363
+01:03:57,860 --> 01:04:01,219
+Thinking of something fun to do or an idea that might be fun to do is not
+
+364
+01:04:01,219 --> 01:04:08,699
+me telling you that it's going to happen in three days. You know what would be awesome?
+
+365
+01:04:09,340 --> 01:04:15,260
+I wish Cheetos would make a hot version, but have it be a Chipotle hot version.
+
+366
+01:04:15,900 --> 01:04:21,780
+That's a good idea. And a year later, they don't make that. You can't be mad at me for
+
+367
+01:04:21,780 --> 01:04:26,980
+coming up with an idea. Why don't those Cheetos exist, Jeremy? You thought about that. That
+
+368
+01:04:26,980 --> 01:04:36,920
+would have been delicious. I fucking hate you. I guess I would be the CEO of the Cheetos company,
+
+369
+01:04:36,920 --> 01:04:42,019
+right? In that case. But even still, if the CEO of the Cheetos company is like,
+
+370
+01:04:42,099 --> 01:04:48,539
+hey, you know what would be really delicious? If we had a Cool Ranch Cheeto, that's a good
+
+371
+01:04:48,539 --> 01:04:51,820
+idea. You should do it. Now, maybe. I don't know. We got other things from the pipeline.
+
+372
+01:04:52,699 --> 01:04:59,059
+Fuck you. But wait, try our new flavor. We got like five flavors coming out in the next couple of
+
+373
+01:04:59,059 --> 01:05:22,099
+months. Try one of those. Not as good. When are you going to put cat ears on, CEO? Let's go. Back to
+
+374
+01:05:22,099 --> 01:05:36,150
+the service. Cry, cry. One voice Andy. Hey, you know what? I'll be five voice Andy, okay?
+
+375
+01:05:36,949 --> 01:05:43,670
+I'm going to tell you right now. I'm going to stand up for myself a little bit here. I might be
+
+376
+01:05:43,670 --> 01:05:49,510
+five voice Andy, but would you rather me be like 30 voice Andy and 25 voices are terrible? Or would
+
+377
+01:05:49,510 --> 01:05:56,119
+you rather have completely calculated, clean, cool, five perfect voices that can be used in
+
+378
+01:05:56,119 --> 01:06:01,239
+a million scenarios? You want like 30 or 40 crappy voices that you're like, oh, that wasn't
+
+379
+01:06:01,239 --> 01:06:07,159
+that good. Or would you rather have completely refined five to six complete voice work?
+
+380
+01:06:23,909 --> 01:06:33,059
+Your five voices suck. I want you to record yourself doing this and I want you to send it
+
+381
+01:06:33,059 --> 01:06:46,090
+to me tomorrow. I want you to record yourself doing that and send it to me tomorrow.
+
+382
+01:06:59,139 --> 01:07:05,940
+Like, don't ask for that, the challenge. That's not a challenge. I just was talking to one person.
+
+383
+01:07:06,820 --> 01:07:20,739
+Challenge accepted. No, I didn't. Don't do that, by the way. That takes years of training. That's
+
+384
+01:07:20,739 --> 01:07:28,019
+hard to do and it can hurt you. That low, gravelly, deep into the chest voice, that took me 30 fucking
+
+385
+01:07:28,019 --> 01:07:34,900
+years to get that right. Be careful. I'm not issuing any challenges here. No challenges.
+
+386
+01:07:39,210 --> 01:07:53,739
+It's difficult to do that work. I've missed all this dialogue. Fuck. 30 years.
+
+387
+01:07:55,079 --> 01:07:58,519
+Olimar and Louis, since you will explore a new area tomorrow, today's work is done.
+
+388
+01:08:03,670 --> 01:08:08,389
+Do that. Also not a challenge, by the way. No, when I said you, I was referring to like the collective
+
+389
+01:08:08,389 --> 01:08:13,269
+and when I meant do that, I meant like do it as in like existentially, like nobody can do that.
+
+390
+01:08:13,269 --> 01:08:18,069
+I can do that, right? That's what I meant by that. Like you as in collectively you and do that as in
+
+391
+01:08:18,069 --> 01:08:22,550
+like I bet you couldn't. Like because I'm like collectively speaking like in existential terms.
+
+392
+01:08:30,329 --> 01:08:39,159
+There's a backtrack? No. Okay. When I say you guys, right, I'm not referring to like one single
+
+393
+01:08:39,159 --> 01:08:46,489
+person sitting in their room. Otherwise, I would say, hey, Dave Anderson, watching the stream right
+
+394
+01:08:46,489 --> 01:08:53,880
+now, I hope you had a really good birthday last week. And that's that I'm directly addressing one
+
+395
+01:08:53,880 --> 01:09:16,550
+of you. It's always Dave. Why can't it be somebody else? No, don't do anything. I'm kidding around.
+
+396
+01:09:16,550 --> 01:09:28,939
+It's a joke. What's so special about Dave? I don't know. The easiest name to remember.
+
+397
+01:09:29,739 --> 01:09:35,020
+You guys want a little bit of insight into my brain. It's very, very difficult for me to come
+
+398
+01:09:35,020 --> 01:09:48,359
+up with first and last real names. If I sit here and try to come up with a name, Mike, Dave, John,
+
+399
+01:09:49,239 --> 01:09:55,159
+Smith, Anderson, Stevenson. I don't, it's hard to come up with like a full name.
+
+400
+01:10:02,579 --> 01:10:07,140
+Jeremy, but that's my name. That's not me making up another name. That's me just using my name.
+
+401
+01:10:08,550 --> 01:10:22,600
+Just say Andy. Just say Andy. But here's the thing. We don't come up with names for people
+
+402
+01:10:22,600 --> 01:10:28,500
+anymore. We come up with the thing that they didn't and then add Andy to it. It used to be
+
+403
+01:10:28,500 --> 01:10:33,899
+you'd put that shit in quotes. Like it was like, Oh God, Jimmy, the schnoz.
+
+404
+01:10:36,470 --> 01:10:48,010
+Acapella or something, right? Now it's just schnoz Andy. We don't come up with like full names
+
+405
+01:10:48,010 --> 01:10:53,819
+anymore. We just give them the kind of a description and then add Andy to it. It's kind of ruined my
+
+406
+01:10:53,819 --> 01:11:11,479
+way to process people's names. Schnoz Andy. But you know what I mean though? Like Twitch, it started
+
+407
+01:11:11,479 --> 01:11:18,039
+to like get into my brain. Even in emotes and stuff. Like I don't even, I'm 35 guys. I'm older.
+
+408
+01:11:18,039 --> 01:11:26,250
+I'm an older gentleman and for no reason I'll randomly just think of, Oh, that was so cool.
+
+409
+01:11:27,609 --> 01:11:32,250
+I don't even talk like that though. I don't even talk like that. It's just in the head.
+
+410
+01:11:32,970 --> 01:11:44,890
+I have never said that out loud, but internally I say that. Not like Monka S. I internalize that.
+
+411
+01:11:44,890 --> 01:11:52,180
+If something's scary, I'm like, Oh shit, like Monka S. Like fuck. Language is sort of changing.
+
+412
+01:11:54,359 --> 01:11:59,399
+You can, emotes are becoming, you can like communicate with emotes now.
+
+413
+01:11:59,399 --> 01:12:07,420
+They used to do this stuff back in like the hieroglyphics days. Hieroglyphics are coming back.
+
+414
+01:12:08,060 --> 01:12:13,670
+We're having a midlife crisis? Yeah. Yes, absolutely. This is absolutely what that is.
+
+415
+01:12:14,390 --> 01:12:32,310
+So yeah. Oh, I want to look at these. The purple pitman were somehow able to carry this. Now I'm
+
+416
+01:12:32,310 --> 01:12:36,949
+to get into my head because I have five voice Andy. No, excuse me. Sorry. I'm going to rephrase
+
+417
+01:12:36,949 --> 01:12:46,630
+that. Jeremy, goofy voice, Albertson. There. I'm not doing, I'm not doing that anymore.
+
+418
+01:12:47,510 --> 01:12:55,659
+The purple pitman were somehow able to carry this massive treasure. Today we measured their
+
+419
+01:12:55,659 --> 01:13:01,770
+physical strength using a ship's onboard beef abator. It seems that we have 10 times the weight
+
+420
+01:13:01,770 --> 01:13:07,449
+and physical power of any pitman. When I throw them, they land with a resounding
+
+421
+01:13:07,449 --> 01:13:16,090
+foot. I've decided to commemorate the cave first encountered them by naming it an emergency cave.
+
+422
+01:13:16,090 --> 01:13:34,779
+Mr. Potter. I can't even read this shit. We're going to go back. Kylo Ren auto. Oh, give me a break.
+
+423
+01:13:35,979 --> 01:13:48,260
+Awakening woods. Let's go. What the fuck is this game? Wait, hold on. Are you whoing
+
+424
+01:13:48,260 --> 01:13:53,060
+Pikmin? That's not possible. Is it? When did the last Pikmin come out? Pikmin three, Pikmin four.
+
+425
+01:14:03,050 --> 01:14:08,260
+Morning. How are you? It should be pleased you to know that the purple Pikmin are lodged safely in
+
+426
+01:14:08,260 --> 01:14:16,579
+my home. Confines of my interior seem to suit them perfectly. Well, they do occasionally tickle me.
+
+427
+01:14:17,699 --> 01:14:23,609
+That wasn't Bernie. That was supposed to be Arnold Schwarzenegger.
+
+428
+01:14:23,609 --> 01:14:46,359
+I think I've got to focus. I have to focus. Good morning. How are you? Fuck. That is Bernie.
+
+429
+01:14:47,619 --> 01:14:55,670
+Good morning. How are you? How are you? How are you? Good morning. Good morning. Fuck. It is. No,
+
+430
+01:14:55,670 --> 01:15:00,010
+but it's not though. It's kind of not. Stand in the ring of light below and press A to call the
+
+431
+01:15:00,010 --> 01:15:22,180
+purple Pikmin out. Okay, let's get the purples. I want 30 red Pikmin and then Louis, I want you to
+
+432
+01:15:22,180 --> 01:15:35,880
+get purple Pikmin. I want five pur- all? I don't want to take all. All? What? What if they die?
+
+433
+01:15:43,689 --> 01:15:55,689
+Jeremy Elbertson Andy. Louis has Olimar instructed you on the particularities of the Pikmin
+
+434
+01:15:55,689 --> 01:16:04,010
+creatures. The Pikmin form groups based on color when disbanded with C. Grabbing Pikmin with A
+
+435
+01:16:04,010 --> 01:16:10,890
+will also cause them to group by color. Now for the bonus lesson. First, press and hold A to pick
+
+436
+01:16:10,890 --> 01:16:17,180
+up a Pikmin. Then, while you hold A, press B to swap between different colored Pikmin.
+
+437
+01:16:19,000 --> 01:16:24,199
+This is the first time you have heard this, Olimar. Remember to properly train new employees.
+
+438
+01:16:24,600 --> 01:16:45,640
+All right, that's cool. Yeah, you guys are gonna be at work. There's gonna be a new employee
+
+439
+01:16:45,640 --> 01:16:52,439
+at your job and the name's gonna be like Greg Michaels and that you're never gonna call them
+
+440
+01:16:52,439 --> 01:17:06,149
+Greg Michaels. You're always gonna call them new employee Andy. Language is changing. All right,
+
+441
+01:17:06,149 --> 01:17:12,970
+let's throw some- let's get these and then let's crush these guys with some big ones.
+
+442
+01:17:15,479 --> 01:17:29,300
+Oh, what's that? Whatever it is. Kill it. Kill it! Just kill everything and pick it up.
+
+443
+01:17:31,260 --> 01:17:40,140
+Nice. Okay, I'm gonna get that. Oh, there's a big one over here. We'll get- we'll group up
+
+444
+01:17:40,140 --> 01:18:06,199
+after this. Go. Very cool. Cool. All right, there's more. What's the actual cap? Is it 100? It's 200.
+
+445
+01:18:06,199 --> 01:18:22,329
+Holy shit. We could handle that? No, no, no, no. 100 in a party. Okay. All right, let's do it.
+
+446
+01:18:24,630 --> 01:18:34,949
+Um, wait. Somebody get that. Anything else? Zoom up. Oh, nice. Get these too. I love this game.
+
+447
+01:18:34,949 --> 01:18:47,979
+It's really fun. Fight! Ah, get them. Yes. Cool. All right, now get these too. Somebody pick up
+
+448
+01:18:47,979 --> 01:19:02,760
+those. All right, and then the rest of you. Anything up here? Wait, let's kill the big guy
+
+449
+01:19:02,760 --> 01:19:11,619
+first. There's a strawberry up there. Hell yeah. All right, we're all gonna- we're just gonna rush
+
+450
+01:19:12,260 --> 01:19:20,100
+into his back. Let's rush into his back. All of you at the same time, all run into his back.
+
+451
+01:19:20,739 --> 01:19:42,020
+Get him! We died. All right, bring it. Good job, everybody.
+
+452
+01:19:50,470 --> 01:19:57,960
+Grow for crits. Oh, okay. Grow purples at the back. Okay. Thanks for the tip. You're wasting time.
+
+453
+01:19:57,960 --> 01:20:07,770
+I am? Wait, what's over here? What is, like, hiccuped? What is over here? What's this? Honey?
+
+454
+01:20:07,770 --> 01:20:14,329
+Oh, they've ranked up.
+
+455
+01:21:01,369 --> 01:21:06,170
+Didn't you note that no more than 100 Pikmin will venture into the planet at once?
+
+456
+01:21:06,170 --> 01:21:12,149
+But I currently observe only 95 on the surface. Could there be wild Pikmin somewhere?
+
+457
+01:21:14,619 --> 01:21:21,640
+Oh my god. Everybody settle down. Settle down. I promise we'll get ice cream after the field trip
+
+458
+01:21:21,640 --> 01:21:43,239
+is over. Pick them all up. I want ice cream now. Well, you can't have it now. Sorry. All right,
+
+459
+01:21:43,239 --> 01:21:48,170
+let's keep going. I have so many Pikmin. All right, where do we go? Get the strawberry.
+
+460
+01:21:49,430 --> 01:21:56,859
+All right, one big guy. Get strawberry. That should be enough, right? How many do I need?
+
+461
+01:21:57,500 --> 01:22:08,010
+Then another one. No, no. Stupid. Wait. Oh, okay. I guess I have to switch it every time.
+
+462
+01:22:08,649 --> 01:22:17,460
+I'm just gonna fit on there. More. We want more speed. Go. Get it over there. All right,
+
+463
+01:22:17,460 --> 01:22:26,100
+the rest of you follow me. I can't go up here. Where can we go? This way.
+
+464
+01:22:26,340 --> 01:22:57,220
+Oh, what's this? This fight? What's going on here? Oh, they're picking the fruit. All right.
+
+465
+01:22:57,220 --> 01:23:15,800
+I'm splitting you guys up. Go this way. 1,100 bucks. Name Sunsea Berry. They are yellow.
+
+466
+01:23:17,770 --> 01:23:30,100
+Okay. 10% of debt recovered. Oh, nice. Just like me. I believe I've also recovered 10% of my debt.
+
+467
+01:23:32,229 --> 01:23:38,329
+All right. Oh, they got little berries. Oh, berries. Jerry, they got berries.
+
+468
+01:23:39,210 --> 01:24:00,779
+Somebody pick one up. Pick up the berries. What kind of berry is this? This red berry contains
+
+469
+01:24:00,779 --> 01:24:06,170
+an ultra spicy essence. It does not appear to have any monetary value, but I should research
+
+470
+01:24:06,170 --> 01:24:12,619
+it for use. Cool. Bring me another one. Okay. Well, I'll bring you like 10 more. I got like 10 on the
+
+471
+01:24:12,619 --> 01:24:27,689
+way. I forgot about that word. We can keep getting them. Oh, they just kind of respawn. All
+
+472
+01:24:27,689 --> 01:24:34,090
+right. I don't know what that does, but whatever. 85. Where's the other guys? Missing people? All
+
+473
+01:24:34,090 --> 01:24:43,739
+right. Into the gate. You're wasting time. I'm just... Look, this is not going to be an efficient
+
+474
+01:24:43,739 --> 01:24:51,479
+playthrough. Captain Olimar, my research on the red berries that you discovered has yielded a
+
+475
+01:24:51,479 --> 01:24:58,630
+powerful potion. Behold the ultra spicy spray. Although it is untested, I believe it will have
+
+476
+01:24:58,630 --> 01:25:07,739
+spectacular results. Spray it on all of your Pikmin by pressing two. When necessary, I can
+
+477
+01:25:07,739 --> 01:25:14,789
+produce one bottle of spray from 10 berries. Press that button to contact me and confirm your berry
+
+478
+01:25:14,789 --> 01:25:29,260
+count by pressing left. Should I just do that now? Okay. What is that thing? Get him. Get him.
+
+479
+01:25:32,119 --> 01:25:43,430
+Weigh him down. He dropped an egg. All right. I want big guys. Everyone over here,
+
+480
+01:25:43,430 --> 01:25:57,319
+drink that. Drink up that stuff. Can I make a different... I want the purple guy to drink.
+
+481
+01:26:03,000 --> 01:26:06,039
+I guess you can't really do that, can you? I could split him up. Oh, well, I did it.
+
+482
+01:26:06,680 --> 01:26:16,140
+Now they got it. They got it. All right. Should I get more berries? Separate button. All right.
+
+483
+01:26:16,140 --> 01:26:43,050
+Shit. Okay. Right. I'm going to get some more berries. Four. Three guys on berry duty.
+
+484
+01:26:43,850 --> 01:26:55,460
+I need 10, right? I hate that so much. I'm now... I'm seriously just pressing down on the D-pad.
+
+485
+01:26:57,159 --> 01:27:02,119
+This fucking cheap Wiimote controller. They just... They couldn't make it four buttons.
+
+486
+01:27:02,119 --> 01:27:05,720
+They had to make it one giant button. How dare they? How much did this console fucking sell?
+
+487
+01:27:05,720 --> 01:27:16,010
+Like 50 million copies? Fucking failure. 100 million consoles sold or something like that?
+
+488
+01:27:16,010 --> 01:27:33,460
+Absolute failure. Come back here. That should be enough, right? Give me one more group. How
+
+489
+01:27:33,460 --> 01:27:44,760
+many Wii consoles actually have been sold? It was like 50 or 60... 100 million something,
+
+490
+01:27:44,760 --> 01:27:49,880
+right? What was it? No, not 50, 60, 100 million. That would be... There's not that many people on
+
+491
+01:27:49,880 --> 01:28:07,449
+earth. 101 million. Oh my God. All right. The rest of you just go over here. 101 million?
+
+492
+01:28:13,560 --> 01:28:23,399
+There are way more people on earth. Whatever. I'm going to split these guys up. All right. You go...
+
+493
+01:28:24,579 --> 01:28:36,279
+You stay over here. You go get the guys that delivered the berries. Bring it back. There are
+
+494
+01:28:36,279 --> 01:28:53,380
+more Wiis than people. You know... I wouldn't be surprised if there were more iPhones than
+
+495
+01:28:53,380 --> 01:28:59,989
+people that exist right now. And I'm talking all the way through every generation. I wouldn't be
+
+496
+01:28:59,989 --> 01:29:12,569
+surprised if in the next few years it was that. Come on, get in there. Find a spot.
+
+497
+01:29:13,289 --> 01:29:25,180
+Something's going down. Hurry up. There's an insane amount of e-waste in the world, unfortunately.
+
+498
+01:29:25,180 --> 01:29:31,100
+Oh yeah. Whatever that is. Back up. Back up. Back up. Back up. Run away. Run. Run. Oh my God.
+
+499
+01:29:31,100 --> 01:29:45,369
+Don't eat him. He ate him. All right. I don't know how to fight that guy. No. I'm trying to hit B.
+
+500
+01:29:46,170 --> 01:29:50,409
+I'm trying to hold B. You have to hold somebody and then hold B. B calls people back.
+
+501
+01:29:51,050 --> 01:30:01,640
+Nintendo. Nintendo. That was a mistake. B calls people back. I have to hold A and press B to
+
+502
+01:30:01,720 --> 01:30:23,220
+switch Pikmin. Nintendo. This was a mistake. What's left? Holy shit. Kill it. Kill it.
+
+503
+01:30:24,949 --> 01:30:38,859
+Kill it. Oh my God. We're good. We're good. We're good. This is a dangerous world.
+
+504
+01:30:39,579 --> 01:30:41,859
+It's not an electric thing. I can't. I don't want to go there.
+
+505
+01:30:44,819 --> 01:30:56,279
+All right. It's almost sundown. How much time do I have? The sun will be setting soon. Call all the
+
+506
+01:30:56,279 --> 01:31:03,899
+Pikmin to you. This planet's native nocturnal life forms are ferocious and therefore dangerous.
+
+507
+01:31:05,819 --> 01:31:10,460
+Load your Pikmin into the onion and yourself into my hole so we can take refuge in low orbit.
+
+508
+01:31:11,420 --> 01:31:16,520
+Pikmin in your squad will enter the onion on their own at a day's end, so call them all to you.
+
+509
+01:31:17,899 --> 01:31:30,359
+Oh shit. We gotta go. What the fuck? There's like a gold coin up there. Hurry. Hurry. Hurry. Hurry.
+
+510
+01:31:30,359 --> 01:31:39,960
+Hurry. Hurry. Hurry. Hurry. Hurry. Hurry. Hurry. Everybody in. Quick. Get it in. Get it in. Get
+
+511
+01:31:39,960 --> 01:31:46,020
+it in. Get it in. Get it in. Get it in. Get it in. Get it in. Get it in. Get it in. We're missing
+
+512
+01:31:46,020 --> 01:31:57,850
+somebody. We're missing somebody. Who are we missing? Doesn't matter. No, it's over. Yeah, go.
+
+513
+01:32:01,180 --> 01:32:11,140
+Take out over. No. What? How do I leave? How do I get out of here?
+
+514
+01:32:11,140 --> 01:32:17,020
+First field trip. Check the map. What do you mean go back? I have five seconds.
+
+515
+01:32:17,020 --> 01:32:21,050
+You have time. As long as they're in my squad, it doesn't matter, right?
+
+516
+01:32:21,770 --> 01:32:33,500
+Shit, they're up there. Yes, that doesn't matter as long as they're in the squad.
+
+517
+01:32:33,500 --> 01:32:54,810
+Okay. I don't think I have time to do this. Straight ahead. Come on. Where are you? Where are
+
+518
+01:32:54,810 --> 01:33:21,420
+you? I found him. We did it. We're so concerned about Pikmin. Louie's just like picking his nose
+
+519
+01:33:21,420 --> 01:33:29,609
+200 yards away. The alligator just monster comes up from under the ground with mouth open and
+
+520
+01:33:29,609 --> 01:33:43,619
+closes it around him, crushing him. I got a bunch of stuff. I got a bunch of fruits.
+
+521
+01:33:46,420 --> 01:34:02,979
+Best gamer moment. No, that was a general gamer moment. Who died? No. Eight have died in battle
+
+522
+01:34:03,960 --> 01:34:15,880
+so far. Best gamer moment. How's progress, Olimar? Remember, you'll never get anything done if you
+
+523
+01:34:15,880 --> 01:34:21,479
+sit back and watch from afar. Press left or right on the D-pad for a close-up view of the action.
+
+524
+01:34:22,199 --> 01:34:42,600
+Move my body over here. Okay. All right. So, above ground, there's still things to do on this one.
+
+525
+01:34:42,600 --> 01:34:53,800
+Maybe I'll go back to that one. This is a new thing. Let me see. Honey wisp.
+
+526
+01:34:54,920 --> 01:34:58,279
+It's floating left from just effortlessly on the winds. Upon death, its physical structure
+
+527
+01:34:58,279 --> 01:35:05,779
+instantly collapses. If we could simply recover a live sample researched on the spaceship,
+
+528
+01:35:06,500 --> 01:35:15,800
+I would have to take it alive? How do we do that? It's a scary piranha plant thing.
+
+529
+01:35:17,130 --> 01:35:25,979
+It has eyes in it. Just be careful. Watch out for eyes. Flowers that have eyeballs in them.
+
+530
+01:35:25,979 --> 01:35:46,039
+Be careful. Press A. Wait, what? What the hell is going on here? Why am I throwing carrots?
+
+531
+01:35:54,729 --> 01:36:18,569
+I just gave them food for like four years. I don't know. What am I supposed to do?
+
+532
+01:36:19,449 --> 01:36:29,939
+Okay. I don't think that does anything. Wait, I can feed carrots to this thing.
+
+533
+01:36:39,460 --> 01:36:50,939
+Oh, it's eating the carrots. Whoa. It didn't like that. It doesn't like carrots?
+
+534
+01:36:51,579 --> 01:37:06,380
+This thing is terrifying. This is like Pan's Labyrinth. I don't like this guy. What about
+
+535
+01:37:06,380 --> 01:37:26,539
+these guys? Do you guys like carrots? Okay. What about you? You guys like carrots?
+
+536
+01:37:29,399 --> 01:37:48,569
+That's cool. It's like a little petting zoo. All right. Let's keep going. Do I want to go?
+
+537
+01:37:49,289 --> 01:37:55,720
+I want to go back here. There's still stuff I didn't do here. What was it? Let's find out.
+
+538
+01:37:57,319 --> 01:38:13,060
+No. What? I'll go back. Okay. All right. This time I'm going to go. I saw there was a gold coin
+
+539
+01:38:13,060 --> 01:38:28,649
+over here that I want. Give me a gold coin. I want 90, 80, and then as many of the purples
+
+540
+01:38:28,649 --> 01:38:43,020
+as I can get. Actually make it 95, right? Yeah. All right. Let's do it. Don't waste any daylight.
+
+541
+01:38:43,579 --> 01:38:47,859
+Forget about that stuff. I don't need it right now. I want to go over here because there's a
+
+542
+01:38:47,859 --> 01:38:51,989
+gold coin over here. There's also this bridge. Can they go in the water?
+
+543
+01:38:55,609 --> 01:39:10,489
+They die if they go in water. Let's test it. Yes, they do. Okay. Come on. You're good. Okay.
+
+544
+01:39:10,489 --> 01:39:18,649
+I can throw them over there though. Golden butterflies. Get one. Get one of those.
+
+545
+01:39:22,310 --> 01:39:28,470
+Bring them back. Bring them back to the base. Nice. All right. Come back. Come back. Come back.
+
+546
+01:39:28,470 --> 01:39:43,529
+Back. Back. Come back. Come back. Come back. All right. There's a bunch of nectar over here.
+
+547
+01:39:44,090 --> 01:39:58,979
+All right. They're good. How many died? Wait. No. You didn't collect them?
+
+548
+01:39:59,779 --> 01:40:15,289
+All right. I'm good. I've got 93. Who cares? They die if they go in water. All right. Well,
+
+549
+01:40:15,289 --> 01:40:23,260
+let's go this way. Where can I even go? Down this way? I'm going to go this way.
+
+550
+01:40:23,260 --> 01:40:39,289
+Over here. Whoa. There's something munching on those. Get it. Whatever it is. Climb up there
+
+551
+01:40:39,289 --> 01:40:55,130
+and get them. Get them. Get those little caterpillar guys. Get them. Get up there.
+
+552
+01:41:04,260 --> 01:41:15,510
+Good. Good. Good. Good. Drop them. Drop them on the ground. Nice. All right. Bring it back to the
+
+553
+01:41:15,510 --> 01:41:32,500
+base. Excuse me. Bring it back. Is it still alive? What's fighting him? Is that a bad thing?
+
+554
+01:41:38,710 --> 01:42:16,340
+There it is. Okay. 200. I don't think I have enough. 180? No, I don't. Press two. I wonder
+
+555
+01:42:16,340 --> 01:42:25,319
+how... Where do they walk this? No, I can't. Two? Press two. Two. Two. What does two do?
+
+556
+01:42:26,550 --> 01:42:34,550
+Cave to the left. Yeah. Let's go this way. It adds weight. Hold on. I'm going to go this way first.
+
+557
+01:42:39,060 --> 01:42:47,909
+Another globe. Why does it look poisonous? Come back. Come back. Come back. Come back.
+
+558
+01:42:47,909 --> 01:43:01,979
+Is it poisonous? Emergency. Pikmin are suffering. If you blow your whistle with B,
+
+559
+01:43:01,979 --> 01:43:15,210
+you may be able to help them. Okay. So I can't touch that. Your Pikmin are suffering, Jeremy.
+
+560
+01:43:15,930 --> 01:43:25,880
+There's a cave over here. Yes.
+
+561
+01:43:30,039 --> 01:43:33,000
+Biological sensors are reacting violently. The readings are ominous.
+
+562
+01:43:35,140 --> 01:43:39,699
+Beast of unknown power lurks in these depths. A large Pikmin group would be reassuring.
+
+563
+01:43:41,220 --> 01:43:45,300
+My sound sensors are picking up hostile roars of many beasts.
+
+564
+01:43:45,300 --> 01:43:52,579
+Expect dangerous encounters. Extreme heat pockets. You may need flame-resistant Pikmin.
+
+565
+01:43:52,579 --> 01:43:57,369
+But my records indicate no such data. Are my records incomplete?
+
+566
+01:43:58,899 --> 01:44:08,789
+I have to assume reds are fire-resistant. Should I leave the purples? I feel like I don't want
+
+567
+01:44:08,789 --> 01:44:20,170
+to bring purples down here. All right. Louis. Louis, you stay here with the purples. Take them
+
+568
+01:44:20,170 --> 01:44:42,500
+all? I'm scared to bring everybody. Always take them all? Jeremy, you're wicked funny. Thanks,
+
+569
+01:44:42,500 --> 01:44:55,779
+dude. This is how we're going to do this. I saw a good chat message. Louis is going to be in charge
+
+570
+01:44:55,779 --> 01:45:01,979
+of purple and Olimar is going to be in charge of red. So where are we going first? We've got
+
+571
+01:45:01,979 --> 01:45:15,189
+a few directions to go. How about this way? Get over here, Louis. Use the purples to fight.
+
+572
+01:45:15,189 --> 01:45:35,689
+Get them. Yeah, they do like a big ground stomp. All right. Pull these guys back.
+
+573
+01:45:37,100 --> 01:45:43,579
+Louis, good job, Louis. Wait, we got a... Oh, what's this? What's this artifact? What's this
+
+574
+01:45:43,579 --> 01:45:51,859
+over here? Oh, it's a single button D-pad? Oh, wow. Yeah. They used to use these fucking shitty
+
+575
+01:45:51,859 --> 01:46:06,229
+things. Back like 5,000 years ago. Yeah, definitely collect that. This dark soul is that
+
+576
+01:46:06,229 --> 01:46:13,159
+fucking guy. Yeah, they used to put all four buttons on this rotating weird axis thing.
+
+577
+01:46:14,500 --> 01:46:17,619
+Yeah, it was really, really interesting. I'm saying, yeah, we don't do that anymore.
+
+578
+01:46:25,050 --> 01:46:27,689
+Didn't they used to think that you had four humors in your body?
+
+579
+01:46:28,869 --> 01:46:39,399
+Yeah, I think that was the same time period. All right, let's get going.
+
+580
+01:46:42,420 --> 01:46:52,039
+Fire this way. One of you take that for research. One of you take that for research. Did you not
+
+581
+01:46:52,039 --> 01:47:07,350
+listen to me? Over here, Louis. I love the purples. It's so unique. It's so cool. They
+
+582
+01:47:07,350 --> 01:47:25,750
+have that unique ability. Anything down here? There's nothing over here, huh? All right, hurry
+
+583
+01:47:25,750 --> 01:47:32,680
+up. In the meantime, while they do that, you... That's the... Go to the next level. Did I miss
+
+584
+01:47:32,680 --> 01:47:45,899
+something? I feel like I missed a thing to grab. I just want to check. No, there's nothing in here.
+
+585
+01:47:45,899 --> 01:47:52,859
+Wait. Yeah, I got it all. Okay, I had to. All right, everybody follow me. Good. Nobody died.
+
+586
+01:47:52,859 --> 01:47:59,189
+We didn't lose anybody. We got an artifact. Let's go. The noise means you got all the treasures.
+
+587
+01:47:59,189 --> 01:48:16,170
+Okay, cool. That's good to know. What noise? Just so I can be aware of it. The power down noise? Okay.
+
+588
+01:48:16,170 --> 01:48:28,949
+The whole of beasts. When the Pikmin are singing, it means you have everything. Oh, okay.
+
+589
+01:48:31,819 --> 01:48:44,890
+What's that? Let's float it up. An egg? Pick it up. Don't break it. Pick it up. Why did you break it?
+
+590
+01:48:45,210 --> 01:48:53,859
+Oh! All right, we need the cleanup crew to... Everyone pick up. Pick one up. Oh, wow.
+
+591
+01:48:54,739 --> 01:49:10,260
+Look at all this nectar. Everyone's full. I have all flower Pikmin, I think. Well,
+
+592
+01:49:10,260 --> 01:49:16,949
+hold on. Let me just double check. Holy shit, I got a whole crew of full flowers.
+
+593
+01:49:17,750 --> 01:49:34,100
+Nice. All right. That was over there. Let's go. Is this another egg? Okay, I was expecting spiders.
+
+594
+01:49:34,100 --> 01:49:49,899
+Nothing on that side. Is it behind us? All right. Let's go deeper. Oh, purple. Purple, purple,
+
+595
+01:49:49,899 --> 01:50:20,420
+purple, purple. Let's do it. Now we can go drink the nectar. Sick. Go, go, go, go, go, go, go. Those
+
+596
+01:50:20,420 --> 01:50:35,029
+of you that didn't drink, come over here and drink. Slurp it up. All right. One of you didn't get it.
+
+597
+01:50:35,029 --> 01:50:52,760
+I think there was one more over here. There is. Sing the nectar song. You guys keep... Every time
+
+598
+01:50:52,760 --> 01:50:59,579
+we raid somebody now, you guys demand a song from them. Let me just give you some streamer
+
+599
+01:50:59,579 --> 01:51:06,949
+insight on this. If I got raided and I was in the middle of doing something... Let's say I was in
+
+600
+01:51:06,949 --> 01:51:11,430
+the middle of an important match or something, or something really, really I had to pay attention to,
+
+601
+01:51:11,430 --> 01:51:15,270
+and I look over at the chat and it's like, sing the fucking raid song. And I'm just like,
+
+602
+01:51:16,390 --> 01:51:29,800
+what are you talking about? Raid song? Too bad, Omega Low. Sing it. And then they have no idea
+
+603
+01:51:29,800 --> 01:51:35,689
+what you're talking about. You know, I'm surprised a bunch of you guys don't get banned immediately
+
+604
+01:51:35,689 --> 01:51:44,140
+when we raid. Sing the raid song. Fucking no. Ban all these people. It may have. I don't stick
+
+605
+01:51:44,140 --> 01:52:01,180
+around for all the raids. That may have already happened. Fire. Here we go. Let's take the fire
+
+606
+01:52:01,180 --> 01:52:19,319
+guys through. No, you idiot. Okay. I can just walk through this. Wait, they put it out? Oh,
+
+607
+01:52:19,319 --> 01:52:50,550
+they put it out. Oh, this is Floppy disk. Oh, by the way, somebody linked me. I saw on Twitter,
+
+608
+01:52:50,550 --> 01:52:56,649
+somebody, I was in the discord talking about attack on Titan. And I said like this show sucks
+
+609
+01:52:56,649 --> 01:53:08,979
+and stuff. All right. Let me, I gotta be very clear about this. Listen to me. I have, I have seen,
+
+610
+01:53:09,779 --> 01:53:17,050
+I am like a big fan of that show. People were pissed that I didn't, I wrote, what did I write
+
+611
+01:53:17,050 --> 01:53:24,279
+exactly? I said, oh yeah, I'm 10 episodes into attack on Titan. Oh, I don't get it. Like this
+
+612
+01:53:24,279 --> 01:53:30,760
+show sucks. Why are they Titans? Like stupid as fucking show or something, right? A little
+
+613
+01:53:30,760 --> 01:53:36,039
+bit of people know that I've seen every fucking season. I've seen, I'm like a big fan of the show.
+
+614
+01:53:36,039 --> 01:53:42,779
+I just was bait. Yeah. And people thought I was really stupid. They're just like, wait,
+
+615
+01:53:42,779 --> 01:53:59,779
+he's seen 10 episodes? No, of course he doesn't like it. He's fucking, his brain is too small.
+
+616
+01:53:59,779 --> 01:54:11,659
+Anime fans, do you bait? Yeah, it was. Give me this Floppy disk. It was also, some of you guys
+
+617
+01:54:11,659 --> 01:54:17,640
+miss out on some random in general chat stuff that I do. A few weeks ago, I was in the general chat.
+
+618
+01:54:18,279 --> 01:54:23,720
+It was like maybe three or four o'clock in the morning Pacific. And I wrote a bunch of stuff and
+
+619
+01:54:23,720 --> 01:54:29,079
+nobody responded. There was maybe like one person that was there. I just wrote a bunch of shit and
+
+620
+01:54:29,079 --> 01:54:32,760
+nobody responded. And I wrote like, what the fuck? No one's talking. Like, what the fuck is this
+
+621
+01:54:32,760 --> 01:54:42,390
+bullshit? And nobody said anything. I think like maybe two people did like minutes or hours later
+
+622
+01:54:42,390 --> 01:54:49,989
+or something. It was three a.m. I think I got everything, right? Are they singing? So that means
+
+623
+01:54:49,989 --> 01:55:08,779
+I did it. That right? I'm good, right? I have to be careful because I just write, I just say and
+
+624
+01:55:08,779 --> 01:55:14,420
+write random things that don't mean anything. And sometimes I feel like people might see that and
+
+625
+01:55:14,420 --> 01:55:29,989
+out of context might go like, wow, he's sick and fucking asshole. Oh, well, we've got a big
+
+626
+01:55:29,989 --> 01:55:42,359
+bunger over there. Wait, check back here. All right. We've got to, we've got to have, we're
+
+627
+01:55:42,359 --> 01:56:02,039
+going to split this up. Uh, Olimar, too many. No, no, no, no, too many. No. Yes. Louis, wake up.
+
+628
+01:56:03,000 --> 01:56:27,739
+Okay. Now I want Olimar. No, get out of here. I fucking hate this controller. This thing was
+
+629
+01:56:27,819 --> 01:56:35,609
+meant to be shook around, not pressed any of these buttons. Very nice. Very nice.
+
+630
+01:56:36,170 --> 01:56:46,699
+Oh, there's an egg. Uh, I'm not going to break that yet. Let's go kill the big guy.
+
+631
+01:56:47,500 --> 01:56:56,869
+All right. Let's get this set up. I'm doing my RTS setup. Jerma's not a gamer.
+
+632
+01:56:59,350 --> 01:57:15,689
+Maybe a little. Three, two, shitty. I got him instantly. Oh, it's a gaming watch. Cool.
+
+633
+01:57:16,409 --> 01:57:31,590
+Oh, there's more over there. What's in here? Oh, oh, it's a flower. Nice. All right. Get the,
+
+634
+01:57:31,590 --> 01:57:40,739
+I love aces. I love cards. I'm a huge card fan. Put a 10 on there. You know what I mean?
+
+635
+01:57:41,989 --> 01:57:50,229
+Drop a, drop a jack on top of that. You know what I'm saying? I'm sorry. All right. I need,
+
+636
+01:57:50,229 --> 01:58:12,869
+uh, we got to put some more of these guys in here. Yeah. More purples. The ace of spades
+
+637
+01:58:15,640 --> 01:58:36,920
+worth $140. Luck wafer. That's cute. It's very cute. David's spade. Go crack that egg.
+
+638
+01:58:36,920 --> 01:58:41,159
+So we can get some nectar. Who has not drank nectar? Which one of you?
+
+639
+01:58:41,960 --> 01:58:51,560
+Where's that egg over here? What's that sound? There's an egg. Where's the egg?
+
+640
+01:58:53,560 --> 01:59:23,399
+What? Okay. Well, they stole it. Oh, there it is. And all right. Get in there. Who hasn't drank,
+
+641
+01:59:23,399 --> 02:00:01,210
+drank it. One person hasn't. Oh, two actually. Nice. Drink it. Very good. We can keep going.
+
+642
+02:00:11,189 --> 02:00:18,409
+I demand heal. Oh, no, that, no. I misread what you said. This one's deep.
+
+643
+02:00:19,210 --> 02:00:24,970
+You know, actually, I could go for one right now. I'm not even kidding. I might go get one.
+
+644
+02:00:24,970 --> 02:00:30,729
+What is it? Final floor. All right. This is important. I think this is the first real test.
+
+645
+02:00:33,909 --> 02:00:38,869
+What is that thing? It's a giant cat. Can I take a picture of it and upload it and get data on it?
+
+646
+02:00:38,869 --> 02:00:47,689
+That's huge. Oh, boy. I feel like I'm going to do this in two parts here.
+
+647
+02:00:59,579 --> 02:01:13,369
+All right. It's time. How do we go about doing this? Spray everybody first. All right. So hit
+
+648
+02:01:13,369 --> 02:01:27,770
+two and then I'm going in. Great. Astounding. The heads of the Pikmin are glowing and they seem
+
+649
+02:01:27,770 --> 02:01:34,520
+extremely agitated. The ultra spicy spray appears to increase Pikmin speed and attack power. Oh,
+
+650
+02:01:34,520 --> 02:01:48,939
+man. Okay. Get that again over here. What? What? Why did? All right. Go, go, go, go, go,
+
+651
+02:01:48,939 --> 02:02:02,899
+go, go, go, go. Is it temporary? Get in it. Kill it. Where's the other Pikmin? Oh, my God.
+
+652
+02:02:02,899 --> 02:02:18,069
+He's going to roll over everybody. Did he kill everyone? He killed every purple. Come back,
+
+653
+02:02:18,069 --> 02:02:21,750
+come back, come back, come back. Oh, my God. I didn't know he did that. He killed every purple.
+
+654
+02:02:22,710 --> 02:02:33,180
+Oh, no. No. Get on his head. Come back, come back, come back, pull back.
+
+655
+02:02:35,579 --> 02:02:49,239
+What the hell? I feel like shit now. Every purple is dead. How bizarre. This device is emitting
+
+656
+02:02:49,239 --> 02:02:55,850
+black light. It must have been ingested by that creature. What an absolutely repulsive life form.
+
+657
+02:02:56,409 --> 02:03:19,399
+Did I get soft locked? Reload. Can I? No, I can't. No reload. No. Oh, every single purple is dead.
+
+658
+02:03:22,920 --> 02:03:35,159
+Every single one. That's so sad. That's so sad. Why couldn't it have been the red ones?
+
+659
+02:03:40,100 --> 02:03:47,029
+I can get them back. Yeah, I know. But it's still sad. I'm glad I have enough to actually lift this.
+
+660
+02:04:06,250 --> 02:04:16,729
+200. Just reload the floor. No, I know. I have to live with consequences. I can't be a Dave state
+
+661
+02:04:16,729 --> 02:04:24,579
+every single game I play. This contraption seems to react when it approaches treasure.
+
+662
+02:04:25,689 --> 02:04:36,300
+I will connect it to my radar. Oh, like beeps. The treasure gauge is now fully operational.
+
+663
+02:04:37,479 --> 02:04:56,439
+20 purples died. That sucks. Please restart. No, come on. You need them. Restart.
+
+664
+02:05:01,130 --> 02:05:14,359
+No, I'm not restarting. I have to deal with the consequences. Is that it? We wasted three gas.
+
+665
+02:05:14,359 --> 02:05:32,579
+Yeah, but I can go get that gas back. That was a lot of money. That's over a thousand dollars.
+
+666
+02:05:32,579 --> 02:06:01,350
+38 people died. God, that's unfortunate. Farm more at the caves first. Do some farming. All right,
+
+667
+02:06:01,350 --> 02:06:13,189
+I'm getting a heal. Let's take a break. I'm going to go pee. I'll be right back. BRB.
+
+668
+02:10:10,250 --> 02:10:17,750
+It's actually kind of funny. Whenever a cat boy image comes up, I get to kind of watch
+
+669
+02:10:17,750 --> 02:10:29,050
+the PUBG blue thing start to be right behind some of you guys. All of a sudden it just gets like,
+
+670
+02:10:29,770 --> 02:10:53,239
+whoa, whoa, whoa. What's that? Run. The zone, yeah. Just wait till I actually put the costume on.
+
+671
+02:11:02,659 --> 02:11:06,579
+You just wait till I turn the camera on one day and I'm in like full cat boy.
+
+672
+02:11:20,439 --> 02:11:28,649
+Please don't. Here's the thing about, I think I've said this already, but I'll say it again.
+
+673
+02:11:28,649 --> 02:11:35,689
+That stream is going to be the most unfollowed and followed stream I've ever done on Twitch.
+
+674
+02:11:35,689 --> 02:11:59,050
+Let's just be clear about that. All right, let's get back. I got my heal. Oh, and it's delicious
+
+675
+02:11:59,050 --> 02:12:14,470
+and it's giving me tons of recharging fuel. What heal flavor? I mean, there's three flavors,
+
+676
+02:12:14,470 --> 02:12:20,500
+and I'll give you the rundown. There's a chocolate, there's a berry, and there's vanilla.
+
+677
+02:12:20,500 --> 02:12:28,279
+The chocolate one, I think tastes the best, but I think it's a little too thick. It's very
+
+678
+02:12:28,279 --> 02:12:34,359
+milkshaky. It tastes good, but I'm not a big fan of that. The vanilla tastes very good,
+
+679
+02:12:34,359 --> 02:12:39,239
+but I don't like the texture. It has a weird texture to it. It has a texture that I'm not
+
+680
+02:12:39,239 --> 02:12:46,090
+like a fan of, and I don't know why I can just tell. The berry though, it's smooth. It's got a
+
+681
+02:12:46,090 --> 02:12:51,529
+good flavor. It tastes kind of like a strawberry yogurt drink, and I would say that's my favorite
+
+682
+02:12:51,529 --> 02:12:57,750
+one. There's no soy in it. The person that just said that timed them out for a minute. This is a
+
+683
+02:12:57,750 --> 02:13:13,560
+non-soy product. Anyways, let's play Pikmin. All right, what are we doing? Oh yeah, a bunch of
+
+684
+02:13:13,560 --> 02:13:24,100
+purple Pikmin died. Hold on. Heal's in the way of this Wii sensor. There we go. All right, so let's
+
+685
+02:13:24,100 --> 02:13:39,460
+pull up these... So I need purples. I can't believe I have no purples. All right, where do I want to
+
+686
+02:13:39,460 --> 02:13:48,550
+go? The treasure meter is blinking. Let's go this way. I need water Pikmin. That's definitely what
+
+687
+02:13:48,550 --> 02:13:54,659
+that is. We can't go that way. Oh, berries. Yeah, yeah, yeah. Let's do some berry farming.
+
+688
+02:13:55,220 --> 02:14:07,449
+Berry farming it is. Guys, there's no fucking way that the dev is in the chat. No, no, that is
+
+689
+02:14:07,449 --> 02:14:32,739
+impossible. You're right. Who even made this game? I know it was Nintendo, but what studio? Of course.
+
+690
+02:14:34,420 --> 02:14:45,689
+Was it just like a... What first party or whatever Nintendo studio? This is a Miyamoto game. Is it
+
+691
+02:14:45,689 --> 02:15:09,340
+really? Wait, Miyamoto made this? What? Yes. Is there anything that he can't do? Is there anything
+
+692
+02:15:09,579 --> 02:15:19,449
+that that man couldn't do? Honestly, if you told me like, oh yeah, Miyamoto like flew overhead with
+
+693
+02:15:19,449 --> 02:15:24,170
+like a Superman cape on and he can shoot lasers out of his eyes, I'd be like, yeah, I'm sure he...
+
+694
+02:15:24,170 --> 02:15:34,710
+That would not surprise me. I'd be like, oh yeah, that makes sense. I want that. Sacrifice somebody.
+
+695
+02:15:34,710 --> 02:15:44,819
+I want to see what it costs. Never mind. There is a gate up here. There's an electricity gate.
+
+696
+02:15:45,619 --> 02:15:56,020
+I can't get that. I can't even get up there. I have to get rid of this thing. This is 200. Shit.
+
+697
+02:15:56,659 --> 02:16:07,460
+What can I even do here? This has got poison gas on it. What's the play? I have to go farm
+
+698
+02:16:07,460 --> 02:16:32,379
+purples in the cave. Do I have to do this like three or four times? You should have reset.
+
+699
+02:16:32,379 --> 02:16:36,540
+But I mean, I can't just... Look, we can't rely on everything to just restart a game save.
+
+700
+02:16:38,170 --> 02:16:45,190
+God damn it. I'm actually going to try heal because of you. Well, don't be angry about it.
+
+701
+02:16:45,190 --> 02:16:54,329
+Don't be upset about it. Don't be mad about it. You don't have to do anything.
+
+702
+02:16:55,129 --> 02:17:12,170
+But I didn't like... I'm not making you do that. It's the next level, right? I don't even want
+
+703
+02:17:12,170 --> 02:17:22,420
+these things. Let's go. Mega-lul, it's working. Fuck you. I'm doing it. Influencer Andy,
+
+704
+02:17:23,319 --> 02:17:31,350
+you're abusing your reach to malnourish children. I'm going to tell... I mean,
+
+705
+02:17:32,229 --> 02:17:38,280
+let me tell you something. That person that just said that, you must have not done any research
+
+706
+02:17:38,280 --> 02:17:47,750
+on the product at all. It's 400 calories, 20 grams of protein, no soy. I'll read it again. I
+
+707
+02:17:47,750 --> 02:17:51,510
+don't even care. No one's paying me to do this. I don't care. These things help me a lot. I swear
+
+708
+02:17:51,510 --> 02:18:13,270
+to God. That's a true story. Let me get this. All right, here we go. I'm just going to keep
+
+709
+02:18:13,270 --> 02:18:24,149
+doing this and reload. No, I'm going to give you the real, real honest to God reason why I got
+
+710
+02:18:24,149 --> 02:18:28,729
+these in the first place. And you can be your own judge. How's that? Those of you who know,
+
+711
+02:18:29,209 --> 02:18:37,030
+like a year ago, I was having a lot of pain. And I still kind of am, but I'm still working on it.
+
+712
+02:18:37,829 --> 02:18:50,100
+Anyways, I lost like 25 pounds. I was like 133 pounds like a year ago. I don't know if it's
+
+713
+02:18:50,100 --> 02:18:58,500
+combination of stress or annoyance or part of me. I don't know. I thought my diet was okay.
+
+714
+02:19:00,200 --> 02:19:02,920
+That was also part of the reason why we kind of talked about with the doctor. Like, hey,
+
+715
+02:19:03,799 --> 02:19:07,989
+am I losing weight? What the fuck's wrong with me? So I decided I looked at a few different
+
+716
+02:19:07,989 --> 02:19:14,469
+companies. I was like, uh, maybe I could like supplement this and like help with like,
+
+717
+02:19:14,469 --> 02:19:17,829
+maybe trying to maintain some weight or put a little bit of weight on whatever.
+
+718
+02:19:20,819 --> 02:19:28,440
+And I got these. And this is, for me, this is, I'm not replacing food. This is like,
+
+719
+02:19:28,440 --> 02:19:35,159
+I'm just adding some of this. You know what I'm saying? Wait, is that more? So I didn't get these
+
+720
+02:19:35,159 --> 02:19:39,159
+to like, oh, I'm only going to drink this like fucking product. And that's the only food I'll
+
+721
+02:19:39,159 --> 02:19:45,989
+eat. I would drink one like in the morning and maybe drink one at night. I am 152 pounds now.
+
+722
+02:19:46,549 --> 02:19:53,590
+I gained a lot of weight. I feel a little healthier. I got a little better. You know what
+
+723
+02:19:53,590 --> 02:20:01,500
+I'm saying? Now I do look, I'm not going to tell you that I'm going to attribute it all to
+
+724
+02:20:01,500 --> 02:20:10,139
+doing that to dry. You know what, guys? I drank Huel and weirdly enough, I was like 10 times
+
+725
+02:20:10,139 --> 02:20:17,860
+stronger. I became a fucking superhero. No, but it absolutely did help me in my particular case
+
+726
+02:20:18,899 --> 02:20:23,879
+of trying to put on some weight when I like was having trouble. So there you go.
+
+727
+02:20:24,680 --> 02:20:32,409
+There's the true story. And even though I'm still, I don't want to get any heavier than
+
+728
+02:20:33,049 --> 02:20:42,360
+like 152, 155 is kind of where I started to draw the line there, but I like them.
+
+729
+02:20:42,360 --> 02:20:49,260
+It's nice. And I don't drink them every day anymore. Maybe like during a stream. That's
+
+730
+02:20:49,260 --> 02:20:54,620
+a really good like stream snack too, because it's just right there. I can just sip on it.
+
+731
+02:20:54,620 --> 02:21:06,840
+It's really good. So I just kept it. I kept it going. Pump iron on. All right. Can I leave?
+
+732
+02:21:08,569 --> 02:21:15,909
+Can I get out of here? Give up an escape? Can I just leave and then come back in?
+
+733
+02:21:15,909 --> 02:21:25,510
+Or is this going to be bad? That was a Ted talk. There's another purple. Oh,
+
+734
+02:21:25,510 --> 02:21:40,870
+there is another purple flower. That's right. Where is it? Does it taste good? Yes. Otherwise,
+
+735
+02:21:40,870 --> 02:21:48,040
+I wouldn't drink it. I mean, I am very picky with what I eat. I'm serious. That's why I just told
+
+736
+02:21:48,040 --> 02:21:54,139
+you like that. The chocolate one is probably taste the best, but it's too thick for me to
+
+737
+02:21:54,139 --> 02:21:59,479
+drink it. It's a little too thick. It's the thickest of the three of them. The berry one
+
+738
+02:21:59,479 --> 02:22:08,229
+is probably the lightest. If you if that's what you want, you're like, you know what,
+
+739
+02:22:08,229 --> 02:22:11,879
+I don't care if it's a little thicker. I want the chocolate and you'll like it.
+
+740
+02:22:11,879 --> 02:22:18,700
+I think that's that's probably the one that tastes the best flower.
+
+741
+02:22:23,899 --> 02:22:36,870
+One more floor down. You buy it in stores and online. I actually don't know. I think it's mainly
+
+742
+02:22:36,950 --> 02:22:41,989
+online. I think that you might be able to get it in some stores. I don't really know.
+
+743
+02:22:45,000 --> 02:22:47,959
+Nobody said that. Why would I read that out loud if nobody said that?
+
+744
+02:22:52,600 --> 02:22:59,510
+Does it just appear in your fridge? I have everybody, right?
+
+745
+02:23:02,500 --> 02:23:13,659
+Yeah, you can order it online. You got to go to your Heal dealer. What is it a car?
+
+746
+02:23:25,500 --> 02:23:38,520
+The infinite Heal fridge and a Heal branded fridge. No, I can't. I'm not doing that.
+
+747
+02:23:41,670 --> 02:23:49,739
+Rank it. This should after I get another 10 or so, that should be good, right?
+
+748
+02:23:56,860 --> 02:24:09,420
+What is that flower? Where is it? I know it's in here. I don't have to wake him up.
+
+749
+02:24:12,280 --> 02:24:19,260
+Nobody make any noise. Oh, God. Fight him. Fight him. Fight him. Fight him. Fight him. Fight him.
+
+750
+02:24:20,059 --> 02:24:48,739
+We're good. All right. I think we got enough. That should be what? 10, 15.
+
+751
+02:24:48,739 --> 02:24:56,889
+You will flower. Actually, no, no, no, nobody did. Don't do this yet. I got to clear this out.
+
+752
+02:24:57,610 --> 02:25:04,950
+I don't know. Do you hear what I said? I said stop doing that. I'm trying to just,
+
+753
+02:25:04,950 --> 02:25:22,809
+I don't want to have them walk through this and get burned. OK, thank you. Remember,
+
+754
+02:25:22,809 --> 02:25:26,649
+you ever thought about how mirrors are some insane alien sci-fi technology and we just,
+
+755
+02:25:26,649 --> 02:25:35,770
+and yet we just have them and everyone acts like they're normal? What? You know,
+
+756
+02:25:36,649 --> 02:25:45,430
+it's funny you say that and not cellular data technology. It's the mirror. We're worried about
+
+757
+02:25:45,430 --> 02:26:04,020
+mirrors and not about like how a Wi-Fi signal travels. That's pretty ridiculous. The fact that
+
+758
+02:26:04,020 --> 02:26:10,120
+information can travel through the air, I think is way more alien technology. Like,
+
+759
+02:26:10,120 --> 02:26:25,290
+holy shit, bro, than a mirror. But mirrors, mirrors are really kind of weird, too, though.
+
+760
+02:26:29,959 --> 02:26:35,340
+But I guess the way you can describe a mirror, I mean, it's just it's just really shiny. It's
+
+761
+02:26:35,340 --> 02:26:40,780
+shiny to the point that you can see a reflection in the shininess. So it's not that really that
+
+762
+02:26:40,780 --> 02:26:58,819
+weird. It's just it's so it's too shiny. It's reflecting. It's very reflective. It reflects
+
+763
+02:26:58,819 --> 02:27:07,670
+too much. By the way, you want to know something that'll freak you out? This is something a lot
+
+764
+02:27:07,670 --> 02:27:12,229
+of people don't understand. And this is, I'm going to really turn a lot of you guys' world upside down
+
+765
+02:27:12,229 --> 02:27:17,610
+with this one. So when you look in a mirror, you're not actually looking at what you actually look
+
+766
+02:27:17,610 --> 02:27:23,350
+like. You ever put up a cell phone to your face and you go, why do I look so fucking weird?
+
+767
+02:27:24,149 --> 02:27:31,319
+It's because you are flipped. When you are looking into a mirror, you're flipped. And if you have
+
+768
+02:27:31,319 --> 02:27:38,360
+even a slightly asymmetrical face at all, if you don't look in a mirror, you think that you look
+
+769
+02:27:38,360 --> 02:28:08,920
+crazy. You guys ever do that? I'm not ugly. No, I don't want to fight this thing again.
+
+770
+02:28:09,719 --> 02:28:18,440
+I need to go back. How do I get out of here? That was, that was, it was, that was like watch
+
+771
+02:28:18,440 --> 02:28:24,280
+mojo type of like information. Mirrors, what's going on there? Did you know that your cell phone
+
+772
+02:28:24,280 --> 02:28:33,190
+reflects you sideways and flips you around? Insane. Ridiculous. Top 10 things that people
+
+773
+02:28:33,190 --> 02:28:39,030
+might not have known about objects in their house. Mirror. Mirrors reflect light sideways and flips
+
+774
+02:28:39,030 --> 02:28:45,270
+you around. Whatever. I don't care. And look, you want, okay, fine. Watch mojo has like 600
+
+775
+02:28:45,270 --> 02:28:53,940
+million subscribers. So somebody's fucking listening to that and somebody cares. So what I
+
+776
+02:28:53,940 --> 02:28:59,059
+said was information that was cool. And it was like, well, who'd have thought info run past him.
+
+777
+02:28:59,059 --> 02:29:15,750
+Oh, okay. It's you. Oh yeah. How about this one? Oh, you intellectuals. If you take a mirror,
+
+778
+02:29:15,750 --> 02:29:24,709
+a small one, and you hold it up on your chin. So the mirror is flat going forward from your chin.
+
+779
+02:29:25,510 --> 02:29:29,989
+If you put your chin down and hold it flat against your chin and look down and walk around your
+
+780
+02:29:29,989 --> 02:29:34,389
+house, you're walking on the fucking ceiling. It's so cool. Just be careful. You don't trip
+
+781
+02:29:34,389 --> 02:30:06,899
+over anything in real life. I think he's sick. Attack on Titans. All right. I got my Pikmin.
+
+782
+02:30:06,899 --> 02:30:19,739
+I had to get some more. That is really fun to do though. If you, by the way, all you guys make
+
+783
+02:30:19,739 --> 02:30:23,420
+it fun of me for saying, they'll put the mirror up to the tip of your chin and look down and lay
+
+784
+02:30:23,420 --> 02:30:30,860
+it flat and walk. I got that from Nickelodeon magazine in like 1993. So, and that shit was
+
+785
+02:30:30,860 --> 02:30:41,700
+awesome. So don't come after me. Wait, what's over here? What's over here? Something over here.
+
+786
+02:30:44,309 --> 02:30:51,430
+What is this? Is it flowers? There's a treasure over here. Where is it?
+
+787
+02:30:51,989 --> 02:31:13,819
+Get this guy. Kill him. All right. We got it. There's something still over here.
+
+788
+02:31:14,379 --> 02:31:23,590
+I'm so confused. What is over here? Is it? Oh, it's these. All right. I'm going to go back to the,
+
+789
+02:31:23,590 --> 02:31:42,149
+can I weigh that thing down yet or no? It was a beetle up there. It was a beetle. Beetle. I saw
+
+790
+02:31:42,149 --> 02:31:54,059
+it too. It's buried treasure. You need another Pikmin. Oh, all right. Let's just keep going.
+
+791
+02:31:54,059 --> 02:32:09,780
+What do I need to weigh that down? If I use the spray, will it make them weigh heavier? I don't
+
+792
+02:32:09,780 --> 02:32:28,299
+have it. I definitely don't have enough. I need more. I need more purples. What do I need? I need,
+
+793
+02:32:29,100 --> 02:32:50,020
+I need a lot more. Spray them? Is that going to do it? No, I need eight more. Fuck. I need a bunch
+
+794
+02:32:50,020 --> 02:33:03,899
+of purples. So there's nothing. I have to go back and get more purple. I left people behind.
+
+795
+02:33:03,899 --> 02:33:17,500
+I heard a hule fart. Why are they over here? Oh my God. There's so many over here. Why were they
+
+796
+02:33:17,500 --> 02:33:37,979
+stuck? Didn't deny. All right. Give me a bunch of people. Let's see if we can do it.
+
+797
+02:33:44,229 --> 02:33:47,750
+I can't. It's hard to play right now. You guys just fucking me up so much.
+
+798
+02:33:58,180 --> 02:34:29,690
+Don't fight it. Just go. Is this enough? Hurry up. Oh shit. Whatever. Knock it down. Hurry up.
+
+799
+02:34:33,379 --> 02:34:49,000
+Get on there. Shit. I got it. All right. We're good. We're good. We're good.
+
+800
+02:34:50,309 --> 02:34:54,729
+I'm okay. Everything's fine. I got everybody, right? All right. We're coming back here tomorrow.
+
+801
+02:34:55,290 --> 02:35:06,250
+And I'm going that way. All right. Good thing I got them.
+
+802
+02:35:25,079 --> 02:35:30,760
+Click this link. I was getting farts. I've had a hule and I've been farting. Foul,
+
+803
+02:35:30,760 --> 02:35:54,729
+sulfuric rotten eggs. It lingers. Well, I can't. This did not. This is not happening to me.
+
+804
+02:35:55,530 --> 02:36:09,940
+You guys understand. I can't. You guys, people eat apples and they get diarrhea and shit. You
+
+805
+02:36:09,940 --> 02:36:16,629
+know what I mean? That's so hard to tell. There are a bunch of people that eat pasta and then
+
+806
+02:36:16,629 --> 02:36:37,239
+they fart all day. What do you want me to say? That did not happen to me. People's bodies are so
+
+807
+02:36:37,239 --> 02:36:42,969
+different. What makes some person have an upset stomach? Somebody could have a thousand of.
+
+808
+02:36:44,680 --> 02:36:50,120
+My dearest dear, how are you? Your boss gave me this space email account and told me all about
+
+809
+02:36:50,120 --> 02:37:04,760
+your business trip. Just remember you have a family to think about. Oh, you guys. You guys.
+
+810
+02:37:04,760 --> 02:37:12,069
+I don't even know what to do with you. Okay. I'm going back there and I'm going to go in that thing.
+
+811
+02:37:31,750 --> 02:37:52,549
+Okay. Let's pull everybody up. Is German making less sense than normal?
+
+812
+02:37:52,549 --> 02:37:58,549
+No, I'm trying to respond to people. What? I'm getting linked an image of somebody talking
+
+813
+02:37:58,549 --> 02:38:04,709
+about how the lava sulfuric acid farts. How am I supposed to react to this?
+
+814
+02:38:09,899 --> 02:38:31,500
+This is a very abnormal thing to react to. All right, everyone go. All right. Here we are.
+
+815
+02:38:32,059 --> 02:38:42,329
+Let's get everyone out here. We're good. Come on. Let's go. Hurry up. Me. All right. Now we're
+
+816
+02:38:42,329 --> 02:38:56,229
+going to. Here we go. Let's get this started here. Okay. Eat him. I don't care. We're good.
+
+817
+02:38:56,870 --> 02:39:03,739
+Somebody died. Yeah. One red died. That's okay. There's the gas again. I can't. Oh, I can go down
+
+818
+02:39:03,739 --> 02:39:41,479
+here. Wait. I'm going to go. I'm going to follow them. I want everybody to come down. You know,
+
+819
+02:39:42,920 --> 02:39:47,239
+you go around like Twitch and you're like, what's this streamer's chat doing?
+
+820
+02:39:47,959 --> 02:39:53,299
+Having a conversation about stuff. Like, oh yeah, let's talk about what's happening in the game. Oh
+
+821
+02:39:53,299 --> 02:39:58,979
+yeah. Make sure you get two purples, 15 reds and the blues are coming up soon. I just want to let
+
+822
+02:39:58,979 --> 02:40:02,899
+you know. I take a look at that. Hey dude, like what's everybody up to lately? Everyone doing
+
+823
+02:40:02,899 --> 02:40:09,459
+something fun. What did you do last weekend? No, no here. Here I look over at the chat and I just
+
+824
+02:40:09,459 --> 02:40:17,139
+see in all capitals. He'll farts. He'll fart. Andy farting because of fuel. He's becoming. He's
+
+825
+02:40:17,139 --> 02:40:21,379
+farting. I can tell. Put your mic in your ass so we can tell if you're farting or not. I read.
+
+826
+02:40:21,379 --> 02:40:28,229
+That's a real one. I read. Put a mic onto your like asshole so we can be sure you're not farting.
+
+827
+02:40:28,229 --> 02:40:53,270
+That's what I have to read over here. That's what I have to read. Mythbusters. Mythbusters. What was
+
+828
+02:40:53,270 --> 02:41:03,559
+that? Astounding. My metal detectors are reacting violently. What could be down below? No. If you
+
+829
+02:41:03,559 --> 02:41:25,450
+find trouble below, press that. Yes. Yes. Yes. What's down here? This is gas and fire. No,
+
+830
+02:41:25,450 --> 02:41:32,379
+I said my piece. It really helped me a lot. All jokes aside, it did a lot of good for me.
+
+831
+02:41:32,379 --> 02:41:55,139
+It really did. That's the honest to God truth. Oh, this is cool looking. Watch out. All right,
+
+832
+02:41:55,139 --> 02:42:03,959
+now pick it up and bring it back to the ship. Consume its blood. How many calories are in one?
+
+833
+02:42:03,959 --> 02:42:30,260
+400. 400 calories and you don't. What was that? That's. Oh, somebody brought up. Somebody said
+
+834
+02:42:30,260 --> 02:42:35,620
+talking about sugar. It's five grams of sugar in the bottle or in one serving if you get like a
+
+835
+02:42:35,620 --> 02:42:41,690
+powder. Only five grams of sugar. Some of you guys are drinking like a fucking Mountain Dew
+
+836
+02:42:41,690 --> 02:43:02,860
+right now and it's like 40. So just to let you know, Mountain Dew is 60. What? No, it's not.
+
+837
+02:43:04,500 --> 02:43:13,540
+What? Mountain Dew is 63 grams of sugar in a bottle in just a like a 16 ounce bottle. No,
+
+838
+02:43:13,540 --> 02:43:21,979
+it's not. I thought it was like 39 or like 43 or something. It's 63 grams of sugar. That's
+
+839
+02:43:21,979 --> 02:43:40,340
+unfucking believable. A Coke is what? 38, 37. What? Why is it that much? Okay. Is it my opinion
+
+840
+02:43:40,340 --> 02:43:43,780
+that once you cross a certain threshold of sugar in a drink, you can't even tell it's in there
+
+841
+02:43:43,780 --> 02:43:52,440
+anymore after like 30 to 40 grams of sugar. Can you even tell that it's 60 instead of 40?
+
+842
+02:43:54,200 --> 02:44:07,590
+I can't. It's 46. I have an experiment for all you to do. If you drink coffee and you put,
+
+843
+02:44:07,590 --> 02:44:11,350
+you know, milk or cream and sugar in your coffee or something, if you get just a regular from,
+
+844
+02:44:11,430 --> 02:44:15,110
+I'm going to use Dunkin' Donuts as an example, right? Or even Starbucks, whatever. Doesn't
+
+845
+02:44:15,110 --> 02:44:19,909
+matter. Just getting a normal just with cream and sugar at any of this one of these random
+
+846
+02:44:19,909 --> 02:44:27,110
+places that don't that just a big coffee shop. Start doing half sugar. You're like, oh, yeah,
+
+847
+02:44:27,110 --> 02:44:32,549
+I'll take a regular iced coffee. But can you do a half distribute put it? I bet you you won't even
+
+848
+02:44:32,549 --> 02:44:41,110
+tell the difference from 50% to 100%. I started doing that and I couldn't tell. I actually could
+
+849
+02:44:41,110 --> 02:44:52,790
+not tell the difference. And what you're doing is you are reducing the amount of sugar you're
+
+850
+02:44:52,790 --> 02:44:56,309
+taking in every day, which let's be honest, it's really not that great for you. It really isn't.
+
+851
+02:44:58,010 --> 02:45:20,520
+You know, you can't even tell it's based and healthy. They're ignoring you and putting in
+
+852
+02:45:20,520 --> 02:45:32,469
+regular sugar. They're not. It's just, they just didn't even change it. Yeah. Okay. Half sugar.
+
+853
+02:45:32,469 --> 02:45:39,610
+Okay. Nope. Not doing that. That's no, that's not true. I've seen people make the coffee.
+
+854
+02:45:40,629 --> 02:45:48,170
+Holy shit, that's fire. And instead of going like one, two, three, four, five,
+
+855
+02:45:48,969 --> 02:46:04,379
+with like a sugar, it's one, two, done. I've seen them do it. Well, they have the pumps,
+
+856
+02:46:04,379 --> 02:46:08,379
+right? That's a lot of places have pumps and they take your coffee over and they go.
+
+857
+02:46:13,450 --> 02:46:22,629
+Stop, stop, stop, stop, stop, stop too much. Way too much. You can specifically ask for like
+
+858
+02:46:22,629 --> 02:46:46,899
+one pump or like two pumps. Start doing that. I'm serious. I want fire only. Get in there.
+
+859
+02:46:49,350 --> 02:47:00,180
+You can't hurt them. They're fire. A generous 12 pumps. And I have another thing to tell you.
+
+860
+02:47:00,899 --> 02:47:07,370
+Oh, he's got more to tell us. Oh, okay. Everybody watch out. That's a diamond over there.
+
+861
+02:47:09,510 --> 02:47:13,030
+If you are asking for extra cream and extra sugar in your coffee,
+
+862
+02:47:13,989 --> 02:47:21,110
+you're, you're eating a cake. Just, just go eat a cake. Go order a cake at like a bakery and eat
+
+863
+02:47:21,110 --> 02:47:32,250
+the cake. You cut back, cut back on that. That's a lot. Extra cream, extra sugar is just a cookie.
+
+864
+02:47:32,250 --> 02:47:38,920
+And you're just drinking a cookie. Not worse than that. I wonder what like extra cream,
+
+865
+02:47:38,920 --> 02:47:41,959
+extra sugar at like a Starbucks or a Dunkin' Donuts. I wonder what that actually is.
+
+866
+02:47:42,760 --> 02:47:46,600
+What is it? Well, how much is, what does, what is the actual, um,
+
+867
+02:47:47,159 --> 02:47:57,659
+like milliliters of cream and sugar and stuff? And then how much like cream and sugar goes into
+
+868
+02:47:57,659 --> 02:48:12,440
+baking a whole cake? I'm interested to know. Can they get this? I can't get that. Can't get it?
+
+869
+02:48:13,079 --> 02:48:34,469
+Is he dead? Can they get it? Sacrificing five, um, breads. Were they walking it? Oh,
+
+870
+02:48:34,469 --> 02:48:41,590
+they get, they got it. They got it. They got it. They got it. I love this cream. Have you ever
+
+871
+02:48:41,590 --> 02:48:57,879
+wanted a way to drink? That's not even real. Making that up. All right. No more. I got it.
+
+872
+02:48:58,680 --> 02:49:09,979
+Is there any more layers? Yes. There's a customer that, my friend works at Starbucks and somebody
+
+873
+02:49:09,979 --> 02:49:26,389
+comes in and gets seven shots of espresso and extra sugar. What? That's a lot. Is that person,
+
+874
+02:49:26,389 --> 02:49:33,610
+I feel like that's like the joke drink that the Incredible Hulk drinks in one of the last
+
+875
+02:49:33,610 --> 02:49:45,780
+movies or something. Eight shots of espresso with extra sugar. And it's tiny in his hand and you're
+
+876
+02:49:45,780 --> 02:50:04,100
+like, yeah, it was light. Ooh, different flower. Cool. I get seven shots of espresso.
+
+877
+02:50:07,799 --> 02:50:14,309
+One shot of espresso is one coffee, right? So therefore you're essentially drinking seven
+
+878
+02:50:14,309 --> 02:50:25,319
+coffees. That's a lot. No, it's less. Is it more? One shot of espresso is two. It's one to two.
+
+879
+02:50:28,069 --> 02:50:34,569
+Well, I'm talking about the caffeine count. One shot of espresso is about one to two cups of coffee.
+
+880
+02:50:34,569 --> 02:50:47,579
+Two shot is a medium coffee. Like six coffees for seven shots of espresso.
+
+881
+02:50:51,459 --> 02:50:57,620
+Did you hear that sound come out of my mouth? It was like the Pikmin look as if they long
+
+882
+02:50:57,620 --> 02:51:12,090
+to be tossed into the flower. Well, let's, I don't want to do it to purple. Is white electricity?
+
+883
+02:51:15,059 --> 02:51:43,500
+We'll find out. Or water? No. White is poison. Oh, so the gas. Okay, cool. Get in there.
+
+884
+02:51:43,500 --> 02:51:51,639
+I'm going to go get some gas.
+
+885
+02:52:00,920 --> 02:52:08,040
+Incredible. A white Pikmin. It's tiny, but it looks distinctly swift. Its eyes are an unseemingly red.
+
+886
+02:52:09,000 --> 02:52:14,309
+This type of Pikmin was not mentioned in your notes, Olimar. It must be an entirely new type
+
+887
+02:52:14,309 --> 02:52:20,260
+of Pikmin. A data record on this type is a blank page since a certain captain never documented them.
+
+888
+02:52:22,950 --> 02:52:26,950
+You must experiment and make detailed observations for the benefit of future generations.
+
+889
+02:52:27,590 --> 02:52:44,659
+It's omega low Reddit. Kind of is the Reddit Pikmin, isn't it? Oh, why can't I not go in?
+
+890
+02:52:45,219 --> 02:53:16,620
+I just put three. It was a waste. No, it wasn't. Louis, get up here and help me pull these.
+
+891
+02:53:16,620 --> 02:53:36,600
+Just replants them. Cool. Well, I got 15. Okay, let's get back to the group.
+
+892
+02:53:38,920 --> 02:53:56,549
+Something in here. What is in here? What is it now? Perfect. Oh, it's dinging.
+
+893
+02:53:57,510 --> 02:54:09,420
+Hey. Amazing. The white Pikmin have unearthed a treasure that was completely buried in the ground.
+
+894
+02:54:13,899 --> 02:54:16,780
+Perhaps those beady red eyes of theirs allow them to sense objects buried in the dirt.
+
+895
+02:54:19,719 --> 02:54:46,329
+Hooray. How thick is this tape? All right, this is a joke how thick this is. Everybody get on it.
+
+896
+02:54:46,969 --> 02:55:07,860
+We'll keep looking. Oh, rank up. No, no, no, no, don't all. Only red Pikmin just rank that.
+
+897
+02:55:08,420 --> 02:55:25,620
+You have to share it with everybody else. Share it. Share it with everybody else. What the hell?
+
+898
+02:55:30,389 --> 02:55:56,250
+Greedy. Too greedy. $80. Super stick textile. Cool. I like it. That's it for this floor. Let's get
+
+899
+02:55:56,250 --> 02:56:22,219
+everybody else. Follow me. We got the whole crew. The whole Drew crew. That's right. That's you guys.
+
+900
+02:56:23,719 --> 02:56:45,239
+You are the Drew crew. Was it February? All right. So in June, I don't have to say that anymore.
+
+901
+02:56:46,379 --> 02:57:06,579
+Well, here's the gas part. Oh, shit. Everybody split up. Remove the gas. They're fighting. What
+
+902
+02:57:06,579 --> 02:57:17,659
+are they fighting? Oh, they're fighting the gas. We'll pick that up. They don't carry that?
+
+903
+02:57:18,379 --> 02:57:35,850
+Is the white Pikmin not picking anything up? I can't take this with me for research.
+
+904
+02:57:36,809 --> 02:57:48,260
+It's a pipe. I can't like rip it out and take it with me.
+
+905
+02:57:48,260 --> 02:58:14,780
+All right. Let's go. Oh, wait. That's why the one behind me doesn't even. Wait,
+
+906
+02:58:14,780 --> 02:58:26,950
+can I get the mushroom? Easy. Easy. Don't go that way. I'm going to be safe.
+
+907
+02:58:27,670 --> 02:58:51,799
+I can get the mushroom. Cool. And everybody. Yeah, they can get the mushroom. Bring it in.
+
+908
+02:58:52,520 --> 02:59:08,680
+This is, hey, Jerome, it's my birthday today. It's Enver. It's my birthday. Could you be
+
+909
+02:59:08,680 --> 02:59:17,979
+really rude to me for five minutes? Happy birthday. I'm going to be really rude to you.
+
+910
+02:59:17,979 --> 02:59:33,450
+Why would I be rude to you on your birthday? Doesn't sound fun. Treasure. Can I get up there?
+
+911
+02:59:33,450 --> 03:00:19,379
+All right. Now walk that way. Get it. Let me get up there. This fucking controller is going to drive
+
+912
+03:00:19,379 --> 03:00:55,350
+me insane. I get it. Get it. Careful. Deliver that. Somebody help them. No fall damage. Yeah,
+
+913
+03:00:55,350 --> 03:01:03,219
+that's good. You don't need to take all the Pikmin to the entrance of the next geyser.
+
+914
+03:01:03,219 --> 03:01:06,739
+They follow you if you enter as a captain, even if they're not in your party. Really? Okay,
+
+915
+03:01:06,739 --> 03:01:24,059
+that's good to know. Do a Pikmin impression? Sure. Okay. Which one? Let's see. This is red.
+
+916
+03:01:24,059 --> 03:01:59,159
+Let's go. I'm not going to say that, but you know what I was going to say. Catboy practice? No,
+
+917
+03:01:59,159 --> 03:02:06,309
+you have no idea. I can't wait to tell you about the Catboy stream. The thing I want to do in the
+
+918
+03:02:06,309 --> 03:02:15,479
+Catboy stream. I can't wait to tell you about it like a year from now. Final floor. Let's go.
+
+919
+03:02:16,040 --> 03:02:29,770
+Din din din din din din. They should put that in. Din din din din din din. Din din din din din din.
+
+920
+03:02:39,590 --> 03:02:45,350
+Run run run run run run run run run run run run run run. It's a fucking bird from Donkey Kong.
+
+921
+03:02:45,350 --> 03:03:08,250
+Run. The red liquid you see contains refined ultra spicy essence. One drop contains one dose.
+
+922
+03:03:10,709 --> 03:03:17,909
+Press two to spray this extract on your entire group. Have you tried it yet? I have not,
+
+923
+03:03:17,909 --> 03:03:37,989
+but I will in just a second. Spray. Spray it. I spray it. Let's go. Pull back, back, back, back,
+
+924
+03:03:37,989 --> 03:03:41,829
+back, back, back, back, back, back, back, back, back, back, back, back, back, back, back, back.
+
+925
+03:03:41,829 --> 03:03:54,180
+Is he going? Attack. On his head, on his head, on his head, you dopes.
+
+926
+03:04:01,579 --> 03:04:21,530
+Run under his chin. That's a weak part. Oh no. Where is he? Get on his head. Get on his head.
+
+927
+03:04:22,409 --> 03:04:32,489
+What is the sound the Wiimote is making? What's the sound? Why is my Wiimote calling me?
+
+928
+03:04:40,329 --> 03:04:45,370
+Well done. Captain Olimar, you've defeated that freakish half bird half serpent hybrid.
+
+929
+03:04:47,370 --> 03:04:50,940
+Oh no, don't tell me that treasure was ingested by the beast, wasn't it?
+
+930
+03:04:58,170 --> 03:05:05,059
+I think I'm going to turn this off. I'm going to go into the settings and just turn off the Wiimote.
+
+931
+03:05:05,700 --> 03:05:16,940
+Being able to make noise. Very cool. All right. Is that everything in here?
+
+932
+03:05:18,309 --> 03:05:30,170
+That's the last floor. Go deliver it. Use a game cube controller. I'm on a Wii U.
+
+933
+03:05:30,809 --> 03:05:50,700
+I'm not on a Wii. This version doesn't support a gamepad. Okay. Get an adapter, you cheap bastard.
+
+934
+03:05:52,260 --> 03:05:57,139
+I just put my arms in the air and went like what? I didn't even know I was going to need it.
+
+935
+03:05:58,340 --> 03:06:03,299
+I thought it was like a Wiimote game. If the material looks comfortable,
+
+936
+03:06:03,299 --> 03:06:17,850
+I will use it to patch the boss's favorite sleeping bag. Ooh. Seam test. Conclusive.
+
+937
+03:06:17,850 --> 03:06:27,899
+Cross stitching successful. The knapsack is complete. Oh, also Pikmin 2 is like incredibly
+
+938
+03:06:27,899 --> 03:06:32,780
+fucking hard to find too. It's another one of those games that's like a shitload of money.
+
+939
+03:06:34,200 --> 03:06:42,309
+And it might have taken long to get here. I don't know. I did not anticipate a lot of these first
+
+940
+03:06:42,309 --> 03:06:50,840
+party old Nintendo games are going to be this hard to actually get a copy of. And I'm not going to
+
+941
+03:06:50,840 --> 03:06:54,360
+say this again. All you guys telling me to emulate a first party Nintendo game, you're going to get
+
+942
+03:06:54,360 --> 03:06:58,920
+me fucking thrown in jail. They're coming after me if I do. You're trying to get me fucking,
+
+943
+03:06:58,920 --> 03:07:04,020
+you're trying to get me taken? A first party Nintendo game? You want me to emulate and be
+
+944
+03:07:04,020 --> 03:07:09,770
+like I'm emulating first party Nintendo game. What do I care? Alerts go off at Nintendo headquarters.
+
+945
+03:07:16,500 --> 03:07:21,379
+Wait, when you have an unoccupied time interval, press and hold C to take a nap.
+
+946
+03:07:38,700 --> 03:07:41,899
+Everyone does it. I don't care if the Queen of England does it.
+
+947
+03:07:44,620 --> 03:08:26,579
+You would hold C. I don't want to hold C. I heal as Olimar. That was so cute. All right,
+
+948
+03:08:26,579 --> 03:08:30,100
+somebody just wrote, I used to emulate Pokemon at school back in the day, you boomer.
+
+949
+03:08:35,399 --> 03:08:41,319
+Did you do it in front of 10,000 people saying, hey, I'm emulating. I didn't buy this.
+
+950
+03:08:46,360 --> 03:09:02,120
+I think that's a small difference. Yeah, I did actually. Well, it looks like you got away with
+
+951
+03:09:02,120 --> 03:09:11,979
+it. You don't have to say you're emulating it. Oh, people will know. I'll hit like escape and
+
+952
+03:09:11,979 --> 03:09:15,579
+somebody will see like the emulator running and all of a sudden that's the running joke for the
+
+953
+03:09:15,579 --> 03:09:37,450
+next like three days. You know how I know that? Because it's happened before. If I have to emulate,
+
+954
+03:09:37,450 --> 03:09:46,870
+I do. Let me be very clear about that. But if I can play on original hardware, I'd like to play
+
+955
+03:09:46,870 --> 03:09:54,340
+on original hardware for a couple of reasons. It's kind of cool to actually own the consoles
+
+956
+03:09:54,340 --> 03:09:58,420
+and stuff. It's like sure, could I have like emulated the entire Dreamcast stuff? Yeah,
+
+957
+03:09:58,420 --> 03:10:02,579
+but I own the Dreamcast now and I have all that stuff. It's just kind of cool to have.
+
+958
+03:10:16,780 --> 03:10:20,059
+Now, that doesn't mean I'm against doing it. I've emulated plenty of games.
+
+959
+03:10:20,700 --> 03:10:41,799
+Okay, I can do the gas thing now. Yeah, criminal. Where's the gas down here? Right? Wait,
+
+960
+03:10:41,799 --> 03:10:50,090
+I want to harvest this stuff. I'm going to stay here for a minute. Nintendo interest has intensified.
+
+961
+03:10:53,079 --> 03:10:59,159
+Look, I just I don't want to fuck around. Nintendo really had a major crackdown on emulating
+
+962
+03:10:59,159 --> 03:11:22,010
+and emulated games and roms a year or two ago. I don't. I'm sorry. Nope. You need to
+
+963
+03:11:22,010 --> 03:11:28,360
+good lawyer. Instead of having to worry about having a good lawyer, why don't I just play the
+
+964
+03:11:28,360 --> 03:11:40,100
+one on Wii? Okay, I could either like hire a lawyer and have like a thousands of dollars
+
+965
+03:11:40,100 --> 03:11:48,979
+of a retainer fee or just play the game on Wii U. I think I would rather do the Wii U one.
+
+966
+03:11:51,799 --> 03:12:15,379
+How do you like it so far? It's really fun. It's very fun. All right, gas. Get through the gas.
+
+967
+03:12:16,180 --> 03:12:27,739
+It was this way. Oh, it's another globe. Cool, cool, cool. Oh, new level. Yes. All right, where
+
+968
+03:12:27,739 --> 03:12:40,860
+are they? You're kind of stuck, aren't you? Go get it. This is going to take a very long time,
+
+969
+03:12:40,860 --> 03:13:01,940
+isn't it? Use the spray. It's true. I got one person. I didn't get anybody. I didn't hit one
+
+970
+03:13:01,940 --> 03:13:19,059
+person with that. Why? You, Louie, you stay here. What else can we do in the meantime?
+
+971
+03:13:19,860 --> 03:13:30,739
+I just screamed at him. What can I do in the meantime? I don't think I can do anything in
+
+972
+03:13:30,739 --> 03:13:52,600
+the meantime. Please look at a Pikmin idol animation. I'm begging you. Okay. Hold C. No.
+
+973
+03:13:53,399 --> 03:14:07,159
+You're fine. You're fine. You're fine. Get over here. You're fine. Okay, I can't do anything.
+
+974
+03:14:09,110 --> 03:14:33,209
+Dismiss and then watch. They sit down? Why is that such important? Why do you need to see that so
+
+975
+03:14:33,209 --> 03:14:45,700
+bad? Okay. Can Olimar walk in here? We could kill that guy. All right. Let's kill that thing.
+
+976
+03:14:50,579 --> 03:15:11,239
+Oh, no, we can't. No. We get it. Yes. All right. Let's get in here. Get the globe.
+
+977
+03:15:18,120 --> 03:15:39,079
+Look at the flowers. What are you guys? What have you guys done? No. Nope. Not even going to
+
+978
+03:15:39,079 --> 03:15:45,959
+fucking address it. Fascinating. This object is highly similar to the one you found in the
+
+979
+03:15:45,959 --> 03:15:59,370
+Valley of Repose. By examining this further, I may be able to extrapolate new planetary data.
+
+980
+03:15:59,370 --> 03:16:08,280
+Oh, excuse me. Fight. Good. Blow him up. All right. We're going to have a lot of things to take
+
+981
+03:16:08,280 --> 03:16:18,360
+here. We have take his face and take the globe. Get that. Nice. Everybody on it. Bring it here.
+
+982
+03:16:18,360 --> 03:16:28,979
+Here we go. Cool. We've got a head. We got that. Where's Louis? Oh, he's right here. Nice. Okay.
+
+983
+03:16:28,979 --> 03:16:35,340
+Good. Bring it. There's a log there. There's one more thing over here, isn't there? Oh,
+
+984
+03:16:35,899 --> 03:16:41,579
+cannot go over here yet. This is like a Metroid. You have to get the right pick and come back.
+
+985
+03:16:41,579 --> 03:17:14,420
+You go back to the old levels and a Metroidvania. I'm sorry. I will apologize for that one. I'm
+
+986
+03:17:14,420 --> 03:17:34,709
+sorry. That one deserves an apology. You know how to do it. I'm a bird. You know what to do.
+
+987
+03:17:34,709 --> 03:17:37,909
+You just have to, you just have to call to me and I will call you. I will do it.
+
+988
+03:17:38,469 --> 03:17:50,860
+All it took was somebody to write just that doi doi doi in chat and I just did it.
+
+989
+03:17:59,299 --> 03:18:05,909
+Please do the scrumptious cake. I've said that so many times. Just go back to one of the times
+
+990
+03:18:05,909 --> 03:18:36,440
+I said it. Do Megalovania doi doi doi please. I don't think I can do that. I don't think that's
+
+991
+03:18:36,440 --> 03:19:07,799
+possible. It's too hard to do. Am I just the weird guy at the lunch table? Hey, hey, hey, dude. Hey,
+
+992
+03:19:07,799 --> 03:19:13,479
+hey, watch this. Hey, hey, dude, do the doi doi doi, but this time do this song. Okay. Sure thing.
+
+993
+03:19:16,760 --> 03:19:19,719
+He did it. He actually did it. He's going to get, he's going to get detention now.
+
+994
+03:19:22,040 --> 03:19:26,840
+Jeremy, what? You think it's funny to make noises in the middle of the lunchroom?
+
+995
+03:19:28,500 --> 03:19:31,860
+Yeah, I'm just having fun. That's two more days of detention.
+
+996
+03:19:32,579 --> 03:19:38,709
+I'm reliving what happened when I was in fucking high school. That's actually what happened.
+
+997
+03:19:39,350 --> 03:20:01,639
+Okay. Hey, dude, hey, do doi doi doi again. Like turn, do it like right into the air and then
+
+998
+03:20:01,639 --> 03:20:04,920
+make an elephant noise after. No, I'm not going to do that. I'm not going to do an elephant noise at
+
+999
+03:20:04,920 --> 03:20:08,280
+the end. Yeah, dude, come on, do it. It'll be funny. I'm not going to do it. All right.
+
+1000
+03:20:11,000 --> 03:20:27,430
+This actually was real. Same shit happens on every stream. All right. I got to go back.
+
+1001
+03:20:33,799 --> 03:20:42,459
+Everybody go home. Let's go home. Do doi doi doi. It'll be wicked funny. Don't go to sleep.
+
+1002
+03:20:45,100 --> 03:21:14,069
+Oh, dude, do doi doi doi. It'll be wicked funny. Pause the ends day early. Oh, okay.
+
+1003
+03:21:14,790 --> 03:21:38,409
+Pikmin top left. What? Chairman, it's my birthday today.
+
+1004
+03:21:40,469 --> 03:21:44,260
+Oh, it would have been if you didn't throw me into the water two hours ago. By the way,
+
+1005
+03:21:44,260 --> 03:22:04,709
+I am red Pikmin number 94. Oh, sorry about that. That was a lot of money today. 810 bucks.
+
+1006
+03:22:05,350 --> 03:22:17,450
+That's pretty good. Who died? I've only lost Pikmin to battle. Nothing else.
+
+1007
+03:22:18,170 --> 03:22:26,840
+Hold on. Good work so far. I hereby promote you to perennial manager. Press C to divide up work
+
+1008
+03:22:27,930 --> 03:22:43,020
+and to delegate more to your subordinate leader. New level unlocked. Where is it?
+
+1009
+03:22:48,340 --> 03:23:15,219
+New treasure. Very cool. I want to see the tape up close. Oh, that's good. What do you say for his
+
+1010
+03:23:15,219 --> 03:23:21,780
+wife? The vivid color of this red stone reminds me of my wife's eyes when they burn with rage.
+
+1011
+03:23:22,579 --> 03:23:27,860
+Just between you and me, I've noticed lately that she's been getting more wrinkles. Now that I
+
+1012
+03:23:27,860 --> 03:23:33,559
+think about it, I've probably caused her a lot of stress. When I return to Hakau Tate,
+
+1013
+03:23:33,559 --> 03:23:40,059
+I'll take her on a long vacation. I thought this was like a piece of shit or something.
+
+1014
+03:23:40,700 --> 03:23:48,790
+Well, it is, but I thought it was an actual like shit. This is shoe polish. There are several
+
+1015
+03:23:48,790 --> 03:23:53,590
+different patterns drawn on this object's surface. They appear to be characters or letters. I can't
+
+1016
+03:23:53,590 --> 03:23:56,790
+make any sense of them. This is just an educated guess, but I wonder if this object is kind of an
+
+1017
+03:23:56,790 --> 03:24:07,450
+alien bulletin board. The size of the object seems about right for it. Oh, that's cool. What's this
+
+1018
+03:24:07,450 --> 03:24:15,430
+one? Today, I delivered an impromptu lecture on the basics of wilderness survival. As Louis
+
+1019
+03:24:15,430 --> 03:24:20,979
+Superior, it's my responsibility to teach him these skills. Walking around as much as we do
+
+1020
+03:24:20,979 --> 03:24:26,020
+generates an intense thirst, so water becomes very important. I told Louis that we have to ration our
+
+1021
+03:24:26,020 --> 03:24:30,979
+water carefully. That's what I was thinking until I found this. I so parched that I couldn't help
+
+1022
+03:24:30,979 --> 03:24:38,010
+myself. I drank all the water in the canteen. It tasted so good. When I turned around, Louis gave
+
+1023
+03:24:38,010 --> 03:24:55,850
+me a cold stare. Let's go to area select. Okay, well, I have new... I'm gonna go back to the first zone.
+
+1024
+03:24:55,850 --> 03:25:06,629
+I think I could probably dig something up, maybe? I'm gonna go for a zone. No, I need water first.
+
+1025
+03:25:06,629 --> 03:25:29,510
+I guarantee to get water pickling here. John Oliver. How many zones are in the game? Four. Cool. So
+
+1026
+03:25:29,510 --> 03:25:38,579
+you're just supposed to go all around and go back and forth and stuff. The two types are sleeping
+
+1027
+03:25:38,579 --> 03:25:43,379
+well and do not quarrel. I have made them most comfortable. That's good. You can call out the
+
+1028
+03:25:43,379 --> 03:25:55,139
+white Pikmin by standing in the light beneath me. Yes, yes, yes. Give it a burp. Well, there you go.
+
+1029
+03:25:55,139 --> 03:26:02,950
+To retire early for the day, press start and then press right on the d-pad. All right, so what we
+
+1030
+03:26:02,950 --> 03:26:17,459
+need? I'm gonna assess the area. Oh, yellow. Wild Pikmin, can you see them? Captain Olimar.
+
+1031
+03:26:19,510 --> 03:26:22,790
+They're yellow Pikmin. You encountered them when you crashed on this planet, correct?
+
+1032
+03:26:23,510 --> 03:26:27,770
+It would be most helpful if they remember you like the red ones did. Yes, most helpful.
+
+1033
+03:26:36,840 --> 03:26:47,379
+Where are they? There's a frog guy over here. There's a cave right there. All right, let's
+
+1034
+03:26:47,379 --> 03:27:03,350
+just take the crew. They're like a competing franchise. What's that? Oh, no, that's yellow.
+
+1035
+03:27:03,350 --> 03:27:16,620
+Okay. All right, I'm gonna take some. I'm gonna take a crew. All right, I'm gonna take 50 red
+
+1036
+03:27:22,420 --> 03:27:35,350
+and then all of these and all the purples. What does that leave me with? I can still get a few
+
+1037
+03:27:35,350 --> 03:27:59,000
+more. Okay. Well, let's first kill this thing because why let it live and we can dissect it
+
+1038
+03:27:59,000 --> 03:28:13,399
+and research it. You can kill anybody, right? Who died? A red Pikmin died. That's okay.
+
+1039
+03:28:20,899 --> 03:28:28,040
+Wait, where do I bring this? I gotta put that in the yellow one. Where's the yellow? All right,
+
+1040
+03:28:28,040 --> 03:28:54,709
+let's just follow them. Am I putting this yellow one in the red one? Whistle them. Put the lime
+
+1041
+03:28:54,709 --> 03:29:04,579
+in the coconut. You put the yellow in the red, it explodes. Well, okay. I know that's not real.
+
+1042
+03:29:09,129 --> 03:29:28,549
+I think I'm supposed to put that in the other one. Follow me. Sing it. Big subs.
+
+1043
+03:29:42,420 --> 03:29:47,829
+Fight, fight, fight, fight, fight, fight, fight. Why is he going in there by himself?
+
+1044
+03:29:51,799 --> 03:29:55,239
+I could hear how bad that singing sounded so I stopped immediately. Sometimes I can do pretty
+
+1045
+03:29:55,239 --> 03:30:13,430
+well. This hole is filled with wretched nasty bugs. Are we fighting or what? All right, take those
+
+1046
+03:30:13,430 --> 03:30:30,600
+bugs. There's a flying one right there. Crush his head. I'll take him. What's back here? I
+
+1047
+03:30:30,600 --> 03:30:40,940
+can't go in the water. I can't go in the water. I can go in there. Hold on. Go over this way for a
+
+1048
+03:30:40,940 --> 03:31:23,780
+sec. Be careful. Can we get up here? What does that mean? 201. Okay, now we're going to go
+
+1049
+03:31:26,389 --> 03:31:35,290
+do the balance this. Is that what this wants me to do? It doesn't want me to go up on top of this.
+
+1050
+03:31:35,930 --> 03:31:54,010
+Why is it lagging so much? It's an elevator. What's the point of this though? I don't know.
+
+1051
+03:31:54,010 --> 03:32:07,049
+Why do I need to use this? What's it for? I just don't get it. If one of them is... We can go up
+
+1052
+03:32:07,049 --> 03:32:17,020
+and then... Oh, wait. I can't get there from over here. Oh, I thought I came from over here. No,
+
+1053
+03:32:17,020 --> 03:32:47,299
+never mind. Hold on. No, I thought I came from up there. Oh, Jesus. Bring him down. Kill him.
+
+1054
+03:32:53,739 --> 03:33:11,459
+Why is it running? Shit. Emulator. Hold on. I need to shake my hand because holding a Wiimote
+
+1055
+03:33:11,459 --> 03:33:18,940
+forward for three and a half hours sucks. They didn't think about that though. It was just play
+
+1056
+03:33:18,940 --> 03:33:38,299
+with your grandmother Wii Sports for 15 minutes. All right, I'm ready. Eggs. Split this up for a
+
+1057
+03:33:38,299 --> 03:34:00,540
+second. Hold on. No, no, no. Get over here. I want to get everybody up here. Oh, stand on that. Back
+
+1058
+03:34:00,540 --> 03:34:46,469
+up. Can I not get everybody up here? I'm trying to like weigh this down so I can't. Oh, we need
+
+1059
+03:34:46,469 --> 03:35:05,780
+that guy. Oh my God. Hold on. I got to take a break. I got to like stretch my arms. My right
+
+1060
+03:35:05,780 --> 03:35:15,219
+elbow is dying right now from holding my hand forward like I'm changing the channel on a TV
+
+1061
+03:35:15,219 --> 03:35:35,030
+station. Hold on. Oh, shit. Pause the game. I kicked tennis elbow. Wii elbow. End of the stream.
+
+1062
+03:35:35,030 --> 03:35:47,030
+No, not yet. Let me stand up. All right. I wish I could do... You know what? I wish I could do this
+
+1063
+03:35:47,030 --> 03:35:54,360
+with my eyes. See, they really fucked up this technology. Imagine the Wiimote pointer. You
+
+1064
+03:35:54,360 --> 03:36:04,629
+could just do it with your eyes. Let's try this again. Instead of having to like lean forward
+
+1065
+03:36:04,629 --> 03:36:15,719
+and like creep and hold my hand out. All right, so you stay here. Get over here. No,
+
+1066
+03:36:16,280 --> 03:36:46,389
+why do you keep giving me people? Why can't I fucking do this?
+
+1067
+03:36:48,889 --> 03:37:03,020
+I'm missing something very important here. Why can't I do this? I'm just going to throw them up
+
+1068
+03:37:03,020 --> 03:37:23,049
+there. I thought I'm not supposed to like move to get on the escalator elevator with like two
+
+1069
+03:37:23,049 --> 03:37:28,420
+people or something. I'm starting to really hate this fucking controller more than anything.
+
+1070
+03:37:29,139 --> 03:37:55,030
+Oh, God. Oh, go! No, don't go. Louis, are you not strong enough to do this shit?
+
+1071
+03:37:55,750 --> 03:38:08,680
+Why is it? Why can you do it now? All right. Fuck off, all of you. I'm running out of daylight
+
+1072
+03:38:08,680 --> 03:38:42,680
+here. Fuck this controller. It was made for three games. All right, you take this guy back.
+
+1073
+03:38:42,680 --> 03:39:05,899
+What, can they? Baste and rage pill. I'm serious. This controller works well in like 12 games out
+
+1074
+03:39:05,899 --> 03:39:23,780
+of 5,000. All right, Louis is down there. Can I do anything else here while they get that gate?
+
+1075
+03:39:23,780 --> 03:39:51,500
+Can we take this? Oh, we can. Get it. Bring it back. I'm out of time. We're out of time. Can
+
+1076
+03:39:51,500 --> 03:40:00,659
+these guys even get down here? Let's just walk off the edge. The wheat moat through the screen
+
+1077
+03:40:00,659 --> 03:40:13,510
+already. I know it's almost time. I know, I know, I know, I know. Can you guys get this please in
+
+1078
+03:40:13,510 --> 03:40:23,500
+time? Come on, you can do it. There's a huge thing in here. Come on, come on, come on, come on, come
+
+1079
+03:40:23,500 --> 03:41:23,909
+on. They couldn't do it. They couldn't do it. They couldn't do it. Okay. Wait, left behind? Wait,
+
+1080
+03:41:23,909 --> 03:41:36,139
+how many? 30 people were left. No, they were. I thought I went down there with Louis. Fucking
+
+1081
+03:41:36,139 --> 03:41:45,370
+elevator. Yeah, why is it even there? Fucking stupid elevator. For what? I'm going to throw
+
+1082
+03:41:45,370 --> 03:41:51,290
+the Pikmin up. I throw them over the elevator. I was so hell bent on figuring out what I need
+
+1083
+03:41:51,290 --> 03:42:10,500
+to do with the elevator. Just throw them over there. I went to Happy Hawkatate Savings and Loan,
+
+1084
+03:42:10,500 --> 03:42:15,530
+but it seems my loan came from the shop next door, all devouring black hole loan sharks.
+
+1085
+03:42:16,920 --> 03:42:40,020
+That sounds bad. Okay, I'm going to go back here. Did they even get the... They got it back in time,
+
+1086
+03:42:40,020 --> 03:43:04,229
+right? Did they get the big guy? Or did they not get the big guy? All right, let's go. We lost one
+
+1087
+03:43:04,229 --> 03:43:29,020
+big guy. Damn it. All right, everybody follow me. I want to go back to that gate. This time I'm not
+
+1088
+03:43:29,020 --> 03:43:40,409
+going to sit here for 12 minutes fighting the stupid elevator. All right, can I go in here?
+
+1089
+03:43:41,129 --> 03:44:01,559
+Whoa, what is this? A maze? Kind of. You all right? Did somebody die? Well, just keep up with the
+
+1090
+03:44:01,559 --> 03:44:05,799
+group. What the fuck are you doing? Why would you stop to fight that thing? We're all clearly
+
+1091
+03:44:05,799 --> 03:44:23,239
+running this way. What are you, insane? It's cruel. All right, let's do this stupid thing again and
+
+1092
+03:44:23,239 --> 03:45:09,819
+I'm just going to just go up. Louis, you stay down here. We're just going to say you're a cool guy.
+
+1093
+03:45:09,819 --> 03:45:37,989
+Hey, thanks. This thing's dead. Oh, you little things. Okay, this way. Get it. That was a shitty
+
+1094
+03:45:37,989 --> 03:45:50,139
+reaction. I mean, thank you. For a second, I thought it was sarcastic. It may have been.
+
+1095
+03:45:51,100 --> 03:46:04,659
+Did they get it? Good. Okay, so now there it is. There's the yellow ship. All right,
+
+1096
+03:46:04,659 --> 03:46:25,479
+I've discovered yellow ship. Hello. Okay. Okay. Hi, guys. Hey, can we fart together the next
+
+1097
+03:46:25,479 --> 03:46:33,370
+TwitchCon? No. The yellow Pikmin have climbed down the tree. They appear to like high places and
+
+1098
+03:46:33,370 --> 03:46:41,530
+seem to be quite light. They have very large ears. Ear Pikmin, but I will give them the name
+
+1099
+03:46:41,530 --> 03:46:48,040
+Olimar gave them. My static electricity sensors are reaching violently. What could that mean?
+
+1100
+03:46:48,680 --> 03:47:02,260
+It means they're electric. All right, now we can deposit the things here. Let's do that now. That's
+
+1101
+03:47:02,260 --> 03:47:15,379
+a big 10. Bring it into the ship. Where are you going? Where are you going? Where are you going?
+
+1102
+03:47:15,379 --> 03:47:29,909
+Where are you going? Where are you going? It has to be yellow that picks them up? Oh, it has to be
+
+1103
+03:47:29,909 --> 03:47:42,729
+predominantly yellow that carries them. Okay, I see. Get back here. Look.
+
+1104
+03:47:46,979 --> 03:47:54,329
+Okay. Well, hold on. You little dicks. All right. Spread out.
+
+1105
+03:48:03,479 --> 03:48:30,489
+Fuck. Louis, go get that guy. Wait. Louis, stay down there. Oh, don't let red take it.
+
+1106
+03:48:31,610 --> 03:48:38,780
+Where are you letting red take it for? Put it down. Put that down. Put it down. You know what?
+
+1107
+03:48:42,540 --> 03:49:07,639
+Leave it alone. Bring it. Okay, we're good. How are they going to do this? Wait, why? Where are
+
+1108
+03:49:07,639 --> 03:49:15,739
+they going with that? They're too far away. Where are they going? Guys, guys, guys, guys, guys, guys,
+
+1109
+03:49:15,739 --> 03:49:21,579
+guys. Follow me, please. Don't get eaten. You got fucking eaten, you dumb guy. Oh, come on.
+
+1110
+03:49:22,540 --> 03:49:40,600
+Fuck. No. What? Shit. Come on. You stupid guy. Why would you walk it all the way if you can't
+
+1111
+03:49:40,600 --> 03:49:53,420
+bring it back? Why would you just go back up there and hang out for a while? Shit. Did somebody just
+
+1112
+03:49:53,420 --> 03:50:19,290
+die? Give me another one. Okay. Ten. What do I even have up here? I have three yellow Pikmin.
+
+1113
+03:50:20,010 --> 03:50:49,780
+How did that happen? All right. Everybody spread out. Oh, shit. Purple doesn't have a place. Oh,
+
+1114
+03:50:49,780 --> 03:51:01,399
+nice. Okay. Purple doesn't have a... Doesn't... Excuse me. Excuse me. This really is just
+
+1115
+03:51:01,399 --> 03:51:11,209
+chaperoning a field trip. Everybody get out of the way. My fucking God. Did they just all
+
+1116
+03:51:11,209 --> 03:51:47,860
+ran off the edge? My God. Are they drowning in water? They're not drowning, right? Okay. Well,
+
+1117
+03:51:48,420 --> 03:51:55,700
+whatever. All right. There's a big guy over here. I need to collect everybody.
+
+1118
+03:52:00,840 --> 03:52:07,959
+Louie, you're just going to be stuck back there probably. Too bad. Where's this other three?
+
+1119
+03:52:18,149 --> 03:52:30,420
+Yellow can jump really high. Oh, that's cool. Oh, shit. They're just like pulling these apart.
+
+1120
+03:52:34,709 --> 03:52:46,309
+All right. Everyone, we got a full team here. Blue swims, red's fireproof. All right. Stomp them.
+
+1121
+03:52:49,100 --> 03:52:53,659
+Nice. Good job. Nice work, everybody. Don't even bring them back. What's the point?
+
+1122
+03:52:53,659 --> 03:53:09,940
+I don't know what that is, but it's freaking me out. Somebody go touch it. What is this? A strange
+
+1123
+03:53:09,940 --> 03:53:15,979
+mold-like botanical entity has spread across the ground here. Interesting. I am detecting other
+
+1124
+03:53:15,979 --> 03:53:34,489
+plant life suffocating beneath it. I guess let's save them. Somebody's trapped under here? Somebody's
+
+1125
+03:53:34,489 --> 03:53:45,399
+suffocating under here? Who is it? Oh, watch out. That's a fire pig.
+
+1126
+03:53:57,610 --> 03:54:11,690
+Right into the water. Are you shitting me? Don't go into the- My God. What have you done?
+
+1127
+03:54:12,569 --> 03:54:27,129
+What have you done? Why did they go that way? All right. What are these things doing?
+
+1128
+03:54:28,090 --> 03:54:44,219
+Are we going to climb this? Oh, it's the- Okay. Cool. We'll get a log. Hold on. Oh,
+
+1129
+03:54:44,219 --> 03:54:54,600
+they're killing this guy. Get him. Where's everybody? Okay. We're good.
+
+1130
+03:54:59,500 --> 03:55:04,489
+Knock this down. They're making a bridge.
+
+1131
+03:55:06,649 --> 03:55:40,489
+Oh, okay. Of course. Nice work, everybody. Kill, kill, kill. We're good? We're good. That was a
+
+1132
+03:55:40,489 --> 03:55:46,790
+blue one. All right. Back here. Dude, are they getting chased? No. All right. We're good.
+
+1133
+03:55:52,120 --> 03:56:04,120
+I can't get these. I'm enjoying this stream because I don't know what Jeremy's supposed
+
+1134
+03:56:04,120 --> 03:56:12,790
+to be doing, so I can't get mad at him. This is ultra bitter essence. It does not appear to have
+
+1135
+03:56:12,790 --> 03:56:26,469
+any monetary value, but I should research this. This is another spray. Same? Well, I have to get
+
+1136
+03:56:26,469 --> 03:56:45,100
+more specimens. Oh, no, I don't. No, I don't. Where is everybody? Where is everybody? Where's
+
+1137
+03:56:45,100 --> 03:57:07,340
+everybody? There's nobody over here. Just Louis. Can Louis die? All right. Louis will get everybody
+
+1138
+03:57:07,340 --> 03:57:37,690
+else. Oh, fuck. Oh, fuck. Oh, fuck. Is it for yellow? Where are they? Where are they? Where is
+
+1139
+03:57:37,690 --> 03:58:02,579
+he? Got one. Okay. Where's the other one? What about the other ones? Oh, I got them all. Yes.
+
+1140
+03:58:02,579 --> 03:58:37,540
+This game looks boring. It's kind of just a game to play for fun. It's good. Dodge the situation
+
+1141
+03:58:37,540 --> 03:58:42,010
+with your parents. I need to make more money. I need to make $10,000. I'm only a third of the
+
+1142
+03:58:42,010 --> 03:58:55,739
+way there. Who died at sunset? One died at sunset today. It's like a cop of my loan agent. He's got
+
+1143
+03:58:55,739 --> 03:59:12,579
+a scary voice. His voice is very scary. Are we going to have a raid coming in? What's the raid?
+
+1144
+03:59:15,219 --> 03:59:27,059
+Slime raid? Oh, let me see. Let me see. Let me see. Slimecicle came in with almost 2300 people.
+
+1145
+03:59:27,059 --> 03:59:34,090
+What's going on, everybody? Thank you, Slimecicle. We're playing Pikmin. Very fun. I've never played
+
+1146
+03:59:34,090 --> 03:59:37,370
+Pikmin before. It was my first experience playing Pikmin 2 jumping right to the sequel because
+
+1147
+03:59:38,090 --> 03:59:48,540
+I heard it was better. It'll be a good stream. Whatever you're doing. Raid song for them. No,
+
+1148
+03:59:48,540 --> 04:00:02,840
+I don't do a raid song. You guys say we do, but I don't. I've never heard of this before. No,
+
+1149
+04:00:02,840 --> 04:00:12,600
+I'm so bad at coming up with lyrics. I can't do it. I can't do it. Hey, thanks for joining
+
+1150
+04:00:13,159 --> 04:00:26,420
+this morning. How's your mother? Hope she's well. I don't know. There's an electric fence here.
+
+1151
+04:00:27,219 --> 04:00:37,530
+This is why nobody likes us, chat. I didn't say it, but hey, you can't just...
+
+1152
+04:00:39,479 --> 04:00:46,579
+What do you mean? What do you mean this is why nobody likes us? Do we have some type of
+
+1153
+04:00:46,579 --> 04:00:57,209
+reputation that I don't know about? What do you mean? What are you talking about? We're going to
+
+1154
+04:00:57,209 --> 04:01:17,930
+go 30. We're going to do... Let's go like this. Bad reputation. Take all the purples. Okay,
+
+1155
+04:01:17,930 --> 04:01:26,870
+that leaves us with... I'm just going to do mostly red now. Do I have any white? I don't think there's
+
+1156
+04:01:26,870 --> 04:01:37,139
+gas on this level. I don't think I need it. Maybe I will. Why not? I'll finish it off with yellow.
+
+1157
+04:01:37,700 --> 04:01:50,250
+Where do these guys come from? Oh, there was yellow there. Okay. All right, here we go.
+
+1158
+04:01:56,440 --> 04:02:04,549
+Welcome to the stream, guys. My name is Jerma. I want this to be yellow. Oh, whatever.
+
+1159
+04:02:05,350 --> 04:02:10,729
+Everything changes. Why don't you grab it? We're running out of time. Let's go.
+
+1160
+04:02:15,110 --> 04:02:24,889
+These kids look dope. Thank you. All right, I need this electric fence somewhere over here.
+
+1161
+04:02:27,209 --> 04:02:44,309
+I know it. I remember it. Did he die? Where's the electric fence? The fuck is dying over here?
+
+1162
+04:02:44,870 --> 04:03:02,409
+Something's blinking. Beetle. That's the beetle that we tried to find last time. Get him. Break
+
+1163
+04:03:02,409 --> 04:03:10,809
+his shell. He's dropping coins and shit. Keep going. More, more, more, more, more, more, more.
+
+1164
+04:03:21,159 --> 04:03:32,940
+I can give them a free one, right? I guess so. Can I just do it? Oh, nice. Behind you.
+
+1165
+04:03:39,260 --> 04:03:44,940
+There's a piece of treasure. The white can dig, can't they? Is there a way I can make them dig?
+
+1166
+04:03:45,500 --> 04:04:16,100
+Where is this? It's up there. Yes. Dig it out. What is it? Let them dig. Oh, it's like a coconut.
+
+1167
+04:04:16,100 --> 04:04:36,729
+What is that? Oh, it's, I don't know, like a seed or something. He might as well take his dead body.
+
+1168
+04:04:48,299 --> 04:05:01,829
+It's like a plant. Children bulb. This is very sad. These guys are so cute, though. They really are.
+
+1169
+04:05:01,829 --> 04:05:18,409
+They're the cutest. Everybody move. I want yellow to take that. Why are you bringing it?
+
+1170
+04:05:19,209 --> 04:05:40,629
+Why is it red now? What are you people doing? Bring it to yellow. I feel like I'm running out
+
+1171
+04:05:40,629 --> 04:05:51,350
+of space. Do I have enough space for all these people? You don't want that. I already have a lot
+
+1172
+04:05:51,350 --> 04:05:55,190
+of red. All right. That's what I'm, I remember that. That's why I came here. And I also want to do
+
+1173
+04:05:55,190 --> 04:06:17,399
+electricity. Where is that? Oh, plant life. One of these things. This way. Where's that electric
+
+1174
+04:06:17,399 --> 04:06:30,729
+fence up here? Why is he still playing this? Um, correct me if I'm wrong here, but you don't
+
+1175
+04:06:30,729 --> 04:06:37,799
+really just like play Pikmin for 15 minutes. It's not like, oh, I'm going to play this for like 20
+
+1176
+04:06:37,799 --> 04:06:56,059
+minutes. What's wrong with this? There we go. Okay. I do want some of these. Not ready yet?
+
+1177
+04:06:56,059 --> 04:07:21,420
+Oh, fine. Treasure somewhere. The buried treasure. I don't care about that right now. Kill it. Kill
+
+1178
+04:07:21,420 --> 04:07:31,209
+it. Kill it. Kill it. Kill it. Kill it. Kill it. Kill it. Good job. I want yellow to take that.
+
+1179
+04:07:38,180 --> 04:07:47,940
+No, no, no. Yellow, yellow, yellow, yellow, yellow. I want yellow. I feel like the
+
+1180
+04:07:47,940 --> 04:07:58,899
+level's not big enough. All right. Take it. We have to keep harvesting people. Leave them alone.
+
+1181
+04:08:04,120 --> 04:08:22,469
+All right. Electricity was, oh, gas. Nice. All right. I can get this done. I need the white.
+
+1182
+04:08:27,430 --> 04:08:35,979
+You know what to do. Get over there. Okay. They're going to be working on that.
+
+1183
+04:08:37,110 --> 04:08:40,389
+Now let's take this guy back. It's going to be red. That's fine.
+
+1184
+04:08:45,510 --> 04:08:49,940
+What does that lead to? Another elevator. Great. Spray, spray, spray them, spray them, spray,
+
+1185
+04:08:49,940 --> 04:09:02,860
+spray, spray. Can I spray them, spray them, then throw them back? Here we go. Go for it.
+
+1186
+04:09:03,420 --> 04:09:16,340
+All right. Now what? Wait till that's done and then...
+
+1187
+04:09:17,219 --> 04:09:35,610
+Fuckin' arm. Where's this treasure? It's up there, right? How do we get up there though?
+
+1188
+04:09:36,649 --> 04:09:45,940
+Oh, okay. This way. End of the stream. No, not yet. You know what? Hey.
+
+1189
+04:09:47,139 --> 04:09:50,420
+Louis, go get those guys. There's like 10 electricity dudes over here.
+
+1190
+04:09:51,059 --> 04:10:15,239
+You guys said yellow can jump higher, right? Excuse me. Yellow can be thrown higher. Okay.
+
+1191
+04:10:15,239 --> 04:10:25,620
+Let's see if I can get it. This is going to kill me, isn't it? Are they going to get it?
+
+1192
+04:10:25,620 --> 04:10:32,329
+Where are they going to bring it? Oh, shit. They can just fall down. Nice. All right. What is that?
+
+1193
+04:10:32,329 --> 04:10:57,379
+Chapstick? Oh, hell yeah. That I... Who hasn't drank out of this? A lot of the yellows. Okay, good.
+
+1194
+04:11:01,860 --> 04:11:18,469
+That wall almost down. That's a glip one. Chapstick. Healing cask. I'm going to keep
+
+1195
+04:11:18,469 --> 04:11:21,110
+these guys back here because I'm afraid to go over there because it's almost time to leave.
+
+1196
+04:11:22,149 --> 04:11:36,629
+They almost got it. Electric fence is up here. I'm coming back here next level. You got it. Yes.
+
+1197
+04:11:38,389 --> 04:11:54,819
+We're good? All right. Now. Fucking elevator. The things I hate the most.
+
+1198
+04:11:56,180 --> 04:12:21,799
+I didn't mean to do that. The fucking Wiimote. I swear to God.
+
+1199
+04:12:21,799 --> 04:12:36,299
+I didn't want to do that. I started to get really, really heated in my brain.
+
+1200
+04:12:45,959 --> 04:12:50,600
+No. Oh, my God. This Wiimote. I'm going to fucking swallow it whole. I swear to God.
+
+1201
+04:12:51,319 --> 04:13:21,819
+Come on, bring it. Get it down here. Let's go. Yes. Get some more of these berries. I demand it.
+
+1202
+04:13:28,280 --> 04:13:41,530
+Imagine losing to a fucking scale. Stop. This game used to make me bite my Wiimote. Okay. I doubt it.
+
+1203
+04:13:45,370 --> 04:14:00,700
+All right. Come back. Come back. Come back. Okay. We got to go. There's other ones here. Where are
+
+1204
+04:14:00,700 --> 04:14:17,420
+they? I'm not missing anybody, right? That's the ship. Where's Louis? White Flower Garden?
+
+1205
+04:14:17,979 --> 04:14:26,809
+Wait. What the hell is that? I think I'm good. There are 32 that are free. Where are they?
+
+1206
+04:14:27,930 --> 04:14:40,680
+That's it, right? Five that are free. Where are they? I think it's the blue ones. We're good.
+
+1207
+04:14:41,239 --> 04:14:57,930
+Yeah, we're good. We're good. All right. I want to come back here and I want to go back
+
+1208
+04:14:57,930 --> 04:15:02,600
+up to the top there. Actually, maybe I can't. I think I did everything I can do here for now.
+
+1209
+04:15:03,159 --> 04:15:22,139
+I could go in there, but hmm. Oh, there's an electric fence up there. That's right.
+
+1210
+04:15:22,139 --> 04:15:32,360
+I'll go back. I like this game. It's fun. This game is really cool. We'll probably play this again.
+
+1211
+04:15:32,920 --> 04:15:59,639
+We'll probably do this again on Sunday. I'm not in the stream. Super Bowl Sunday. I don't care who's
+
+1212
+04:15:59,639 --> 04:16:05,780
+in the Super Bowl anymore. Tom Brady's not in Patriot anymore. You have to say that. You have
+
+1213
+04:16:05,780 --> 04:16:13,340
+to say that. You have to say Super Bowl. Whatever. I don't even fucking care. I'm playing Pigment on
+
+1214
+04:16:13,340 --> 04:16:23,829
+Sunday. Hi, Papa. Mama heard you got a promotion, so she's very happy. You have lots of people under
+
+1215
+04:16:23,829 --> 04:16:36,889
+you now, right? So does this mean you're a super captain? It's 1130 at night. Son, you're calling
+
+1216
+04:16:36,889 --> 04:16:56,229
+me. Why are you not in bed? You're supposed to be in bed at 1030. It's a different planet.
+
+1217
+04:16:57,190 --> 04:17:08,340
+I'm angry because it's local time here. All right. We're getting a lot of yellows because
+
+1218
+04:17:08,340 --> 04:17:16,950
+an electric fence that I want to get to. I got 55 yellows. Holy shit. Let's do 30 yellow.
+
+1219
+04:17:16,950 --> 04:17:32,680
+30 yellow and a bunch of purple. And then I think, should I even bring any? I'll bring like two.
+
+1220
+04:17:33,399 --> 04:17:52,899
+We'll bring four and then the rest spread. It's 95. Cool. All right. Let's go to the electric fence,
+
+1221
+04:17:59,899 --> 04:18:09,500
+which was up this way. Do you know that Joel thought you were a Christian streamer that
+
+1222
+04:18:09,500 --> 04:18:20,950
+didn't swear before he started talking to me? Well, you guys did that. What's your doing?
+
+1223
+04:18:20,950 --> 04:18:37,030
+That's not my doing. Where's that electric fence? Right there. Okay. Oh, a stupid elevator.
+
+1224
+04:18:51,260 --> 04:19:38,170
+You get on there. Where did you go? Oh, oh, they all fell off. Joker laugh. Whatever.
+
+1225
+04:19:44,329 --> 04:19:48,250
+They should profile you in the newspaper. Why? So like fucking 15 people can read it.
+
+1226
+04:19:48,889 --> 04:20:06,200
+It was like kind of rude. All right. We're going to go up here. Only bring yellow up here.
+
+1227
+04:20:12,090 --> 04:20:16,889
+That was extremely rude. You millionaire. No, that's not what I was talking about. I'm talking about
+
+1228
+04:20:16,889 --> 04:20:25,690
+that. Like who? Okay. Let's go ahead and go over this because a lot of you. When was the last time
+
+1229
+04:20:25,690 --> 04:20:32,729
+anybody in this chat read a newspaper? Say one. One in the chat. I'm serious. When was the last
+
+1230
+04:20:32,729 --> 04:20:44,379
+time any of you read a newspaper? You're, you're a liar. And no, no, no, no. I'm not talking about
+
+1231
+04:20:44,379 --> 04:20:49,739
+like an online publication of a newspaper. I'm talking about a newspaper that you hold and fold
+
+1232
+04:20:49,739 --> 04:21:09,030
+in your hand. All right. Wait, should I fart on them? All right. Get in there. Let's go take that
+
+1233
+04:21:09,030 --> 04:21:20,940
+down. It's free. So I read it. I literally get my New York times delivered. I don't think you do.
+
+1234
+04:21:21,500 --> 04:21:41,159
+I'm missing a couple of guys up here. Come on. You can do it. There's a lot of you guys down here.
+
+1235
+04:21:41,159 --> 04:22:01,500
+Come on. Let's go. I can't tell you the last time I read a newspaper. Reddit.com is most of the
+
+1236
+04:22:01,500 --> 04:22:22,139
+millennial generation's newspaper. Am I a boomer? I'm, I'm not a boomer. I'm a millennial. Just like
+
+1237
+04:22:22,139 --> 04:22:32,020
+you. We're the same. Okay, cool. So now there's another place to go. Should I go down here? Let's
+
+1238
+04:22:32,020 --> 04:22:45,979
+see. Uh, where's, hold on. You guys stay there. NX? No, I'm, I'm a millennial. I'm a millennial.
+
+1239
+04:22:47,110 --> 04:23:23,350
+Yes, I am. And they all even fit up here. Not really. Rod German, you're five years younger than
+
+1240
+04:23:23,350 --> 04:24:02,739
+my mom, mate. You're not like me. How old are you? 39, 39, 40. I, yeah, I am kind of old, aren't I?
+
+1241
+04:24:02,739 --> 04:24:16,940
+I wasn't even reading any of that. What did it say? That guy could be like 21. Oh shit. Oh my God.
+
+1242
+04:24:16,940 --> 04:24:47,670
+I'm too old. I'm way too old. I'm a dinosaur now. But I don't need a blue Pikmin in here.
+
+1243
+04:24:47,670 --> 04:25:00,139
+Ooh, what's this? Wait, is this a red flower? I don't think I want to turn anybody red. Is this
+
+1244
+04:25:00,139 --> 04:25:29,819
+orange or red? I don't think I want red. That guy looks scary. Hey guys, we're the big guys.
+
+1245
+04:25:30,620 --> 04:25:46,170
+Oh shit, he killed a few people. Okay. Easy. Easy. Oh shit, there's a lot of those guys.
+
+1246
+04:25:46,889 --> 04:26:21,139
+I want, I want purple first. Easy. Help me. Relax. Ooh, what'd he drop? What is that? It's a jewel.
+
+1247
+04:26:21,780 --> 04:26:43,719
+There's such an overreaction to that. Oh, there's a guy on me. Okay. 150, that's a lot.
+
+1248
+04:26:43,719 --> 04:27:08,459
+We're still clover. I am going to turn some reds into lights here. It's okay to react to things.
+
+1249
+04:27:08,459 --> 04:27:25,930
+Yeah, I know. I'm just kidding around. All right, let's keep going. 91, that's it. All right, what
+
+1250
+04:27:25,930 --> 04:27:49,450
+else? What is it? I don't know if I should turn. No, he's reacting. Someone stop him. Remember,
+
+1251
+04:27:49,450 --> 04:27:55,620
+why is your chat the weird table in lunch class? Did you just hear me do the doy doy doy to
+
+1252
+04:27:55,620 --> 04:28:06,950
+Megalovania? This is, uh, it's kind of, I think it's been like this for a little while.
+
+1253
+04:28:13,159 --> 04:28:20,040
+Yeah, that was lunch class. I love that. I'm going to, I'm going to talk. I'm going to say
+
+1254
+04:28:20,040 --> 04:28:36,229
+it like that from now on. Lunch class. I love that. Does this guy fire? Get him. Don't put
+
+1255
+04:28:36,229 --> 04:28:53,670
+his head. They're immune to fire. What do you think you're doing? God, I'm sorry. I'm having
+
+1256
+04:28:53,670 --> 04:29:02,540
+like too much fun just being like a fucking weirdo. I'm sorry guys. Uh, let's take these guys. Diamond.
+
+1257
+04:29:23,530 --> 04:29:31,049
+All right, when do you pick it up? Uh, now I want, uh, I want you guys to go get that diamond.
+
+1258
+04:29:32,010 --> 04:29:51,500
+Pack it up. Oh, wait a minute. Now that's a really bad idea. I have to do that with red. I did not
+
+1259
+04:29:51,500 --> 04:30:26,250
+even notice the geysers. Jewel. Ah, thank you. I'll get stuck. That was a good clean run. Nobody
+
+1260
+04:30:26,250 --> 04:30:31,780
+died. What are you going to have for lunch? Um, that's a good question. What do you feel like?
+
+1261
+04:30:37,129 --> 04:30:42,579
+What do I feel like? That's another good question. What do you wish I get? Oh, by the way, I want to
+
+1262
+04:30:42,579 --> 04:30:48,579
+give you guys a quick little update on something. So I mentioned something called the archaeology
+
+1263
+04:30:48,579 --> 04:30:59,559
+stream. Uh, trying to get a solid date on it. We're very close to giving a true solid date on
+
+1264
+04:30:59,559 --> 04:31:08,139
+the archaeology stream and it will be as long as we get a confirmation on it. If it's confirmed,
+
+1265
+04:31:08,700 --> 04:31:17,270
+it will be within the next 30 days. We've been working on it for a little while. I'll give you
+
+1266
+04:31:17,270 --> 04:31:28,840
+get just a quick, a quick little, uh, what it is. Well, an archaeology stream. I'm going to be
+
+1267
+04:31:28,840 --> 04:31:51,430
+opening up a bunch of geodes on stream among other things, among other things, but we're going to be
+
+1268
+04:31:51,430 --> 04:32:00,469
+opening up geodes from small to big to medium. Oh, no, no, no, no. Don't kill everybody. Please.
+
+1269
+04:32:01,270 --> 04:32:22,059
+That was terrifying. I thought he killed like a hundred people. There's going to be a lot of
+
+1270
+04:32:22,059 --> 04:32:43,340
+weird shit on that stream. Should be fun though. More white flour. Hold on. Oh, this is kind of a
+
+1271
+04:32:43,340 --> 04:32:59,639
+battle. Fight. Everybody fight. Watch out. Everyone move out of the way. Don't let him do it.
+
+1272
+04:33:00,280 --> 04:33:26,150
+Bring him down. Good. So we'll pick these up. Nobody died. There is a treasure somewhere.
+
+1273
+04:33:29,299 --> 04:33:52,340
+Done. Let's turn a few, a few more reds into yellows. Oh God. All right. I want red. Get in line
+
+1274
+04:33:52,340 --> 04:34:14,860
+behind red, please. Come up. All right. I don't want to do it that way. I think there's a lot
+
+1275
+04:34:14,860 --> 04:34:29,689
+more fire here, so I got to be careful. Louis, don't get stuck behind the plant. Really? That it?
+
+1276
+04:34:31,130 --> 04:34:49,720
+Okay. Follow me. Follow your nose. Follow. Hold on. My Captain Crunch cereal. I'm working on a Captain
+
+1277
+04:34:49,720 --> 04:34:54,790
+Crunch. Let me know how you think. My Captain Crunch cereal and crunch berries are full of flavor.
+
+1278
+04:34:55,590 --> 04:35:24,169
+That's pretty good, right? Somebody just wrote it all caps. Drunk. I guess
+
+1279
+04:35:24,889 --> 04:35:29,450
+that is something that somebody that was drunk would just do. That is something a drunk person
+
+1280
+04:35:29,450 --> 04:35:34,409
+would just do. Hey man, we're going to make Captain Crunch. What do you think? My Captain Crunch cereal.
+
+1281
+04:35:35,290 --> 04:35:44,020
+Just shit faced on the couch. Just eyes closed. Eyes closed on the couch.
+
+1282
+04:35:45,419 --> 04:35:50,380
+Leaning back, lying back. There's a movie on TV, by the way. We're all watching a movie.
+
+1283
+04:35:51,540 --> 04:35:57,779
+Eyes closed on the couch just randomly. My Captain Crunch cereal is the most delicious crunch berries.
+
+1284
+04:35:58,340 --> 04:36:07,750
+It's like fucking Jesus, man. Like stop. It's just trashed. Where is this treasure?
+
+1285
+04:36:08,470 --> 04:36:47,509
+I'm losing my mind. Where is this treasure? Hey, hey, hey, hey. Pick it up. Trashed.
+
+1286
+04:36:47,669 --> 04:37:33,639
+Oh, it's a seashell. Oh, sorry. Anautilus. 40 bucks. That's it. Okay. Let's go. I feel like
+
+1287
+04:37:33,639 --> 04:37:42,900
+I'm going to get my ass kicked. I'm afraid of this. Remember, do you like us? I feel like you hate us.
+
+1288
+04:37:42,900 --> 04:38:00,939
+Why would I hate you guys? Purple. Nice. Electricity. Oh, all right. All right. Let's do this right.
+
+1289
+04:38:01,900 --> 04:38:13,500
+First of all, what do we have for a team here? Let me see. Line up. Yeah, we're getting rid of
+
+1290
+04:38:14,459 --> 04:38:35,700
+more reds. I have so many. You hate us because we bully people when we raid. Hey, you guys,
+
+1291
+04:38:35,700 --> 04:38:53,770
+people are trying to stream. You can't just bully people that we raid. I know you like to have fun,
+
+1292
+04:38:55,900 --> 04:39:00,569
+but if somebody's streaming and they don't want to sing a raid song, they don't have to sing a
+
+1293
+04:39:00,569 --> 04:39:11,000
+raid song. Do you really want us to be like a lunch table where only five of us can sit at this
+
+1294
+04:39:11,000 --> 04:39:34,459
+lunch table? Ooh, nice. Yes, that's what we want. I almost get shocked. Okay, that's good.
+
+1295
+04:39:35,099 --> 04:39:41,849
+What is more? Electricity. Ooh, more purple. Electric bugs. All right, well, let's go.
+
+1296
+04:39:47,450 --> 04:39:52,090
+Hold them back. Hold them back. You just killed. Oh, you fucking asshole. Okay, hold on. Pull them
+
+1297
+04:39:52,090 --> 04:40:20,220
+back. We're going to bait the big guy over here. Shit. Holy shit, I'm fine. Kill it quick. Kill it.
+
+1298
+04:40:20,220 --> 04:40:35,639
+Kill it. Back up, back up, back up, back up, back up. Okay, separate that again. That could have been
+
+1299
+04:40:35,639 --> 04:40:53,369
+much worse. That could have been a lot worse. Bring him back. I want to turn the camera. Okay,
+
+1300
+04:40:53,369 --> 04:41:17,369
+there we go. I think he shit himself. I may have. What happened? Oh, am I religious at all? Not
+
+1301
+04:41:17,369 --> 04:41:37,669
+really. All right, let's get the... Hold on, not yet. Any more big guys? Everybody come back.
+
+1302
+04:41:38,150 --> 04:41:49,369
+Now, hey, I'll tell you, I'm not religious. I'm not religious at all. But, I mean, I don't know.
+
+1303
+04:41:49,369 --> 04:41:54,090
+It could be. Aliens could have made us. They could be a god. I don't know. I have no idea.
+
+1304
+04:41:54,889 --> 04:42:37,400
+I really have no idea. I couldn't tell you either way. Agnostic Andy. I don't know. I couldn't tell
+
+1305
+04:42:37,400 --> 04:42:45,740
+you one way or another if like dinosaur poop turned into us. If aliens decided to come by one
+
+1306
+04:42:45,740 --> 04:42:52,310
+day and drop off like a specimen into the water and just run like it was a fucking prank. I don't
+
+1307
+04:42:52,310 --> 04:43:08,310
+know. Or if like God created... Watch out, watch out, watch out. No, don't line up that close
+
+1308
+04:43:08,310 --> 04:43:22,810
+together. That would be a pretty good prank. You know what I mean though? I don't know. We could
+
+1309
+04:43:22,810 --> 04:43:55,270
+be an experiment. What's going on in here? Something in there. All right, drag him out.
+
+1310
+04:43:55,830 --> 04:44:16,900
+Get out. Get out here. Get out of your hole. He doesn't want to come out. It's too bad
+
+1311
+04:44:16,900 --> 04:44:39,240
+because I think there's probably something in here. Golden fucking bug! Whoa. What is that?
+
+1312
+04:44:39,240 --> 04:44:44,520
+I just got a golden bug. That's like a... Holy shit. Okay, cool. What does that get me? Does it
+
+1313
+04:44:44,520 --> 04:45:06,380
+get me anything? I got a gold bug. That's it for a golden bug? I don't think that's enough.
+
+1314
+04:45:06,380 --> 04:45:14,549
+I think that's more. I need more. I want to kill this guy. But, you know, can I flip him over with
+
+1315
+04:45:14,549 --> 04:45:26,439
+a big dude? All right, everyone get him now. Don't let him get up. Overwhelm him. All right,
+
+1316
+04:45:26,439 --> 04:45:41,430
+now bring him back. I got all the treasures. Cool. Nice. Did you not get it? Come on. You
+
+1317
+04:45:41,430 --> 04:46:03,900
+cannot pick that up. Come on, boy. Of course, you can. Who hasn't eaten? A lot of the purple's
+
+1318
+04:46:03,900 --> 04:46:13,610
+haven't. Ooh, nice, nice, nice, nice. Okay, cool, cool, cool. Now what? Do I have everybody?
+
+1319
+04:46:14,650 --> 04:46:20,709
+I think I do. Yeah, let's keep going. I got all the treasures.
+
+1320
+04:46:20,709 --> 04:46:46,389
+All back's kingdom. Is this a boss? I'm going to get another boss. I don't know.
+
+1321
+04:46:46,389 --> 04:47:05,610
+It's still not the bottom. Shit. Okay, hold on. Why not? I'm really getting the hang of this. I'm
+
+1322
+04:47:05,610 --> 04:47:21,900
+starting to understand this a lot. Devon chat. Real Devon. Why is everybody saying that? Seven
+
+1323
+04:47:21,900 --> 04:47:38,970
+gold? That's not that much. Because they're here. I'm just hitting the head. Who hasn't eaten?
+
+1324
+04:47:39,689 --> 04:48:04,180
+Pine cone. I think everybody has eaten. Look at that. We got full bellies all around. 50 cents
+
+1325
+04:48:04,180 --> 04:48:11,849
+or coins. Those look like Mario coins. That's not it. There's another one in here somewhere.
+
+1326
+04:48:11,849 --> 04:48:17,580
+Oh no, that's it. All right. This was kind of a small area. This is randomly generated. This
+
+1327
+04:48:17,580 --> 04:48:53,459
+seems tiny. Level five? That's a bomb. Okay, this is bombs. Level six. Hello, Mr. Otto. What's the
+
+1328
+04:48:53,459 --> 04:49:10,819
+matter? Are you hungry? Me too. We're still not at the end. All right, this looks dangerous. I'm
+
+1329
+04:49:10,819 --> 04:49:28,779
+going to go this way. More red. All right, same deal. Okay, good. Pick up that medallion. Holy shit.
+
+1330
+04:49:28,779 --> 04:49:39,220
+All right, cool. Oh, no, no, no, no, no, no, no. Call back, back, back, back, back, back, back,
+
+1331
+04:49:39,220 --> 04:49:56,439
+everybody back, everybody back. That was my mistake. I fucked it up. I thought I could throw it over
+
+1332
+04:49:56,439 --> 04:50:13,450
+the guy's body. Mr. Noodle? Mr. Noodle? Mr. Noodle? Mr. Noodle? I am a fucking bird. I really am.
+
+1333
+04:50:14,090 --> 04:50:19,479
+Entry. This creature showed symptoms of poisoning after consuming the white pikmin.
+
+1334
+04:50:20,040 --> 04:50:32,259
+Perhaps white pikmin excreted poisonous substance when chewed. How fascinating. Lost a couple people
+
+1335
+04:50:32,259 --> 04:50:47,259
+though. All right, whatever. What else is in here? Fire stuff. Let's put you guys up. Turn off all
+
+1336
+04:50:47,259 --> 04:51:13,380
+these geysers. Get it. Tell it. These things even fight back. I feel like they don't. Oh, fuck. Pull
+
+1337
+04:51:13,380 --> 04:51:18,500
+back, back, back, back, back, back, back. There's a bomb in there. Pull back, pull back. I think I'm
+
+1338
+04:51:18,500 --> 04:51:34,709
+good. All right. Let's just clean this up. Pick all this stuff up. Any of my other buddies? Where's
+
+1339
+04:51:34,709 --> 04:51:46,310
+Louis? Oh. Look at all that nectar. It's too bad I don't even need to use it. Everybody's already
+
+1340
+04:51:46,310 --> 04:52:21,639
+pretty much maxed out. I'll take the money though. Oh, hold on. 81. All right. Again, bring the fire
+
+1341
+04:52:21,639 --> 04:52:42,970
+over. Can't kill it. None of them landed on his head. That's kind of weird. BF bugler is in check.
+
+1342
+04:52:46,700 --> 04:52:56,950
+Oh, I can't believe it. Oh, more purple. Purple.
+
+1343
+04:53:11,689 --> 04:53:23,540
+No fucking way. No way he's in check. There's a buried treasure somewhere. I don't know where.
+
+1344
+04:53:24,180 --> 04:53:33,060
+Maybe we can recover all the energy in the radar room. When we find that beta,
+
+1345
+04:53:33,060 --> 04:54:07,750
+we'll find Dr. Bob. Sorry. I'm so fucking high. Are these guys fire? Me too. I'm not, actually.
+
+1346
+04:54:10,279 --> 04:54:20,009
+Okay. There is a treasure in here. Oh, no. How am I ever going to get that?
+
+1347
+04:54:20,889 --> 04:54:42,819
+That's the blunt. I don't smoke marijuana. I mean, I do, but not that, not really that often.
+
+1348
+04:54:44,040 --> 04:55:03,860
+Once in a blue moon. Let's get that skull. 81. Let's go. Once an hour.
+
+1349
+04:55:12,439 --> 04:55:15,060
+Is that a bomb? Run, please.
+
+1350
+04:55:18,580 --> 04:55:28,119
+He didn't make it. He didn't make it. He tried. It's okay. Poor purple Pikmin number 25.
+
+1351
+04:55:29,080 --> 04:55:40,790
+So, just to clarify again, it doesn't matter. They just have to be alive down here, right?
+
+1352
+04:55:41,509 --> 04:56:08,340
+I can just go in. Okay, cool. 140. Am I almost halfway through the game? Is 10,000 the debt?
+
+1353
+04:56:09,060 --> 04:56:24,840
+After 10,000, that's not even close. Really? Oh, shit. Okay. Full debt is halfway. Oh, wow.
+
+1354
+04:56:24,840 --> 04:56:37,220
+Okay. Here we go. Final floor. Let's do this carefully. There's definitely a boss down here.
+
+1355
+04:56:38,180 --> 04:56:58,259
+Fire only. Snakes in here and shit. Hold on. Are they fire snakes? Are they fire snakes?
+
+1356
+04:56:58,819 --> 04:57:12,950
+They might be. Those are eyes. Oh, shit. Okay. People are going to die. People are dead. Like,
+
+1357
+04:57:12,950 --> 04:57:30,220
+let's just be honest. What's the strategy here? I want purples on... I want reds and purples
+
+1358
+04:57:32,119 --> 04:57:48,009
+on Olimar. Or no, just purple on one. I want only red on Olimar so I can be...
+
+1359
+04:57:48,009 --> 04:57:57,740
+I can be... Okay, that's what I'm doing. No. What do I want? That's it.
+
+1360
+04:58:02,310 --> 04:58:06,279
+Should I leave the other ones here? Maybe it's not even worth bringing them.
+
+1361
+04:58:07,720 --> 04:58:18,779
+Because aren't they just going to die? If it's a fire boss, then I feel like they're just going to
+
+1362
+04:58:18,860 --> 04:58:30,380
+die. Let's try it. Let's see what happens. Okay. I don't know what he's... I don't know.
+
+1363
+04:58:31,180 --> 04:58:38,540
+Run, run, run, run. Just run. See what he does. What does he do? Is he like a charge move or
+
+1364
+04:58:38,540 --> 04:58:51,369
+something? Probably charges. He's kind of cute. He's kind of cute. And this music is so cute too.
+
+1365
+04:58:52,919 --> 04:59:02,950
+I haven't seen anything. He doesn't charge. Oh, my God. Oh, my God. Don't scoop up enough like
+
+1366
+04:59:02,950 --> 04:59:10,020
+a whale with a school of fish. Okay, good. He has a big tongue. Where can we go? Oh, my God.
+
+1367
+04:59:10,020 --> 04:59:24,409
+Don't stand still. Don't throw it in his mouth. Everyone back up. Everybody back...
+
+1368
+04:59:35,659 --> 05:00:15,110
+Oh, Megazord. It's fascinating. I still have... Oh, he killed so many. So many purples again. My
+
+1369
+05:00:15,110 --> 05:00:31,779
+purple friends. I'll replace him. It's all right. And there's a gate here. This is just a regular
+
+1370
+05:00:31,779 --> 05:00:47,590
+gate. There's more. I'm surprised there's more. Well, start working on that. It's a Megazord worth.
+
+1371
+05:00:48,229 --> 05:00:59,299
+That's it. I'm a boss. Material has perplexing properties. I will try fusing with a spare
+
+1372
+05:00:59,299 --> 05:01:09,290
+space suit. Health increase. I let us mention the Scorch Guard. Thanks to the heat-resistant
+
+1373
+05:01:09,290 --> 05:01:29,209
+alloy, this suit is now impervious to fire. That's cool. The rest of you, get over there.
+
+1374
+05:01:41,860 --> 05:01:49,479
+Got it. What's the point of the second part here? There's another treasure here, but where is it?
+
+1375
+05:01:50,119 --> 05:02:04,729
+Let me see. I have to take fire, guys, with me. Wait, can I even do that?
+
+1376
+05:02:16,069 --> 05:03:10,840
+I fell. Shit, I can't get that. Yeah, I can. Follow me. Thank you. You know what to do. Take
+
+1377
+05:03:10,840 --> 05:03:37,270
+that out. Hey, now can I? Now go get it. Come on, two more through. Get up there. Get up there,
+
+1378
+05:03:37,270 --> 05:04:16,439
+guys. Really? Get it. Oh, all right. I'm immune to fire. Bring this shit. Don't go that way. Go
+
+1379
+05:04:16,439 --> 05:04:33,400
+this way. Thank you. Aha. I did it. Next time I play this, I'm definitely turning off the sound
+
+1380
+05:04:33,400 --> 05:04:54,900
+thing. If they went into the water, that would have been very bad. What's this one worth? It's
+
+1381
+05:04:54,900 --> 05:05:00,810
+cute. Well, my compressor is making it so you don't hear it all the time, but make no mistake.
+
+1382
+05:05:05,159 --> 05:05:20,740
+It's just doing this forever. 250. Holy shit. Nice. Turn it off in five seconds. Press the home
+
+1383
+05:05:20,740 --> 05:05:26,700
+button. Yeah, but I think I'm going to start with that because then people will know that it's
+
+1384
+05:05:26,700 --> 05:05:31,400
+turned off, and people will be very upset if I turn it off now, won't they? They'll be like,
+
+1385
+05:05:31,400 --> 05:05:34,680
+I wanted that. Why'd you get rid of that? If I start with that on Sunday, I'll just be like,
+
+1386
+05:05:34,680 --> 05:05:54,310
+hey, it's off. People will be like, oh, it's off. I know. I'm just kidding around. That's a lot of
+
+1387
+05:05:54,310 --> 05:06:12,200
+money today. 1350. Cave complete. I think that's probably a good place to stop, too.
+
+1388
+05:06:18,060 --> 05:06:30,979
+After this day is over, I think this is a good place to stop. 40% of debt recovered. What else
+
+1389
+05:06:30,979 --> 05:06:39,180
+can I do here today before the time runs out? Hmm. I'm not sure there is anything I can do.
+
+1390
+05:06:39,819 --> 05:07:00,779
+Did I get the blues? Wait, let me refill. Give me some more reds. All right. 95 Pikmin. Let's go.
+
+1391
+05:07:01,500 --> 05:07:09,770
+Where's the blues? So if I go through here and around, blue is that way. Okay.
+
+1392
+05:07:22,409 --> 05:07:41,430
+Ooh, there's a yellow thing here, too. Interesting. Okay. All right. Where is it at? Wait.
+
+1393
+05:07:41,430 --> 05:07:50,790
+That's where I need to go. Okay. Here's the plan. I'm going to throw you over here,
+
+1394
+05:07:50,790 --> 05:08:21,659
+and then I'm going to run around the side. Everybody up. That was painful. Wait, why?
+
+1395
+05:08:21,659 --> 05:08:42,069
+I want to bring everybody up here. Look there. A wild blue Pikmin are chasing prey near the
+
+1396
+05:08:42,069 --> 05:08:53,299
+water's edge. You can split up the captains. Oh, yeah. That's right. This is why I heard the
+
+1397
+05:08:53,299 --> 05:08:57,060
+Pikmin 2 is the worst one. It's like the whole splitting the captains thing. I heard that that
+
+1398
+05:08:57,060 --> 05:09:02,740
+was a reason why everyone didn't like this one. There's like 12 on Rotten Tomatoes. I get it now.
+
+1399
+05:09:02,740 --> 05:09:09,209
+I apologize. I was momentarily entranced by them. Now back to work.
+
+1400
+05:09:20,759 --> 05:09:33,049
+Bad angle. Oh, yeah. I know this is universally the most loved one. I know. That's the reason why
+
+1401
+05:09:33,049 --> 05:09:36,650
+I'm playing it right now. I would have started with one if that were not the case, right?
+
+1402
+05:09:46,619 --> 05:09:52,060
+Get away from the fence. What are you doing? Why would you do that? That was not smart.
+
+1403
+05:09:56,200 --> 05:10:15,720
+Where are you going with that? Oh, I guess fine. Go ahead. One's actually better, but don't tell
+
+1404
+05:10:15,720 --> 05:10:24,630
+anyone. I mean, this is really good. This is very fun. I don't know how much more different
+
+1405
+05:10:24,630 --> 05:10:36,099
+the first one is. The time limit was really scary as a kid. It was scary as an adult too.
+
+1406
+05:10:36,819 --> 05:10:57,299
+Come on, you can get it. Come on, break it down. In Pikmin 1, you had 30 in-game days. That's it?
+
+1407
+05:10:57,299 --> 05:11:05,369
+Well, is this day like six? I'm on like day six or seven and I don't even have the blue Pikmin yet.
+
+1408
+05:11:05,930 --> 05:11:23,159
+It's day nine, right? OK. I know it says it in the top right corner, but I am currently looking
+
+1409
+05:11:23,159 --> 05:11:32,040
+over at a chat room. I'm staring at the chat, reading what you guys are saying. Since I brought
+
+1410
+05:11:32,040 --> 05:11:59,290
+that up, I have been looking at the chat box. I don't have four sets of eyes. All right, let's go.
+
+1411
+05:11:59,290 --> 05:12:22,540
+How do I do this? Wait, nobody move. Don't. Please. If I walk in the water, this is going to die.
+
+1412
+05:12:22,540 --> 05:12:28,840
+You shit-eating dumb fuck. Why do I have to be eating shit?
+
+1413
+05:12:30,709 --> 05:12:34,569
+At last you have encountered them. They seem to have gill-like ducks on their cheeks.
+
+1414
+05:12:35,209 --> 05:12:41,540
+They must be blue Pikmin. Like the other types, they look like they want to talk to you.
+
+1415
+05:12:45,139 --> 05:13:07,509
+He looks really fucked up right now. All right, come to me over here. Deliver that. Deliver this.
+
+1416
+05:13:08,150 --> 05:13:20,020
+They're just fighting these tadpoles. Not yet. We're not strong enough yet.
+
+1417
+05:13:22,409 --> 05:13:38,459
+Not yet, I said. Are you eating them out of the ground? Better not be. Kind of hard to see.
+
+1418
+05:13:43,750 --> 05:14:03,849
+Oh, fuck. Hurry up. Come on. Hurry up. Come on. Come on. Come on. Come on. Come on. Come on. Come on.
+
+1419
+05:14:03,849 --> 05:14:07,610
+Get it. Get it. Get it. All five of you. All five of you, pick it up. Get on it.
+
+1420
+05:14:15,880 --> 05:14:21,639
+Gone. Okay, that was really fun. Come on. Excuse me.
+
+1421
+05:14:28,220 --> 05:14:49,860
+We did it. We made the other 100. Where are they? There's 20 somewhere. Where? Oh my god.
+
+1422
+05:14:49,860 --> 05:15:13,099
+There they are, the other ship. No. Weemote, please. Did I get it? I think I got it. I was
+
+1423
+05:15:13,099 --> 05:15:20,419
+trying to get the motion over there all the way to the edge. I skipped it. I didn't even mean to.
+
+1424
+05:15:21,139 --> 05:15:42,840
+They're fine. They're at the base. Okay, cool. Game is stressful. We made a lot of money. We died.
+
+1425
+05:15:42,840 --> 05:15:51,779
+A lot of purples died. Yeah, 34 died today. Three died from like, one from explosion. Oh right,
+
+1426
+05:15:51,779 --> 05:16:05,860
+in the cave. You made it stressful by sitting at the gate all day. It's all good though.
+
+1427
+05:16:06,500 --> 05:16:19,799
+It's all good. Almost 5,000 out of 10,000. Cool. So now that I have water, I can do
+
+1428
+05:16:19,799 --> 05:16:33,349
+most of the shit over here. That'll be for another day. So I am not streaming tomorrow.
+
+1429
+05:16:33,349 --> 05:16:36,229
+I ran into the unfortunate problem of I was supposed to stream yesterday,
+
+1430
+05:16:37,029 --> 05:16:43,369
+but the Twitch server's had problems. So I have something I have to take care of tomorrow. I have
+
+1431
+05:16:43,369 --> 05:16:52,520
+things, I have some errands I have to run, but I'll be live on Sunday. We will continue Pikmin 2.
+
+1432
+05:16:52,520 --> 05:17:02,169
+It's really fun. I like it. It's a really good game. And we will pull the stream back on Sunday
+
+1433
+05:17:02,169 --> 05:17:08,950
+as well. So we're not going to start at 4 30 Pacific on Sunday. We're likely to start somewhere
+
+1434
+05:17:08,950 --> 05:17:23,799
+around, let's see, somewhere around 1 PM Pacific. Pull it back by a few hours or so.
+
+1435
+05:17:24,680 --> 05:17:32,520
+So that's it. I'll see you guys on Sunday. Have a wonderful rest of your day, rest of your night.
+
+1436
+05:17:33,319 --> 05:17:37,849
+Sorry we couldn't stream yesterday, but you know, sometimes shit happens, right?
+
+1437
+05:17:44,630 --> 05:17:49,830
+I like it. I can't promise that I will beat Pikmin 2, because if what you're telling me
+
+1438
+05:17:49,830 --> 05:17:55,619
+is true and the game's like 30 to 40 hours long, we might do it one or two more times and see how
+
+1439
+05:17:55,619 --> 05:18:03,750
+far we get. We'll see. If I still am having fun, I'm still going to play it. He's not going to
+
+1440
+05:18:03,750 --> 05:18:09,900
+beat it. I don't know. We'll see. Any news on Bionicle? No. The only news that I can share
+
+1441
+05:18:09,900 --> 05:18:15,380
+with you is there will be an archaeologist stream in the next 30 days. It's the only news
+
+1442
+05:18:15,380 --> 05:18:28,090
+I have for you right now. Let's do a raid. Let's see who's live right now. Let's go to...
+
+1443
+05:18:35,000 --> 05:18:44,630
+Let's go to Joel. Joel's playing Super Straight Fighter. It's Fightcade Friday. Sounds like fun.
+
+1444
+05:18:44,630 --> 05:19:03,369
+Thanks for all the subs, everybody. This list is extreme every single day that I stream.
+
+1445
+05:19:04,090 --> 05:19:12,729
+This list is... This is a... We essentially have filled an entire guest list of people
+
+1446
+05:19:13,450 --> 05:19:30,580
+at a fucking party. A concert. Thank you, everybody. Go say hello to Joel. This party sucks.
+
+1447
+05:19:42,729 --> 05:19:47,240
+We'll see you soon, though. See you on Sunday, around 1 o'clock Pacific.
+
+1448
+05:19:47,240 --> 05:19:51,900
+Thanks for watching, as always. Have a great night. I'll catch you guys soon.
+
+1449
+05:19:51,900 --> 05:20:09,290
+Thanks for hanging out. Good night and goodbye.
