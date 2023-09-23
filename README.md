@@ -1,7 +1,7 @@
 # Quick start tutorial
 install python3: https://www.python.org/downloads/release/python-3114/. Make sure to add python to path, it saves a lot of typing.
 
-make sure git is installed (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+make sure git is installed (https://git-scm.com/downloads)
 
 open a terminal and run: 
 ```
