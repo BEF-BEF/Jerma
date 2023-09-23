@@ -65,7 +65,7 @@ URL: https://www.youtube.com/watch?v=wODQR5JIElU&t=8344s
 
 Uncommented lines function on my Ubuntu pc but require more complicated installs and have not been fully tested on Windows. I don't have those installs fully documented haha. Here's a start though.
 
-Using Ubuntu or another Linux distro is highly recommended
+Using Ubuntu or another Linux distro is highly recommended. NVIDIA GPU required.
 
 You will need to get a youtube api key and cookies.txt in secrets.
 
@@ -73,13 +73,5 @@ Get a youtube API key: https://developers.google.com/youtube/v3/getting-started
 
 Get cookies.txt: I used cookies.txt extension in firefox
 
-Do more pip installs
-```
-pip3 install --upgrade google-api-python-client
-
-pip3 install yt_dlp
-
-pip3 install faster-whisper
-
-```
+Look at [faster whisper](https://github.com/guillaumekln/faster-whisper)https://github.com/guillaumekln/faster-whisper for installation requirements. It's a bit intensive.
 
