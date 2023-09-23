@@ -7,7 +7,7 @@ import datetime
 from faster_whisper import WhisperModel
 import subprocess
 import logging
-from utils import recursive_clean
+from utils import clean_folder_name
     # Download Audio from URLs: The script utilizes the yt_dlp library to download the best audio version of content from specified URLs. These URLs are read from a file named "remainingURLS5.txt".
 
     # Check Processed URLs: Before downloading or processing a URL, the script checks a CSV file to see if the URL has already been processed. This is to avoid redundant work and save time.
@@ -51,10 +51,13 @@ def is_url_processed(csv_file, url):
 
 def transcribe_audio(file_path, output_dir):
     """Transcribe an audio file using the Faster Whisper model."""
-    model = WhisperModel("medium", device="cuda",device_index=CONFIG["gpu_index"], compute_type="float16", local_files_only=True)
+
+
+    #model = WhisperModel("medium", device="cuda",device_index=CONFIG["gpu_index"], compute_type="float16", local_files_only=True)
+    model = WhisperModel("large-v2", device="cuda",device_index=CONFIG["gpu_index"], compute_type="float16", local_files_only=True)
 
     segments, info = model.transcribe(file_path, beam_size=5, language="en", initial_prompt=CONFIG["initial_prompt"], vad_filter=True, vad_parameters=dict(min_silence_duration_ms=500, speech_pad_ms=200))
-    
+    print("PATH: " + str(os.path.join(output_dir, 'transcription.txt')))
     with open(os.path.join(output_dir, 'transcription.txt'), 'w') as f:
         for segment in segments:
             write_string = f"[{segment.start:.2f}s -> {segment.end:.2f}s] {segment.text}\n"
@@ -107,14 +110,14 @@ def process_urls():
                         list_of_files = glob.glob(CONFIG["audio_folder"]+'/*')
                         latest_file = max(list_of_files, key=os.path.getctime)
 
-                        whisper_output_dir = os.path.join(CONFIG["out_folder"], video_title)
+                        whisper_output_dir = os.path.join(CONFIG["out_folder"], clean_folder_name(video_title))
                         if not os.path.exists(whisper_output_dir):
                             os.makedirs(whisper_output_dir)
                         if CONFIG["testing"]:
                             trimmedFile = os.path.join(CONFIG["audio_folder"], f"trimmed_{video_title}.m4a")
                             trim_audio(latest_file, trimmedFile)
                             latest_file=trimmedFile
-                        whisper_output_dir = recursive_clean(whisper_output_dir)
+
                         # Start timing for Whisper transcription
                         whisper_start_time = datetime.datetime.now()
                         # Use the Faster Whisper model

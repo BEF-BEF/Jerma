@@ -1,8 +1,8 @@
 from cleanYoutubeCode import load_secret_from_file, write_videos_to_csv, build
 from utils import compare_directories_to_csv, generate_missing_urls_file
-from cleanFasterWhisper import check_and_create_directories, initialize_csv # , process_urls
+from cleanFasterWhisper import check_and_create_directories, initialize_csv , process_urls
 from cleanIndex import index_content, search_indexed
-from utils import fix_stacked_directories
+from utils import fix_stacked_directories, clean_csvs
 from generateSubtitles import convert_transcriptions_to_srt
 from stupidGithubTooManyDirectories import combine_directories, split_directories
 
@@ -11,14 +11,16 @@ def main():
 
     # Advanced: download new videos for transcription
     # Load the YouTube API key from a file. You'll need this and cookies.txt in a directory called secrets
-    # API_KEY = load_secret_from_file("secrets/api_key.txt")
-    # youtube = build('youtube', 'v3', developerKey=API_KEY)
+    API_KEY = load_secret_from_file("secrets/api_key.txt")
+    youtube = build('youtube', 'v3', developerKey=API_KEY)
+    # Write all info of all videos uploaded by JermaStreamArchive to a CSV file. Uses JermaStreamArchive's Channel ID
+    write_videos_to_csv(youtube, "UC2oWuUSd3t3t5O3Vxp4lgAA", "urlsAndDetails.csv")
+
 
     combine_directories()
     combine_directories("subtitleDirectories","subtitleDirectories")
-    # Write all info of all videos uploaded by JermaStreamArchive to a CSV file. Uses JermaStreamArchive's Channel ID
-    # write_videos_to_csv(youtube, "UCK3kaNXbB57CLcyhtccV_yw", "urlsAndDetails.csv")
 
+    clean_csvs()
     # Compare directories to CSV and identify discrepancies
     compare_directories_to_csv()
 
@@ -28,14 +30,12 @@ def main():
     initialize_csv()
 
     # Advanced: Transcribe missing videos
-    # process_urls()
+    process_urls()
 
-    # Convert transcriptions.txt to srt for youtube subtitles. Only needs to be ran if there are new videos transcribed
-    # convert_transcriptions_to_srt()
+    # Converts new transcriptions.txt to srt for youtube subtitles
+    convert_transcriptions_to_srt()
 
 
-    # # bandaid for when I transcribe video names that contain a /. fixes the multiple directories that creates
-    # fix_stacked_directories()  - currently broken because github forces directories to have <= 1000 subdirectories
     # Index content for fast searching. It'll take a while the first time you run it then it's fast.
     
     

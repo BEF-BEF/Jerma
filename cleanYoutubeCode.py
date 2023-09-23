@@ -2,7 +2,7 @@ import csv
 import re
 import os
 from googleapiclient.discovery import build
-from utils import recursive_clean
+from utils import clean_folder_name
 def load_secret_from_file(filename):
     with open(filename, "r") as file:
         return file.read().strip()
@@ -63,8 +63,8 @@ def video_exists_in_csv(video_id, output_filename):
     return False
 
 def write_videos_to_csv(youtube, channel_id, output_filename):
+    print("Writing videos to csv")
     videos = get_channel_videos(youtube, channel_id)
-    
     # Check if the file exists, if not create and write headers
     if not os.path.exists(output_filename):
         with open(output_filename, "w", newline="") as f:
@@ -81,8 +81,8 @@ def write_videos_to_csv(youtube, channel_id, output_filename):
                 
                 if "41_aOAviUY8" not in video_id:
                     title, duration, upload_date = get_video_details(youtube, video_id)
-                    title = recursive_clean(title)
-
+                    title = clean_folder_name(title)
+                    print(" Title Found on youtube: " + str(title))
                     writer.writerow([title, video_url, upload_date, duration, video_id])
                     print("wrote: " + title + " to csv")
 

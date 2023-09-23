@@ -1,5 +1,7 @@
 import os
 
+from utils import sanitize_subtitle_directories
+
 def transcript_to_srt(transcript_text):
     entries = transcript_text.split('\n')
     srt_format = []
@@ -40,14 +42,21 @@ def convert_transcriptions_to_srt():
     if not os.path.exists(dest_base_path):
         os.makedirs(dest_base_path)
 
-    for dir_name in os.listdir(base_path):
+    # Get a list of all directories under outDirectories and subtitleDirectories
+    out_dirs = {dir_name for dir_name in os.listdir(base_path) if os.path.isdir(os.path.join(base_path, dir_name))}
+    subtitle_dirs = {dir_name for dir_name in os.listdir(dest_base_path) if os.path.isdir(os.path.join(dest_base_path, dir_name))}
+
+    # Get the set of directories in outDirectories that don't have a corresponding directory in subtitleDirectories
+    dirs_to_process = out_dirs - subtitle_dirs
+
+    for dir_name in dirs_to_process:
         dir_path = os.path.join(base_path, dir_name)
 
         # Check if the directory has a transcription.txt
-        if os.path.isdir(dir_path) and 'transcription.txt' in os.listdir(dir_path):
+        if 'transcription.txt' in os.listdir(dir_path):
             with open(os.path.join(dir_path, 'transcription.txt'), 'r') as f:
                 transcript = f.read()
-            print(dir_path)
+
             # Convert the transcript to SRT format
             srt_content = transcript_to_srt(transcript)
 
@@ -59,3 +68,6 @@ def convert_transcriptions_to_srt():
             # Write to the new subtitle.srt file
             with open(os.path.join(dest_dir, 'subtitle.srt'), 'w') as f:
                 f.write(srt_content)
+    
+    sanitize_subtitle_directories()
+

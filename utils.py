@@ -1,11 +1,6 @@
 import os
 import csv
 import shutil
-# Constants
-INDEX_DIR = "index_dirWithTimestamps_final"
-URLS_DETAILS_CSV = "urlsAndDetails.csv"
-COMPARISONS_CSV = "downloadComparisons.csv"
-TXT_DIRECTORY= "outDirectories"
 
 # Constants
 INDEX_DIR = "index_dirWithTimestamps_final"
@@ -13,17 +8,32 @@ URLS_DETAILS_CSV = "urlsAndDetails.csv"
 COMPARISONS_CSV = "downloadComparisons.csv"
 TXT_DIRECTORY = "outDirectories"
 
-def recursive_clean(s):
-    """Recursively clean the string."""
-    new_s = s.replace("/", " ").replace(",", " ").replace("  ", " ")
-    if new_s == s:
-        return s
-    return recursive_clean(new_s)
+def clean_folder_name(s):
+    """Clean the string of invalid characters."""
+    # List of invalid characters
+    invalid_chars = ['<', '>', ':', '"', '/', '\\', '|', '?', '*', ',']
+
+    # Replace invalid characters and consecutive spaces
+    while any(char in s for char in invalid_chars) or '  ' in s:
+        for char in invalid_chars:
+            s = s.replace(char, ' ')
+        s = s.replace('  ', ' ')
+
+    # Remove leading and trailing whitespaces
+    s = s.strip()
+
+    # Remove trailing periods
+    while s.endswith('.'):
+        s = s[:-1]
+    
+    return s
+
+
 
 def clean_and_rename_directory(dir_path):
     """Clean the directory name and rename if necessary."""
     original_name = os.path.basename(dir_path)
-    cleaned_name = recursive_clean(original_name)
+    cleaned_name = clean_folder_name(original_name)
 
     if original_name != cleaned_name:
         new_path = os.path.join(os.path.dirname(dir_path), cleaned_name)
@@ -69,6 +79,26 @@ def compare_directories_to_csv():
         for title in missing_in_dir:
             writer.writerow(["In CSV:", title])
             print(title + "  in csv")
+def clean_csv_column1(filename):
+    # Read the CSV contents
+    with open(filename, 'r', newline='', encoding='utf-8') as csvfile:
+        reader = csv.reader(csvfile)
+        data = list(reader)
+
+    # Clean the first column of each row
+    for row in data:
+        if row:  # Check if the row isn't empty
+            row[0] = clean_folder_name(row[0])
+
+    # Write the cleaned data back to the CSV
+    with open(filename, 'w', newline='', encoding='utf-8') as csvfile:
+        writer = csv.writer(csvfile)
+        writer.writerows(data)
+
+
+def clean_csvs():
+    clean_csv_column1(URLS_DETAILS_CSV)
+    clean_csv_column1("processed_streams.csv")
 
 def recursive_traverse(dir_path, full_name, processed_directories):
     """Recursively traverse directories to find the transcription.txt file and the accumulated full name."""
@@ -94,7 +124,7 @@ def fix_stacked_directories():
         dir_path = os.path.join(base_path, dir_name)
         if os.path.isdir(dir_path):
             transcription_path, full_name = recursive_traverse(dir_path, dir_name, processed_directories)
-            full_name = recursive_clean(full_name)
+            full_name = clean_folder_name(full_name)
             if transcription_path:
                 full_path = os.path.join(base_path, full_name)
                 if not os.path.exists(full_path):
@@ -178,10 +208,9 @@ def extract_titles_from_csv(csv_path=URLS_DETAILS_CSV):
 
 def compare_directories_to_csv():
     """Compare directory names to CSV titles and write discrepancies to downloadComparisons.csv."""
-    
+    print("Comparing directories to csv")
     transcription_directories = collect_transcription_directories()
     csv_titles = extract_titles_from_csv()
-
     # Extract directory names only (without full path)
     dir_names = [dir_tuple[0] for dir_tuple in transcription_directories]
 
@@ -201,6 +230,25 @@ def compare_directories_to_csv():
         for title in missing_in_dir:
             writer.writerow(["In CSV:", title])
             print(title + "  in csv")
+
+def sanitize_subtitle_directories(path="subtitleDirectories"):
+    # Ensure the directory exists
+    if not os.path.exists(path):
+        print(f"'{path}' does not exist.")
+        return
+
+    for folder_name in os.listdir(path):
+        full_path = os.path.join(path, folder_name)
+        if os.path.isdir(full_path):
+            new_folder_name = clean_folder_name(folder_name)
+            new_full_path = os.path.join(path, new_folder_name)
+            if full_path != new_full_path:
+                # If sanitized directory already exists, remove the unclean directory
+                if os.path.exists(new_full_path):
+                    shutil.rmtree(full_path)
+                    continue
+                else:
+                    os.rename(full_path, new_full_path)
 if __name__ == "__main__":
     compare_directories_to_csv()
     generate_missing_urls_file()
