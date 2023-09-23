@@ -12,7 +12,7 @@ git clone https://github.com/BEF-BEF/Jerma.git
 cd Jerma
 python3 main.py
 ```
-You may need to replace `python3` with `python` and `pip3` with `pip` depending on how your Python was installed. 
+You may need to replace `python3` with `python` or `pip3` with `pip` depending on how your Python was installed. 
 
 This will index all of the pre-transcribed files which will take a few minutes the first time and then prompt you to input a search term. After the first run, the files have already been indexed so it's much faster.
 
