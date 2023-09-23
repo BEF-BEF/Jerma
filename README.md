@@ -5,7 +5,7 @@ make sure git is installed (https://git-scm.com/downloads)
 
 open a terminal and run: 
 ```
-pip3 install nltk whoosh
+pip3 install nltk whoosh google-api-python-client
 git clone https://github.com/BEF-BEF/Jerma.git
 cd Jerma
 python3 main.py
