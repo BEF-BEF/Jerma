@@ -9,12 +9,12 @@ from stupidGithubTooManyDirectories import combine_directories, split_directorie
 # The commented out lines are for advanced users looking to transcribe videos. It's a bit complex to set up.
 def main():
 
-    # Advanced: download new videos for transcription
-    # Load the YouTube API key from a file. You'll need this and cookies.txt in a directory called secrets
-    API_KEY = load_secret_from_file("secrets/api_key.txt")
-    youtube = build('youtube', 'v3', developerKey=API_KEY)
-    # Write all info of all videos uploaded by JermaStreamArchive to a CSV file. Uses JermaStreamArchive's Channel ID
-    write_videos_to_csv(youtube, "UC2oWuUSd3t3t5O3Vxp4lgAA", "urlsAndDetails.csv")
+    # # Advanced: download new videos for transcription
+    # # Load the YouTube API key from a file. You'll need this and cookies.txt in a directory called secrets
+    # API_KEY = load_secret_from_file("secrets/api_key.txt")
+    # youtube = build('youtube', 'v3', developerKey=API_KEY)
+    # # Write all info of all videos uploaded by JermaStreamArchive to a CSV file. Uses JermaStreamArchive's Channel ID
+    # write_videos_to_csv(youtube, "UC2oWuUSd3t3t5O3Vxp4lgAA", "urlsAndDetails.csv")
 
 
     combine_directories()
@@ -29,11 +29,11 @@ def main():
     check_and_create_directories()
     initialize_csv()
 
-    # Advanced: Transcribe missing videos
-    process_urls()
+    # # Advanced: Transcribe missing videos
+    # process_urls()
 
-    # Converts new transcriptions.txt to srt for youtube subtitles
-    convert_transcriptions_to_srt()
+    # # Converts new transcriptions.txt to srt for youtube subtitles
+    # convert_transcriptions_to_srt()
 
 
     # Index content for fast searching. It'll take a while the first time you run it then it's fast.
