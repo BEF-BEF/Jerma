@@ -63,7 +63,7 @@ URL: https://www.youtube.com/watch?v=wODQR5JIElU&t=8344s
 
 ## complete faster-whisper installation documentation if you want to transcribe new videos
 
-Uncommented lines function on my Ubuntu pc but require more complicated installs and have not been fully tested on Windows. I don't have those installs fully documented haha. Here's a start though.
+Commented lines function on my Ubuntu pc but require more complicated installs and are not planned to be tested on Windows. I don't have those installs fully documented. Here's a start though:
 
 Using Ubuntu or another Linux distro is highly recommended. NVIDIA GPU required.
 
