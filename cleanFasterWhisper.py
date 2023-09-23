@@ -40,7 +40,7 @@ def trim_audio(input_file, output_file, trim_duration=300):
 
 def is_url_processed(csv_file, url):
     """Check if a URL has been processed by checking the CSV file."""
-    with open(csv_file, "r") as f:
+    with open(csv_file, "r", encoding='utf-8') as f:
         reader = csv.reader(f)
         next(reader, None)  # Skip the header
         for row in reader:
@@ -48,6 +48,7 @@ def is_url_processed(csv_file, url):
                 if row[0] != "ERROR":
                     return True
     return False
+
 
 def transcribe_audio(file_path, output_dir):
     """Transcribe an audio file using the Faster Whisper model."""
@@ -68,13 +69,13 @@ def check_and_create_directories():
     for dir_path in [CONFIG["audio_folder"], CONFIG["out_folder"]]:
         if not os.path.exists(dir_path):
             os.makedirs(dir_path)
-
 def initialize_csv():
-    with open(CONFIG["csv_name"], "a+", newline="") as f:
+    with open(CONFIG["csv_name"], "a+", newline="", encoding='utf-8') as f:
         writer = csv.writer(f)
         f.seek(0)
         if f.readline() == '':
             writer.writerow(["Title", "URL", "Processed", "Error", "Whisper Transcription Time (MM:SS)", "Total Processing Time (MM:SS)", "Device"])
+
 def write_to_csv(data):
     with open(CONFIG["csv_name"], "a+", newline="") as f:
         writer = csv.writer(f)
@@ -91,8 +92,9 @@ def process_urls():
     }
 
 
-    with open(CONFIG["url_file"], "r") as f:
+    with open(CONFIG["url_file"], "r", encoding='utf-8') as f:
         urls = f.read().splitlines()
+
 
     for url in urls:
         video_title = "ERROR"

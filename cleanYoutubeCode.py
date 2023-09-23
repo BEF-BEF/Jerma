@@ -4,7 +4,7 @@ import os
 from googleapiclient.discovery import build
 from utils import clean_folder_name
 def load_secret_from_file(filename):
-    with open(filename, "r") as file:
+    with open(filename, "r", encoding='utf-8') as file:
         return file.read().strip()
 
 def extract_video_id(url):
@@ -55,7 +55,7 @@ def get_channel_videos(youtube, channel_id):
 
 def video_exists_in_csv(video_id, output_filename):
     """Check if a video with the given ID already exists in the CSV."""
-    with open(output_filename, 'r', newline='') as f:
+    with open(output_filename, 'r', newline='', encoding='utf-8') as f:
         reader = csv.reader(f)
         for row in reader:
             if video_id in row:
@@ -67,11 +67,11 @@ def write_videos_to_csv(youtube, channel_id, output_filename):
     videos = get_channel_videos(youtube, channel_id)
     # Check if the file exists, if not create and write headers
     if not os.path.exists(output_filename):
-        with open(output_filename, "w", newline="") as f:
+        with open(output_filename, "w", newline="",encoding="utf-8") as f:
             writer = csv.writer(f)
             writer.writerow(["Title", "URL", "Duration", "Upload Date", "VideoID"])  # Headers
 
-    with open(output_filename, "a", newline="") as f:
+    with open(output_filename, "a", newline="",encoding="utf-8") as f:
         writer = csv.writer(f)
 
         for video in videos:

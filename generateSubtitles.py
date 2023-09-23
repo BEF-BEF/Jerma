@@ -54,7 +54,7 @@ def convert_transcriptions_to_srt():
 
         # Check if the directory has a transcription.txt
         if 'transcription.txt' in os.listdir(dir_path):
-            with open(os.path.join(dir_path, 'transcription.txt'), 'r') as f:
+            with open(os.path.join(dir_path, 'transcription.txt'), 'r', encoding='utf-8') as f:
                 transcript = f.read()
 
             # Convert the transcript to SRT format
@@ -66,7 +66,7 @@ def convert_transcriptions_to_srt():
                 os.makedirs(dest_dir)
 
             # Write to the new subtitle.srt file
-            with open(os.path.join(dest_dir, 'subtitle.srt'), 'w') as f:
+            with open(os.path.join(dest_dir, 'subtitle.srt'), 'w',encoding="utf-8") as f:
                 f.write(srt_content)
     
     sanitize_subtitle_directories()

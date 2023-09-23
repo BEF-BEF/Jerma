@@ -38,7 +38,6 @@ def main():
 
     # Index content for fast searching. It'll take a while the first time you run it then it's fast.
     
-    
     index_content()
     search_term = input("Please enter a search term: ")
 

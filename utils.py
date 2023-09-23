@@ -158,7 +158,7 @@ def extract_missing_titles_from_comparisons(file_name="downloadComparisons.csv")
     """Extract titles with 'In CSV:' discrepancy from the comparisons CSV."""
     missing_titles = []
     
-    with open(file_name, 'r', newline='') as csv_file:
+    with open(file_name, 'r', newline='', encoding='utf-8') as csv_file:
         reader = csv.reader(csv_file)
         next(reader)  # Skip header
         for row in reader:
@@ -174,11 +174,14 @@ def extract_title_to_url_mapping(file_name="urlsAndDetails.csv"):
     """Create a dictionary with titles as keys and URLs as values."""
     title_to_url = {}
     
-    with open(file_name, 'r', newline='') as csv_file:
+    with open(file_name, 'r', newline='', encoding='utf-8') as csv_file:
         reader = csv.reader(csv_file)
         next(reader)  # Skip header
         for row in reader:
             title_to_url[row[0]] = row[1]  # Assuming Title is in the first column and URL in the fifth
+            if "Alter Ego" in file_name:
+                print("Row 0: " + str(row[0]))
+                print("Row 1: " + str(row[1]))
             
     return title_to_url
 
@@ -188,7 +191,7 @@ def generate_missing_urls_file():
     
     missing_urls = [title_to_url[title] for title in missing_titles if title in title_to_url]
     
-    with open('missingURLS.txt', 'w') as f:
+    with open('missingURLS.txt', 'w',encoding="utf-8") as f:
         for url in missing_urls:
             f.write(url + '\n')
     
