@@ -1,6 +1,6 @@
 # Quick Start Tutorial
 
-Advanced commands are commented out. This quick start tutorial will enable you to search the transcriptions.
+Advanced commands are commented out on main.py. This quick start tutorial will enable you to search the transcriptions. See the bottom of page if you want to transcribe videos yourself.
 
 - Install Python3 from [this link](https://www.python.org/downloads/release/python-3114/). Ensure you add Python to your system path during installation as it will save you a lot of typing.
 
