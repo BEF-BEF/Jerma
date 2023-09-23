@@ -1,5 +1,7 @@
 # Quick Start Tutorial
 
+Advanced commands are commented out. This quick start tutorial will enable you to search the transcriptions.
+
 - Install Python3 from [this link](https://www.python.org/downloads/release/python-3114/). Ensure you add Python to your system path during installation as it will save you a lot of typing.
 
 - Ensure [git](https://git-scm.com/downloads) is installed on your system.
