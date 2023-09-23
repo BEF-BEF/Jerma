@@ -73,5 +73,5 @@ Get a youtube API key: https://developers.google.com/youtube/v3/getting-started
 
 Get cookies.txt: I used cookies.txt extension in firefox
 
-Look at [faster whisper](https://github.com/guillaumekln/faster-whisper)https://github.com/guillaumekln/faster-whisper for installation requirements. It's a bit intensive.
+Look at [faster whisper's github](https://github.com/guillaumekln/faster-whisper) for installation requirements. It's a bit intensive.
 
