@@ -23,7 +23,7 @@ def search_indexed(query_str):
     
     with ix.searcher() as searcher:
         query = QueryParser("content", CONFIG["schema"]).parse(query_str)
-        results = searcher.search(query)
+        results = searcher.search(query, limit=100)
         
         title_to_urls = extract_title_to_url_mapping()
         
