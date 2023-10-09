@@ -4,6 +4,7 @@ outDirectories/Jerma Streams - Cooking Simulator (Part 2)/transcription.txt
 outDirectories/Jerma Streams - Tier Lists (Part 10)/transcription.txt
 outDirectories/Jerma Streams - Sniper Ghost Warrior Contracts/transcription.txt
 outDirectories/Jerma Streams - Devil May Cry 3 Dante's Awakening (Part 2 Finale)/transcription.txt
+outDirectories/Jerma Streams - Resident Evil 4 Remake (Part 6)/transcription.txt
 outDirectories/Jerma Streams - Cook Serve Delicious!/transcription.txt
 outDirectories/TF2 Live Engineer Session Hoodoo w Boo and St3alth/transcription.txt
 outDirectories/Jerma Streams - The Jackbox Party Pack (Part 5) [with Ster and Ashley]/transcription.txt
@@ -1419,6 +1420,7 @@ outDirectories/Jerma Streams - Glover/transcription.txt
 outDirectories/TF2 Spy Final Exams Test Taking Strats/transcription.txt
 outDirectories/Super House of Dead Ninjas Slash Platform Freakshow! [What's on Steam ]/transcription.txt
 outDirectories/Grandpa Plays Insaniquarium/transcription.txt
+outDirectories/Jerma Streams - Party Animals/transcription.txt
 outDirectories/I Am The Pinball Lord of The Rings Wizard/transcription.txt
 outDirectories/Jerma Streams - AI Dungeon (Part 2) and Talk to Transformer (Part 4)/transcription.txt
 outDirectories/TF2 - Boost Bonk Bam!/transcription.txt
